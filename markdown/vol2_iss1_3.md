@@ -1,0 +1,319 @@
+## Guarantees and Capital Infusions in Response to Financial Crises A: Haircuts and Resolutions[1] 
+
+June Rhee[2] Andrew Metrick[3] 
+
+Yale Program on Financial Stability Case Study 2014-3a-v1 July 30, 2015 
+
+## **Abstract** 
+
+After the mortgage market meltdown in mid-2007 and during the financial crisis in 2008, major financial institutions around the world were on the verge of collapsing one after another. Faced with these troubles, the government had to respond quickly to contain the crisis as efficiently as possible. It was, however, limited in resources, time, and experience. To make matters worse, the complexity and opaqueness of the financial market and these institutions greatly affected the government’s ability to design an efficient and consistent method to contain the crisis. Shortly after Lehman Brothers filed for bankruptcy on September 15, 2008, American International Group (AIG) was also in deep trouble and close to failure when the Federal Reserve decided to bailout the institution. Washington Mutual (WaMu) and Wachovia were also facing collapse due to their exposure in risky mortgage products around the same time. WaMu eventually closed, and the Federal Deposit Insurance Corporation (FDIC), appointed as a receiver, sold parts of its business to JP Morgan Chase & Co. while equity holders and debtors of the institution were left to take a major haircut. On the other hand, Wachovia was able to avoid the same fate as WaMu through a systemic risk exception under the FDIC Improvement Act of 1991. This provision allowed the FDIC to stand behind Wachovia with Citigroup. This case provides details on the background and government response for each troubled financial institution during the financial crisis, and the rationale behind the design of each response. 
+
+## 
+
+> 1 This case study is one of three Yale Program on Financial Stability (YPFS) case modules considering the Guarantees and Capital Infusions in Response to Financial Crises. The others are: 
+
+- _Guarantees and Capital Infusions in Response to Financial Crises B: U.S. Guarantees During the Global Financial Crisis._ 
+
+- _Guarantees and Capital Infusions in Response to Financial Crises C: U.S. 2009 Stress Test._ 
+
+Cases are available from the _Journal of Financial Crises_ . 
+
+> 2  Director, MMS in Systemic Risk and Senior Editor, Yale Program on Financial Stability (YPFS), Yale School of Management. 
+
+> 3  Janet L. Yellen Professor of Finance and Management, and YPFS Program Director, Yale School of Management. 
+
+
+## **1. Introduction** 
+
+After the mortgage market meltdown in mid-2007, the U.S. credit market continued to deteriorate throughout 2008, and major financial institutions were collapsing like dominos. The government had to act quickly to respond to each trouble. In March 2008, the Federal Reserve Bank of New York (FRBNY) provided financing to facilitate JPMorgan Chase & Co.’s acquisition of the Bear Stearns Companies Inc. In June 2008, the Federal Reserve approved Countrywide Financial Corporation’s acquisition by Bank of America. In July 2008, the Office of Thrift Supervision closed Indy Mac Bank, and the FRBNY was given the authority to lend to Fannie Mae and Freddie Mac, the two largest mortgage lenders. 
+
+In September 2008, the financial market started to deteriorate more rapidly as Fannie Mae and Freddie Mac fell into government conservatorship being supported by taxpayer dollars. On September 15, 2008, Bank of America announced its intent to purchase Merrill Lynch, which was deep in troubles due to its exposure to residential mortgage-backed securities. On the same day, however, Lehman Brothers faced a different fate and filed for bankruptcy, the largest bankruptcy case in U.S. history. A private-sector consortium consisting of 12 major financial institutions attempted to save Lehman Brothers, but this effort failed in the end. The next day the Reserve Fund, a money market fund with large exposure to Lehman Brothers, “broke the buck” when the price of its shares fell below $1 per share. Further discussion on the money market fund can be found Rhee et al. 2015. 
+
+Almost at the same time as Lehman Brothers’ collapse, American International Group (AIG) also faced the threat of a liquidity crisis itself. This time the Federal Reserve decided to step in, using its authority to provide support in “unusual and exigent” circumstances under the Federal Reserve Act. It allowed the FRBNY to extend a line-of-credit to AIG to prevent it from going bankrupt, and later explained that AIG was different from Lehman Brothers in terms of the systemic risk it imposed on the financial market and system. On the other hand, there are views disagreeing with the rationale behind such different government actions. 
+
+In the meantime, the Federal Deposit Insurance Corporation (FDIC) was dealing with troubles at Washington Mutual (WaMu) and Wachovia. After the mortgage meltdown, WaMu and Wachovia both suffered large losses from their investments in subprime and Alt-A residential mortgages and runs on their deposits. WaMu was eventually closed down by the Office of Thrift Supervision (OTS), and the FDIC was appointed as its receiver under the provisions of the Federal Deposit Insurance Act (FDI Act). The FDIC sold virtually all of the assets and liabilities of WaMu to JPMorgan Chase. Depositors of WaMu were fully protected. Debt holders of WaMu did incur losses, and when the WaMu holding company filed bankruptcy on September 26, 2008, its equity holders and debt holders also incurred losses. There were no private equity holders in WaMu. 
+
+Wachovia was facing similar difficulties around the time WaMu closed. The government decided to take a different course for Wachovia and invoke a systemic risk exception under the FDIC Improvement Act of 1991 (FDICIA) in order to prevent losses to creditors. The FDIC Board of Directors initially approved a sale of Wachovia through a closed bank resolution to Citigroup on September 29, 2008, under the FDIC’s systemic risk authority. However, Wachovia’s Board of Directors subsequently decided to approve a sale—with no FDIC assistance—to Wells Fargo. Although the FDIC Board publicly stated it was ready to stand behind its assisted transaction with Citigroup, Wachovia consummated the sale to Wells Fargo. Since the purchase by Wells Fargo occurred without an FDIC receivership, the creditors—including debt holders—of Wachovia suffered no losses. 
+
+
+These different responses by the government during the financial crisis each had its rationale for the design. The decisions have been controversial to some as reflected in differing views provided to the Financial Crisis Inquiry Commission (FCIC). On the one hand, some criticized the failure to invoke the systemic exception for WaMu as inconsistent with the willingness to do so for Wachovia. On the other hand, from the perspective of the FDIC those resolutions followed the policy goals required of the FDIC. The FDIC argued that WaMu did not justify a systemic risk determination and the resolution swiftly transferred banking operations intact to JP Morgan Chase at no loss to the FDIC’s Deposit Insurance Fund. Under the FDI Act, the FDIC normally is required to resolve banks under the resolution method that is “least costly” to the Deposit Insurance Fund. The FDIC can depart from this standard only if it concludes, with the concurrence of the Board of Governors of the Federal Reserve and the Treasury Secretary, that resolving a bank under this “least costly” resolution method would “have serious adverse effects on economic conditions or financial stability” and a different action would “avoid or mitigate such adverse effects.”[4] Inevitably, this provision requires the FDIC to prefer the “least costly” resolution transaction and only to rarely use its authority go provide additional support from the Deposit Insurance Fund to resolve a failing bank. In both the WaMu and Wachovia transactions, the FDIC’s Deposit Insurance Fund suffered no losses. However, WaMu and Wachovia illustrate how the situations, and evaluations, of two large banks could create different consequences for debt holders. 
+
+A similar decision is required under the new special insolvency regime for failing systemically important financial institutions (SIFIs) under the Orderly Liquidation Authority (OLA) provisions of Title II of the Dodd-Frank Wall Street Reform and Consumer Protection Act (Dodd-Frank Act). OLA is designed exclusively to address the failure of SIFIs in cases where such an insolvency would have serious adverse effects on the U.S. economy.[5] It is important to note that OLA supplements—rather than replaces—existing insolvency regimes. While there is no “least costly” requirement, OLA is designed to be used rarely and only if the normal insolvency process—usually the Bankruptcy Code—would create systemic risks. OLA remains untested. 
+
+The remainder of the case is organized as follows: Section 2 provides details on the troubles of AIG and discusses the rationale behind the AIG bailout. Section 3 focuses on the resolution of WaMu, and Section 4 describes the government’s response to Wachovia’s troubles and provides comparison with WaMu’s troubles. Section 5 provides legally acceptable government actions under the newly established regulatory regime. 
+
+## **Questions** 
+
+1. What was the difference between the Lehman Brothers and AIG situations that led to different response by the government? If AIG raced to file for bankruptcy before Lehman Brothers failed, would AIG been left to file for bankruptcy as Lehman Brothers did? 
+
+2. Was the initial line of credit extended to AIG by the government based solely on the private sector consortium’s term sheet? How did the Federal Reserve rationalize that the initial credit amount would be enough, and why did it not seek to incorporate other assistance features such as a guarantee or private sector involvement? 
+
+__________________________________________________________________ 
+
+> 4 12 U.S.C. §1823(c)(4)(C). 
+
+> 5 Dodd-Frank Wall Street Reform and Consumer Protection Act of 2010, Title II—Orderly Liquidation Authority, codified at 12 U.S.C. §§5381-5397. 
+
+
+3. In contrast to the government’s more forceful imposition of limits and conditions during the bailout of other institutions, the FRBNY took a less forceful stance in dealing with AIG credit default swap counterparties during the restructuring of AIG, i.e. allowing them not to take on a haircut (counterparties taking less than 100 cents on the dollar in exchange for terminating CDS contracts with AIG). What was the reason behind this and was this decision affected by the fact that the Federal Reserve was not the primary regulator of AIG? 
+
+4. An amendment to Section 13(3) of the Federal Reserve Act by the Dodd-Frank Wall Street Reform and Consumer Protection Act (Dodd-Frank Act) now may limit the Federal Reserve’s power in bailing out future AIGs. How will future policy makers be able to deal with an AIG-like problem? 
+
+5. What were the FDIC’s expectations of the effect on the financial market when it decided to resolve WaMu? Did the FDIC expect closing WaMu may further exacerbate the panic in the market? 
+
+6. What was decidedly different for Wachovia from WaMu in invoking the systemic risk exception? Unlike they did with Wachovia, why didn’t the Federal Reserve and the Treasury push for a systemic risk exception at WaMu? Did the experience and market reaction from WaMu’s failure affect the decision to save Wachovia? 
+
+7. Unlike Wachovia, AIG’s bailout did not have private sectors’ involvement. Why did the Federal Reserve take this course of design in AIG bailout? 
+
+8. In comparing the government’s responses to different institutions, should there be prescribed criteria in deciding which organization imposes systemic risks, and if so, how could this help in preventing and responding to a future crisis? 
+
+9. What were the hurdles in designing the Resolution Plan and the OLA, and do they effectively solve the problem of too-big-to-fail institutions? 
+
+10. In preventing and containing a future crisis, what would be the positive and negative aspects of current regulations requiring a Resolution Plan and limiting government’s power to bail out a financial institution under the OLA, and how will they change government’s approach in responding to the crisis? 
+
+## **2.  Bailout of AIG before TARP** 
+
+## **Troubles at AIG** 
+
+By 2005, AIG was one of the largest and most complex financial firms in the world. At its peak, AIG had more than $1 trillion in assets, and was the largest provider of conventional insurance in the world, with approximately $75 million individual and corporate customers in over 130 countries. Those insurance activities were organized in separate subsidiaries that were regulated and supervised independently by state and foreign regulators (COP 2010). 
+
+In addition to its insurance business, the parent holding company, AIG Group, Inc., was largely unregulated and engaged in a broad range of financial activities that went well beyond the business of life insurance and property and casualty insurance. However, the holding company’s regulator, the Office of Thrift Supervision (OTS) did not take on a 
+
+
+comprehensive approach to AIG holding company’s operations and its influence on all of AIG’s business, but rather focused on ensuring that the overall holding company’s business did no harm to its thrift subsidiary. The FRBNY and Treasury now acts as AIG’s de facto regulators (Ibid., 2010). 
+
+AIG’s business was largely interlocked. For example, AIG’s securities lending operations involved securities pooled from AIG’s life insurance subsidiaries. Despite such complex features of the business and such a wide range and large number of counterparties exposed to AIG business, fragmented oversight by various limited regulators enabled certain key businesses to go unregulated. AIG’s Financial Products subsidiary (AIGFP) was one of such example. AIGFP had expanded rapidly into some of the newest, riskiest, and most complex parts of the financial system, using the holding company’s strong credit rating, which was based on the insurance subsidiaries. AIGFP became one of the largest providers of credit default swaps (CDSs) on collateralized debt obligations (CDOs) backed by subprime mortgages. CDSs are essentially insurance against defaulting collaterals of CDOs. Despite the size of this business, CDSs fell outside of the scope of various regulators overseeing AIG operations. Former Acting OTS director Scott M. Plakoff acknowledged that “OTS did not foresee the extent of risk concentration and profound systemic impact CDS caused within AIG” (Ibid., 2010). 
+
+Figure 1 shows AIG’s aggregate revenues generated during 2004-06 by its business segments and region. Figure 2 summarizes the primary operations of AIG business and applicable domestic regulatory bodies for each operation in 2008. 
+
+[FIGURE id=vol2_iss1_3_f1 type=figure label="Figure 1" file=figure_1.png caption="Aggregate Revenue by Segment and by Geographic Region in 2004-2006"]
+### **Figure 1: Aggregate Revenue by Segment and by Geographic Region in 2004-2006**
+![Figure 1](assets/vol2_iss1_3/figure_1.png)
+
+
+_Source: American International Group, Inc., Form 10-K for the Fiscal Year Ended December 31, 2006, and Form 10-K for the Fiscal Year Ended December 31, 2004._ 
+
+
+[FIGURE id=vol2_iss1_3_f2 type=figure label="Figure 2" file=figure_2.png caption="AIG Primary Business Segments"]
+### **Figure 2: AIG Primary Business Segments**
+
+|General Insurance|Life Insurance &<br>Retirement Services|Financial Services|Asset Management|
+|---|---|---|---|
+|Property/casualty|Individual and group|Capital markets|Investment|
+|insurance|life insurance||advisory|
+|||Consumer finance||
+|Commercial/industrial|<br>Retirement services||Brokerage|
+|insurance||Insurance premium||
+||Annuities|finance|Private banking|
+|Special insurance and||||
+|reinsurance||Aircraft leasing||
+||Key Regulators|||
+|50 state insurance|50 state insurance|OTS|SEC|
+|regulators|regulators|||
+|||Securities Exchange||
+|||Commission (SEC)||
+
+
+
+_Source: The AIG Rescue, Its Impact on Markets, and the Government’s Exit Strategy, June Oversight Report, Congressional Oversight Panel, June 10, 2010._ 
+
+The primary cause of AIG’s liquidity crisis came from AIGFP. AIGFP recognized $11.1 billion in unrealized market valuation losses on its CDS contracts for the fourth quarter of 2007, and the head of that business would resign. In late June 2008, it recognized $13.5 billion in unrealized losses against its residential mortgage backed securities and other structured securities investments. In July, then-Chairman of AIG board Robert Willumstad spoke to then-president of FRBNY Timothy Geithner about the possibility of accessing the Federal Reserve’s Discount Window. AIG continued its efforts to address the liquidity problem but the efforts fell short. Its problems were now placed in the midst of the broader context of the unfolding financial crisis, such as troubles and interventions in Bear Stearns, Countrywide Financial Corporations, Fannie Mae and Freddie Mac, Merrill Lynch, the Reserve Fund, and the bankruptcy of Lehman Brothers. AIG was unable to obtain short-term or long-term financing in the public-debt markets, and with its inability to roll over commercial paper coming due, AIG’s solvency was under immediate threat (Ibid., 2010). 
+
+On September 12, 2008, AIG officials informed the Federal Reserve, the Treasury, and the New York State insurance regulators of its fatal liquidity problems. However, the government was preoccupied in dealing with the problems at Lehman Brothers, and on the morning of September 15, Lehman Brothers announced that it was filing for bankruptcy. At this point the focus of top government officials turned to AIG (Ibid., 2010). 
+
+On the same day Lehman Brothers filed for bankruptcy, a private sector bailout was discussed for AIG in a meeting held by the FRBNY, but there was a sense among the bankers assembled that AIG’s problems were “too big for the private-sector banks, especially within 
+
+
+a limited timeframe created by AIG’s swift descent and the prevailing economic conditions” (Ibid., 2010). Two reasons as to why the private-sector rescue effort collapsed were given to the government officials: (i) the banks could not establish with any precision what AIG’s liquidity needs were, and (ii) after the Lehman Brothers’ bankruptcy, the combination of AIG’s rising liquidity needs and increased concern about capital preservation by large financial institutions caused them to pull back on their willingness to participate (Secretary Testimony 2010). 
+
+On September 16, 2008, the Federal Reserve authorized the FRBNY to initially extend a line of credit of $85 billion to AIG. The Federal Reserve stated at the time that its goal was to provide AIG with sufficient liquidity to meet its obligations and to allow for the orderly disposition of certain AIG businesses. (FRBNY is owned by its member banks and not the federal government, but it routinely acts as an agent of the Federal Reserve in financial market transactions.) The term sheet that the private-sector banks had developed during the private bailout discussion became the template for the AIG rescue package that the FRBNY proceeded to put together. FRBNY admitted that it came up with the $85 billion amount by simply taking the private sector’s $75 billion term sheet and adding $10 billion as a cushion. This cushion was added in anticipation of looming liquidity concerns, and because the Federal Reserve did not want to have to increase the line of credit at a later date[6] (COP 2010). 
+
+The Federal Reserve had no role in supervising or regulating AIG, but it was the only governmental entity at the time with the legal authority to provide liquidity to the financial system in emergency and exigent circumstances. Section 13(3) of the Federal Reserve Act provided that the Federal Reserve Board “may authorize any Federal reserve bank . . . to discount . . . notes, drafts, and bills of exchange” for “any individual, partnership, or corporation” if three conditions are met. First, the Board of Governors must determine that “unusual and exigent” circumstances exist by the affirmative vote of at least five members. Second, the notes, drafts, and bills of exchange must be secured to the satisfaction of the Federal Reserve bank. Third, the Federal Reserve bank must determine that the person or institution involved cannot secure adequate credit from other banking institutions. 
+
+It is worth noting that the Dodd-Frank Act now amends this section ensuring that any Federal Reserve emergency lending program or facility is for the purpose of providing liquidity to the financial system and not to aid an individual failing financial company. The rescue of AIG was ultimately led by the FRBNY, acting on behalf of the Board of Governors of the Federal Reserve and in close consultation with Treasury. As mentioned previously, although the Treasury did not have regulatory authority to intervene nor finance the AIG bailout at that time, the Treasury was closely involved in the discussions about the appropriate policy response to the unfolding AIG crisis (Ibid., 2010). 
+
+The Treasury was directly involved in discussions of AIG’s conditions and the consequences for the financial system of an AIG failure, but it had little if any authority to provide funds to AIG at the time. Emergency Economic Stabilization Act of 2008 (EESA) was not enacted until October 3, 2008, and only then did the Treasury take on a greater role in the AIG rescue. Similarly, other AIG regulatory bodies, such as state insurance regulators and OTS, possessed oversight authority but lacked any legal authority to step in and provide funds and aid to the company. 
+
+__________________________________________________________________ 
+
+> 6 However, the combined commitment and assistance for AIG by the Treasury and the Federal Reserve ended up totaling $182 billion as of March 2009 (Treasury December 2012, available at http://www.treasury.gov/initiatives/financial-stability/TARPPrograms/aig/Documents/20121212_AIG_v8.jpg). 
+
+
+As discussed above, the Federal Reserve Act required that in order for the Federal Reserve to use its Section 13(3) authority, AIG needed to come up with sufficient collateral so that the lending by the Federal Reserve was secured to its satisfaction. In addition to this collateral, U.S. taxpayers received a 79.9% ownership stake in AIG. The FRBNY officials said that the government took this 79.9% ownership stake because it believed the taxpayer should receive the same terms and conditions that the private sector banks wanted in their bailout consortium term sheet (Ibid., 2010). 
+
+Additionally, the government’s offer required AIG's CEO to step down. Immediately after AIG agreed, the government began the process of changing the Board of Directors. According to the report by the Congressional Oversight Panel (COP), in designing the intervention, the government made sure that there were appropriately tough conditions that put the burden of failure on AIG's existing equity holders and management, and started the process of designing a comprehensive restructuring plan (Ibid., 2010). 
+
+Unfortunately, by September 30, 2008, 14 days after the approval of $85 billion, AIG had already drawn down approximately $61 billion of that money and in October the Federal Reserve Board approved additional lending by the FRBNY (Ibid., 2010). Prior to the AIG bailout, no such lending to non-depository institutions had occurred since the 1930s relying on Section 13(3) (Ibid., 2010). As of March 2009, AIG had received $182 billion in total from the Treasury and the Federal Reserve. On January 14, 2011, the FRBNY's assistance to AIG was terminated and its loans to AIG fully repaid. 
+
+## **Government’s Rationale and Criticisms on the Bailout** 
+
+When testifying about the AIG bailout in 2010, the Federal Reserve, the FRBNY, and the Treasury described their choice as “binary,” either allowing AIG to file for bankruptcy or providing it with liquidity (Ibid., 2010). They were concerned by the complexity and uncertainty of a potential bankruptcy procedure for AIG due to interconnected segments of different businesses. If AIG had filed for bankruptcy, (i) it constituted an event of default for AIG’s various derivative contracts that could have technically stopped collateral calls by counterparties but would have resulted in loss of trust in AIG business, and these counterparties were not subject to automatic stay under bankruptcy law; and (ii) the bankruptcy court would not have had jurisdiction over AIG’s insurance subsidiaries or other foreign subsidiaries without a sufficient connection to the United States, and this removed a substantial number of AIG’s businesses from the purview of the bankruptcy court (Ibid., 2010). 
+
+Not only was the complexity and uncertainty of a bankruptcy procedure a concern, but the Federal Reserve and the Treasury also reasoned that AIG’s failure would pose a systemic risk since (i) AIG was a major provider of credit default swaps on CDOs, an AIG failure could have exposed its counterparties to large losses and disrupted the operation of the payments and settlements system as a whole, and defaults on over $100 billion of debt and on trillions of dollars of derivatives would have adversely impacted numerous financial institutions and the financial system as a whole, negatively affecting investor confidence and further destabilizing the economy; (ii) AIG’s default could have triggered severe disruptions to an already distressed commercial paper market adversely impacting money market mutual funds since AIG had issued $20 billion in commercial paper to money market mutual funds, approximately four times as much as Lehman Brothers; (iii) there was fear that AIG’s failure could undermine an already fragile economy by weakening business and investor confidence (Secretary Testimony 2010). The government was also unclear how a bankruptcy filing by AIG would have impacted the company’s many counterparties or the financial system as a whole (COP 2010). 
+
+
+Further in distinguishing AIG’s situation from Lehman Brothers, the Federal Reserve’s Chairman Bernanke testified at a congressional hearing that “the troubles at Lehman had been well known for some time, and investors clearly recognized…that the failure of the firm was a significant possibility. Thus, we judged that investors and counterparties had had time to take precautionary measures.” On the other hand, he explained that since nobody knew the exposure of specific banks to AIG at that time, “confidence in the entire banking system would have plummeted, putting the whole system at risk” (FCIC August 31, 2010). 
+
+The Federal Reserve Board determined that, in the then-existing environment, “a disorderly failure of AIG could add to already significant levels of financial market fragility and lead to substantially higher borrowing costs, reduced household wealth, and materially weaker economic performance.” Chairman Bernanke said the Federal Reserve’s decision-making was driven by the “prevailing market conditions and the size and composition of AIG’s obligations,” as well as “AIG’s central role in a number of markets other firms use to manage risks, and the size and composition of AIG’s balance sheet.” He also stressed that an AIG failure would have also had detrimental impacts on market confidence in other areas, including state and local governments that invested with AIG, retirement plans that purchased insurance from AIG, and banks that extended loans and credit lines to the company (COP 2010). 
+
+Former Treasury Secretary Paulson testified that “if AIG had gone down, … we would have had a situation where Main Street companies, industrial companies of all sizes, would not have been able to raise money for their basic funding. And they wouldn’t have been able to pay their employees. They would have had to let them go. Employees wouldn’t have paid their bills. This would have rippled through the economy.” Furthermore, he added that had AIG failed, he believes that it “would have taken down the whole financial system and our economy. It would have been a disaster” (Ibid., 2010). 
+
+Former Treasury Secretary Geithner testified that the team [the Federal Reserve, the Treasury, and the New York State Insurance Department] “concluded that AIG’s failure would be catastrophic. AIG was much larger than Lehman, it was spread across more countries than Lehman, and while it posed many of the same basic risks as Lehman, they were actually greater because of AIG’s role as an insurance company.” He pointed out that history suggests that the withdrawal of a major underwriter from a particular market can have large, long-lasting effects on the households and businesses that rely on basic insurance protection (Secretary Testimony 2010). 
+
+Regardless of various testimonies by the government officials, a report by the COP in 2010 points out that the focus of the government’s systemic risk justification changed over time. In September 2008, neither the Federal Reserve nor the Treasury publicly expressed specific concern about the effect of bankruptcy at AIG on existing insurance policyholders. AIG’s insurance operations were viewed as generally sound, and it was only after the initial extension of line of credit by NYFRB that the Federal Reserve and Treasury began to voice concerns about the desire to preserve value at the insurance company subsidiary level and the consequences of the unraveling of AIG’s insurance subsidiaries on households and businesses. Beginning in March 2009, the government publicly raised concerns that a sudden loss of AIG’s insurance capacity could have severely disrupted the market, potentially creating a market capacity shortage and significant premium increases for consumers, businesses, and financial institutions. The report also states that, to some extent, at least some of the government’s justifications seem to have pivoted over time into a political argument with less factual support regarding the impact of an AIG failure on the insurance subsidiaries, retail sectors, and policyholders (COP 2010). 
+
+
+The same report also criticized that if AIG had sought bankruptcy protection and the government had become the debtor-in-possession (DIP) lender, it would have been in a powerful position to reorganize AIG’s business and obligations and terminate commercial contracts. It did not do so, however, and that choice had significant consequences in two respects: (i) the government could no longer condition financial assistance on the willingness of AIG’s creditors to accept discounts or other losses in performing under or closing out their contracts with AIG, and as a result all creditors were paid in full, and (ii) the government was not immediately able to reorganize any aspect of AIG’s business and some of the government cash ended up in the hands of counterparties (third of the AIG’s revenue is derived from East Asia; i.e. insurance companies in East Asia) that the American public might not have supported assisting (Ibid., 2010). 
+
+Additionally, the report found a lack of complete transparency at the time of the initial government intervention indicated that the government failed to follow a consistent and cohesive message with respect to its rationale for assisting AIG, calling into question the factors that were actually driving the decision-making at the various points in time that assistance was offered and restructured. It questioned whether the options for AIG problem were as binary as the government thought, and suggested that there may have been many options the FRBNY evidently did not consider, including a combined private/public rescue (which would have maintained some market discipline), a loan conditioned on counterparties granting concessions, and a short-term bridge loan from the FRBNY to provide AIG time for longer-term restructuring. Rather, providing a full government rescue with no shared sacrifice among the creditors of AIG, reinforced moral hazard, undermined the basic tenets of capitalism, and dramatically added to the public’s sense of a double standard between large and smaller financial institutions. According to the FRBNY, a hybrid of private-public approach was not considered because “[t]here was no time” and it was also felt that “that could be counterproductive, given what we were seeing in the markets at the time” (Ibid., 2010). 
+
+## **3. Resolution of WaMu** 
+
+Before its collapse, WaMu was the largest U.S. thrift and one of the ten largest U.S. depository institutions, with over $300 billion of assets. Its collapse was the largest bank failure in U.S. history (FCIC August 31, 2010) _._ After the mortgage market meltdown in mid-2007, however, WaMu suffered large losses from its investment in risky products—especially in subprime and Alt-A residential mortgages— and liberal underwriting. In the third quarter of 2007, WaMu was still profitable, but earnings were 73% less than the second quarter because of losses from its loan. During the fourth quarter of 2007 and the first quarter of 2008, WaMu suffered consecutive $1 billion quarterly losses. WaMu’s liquidity position improved temporarily in April 2008 through a $7 billion investment in WaMu’s holding company by a consortium led by the Texas Pacific Group (OIG 2010). 
+
+However, with the failure of IndyMac in July 2008, WaMu’s liquidity was further stressed as WaMu encountered significant deposit withdrawals and the Federal Home Loan Bank of San Francisco began to limit WaMu’s borrowing capacity. WaMu began to offer deposit rates in excess of competitors, in order to improve liquidity. With the collapse of Lehman Brothers on September 15, 2008, however, WaMu incurred net deposit outflow of $16.7 billion, creating a liquidity crisis for the institution. WaMu’s ability to raise funds was hindered by its borrowing capacity limits, share price decline, portfolio losses, and an anti-dilution clause tied to the $7 billion capital investment (Ibid., 2010). 
+
+
+On September 25, 2008, OTS closed WaMu and appointed the FDIC as its receiver. The FDIC sold WaMu to JPMorgan, and through this purchase JPMorgan acquired WaMu’s assets, assumed the qualified financial contracts and made a payment of $1.9 billion. Qualified financial contracts included swaps, options, futures, forwards, repurchase agreements, and any other qualified financial contract as defined in 12 U.S.C. Section 1821(e)(8)(D). Additionally, all depositors of WaMu were fully protected. In announcing WaMu’s sale, FDIC Chairman Bair stated that “For all depositors and other customers of Washington Mutual Bank, this is simply a combination of two banks,” and that “WaMu’s balance sheet and the payment paid by JPMorgan Chase allowed a transaction in which neither the uninsured depositors nor the insurance fund absorbed any losses” (FDIC Press Release 2008). Certain liabilities of WaMu, such as preferred stock, common stock, subordinated debt, and senior debt, on the other hand, were left in FDIC’s receivership and shared the losses of WaMu’s resolution (Schedule 2.1, Purchase and Assumption Agreement 2008). 
+
+The FDIC finally decided that using FDIC funds to protect unsecured creditors of WaMu Bank was not appropriate (FCIC 2011). In fact, neither the Federal Reseve nor Treasury took action, as would be required under the FDI Act, to pursue a systemic risk exception to the least costly requirement for WaMu. Wachovia and the FDI Act will be discussed further in the next section. In an inquiry by the FCIC in 2010, FDIC stated that it considered whether a systemic risk determination was appropriate in the case of WaMu, and ultimately, because an orderly least-cost resolution was feasible for the institution, such a determination was not needed for WaMu (FCIC Follow-Up Questions 2010). 
+
+FDIC Chairman Sheila Bair told the FCIC that “I absolutely do think that was the right decision. WaMu was not a well-run institution,” and characterized the resolution of WaMu as “successful.” Fed General Counsel Scott Alvarez told the FCIC that he agreed with Bair that “there should not have been intervention in WaMu.” On the other hand, Treasury's Neel Kashkari told the FCIC that “… in my judgment that was a mistake. . . . [A]t that time, the economy was in such a perilous state, it  [not intervening in WaMu] was like playing with fire.” 
+
+## **4. Saving Wachovia** 
+
+In early September 2008, the FDIC became increasingly concerned with the liquidity condition of Wachovia, which was experiencing difficulties due to mortgage market meltdown around the same time as WaMu. Its structured finance business was holding a considerable volume of subprime mortgages, syndicated credits with collateralized loan obligations, and commercial real estate credits, which were acquired or originated for inclusion in commercial mortgage-backed securitizations. Due to market conditions, these assets could not be easily sold. In addition to becoming illiquid, they also experienced increasing credit-quality problems, resulting in large mark-to-market valuation adjustments reflecting increased credit risk and higher liquidity premiums for the assets. 
+
+Following the bankruptcy of Lehman Brothers, Wachovia experienced significant deposit outflows totaling approximately $8.3 billion. Liquidity pressures on Wachovia increased when two regular Wachovia counterparties declined make a loan. Meanwhile, deposit outflows accelerated, $1.1 billion in asset-backed commercial paper and tri-party repurchase agreements could not be rolled over, and $3.2 billion in contingent funding was required on variable rate demand notes. On September 25, 2008, Wachovia management informed bank regulators that it was facing a near-term liquidity crisis (Corston 2010). A report by the FCIC in 2011 views the run on Wachovia as a “silent run” by uninsured 
+
+
+depositors and unsecured creditors sitting in front of their computers, rather than by depositors standing in lines outside bank doors (FCIC 2011). 
+
+On September 26, 2008, a day after WaMu’s closure, the FDIC invoked a systemic risk exception for Wachovia based on the FDIC Act. The FDIC Act mandates the FDIC to take the least-cost and prompt resolution approach when dealing with failing depository institutions. However, if both the FDIC Board and the Federal Reserve Board, by a vote of at least twothirds of their members and the Secretary of the Treasury, in consultation with the President, determine that the compliance with the least-cost requirement “would have serious adverse effect on economic conditions or financial stability” and that action or assistance other than the least-costly method would “avoid or mitigate such adverse effects,” the FDIC can bypass the least-cost course of action. This was the FDIC’s first exercise of the systemic risk exception since the establishment of the FDIC Act (Minutes of FDIC Meeting 2008). 
+
+In the meantime, Citigroup, Inc., and Wells Fargo performed due diligence in an attempt to acquire Wachovia in a private transaction, however, neither were able to reach definitive agreements. The FDIC entered into negotiations with Citigroup and Wells Fargo on September 28, 2008, and both banks submitted open bank assistance bids, but only the Citigroup proposal resulted in serious negotiations. The next day the FDIC announced Citigroup’s plan to acquire Wachovia’s assets and liabilities, including five depository institutions and assume senior and subordinated debt of Wachovia. The FDIC and Citigroup entered into a loss sharing arrangement on a pre-identified pool of loans. Under the agreement, Citigroup was to absorb up to $42 billion of losses on a $312 billion pool of loans, and the FDIC was to absorb losses beyond that. Citigroup in exchange granted the FDIC $12 billion in preferred stock and warrants to compensate the FDIC for bearing this risk (FCIC August 31, 2010). 
+
+The FDIC Staff recommended in its memo that the Board accept the bid of Citigroup, Inc., as “the least costly available method of dealing with the systemic risk” Wachovia imposed. Based on preliminary information, the staff estimated no loss to the Deposit Insurance Fund (FDIC Staff Memo 2008). Chairman Bair provided comfort that the FDIC’s funds would not suffer a loss from the Wachovia transaction. The Department of the Treasury already agreed that, if there are any losses from the Wachovia transaction, the Treasury would separately fund those so that the FDIC’s cash balance would not be depleted in any way. This was in contrast to the Treasury’s usual rule that the FDIC must spend down its entire cash balance before it can borrow from the Treasury (Minutes of FDIC Meeting 2008). 
+
+However, in early October Wells Fargo presented a sweeter deal to Wachovia that did not require either an FDIC receivership or any FDIC assistance. After a review by Wachovia’s Board, Wachovia’s directors and shareholders approved the Wells Fargo transaction (FCIC August 31, 2010). The new Wells Fargo transaction took place immediately after a change in federal tax regulation to encourage bank mergers took effect. Companies were allowed to shelter profits from taxation based on their past losses, but when a profitable company bought a company with losses, regulation historically limited the profitable company’s ability to shelter its income based on the acquired company’s losses. The change in tax regulation specifically removed this limit on the income banks can shelter based on the losses of acquired companies. 
+
+Citigroup officially walked away from the Wachovia transaction on October 9, 2008, ending talks with Wells Fargo on the matter (Citigroup 2008). Citigroup commenced a lawsuit against Wells Fargo to recover damages for breach of contract and tortious interference with contract, and in 2010 the lawsuit was settled as Wells Fargo agreed to pay $100 million to resolve all claims related to the dispute (NY Times 2010). 
+
+
+## **Rationale behind Different Decisions for WaMu and Wachovia** 
+
+The FDIC Staff Memo recommended that the FDIC Board invoke systemic risk exception. This memo was based extensively on the financial and market analyses prepared by the Federal Reserve Bank of Richmond (FCIC Report at 369). The FDIC and Federal Reserve analyses viewed that Wachovia’s failure would “seriously and negatively affect already disrupted credit markets,” including short-term interbank lending, counterparty relationships in qualified financial contract markets and bank senior and subordinated debt markets, and would further “disrupt the related markets in derivative products and other markets.” The memo also notes that Wachovia was the fourth-largest commercial bank in the U.S., and with the term funding markets already being under considerable stress for more than a year, and the pressure rising greatly following the failure of Lehman Brothers, the difficulties at AIG and the closing of WaMu, “a least-cost resolution of Wachovia Bank NA with no assistance to creditors and the potential for meaningful losses imposed on the Bank’s debt would be expected to have significant systemic consequences.” It feared that a default by Wachovia and a partial payout to debtors of Wachovia would intensify liquidity pressures on other U.S. banks, which were extremely vulnerable to a loss of confidence by wholesale suppliers of funds. Moreover, it warned that Wachovia’s failure could also lead investors to reassess the risk in U.S. commercial banks more broadly, causing a bank run (FDIC Staff Memo 2008). 
+
+As seen in the minutes of the FDIC Board meeting held to take a vote for invoking the systemic risk of Wachovia, the Board was cautious in weighing the options provided by the staff memo. Vice Chairman Gruenberg acknowledged that “the staff proposal was the best of a set of undesirable options,” but also noted that approving the proposal would be an appropriate action in the face of extraordinary times. Chairman Bair agreed with Vice Chairman Gruenberg that the staff proposal was one of several not-very-good options. She, however, noted “the importance of the fact that the Board of Governors of the Federal Reserve System and the Department of the Treasury had acted quickly to find a systemic risk exception,” and observed “how important that outcome was to the Office of the Comptroller of the Currency.” She said that she “acquiesced in the systemic risk exception decision” based on the input of her colleagues and the fact that the FDIC Act gives multiple decision makers a say in this process. Regardless she noted that she was not completely comfortable with that decision, but as the market changed quickly they were under a time restraint to move forward with it (Minutes of FDIC Meeting 2008). 
+
+The Federal Reserve and the Treasury were more aggressive in arguing for the systemic risk Wachovia posed in the market. The Federal Reserve’s analysis focused on the firm’s counterparties and other “interdependencies” with large market participants, and stated that asset sales by mutual funds could cause short-term funding markets to “virtually shut down.” In addition, the Federal Reserve staff argued that a Wachovia failure would cause banks to “become even less willing to lend to businesses and households. . . . [T]hese effects would contribute to weaker economic performance, higher unemployment, and reduced wealth.” Secretary Paulson had recused himself from the decision because of his ties to Robert Steel, but other members of Treasury had “vigorously advocated” saving Wachovia (FCIC 2011). 
+
+As seen above, Bair was reluctant. To win the approval of Chairman Bair and John Reich (the OTS director who served on the FDIC board), the Treasury ultimately agreed to take the unusual step of funding all FDIC’s losses from the proposed transaction. Without this express commitment from the Treasury, the FDIC would have been the first to bear losses out of its Deposit Insurance Fund. Normally, help would have come from Treasury only after that fund was depleted. In the minutes of the FDIC meeting, Chairman Bair stated it was “especially important” that the Treasury agreed to fund the losses, given that “it has vigorously advocated the transaction” (FCIC 2011; Minutes of FDIC Meeting 2008). 
+
+
+Some, in arguing for the FDIC to step in for Wachovia, attempted to connect WaMu’s closure with Wachovia’s problems. In a report by the FCIC, the Federal Reserve's General Counsel Scott Alvarez stated that WaMu’s failure “raised creditor concern about the health of Wachovia,” and “[t]he day after the failure of WaMu, Wachovia Bank depositors accelerated the withdrawal of significant amounts from their accounts. . . . In addition, wholesale funds providers withdrew liquidity support from Wachovia. It appeared likely that Wachovia would soon become unable to fund its operations.” David Wilson, the Office of the Comptroller of the Currency’s lead examiner at Wachovia, agreed with this view. “The whole world changed” for Wachovia after WaMu’s failure, he said (FCIC 2011). 
+
+However, this connection is doubted by others. Chairman Bair, in her 2012 book, explains that the facts at that time do not support those arguments. 
+
+[the argument for connecting WaMu’s failure with Wachovia’s troubles] pointed to the fact that the stock market had fallen precipitously on Monday, four days after we closed WaMu. But that had been in reaction to Congress’s failure to pass the TARP legislation, not the WaMu closing, as contemporaneous market analysis clearly demonstrated. If there was a relationship between WaMu’s failure and Wachovia’s problems, it had nothing to do with the fact that WaMu’s bondholders had taken losses; it was because Wachovia had the same type of exposure to toxic loans on the West Coast that had brought WaMu down (Bair 2012). 
+
+She also told the FCIC that WaMu’s failure “was practically a nonevent,” and “It was below the fold if it was even on the front page . . . barely a blip given everything else that was going on”(FCIC 2011). “It was the fog of war,” Chairman Bair told the FCIC. “The system was highly unstable. Who was going to take the chance that Wachovia would have a depository run on Monday?” (FCIC 2011). Figure 3 summarizes the different rationale provided by John Corston and Sheila Bair of the FDIC in explaining FDIC’s response for each of WaMu and Wachovia. 
+
+
+[FIGURE id=vol2_iss1_3_f3 type=figure label="Figure 3" file=figure_3.png caption="Different Backgrounds in WaMu and Wachovia’s Failure"]
+### **Figure 3: Different Backgrounds in WaMu and Wachovia’s Failure**
+
+|WaMu|Wachovia|
+|---|---|
+|$300 billion in assets.|$780 billion in assets.|
+|Simpler structure with focus on mortgage|More complex structure with foreign deposits|
+|lending.|and major holding company subsidiaries|
+||involved in significant financial services.|
+|The FDIC had enough time and resources to|The FDIC only had short time frame for|
+|analyze the financial conditions of WaMu,|developing a resolution strategy and soliciting|
+|develop strategies (orderly resolution plan),|acquirer bids, and the FDIC was unsure what|
+|and understand the risks involved with those|systemic risks resolution of Wachovia would|
+|strategies.|entail.|
+
+
+
+_Source: Statement of John Corston and Sheila C. Bair, Federal Deposit Insurance Corporation on Systemically Important Institutions and the Issue of "Too Big To Fail" before the Financial Crisis Inquiry Commission._ 
+
+## **5. Resolutions Plans and Orderly Liquidation Authority** 
+
+## **Resolution Plans** 
+
+Effective as of November 30, 2011, the Federal Reserve and the FDIC implemented a requirement under the Dodd-Frank Act regarding resolution plans for certain large or significant financial institutions (SIFIs)[7] . The rule requires SIFIs selected by the Financial Stability Oversight Council (FSOC) for supervision by the Federal Reserve Board and bank holding companies with total consolidated assets of $50 billion or more to periodically submit a plan to the Federal Reserve, the FDIC, and the FSOC for the company’s rapid and orderly resolution in the event of material financial distress or failure of the company. The rule also requires that the company report on the nature and extent of its credit exposure to significant bank holding companies[8] and other SIFIs, and their credit exposure to itself. 
+
+The Final Rule explains that the purpose of this requirement is to promote financial stability by (i) allowing the FDIC to plan the exercise of its resolution authority since it will have a better understanding of the institutions’ structure, complexity, and resolution plan and 
+
+__________________________________________________________________ 
+
+> 7 Nonbank SIFIs, a “significant nonbank financial company” means: (1) Any nonbank financial company supervised by the Board; and (2) Any other nonbank financial company that had $50 billion or more in total consolidated assets (as determined in accordance with applicable accounting standards) as of the end of its most recently completed fiscal year. Section 242.4(a), Title I of the Dodd-Frank Act. 
+
+> 8 A “significant bank holding company” means any bank holding company or company that is, or is treated in the United States as, a bank holding company, that had $50 billion or more in total consolidated assets as of the end of the most recently completed calendar year, as reported on either the Federal Reserve’s FR Y-9C (Consolidated Financial Statement for Bank Holding Companies), or any successor form thereto, or the Federal Reserve’s Form FR Y-7Q (Capital and Asset Report for Foreign Banking Organizations), or any successor form thereto. Section 242.4(b), Title I of the Dodd-Frank Act. 
+
+
+process; (ii) assisting the Federal Reserve’s supervisory efforts to ensure that the institution’s operations are not posing a risk to financial stability; and (iii) enabling better coordinated resolution strategy through enhanced understanding of foreign banks’ operations in the U.S. 
+
+## **Orderly Liquidation Authority** 
+
+Additionally, Title II of the Dodd-Frank Act creates the OLA, a new insolvency regime for SIFIs including broker-dealers that have the potential to pose systemic risks to the U.S. economy. The FDIC is appointed as a receiver to liquidate and wind up the company. In order to determine whether a financial company is to be placed under Title II, the Secretary of the Treasury basically looks at (i) whether the financial company is in default or in danger of default, (ii) whether the potential default would have adverse effect on the financial stability of the U.S., and (iii) whether taking emergency action as provided for in the law would avoid or mitigate those adverse effects. It also considers any viable private sector alternatives, and the effects of placing the company under the OLA may have on the general fund of the Treasury, and the creditors, counterparties, and shareholders in the failing company. After considering all the above factors, if it is believed to be the best to appoint the FDIC as a receiver, the FDIC will take control of the assets, obligations, and operations of the company. 
+
+The FDIC’s duties as a receiver include transferring or selling assets, creating bridge financial organizations that can help assume assets or liabilities during the liquidation process, and approving valid claims against the company that will need to be paid. The FDIC may avoid or invalidate certain prior transfers, agreements, leases, or compensation to executives that hinder the ability of the FDIC to carry out its duties. The Orderly Liquidation Fund is created by the Treasury to cover the administrative costs of liquidation for companies under Title II. 
+
+Claims under the OLA are paid in the following order: (1) administrative costs; (2) the government; (3) wages, salaries, or commissions of employees; (4) contributions to employee benefit plans; (5) any other general or senior liability of the company; (6) any junior obligation; (7) salaries of executives and directors of the company; and (8) obligations to shareholders, members, general partners, and other equity holders. The OLA also allows the FDIC to recover from any current or former senior executive or director substantially responsible for the failed condition of the financial company any compensation received during the two-year period preceding the date on which the FDIC was appointed as the receiver. Moreover, in the case of fraud, the two-year time limit does not apply. Another important provision of the Title II is the ban on using taxpayer funds to preserve a company under the OLA. 
+
+The Treasury noted in a press release that the OLA was to close the regulatory gap seen in dealing with SIFIs. The two examples—Lehman Brothers’ failure and AIG’s government bailout—demonstrate this gap. It was expected that the OLA would allow the government to administer its effective, orderly reorganization or wind-down, and enable the government to reduce the need for taxpayer funds, instead of subjecting a SIFI to bankruptcy or injecting taxpayers' funds with no real control. Ultimately, the OLA was expected to mitigate systemic risk and enhance consumer and investor protection. 
+
+## **References** 
+
+- 12 USC Sections 5381-94, 12 U.S. Code Chapter 53, Subchapter II - ORDERLY LIQUIDATION AUTHORITY 
+
+
+- The AIG Rescue, Its Impact on Markets, and the Government’s Exit Strategy, Congressional Oversight Panel, June 10, 2010 
+
+- Bair, Sheila. Bull by the Horns: Fighting to Save Main Street from Wall Street and Wall Street from Itself (2012) 
+
+- Citi Ends Negotiation with Wells Fargo on Wachovia Transaction, Press Release, Citigroup Inc., October 9, 2008 
+
+- Citigroup Inc. to Acquire Banking Operations of Wachovia, FDIC, Federal Reserve and Treasury Agree to Provide Open Bank Assistance to Protect Depositors, Press Release, September 29, 2008 
+
+- Evaluation of Federal Regulatory Oversight of Washington Mutual Bank (Report No. EVAL10-002), Offices of Inspector General, April 9, 2010 
+
+FDIC Board of Directors Meeting Transcript, September 29, 2008 
+
+FDIC Staff Memo to the Board of Directors, September 29, 2008 
+
+- Financial Crisis Inquiry Report, Final Report of the National Commission on the Causes of the Financial and Economic Crisis in the United States, Financial Crisis Inquiry Commission, January 2011 
+
+- Follow-Up Questions to the Financial Crisis Inquiry Commission Hearing on September 2, 2010, October 28, 2010 
+
+- JPMorgan Chase Acquires Banking Operations of Washington Mutual, FDIC Facilitates Transaction that Protects All Depositors and Comes at No Cost to the Deposit Insurance Fund, FDIC Press Release, September 25, 2008 
+
+- Minutes of the Meeting of the Board of Directors of the Federal Deposit Insurance Corporation, September 29, 2008 
+
+- Preliminary Staff Report: Governmental Rescues of “Too-Big-To-Fail” Financial Institutions, Financial Crisis Inquiry Commission, August 31, 2010 
+
+- Purchase and Assumption Agreement among FDIC and JPMorgan Chase Bank, September 25, 2008 
+
+- Resolution Plans Required, 12 CFR Part 243 & 381, Federal Register Vol 76, No 211, November 1, 2011 
+
+- Rhee, June and Andrew Metrick, _U.S. Guarantee During the Global Financial Crisis,_ Yale Program on Financial Stability Case Study Case Number 2015-3A-v1, [Date]. 
+
+- Secretary Written Testimony before the House Committee on Oversight and Government Reform, U.S. Department of Treasury, Press Releases, January 27, 2010 
+
+- Statement of John Corston, Acting Deputy Director, Complex Financial Institution Branch, Division of Supervision and Consumer Protection, Federal Deposit Insurance Corporation on Systemically Important Institutions and the Issue of "Too Big To Fail" before the Financial Crisis Inquiry Commission, September 1, 2010 
+
+
+Statement of Sheila C. Bair, Chairman, Federal Deposit Insurance Corporation on Systemically Important Institutions and the Issue of "Too Big to Fail" before the Financial Crisis Inquiry Commission, September 2, 2010 
+
+Treasury Proposes Legislation for Resolution Authority, Press Release, U.S. Department of Treasury, March 25, 2009 
+
+Wachovia Chooses Wells Fargo, Spurns Citi, The Wall Street Journal, October 4, 2008 
+
+Wells Fargo Pays Citi $100 Million for Wachovia Claims, The New York Times, November 19, 2010 
+
+Development of this case has been supported by a generous grant from the Alfred P. Sloan Foundation to the Yale Program on Financial Stability. 
+
+Copyright 2015, 2020 © Yale University. All rights reserved. To order copies of this material or to receive permission to reprint any or all of this document, please contact the Yale Program for Financial Stability at ypfs@yale.edu.

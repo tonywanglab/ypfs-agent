@@ -1,0 +1,1548 @@
+--- Page 1 ---
+Journal of Financial Crises Journal of Financial Crises 
+Volume 4 Issue 3 
+2022 
+Managing External Volatility: Policy Frameworks in Non-Reserve-Managing External Volatility: Policy Frameworks in Non-Reserve-
+Issuing Economies Issuing Economies 
+Hélène Poirson 
+International Monetary Fund 
+Nathan Porter 
+International Monetary Fund 
+Ghada Fayad 
+International Monetary Fund 
+Itai Agur 
+International Monetary Fund 
+Ran Bi 
+International Monetary Fund 
+See next page for additional authors Follow this and additional works at: https://elischolar.library.yale.edu/journal-of-financial-crises 
+ Part of the Economic Policy Commons, Finance and Financial Management Commons, 
+Macroeconomics Commons, Policy History, Theory, and Methods Commons, and the Public 
+Administration Commons 
+Recommended Citation Recommended Citation 
+Poirson, Hélène; Porter, Nathan; Fayad, Ghada; Agur, Itai; Bi, Ran; Chen, Jiaqian; Eugster, Johannes; 
+Laseen, Stefan; Menkulasi, Jeta; Moriyama, Kenji; Rochon, Céline; Svirydzenka, Katsiaryna; Tovar, Camilo; 
+Zhang, Zhongxia; and Zdzienicka, Aleksandra (2022) "Managing External Volatility: Policy Frameworks in 
+Non-Reserve-Issuing Economies," Journal of Financial Crises: Vol. 4 : Iss. 3, 60-98. 
+DOI: https://doi.org/10.17132/2693-3179.1420 
+Available at: https://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss3/2 
+This Article is brought to you for free and open access by the Journal of Financial Crises and EliScholar – A Digital 
+Platform for Scholarly Publishing at Yale. For more information, please contact journalfinancialcrises@yale.edu.
+
+--- Page 2 ---
+Managing External Volatility: Policy Frameworks in Non-Reserve-Issuing Managing External Volatility: Policy Frameworks in Non-Reserve-Issuing 
+Economies Economies 
+Authors Authors 
+Hélène Poirson, Nathan Porter, Ghada Fayad, Itai Agur, Ran Bi, Jiaqian Chen, Johannes Eugster, Stefan 
+Laseen, Jeta Menkulasi, Kenji Moriyama, Céline Rochon, Katsiaryna Svirydzenka, Camilo Tovar, Zhongxia 
+Zhang, and Aleksandra Zdzienicka 
+READERS TAKE NOTICE: READERS TAKE NOTICE: 
+As of April 2024, the YPFS Resource Library’s site domain has changed 
+to https://elischolar.library.yale.edu/ypfs-financial-crisis-resource-library/. 
+Please be aware that upon clicking any of the URL references to 
+the former Resource Library domains, either https://ypfs.som.yale.edu 
+or https://ypfsresourcelibrary.blob.core.windows.net/, in the 
+"References/Key Program Documents" section of a case study, 
+readers will encounter a "page not found" error. readers will encounter a "page not found" error. 
+Readers can still retrieve a given resource cited within this case study 
+on the new site  by searching by searching here  for the title cited. for the title cited. 
+Cover Page Footnote Cover Page Footnote 
+The authors would like to thank Marco Arena, Vivek Arora, Gabriel Di Bella, Rupa Duttagupta, Gaston 
+Gelos, Lucyna Gornicka, Vikram Haksar, Armine Khachatryan, Vladimir Klyuev, Petya Koeva Brooks, Martin 
+Kaufman, Varapat Chensavasdijai, Gavin Gray, Shakill Hassan, Dong He, Jonathan Ostry, Mahvash 
+Qureshi, and Yu Shi as well as the Bank of Israel, Bank of Mexico, and Bangko Sentral ng Pilipinas for 
+valuable comments, and Arshia Karki, Chengyu Huang, Tessy Vasquez, and Tiffany Wang for outstanding 
+research assistance. This work was created while all authors were working at the International Monetary 
+Fund (IMF). The views expressed in this paper are those of the authors and do not necessarily represent 
+the views of the IMF, its Executive Board, or IMF management. For those authors who are currently 
+employed by other institutions, the same disclaimer applies for their current institutional affiliations. 
+This article is available in Journal of Financial Crises: https://elischolar.library.yale.edu/journal-of-financial-crises/
+vol4/iss3/2
+
+--- Page 3 ---
+Managing External Volatility: Policy Frameworks 
+in Non-Reserve-Issuing Economies1 
+Hélène Poirson, Nathan Porter, Ghada Fayad, Itai Agur, Ran Bi, Jiaqian Chen,   
+Johannes Eugster, Stefan Laseen, Jeta Menkulasi, Kenji Moriyama, Céline Rochon,  
+Katsiaryna Svirydzenka, Camilo Tovar, Zhongxia Zhang, and Aleksandra Zdzienicka2 
+Abstract 
+Since the Global Financial Crisis, non-reserve-issuing economies (NREs) have been highly 
+sensitive to episodes of external pressures. With monetary policy independence constrained 
+by this sensitivity, many NREs have utilized other policy instruments. This paper confirms 
+the vulnerability of NREs to external shocks and finds that, in some circumstances, managing 
+such shocks with multip le instruments can both lessen the policy response required from 
+any one policy tool to financial and external shocks and increase the effectiveness of policies 
+in stabilizing macrofinancial conditions. Effectiveness , however, does not always imply 
+appropriateness, which rests on an evaluation of potential trade -offs and unintended 
+consequences. 
+ 
+Keywords: capital flow management measures, foreign exchange intervention, 
+macroprudential policy, monetary policy, policy transmission and effectiveness 
+ 
+JEL Classifications: E44, E52, E58, F31, F32, F62 
+  
+ 
+1 The authors would like to thank Marco Arena, Vivek Arora, Gabriel Di Bella, Rupa Duttagupta, Gaston Gelos, 
+Lucyna Gornicka, Vikram Haksar, Armine Khachatryan, Vladimir Klyuev, Petya Koeva Brooks, Martin Kaufman, 
+Varapat Chensavasdijai, Gavin Gray, Shakill Hassan, Dong He, Jonath an Ostry, Mahvash Qureshi, and Yu Shi as 
+well as the Bank of Israel, Bank of Mexico, and Bangko Sentral ng Pilipinas for valuable comments, and Arshia 
+Karki, Chengyu Huang, Tessy Vasquez, and Tiffany Wang for outstanding research assistance. This work was 
+created while all authors were working at the International Monetary Fund (IMF). The views expressed in this 
+paper are those of the authors and do not necessarily represent the views of the IMF, its Executive Board, or 
+IMF management. For those authors who  are currently employed by other institutions, the same disclaimer 
+applies for their current institutional affiliations. 
+2 Authors’ email addresses: Hélène Poirson (IMF; HPoirson@imf.org), Nathan Porter (IMF; NPorter@imf.org), 
+Ghada Fayad (IMF; GFayad@imf.org); Itai Agur (IMF; IAgur@imf.org); Ran Bi (IMF; RBi@imf.org); Jiaqian Chen 
+(IMF; JChen@imf.org); Johannes Eugster  (IMF and Swiss National Bank ; JEugster@imf.org), Stefan Laseen  
+(Sveriges Riksbank (at IMF at time of writing) ; Stefan.Laseen@riksbank.se), Jeta Menkulasi  (IMF; 
+JMenkulasi@imf.org), Kenji Moriyama  (IMF; KMoriyama@imf.org), Céline Rochon  (IMF; CRochon@imf.org), 
+Katsiaryna Svirydzenka (IMF; KSvirydzenka@imf.org), Camilo Tovar (IMF; CTovar@imf.org), Zhongxia Zhang 
+(IMF; ZZhang2@imf.org), and Aleksandra Zdzienicka (IMF; AZdzienicka@imf.org). 
+ 
+60
+
+--- Page 4 ---
+I. Background 
+Following on the experiences of the Global Financial Crisis (GFC), the International Monetary 
+Fund (IMF) set up a Working Group on “Integrated Policy Frameworks.” This group has been 
+tasked with considering holistic ways of employing sets of policy tools, including monetary , 
+macroprudential, exchange rate, and capital flow management policies, to mitigate financial 
+crises. This paper summarizes some of the research done within this workstream since the 
+GFC.3 Although the work shown here was conducted before the COVID -19 pandemic, the 
+relevance of using multiple tools to navigate a challenging economic and financial 
+environment has once again come to the fore during the past few years.  
+II. Introduction 
+While globalization has produced many benefits, the accompanying size and volatility of 
+capital flows have also posed policy challenges for small, financially integrated, non-reserve-
+issuing economies (NREs).4 The Global Financial Crisis led systemic economies to undertake 
+unprecedented measures to support the recovery , which produced abrupt swings in risk 
+sentiment, volatility in financing conditions, and large movements in capital flows. As such, the 
+post-GFC period saw intervals of pressure on NREs affecting local financing conditions and 
+exchange rates through volatile capital flows and spreads, raising concerns about economic 
+and financial stability.5 Indeed, this period demonstrated how external financial conditions can 
+complicate policymaking in NREs.  
+Using a sample that covers both the pre-GFC period and its immediate aftermath, this paper 
+confirms NREs’ vulnerability to spillovers (Section III). In line with the extensive literature 
+on global spillovers from large economies ( for example, Rey 2015 or Arregui et al. 2018), 
+analytical work in this paper confirms that NREs are heavily affected by both real and 
+financial external conditions, which can affect policy independence and hamper policy 
+settings in these countries.6 This paper considers the impact of changes in external financial 
+conditions on policy independence in two different ways: first, the effect on the policy rate 
+chosen by policymakers; and, second, the direct impact on domestic financial conditions 
+(irrespective of policy rate changes). 
+ 
+3 Other IMF work in this field is cited later in this section. 
+4 Here, “reserve currency issuers” refers to issuers of the major reserve currencies (euro, pound, US dollar, and 
+yen). Other countries that issue a reserve currency held in relatively small quantities by governments and 
+institutions as part of their foreign reserves are considered NREs. 
+5 By definition, NRE central banks do not have a function of lender of last resort of f oreign exchange (FX) 
+liquidity. However, this paper’s view is that such a function would not be critical during nonstress periods. For 
+the importance of the FX lender-of-last-resort function in NREs during severe stress periods, see discussion in 
+IMF (2013a).  
+6  Monetary policy independence is understood as the ability of NRE central banks to set interest rates 
+independently of internationally prevailing rates (Aizenman, Chinn, and Ito 2013).  
+61
+Journal of Financial Crises Vol. 4 Iss. 3
+
+--- Page 5 ---
+Among NREs, both advanced economies (AEs) and emerging markets (EMs) have revised 
+their policy frameworks over the past decade or so. EMs have continued their transition 
+toward inflation targeting (IT) as a key monetary polic y objective, moving away from 
+monetary and exchange rate targets. Both advanced economies and emerging markets have 
+also made greater use of macroprudential measures (MPMs) to limit the buildup of systemic 
+financial risks. Some EMs have also increased their use of capital flow management measures 
+(CFMs).  
+Given NRE policymakers’ increasing use of policy combinations to manage external volatility, 
+this paper considers two important questions: (1) what are the conditions under which 
+particular policy combinations may be most effective; and (2) what weight should be placed 
+on each instrument to make a combination most effective? This paper provides some 
+elements of a response to these questions, suggesting the need for further policy research 
+(including at the country level). In this paper, effectiveness refers to the extent to which 
+various policy tools and combinations can help dampen volatility in growth and inflation. 
+This, in turn, is based on how key macroeconomic aggregates and financial prices (mainly 
+interest and exchange rates) respond to the use of these instruments. Effectiveness is thus 
+intertwined with the transmission channels of macroeconomic and other policies, and any 
+potential interactions between these policies. Effectiveness, however, does no t imply 
+appropriateness.7 Other factors—including initial conditions, the stage of the financial cycle, 
+macroeconomic policy imbalances, the costs of activating a particular tool as well as any 
+possible unintended consequences that may result from the pro longed use of such tools —
+also matter for the appropriateness of a particular policy choice.  
+The paper’s key messages relate to the transmission and effectiveness of instruments and 
+different policy combinations: 
+• NREs’ vulnerability to spillovers. In a sample of 11 major EMs selected to provide broad 
+coverage across regions, domestic policy rates react directly to both external financial 
+conditions and external real factors. There is also a high sensitivity of domestic yields 
+and exchange rates to external financial shocks irrespective of changes in domestic 
+policy rates. Both these findings suggest a loss of monetary policy independence. 
+Spillover analysis using a large sample of 66 NREs confirms their vulnerability to 
+global financial shocks. However, NREs with a more flexible exchange rate regime, 
+and those that deploy alternative, more targeted instruments, seem to regain some 
+monetary policy autonomy. 
+• Transmission and effectiveness of policy instruments . In the sampl e of 11 major EMs, 
+interest rate –based monetary policy can effectively influence both output and 
+inflation and transmits through long -term interest rates. Exchange rate flexibility 
+plays a critical role as a buffer for NREs, although foreign exchange intervention (FXI) 
+seems capable of mitigating appreciation and depreciation pressures at most in the 
+ 
+7 A determination of appropriateness is outside the scope of thi s paper as it requires a fuller analysis of costs 
+and benefits of the different policy combinations. See Basu et al.  (2020) and Adrian et al.  (2020) on the 
+assessment of optimal policy combinations in response to external shocks.   
+62
+Managing External Volatility Poirson et al.
+
+--- Page 6 ---
+short run, given the significant impact on the pace of foreign exchange (FX), when 
+reserves are adequate and macroeconomic imbalances small. The impact of FXI is 
+comparatively larger for countries with CFMs as this reduces offsetting private capital 
+flows. During periods of high external pressure, however, interest rate policy can be 
+helpful. The results of panel regression analysis for a large sample of 79 NREs indicate 
+that, reflecting the importance of the exchange rate and credit channels, NRE central 
+banks tend to de facto  respond to financial and external stability considerations. 
+However, the use of alternate instruments targeted specifically at these objectives 
+seems to limit the need for them to use monetary policy for these considerations. 
+• Effectiveness of policy packa ges. There are important interactions between policy 
+instruments that affect the impact of an overall policy package. These depend on the 
+nature of the shock and the constraints on monetary policy transmission. In the case 
+of the lower bound constraint on monetary policy, the results of a novel open -
+economy dynamic stochastic general equilibrium model  illustrate that a combined 
+policy response to a global supply shock that lowers inflation can be more effective 
+than a response that relies on a single instrument.  
+These initial findings lay down some markers for further policy research on Integrated Policy 
+Frameworks. Policy and analytical work on these issues has progressed at a rapid clip in 
+recent years, including under the IMF ’s Integrated Policy Frameworks umbrella. Basu et al. 
+(2020) provide s a comprehensive model that jointly analyzes monetary, exchange rate, 
+macroprudential, and capital flow management policies and analytically solves for the 
+authors’ optimal combination, including how these policies i nteract with different frictions 
+and with each other. Adrian et al. (2020) uses an empirically oriented model to quantify the 
+policy trade-offs countries face and how different policy tools can be used to mitigate them. 
+Fayad and Poirson (2020) use s a case  study approach to assess the unorthodox policy 
+responses to external shocks of seven small open economies with flexible exchange rate 
+regimes. For EMs in Asia, Finger and Lopez Murphy (2019) finds that, in addition to inflation 
+and output gaps, monetary policy responds to an array of external and domestic influences, 
+including the US policy rate, capital flows, the exchange rate, and credit growth. Gelos et al. 
+(2019) empirically show s for EMs in general that monetary policy may not always be 
+effective in addressing external shocks. Brandao -Marques et al. (2020) find s that macro  
+policies are effective in “leaning against” financial vulnerabilities and are best accompanied 
+by looser, not tighter, monetary policy.  
+This paper is structured as follows. Section III establishes the sensitivity of NREs to external 
+conditions by estimating the effect s of external real and financial shocks on key 
+macroeconomic variables and on the policy rate. S ection IV discusses the evolving use of 
+alternative policy tools by NREs ( IV.A) and illustrates how such use is able to help manage 
+macroeconomic developments, including by investigating the transmission and 
+effectiveness of traditional monetary policy and  how the use of alternate tools affects FXI 
+effectiveness and the monetary policy reaction (IV.B). It also outlines the example of Russia, 
+where interest rate policy was an effective part of the policy package to stem extreme 
+external pressure in 2014 –2015 (IV.C) and illustrates the impact and effectiveness of 
+63
+Journal of Financial Crises Vol. 4 Iss. 3
+
+--- Page 7 ---
+alternative policy responses (IV.D). Section V concludes. Appendixes are found at the end of 
+this paper. 
+III. Spillovers from External Conditions 
+NREs are highly sensitive to changing external demand and f inancial conditions, even 
+outside systemic risk -off events. This sensitivity can constrain their monetary policy 
+independence. This could call for the need to deploy other policy tools to assist in achieving 
+domestic policy objectives. 
+To show this sensiti vity, the paper applies a pooled panel structural vector autoregression 
+(VAR), using monthly data from 11 EMs.8 The model includes factors summarizing external 
+real and financial conditions, growth, inflation, the nominal effective exchange rate (NEER), 
+the policy rate and long -term interest rates, and domestic credit. In this exercise, external 
+conditions are captured by: (1) financial factors (namely, country-specific Emerging Market 
+Bond Index [EMBI] and credit default swap [CDS]  spreads, US term premia,  and the CBOE 
+Volatility Index [VIX]) and (2) real factors (namely, external demand, terms of trade, and 
+relevant commodity prices). The model is estimated using six lags and a Cholesky 
+identification, which orders external factors before domestic activity, prices, and credit. 
+Exchange rates and interest rates are ordered last. The latter variables react 
+contemporaneously to all previous ones, but they affect only those with a lag. Specifically, 
+the baseline ordering is the following: external financial conditions, external real conditions, 
+domestic activity, Consumer Price Index ( CPI) inflation, private credit grow th, the policy 
+rate, long-run yields, and the NEER. The results are robust to different orderings.9 
+The variance decomposition , shown in Figure 1,  suggests that real and financial external 
+shocks are the largest individual drivers of volatility in small f inancially integrated NREs. 
+External financial conditions contribute the most to movements in domestic yields and the 
+exchange rate, and thus these spillovers constrain the monetary policy independence 
+enjoyed by NREs.10 On the other hand, external real factors are the most important for other 
+variables. The importance of these factors is also confirmed in their effect on the dynamics 
+ 
+8 The sample used for the analysis in this section includes Brazil, Chile, India, Indonesia, Malaysia, Mexico, Peru, 
+Poland, Thailand, Turkey, and South Africa, providing coverage of major emerging markets across regions, with 
+roughly similar levels of development and reliance on  interest rates for monetary policy (despite varying 
+degrees of intervention). It also reflects data availability constraints—related to data underpinning the external 
+factors—for some other economies. The sample period is 2000–2016. 
+9 The results in this section from the pooled VAR are based on the average reactions across the countries in the 
+sample, and thus mask the cross-country variation in the duration and the amplitude of the impacts of shocks. 
+A country -specific analysis, not s hown here, reveal s that although the impulse responses from the panel 
+generally represent the reaction of a clear majority of the countries, there are often a few exceptions. Aggregate 
+results should be interpreted with theses country differences in mind.  
+10 The findings are in line with Chapter 3  of the April 2017 IMF Global Financial Stability Report (IMF 2017). 
+Sensitivity to external spillovers could imply limits to monetary policy independence, to the extent that it 
+constrains domestic policy’s ability to respond optimally to foreign financial conditions. 
+64
+Managing External Volatility Poirson et al.
+
+--- Page 8 ---
+of key macroeconomic variables and financial prices (Figure 2). A strengthening of real 
+external conditions , on the one hand , raises domestic activity and inflation, lead ing to an 
+appreciation of the currency. Tighter external financial conditions , on the other hand, 
+depreciate the exchange rate, which temporarily translates into inflationary pressures 
+despite a protracted negative effect on domestic activity. 
+Figure 1: Decomposing the drivers of volatility 
+ 
+Sources: Authors’ calculations; Haver Analytics; IMF International Financial Statistics. 
+Exchange rates act as an important buffer against external shocks in many NREs. Positive 
+real external shocks, such as shocks to commodity prices or external demand, lead to a 
+nominal appreciation of the domestic currency, while external financial shocks associated 
+with tighter global financial conditions lead to currency deprec iation (Figure 3). Exchange 
+rate flexibility thus moderates the impact of real and financial shocks.  
+The concept of monetary policy independence discussed so far relates to the impact of 
+changing external real and financial conditions on domestic financial conditions irrespective 
+of policy rate changes. There is another different, but related, way to consider independence. 
+This second concept of independence relates to the impact of changes in external conditions 
+on the policy rates policymakers choose.11 Here, the impact depends on the nature of the 
+external shock, as well as on the extent to which other tools ( for example, CFMs and MPMs) 
+are used to reduce the sensitivity of domestic conditions to external conditions. 
+The impulse responses derived from th e estimated VAR models illustrate the dynamic 
+responses of the policy rate to domestic and external shocks. In line with large AEs, own 
+inflation and output are important drivers of the policy rate in NREs. However, exchange 
+rates, credit, and external rea l and financial factors also have a statistically significant 
+influence on the policy rate. While the specific results vary across countries, spillovers vary 
+based on the nature of the shock and can be channeled either through exchange rate s or 
+credit channels (Figure 4). Firstly, central banks’ policy rates respond to external conditions 
+ 
+11 Policy rates in NREs are affected by external factors, not just by domestic inflation and output as in larger 
+advanced economies. That is, the de facto policy rule includes factors beyond those in the standard Taylor rule 
+(Käfer 2014). 
+65
+Journal of Financial Crises Vol. 4 Iss. 3
+
+--- Page 9 ---
+(Figures 5 and 6), with positive real external shocks and tighter external financial conditions 
+leading to higher domestic policy rates. 12 The impact of overall financial external shocks 
+(that is , those encompassed in the external factor) is, however , shorter-lived. The initial 
+increase, possibly to stem capital outflows, peaks at about  six months, given a more 
+persistent positive effect on long -term yields (Figure 7) and the significant contractionary 
+effect on domestic activity (Figure 2). 
+Figure 2: External Factors, Growth, and Inflation 
+  
+  
+Notes: The impulse response function (IRF) shows reactions to one-standard-deviation shocks, and dotted lines 
+show the 95% confidence intervals, in percentage terms, for the 11 EMs in our sample. The x -axis represents 
+the 24-month horizon over which the effect of the shock is analyzed.  
+Sources: Authors’ calculations; Haver Analytics; IMF International Financial Statistics . 
+ 
+ 
+12 Although factor loadings differ somewhat among countries, a one -standard-deviation shock corresponds 
+roughly to a two-standard-deviation change in the EMBI (equivalent to roughly 250 basis points  [bps]) or the 
+five-year CDS spread (equivalent to roughly 265 bps) or a three -standard-deviation (20-unit) change in the 
+VIX. 
+66
+Managing External Volatility Poirson et al.
+
+--- Page 10 ---
+Figure 3: External Factors and the NEER 
+  
+Sources: Authors’ calculations; Haver Analytics; IMF International Financial Statistics . 
+  
+67
+Journal of Financial Crises Vol. 4 Iss. 3
+
+--- Page 11 ---
+Figure 4: The Drivers of the Policy Rate  
+  
+  
+  
+Sources: Authors’ calculations; Haver Analytics; IMF International Financial Statistics . 
+ 
+68
+Managing External Volatility Poirson et al.
+
+--- Page 12 ---
+Figure 5: External Financial Conditions and the Policy Rate 
+  
+  
+  
+Notes: The y-axis shows the impact of a 1 percentage point shock to US monetary policy rates or change in 
+shocks to VIX on the level of the domestic policy rate , depending on the exchange rate and monetary policy 
+regimes in a sample of 66 NREs. The x-axis indicates the number of quarters after the  shock in t=0. The dotted 
+lines indicate the 90 % confidence interval. The VIX shocks are estimated using a VAR model with changes in 
+US monetary policy rates and global oil prices used to capture the impact of global real shocks. For countries 
+with more flexible exchange rate regimes, the response of monetary policy to VIX shocks become statistically 
+significant seven quarters after the shock. For countries with fixed exchange rates, the impact of VIX shocks on 
+policy rates is statistically significant for all quarters. 
+Sources: FRED; IMF International Financial Statistics; Wu and Xia 2016. 
+-0.5
+0
+0.5
+1
+1.5
+2
+2.5
+3
+0 1 2 3 4 5 6 7 8
+Reaction of NRE policy rates to U.S. monetary policy shocks 
+-0.5
+0
+0.5
+1
+1.5
+2
+2.5
+3
+0 1 2 3 4 5 6 7 8
+Reaction to U.S. policy shocks in countries with fixed exchange 
+rate regimes
+-0.5
+0
+0.5
+1
+1.5
+2
+2.5
+3
+0 1 2 3 4 5 6 7 8
+Reaction to U.S. policy shocks in countries with intermediate exchange 
+rate regimes
+-0.5
+0
+0.5
+1
+1.5
+2
+2.5
+3
+0 1 2 3 4 5 6 7 8
+Reaction to U.S. policy shocks in countries with inflation targeting  
+-3
+-2.5
+-2
+-1.5
+-1
+-0.5
+0
+0.5
+0 1 2 3 4 5 6 7 8
+Reaction of NRE monetary policy rates to VIX shocks 
+-3
+-2.5
+-2
+-1.5
+-1
+-0.5
+0
+0.5
+0 1 2 3 4 5 6 7 8
+Reaction of NRE monetary policy rates to VIX shocks depending on 
+exchange rate regrimes 
+All countries
+in countries with flexible exchange rate regimes (significant after 7 quarters)
+in countries with fixed exchange rate regimes
+69
+Journal of Financial Crises Vol. 4 Iss. 3
+
+--- Page 13 ---
+Figure 6: The Response of Policy Rates to the Federal Funds Rate and Other Policy 
+Tools 
+  
+Notes: The y-axis shows the impact of a 1 percentage point shock to US monetary policy rates on the level of 
+the domestic policy rate based on an average change in MPMs, CFMs, and FXIs across countries and over time. 
+The shaded area indicates the 90% confidence interval for baseline estimates. * indicates the quarters in which 
+the effect statistically significantly varies with other policy tools. For instance, an average change in the CFM 
+index (that is, sample mean across countries and over time) at the time of the shock (t=0) results in a lower 
+reaction of the domestic polic y rates to the US monetary shocks in the first three quarters of the shocks 
+compared to the reaction of policy rates without CFMs.  
+Sources: Cerruti, Claessens, and Laeven 2015; Fernández et al. 2015; FRED; IMF International Financial Statistics; 
+Wu and Xia 2016. The exchange rate regimes are classified based on the Reinhart -Rogoff classification into three 
+groups: fixed, intermediate, and flexible. Dataset from Ilzetzki, Reinhart, and Rogoff 2019. 
+Figure 7: External Conditions and Long-Term Financial Conditions 
+  
+Sources: Authors’ calculations; Haver Analytics; IMF International Financial Statistics . 
+Secondly, an effective appreciation of exchange rates  leads to a significant and persistent 
+reduction of the policy rate, reflecting lower expected inflationary pressures.  
+Rapid private credit growth can result in a tightening of interest rate policy over time to avoid 
+economic overheating or balance sheet strains. We then analyze the role of other policy 
+measures in shaping the monetary policy response of NREs to global financial shocks. Using 
+the local projection method developed by Jord à (2005), we first estimate the average 
+dynamic response of monetary policy rates to external financial conditions in a large sample 
+-0.5
+0
+0.5
+1
+1.5
+2
+2.5
+3
+0 1* 2* 3* 4 5 6 7 8
+Reaction of monetary policy rates depending on CFMs
+All countries
+Inlfation targeting with CFMs
+Intermediate Exchange Rate Regimes with CFMs
+-0.5
+0
+0.5
+1
+1.5
+2
+2.5
+3
+0 1 2 3* 4* 5* 6* 7* 8*
+Reaction of monetary policy rates depending on MPMs
+All countries
+Inflation targeting with MPMs
+Intermediate Exchange Rate Regimes with MPMs
+70
+Managing External Volatility Poirson et al.
+
+--- Page 14 ---
+of 66 NREs during the period Q1 1996 to Q4 2015. In particular, we estimate the average 
+dynamic response of monetary policy rate y in country i to global financial shocks GFS for 
+each future period k (=1,…,8): 
+𝑦𝑖,𝑡+𝑘 − 𝑦𝑖,𝑡 = 𝛼𝑖
+𝑘 + 𝜗𝑡
+𝑘 +  𝛽𝑘𝐺𝐹𝑆𝑡 + 𝜀𝑖,𝑡
+𝑘  (1) 
+where 𝛼𝑖
+𝑘  are country -fixed effects included to control for unobserved cross -country 
+heterogeneity, 𝜗𝑡are time -fixed effects to control for other global shocks , and 𝜀𝑖,𝑡
+𝑘  are the 
+error terms.13 𝐺𝐹𝑆𝑡 are approximated by: ( 1) the federal funds rate and ( 2) the VIX. The 
+estimates are based on clustered robust standard errors. 
+Subsequently, we estimate Equation (1) controlling for country -specific factors and for 
+exchange rate and monetary policy regimes. In particular, the exchange rate regimes are 
+classified into three groups: fixed, intermediate, and flexible. 14 Members of monetary and 
+currency unions, and countries without separated currency tenders, are excluded. Countries 
+with inflation targeting are identified based on their central banks ’ information and IMF 
+exchange rate arrangement classification. Finally, we extend Equation (1) to measure the 
+impact of additional policies ( 𝑝𝑖𝑡) in shaping monetary policy  reaction to foreign financial 
+shocks: 
+𝑦𝑖,𝑡+𝑘 − 𝑦𝑖,𝑡 = 𝛼𝑖
+𝑘 + 𝜗𝑡
+𝑘 +  𝛽𝑘𝐺𝐹𝑆𝑡 + 𝛿𝑘 𝐺𝐹𝑆𝑡𝑝𝑖,𝑡 + 𝛾𝑖
+𝑘𝑝𝑖𝑡 + 𝜀𝑖,𝑡
+𝑘  (2) 
+The results confirm that NREs’ policy rates react directly to Fed eral Reserve  policy rate 
+changes, with increases in the US policy rate raising domestic policy rates (Figure 5). The speed 
+of this response differs depending on country -specific factors and policy frameworks, 
+including financial development, openness, and exchange rate regimes (in line with past 
+studies of policy independence such as IMF (2013b), Ricci and Shi (2016), and Zdzienicka et 
+al. (2015). In particular, policy rates in countries with a fixed exchange rate regime react 
+immediately to such shocks, while the impact is delayed for NREs with a more flexible exchange 
+rate regime—it becomes statistically significant only after two quarters for IT countries with 
+a floating exchange rate regime and after four quarters for countries with intermediate 
+exchange rate regimes. An increase in the VIX meanwhile —which directly tightens EM 
+financing conditions through the risk premia—leads to a reduction in NRE policy rates.  
+The results of this analysis also suggest that the response of monetary policy is softened  for 
+countries using other policy tools  (Figure 6).15 For instance, the use of MPMs and CFMs for 
+various objectives (including to safeguard systemic financial stability) seems, as a side effect, 
+to dampen the reaction of monetary policy in countries with a more flexible exchange rate 
+regime. This finding is unsurprising given that these policy tools seek to reduce th e 
+ 
+13 Exchange rate regime classification follows Ilzetzki, Reinhart , and Rogoff (2019) . Results—available upon 
+request—are robust to different lags, different measures of global financial conditions ( for example , US 
+financial cycles [IMF 2015]), and additional controls (for example, financial crises, recessions).  
+14 Dataset retrieved from https://carmenreinhart.com/exchange-rate/.  
+15 Zdzienicka et. al. (2015).  
+71
+Journal of Financial Crises Vol. 4 Iss. 3
+
+--- Page 15 ---
+sensitivity of domestic economic and financial conditions to external shocks. Notably, the 
+impact of CFMs is significant only in the short run (first three quarters) while that of MPMs 
+is generally less significant but longer lasting. 
+Last, beyond the im pact on the policy rate, changes in external conditions (especially 
+financial conditions) significantly affect domestic financial conditions directly (Figure 6). 
+Stronger real and tighter financial external conditions significantly raise longer -term bond 
+yields. This impact is independent of changes in the policy rate, and hence suggests a loss of 
+monetary policy independence. 
+In sum, external conditions are important for economic and financial developments in NREs, 
+and they constrain policy independence. There are several reasons for this. First, NRE central 
+banks face more pressures on exchange rates through volatile capital f lows than reserve 
+issuers. Second, NREs face significant pass-through of exchange rate fluctuations to inflation, 
+although to varying degrees depending on the extent of the credibility of the central bank. 
+Third, some NREs are subject to large FX balance s heet mismatches. These factors create 
+trade-offs for central banks beyond the standard trade -off between output and inflation 
+summarized by the Phillips curve, further complicating monetary policymaking. 
+IV. Effectiveness of Policy Combinations 
+This section focuses on how the use of various policy tools can help manage macroeconomic 
+developments. Specifically, it discusses ( 1) the evolving use of alternative policy tools by 
+NREs; ( 2) the transmission of shocks and policies to the domestic economy and how the 
+monetary reaction varies depending on the combination of instruments used; and ( 3) the 
+effectiveness of policy combinations in addressing the impact of these shocks. Key findings 
+are that despite some loss of independence, monetary policy remains an effective policy tool, 
+in part by affecting long -term interest rates, and that the impact of policy combinations 
+depends on the nature of the shock, the strength of the transmission channel, and policy 
+constraints.16 
+When confronted by external shocks —whether id iosyncratic or systemic —policymakers 
+can choose from a variety of tools. The traditional tools —interest and exchange rates —
+relate directly to the country’s monetary settings. As confirmed by the findings in Section III, 
+allowing exchange rate flexibility can allow a country to maintain independent control over 
+its domestic interest rate. Such independence is lost if the exchange rate is fixed or stabilized 
+through intervention in a setting where capital flows relatively freely. However, other tools 
+have been increasingly used in recent years, as discussed below. 
+ 
+ 
+16 This is in line with the findings for ASEAN-5 countries in IMF (2016b). 
+72
+Managing External Volatility Poirson et al.
+
+--- Page 16 ---
+A. The Use of Additional Instruments 
+In addition to their reliance on macroeconomic policy, policymakers have made use of 
+additional instruments to help manage rising financial sector stability risks. Increased use of 
+CFMs in conjunction with other policies, for example, formed an important part of the 
+response to the 2009 –2012 capital inflow surge  in EMs. Some countries affected by crises 
+also have found CFMs on outflows a helpful tool. Many countries have also made use of 
+MPMs, especially measures designed to limit financial stability risks arising from housing 
+market developments ( for example , loan -to-value and debt -to-income ratios). MPMs are 
+designed to limit systemic risks, including risks arising from procyclicality in financial 
+markets. Depending on the tool used, the type of variable targeted, and the state of the 
+financial cycle, MPMs can have significant mitigating effects on credit developments; 
+however, empirical evidence on which policies ar e most effective in reducing the growth 
+rates of overall credit and household and corporate sector credit is still elusive.17  
+The pace of net reserve accumulation slowed in many regions during 2009 –2015. This 
+slowing reflects the increased use of reserves to manage outflow episodes. However, 
+although there has been increased two -sided intervention since the GFC, not all countries 
+have felt free to use intervention in response to external pressures.  
+Additional policy tools, including CFMs, MPMs, and intervention, have generally played a 
+complementary role to macroeconomic policies, especially during tightening episodes  
+(Figure 8). Simple correlation analysis indicates that monetary policy, CFMs (on both inflows 
+and outflows), and FXI have be en used in complementary ways, while the interactions 
+between monetary policy and MPMs have varied with the stance of monetary policy  (IMF 
+2015; IMF 2016a). In particular, during a tightening phase, MPMs and monetary policy tend 
+to work in tandem (compleme nts), whereas when monetary policy eases, MPMs tend to be 
+tightened (substitutes). Some complementarity (joint tightening and joint easing) also seems 
+to exist among FXIs, MPMs, and CFMs.18 
+ 
+17 See, for instance, Akinci and Olmstead -Rumsey (2018) ; Cerutti, Claessens, and Laeven (2015);  Galati and 
+Moessner (2013); and Lim et al. (2011).   
+18 Similar pairwise corre lations for Asian countries in Bruno, Shim, and Shin (2017) suggest that monetary 
+policy, macroprudential policy, and capital flow measures are all complements ( that is , jointly tightened or 
+eased). Akinci and Olmstead -Rumsey (2018) differentiate s housing and nonhousing macroprudential tools, 
+finding that the nonhousing measures work in tandem with monetary policy (complements), while the housing 
+measures are tightened when monetary policy is eased, and vice versa (substitutes). 
+73
+Journal of Financial Crises Vol. 4 Iss. 3
+
+--- Page 17 ---
+Figure 8: Policy combinations 
+ 
+Note: * indicates significance at 10%. 
+Sources: Authors’ calculations; Cerutti, Claessens, and Laeven 2015; Fernández et al. 2015; and IMF International 
+Financial Statistics. 
+B. Monetary Policy Transmission and the Impact of Additional Instruments on FXI 
+Effectiveness and the Monetary Policy Response 
+This section investigates the transmission and effectiveness of traditional monetary policy 
+and how the use of alternate tools affects FXI effectiveness and the monetary policy reaction. 
+Policy rate changes aff ect output, in part by affecting longer -term interest rates (Figure 7). 
+Inflation is highly responsive to output, and this Phillips curve relationship would thus seem 
+an important part of the transmission process. Nonetheless, the direct impact of policy rates 
+on inflation seems to be limited, reflecting a persistent “price puzzle, ” 19 consistent with 
+findings in the literature. 
+Changes in the nominal effective exchange rate significantly affect both growth and inflation, 
+although the impact is affected by s tructural characteristics (Figure 9). Despite the easing 
+effect on monetary policy, nominal exchange rate appreciation feeds through to lower 
+inflation (in line with past studies on FX pass-through, such as Caselli and Roitman 2019, and 
+Frankel, Parsley, and Wei 2012).20 However, pass-through depends heavily on the structural 
+and institutional characteristics of the country, including the credibility of the central bank , 
+which can limit second-round effects (Caselli and Roitman 2019).  
+With the exchange rate having potent effects on growth and inflation, it has been an 
+important tool for managing volatility in many NREs. Despite the move toward interest rate–
+based monetary policy, FXI —both spot and nonspot —has proven effective at managing 
+temporary external pressures and their inflationary consequences  (Figure 10) . The 
+literature provides a mixed picture on the effectiveness of spot FX intervention. Ostry, Ghosh, 
+ 
+19  A persistent “price puzzle”—the finding that positive interest rate shocks result in higher inflation in impulse 
+response analysis —has been a common feature of many monetary policy VARs, for both advanced and 
+emerging economies since Sims (1992). For advanced economies, alternative identifications (Kim and Roubini 
+2000) and the inclusion of additional information ( for example,  Banbura, Giannone, and Reichlin 2010; and 
+Bernanke, Boivin, and Eliasz 2005) have attenuated or even eliminated the puzzle. For EMs, however, none of 
+the strategies has so far succeeded in eliminating the puzzle.  
+20 The domestic activity response to a nominal depreciation likely reflects that appreciation is often associated 
+with expanding external demand for domestic goods. 
+Policies MP tightening MP easing MPMs CFMs FXIs
+MP tightening 1.000
+MP easing 1.000
+MPMs 0.084* -0.096* 1.000
+CFMs 0.156* -0.038 0.249* 1.000
+FXIs 0.069* -0.058 0.017 0.087 1.000
+74
+Managing External Volatility Poirson et al.
+
+--- Page 18 ---
+and Chamon (2012) concludes that evidence for the effectiveness of sterilized FXI in EMs is 
+mixed but is generally more favorable than in the advanced economy context.  Adler and 
+Tovar (2011) finds that purchasing foreign currency slowed the pace of appreciation and is 
+more effective at slowing appreciation when the exchange rate is already  overvalued, with 
+the amount of intervention appearing to matter more than the mere presence of the central 
+bank in the FX market. 
+Figure 9: The Effect of a Monetary Policy Shock 
+  
+  
+Sources: Authors’ calculations; Haver Analytics; IMF International Financial Statistics. 
+75
+Journal of Financial Crises Vol. 4 Iss. 3
+
+--- Page 19 ---
+Figure 10: IRF of Output and Inflation to Credit 
+  
+Sources: Authors’ calculations; Haver Analytics; IMF International Financial Statistics . 
+Blanchard, Dell’Ariccia, and Mauro  (2013) finds that FXI affects exchange rates, and that 
+capital controls and FXI are both complements and substitutes: complements because capital 
+controls decrease the elasticity of flows with respect to relative rates of return, thereby 
+making FXI more powerful; and substitutes because both can be used to affect the exchange 
+rate, provided macro policies are appropriate and the flows are having an adverse impact on 
+financial and macroeconomic stability. 21  Building on Adler and Tovar (2011) and IMF 
+(2013a), this paper estimates the effect of intervention on the exchange rate by applying a 
+two-stage regression to account for endogeneity: intervention affects the exchange rate, but 
+the decision to intervene depends on the movements in the exchange rate. The first -stage 
+regression estimates a central bank ’s FX intervention policy reaction function . The 
+regression is estimated country by country, to allow heterogeneity of the response function 
+across countries. Decisions on intervention policy are assumed to depend on  recent 
+exchange rate moves and volatility, the level of reserves held by the central bank, and the 
+extent of exchange rate misalignment.  
+In the second stage, each EM ’s exchange rate (and its movements) is modeled as a function 
+of short -term interest rate s and longer -term sovereign spreads, commodity prices 
+fluctuations, market volatility (as measured by the VIX), as well as the derived central bank 
+intervention from the first -stage regression. 22 Interaction terms were also added to gauge 
+ 
+21 However, Svirydzenka and Zhang (forthcoming 2022) finds that such a policy, if prolonged , can generate 
+unintended consequences via a potential transmission channel from FXI to the FX risk held by banks through 
+their funding conditions. In particular, by limiting the potential for FX volatility, greater FXI incentivizes banks 
+to undertake more FX lending, which is sensitive to FX volatility. 
+22 The exchange rate equation is estimated separately for the case where foreign exchange is purchased, and 
+where it is sold in the first stage. Two types of relationships are estimated: where the dependent variable is (1) 
+the change in level of the bilateral exchange rate against the US dollar (change of natural logarithm); or (2) the 
+appreciation/depreciation of bilateral exchange rate.  
+76
+Managing External Volatility Poirson et al.
+
+--- Page 20 ---
+the effect of CFM s and MPMs, as well as fundamentals, on the effectiveness of FX 
+intervention. 
+The paper finds spot selling FXI to be effective, particularly when CFMs are in place:  
+• Selling foreign reserves is effective at absorbing depreciation pressures. Buying foreign 
+reserves is also found to significantly moderate appreciation pressures, particularly 
+when reserves are adequate, capital flows are restricted, inflation is well anchored, 
+the exchange rate is not overvalued, macroeconomic imbalances are limited, and 
+financial markets are less developed. However, although FXI significantly influences 
+the pace of exchange rate changes, this work does not find a statistically significant 
+impact on the exchange rate level.  
+• When CFMs  are in place , selling FX has a larger impac t on stemming depreciation 
+pressures, as expected. Countries with CFMs tend to find a larger impact from FXI, as 
+this reduces offsetting private capital flows. 
+While experience is more limited, recent nonspot FXI seems similarly effective.  Nonspot 
+intervention may be different in character than spot FXI, but its impact on the exchange rate 
+can be similar. Nonspot intervention does not directly affect the balance of demand and 
+supply in the FX market but can indirectly affect the demand for foreign currency by 
+providing cover against the risk from the position held by private agents. If it is effective, 
+nonspot intervention is likely to work through the same channels—portfolio and signaling—
+as spot FX intervention. There is limited experience with nonspot intervention.23  
+While the exchange rate significantly affects growth and inflation (Figure 11), developments 
+in credit growth are also important for NRE growth and inflation. Inflation and real economic 
+conditions respond strongly to credit growth (Figure 10), which may explain why quantity-
+based tools such as reserve requirements have traditionally been used by many NREs. This 
+finding also suggests that policies such as MPMs, which aff ect the incentives for risk taking 
+and borrowing, can influence the business cycle. 
+How monetary frameworks have been quantitatively affected using MPMs and CFMs is 
+something on which so far only country case studies have concretely focused (Bruno, Shim, 
+and Shin 2017 ; Iman, Nier, and Jácome  2012). To extend this analysis, we use panel 
+regression analysis and find that there are important interactions between the monetary 
+policy response and the use of other policies, such as FXI, in NREs (Figure 12).24 Specifically, 
+ 
+23 Nedeljkovic and Saborowski (2017) finds spot and nonspot intervention to be similarly effective in the case 
+of Brazil. The analysis employs a common empirical framework, comparing the Brazilian Central Bank’s (BCB) 
+FX intervention in the spot markets with that using nondeliverable futures contracts. The BCB has used both 
+these tools jointly to address foreign exchange pressure. The paper finds a significant link between intervention 
+(in both spot and derivative markets) and changes in the real/US dollar exchange rate. It also finds that both 
+spot and nonspot FXI are effective in affecting implied exchange rate volatility.  
+24 “Augmented Taylor rules” account for a broader set of central bank considerations, such as financial stability 
+or exchange rate movements unexplained by fundamentals (see Käfer 2014 and references therein). To assess 
+central banks ’ reactions to these variables , one needs to deal with the endogeneity issue as, for instance, 
+77
+Journal of Financial Crises Vol. 4 Iss. 3
+
+--- Page 21 ---
+an analysis of augmented Taylor rules for a sample of 79 countries, of which 49 are emerging 
+and developing economies, suggests that central banks react to financial sector stability and 
+exchange rate concerns, as measured by changes in credit growth and the NEER, that are not 
+explained by macroeconomic developments—that is, credit and exchange rate gaps.25 
+Figure 11: IRF of Inflation to NEER 
+ 
+ 
+Sources: Authors’ calculations; Haver Analytics; IMF International Financial Statistics . 
+ 
+  
+ 
+financial variables and exchange rates might both be affected by macroeconomic fluctuations and monetary 
+policy decisions. Typical solutions include the use of real-time data and instrumental variable techniques with 
+lagged terms of financial, exchange rate, macroeconomic variables, and policy rates.  
+25 The variables are chosen specifically to test to what extent NREs ’ monetary policy stance can be explained 
+by financial stability or external concerns. In particular, the propensity of monetary policy to react to credit 
+considerations in certain circumsta nces has been termed “leaning against the wind ” (IMF 2015). For the 
+exchange rate, in the case of inflation-targeting countries , the central bank reacts  only to exchange rate 
+volatility that threatens the inflation target rather than for the purpose of sta bilizing the exchange rate.   
+78
+Managing External Volatility Poirson et al.
+
+--- Page 22 ---
+Figure 12: Additional Tools Delay the Monetary Response to Credit and Exchange 
+Rate Gaps 
+  
+ 
+ 
+ 
+ 
+Notes: Blue bars represent the response of the policy rate to a 100 -basis point shock to credit and exchange 
+rate gaps (changes in credit growth and the NEER that are not explained by macroeconomic developments). 
+The gray bars represent the policy rate response to such gaps when additional tools (MPMs, CFMs, and FXI) are 
+applied (that is, these tools are interacted with the credit and exchange rate gaps). */**/*** indicate significance 
+at 10%, 5%, and 1%, respectively.  
+Sources: Authors’ calculations; Cerutti, Claessens, and Laeven 2015; Fernández et al . 2015; IMF World Economic 
+Outlook. 
+However, a tightening of MPMs significantly lowers the reaction of policy rates to the credit 
+gap. Similarly, a tightening of measures on capital inflows or outflows, or use of FXI, reduces 
+the monetary policy reaction to an exchange rate gap (absent such measures, monetary 
+policy rates tend to loosen in response to a positive gap, that is , an exchange rate 
+appreciation that is not explained by macroeconomic developments). The results in F igure 
+79
+Journal of Financial Crises Vol. 4 Iss. 3
+
+--- Page 23 ---
+12 are qualitatively similar when only EMs are included in the estimation, although the 
+extent to which use of MPMs, CFMs, or FXI affects the monetary policy reaction for EMs 
+seems somewhat less than for the full sample. 
+C. Interest Rate Policy under Extreme External Pressure and FX Market Liquidity 
+The experience of Russia in 2014 –2015 provides an interesting case study of the use of 
+monetary policy through the interest rate to restore exchange market functioning. In 2014, 
+Russia faced two adverse shocks: a drop in the oil price and a sudden closure of access to 
+international capital markets due to the sanctions imposed by some countries. These shocks 
+resulted in significant market turbulence, large net capital outflows, significant currency  
+depreciation―95% over the course of the year―and related inflationary pressures, with 
+elevated concerns for financial stability. Given the restricted access Russian banks and 
+companies had to external markets, there was significant strain in the FX market. 
+On December 16, 2014 , the Central Bank of Russia announced a significant policy 
+tightening—raising the policy rate by 650 basis points (bps) to anchor inflation expectations 
+including by reducing depreciation expectations and mitigating the pass -through effects on 
+inflation. 26  Although liquidity conditions in the FX market tightened upon the policy 
+announcement, they soon after began to normalize.  This is discussed in further detail in 
+Appendix A. In addition to the policy rate change, the outcome was backed by other 
+complementary measures aimed at supporting the stability of the financial system and 
+expanding FX liquidity provision to banks, which helped ease funding pressures in the FX 
+interbank market. The former included temporary forbearance measures on loan 
+classification, provisioning, and valuation accounting. The latter comprised the expansion of 
+the collateral acceptable for FX repo auctions and the temporary easing of restrictions in 
+banks’ lending and deposit interest rates. The key policy rate was lowered by 200 bps on 
+January 31, 2015, and by July 2015 , the interest rate was back to the level prior to the 
+December 16, 2014, hike.  
+D. The Impact and Effectiveness of Policy Packages 
+This section applies models of small open NREs to illustrate the impact of alternative policy 
+responses using an expanded tool set.27 Key conclusions are that the effectiveness of a policy 
+package is highly dependent on the type of shock and constraints on monetary policy 
+transmission such as the effective lower bound (ELB). 
+The analysis builds on the findings in the preceding discussio n, which has established that 
+(1) monetary policy can transmit through long -term interest rates; ( 2) exchange rate 
+ 
+26 Effective November 10, 2014 , the Central Bank of Russia (CBR) eliminated its exchange rate corridor and 
+canceled regular foreign exchange interventions, adopted a de jure floating exchange rate regime (previously a 
+de jure other managed).  
+27 The models are calibrated to small open economies, and their results are less applicable to more closed NREs, 
+accounting also for differences between the models’ results and the empirical evidence in Section III. 
+80
+Managing External Volatility Poirson et al.
+
+--- Page 24 ---
+flexibility plays a critical role as a buffer ;28 (3) the credit channel remains effective in many 
+NREs; and ( 4) there are important interacti ons among policy instruments that affect the 
+impact of an overall package. The discussion compares a policy package with a simpler policy 
+response relying on monetary policy and complete exchange rate flexibility. In the first part 
+of this section , the add itional tools of FXI and CFMs are discussed. In the second part, the 
+effectiveness of a policy package of monetary policy with MPMs aimed at reducing systemic 
+risks from foreign currency loans is discussed , including in the case of the lower bound 
+constraint on monetary policy. 
+Monetary Policy, FXI, and the Impact of CFMs 
+This part of the section outlines the impact of different combinations of interest rate policy 
+and FXI on the effectiveness of policy in smoothing the impact of external financial and 
+domestic demand shocks. In addition, it argues that the existence of CFMs would reduce the 
+monetary policy and FXI response. This discussion uses a stylized New Keynesian small 
+open-economy model. 
+In the stylized setup, based on Escudé (2013) , the central bank  is assumed to manage 
+monetary policy through a relatively standard Taylor rule, and also to manage an 
+intervention rule to stabilize the exchange rate in the face of shocks. We compare two policy 
+regimes: a pure float where the central bank follows only i ts Taylor rule; and a mechanism 
+using a combination of interest rate policy based on a Taylor rule and FX intervention, a so -
+called managed float regime. Two temporary macroeconomic shocks are considered: (1) an 
+external financial conditions shock (modeled as a risk premium shock);29 and (2) a domestic 
+demand shock. As elaborated in Appendix B, other domestic shocks, such as a supply shock, 
+yield qualitatively similar results.  
+• Tighter external financial conditions shock . The introduction of exchange rate 
+management via FXI ensures that the interest rate is less responsive to a rise in the 
+cost of foreign funds (Figure 13). That is, without FXI, a rise in the risk premium leads 
+to a currency depreciation, which via import prices results in higher CPI inflation and 
+leads the central bank to raise policy rates. Under the regime with the two policy tools, 
+FXI reduces the rate of depreciation and hence lowers the impact on inflation. This 
+then results in a lower domestic rate hi ke to achieve domestic inflation, output, and 
+employment objectives. Consequently, FX intervention can help manage extreme 
+external pressure, especially if the country has substantial exchange rate pass -
+through or currency mismatches (that would exacerbate  balance sheet risks 
+following currency depreciation).  
+• Domestic demand shock . FX intervention tends to shorten the duration of higher 
+ 
+28 Of course, there are costs related to FX intervention such as sterilization costs. However, this paper does not 
+explicitly discuss this issue in order to focus on the interaction between FX intervention/MPMs and monetary 
+policy instruments. 
+29 Given interest rate parity, the risk premium shock is equivalent to a rise in foreign interest rates.  
+81
+Journal of Financial Crises Vol. 4 Iss. 3
+
+--- Page 25 ---
+inflation and the required policy rate hike in response to the domestic demand shock 
+(Figure 14). There is little differe nce across the two policy regimes right after the 
+shock as they both result in higher inflation and policy rates. However, subsequently, 
+FXI limits the extent of exchange rate depreciation and keeps inflation and policy 
+rates somewhat lower than when FXI i s not used, at the cost of a more prolonged 
+current account deficit and lower output. As such, the smoothing effect of FXI is 
+significantly lower in the face of a domestic demand shock compared with the 
+external financing shock. 
+• Overall, the combined use of monetary policy and FXI tends to smooth the impact of 
+the shock on the domestic economy. However, the degree of smoothing crucially 
+depends on the nature of shock. The use of FXI has a far greater impact on economic 
+developments for an external financing shock than in the case of the demand shock. This 
+is because FXI can directly mitigate the external financing shocks given interest rate 
+parity, insulating domestic interest rates. 
+The combination of FXI and interest rate policy also alters the trade -offs policymakers face 
+(Figure 15). The monetary policy frontiers between output and inflation volatility show the 
+best (lowest variance) combination of inflation and output variability obtainable given 
+alternative weights in the policy rules. 30 That is, for di fferent central bank preferences over 
+inflation and output volatility, it shows the best possible outcome. For external financing 
+shocks, the two-policy regime is superior to a pure float with a Taylor rule in the sense that the 
+obtainable output and inflation volatility is generally preferable to that available under a pure 
+float. This suggests that a combination of FX intervention and interest rate policy could achieve 
+lower output and inflation volatility in response to external pressures than a single-instrument 
+response. For domestic demand shocks, the central bank faces a trade -off between inflation 
+and output-gap stabilization, as implied by the negative slope of the frontiers.  
+Based on the discussion in previous sections, the existence of CFMs would likely result in a 
+smaller response through interest rate policy and FX intervention. In particular, CFMs limit 
+the extent of capital flows for any given external shock and their response to any  interest 
+rate movement. They also enhance the effectiveness of intervention (as discussed in Section 
+IV.B). Thus, the impact of the external financial conditions shock would be smaller, and the 
+response of policy rates and the amount of FXI would also be smaller than in the absence of 
+CFMs. Given the more limited effect of FXI for the demand shock, the CFMs would mitigate 
+the exchange rate impact but not really change the main elements of the policy package. 
+Monetary, Fiscal, and Macroprudential Policies When Monetary Policy Is Constrained 
+In this  part of the  section, we study the interaction among monetary, fiscal, and 
+macroprudential policies in response to external shocks. We find that using a combination 
+of policies—for example, having a macroprudential  policy targeted at foreign borrowing —
+ 
+30 Specifically, policy frontiers are derived by altering the Taylor coefficient parameters on output and inflation 
+and looking at the simulated volatility of inflation and output for each set of parameters, looking at each shock 
+in isolation.  
+82
+Managing External Volatility Poirson et al.
+
+--- Page 26 ---
+enhances the effectiveness of the overall policy response, which can ease constraints on 
+monetary policy relevant for NREs facing an effective lower bound on policy rates.  
+Open-economy dynamic stochastic general equil ibrium (DSGE) models addressing 
+interactions between monetary policy and various policy tools to manage external shocks 
+are still limited in number. Moreover, most open -economy models do not consider the case 
+when monetary policy is constrained, for example, by a lower bound.  
+Chen and Laseen (2017) develop s a novel open -economy DSGE model to investigate how 
+interactions among monetary, fiscal, and certain macroprudential policies, in the context of 
+high foreign currency borrowing, affect the central bank ’s ability to achieve its inflation 
+target.31 The analysis considers two policy tools in addition to monetary policy and assumes 
+a fully flexible exchange rate. A fiscal authority can raise taxes to finance its expenditures. 
+Moreover, a macroprudential autho rity can set a variable levy on foreign borrowing to 
+mitigate systemic financial sector risks from the buildup of excessive foreign currency 
+exposures.32  
+The model results suggest that, in general, having a macroprudential policy instrument is 
+more beneficial than a single instrument (interest rate) response. As illustrated in Figure 16, 
+in the event of a global supply shock that lowers inflation, the monetary policy responses 
+raise inflation faster when the macroprudential instrument is activated to maintain financial 
+stability (blue lines) than in its absence (black lines). The policy interest rate does not need 
+to be lowered as much where macroprudential policy is activated. The main channel through 
+which macroprudential policy helps to raise inflation faster is the exchange rate depreciation 
+(lower left panel in Figure 16). In response to the global supply shock, a levy on firms ’ 
+borrowing is increased , inducing firms to further reduce the foreign credit (lower right 
+panel), which, as a result, weakens the appreciation pressure caused by the shock. Fiscal 
+policy in combination with monetary policy also helps to raise inflation faster (red dotted 
+line), but its transmission channel is different.  
+The results also suggest that the gains from having a macroprudential policy as an additional 
+instrument are significantly larger when monetary policy is constrained. Figure 17 shows 
+that, when monetary policy is constrained by the ELB, a macroprudential policy instrument 
+as considered in the previous paragraph helps to raise inflation much faster toward the 
+ 
+31 Specifically, the lower bound constraints faced by some advanced NREs —and possibly some financially  
+integrated EMs —are modeled as an exogenous constraint (fixed l evel of interest rate) below which the 
+monetary authority cannot lower policy rates. The model considers the special case of the lower bound fixed 
+at zero (which is relevant for advanced NREs but not for most EMs). EM central banks, however, may take as 
+an “interim” lower bound a positive level of the interest rate under some circumstances ( for example, fear of 
+capital outflows). If the constraint were a small positive number, we would not expect the results to change 
+qualitatively. A more complicated case where the constraint is endogenous (for example, related to the level of 
+external debt) would be a possible direction for future work.  
+32 This policy measure can be considered to be a CFM as well as an MPM.  
+83
+Journal of Financial Crises Vol. 4 Iss. 3
+
+--- Page 27 ---
+target, in turn allowing the policy rate to leave the lower bound earlier. The figures also point 
+to higher fiscal multipliers at the ELB, in line with previous studies’ findings. 
+Figure 13: The Impact of an External Financing Shock 
+ 
+Sources: Authors’ calculations; Haver Analytics; IMF International Financial Statistics . 
+Figure 14: The Impact of a Domestic Demand Shock 
+ 
+Sources: Authors’ calculations; Haver Analytics; IMF International Financial Statistics . 
+84
+Managing External Volatility Poirson et al.
+
+--- Page 28 ---
+Figure 15: The Policy Trade-off between Inflation and Output Volatility 
+ 
+Sources: Authors’ calculations; Haver Analytics; IMF International Financial Statistics.  
+The macroprudential policy reduces the externality generated by the ELB. As monetary 
+policy hits the ELB, domestic bank credit becomes relatively more expensive compared with 
+the foreign credit. Thus, firms choose to bo rrow relatively more abroad . This is shown as 
+foreign borrowing falling less in the baseline when monetary policy is constrained (Figure 
+17) compared with when it is unconstrained (Figure 16). This generates an externality in 
+that higher capital inflows cr eate additional appreciation pressure, which the firms do not 
+internalize. Macroprudential policy in the model, which is designed to limit the buildup of 
+systemic risk, could reduce this externality by making foreign credit more expensive relative 
+to domestic funding. Hence, firms would borrow less in international markets , reducing the 
+appreciation pressure resulting from the lower bound on interest rates. 33 Fiscal policy, on 
+the other hand, carries a larger multiplier because the nominal interest rate is not raised 
+(“fixed” at the ELB) in response to an increase in government spending.  
+V. Conclusion 
+NREs have broadened their policy tool  kit to allow greater exchange rate flexibility while 
+including MPMs, FXI, and, to a more limited degree, CFMs over the past 15 years. In response 
+to the COVID-19-related shocks, EMs in particular have allowed the exchange rate to play a 
+large shock absorber role while the use of CFMs has been limited so far. The wider use of 
+these tools—including among AEs after the GFC—has in turn led to growing awareness that 
+policy interactions matter. A substantial literature, so far comprising mostly theoretical 
+models and country case studies, has examined the impact of policy interactions but not 
+directly measured their extent in practic e. To help fill this gap, this paper provides both 
+direct measures of the quantitative implications of policy interactions for monetary policy 
+independence, monetary policy response, and FXI effectiveness and an assessment of the 
+ 
+33 Interestingly, this effect is similar to the o ne discussed by Jeanne and Svensson (2007) and Eggertsson 
+(2006). If the government prints nominal liabilities (such as government bonds or money) and purchases 
+foreign exchange, it will incur balance  sheet losses if it reneges on an inflation promise beca use this would 
+imply an exchange rate appreciation and thus a portfolio loss.  
+0.00
+0.05
+0.10
+0.15
+0.20
+0.25
+0.30
+0.35
+0.40
+0.00 0.05 0.10 0.15 0.20
+Outlput volatility
+Inflation volatility
+Risk-premium shock
+Managed ER
+Pure Float
+1.61
+1.71
+1.81
+1.91
+2.01
+2.11
+2.21
+0.12 0.32 0.52 0.72 0.92
+Output Volatility
+Inflation Volatility
+Demand shock
+85
+Journal of Financial Crises Vol. 4 Iss. 3
+
+--- Page 29 ---
+policy mix effectiveness a nd its transmission. A more complete analysis would require the 
+establishment of benchmarks for assessing effectiveness of different policy combinations.  
+The results confirm that growing financial integration makes NREs susceptible to global 
+financial spi llovers. In particular, we find that external real and financial shocks affect 
+domestic real and financial conditions, policy transmission to long -term rates, and the 
+monetary policy reaction. The dependence of monetary policy on international monetary 
+policy spillovers and its response to nontraditional objectives (external and financial 
+stability) is attenuated significantly in countries that use FXI and/or activate other tools 
+(MPMs and CFMs). We also find that FXI can reduce exchange rate volatility and  is more 
+effective with CFMs under some circumstances. 
+Our findings finally suggest that a policy response that relies on a combination of 
+instruments can sometimes be more effective than a single -instrument response. A model -
+based analysis suggests that t he relative effectiveness of a combined monetary policy 
+response with FXI to external pressures is highly dependent on the nature of the shocks. FXI 
+can help smooth the impact of external financing shocks but adds relatively little to the 
+response to domes tic demand (or supply) shocks. In the case of a global disinflationary 
+shock, the results from a stylized model suggest that well -targeted MPMs combined with 
+monetary policy are more effective at stabilizing inflation and output than monetary policy 
+alone, particularly when monetary policy faces constraints such as a zero lower bound.  
+It would be important to explore the effectiveness of alternative policies in softening the 
+monetary policy response to other types of global financial shocks besides US monetary 
+policy shocks. Other interactions between instruments used by NREs to stabili ze their 
+economies in the face of shocks could also be explored. Examples include the interaction 
+between CFMs/MPMs, FXI/MPMs, and the nexus between fiscal policy and unconventional 
+tools (including unconventional monetary policies  recently deployed by som e EMs to 
+address market dysfunction from the COVID-19 shock). Lastly, a more granular examination 
+should be applied in individual country cases given the specifics of policy transmission and 
+shocks affecting the economy (see Fayad and Poirson 2020). This w ould be required to 
+translate the high-level approach taken in this paper into practical policy application at the 
+country level.   
+86
+Managing External Volatility Poirson et al.
+
+--- Page 30 ---
+Figure 16: Monetary Policy Rule: Unconstrained Taylor Rule 
+ 
+                             Interest rate                      Inflation                       Output gap 
+ 
+     Real exchange rate             Government spending            Firm foreign borrowing  
+                               
+Notes: In percent deviations from steady state. “MP+MPM” line shows responses under combined 
+monetary/macroprudential measures. “MP+FP” line shows the responses under combined monetary/fiscal 
+policies. 
+Source: Chen and Laseen 2017. 
+-0.6
+-0.4
+-0.2
+0
+0.2
+0.4
+0.6
+0.8
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20
+87
+Journal of Financial Crises Vol. 4 Iss. 3
+
+--- Page 31 ---
+Figure 17: Monetary Policy Rule: Max (0, Unconstrained Taylor Rule) 
+ 
+                             Interest rate                       Inflation                      Output gap 
+ 
+  Real exchange rate            Government spending          Firm foreign borrowing  
+                                   
+Notes: In percent deviations from steady state. “MP+MPM” line shows responses under combined 
+monetary/macroprudential measures. “MP+ FP” line shows the responses under combined monetary/fiscal 
+policies. 
+Source: Chen and Laseen 2017. 
+ 
+ 
+-1
+-0.5
+0
+0.5
+1
+1.5
+2
+2.5
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20
+88
+Managing External Volatility Poirson et al.
+
+--- Page 32 ---
+VI. References 
+Adler, Gustavo, and C amilo Tovar. 2011. “Foreign Exchange Intervention: A Shield against 
+Appreciation Winds?” International Monetary Fund Working Paper No. 11/165, July 2011 . 
+https://www.imf.org/en/Publications/WP/Issues/2016/12/31/Foreign-Exchange-
+Intervention-A-Shield-Against-Appreciation-Winds-25040  
+Adler, Gustavo, Ruy Lama, and Juan Pablo Medina. 2016 . “Foreign Exchange Intervention 
+under Policy Uncertainty.” International Monetary Fund Working Paper No. 16/67, March 
+2016. https://www.imf.org/en/Publications/WP/Issues/2016/12/31/Foreign-Exchange-
+Intervention-under-Policy-Uncertainty-43801  
+Adrian, Tobias, Christopher J. Erceg, Jesper Lindé, Pawel Zabczyk, and Jianping Zhou. 2020. 
+“A Quantitative Model for the Integrated Policy Framework .” International Monetary Fund 
+Working Paper No. 20/122, July 2020.  
+https://www.imf.org/en/Publications/WP/Issues/2020/07/07/A-Quantitative-Model-
+for-the-Integrated-Policy-Framework-49555 
+Aizenman, Joshua, Menzie D. Chinn, and Hiro Ito. 2013. “The ‘Impossible Trinity’ Hypothesis 
+in an Era of Global Imbalances: Measurement and Testing .” Review of International 
+Economics 21, no. 3: 447–58.   
+https://doi.org/10.1111/roie.12047  
+Akinci, O zge, and J ane Olmstead-Rumsey. 2018. “How Effective Are Macroprudential 
+Policies? An Empirical Investigation .” Journal of Financial Intermediation 33 (January): 33–
+57.   
+https://doi.org/10.1016/j.jfi.2017.04.001  
+Arregui, Nicolas, Selim Elekdag, Gaston Gelos, Roman Lafarguette, and Dulani Seneviratne. 
+2018. “Can Countries Manage Their Financial Conditions amid Globalization?” International 
+Monetary Fund Working Paper No. 18/15, January 2018.  
+https://www.imf.org/en/Publications/WP/Issues/2018/01/24/Can-Countries-Manage-
+Their-Financial-Conditions-Amid-Globalization-45581  
+Banbura, Marta, Domenico Giannone, and Lucrezia Reichlin. 2010. “Large Bayesian Vector 
+Auto Regressions.” Journal of Applied Econometrics 25, no. 1: 71–92.  
+https://doi.org/10.1002/jae.1137  
+Basu, Suman, Emine Boz, Gita Gopinath, Francisco Roch, and Filiz Unsal. 2020. “A Conceptual 
+Model for the Integrated Policy Framework .” International Monetary Fund Working Paper 
+No. 20/121, July 2020.   
+https://www.imf.org/en/Publications/WP/Issues/2020/07/07/A-Conceptual-Model-for-
+the-Integrated-Policy-Framework-49558  
+89
+Journal of Financial Crises Vol. 4 Iss. 3
+
+--- Page 33 ---
+Bernanke, B en S., Jean Boivin, and P iotr Eliasz. 2005. “Measuring the Effects of Monetary 
+Policy: A Factor-Augmented Vector Autoregressive (FAVAR) Approach.” Quarterly Journal of 
+Economics 120, no.1: 387–422.   
+https://doi.org/10.1162/0033553053327452  
+Blanchard, Olivier, Giovanni Dell’Ariccia, and Paolo Mauro. 2013. “Rethinking Macro Policy 
+II: Getting Granular .” International Monetary Fund Staff Discussion Note  No. 13/03, April 
+2013.  
+https://www.imf.org/en/Publications/Staff-Discussion-
+Notes/Issues/2016/12/31/Rethinking-Macro-Policy-II-Getting-Granular-40477  
+Brandao-Marques, L uis, Gaston Gelos, Machiko Narita, and Erlend Nier. 2020. “Leaning 
+against the Wind: A Cost-Benefit Analysis for an Integrated Policy Framework.” International 
+Monetary Fund Working Paper No. 20/123, July 2020.  
+https://www.imf.org/en/Publications/WP/Issues/2020/07/07/Leaning-Against-the-
+Wind-A-Cost-Benefit-Analysis-for-an-Integrated-Policy-Framework-49554  
+Bruno, V alentina, Ilhyock Shim, and H yun Song  Shin. 2017. “Comparative Assessment of 
+Macroprudential Policies.” Journal of Financial Stability 28 (February): 183–202.  
+https://doi.org/10.1016/j.jfs.2016.04.001  
+Calvo, Guillermo A. 1983. “Staggered Prices in a Utility -Maximizing Framework.” Journal of 
+Monetary Economics 12 no. 3: 383–98.   
+https://doi.org/10.1016/0304-3932(83)90060-0  
+Caselli, Francesca G., and Agustin Roitman. 2019. “Nonlinear Exchange Rate Pass-Through in 
+Emerging Markets.” International Finance 22, no. 3: 279–306.  
+https://doi.org/10.1111/infi.12344  
+Cerutti, E ugenio M., Stijn Claessens, and Luv Laeven. 2015. “The Use and Effectiveness of 
+Macroprudential Policies: New Evidence.” International Monetary Fund Working Paper No. 
+15/61, March 2015.   
+https://www.imf.org/en/Publications/WP/Issues/2016/12/31/The-Use-and-
+Effectiveness-of-Macroprudential-Policies-New-Evidence-42791  
+Chen, Jiaqian, and Stefan Laseen. 2017. “External Shocks and the Design of Macroprudential 
+Policy at the Zero Lower Bound.” Unpublished manuscript. 
+Eggertsson, Gauti, 2006. “The Deflation Bias and Committing to Being Irresponsible.” Journal 
+of Money, Credit and Banking 36, no. 2: 283–321.   
+https://muse.jhu.edu/article/196984/pdf  
+Escudé, Guillermo J., 2013. “A DSGE Model for a SOE with Systematic Interest and Foreign 
+Exchange Policies in Which Policymakers Exploit the Risk Premium for Stabilization 
+Purposes.” Economics: The Open -Access, Open-Assessment E-Journal 7, no. 2013-30: 1–110. 
+https://doi.org/10.5018/economics-ejournal.ja.2013-30   
+90
+Managing External Volatility Poirson et al.
+
+--- Page 34 ---
+Fayad, G hada, and H élène Poirson. 2020. “Caught in the Crosswinds: The Experiences of 
+Selected Economies Responding to External Volatility with Multiple Policy Levers .” 
+International Monetary Fund Working Paper No. 20/225, November 2020 . 
+https://www.imf.org/en/Publications/WP/Issues/2020/11/08/Caught-in-the-
+Crosswinds-The-Experiences-of-Selected-Economies-Responding-to-External-49860  
+Fernández, A ndrés, Michael W.  Klein, Allesandro Rebucci, Martin Schindler, and M artin 
+Uribe. 2015. “Capital Control Measures: A New Dataset, ” International Monetary Fund 
+Working Paper No. 15/80, April 2015.  
+https://www.imf.org/en/Publications/WP/Issues/2016/12/31/Capital-Control-
+Measures-A-New-Dataset-42867  
+Finger, Harald, and Pablo Lopez Murphy. 2019. “Facing the Tides: Managing Capital Flows in 
+Asia.” International Monetary Fund, Asia and Pacific Department Paper No. 19/17, October 
+2019.  
+https://www.imf.org/en/Publications/Departmental-Papers-Policy-
+Papers/Issues/2019/10/21/Facing-the-Tides-Managing-Capital-Flows-in-Asia-48625  
+Frankel, J effrey, David Parsley, and Shang -Jin Wei. 2012. “Slow Pass -Through around the 
+World: A New Import for Developing Countries?” Open Economies Review 23, no. 2: 213–51. 
+https://link.springer.com/article/10.1007/s11079-011-9210-8  
+Galati, Gabriele, and Richhild Moessner . 2013. “Macroprudential Policy —A Lite rature 
+Review.” Journal of Economic Surveys 27, no. 3: 846–78.   
+https://doi.org/10.1111/j.1467-6419.2012.00729.x  
+Gelos, G aston, Lucyna Gornicka, Robin Koepke, Ratna Sahay, and S ilvia Sgherri. 2019. 
+“Capital Flows at Risk: Taming the Ebbs and Flows .” International Monetary Fund Working 
+Paper No. 19/279, December 2019.  
+https://www.imf.org/en/Publications/WP/Issues/2019/12/20/Capital-Flows-at-Risk-
+Taming-the-Ebbs-and-Flows-48878  
+Ilzetzki, Ethan, Carmen M. Reinhart, and Kenneth S. Rogoff (2019) “Exchange Arrangements 
+Entering the Twenty-First Century: Which Anchor Will Hold?” Quarterly Journal of Economics 
+134, no. 2: 599-646. https://doi.org/10.1093/qje/qjy033. Dataset accessed at  
+https://carmenreinhart.com/exchange-rate/.  
+Iman, Patrick A., Erlend Nier and Luis I. Jácome. 2012 . “Building Blocks for Effective 
+Macroprudential Policies in Latin America: Institutional Considerations. ” International 
+Monetary Fund Working Paper No. 2012/183.  
+https://www.imf.org/en/Publications/WP/Issues/2016/12/31/Building-Blocks-for-
+Effective-Macroprudential-Policies-in-Latin-America-Institutional-26059  
+International Monetary Fund  (IMF). 2013a . “Assessing Reserve Adequacy —Further 
+Considerations.” IMF Policy Paper, November 2013.  
+https://www.imf.org/en/Publications/Policy-Papers/Issues/2016/12/31/Assessing-
+Reserve-Adequacy-Further-Considerations-PP4843  
+91
+Journal of Financial Crises Vol. 4 Iss. 3
+
+--- Page 35 ---
+———. 2013b. “World Economic Outlook.” October 2013.  
+https://www.imf.org/en/Publications/WEO/Issues/2016/12/31/Transitions-Tensions  
+———. 2015. “Monetary Policy an d Financial Stability .” IMF Policy Paper, August 2015.  
+https://www.imf.org/en/Publications/Policy-Papers/Issues/2016/12/31/Monetary-
+Policy-and-Financial-Stability-PP4982  
+———. 2016a. “Reference Note on Unconventional Monetary Policies and Foreign Exchange 
+Intervention under Disorderly Market Conditions.” Internal paper. 
+———. 2016b. “Asean-5 Cluster Report―Evolution of Monetary Policy Frameworks .” IMF 
+Country Report No. 16/176, June 2016.  
+https://www.imf.org/en/Publications/CR/Issues/2016/12/31/Asean-5-Cluster-Report-
+Evolution-of-Monetary-Policy-Frameworks-43988  
+———. 2017. Global Financial Stability Report, April 2017.  
+https://www.imf.org/en/Publications/GFSR/Issues/2017/03/30/global-financial-
+stability-report-april-2017  
+Jeanne, Olivier, and Lars Svensson. 2007. “Credible Commitment to Optimal Escape from a 
+Liquidity Trap: The Role of the Balance Sheet of an Independent Central Bank.” American 
+Economic Review 97, no. 1: 474–90.  
+https://www.aeaweb.org/articles?id=10.1257/aer.97.1.474  
+Jordà, Òscar. 2005. “Estimation and Inference of Impulse Respo nses by Local Projections .” 
+American Economic Review 95, no. 1: 161–82.   
+https://www.aeaweb.org/articles?id=10.1257/0002828053828518  
+Käfer, Benjamin. 2014. “The Taylor Rule and Financial Stability: A Literature Review with 
+Application for the Eurozone.” Review of Economics 65, 159-192.  
+https://doi.org/10.1515/roe-2014-0204  
+Kim, S oyoung, and N ouriel Roubini. 2000. “Exchange Rate Anomalies in the Industrial 
+Countries: A Solution with a Structural VAR Approach .” Journal of Monetary Economics  45, 
+no. 3: 561–86. https://doi.org/10.1016/S0304-3932(00)00010-6  
+Lim, Cheng Hoon, Francesco Columba, Alejo Costa, Piyabha Kongsamut, Akira Otani, Mustafa 
+Saiyid, Torsten Wezel, and Xiaoyong Wu. 2011. “Macroprudential Policy: What Instruments 
+and How to Use Them? Lessons from Country Experiences .” International Monetary Fund 
+Working Paper No. 11/238, October 2011.  
+https://www.imf.org/en/Publications/WP/Issues/2016/12/31/Macroprudential-Policy-
+What-Instruments-and-How-to-Use-them-Lessons-From-Country-Experiences-25296  
+Nedeljkovic, Milan, and Christian Saborowski. 2017. “The Relative Effectiveness of Spot and 
+Derivatives Based Intervention: The Case of Brazil .” International Monetary Fund Working 
+Paper No. 17/11, January 2017.  
+92
+Managing External Volatility Poirson et al.
+
+--- Page 36 ---
+https://www.imf.org/en/Publications/WP/Issues/2017/01/24/The-Relative-
+Effectiveness-of-Spot-and-Derivatives-Based-Intervention-The-Case-of-Brazil-44576  
+Ostry, J onathan David, Atish R.  Ghosh, and M arcos Chamon. 2012. “Two Targets, Two 
+Instruments: Monetary and Exchange Rate Policies in Emerging Market Economies .” 
+International Monetary Fund Staff Discussion Note No. 12/01 , February 2012 . 
+https://www.imf.org/en/Publications/Staff-Discussion-Notes/Issues/2016/12/31/Two-
+Targets-Two-Instruments-Monetary-and-Exchange-Rate-Policies-in-Emerging-Market-
+Economies-25732  
+Rey, Hélène. 2015. “Dilemma not Trilemma: The Global Financial Cycle and Monetary Policy 
+Independence.” National Bureau of Economic Research Working Paper No. 21162, May 2015. 
+https://www.nber.org/system/files/working_papers/w21162/w21162.pdf   
+Ricci, L uca, and W ei Shi. 2016. “Trilemma or Dilemma: Inspecting the Heterogeneous 
+Response of Local Currency Interest Rates to Foreign Rate s.” International Monetary Fund 
+Working Paper No. 16/75, March 2016.  
+https://www.imf.org/en/Publications/WP/Issues/2016/12/31/Trilemma-or-Dilemma-
+Inspecting-the-Heterogeneous-Response-of-Local-Currency-Interest-Rates-43826  
+Schmitt-Grohé, Stephanie, and Martín Uribe, 2003. “Closing Sma ll Open Economy Models.” 
+Journal of International Economics 61, no. 1: 163 –85. https://doi.org/10.1016/S0022-
+1996(02)00056-9  
+Sims, Christopher A. 1992. “Interpreting the Macroeconomic Time Series Facts: The Effects 
+of Monetary Policy.” European Economic Review 36, no. 5: 975–1000.  
+https://www.sciencedirect.com/science/article/pii/001429219290041T  
+Svirydzenka, K atsiaryna, and Z hongxia Zhang. 2022. “Unintended Consequences of FX 
+Interventions: Dollarization in Emerging Market Economies .” International Monetary Fund 
+Working Paper, forthcoming. 
+Wu, J ing Cynthia, and F an Dora  Xia. 2016. “Measuring the Macroeconomic Impact of 
+Monetary Policy at the Zero Lower Bound.” Journal of Money, Credit and Banking 48, no. 2–3: 
+253–91.  
+https://doi.org/10.1111/jmcb.12300  
+Zdzienicka, A leksandra, Sally Chen, Federico Diaz Kalan,  Stefan Laseen, and K atsiaryna 
+Svirydzenka. 2015. “Effects of Monetary and Macroprudential Policies on Financial 
+Conditions: Evidence from the United States.” International Monetary Fund Working Paper 
+No. 15/288, December 2015.  
+https://www.imf.org/en/Publications/WP/Issues/2016/12/31/Effects-of-Monetary-and-
+Macroprudential-Policies-on-Financial-Conditions-Evidence-from-the-43508  
+  
+93
+Journal of Financial Crises Vol. 4 Iss. 3
+
+--- Page 37 ---
+VII. Appendixes 
+Appendix A: The Impact of Interest Rate Policy in the Face of External 
+Pressures—the Case of Russia in 2014 
+Facing external pressure, the Central Bank of Russia (CBR) introduced a significant change 
+in interest rate policy in late 2014. In an unscheduled meeting early on December 16, 2014, 
+the CBR decided on a dramatic policy rate hike of 650 basis points  (bps), moving the policy 
+rate to 17 %, as a critical compone nt of a comprehensive package. 34  The interest rate 
+hike―the sixth hike in 2014―followed a 100 -bp increase in interest rates on December 11 
+and the introduction of repo transactions to  normalize foreign exchange ( FX) liquidity 
+conditions.35 Nonetheless, the  ruble depreciated following the policy announcement and 
+triggered a significant tightening of liquidity conditions in the FX market.  
+• Trading volumes increased substantially following CBR’s interest rate hike. 
+• Liquidity conditions tightened as the market became one-sided amid rumors of the 
+possible introduction of capital controls and political criticism of the CBR. Bid -ask 
+spreads increased by more than 617% relative to their average level during the week 
+prior to the CBR’s announcement. The effective cos t of transactions increased by 
+640% over the same period , and liquidity strains remained in place for a few days 
+before normalizing. 
+• The impact of trading on the price (exchange rate) increased. The impact of order 
+flows on the exchange rate returns increa sed significantly following the CBR’s 
+interest rate hike and remained high before normalizing the week after the policy 
+event. This suggests that the market struggled to deal with larger transaction 
+volumes. The return reversal—that is, the speed with which the exchange rate return 
+converges to fundamentals —recovered to its normal dynamics (as indicated by the 
+negative coefficient in Figure 18).  
+  
+ 
+34 The CBR also announced that it intended to introduce in the “near future” foreign exchange lending secured 
+by nonmarketable assets. These complementary measures were implemente d on December 18. 
+35  On November 10 , the  CBR abolished the dual currency soft peg along with its automatic 
+interventions―putting an end two decades of exchange rate controls. With this decision , the  CBR began to 
+intervene in the market to address “financial stability threats” and moved the FX regime closer to a free float.  
+94
+Managing External Volatility Poirson et al.
+
+--- Page 38 ---
+Figure 18: Liquidity Conditions in the FX Market around the December 16, 2014, 
+Hike in the Key Policy Rate 
+Note: For definitions, see text. 
+Sources: Authors’ calculations; Electronic Broking Services (EBS) data. 
+  
+  
+Week before 
+Dec. 16 Dec. 16 Dec. 
+17 
+Week after 
+Dec. 17 
+Memo: Full 
+sample 
+Bid-ask spread (bps) 14.38 88.8
+5 
+242.
+91 64.44 10.03 
+Effective cost of 
+transaction (bps) 1.65 10.5
+6 
+14.4
+4 14.60 1.06 
+Price impact (bps) 2.50 13.5
+6 
+13.5
+6 –0.42 0.80 
+Traded volume (index) 89.01 130.
+82 
+72.5
+9 36.78 101.95 
+95
+Journal of Financial Crises Vol. 4 Iss. 3
+
+--- Page 39 ---
+Appendix B: Monetary Policy, FXI, and the Impact of CFMs 
+This appendix aims at investigating the economic theory behind various monetary policy 
+regimes and evaluating the implications of policy design in managing the cycle. The key 
+questions that this appendix addresses are how to explicitly account for a central bank (CB) 
+intervention policy and to what degree the augmentation of the interest -rate-setting rules 
+with exchange rate management can in fact lead to better policy outcomes. We draw heavily 
+on the model by Escudé (2013). 
+Model Overview 
+The model closely follows a standard New Keynesian small open-economy model as outlined 
+in Escudé (2013) using the Dynare code provided by the authors. Households consume both 
+domestic and imported goods, hold financial wealth in the form of domestic bonds issued by 
+the CB, and can borrow from abroad by issuing foreign currency bonds. In this sense , the 
+asset market structure in incomplete. The rate at which households can borrow in the 
+international markets consists of the international risk -free rate 𝑖∗ augmented by an 
+endogenous risk premium that depends on the aggregate debt-to-GDP ratio (Schmitt-Grohé 
+and Uribe 2003). Production is carried out by firms producing domestic goods as well as 
+exports. Price setting is staggered as in Calvo (1983), and the export good is envisaged to be 
+a primary good (commodity). The central bank issues currency and domestic currency bonds 
+and holds international reserves (Rs) in the form of foreign currency–denominated risk-free 
+bonds issued by the rest of the world. 
+(1) Modelling Risk Premium 
+The rate at which residents borrow in international markets is defined by: 
+1 + 𝑖𝑡
+𝐷 = (1 + 𝑖𝑡 
+∗ )𝜙∗𝜏𝐷 (𝑆𝑡𝐷𝑡
+𝑃𝑡𝑌𝑡
+) 
+where 𝑆𝑡 is the nominal exchange rate (domestic/foreign currency) ; 𝐷𝑡 is foreign debt; 𝑃𝑡𝑌𝑡 
+is the nominal GDP ; 𝜙∗ is an exogenous stochastic component that can capture shocks to 
+international liquidity ; and 𝜏𝐷 (
+𝑆𝑡𝐷𝑡
+𝑃𝑡𝑌𝑡
+)  is the gross risk premium , which is an increasing 
+function of the foreign debt-to-GDP ratio. This captures the idea of a debt-elastic interest rate 
+(Schmitt-Grohé and Uribe 2003), which ensures stationarity in the model.  
+(2) Monetary Policy 
+The central bank issues currency 𝑀𝑡, which is held by households to lower transaction costs, 
+issues domestic currency bonds 𝐵𝑡, and holds international re serves ( 𝑅𝑡) in the form of 
+foreign currency–denominated risk-free bonds issued by the rest of the world. Any profits 
+related to interest earned and capital gains from holding reserves are assumed to be 
+transferred to the government every period (Adler, Lama, and Medina 2016), making central 
+banks’ net worth constant. The flow budget constraint of the CB is: 
+96
+Managing External Volatility Poirson et al.
+
+--- Page 40 ---
+𝑀𝑡 + 𝐵𝑡 − 𝑆𝑡𝑅𝑡 = 𝑀𝑡−1 + (1 + 𝑖𝑡−1)𝐵𝑡−1 − (1 + 𝑖𝑡−1
+∗ )𝑆𝑡𝑅𝑡−1 
+= 𝑀𝑡−1 + 𝐵𝑡−1 − 𝑆𝑡−1𝑅𝑡−1 − 𝑞𝑢𝑎𝑠𝑖_𝑓𝑖𝑠𝑐𝑎𝑙 
+where quasi_fiscal refers to the interest income and capital gains from FX reserves assumed 
+to be transferred to the government every period. The CB balance at each period can 
+therefore be stated as 𝑀𝑡 + 𝐵𝑡 − 𝑆𝑡𝑅𝑡 = 0, which can be interpreted as the CB constraint and 
+dictates the sterilization of FX intervention.36  
+(a) Taylor Rule  
+1 + 𝑖𝑡
+1 + 𝑖 = (1 + 𝑖𝑡−1
+1 + 𝑖 )
+ℎ0
+(𝜋𝑡
+𝜋𝑇)
+ℎ1
+(𝑌𝑡
+𝑌)
+ℎ2
+(𝑒𝑡
+𝑒 )
+ℎ3
+ 
+Where h0 captures the inertia of setting interest rates not too different from last period’s and 
+h1, h2, and h3 capture the weight placed on minimizing deviations from the target inflation, 
+steady-state output, and the real exchange rate, respectively.37 
+(b) Intervention Policy 
+In the expression below, a second operational target is introduced : the rate of nominal 
+depreciation, whose instrument is the buying/selling of FX reserves by the CB. Although this 
+operational target can also respond to the same variables as in the Taylor rule, in this 
+baseline, we assume k0=k1=k2=k3=0. The coefficient on foreign reserves k4 is negative—an 
+increase in international reserves lowers the rate of deprecation and vice versa. 
+𝛿𝑡
+𝛿 = (𝛿𝑡−1
+𝛿 )
+𝑘0
+(𝜋𝑡
+𝜋𝑇)
+𝑘1
+(𝑌𝑡
+𝑌)
+𝑘2
+(𝑒𝑡
+𝑒 )
+𝑘3
+(𝑒𝑡 𝑟𝑡/𝑌𝑡
+𝑒 𝑟/𝑌 )
+𝑘4
+ 
+where δ is the nominal depreciation rate and r is the stock of FX reserves.  
+In the benchmark simulations , we try to show how the introduction of a second rule alters 
+the response to different shocks and what that implies for the volatility trade -offs between 
+Consumer Price Index inflation and output as we alter the policy parameters. For the 
+ 
+36 This is a stylized assumption to simplify notation. Some central banks transfer such amounts annually rather 
+than each period. Our assumption does not impact on the model’s economic results provided the amounts are 
+saved and sterilized until they are transferred. Assuming that the CB is reimbursed for its capital losses ignores 
+a main concern about sterilized foreign exchange intervention (FXI), which is the cost of carry in case the return 
+on reserves is lower that the local interest rate on bonds, or in case the exchange rate (S) appreciates and drags 
+the CB to a negative capital position. This quasi-fiscal cost reflects the price of FX purchases as a shield against 
+appreciation pressures. In practice, the level of reserves is likely to influence FXI decisions beyond a certain 
+threshold. This threshold is not considered in the model.  
+37 The Taylor rule specification is used to mim ic the actual observed behaviors of monetary policy. This does 
+not necessarily mean that the central bank attempts to stabilize the exchange rate (ex ante). Inflation-targeting 
+central banks will react to exchange rate volatility only if it threatens the inflation target. 
+97
+Journal of Financial Crises Vol. 4 Iss. 3
+
+--- Page 41 ---
+benchmark results in Section IV.D of the paper, the following parameters are used: h0=0.2; 
+h1=1.2; h2=0.02; h3=0; k0=k1=k2=k3=0; k4=-0.005. 
+(3) Optimal Simples Rules 
+The central bank is assumed to minimize a simple quadratic loss function, which is a 
+weighted sum of the volatility of output, inflation, and interest rate changes as well as 
+changes in the rate of depreciation. Under the pure float regime, the optimal simple rule 
+implies choosing parameters h0, h1, h2, and h3 of the Taylor rule above. Under the managed 
+float regime, this instead implies choosing h0, h1, and h2 of the Taylor rule  and k4 of the 
+intervention policy. We note that, for simplicity, we are focusing on the type of intervention 
+policy that targets the rate of depreciation and where k1, k2, k3=0. 
+𝐿𝑜𝑠𝑠 = 𝑤𝜋𝑉𝑎𝑟(𝜋) + 𝑤𝑦𝑉𝑎𝑟(𝑦) + 𝑤∆𝑖 (∆𝑖) + 𝑤∆𝛿 𝑉𝑎𝑟 (∆𝛿) 
+ 
+ 
+This open access article is distributed under the terms of the CC-BY-NC-ND 4.0 license, which 
+allows sharing of this work provided the original author and source are cited. The work may 
+not be changed or used commercially.   
+ 
+ 
+ 
+98
+Managing External Volatility Poirson et al.

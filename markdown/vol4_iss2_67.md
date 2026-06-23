@@ -1,0 +1,468 @@
+## Canada: Commercial Paper Purchase Program[1] 
+
+## _Lily S. Engbith[2]_ 
+
+Yale Program on Financial Stability Case Study July 15, 2022 
+
+## **Abstract** 
+
+In response to the onset of the COVID-19 crisis in early 2020, the Bank of Canada (BoC) enacted a wide-ranging program of monetary measures intended to support the flow of credit to individuals, firms, and municipalities. On March 27, 2020, the BoC announced the establishment of the Commercial Paper Purchase Program (CPPP), a liquidity facility designed to purchase highly rated commercial paper (CP), including asset-backed CP, from Canadian incorporated firms, municipalities, and provincial agencies. The BoC funded the program using settlement balances, and it retained several private firms to manage the asset purchases and liaise with issuers. Although firms took advantage of the program during its first month of operations, usage declined rapidly thereafter; the BoC’s CP holdings peaked at approximately 3.0 billion Canadian dollars (CAD) (USD 2.2 billion) the week of April 29, 2020. Alongside the BoC’s other large-scale asset purchase programs, the CPPP helped to quickly restore normal market functioning. The CPPP began making purchases on April 2, 2020, and operated for 12 months, terminating as scheduled on April 1, 2021. 
+
+**Keywords:** asset-backed commercial paper (ABCP), asset purchases, commercial paper, liquidity facility, short-term funding, wholesale funding 
+
+> 1This case study is part of the Yale Program on Financial Stability (YPFS) selection of New Bagehot Project modules considering market support programs in response to COVID-19. Cases are available from the _Journal of Financial Crises_ at https://elischolar.library.yale.edu/journal-of-financial-crises/. 
+
+> 2Senior Research Associate, YPFS, Yale School of Management. 
+
+
+## **Overview** 
+
+The spread of the COVID-19 pandemic to Canada in early March 2020 prompted the BoC to enact a series of monetary measures in order to combat potentially severe economic fallout. Among these, the central bank established or expanded 11 extraordinary liquidity and asset purchase facilities, eight of which were completely new. These programs allowed the BoC to inject more than CAD 377 billion (USD 281 billion)[3] in total liquidity into the financial system between March 2020 and June 2020, bolstering markets and supporting the smooth flow of credit to businesses, households, and municipalities at a time of extreme volatility (BoC 2020f). As a result, the BoC’s balance sheet nearly quintupled, from CAD 120 billion in March 2020 to approximately CAD 550 billion by the end of the year (BoC 2021i). 
+
+On March 27, 2020, the BoC announced the establishment of the Commercial Paper Purchase Program (CPPP) to address COVID-related strains in shortterm funding markets. Although the facility was intended to assist the BoC in supporting the “continuous functioning of financial markets,” the central bank did not address any specific concerns regarding the strength of the commercial paper (CP) market (BoC 2020h, 1). The BoC instead cited the importance of CP as a source of financing for a wide range of firms and public agencies, reiterating its commitment to ensuring the flow of credit to the real economy (BoC 2020h). 
+
+## **Key Terms** 
+
+Purpose: To relieve strains in the domestic commercial paper (CP) market and support the flow of credit to firms and public authorities by directly purchasing CP, including asset-back CP, on the primary and secondary markets. 
+
+|Launch dates|Authorized: March 25,|
+|---|---|
+||2020|
+||Announced: March 27,|
+||2020|
+|Operational Date|April 2, 2020|
+|End Date|April 2, 2021|
+|Legal Authority|Bank of Canada Act,|
+||Section 18(g)(i); March|
+||18, 2020, Amendment|
+|Source of Funding|Bank of Canada|
+|Administrator|Bank of Canada|
+|Overall Size|Aggregate amount of CP|
+||that each eligible|
+||institution could issue|
+||to the BoC|
+|Purchased Assets|Three-month Canadian|
+||dollar–denominated CP|
+||(including ABCP) rated|
+||at least R-1|
+||(high/mid/low)|
+|Peak Utilization|Approximately CAD 3.0|
+||billion in CP held by the|
+||Bank of Canada as of|
+||April 29, 2020|
+
+
+
+> 3 Per Yahoo Finance, USD 1 = CAD 1.34 on March 2, 2020. 
+
+
+The facility purchased from eligible issuers highly rated, CAD-denominated CP, including asset-backed CP, with tenors of three months, on both the primary and secondary markets. Canadian incorporated firms, municipalities, and provincial agencies with existing CP programs were allowed to issue to the CPPP up to 1.25 times the greatest amount of CADdenominated CP outstanding on any day in the 12 months prior to April 2, 2020 (BoC 2020c). The BoC based the pricing scheme on the credit rating of the issuer. Issuers with ratings of R-1 (high) or R-1 (middle) (highest or superior credit quality) from DBRS Morningstar, the largest credit rating agency in Canada, were charged 130 basis points above the three-month Canadian overnight index swap (OIS) rate, while those with a rating of R-1 (low) (good credit quality) paid 160 bps above the OIS rate (BoC 2020a). 
+
+Early take-up of the CPPP was robust, with utilization peaking at approximately CAD 3.0 billion in CP held as of the week of April 29, 2020. Usage declined rapidly in the following months, dropping to zero by the end of July 2020 (BoC 2021f). As initially announced, the CPPP operated for 12 months, from April 2, 2020, to April 1, 2021. 
+
+## **Summary Evaluation** 
+
+The BoC responded strongly to the COVID-19 pandemic with a host of liquidity measures that amounted to “a radical change in its operations” (Solovieva and Hostland 2020). The CPPP and other programs were similar to programs that the U.S. and other countries implemented during the Global Financial Crisis (GFC) of 2007–09 but which the BoC had then found unnecessary. Because the effects of the BoC’s COVID-19 programs have been studied only in aggregate, it is difficult to discern the long-term individual impact of the CPPP on the target market. 
+
+The BoC found that financial markets responded well to the emergency measures, noting as early as July 2020 that use of some facilities, including the CPPP, had declined (see Figure 1) (BoC 2020l). 
+
+
+[FIGURE id=vol4_iss2_67_f1 type=chart label="Figure 1" file=figure_1.png caption="Canadian Bond Bid-Ask Spread, Four-Week Moving Average, Weekly Data"]
+### **Figure 1: Canadian Bond Bid-Ask Spread, Four-Week Moving Average, Weekly Data**
+![Figure 1](assets/vol4_iss2_67/figure_1.png)
+
+
+Note: CPPP = Commercial Paper Purchase Program; CBPP = Corporate Bond Purchase Program; PBPP = Provincial Bond Purchase Program. Cents = CAD 0.01. 
+
+_Source: BoC 2020l._ 
+
+In separate statements, BoC Deputy Governors Toni Gravelle and Paul Beaudry commented that the purchases had greatly improved access to liquidity in key funding markets, assisting with the smooth flow of credit to households and businesses. Given the improvement in financial markets over the course of 2020, Governor Beaudry expressed confidence that the BoC’s asset purchases would complement the interest rate cuts to motivate renewed investment and spending (Beaudry 2020). Governor Gravelle conveyed a similar optimism about the significant growth in the BoC’s balance sheet from the COVIDrelated programs, reporting that the increase would “largely roll off” because many of the programs, including the CPPP, were focused on supporting shorter-term markets (Gravelle 2021, 8). 
+
+
+|**Context: Canada 2019–2020**|**Context: Canada 2019–2020**|
+|---|---|
+|**GDP**<br>**(SAAR, Nominal GDP in LCU converted to USD)**|$1.8 trillion in 2019<br>$1.8 trillion in 2020|
+|**GDP per capita**<br>**(SAAR, Nominal GDP in LCU converted to USD)**|$46,327 in 2019<br>$43,258 in 2020|
+|**Sovereign credit rating (five-year senior debt)**|Data for 2019:<br>Moody’s: Aaa<br>S&P: AAA<br>Fitch: AAA<br>Data for 2020:<br>Moody’s: Aaa<br>S&P: AAA<br>Fitch: AA+|
+|**Size of banking system**|Data not available for 2019<br>Data not available for 2020|
+|**Size of banking system as a percentage of GDP**|Data not available for 2019<br>Data not available for 2020|
+|**Size of banking system as a percentage of**<br>**financial system**|Data not available for 2019<br>Data not available for 2020|
+|**Five-bank concentration of banking system**|84.2% in 2019<br>84.5%in 2020|
+|**Foreign involvement in banking system**|Data not available for 2019<br>Data not available for 2020|
+|**Government ownership of banking system**|Data not available for 2019<br>Datanot availablefor 2020|
+|**Existence of deposit insurance**|Yes, in 2019<br>Yes,in 2020|
+|_Sources: Bloomberg; FRED; World Bank Global Financial Development Database; World_<br>_Bank Deposit Insurance Dataset._||
+
+
+
+
+## **Key Design Decisions** 
+
+## **1. Purpose: The Bank of Canada (BoC) established the Commercial Paper Purchase Program (CPPP) to address disruptions in short-term funding markets.** 
+
+The BoC established the CPPP to support proper functioning in the market for short-term CP, an important source of funding for a wide range of firms and public authorities. The liquidity backstop for Canadian issuers complemented the suite of monetary and fiscal policy measures taken by the BoC to “create the best possible foundation for the recovery period” (Poloz 2020, 2). 
+
+**2. Part of a Package: The BoC introduced a variety of asset purchase facilities to mitigate pandemic-related liquidity strains.** 
+
+Considering the global volatility, abrupt drop in oil prices, and potential for “permanent damage to the structure of the economy” related to the outbreak of COVID-19 in Canada, the central bank instituted a large package of support measures equal to about 12% of GDP (BoC 2020g, 1; BoC 2020j). Large-scale asset purchases of Canada Mortgage Bonds (issued by the government-owned Canada Mortgage and Housing Corporation), bankers’ acceptances, CP, corporate bonds, and provincial and federal government debt allowed the BoC to support market functioning, while an expansion of term repo facilities supported credit availability for businesses and municipalities. Additionally, on March 27, 2020, the BoC lowered the overnight target rate to its effective lower bound of 25 bps, down from 75 bps just two weeks prior. 
+
+**3. Legal Authority: The BoC gave itself the ability to buy and sell securities outright, as allowed under March 2020 amendments to the Bank of Canada Act.** 
+
+Paragraph 18(g) of the Bank of Canada Act gives the BoC broad discretion to buy and sell securities in normal times (18(g)(i))[4] and in crisis times (18(g)(ii)).[5] Since 2008, the Act has allowed the bank to trade in virtually any security except equity interests in normal times; the crisis authority also extends to equities. The Act requires the BoC to establish and publish a policy statement describing how it will administer 18(g)(i) during normal times. 
+
+> 4 Prior to the Global Financial Crisis, the Bank of Canada Act limited the securities that the Bank could buy and sell in normal times to short-term (less than 180-day) credit endorsed, accepted, or issued by a bank (BoC 2004; BoC 2008b). In 2008, Parliament broadened the scope of 18(g)(i) to allow the purchase or sale of any security issued by any person, other than equity interests. The 2008 revision also clarified that the Bank of Canada had this authority either “for the purposes of conducting monetary policy or promoting the stability of the Canadian financial system.” 
+
+> 5 Subparagraph 18(g)(ii) allows the bank to purchase any security in a crisis “if the Governor is of the opinion that there is a severe and unusual stress on a financial market or the financial system” (Bank of Canada Act 1985). This power has been in the Act since 2001. 
+
+
+To date, the BoC has never taken action under the crisis authority described in 18(g)(ii). Therefore, the central bank has justified some extraordinary emergency measures during the pandemic crisis by revising its policy statement under 18(g)(i). 
+
+The BoC first published that policy in July 2008. At the time, the BoC’s policy allowed it to buy and sell securities only through purchase and resale transactions, or “buybacks.” For purposes of implementing monetary policy, the BoC could buy and sell government of Canada bonds and treasury bills, typically for a duration of just one day. However, the policy allowed the BoC to buy and sell a much broader range of securities for purposes of managing financial system stress—for example, government securities issued by the US and other developed countries, Canadian corporate and municipal bonds, Canadian CP, and Canadian asset-backed securities. The policy originally limited these “exceptional transactions” to terms of 180 days or less. The Bank revised the policy in 2009 to allow terms up to 380 days, among other revisions (BoC 2009). 
+
+During the pandemic crisis, the BoC made two small changes in language to the policy statement with broad implications. First, on March 13, it gave itself the ability to “engage in outright purchase or sale transactions” rather than buybacks only (BoC 2020d). Second, on March 18, it removed the 380-day limit on the terms of its transactions (BoC 2020e). 
+
+These amendments entered into force a week after their publication in the _Canada Gazette_ . 
+
+**4. Governance: Aside from standing internal audit powers authorized under the Bank of Canada Act, there were seemingly no external audits or oversight of the CPPP’s operations.** 
+
+Section 28 of the Bank of Canada Act enables the Minister of Finance to appoint auditors of the BoC and to require that those auditors report on bank affairs to the Minister “from time to time” (Bank of Canada Act 1985). 
+
+## **5. Administration: The BoC enlisted several private entities to assist with the management and operations of the CPPP.** 
+
+Purchases of CP were conducted by TD Asset Management (TDAM) on behalf of the BoC. Additionally, the BoC retained BlackRock for advisory services and CIBC Mellon as custodian. Although no contract information was available as of March 2022, BoC spokesperson Rebecca Spence told reporters in April 2020 that the information “eventually would be, in keeping with the Bank of Canada’s transparency guidelines” (Carmichael 2020, 1). She further elaborated that the BoC selected the firms “based on their capabilities, prominent role in the Canadian financial system and capacity to respond quickly and establish the CPPP on behalf of the bank” (Carmichael 2020, 1). She also noted that the BoC had instituted “robust” conflict-of-interest measures when asked about TD Asset Management’s “active” role in Canadian credit markets and its potential to profit off its relationship with the CPPP (Carmichael 2020, 2). 
+
+
+Eligible issuers could access the program through their dealers, who in turn filled out a registration form disclosing the issuer’s name, certified issuance limit, and other operational details with TDAM. 
+
+**6. Communication: While the BoC did not express concerns about the specific impact of COVID-19 on the domestic CP market when announcing the program, it did emphasize the importance of enabling the flow of credit to the real economy.** 
+
+The BoC intended to support the “continuous functioning of financial markets” in establishing the program but did not address any specific concerns regarding the strength of the CP market (BoC 2020h, 1). Officials instead cited CP as an essential source of financing for a wide range of firms and public agencies and highlighted the BoC’s commitment to ensuring the flow of credit to the real economy (BoC 2020h). 
+
+In announcing its plans to establish numerous programs to support the financial system, the BoC emphasized the importance of returning the economy to a state of normalcy (BoC 2020g). The Governing Council of the BoC also committed to adjusting its measures and taking further action “as required” in response to the evolving situation (BoC 2020g, 1). Furthermore, in his opening statement before the House Commons Standing Committee on Finance, Governor Stephen Poloz emphasized that the BoC “[stood] ready to augment the scale of any of its programs should market conditions warrant it” (Poloz 2020, 1). 
+
+**7. Disclosure: Beyond requirements specified by Section 29 of the Bank of Canada Act, the BoC published weekly aggregate holdings of CP acquired through the program.** 
+
+The BoC reported aggregate holdings of CP acquired through the CPPP every Friday on the bank’s weekly balance sheet; the first results were published on April 10, 2020. 
+
+This reporting appears to go beyond what was required in Section 29 of the Bank of Canada Act. Subsection 29(1) required the BoC to post aggregate information about its assets and liabilities on its website each Friday. Subsection 29(2) required the BoC to report monthly on investments and securities issued or guaranteed by the government of Canada. 
+
+Furthermore, the Governor of the Bank or Minister of Finance could compel the BoC to submit a summary or report along with these financial statements for publication in the _Canada Gazette_ . The Minister of Finance would then present such documents to Parliament within three weeks (Bank of Canada Act 1985). 
+
+The BoC upheld its stated commitment to transparency in releasing transaction-level data for its discontinued asset purchase programs introduced during the COVID-19 pandemic. While not required explicitly by law, the BoC announced upon termination of the programs that it would disclose the names of individual issuers and amounts of CP purchased over the course of the program. On June 29, 2021, the BoC published on its website transactionlevel data for its emergency asset purchase programs, including the CPPP. 
+
+
+## **8. Use of SPV: The BoC did not utilize a special purpose vehicle (SPV) to purchase CP from program participants.** 
+
+The BoC purchased CP directly from eligible issuers. 
+
+## **9. Size: Although the BoC did not specify a size for the CPPP at the outset of the program, the maximum size of the facility was limited to the aggregate amount of CP that each eligible institution could issue to the program.** 
+
+The maximum amount of a single issuer’s CP that the CPPP could hold at any given time equaled 1.25 times the greatest amount of CAD-denominated CP that the issuer had outstanding on any day in the 12 months prior to April 2, 2020. The CPPP also would not purchase additional CP from an issuer whose total CP outstanding to all investors (including the CPPP itself) exceeded this limit. 
+
+## **10. Source of Funding: As with other purchase programs enacted during the COVID19 pandemic, the BoC funded the CPPP with settlement balances.** 
+
+In an explanatory note on the BoC’s use of reserves for emergency purposes, Deputy Governor Paul Beaudry analogized settlement balances—deposits to the facility’s account with the central bank—with loans from institutions to the central bank. The BoC credited issuers upon purchase with a deposit of settlement balances, paying interest at the policy rate of 25 bps (Beaudry 2020, 3). This policy derived from the BoC’s existing “Statement of Policy Governing the Acquisition and Management of Financial Assets for the Bank of Canada’s Balance Sheet.” 
+
+The BoC also entered into independent financial guarantee contracts with the government of Canada that indemnified the central bank in the case that it incurred credit losses on assets purchased under the CPPP. In accordance with International Accounting Standard 37, these agreements stipulated that assets would be recognized only if an issuer were in default and the BoC had filed a claim of reimbursement with the government (BoC 2021c). 
+
+Compared with other programs enacted in response to COVID-19, the CPPP did not contribute to the significant increase in the BoC’s balance sheet. Figure 2 illustrates the relatively small impact of CP (approximately CAD 3.0 billion) on the BoC’s total asset holdings, which more than quadrupled over the first six months of 2020 to CAD 528.2 billion as of June 30, 2020 (BoC 2020m). 
+
+
+[FIGURE id=vol4_iss2_67_f2 type=figure label="Figure 2" file=figure_2.png caption="Summary of Assets Held by the BoC as of June 30, 2020"]
+### **Figure 2: Summary of Assets Held by the BoC as of June 30, 2020**
+![Figure 2](assets/vol4_iss2_67/figure_2.png)
+
+
+_Source: BoC 2020m, 5._ 
+
+## **11. Eligible Institutions: Firms incorporated in Canada, Canadian municipalities, and Canadian provincial agencies were eligible to access the CPPP through their dealers.** 
+
+The BoC could purchase CP on the primary market through eligible issuers’ dealers or after issuance from eligible counterparties on the secondary market. Eligible firms and public authorities were required to have had an existing CP program prior to the establishment of the CPPP. Relatedly, issuers had to be rated R-1 high/mid/low by DBRS Morningstar as of April 2, 2020. If an issuer did not possess a short-term credit rating from DBRS Morningstar, it could substitute ratings from Fitch, Moody’s, or S&P at the BoC’s discretion. If the issuer were to have been downgraded after April 2, 2020, it would remain eligible for participation in the CPPP, subject to BoC approval (BoC 2020c). 
+
+
+## **12. Auction or Standing Facility: The BoC established the CPPP as a standing facility to which participants could issue CP at any time during operation.** 
+
+According to the CPPP term sheet, draws could be rolled throughout the duration of the program. 
+
+## **13. Loan or Purchase: The BoC operated the CPPP as a direct asset purchase program through which eligible institutions could issue CP to the central bank.** 
+
+The program allowed eligible Canadian entities to issue highly rated CP through designated dealers. 
+
+## **14. Eligible Assets: The CPPP directly purchased from issuers highly rated CP (including asset-backed CP) with three-month tenors.** 
+
+The BoC required assets to be of “sufficiently high quality,” generally equivalent to a minimum short-term credit rating of R-1 High (highest), R-1 Mid (superior), or R-1 Low (good) (BoC 2020a, 2). 
+
+## **15. Purchase Price: The CPPP’s pricing scheme was based on the credit rating of the asset.** 
+
+The CPPP made purchases on a fixed-rate basis set daily, based on a spread above the current three-month Canadian OIS rate. When the CPPP first became operational on April 2, 2020, the BoC charged 130 bps to institutions rated R-1 high or R-1 mid; those rated R-1 low were required to pay 160 bps (BoC 2020a). 
+
+The BoC “[reserved] the right to adjust its pricing to meet policy objectives” (BoC 2020a, 2). 
+
+## **16. Haircuts: This Key Design Decision does not apply to asset purchase programs.** 
+
+Haircuts apply only to programs that involve lending to counterparties. 
+
+## **17. Interest Rates: This Key Design Decision does not apply to asset purchase programs.** 
+
+Interest rates apply only to programs that involve lending to counterparties. 
+
+## **18. Fees: There were no fees associated with participation in the CPPP.** 
+
+The BoC announced that it expected issuers to be able to access the program without any charges from the dealer. Instead, assets purchased under the CPPP were managed by collecting contractual cash flows derived from interest payments. As of July 2020, the BoC reported that the amortized cost of its CP purchases amounted to approximately CAD 1.6 billion (BoC 2020m). 
+
+
+## **19. Term/Repayment: This Key Design Decision does not apply to asset purchase programs.** 
+
+This refers to the loan maturity and applies only to programs that involve lending to counterparties. 
+
+## **20. Other Restrictions on Eligible Participants: There were no restrictions associated with participation in the program.** 
+
+Sources consulted do not indicate the imposition of restrictions on CPPP participants. 
+
+**21. Regulatory Relief: The BoC did not implement any regulatory changes to assist with the operation of—or participation in—the program.** 
+
+Sources consulted do not indicate the existence of regulatory concessions. 
+
+## **22. International Coordination: The BoC did not coordinate with other jurisdictions when designing or operating the CPPP.** 
+
+Sources consulted do not indicate that the BoC consulted with international parties. 
+
+## **23. Duration: The BoC discontinued the CPPP’s operations on April 2, 2021, as initially scheduled.** 
+
+In its initial press release, the BoC announced that the program would become operational on April 2, 2020, and would last for 12 months. 
+
+On March 23, 2021, the BoC announced that the CPPP would be discontinued, as scheduled, on April 2, 2021. Deputy Governor Toni Gravelle, in his remarks to the CFA Society of Toronto that same day, noted that it was “clear that [the BoC’s] extraordinary facilities [were] no longer required,” as firms and public authorities had “unfettered access to fully functional debt markets” and credit spreads had normalized to pre-pandemic levels for most borrowers (Gravelle 2021, 6). 
+
+
+## **References and Key Program Documents** 
+
+## **Summary of Program** 
+
+(BoC 2020a) Bank of Canada (BoC). 2020. “Commercial Paper Purchase Program.” Yale Program on Financial Stability Resource Library. 
+
+_BoC webpage describing the CPPP’s operational details, including eligible issuers and assets, purchase prices and limits, and program duration_ . https://ypfs.som.yale.edu/node/18268 
+
+(BoC 2020b) Bank of Canada (BoC). March 31, 2020. “Operational Details for the Commercial Paper Purchase Program.” Yale Program on Financial Stability Resource Library. 
+
+_BoC document explaining CPPP operational details_ . https://ypfs.som.yale.edu/node/18266 
+
+(BoC 2020c) Bank of Canada (BoC). April 2, 2020. “Commercial Paper Purchase Program (CPPP)—Term Sheet.” Bank of Canada/Central Bank of Canada/La Banque du Canada. Yale Program on Financial Stability Resource Library. 
+
+_BoC terms and conditions for the CPPP_ . 
+
+https://ypfs.som.yale.edu/node/18263 
+
+(Johnson, Kozicki, Priftis, Suchanek, Witmer, and Yang 2020) Johnson, Grahame, Sharon Kozicki, Romanos Priftis, Lena Suchanek, Jonathan Witmer, and Jing Yang. December 23, 2020. “Implementation and Effectiveness of Extended Monetary Policy Tools: Lessons from the Literature.” Yale Program on Financial Stability Resource Library. 
+
+_BoC Staff Discussion Paper reviewing central banks’ use of extended monetary policy tools when conventional policy tools prove constrained by the effective lower bound_ . https://ypfs.som.yale.edu/node/18257 
+
+## **Legal/Regulatory Guidance** 
+
+(Bank of Canada Act 1985) 1985. c. B-2 R.S.C., 1985. _Canadian law establishing the Bank of Canada and outlining its purpose and powers_ . https://ypfs.som.yale.edu/node/18541 
+
+(BoC 2004) Bank of Canada (BoC). December 15, 2004. “Bank of Canada Act—Version of Section 18 from 2004-12-15 to 2008-08-04.” Bank of Canada/Central Bank of Canada/La Banque du Canada. Yale Program on Financial Stability Resource Library. 
+
+_Previous version of Section 18(g) of the Bank of Canada Act demonstrating the circumstances under which the Bank may purchase assets_ . https://ypfs.som.yale.edu/node/18398 
+
+(BoC 2008a) Bank of Canada (BoC). July 26, 2008. “Policy for Buying and Selling Securities.” _Canada Gazette_ 142 (30): 2235–36. 
+
+_First policy issued under 18(g)(i) authority describing the Bank of Canada’s authority to buy_ 
+
+
+_and sell securities_ . https://ypfs.som.yale.edu/node/18400 
+
+(BoC 2008b) Bank of Canada (BoC). August 5, 2008. “Bank of Canada Act—Version of Section 18 from 2008-08-05 to 2014-06-18.” Yale Program on Financial Stability Resource Library. 
+
+_Previous version of Section 18(g) of the Bank of Canada Act demonstrating the circumstances under which the Bank may purchase assets_ . 
+
+https://ypfs.som.yale.edu/node/18399 
+
+(BoC 2009) Bank of Canada (BoC). June 27, 2009. “Amendment to Policy for Buying and Selling Securities.” Canada Gazette, Part I 143 (26). 
+
+_Amendment of policy outlining how the BoC will use its 18(g)(i) authority to conduct repurchases of private-sector securities_ . 
+
+https://ypfs.som.yale.edu/library/document/amendment-policy-buying-and-sellingsecurities 
+
+(BoC 2015) Bank of Canada (BoC). October 3, 2015. “Amendment to Policy for Buying and Selling Securities.” _Canada Gazette_ , Part I 149 (40). 
+
+_Amendment of policy outlining how the BoC will use its 18(g)(i) authority to conduct repurchases of private-sector securities_ . https://ypfs.som.yale.edu/node/18401 
+
+(BoC 2020d) Bank of Canada (BoC). March 13, 2020. “Amendment to Policy for Buying and Selling Securities.” _Canada Gazette_ , Part I 154 (1): 1–4. 
+
+_BoC policy amending 2015 policy to allow for outright purchases and sales of private-sector securities in the service of monetary policy for financial stability_ . https://ypfs.som.yale.edu/node/18402 
+
+(BoC 2020e) Bank of Canada (BoC). March 18, 2020. “Amendment to Policy for Buying and Selling Securities.” _Canada Gazette_ , Part I 154 (2): 1–4. 
+
+_BoC policy amending 2015 policy to allow for outright purchases and sales of private-sector securities in the service of monetary policy for financial stability_ . https://ypfs.som.yale.edu/node/18300 
+
+(BoC 2021a) Bank of Canada (BoC). 2021. “Framework for Market Operations and Liquidity Provision.” Webpage. 
+
+_BoC webpage detailing its market operations, liquidity framework, its objectives, and how it reinforces the target for the overnight rate_ . 
+
+https://ypfs.som.yale.edu/node/18169 
+
+(BoC 2021b) Bank of Canada (BoC). April 8, 2021. “Statement of Policy Governing the Acquisition and Management of Financial Assets for the Bank of Canada’s Balance Sheet.” Statement of Policy. 
+
+_Bank of Canada policy document outlining the central bank’s standards for asset acquisition and management_ . 
+
+https://ypfs.som.yale.edu/node/18245 
+
+
+(BoC 2021c) Bank of Canada (BoC). May 1, 2021. “Government Notices.” _Canada Gazette,_ Part I 155 (18). 
+
+_Government notice regarding regulatory changes made by Bank of Canada, as of May 2021_ . https://ypfs.som.yale.edu/node/18281 
+
+## **Press Releases/Announcements** 
+
+(Beaudry 2020) Beaudry, Paul. August 2020. “Our COVID-19 Response: Large-Scale Asset Purchases.” Bank of Canada. Yale Program on Financial Stability Resource Library. _Public-facing summary describing the BoC’s large-scale asset purchase program operations_ . https://ypfs.som.yale.edu/node/18298 
+
+(BoC 2020f) Bank of Canada (BoC). March 20, 2020. “Bank of Canada Announces Additional Measures to Support Market Functioning.” 
+
+_BoC notice announcing new programs to support Canadian markets_ . https://ypfs.som.yale.edu/node/18197 
+
+(BoC 2020g) Bank of Canada (BoC). March 27, 2020. “Bank of Canada Lowers Overnight Rate Target to ¼ Percent.” Yale Program on Financial Stability Resource Library. _Bank of Canada notice announcing an interest rate cut in response to COVID-19_ . https://ypfs.som.yale.edu/node/18260 
+
+(BoC 2020h) Bank of Canada (BoC). March 27, 2020. “UPDATED: Bank of Canada to Introduce a Commercial Paper Purchase Program.” Bank of Canada/Central Bank of Canada/La Banque du Canada. Yale Program on Financial Stability Resource Library. 
+
+_BoC press release announcing the establishment of the CPPP, with an update regarding BlackRock and TD Asset Management’s administrative involvement_ . https://ypfs.som.yale.edu/node/18267 
+
+(BoC 2021d) Bank of Canada (BoC). March 23, 2021. “Bank of Canada Announces the Discontinuation of Market Functioning Programs Introduced during COVID-19.” _Press release announcing discontinuation of PBPP, as well as other COVID-19 programs_ . https://ypfs.som.yale.edu/node/18159 
+
+(BoC 2021e) Bank of Canada (BoC). June 29, 2021. “Bank of Canada Publishes TransactionLevel Data for Its Discontinued Asset Purchase Programs.” Bank of Canada/Central Bank of Canada/La Banque du Canada. Yale Program on Financial Stability Resource Library. _Press release announcing publication of transaction-level data for asset purchase programs_ . https://ypfs.som.yale.edu/node/18261 
+
+(Poloz 2020)  Poloz, Stephen S. April 16, 2020. “Opening Statement Before the House of Commons Standing Committee on Finance.” Opening Statement presented at the House of Commons Standing Committee on Finance, Ottawa, April 16. 
+
+_Opening statement delivered to Canada’s House of Commons Standing Committee on Finance regarding the BoC’s monetary policy and liquidity actions_ . https://ypfs.som.yale.edu/node/18295 
+
+
+## **Media Stories** 
+
+(Ambler, Kronick, and Robson 2021) Ambler, Steve, Jeremy M. Kronick, and William B. P. Robson. March 31, 2021. “Opinion: Don’t Be Alarmed as the Bank of Canada Begins Its COVID Withdrawal.” _Financial Post_ . Yale Program on Financial Stability Resource Library. _Opinion piece reassuring the public that the worst effects of the COVID-19 crisis had passed and that the end of the asset purchase programs was a sign of progress_ . https://ypfs.som.yale.edu/node/18270 
+
+(Carmichael 2020) Carmichael, Kevin. April 3, 2020. “Why BoC Needs Help From Blackrock in Battling Covid-19.” _Calgary Herald_ . Yale Program on Financial Stability Resource Library. _News story reporting the BoC’s response to the outbreak of COVID-19_ . https://ypfs.som.yale.edu/node/18249 
+
+(Evans 2020)  Evans, Pete. March 27, 2020. “Bank of Canada Makes Another Emergency Cut to Interest Rate.” CBC News. Yale Program on Financial Stability Resource Library. _News article reporting BoC’s second COVID-related rate cut in two weeks_ . https://ypfs.som.yale.edu/node/18246 
+
+(Lawson 2020) Lawson, Aidan. April 13, 2020. “Bank of Canada Establishes Series of Programs to Promote Market Liquidity.” Yale Program on Financial Stability Resource Library. 
+
+_YPFS blog post describing the BoC’s creation of market liquidity programs in response to COVID-19_ . 
+
+https://ypfs.som.yale.edu/node/18251 
+
+(Smith and Johnson 2020) Smith, Fergal, and Kelsey Johnson. March 27, 2020. “UPDATE 4- Canada to Cover 75% of Small Business Wages, Central Bank Cuts Interest Rates.” Reuters. Yale Program on Financial Stability Resource Library. 
+
+_News article reporting the BoC’s third interest rate cut to the lowest level in a decade_ . https://ypfs.som.yale.edu/node/18250 
+
+## **Key Academic Papers** 
+
+(Ambler and Kronick 2020) Ambler, Steve, and Jeremy M. Kronick. October 8, 2020. “Canadian Monetary Policy in the Time of COVID-19.” _Report examining the Bank of Canada’s interventions in 2020_ . https://ypfs.som.yale.edu/node/18255 
+
+(Severino, Cremona, and Dadié 2021) Severino, Federico, Marzia A. Cremona, and Éric Dadié. July 13, 2021. “COVID-19 Effects on the Canadian Term Structure of Interest Rates.” _SSRN Electronic Journal_ , July. 
+
+_Academic article evaluating the BoC’s COVID-19 interventions in relation to the determinants of the yield curve_ . 
+
+https://ypfs.som.yale.edu/node/18253 
+
+
+## **Reports/Assessments** 
+
+(Bédard-Pagé, Bolduc, Demers, Dion, Pandey, Berger-Soucy, and Walton 2021) BédardPagé, Guillaume, Daniel Bolduc, Annick Demers, Jean-Philippe Dion, Manu Pandey, Léanne Berger-Soucy, and Adrian Walton. May 28, 2021. “COVID-19 Crisis: Liquidity Management at Canada’s Largest Public Pension Funds.” Staff Analytical Note 2021–11. Yale Program on Financial Stability Resource Library. 
+
+_BoC Staff Analytical Note regarding Canada’s pension funds and their liquidity management during 2020._ 
+
+https://ypfs.som.yale.edu/node/18256 
+
+(BoC 2020i) Bank of Canada (BoC). April 2020. “Monetary Policy Report—April 2020.” _Quarterly report of the Bank of Canada’s Governing Council presenting the Bank’s base-case projection for inflation and growth in the Canadian economy, and its assessment of risks._ https://ypfs.som.yale.edu/node/18289 
+
+(BoC 2020j) Bank of Canada (BoC). May 14, 2020. “Financial System Review—2020.” _Bank of Canada annual study analyzing the impact of COVID-19 on the Canadian financial system._ 
+
+https://ypfs.som.yale.edu/node/18264 
+
+(BoC 2020k) Bank of Canada (BoC). June 30, 2020. “Quarterly Financial Report—Second Quarter 2020.” Yale Program on Financial Stability Resource Library. _BoC quarterly report describing financial conditions for the period ending June 30, 2020._ https://ypfs.som.yale.edu/node/18193 
+
+(BoC 2020l) Bank of Canada (BoC). July 2020. “Monetary Policy Report—July 2020.” _Quarterly report of the Bank of Canada’s Governing Council presenting the Bank’s base-case projection for inflation and growth in the Canadian economy, and its assessment of risks._ https://ypfs.som.yale.edu/node/18290 
+
+(BoC 2020m)  Bank of Canada (BoC). August 28, 2020. “Quarterly Financial Report—Second Quarter 2020.” 
+
+_Bank of Canada quarterly report describing financial conditions for the period ending June 30, 2020._ https://ypfs.som.yale.edu/node/18193 
+
+(BoC 2020n) Bank of Canada (BoC). October 2020. “Monetary Policy Report—October 2020.” Yale Program on Financial Stability Resource Library. 
+
+_BoC publication reviewing monetary policy operations and programs for the period of July 2020 to September 2020._ https://ypfs.som.yale.edu/node/18291 
+
+(BoC 2020o) Bank of Canada (BoC). November 9, 2020. “Quarterly Financial Report—Third Quarter 2020.” 
+
+_BoC quarterly report describing financial conditions for the period ending September 30,_ 
+
+
+## _2020._ 
+
+https://ypfs.som.yale.edu/node/18194 
+
+(BoC 2021f) Bank of Canada (BoC). 2021. “Canada CPPP Weekly Transaction Data.” _Spreadsheet detailing transaction-level data throughout the CPPP’s operations._ https://ypfs.som.yale.edu/node/18925 
+
+(BoC 2021g) Bank of Canada (BoC). January 2021. “Monetary Policy Report—January 2021.” Yale Program on Financial Stability Resource Library. 
+
+_Quarterly report of the BoC’s Governing Council presenting the Bank’s base-case projection for inflation and growth in the Canadian economy, and its assessment of risks._ https://ypfs.som.yale.edu/node/18292 
+
+(BoC 2021h) Bank of Canada (BoC). April 2021. “Monetary Policy Report—April 2021.” Yale Program on Financial Stability Resource Library. 
+
+_Quarterly report of the BoC’s Governing Council presenting the Bank’s base-case projection for inflation and growth in the Canadian economy, and its assessment of risks._ https://ypfs.som.yale.edu/node/18293 
+
+(BoC 2021i) Bank of Canada (BoC). April 21, 2021. “Annual Report 2020.” Yale Program on Financial Stability Resource Library. 
+
+_BoC annual report detailing the Bank’s operations and financial statements._ https://ypfs.som.yale.edu/node/18195 
+
+(BoC 2021j) Bank of Canada (BoC). May 17, 2021. “Financial System Review—2021.” Yale Program on Financial Stability Resource Library. 
+
+_BoC annual study analyzing the impact of COVID-19 on the Canadian financial system._ https://ypfs.som.yale.edu/node/18288 
+
+(BoC 2021k) Bank of Canada (BoC). May 21, 2021. “Quarterly Financial Report—First Quarter 2021.” Yale Program on Financial Stability Resource Library. 
+
+_BoC quarterly report describing financial conditions for the period ending March 31, 2021._ https://ypfs.som.yale.edu/node/18196 
+
+(BoC 2021l) Bank of Canada (BoC). July 2021. “Monetary Policy Report—July 2021.” Yale Program on Financial Stability Resource Library. 
+
+_Quarterly report of the BoC’s Governing Council presenting the Bank’s base-case projection for inflation and growth in the Canadian economy, and its assessment of risks._ https://ypfs.som.yale.edu/node/18294 
+
+(Fontaine, Garriott, Johal, Lee, and Uthemann 2021) Fontaine, Jean-Sébastien, Corey Garriott, Jesse Johal, Jessica Lee, and Andreas Uthemann. February 24, 2021. “COVID-19 Crisis: Lessons Learned for Future Policy Research.” 2021–2. 
+
+_BoC Staff Discussion Paper reviewing the initial impacts of the COVID-19 crisis on Canadian fixed-income markets._ 
+
+https://ypfs.som.yale.edu/node/18278 
+
+
+(Gnann and Kaya 2019) Gnann, Annika, and Sahika Kaya. 2019. “Assessment of Liquidity Creation in the Canadian Banking System.” Bank of Canada/Central Bank of Canada/La Banque du Canada. Yale Program on Financial Stability Resource Library. 
+
+_BoC Staff Analytical Note discussing and assessing how the Canadian banking sector has created liqudity between 2012 and 2019._ https://ypfs.som.yale.edu/node/18273 
+
+(Gravelle 2021) Gravelle, Toni. March 23, 2021. “Market Stress Relief: The Role of the Bank of Canada’s Balance Sheet.” Speech presented at the CFA Society Toronto, Toronto, Ontario, March 23. 
+
+_Bank of Canada Deputy Governor Toni Gravelle’s speech regarding the central bank’s actions during the COVID-19 economic downturn._ https://ypfs.som.yale.edu/node/18168 
+
+(Gravelle and Wilkins 2021) Gravelle, Toni, and Carolyn A. Wilkins. 2021. “The Bank of Canada’s Response in 2020 to the Covid-19 Pandemic.” _Monetary Policy and Central Banking in the Covid Era_ , 61–79. Edited by Bill English, Kristin Forbes, and Angel Ubide. London: CEPR Press. 
+
+_Book chapter focusing on the actions taken by the Bank of Canada to address the economic and financial market fallout from the pandemic._ https://ypfs.som.yale.edu/node/18296 
+
+(Investment Industry Association of Canada 2020) Investment Industry Association of Canada. April 2020. “Functioning and Liquidity of the Canadian Debt Markets to Date During the COVID-19 Crisis.” Yale Program on Financial Stability Resource Library. _Market notice regarding the impact of COVID-19 on Canadian debt markets._ https://ypfs.som.yale.edu/node/18265 
+
+(Lefton 2021) Lefton, Hartley. April 23, 2021. “Returning to Normalcy: The Unwinding of Financial Sector COVID-19 Measures in Canada.” McCarthy Tétrault. Yale Program on Financial Stability Resource Library. 
+
+_Market notice assessing the state of the Canadian economy one year out from the implementation of various financial sector stabilization measures._ https://ypfs.som.yale.edu/node/18271 
+
+(RBC Capital Markets 2020) RBC Capital Markets. December 2020. “Canadian Public Sector Debt Market Update.” Yale Program on Financial Stability Resource Library. _Market notice regarding the effect of the COVID-19 crisis on Canadian public sector debt markets._ 
+
+https://ypfs.som.yale.edu/node/18262 
+
+(Schleich, Paquet, and Ducharme 2021) Schleich, Taylor, Jocelyn Paquet, and Alexandra Ducharme. January 8, 2021. “Policy Update—Tracking the Global Policy Response to COVID-19.” National Bank of Canada. Yale Program on Financial Stability Resource Library. _Market notice tracking monetary and fiscal policy measures implemented by the BoC and_ 
+
+
+_government of Canada in response to COVID-19._ https://ypfs.som.yale.edu/node/18258 
+
+(Solovieva and Hostland 2020) Solovieva, Maria, and Doug Hostland. April 21, 2020. “Bank of Canada Goes All-In to Safeguard Financial Stability.” TD Economics. Yale Program on Financial Stability Resource Library. 
+
+_Market notice describing stabilization measures implemented by the BoC in response to COVID-19._ 
+
+https://ypfs.som.yale.edu/node/18259 
+
+Copyright 2022 © Yale University. All rights reserved. To order copies of this material or to receive permission to reprint any or all of this document, please contact the Yale Program on Financial Stability at ypfs@yale.edu.

@@ -1,0 +1,1355 @@
+--- Page 1 ---
+Journal of Financial Crises Journal of Financial Crises 
+Volume 7 Issue 2 
+2025 
+India: Yes Bank Moratorium, 2020 India: Yes Bank Moratorium, 2020 
+Salil Gupta 
+YPFS, Yale School of Management 
+Follow this and additional works at: https://elischolar.library.yale.edu/journal-of-financial-crises 
+ Part of the Banking and Finance Law Commons, Economic History Commons, Finance Commons, 
+Finance and Financial Management Commons, Law and Economics Commons, Policy Design, Analysis, 
+and Evaluation Commons, and the Public Administration Commons 
+Recommended Citation Recommended Citation 
+Gupta, Salil (2025) "India: Yes Bank Moratorium, 2020," Journal of Financial Crises: Vol. 7 : Iss. 2, 157-190. 
+DOI: https://doi.org/10.17132/2693-3179.1653 
+Available at: https://elischolar.library.yale.edu/journal-of-financial-crises/vol7/iss2/7 
+This Case Study is brought to you for free and open access by the Journal of Financial Crises and 
+EliScholar – A Digital Platform for Scholarly Publishing at Yale. For more information, please contact 
+journalfinancialcrises@yale.edu.
+
+--- Page 2 ---
+READERS TAKE NOTICE: READERS TAKE NOTICE: 
+As of April 2024, the YPFS Resource Library’s site domain has changed 
+to https://elischolar.library.yale.edu/ypfs-financial-crisis-resource-library/. 
+Please be aware that upon clicking any of the URL references to 
+the former Resource Library domains, either https://ypfs.som.yale.edu 
+or https://ypfsresourcelibrary.blob.core.windows.net/, in the 
+"References/Key Program Documents" section of a case study, 
+readers will encounter a "page not found" error. readers will encounter a "page not found" error. 
+Readers can still retrieve a given resource cited within this case study 
+on the new site  by searching by searching here  for the title cited. for the title cited. 
+This case study is available in Journal of Financial Crises: https://elischolar.library.yale.edu/journal-of-financial-
+crises/vol7/iss2/7
+
+--- Page 3 ---
+India: Yes Bank Moratorium, 20201 
+Salil Gupta2 
+Yale Program on Financial Stability Case Study 
+June 25, 2025 
+Abstract 
+By December 2019, Yes Bank’s capital levels had dropped below the Reserve Bank of India’s 
+(RBI) mandated threshold, as the bank was facing a combination of deposit withdrawals, 
+losses from extraordinary credit provisions, and overexposure to stressed sectors. On March 
+5, 2020, India’s Ministry of Finance  (MoF) and the R BI placed Yes Bank under a 30-day 
+moratorium that restricted most banking functions and limited deposit withdrawals to INR 
+50,000 per person (USD 663). The purpose of this moratorium was to allow the RBI time to 
+design a plan of reconstruction or amalgamation  for Yes Bank to allow depositors limited 
+access to their funds  and to secure the managemen t. The moratorium and related 
+restrictions were terminated prematurely  on March 18, 2020 , after the MoF approved a 
+restructuring plan recommended by the RBI . Yes Bank received an ad hoc ca pital injection 
+of INR 100 billion  from the government-owned State Bank of India  (SBI) and a consortium 
+of private banks, and the RBI provided an emergency liquidity facility of INR 600 billion as a 
+part of the restructuring. Depositors did not experience losses. By June 2023, Yes Bank’s 
+deposit base had rebounded to INR 2.2 trillion, compared with INR 1.1 trillion in March 2020.  
+Keywords: bank holiday, deposits, moratorium, RBI, restructuring, Yes Bank 
+ 
+ 
+ 
+ 
+1 This case study is part of the Yale Program on Financial Stability (YPFS) selection of New Bagehot Project 
+modules considering bank holiday and fund suspension programs. A survey of all the cases in this series 
+(Wiggins et al.  2025) and the cases underlying it are available from the Journal of Financial Crises  at 
+https://elischolar.library.yale.edu/journal-of-financial-crises/. 
+2 Senior Research Associate, YPFS, Yale School of Management. 
+157
+
+--- Page 4 ---
+Overview 
+This case study describes the  depositor 
+withdrawal limits under a moratorium 
+imposed by India’s Ministry of Finance 
+(MoF) on Yes Bank  in March 2020 , on the 
+recommendation of the Reserve Bank of 
+India (RBI) to allow for the restructuring of 
+the bank  (RBI 2020c) . This approved 
+restructuring plan included an ad hoc capital 
+injection of 100 billion rupees (INR; USD 1.3 
+billion),3 and an emergency liquidity facility 
+of INR 600 billion. (For details on the capital 
+injection, see Gupta  [2024a]; for details on 
+the restructuring, see Gupta [2024b].)  
+Founded in 2004, Yes Bank grew rapidly and 
+by March 31, 2019 , was India’s fourth -
+largest private sector bank with INR 3.8 
+trillion (USD 50.5 billion) in assets  (YESB 
+2019). In the mid -2010s, the RBI and 
+private-sector analysts identified serious 
+governance weaknesses, exposure to large 
+troubled nonbank financial companies, and 
+high levels of delinquent loans. Yes Bank lost 
+nearly half its market value after a maj or 
+borrower, IL&FS, defaulted on its loans in 
+September 2018 , sparking “India’s Lehman 
+moment” (Parkin 2019a; Parkin 2019c).  
+In January 2019, the RBI refused to extend 
+the tenure of Yes Bank founder and CEO 
+Rana Kapoor because of  concerns about 
+corporate governance and inadequate 
+reporting of nonperforming loans (NPL s); 
+Kapoor was later arrested for 
+embezzlement, abuse of power, and 
+accepting kickbacks from corporate 
+borrowers (Jagannath 2020). In March 2019, 
+the bank appointed a new CEO to guide 
+capital raising and clean-up efforts (Fortune 
+2019).  
+ 
+3 Per Yahoo Finance, USD 1 = INR 75.4 as of March 31, 2020. 
+Key Terms 
+Purpose: India’s MoF placed Yes Bank in a 
+moratorium to arrest the “rapidly 
+deteriorating financial position” of Yes Bank 
+and “take immediate action in the public 
+interest and particularly in the interest of the 
+depositors” (MoF 2020b, 5) 
+Announcement 
+Date 
+March 5, 2020 
+End Date Initial: April 3, 2020 
+Final: March 18, 2020 
+Legal Authority Section 45 of the Banking 
+Regulation Act, 1949 (10 
+of 1949) 
+Administrators MoF after 
+recommendation from the 
+RBI  
+Communication 
+and Disclosure 
+The focus was to state 
+concern for depositors 
+and that Yes Bank was 
+open for business after the 
+moratorium ended 
+Permitted 
+Withdrawals 
+Withdrawal limits of INR 
+50,000 per depositor 
+during the moratorium 
+period; depositors did not 
+experience losses  
+Outcomes Moratorium lasted 13 
+days; Yes Bank deposits 
+grew from INR 1.1 trillion 
+in 2020 to INR 2.2 trillion 
+in 2023 during the rescue 
+plan 
+Notable Features Depositors did not 
+experience any losses; 
+moratorium was lifted 
+earlier than expected  
+158
+Journal of Financial Crises Vol. 7 Iss. 2
+
+--- Page 5 ---
+In October 2019, a combination of events led to liquidity outflows at Yes Bank, including 
+deposit outflows, invocation of the founder’s pledged shares (when a lender sells pledged 
+shares), and a breach in liquidity coverage ratio (LCR) requirements because of the financial 
+distress of a state -owned small cooperative bank called Punjab and Maharashtra Co -
+operative Bank (YESB 2020b).  
+Following defaults by two major borrowers that lifted its NPL s to over USD 2.3 bi llion, Yes 
+Bank reported in the same month that it was in “advanced discussions” to raise about USD 
+1.2 billion of capital from foreign and domestic investors (Parkin 2019c; YESB 2021). 
+According to the account of a leading business journalist, the deal did not go through, partly 
+because the RBI declined the investors’ request for an official guarantee against all losses on 
+Yes Bank’s stressed loan book (Bandyopadhyay 2020). Yes Bank’s shares lost 80% of their 
+value between January and September 2019 due to  concerns of bad loans and capital 
+adequacy ratio (Parkin 2019b). Yes Bank was able to raise INR 19.3 billion in qualified 
+institutional placement in August 2019 to address the bank’s problem of NPLs (YESB 2022). 
+The delay in capital raising led to a downgrade by credit ratings agencies (YESB 2020b). 
+In December 2019, Yes Bank reported a quarterly loss of INR 185 billion and a common 
+equity Tier 1 (CET1) ratio of 0.62%, significantly breaching the RBI mandated level of 7.4%. 
+This unexpected loss was the result of extraordinary credit provisions in the second half of 
+2019, related to slippages in the corporate loan book in the power and infrastructure sectors. 
+Yes Bank’s deposits had declined from INR 2.1 trillion in September 2019 to INR 1.7 trillion 
+by December 2019. Yes Bank’s deposit base continued to decline to INR 1.1 trillion by March 
+31, 2020 and to INR 1.0 trillion by May 2, 2020 (YESB 2020b). 
+On March 3, 2020, RBI Governor Shaktikanta Das asserted the RBI’s commitment to banking 
+sector stability and said that it would “never allow a major bank to you know . . . [fail]” (RBI 
+2020f). On March 5, 2020, the MoF placed Yes Bank under a moratorium 4 and limited 
+withdrawals to INR 50,000 per customer for 30 days (Gupta 2024b; MoF 2020a). On March 
+6, 2020, the RBI released a draft resolution plan and announced a capital injection by a 
+consortium of banks, with the government -owned State Bank of India (SBI) as the leading 
+“investor bank,” receiving 48.2% of equity in the reconstructed bank (RBI 2020a). On March 
+13, 2020, as part of the final restructuring plan, the MoF stated that the SBI and other 
+investors were willing to participate in the capital injection and that the moratorium would  
+end on March 18, 2020. Withdrawal restrictions ended with the moratorium, but the 
+reconstructed board was to continue for one year (MoF 2020a). Yes Bank successfully 
+formed an alternate board after restructuring on July 15, 2022, as per clause 5(7) of the RBI’s 
+plan (YESB 2023a). (For details, see Appendix A; Gupta [2024a]; and Gupta [2024b]) 
+As of March 14, 2020, eight investors (SBI, HDFC, ICICI Bank, Axis Bank, Kotak Mahindra 
+Bank, Bandhan Bank, Federal Bank, IDFC First Bank) provided a recapitalization of INR 100 
+billion to Yes Bank with a three-year lock-in period ( For details, see Gupta [2024a]) (YESB 
+ 
+4 A moratorium in India is similar to receivership in the United States, in that the troubled financial institution 
+is protected to maximize value of the assets of the institution in an orderly manner. (See Key Design Decision 
+No. 3, Legal Authority, for details.) 
+159
+India: Yes Bank Moratorium, 2020 Gupta
+
+--- Page 6 ---
+2021). On the same day, Yes Bank took a permanent write -down of INR 84 billion in 
+Additional Tier 1 (AT1) capital (YESB 2020b). As shown in Figure 1, Yes Bank had INR 152 
+billion of CET1 capital as of March 31, 2020, which included the INR 100 billion capital 
+injection and INR 84 billion AT1 write-down. This implies that Yes Bank had negative equity 
+capital before RBI’s rescue plan. 
+The RBI also extended a INR 600 billion credit line to Yes Bank to meet the needs of 
+depositors, promising that none would lose mon ey. Yes Bank borrowed INR 500 billion on 
+the credit line and repaid the amount by September (MS 2020). Governor Das stated that the 
+RBI would provide the needed liquidity support and that “never in the history of banks [in 
+India] have depositors lost money” (The Tribune 2020).  
+On July 23, 2020, Yes Bank successfully raised INR 148.7 billion from a follow -on public 
+offering (FPO) by issuing 12.5 million shares at INR 12 to INR 13 per share; this was not 
+mentioned in the RBI’s reconstruction plan (Mint 2020b; YESB 2021). SBI also participated 
+in the FPO by investing INR 17.6 billion (part of the INR 148.7 billion raise). As a result of the 
+FPO, the SBI’s position was reduced to 30% as of March 31, 2021, from 48.2% as of March 
+30, 2020 (SBI 2021). In August 2020, Moody’s upgraded Yes Bank’s long -term credit rating 
+to B3 with a stable outlook (YESB 2023b). In March 2021, Yes Bank Chairman Sunil Mehta 
+reported that the bank’s CET1 ratio had improved from 6.3% in 2020 to 11.2% in 2021 (see 
+Figure 1) (YESB 2021). M ehta stated that Yes Bank’s rescue was the first bank -led 
+restructuring plan in India’s history (YESB 2020b). 
+Figure 1: Yes Bank: Capital Adequacy Ratios 
+ 
+Sources: YESB 2020b; YESB 2021; YESB 2022; YESB 2023b . 
+In March 2022, Yes Bank reported a successful return to full-year profitability for the first 
+time since the restructuring plan in March 2020 (YESB 2022). In July 2022, J .C. Flowers, a 
+private equity firm, agreed to purchase a stressed loan pool from Yes Bank for INR 480 billion 
+160
+Journal of Financial Crises Vol. 7 Iss. 2
+
+--- Page 7 ---
+(MC 2022). Later in July, two private equity groups agreed to purchase a 10% equity stake 
+in the bank for INR 89 billion, reducing the SBI’s stake to 26% (Sen 2022).  
+The three -year lock -in period for the eight financial institution s that participated in the 
+recapitalization ended on March 13, 2023 (see Appendix A). Based on market prices at that 
+date, these institutions recorded 70% returns on their investment. The RBI asked the private 
+investors to sell their stakes gradually to avoid destabilizing the bank (Gopakumar 2023). As 
+of March 31, 2023, Yes Bank’s CET1 ratio improved to 13.3% from 6.3% in 2020 (see Figure 
+1) (SBI 2022; YESB 2023b). 
+On May 9, 2025, Yes Bank’s board approved the sale of 20% of the bank’s equity to Sumitomo 
+Mitsui Banking Corporation (SMBC) , a Japanese financial institution . As part of the 
+transaction, pending RBI approval as of this writing, SMBC will purchase a 13.2% stake from 
+SBI and a  combined 6.8% stake from the  rest of the private bank  consortium for INR 2 1.5 
+per share of Yes Bank (SBI 2025; YESB 2025). This represents a 115% return on investment 
+for the bank consortium on its residual holding of Yes Bank’s equity and a marked end to the 
+resolution.       
+Figure 2: Timeline of the Yes Bank Rescue  
+Date Event 
+December 2019 Yes Bank reports a quarterly loss of INR 185 billion and a CET1 ratio of 0.62%, with capital 
+requirements breaching the RBI mandated level of 7.375%. Yes Bank reports a loss due to 
+extraordinary credit provisions, especially slippages in corporate loans to th e power and 
+infrastructure sectors 
+March 2020 Yes Bank’s deposits decrease 54% since September 2019 to INR 1.1 trillion 
+March 3, 2020 RBI Governor Das commits to banking sector stability 
+March 5, 2020 RBI identifies Yes Bank for a draft rescue and capital infusion plan, due to the continuing 
+outflow of liquidity and inability to present a credible revival plan. The RBI removes and 
+appoints an interim board of Yes Bank and limits withdrawals to INR 50,00 0 per depositor for 
+30 days 
+March 6, 2020 Yes Bank’s share prices fall to an all-time low of INR 5 per share and close at INR 16 per share 
+after the RBI’s rescue plan 
+March 13, 2020 The MoF, along with the RBI, submits a final resolution plan for Yes Bank including SBI as the 
+lead investor at INR 10 per share  
+March 14, 2020 A consortium of eight banks (SBI, HDFC, ICICI Bank, Axis Bank, Kotak Bank, Bandhan Bank, 
+Federal Bank, IDFC First Bank) commits to a capital infusion of INR 100 billion into Yes Bank 
+March 18, 2020 The MoF lifts the moratorium and limitation on depositor withdrawals for Yes Bank  
+March 2020 RBI provides a INR 600 billion special liquidity facility to Yes Bank 
+161
+India: Yes Bank Moratorium, 2020 Gupta
+
+--- Page 8 ---
+July 2020 Yes Bank conducts a successful capital raise via a follow-on public offering for INR 15 billion; its 
+CET1 ratio improves to 13.4% from 6.6% at the end of June 2020 
+August 2020 Moody’s upgrades Yes Bank’s long term credit rating to B3 from Caa1 with outlook stable  
+September 2020 Yes Bank repays the RBI’s special liquidity facility in full for INR 500 billion 
+Source: Author’s analysis.  
+Summary Evaluation 
+In July 2020, RBI Governor Das called the resolution of Yes Bank “timely and successful” and 
+“non-disruptive” of the broader financial system. Governor Das said the RBI ’s decision to 
+intervene when Yes Bank’s net worth was  still positive  allowed for  quick action, helped  
+protect depositors, and revived the bank under its new owners (Das 2020). 
+A 2021 study concluded that the RBI and the Ministry of Finance’s joint restructuring plan 
+helped put Yes Bank back on track. The authors noted that the regulators may have provided 
+too much time to the former management of Yes Bank, and that the crisis un covered a need 
+for stricter supervision and speedier intervention by the RBI. The authors also found that 
+Yes Bank’s troubles occurred owing to misrepresentation of the bank’s balance sheet by 
+auditors, which implies the need for better selection and appointment of auditors for banks 
+by the regulators (Akhtar, Alam, and Khan 2021).  
+RBI Governor Subba Rao Duvvuri, in a “Lessons Learned” interview with YPFS, described the 
+moratorium as a “short fix, but a necessary imperative in some circumstances,” when a bank 
+fails or is under pressure. Duvvuri pointed to the usual goals of a moratorium : to acquire 
+time to formulate and implement a resolution plan  for the distressed bank. He noted that a 
+moratorium has the positive effects of limiting potential financial contagion or spillover 
+effects in the economy. The announcement of a moratorium can also have negative 
+repercussions, by triggering concerns about the financial system and thereby accelerating 
+the run on the concerned financial institution. Other regulators have avoided implementing 
+a moratorium, by stepping in after markets close on Friday evening to gain the weekend to 
+resolve the banking institution (Duvvuri 2024).    
+For further evaluation of the restructuring of Yes Bank, see Gupta (2024a); details of the 
+capital injection into the bank, may be found in Gupta (2024b).   
+162
+Journal of Financial Crises Vol. 7 Iss. 2
+
+--- Page 9 ---
+Sources: Bloomberg; World Bank Deposit Insurance Dataset; World Bank Global Financial Development Database.  
+ 
+ 
+163
+India: Yes Bank Moratorium, 2020 Gupta
+
+--- Page 10 ---
+Key Design Decisions 
+1. Purpose: The MoF, after recommendation from the RBI,  placed Yes Bank under a 
+moratorium to keep Yes Bank open,  with restricted banking functions and 
+withdrawal limits,  while arresting liquidity outflows , to give the RBI time to 
+formulate a restructuring plan. The moratorium period ended after two weeks 
+with Yes Bank being subject to a restructuring plan.  
+In early March 2020, Yes Bank had a declining financial position due to an inability to raise 
+capital independently, and an outflow of liquidity through deposit withdrawals and 
+increasing credit losses on its nonperforming loan portfolio (RBI 2020c). Yes Bank had a cash 
+outflow of INR 85 billion as a prepayment by February 29, 2020, which was the final trigger 
+to prompt the RBI to draft a rescue plan (YESB 2020b).  
+On March 5, 2020, the RBI recommended that the government of India place Yes Bank under 
+a moratorium,5 starting at 6pm that day, until April 3, 2020 , “in the absence of a credible 
+revival plan, and in public interest and the interest of the bank’s depositors ” (MoF 2020a; 
+RBI 2020c). The moratorium kept Yes Bank open, but restricted its operations, while the RBI 
+secured the management and formulat ed a restructuring plan (MoF 2020b) . During the 
+moratorium, actions against the bank were stayed, its operati ons restricted, and depositor 
+withdrawals were, with few exceptions, limited  to INR 50,000 per depositor (MoF 2020a). 
+Yes Bank was allowed to continue to utilize its account at the RBI, pay loans granted against 
+government debt to any bank, and release securities that may have been pledged, mortgaged, 
+or rehypothecated. By recommending a mo ratorium for Yes bank, the RBI choose not to 
+recommend a winding down, which it also had the authority to do per Section 38 of the 
+Banking Regulation Act, 1949 (BRA) (MoF 2020b). On March 13, 2020, the MoF presented a 
+restructuring plan for Yes Bank under subsection (4) and subsection (7) of section 45 of the 
+BRA (MoF 2020b). 
+Rajnish Kumar, SBI’s former chair, stated in his memoir that, “the failure of Yes Bank would 
+definitely pose a significant threat to the franchise of private banks in the country, 
+particularly the smaller banks” (Kumar 2021, 15). Kumar states that the RBI was negotiating 
+with domestic and foreign investors to provide capital to Yes Bank after submitting a draft 
+rescue plan on March 5 , 2020. SBI was initially proposed as the  sole investor in the capital 
+injection but could only provide equity capital by March 19. Kumar also highlighted SBI’s 
+concerns of “real risk of a run on Yes Bank” after the moratorium would be lifted. Finally, the 
+RBI agreed to provide capital to Yes Bank through a consortium of banks led by SBI by March 
+ 
+5 A moratorium was designed to provide a corporate debtor some breathing space, while the new management 
+can take over and recover the debtor from financial sickness  (Panday 2023) . The term has been used 
+increasingly since the adoption of the Insolv ency and Bankruptcy Code , 2016  (IBC). Matters that require a 
+moratorium are provided in Section 14 of the IBC. A moratorium is a period where no judicial proceedings can 
+be filed against the debtor during the specified period (IBC Laws 2023) (see Key Design Decision No. 3, Legal 
+Authority). 
+164
+Journal of Financial Crises Vol. 7 Iss. 2
+
+--- Page 11 ---
+13, 2020.  Kumar indicated a 49.9% limitation of public ownership in Yes Bank after the 
+capital infusion (Kumar 2021). 
+On March 5, the RBI proposed a draft restructuring plan for Yes Bank, which was approv ed 
+(in substantially the same form) by the MoF on March 13. As per the MoF’s final restructuring 
+plan, the moratorium period (and depositor withdrawal limits) ended at 6pm on March 18, 
+2020 (MoF 2020b). See Key Design Decision No. 2, Part of a Package, for further discussion 
+of the restructuring plan. 
+Former RBI Governor Duvvuri said in a 2011 speech at the Bank of International Settlements 
+that a bank is placed in a moratorium if the weakness in the bank persists, its net worth 
+(equity capital) is negative, and there is no credible action plan. Governor Duvvuri stated 
+that the purpose of the moratorium was to prevent a run on the bank,  avoid asset fire sales, 
+and provide time to the regulators to find a suitable bank for an acquisition. He said t he 
+merger process for the failing bank should be expedited and done in a transparent manner 
+(Duvvuri 2011). 
+2. Part of a Package : The MoF announced the final restructuri ng plan, after 
+recommendations from the RBI. As part of the final restructuring plan, Yes Bank 
+received an ad hoc capital injection  of INR 100 billion , imposed losses on  AT1 
+bondholders of INR 84 billion, and received ad hoc emergency liquidity of INR 600 
+billion. The RBI also increased the deposit insurance limit to INR 500,000 in 
+February 2020, just before the rescue of Yes Bank.  
+The RBI announced a capital injection of INR 100 billion into Yes Bank led by a consortium 
+of eight Indian public and private banks (For details, see Gupta [2024a])(MoF 2020a; RBI 
+2020c; YESB 2021). All new and existing investors (with more than 100 shares) in Yes Bank 
+were required to maintain 75% of their shareholding for three years from the date of the 
+restructuring plan.  Any capital gains tax with respect to the investment in Yes bank was 
+waived for the private banks in the consortium. (MoF 2020b). 
+As per the final restructuring scheme by the MoF on March 13, 2020, Yes Bank was to issue 
+10 billion equity shares at INR 10 per share (face value of INR 2 per share) (YESB 2021). RBI 
+did not provide any funding directly for the resolution  plan. There was also reluctance to 
+raise capital from domestic individual investors due to potential allegations of profiteering 
+from the rescue operations. The requirement of a three-year lock-in period was designed to 
+prevent any allegations of abuse of the rescue plan by investors (Kumar 2021). 
+The RBI’s rescue plan ensured the continuation of all  pre-existing Yes Bank agreements, 
+bonds, and contracts without any change (RBI 2020d) . On March 14, Yes Bank took a 
+permanent write-down of INR 84 billion in AT1 capital, as mentioned in the RBI’s draft plan 
+(YESB 2020b).   
+The RBI initially wanted to route its emergency liquidity support for Yes Bank through SBI. 
+SBI’s leadership rejected this plan citing the inability to “shoulder such a large responsibility” 
+and recommended that the RBI provide direct liquidity support to Yes Bank  (Kumar 2021, 
+14). After approval of the final rescue plan, the RBI also extended a INR 600 billion credit 
+165
+India: Yes Bank Moratorium, 2020 Gupta
+
+--- Page 12 ---
+line to Yes Bank to meet the needs of depositors, promising none would lose money (The 
+Tribune 2020). Yes Bank withdrew INR 520 billion of secured borrowing under this line.  
+(YESB 2020b) . The emergency credit line to Yes Bank was linked to the bank’s current 
+account balances with the RBI and charged a higher rate o f interest than the central bank’s 
+other liquidity windows. Yes Bank also agreed to utilize all its liquid assets before using the 
+RBI’s emergency liquidity line  (PTI 2020a). (See Gupta [2024a] for further details on the 
+restructuring plan.) 
+The RBI appoin ted an administrator for the reconstructed bank,  whose term would end  
+seven days after the end of the moratorium on Yes Bank . The MoF’s final plan appointed a 
+new board to the reconstructed Yes Bank comprising four members, with the former CFO of 
+SBI (lead investor bank) as the CEO and former nonexecutive chairman of Punjab National 
+Bank (leading public -sector bank) as the nonexecutive chairman . The reconstructed board 
+was to remain in place for one year or until an alternate board was constructed according to 
+the articles of association of Yes Bank (MoF 2020b). 
+The RBI had raised the deposit insurance limit provided by the Deposit Insurance and Credit 
+Guarantee Corporate (DICGC, subsidiary of RBI) from INR 100,000 to INR 500,000 per 
+depositor in February 2020 across all banks. There was no explicit reference to Yes Bank in these 
+disclosures (Dubey 2020; RBI 2020g).  
+In late March 2020, the RBI reduced its benchmark rates by 75 basis points (bps) for the 
+entire banking system and the government of India announced a fiscal package of INR 1.7 
+trillion comprising cash transfers and food security as a response to the COVID-19 pandemic 
+(PTI 2020b).  
+3. Legal Au thority: The MoF and RBI acted pursuant to the BRA to order the 
+moratorium, appoint an administrator, and adopt a reconstruction plan for Yes 
+Bank. 
+The RBI is constituted by the Reserve Bank of India Act, 1934  (RBI Act) (RBI 2020a). Yes 
+Bank is a banking company governed by the BRA (YESB 2023a) . The RBI provided the 
+emergency liquidity of INR 600 billion to Yes Bank as per section 17(4) of the RBI Act (PTI 
+2020a). 
+There was no new legislation passed to facilitate the imposition of the moratorium. The RBI 
+made an application to the MoF to place Yes Bank under a moratorium as per subsection (1) 
+of section 45 of the B RA (10 of 1949) and on March 5, I ndia’s MoF confirmed the order as 
+per subsection (2) (GoI 1949; MoF 2020a; RBI 2020a; RBI 2020h). A moratorium in India is 
+similar to receivership in the U nited States, in that the troubled financial institution is 
+protected to maximize value of the assets of the institution in an orderly manner. 
+Section 45 of the BRA allows the government of India to consider an application by the RBI 
+to suspend the business of a bank and place the bank in moratorium, thereby putting a hold 
+on “the commencement or continuance of all actions and proceedings” against the company 
+for a fixed period of time , not exceeding six months . During the moratorium, except as 
+specified by the government in the Order of Moratorium, the bank may not “make any 
+166
+Journal of Financial Crises Vol. 7 Iss. 2
+
+--- Page 13 ---
+payment to any depositors or discharge any liabilities or obligations to any other creditors.” 
+India’s MoF initially granted a moratorium to Yes Bank, as per the RBI’s request, for a period 
+of 30 days from March 5 to April 3, 2020 (inclusive) (MoF 2020a). (For details on the Legal 
+Authority for Yes Bank’s resolution, see Key Design Decision No. 3, Legal Authority, in Gupta 
+[2024a] and Gupta [2024b].) 
+On March 13, the Ministry of Finance announced approval of a final reconstruction scheme 
+for Yes Bank (recommended by the RBI) and an end to the moratorium in three working days 
+(at 6pm on March 18, 2020) (MoF 2020b).  
+The term “moratorium” has been used increasingly since the adoption of the Insolvency and 
+Bankruptcy Code (IBC) in 2016. Matters that require a moratorium are provid ed in Section 
+14 of the IBC (IBC Laws 2023).  
+The moratorium refers to a period during which judicial proceedings, sales of assets, or 
+termination of essential contracts may not be initiated against an institution (IBC Laws 
+2023). India’s judicial courts have stated that the imposition of a moratorium is to protect 
+the debtor, in an attempt to preserve and maximize the values of its assets (Jha and Chawla 
+2023). The regulating authority can impose a moratorium as per section 13(1)(a) of the IBC 
+(IBC Laws 2023). 
+A published interpretation by India’s Insolvency Law Committee clarified the following in 
+February 2020: 
+The idea of a moratorium is that it facilitates the continued operation of the business of 
+the corporate debtor to allo w it breathing space to organize its affairs so that a new 
+management may ultimately take over and bring the corporate debtor out of financial 
+sickness, this benefiting all stakeholders, which would include workmen of the 
+corporate debtor (Panday 2023). 
+As part of the final restructuring plan, the MoF agreed to exempt the investors who injected 
+new capital into Yes Bank from capital gains taxes on any profits resulting from this 
+participation period under Income -tax Act , 1961 (43 of 1961) (MoF 2020b) . The C entral 
+Board of Direct Taxes had to amend rules in the Finance Act 2019 to allow this exemption 
+(Dhasmana 2020). 
+On July 26, 2020, the Ministry of Law and Justice (legislative department) disclosed a list of 
+amendments to the BRA  following an ordinance by the president of India, as per powers 
+under clause (1) of Article 123 of the Constitution of India . The bill to amend the BRA had 
+been initially presented to the Lok Sabha (House of the People) on March 3, 2020 (GoI 2020). 
+4. Administration: India’s Ministry of Finance released the directive to place Yes 
+Bank under a moratorium, after recommendation from the RBI. 
+On March 5, 2020, the MoF granted the Order of Moratorium as recommended by the RBI for 
+a period ending on April 3, 2020 (MoF 2020a) . The order outlined the terms of the 
+167
+India: Yes Bank Moratorium, 2020 Gupta
+
+--- Page 14 ---
+moratorium which were augmented by a directive issued by the RBI (MoF 2020a; RBI 
+2020d). 
+The RBI directed Yes Bank to not grant any new loan, make any new investment, incur any 
+liability or expense without special permission f rom the chief general manager in the  
+Department of Regulation at the RBI (RBI 2020h). The RBI’s directives were provided under 
+section 35A of the BRA (RBI 2020c; RBI 2020h). 
+On March 6, the RBI proposed a draft restructuring plan, which the MoF approved on March 
+13, providing that the moratorium would terminate on March 18, 2020. The MoF’s plan 
+provided certain terms applicable to Yes Bank regarding  a new capital structure, new 
+investment by SBI and a private consortium of investors, composition  of the board of 
+directors, status of the reconstructed bank vis -à-vis its creditors and counterparties, 
+employees, branches, and furnishing certain statements to the RBI. Any questions regarding 
+interpretation of the plan were to be referred to and resolved by the RBI (MoF 2020b).  
+Former RBI Governor Duvvuri has discussed how the RBI is responsible for maintaining the 
+financial safety net, while the Deposit Insurance and DICGC’s role (as a subsidiary of the RBI) 
+is largely to protect small depositors. The DICGC also has a role to play in some resolutions, 
+to compensate some depositors since the acquiring bank cannot meet this liability (Duvvuri 
+2011).  
+5. Governance: The moratorium and the resolution actions were recommende d by 
+the RBI and approved by the MoF. Yes Bank was to be governed by an interim 
+administrator and a reconstituted board  until a new board was independently 
+formed by the bank.  
+On March 5 , 2020, the MoF  placed Yes Bank under a moratorium , after recommendation 
+from the RBI,  to address the bank’s regular outflow of liquidity, with the inability to raise 
+capital amid serious governance issues. The RBI had been engaged with the bank in the 
+months prior to the announceme nts to help strengthen the bank’s balance sheet and 
+liquidity. The RBI declared in the moratorium announcement that it was formulating a 
+restructuring plan for Yes Bank, which would be implement ed before the end of the 
+moratorium period, within 30 days, after approval from the government of India (RBI 
+2020c). 
+On March 6, the RBI authored and disclosed a draft resolution plan for Yes Bank, which was 
+accepting comments until March 9, 2020  (RBI 2020d) . The RBI was to appoint an 
+administrator for the reconstructed bank, who was to leave their office within seven days of 
+the end of the moratorium period. The MoF appointed a new board to the reconstructed Yes 
+Bank as part of a restructuring plan. This board of directors would continue in office for one 
+year, or until a new board was formed as per Yes Bank’s articles of association (MoF 2020b). 
+Yes Bank’s final rescue plan was approved by the government of India’s Cabinet of Ministers 
+on March 14 (ET 2020). 
+Yes Bank was required to submit filings to the RB I periodically to report on the 
+implementation of the restructuring plan. Any concerns regarding the execution of the plan 
+were to be directed to the RBI, and the central bank had final say on the matter (RBI 2020d). 
+168
+Journal of Financial Crises Vol. 7 Iss. 2
+
+--- Page 15 ---
+Yes Bank successfully formed an alternate board after restructuring on July 15, 2022 as per 
+clause 5(7) of the RBI’s plan (YESB 2023a). 
+Resolutions are managed by the regulator and supervisor in India, with the deposit authority 
+taking the role of a special vehicle to compensate certain depositors (Duvvuri 2011). 
+6. Communication and Disclosure: Yes Bank’s moratorium was communicated 
+through press releases and media interviews by the RBI governor and the interim 
+administrator of Yes Bank . The focus was to communicate that the MoF and RBI 
+were concerned for the depositors and shareholders and focusing  on the 
+reconstruction so the moratorium could be lifted.  
+Yes Ba nk’s restructuring plan was announced by an “extraordinary notification ” in the 
+Official Gazette by the Banking Division of the MoF on March 5, 2020 (MoF 2020a). On the 
+same day, the RBI issued two separate press releases announcing that MoF had placed Yes 
+Bank in moratorium, superseded its board, and appoint ed an interim administrator (RBI 
+2020b; RBI 2020c) . On March 6, the RBI disclosed a draft plan with details of the 
+restructurings and allowed three days to accept comments (RBI 2020d). The RBI’s draft plan 
+mentioned only SBI as willing to participate in Yes Bank’s restructuring (RBI 2020a).  
+The RBI Governor Shaktikanta Das stated on March 3,  2020, just prior to Yes Bank’s rescue, 
+that the RBI was committed to banking sector stability and would “never allow a major bank 
+to you know  . . . (fail)” (RBI 2020f) . On March 6, while presenting the RBI’s draft plan, 
+Governor Das stressed that all “depo sitors’ interests will be fully protected” (Ghosh 2020). 
+Governor Das reassured markets that 30 days was the outer limit for the moratorium, and 
+that the RBI should have a rescue plan in place swiftly (Ghosh 2020). On March 13, the MoF 
+announced the final restructuring plan, and provided that the moratorium would end three 
+business days  later, thereby limiting the total duration to less than two weeks. The final 
+restructuring plan included the mention of other (unnamed) investors, apart from SBI, that 
+were willing to provide an equity investment in Yes Bank (MoF 2020b). 
+Das also stated the RBI’s preference for a “market -based resolution” or a n “investor-based 
+resolution” for Yes Bank. In terms of timing, the RBI intervened once it had determined that 
+it “cannot and should not wait any longer.” The government of India’s chief economic adviser, 
+K. Subramanian, also declared that a moratorium was the best solution for Yes Bank (Ghosh 
+2020). 
+Immediately after the moratorium announcement, depositors of Yes Bank began to report 
+their concerns with the propose d withdrawal limits. Some depositors expressed concerns 
+that the INR 50,000 limit would not be adequate to cover necessary monthly expenses, such 
+as rent and school fees, and reported that they were unable to access ATMs or digital banking 
+services. Depositors were reported to have multiple accounts at Yes Bank, with cumulative 
+balances (including fixed  and time deposits)  above the deposit in surance limit of INR 
+500,000 (Mint 2020a). 
+  
+169
+India: Yes Bank Moratorium, 2020 Gupta
+
+--- Page 16 ---
+On March 6, Prashant Kumar, the interim administrator of Yes Bank, stated in a press release: 
+The current moratorium has been brought into effect keeping the depositors’ interest in 
+mind and towards restoring their confidence. A solution is being worked upon to revive 
+the Bank well before the moratorium period of thirty days ends. The Bank is also taking 
+necessary steps to ensure seamless transactions for the customers. We assure the 
+depositors that their money is safe and there is absolutely no reason for panic. Look 
+forward to continued support from the depositors. (YESB 2020a) 
+On March 8, the RBI wrote on Twitter (now X) that the media concern about the safety of 
+deposits at banks is based on a flawed analysis, which focused on market capitalizations of 
+some banks rather than the internationally recognized capital-to-risk-weighted-assets ratio 
+(RBI 2020e) . The RBI reite rated that it was closely monitoring all banks and  assured all 
+depositors that there was no concern  in any bank with the safety of deposits (NDTV Profit 
+2020). 
+On March 9, Kumar stated that the moratorium could be lifted earlier than expected, and that 
+Yes Bank’s deposits were “absolutely safe” with no liquidity issues, with additional “lines of 
+comfort” from the RBI and SBI (NDTV Profit 2020). 
+On March 17, Kumar wrote a letter to the depositors,  stressing that Yes Bank’s “ATMs are 
+full of cash,” and that the bank will provide a full suite of services to customers starting 6pm 
+on March 18 (see Appendix B) (Business Today 2020c) . Kumar also noted separately that 
+30% of eligible depositors had withdrawn money to the maximum limit. After being asked 
+about a forensic audit of Yes Bank, SBI Chairman Rajnish Kumar added that there was 
+nothing wrong with Yes Bank’s books, with the latest financial results providing a full 
+disclosure of the NPLs and adequate provisioning (Nair 2020). 
+In a speech in July 2020, Governor Das declared that the successful resolution of Yes Bank 
+helped ensure the stability of the financial system and safeguarded the interests of 
+depositors. The RBI sought out partnerships with India’s leading financial institutions (both 
+public and private ) in the capital injection , while quickly implement ing the rescue plan , 
+which helped Yes Bank’s revival (Das 2020).  
+7. Details of Holidays, Suspensions, or Gates: The moratorium stayed actions against 
+RBI, imposed restrictions on Yes Bank's operations and withdrawal limits of INR 
+50,000 per depositor for an initial period of 30 days, but was ended after two 
+weeks.  
+India’s MoF, after a recommendation from the RBI, imposed a moratorium on Yes Bank for a 
+30-day period during which all actions against the bank were stayed, and its operations were 
+restricted to only those permitted by directives issued by the MoF and RBI. The MoF’s draft 
+plan restricted Yes Bank to provide payments to any new depositor over INR 50,000 during 
+the moratorium and seek written permission from the RBI  for any payout exceeding the 
+same amount. Yes Bank was allowed to continue to make payments that were unpaid as of 
+the date of the moratorium announcement , especially for the amounts that were ba cked by 
+government securities. The MoF also allowed Yes Bank to continue to deliver securities that 
+170
+Journal of Financial Crises Vol. 7 Iss. 2
+
+--- Page 17 ---
+may have been pledged, hypothecated, or mortgaged.  The RBI was allowed to make 
+exceptions to the withdrawal limits that would have permitted withdrawals greater than INR 
+50,000 for depositors in the case of: 
+• Medical treatment; 
+• Higher education; 
+• Marriage; 
+• Any other “unavoidable emergency.” 
+The maximum allowed exception to withdrawal limits  would be the lesser of either the 
+depositor’s account balance or INR 500,000 (MoF 2020a). 
+During the moratorium, the RBI directed Yes Bank to not grant any new loan, make any new 
+investment, incur any liability or expense without special permission from the chief general 
+manager in the Department of Regulation at the RBI (RBI 2020h). (For details, see Key Design 
+Decision No. 1, Purpose in Gupta [2024b].) 
+Immediately after the moratorium announcement on March 5, users of PhonePe (a leading 
+instant payments provider with 100 million merchants, 200 million users, and 300 m illion 
+locations) experienced service outages for 24 hours (Bhakta 2020; PYMNTS 2020). PhonePe 
+wrote on Twitter (now X ) account that they were experiencing an “unscheduled 
+maintenance activity”  and apologized for the incident  (OpIndia Staff 2020) . GooglePay 
+(leader in insta nt payments) turned off the “check account balance” feature during 
+PhonePe’s outage (PYMNTS 2020). BharatPe, another payments provider, which deploys QR 
+codes for small merchant outlets, also ceased to function (Bhakta 2020).  
+On March 6, PhonePe reported a return of functionality of all merchant payment settlements 
+by noon and of all consumer wallet, and credit and debit card payments by 3pm  (PYMNTS 
+2020). On the same day, the National Payments Corporation of India (NPCI)6 also suspended 
+the use of Yes Bank’s credit cards, debit cards, and point -of-sale payment terminals (NDTV 
+Profit 2020).  
+Yes Bank reported the restoration of its cards and ATMs on Saturday, March 7 (NDTV Profit 
+2020). Despite the restoration of payment se rvices over the weekend of March 7–8, certain 
+businesses, such as gas stations, rejected any instant payments associated with the Unified 
+ 
+6 NPCI was setup in an initiative by the RBI and the Indian Banks’ Association (IBA) under the Payment and 
+Settlement Act, 2007 to create the infrastructure for the entire banking system in India, including electronic 
+payments and settlement. The 10 core banks with an ownership in NPCI are SBI, PNB, Canara Bank, Bank of 
+Baroda, Union Bank of India, Bank of India, ICICI Bank, HDFC Bank, Citibank, and HSBC. Over the years, the 
+NPCI’s shareholding has been broadened by the i ssuance of privately  placed equity shares to include 56 
+member banks and other new entities regulated by the RBI such as payment service operators, payments 
+banks, and small finance banks (NPCI n.d.). 
+171
+India: Yes Bank Moratorium, 2020 Gupta
+
+--- Page 18 ---
+Payments Interface (UPI)7 from a range of service providers, including GooglePay, PhonePe, 
+and Paytm (PYMNTS 2020) . Most of the transactions associated with Yes Bank’s digital 
+payments operations originated from PhonePe.  Before its restructuring, Yes Bank was the 
+leader in the UPI space with a record of 573 million digital transactions in one month (Rawat 
+2020).8  
+Yes B ank accounted for 40% of the UPI’s market share and was assisted by NPCI in re -
+directing all digital payment flows to ICICI Bank during the moratorium period. This helped 
+stave off a potential crisis with the digital payments system as a result of Yes Bank’s rescue 
+(Bhakta 2020).   
+On Sunday, March 8, Yes Bank  released a list of frequently asked questions (FAQ) to help 
+customers better understand the impact of the moratorium. The FAQ clarified that: 
+•  ATMs were functioning  and provided  a digital tool to help locate one close to the 
+depositor; 
+• The withdrawal limit of INR 50,000 was applicable at the “customer ID level”; 
+• The withdrawal limit applied to joint accounts or dependents; 
+• Online wire transfers via RTGS or NEFT9 were suspended; 
+• Clearing activities for Yes Bank’s checks and direct deposits were suspended; 
+• Locker facilities could be accessed and operated. 
+By Tuesday, March 10 , Yes Bank had restored the ability to accept inward banking 
+transactions (such as NEFT) towards credit card dues or loan payments from other bank 
+accounts (NDTV Profit 2020). 
+The MoF’s final plan on March 13 allowed Yes Bank to continue to repay loans and advances 
+from other banks during the moratorium period . The MoF allowed Yes Bank to continue to 
+operate its account at the RBI during the moratorium and continue to release securities that 
+may have previously been pledged, hypothecated, or mortgaged . The final plan stated that 
+all of Yes Bank’s deposits and liabilities would be unaffected by the reconstruction plan, 
+unless explicitly stated (MoF 2020b). 
+ 
+7 UPI is an instant real -time payment system developed by the NPCI to facilitate interbank transactions; the 
+system is regulated by the RBI (PYMNTS 2020). UPI has been attributed with ensuring that every Indian bank 
+account holder can participate in digital payments, independent of their bank’s digital capabilities (Rawat 
+2020). 
+8 After the moratorium ended, SBI took Yes Bank’s leadership role in facilitating the highest number of UPI 
+transactions at 300 million to 350 million per month (Rawat 2020).  
+9 The RBI maintains two systems of interbank transfer in India: RTGS (Real -Time Gross Settlement) and NEFT 
+(National Electronic Fund Transfer) (SBI 2024). 
+172
+Journal of Financial Crises Vol. 7 Iss. 2
+
+--- Page 19 ---
+On Monday, March 16, Yes Bank announced that it would re sume full banking services, 
+including digital platforms, from 6 pm on Wednesday, March 18 , after the moratorium was 
+lifted. Yes Bank further stated that outwards payments (NEFT and RTGS) would also be 
+resumed, along with the ability to use Yes Bank credit cards on digital payment applications. 
+However, Yes Bank was unable to clear checks, since the RBI had still suspended the bank’s 
+clearing activities (NH Web Desk 2020). 
+As per the MoF’s final restructuring plan, the moratorium period ended at 6pm on March 18, 
+2020 (MoF 2020b). 
+8. Treatment of Depositors or Investors: Yes Bank’s depositors were not subject to 
+any losses, but faced withdrawal limits for two weeks. Yes Bank’s AT1 
+bondholders were fully bailed-in according to the RBI’s plan.  
+Depositors of Yes Bank did not experience any losses and only were subject to withdrawal 
+limits of INR 50,000 per depositor during the moratorium period; these restrictions expired 
+with the termination of the moratorium after approval of the rescue plan (RBI 2020d). There 
+were no other associated restrictions (dividend or compensation) after the capital infusion 
+as disclosed by the RBI’s restructuring plan.  
+The RBI’s directive as per Section 35A of the BRA provided for exceptions to incur expenses 
+during the moratorium for: 
+• Payment of employee salaries; 
+• Rent and taxes; 
+• Office supplies; 
+• Postage; 
+• Legal expenses (not exceeding INR 50,000). 
+The total expenses permissible by the RBI were not to exceed the average expenditure on 
+the line item for the six months preceding the moratorium announcement. If no expenditure 
+had been incurred previously, then the total permissible payout was capped at INR 50,000 
+(RBI 2020h).  
+The RBI’s draft plan on March 6, 2020, required the permanent write-down of the AT1 capital 
+issued by Yes Bank  in 2016 and 2017  (RBI 2020d) . On March 14, 2020, Yes Bank was 
+following legal advice and had fully written down AT1 bonds worth INR 84 billion (YESB 
+2020b).  
+The MoF’s final restructuring plan for YES bank anticipated that no branches would be closed 
+and all of Yes Bank’s branches would continue to operate in an unchanged manner during 
+the moratorium period (MoF 2020b).  
+173
+India: Yes Bank Moratorium, 2020 Gupta
+
+--- Page 20 ---
+The MoF also directed Yes Bank to provide financial statements and information to the RBI 
+from “time to time .” The MoF also stated that any concerns arising from the interpretation 
+of the final restructuring plan should be directed to the RBI, with the RBI’s views as final and 
+binding on the topic (MoF 2020b). 
+After the announcement of the final rescue plan, despite the lack of retail depositor panic, 
+some state governments began to advise their departments to shift funds away from private 
+sector banks to public sector banks. The RBI wrote to the chief secretari es of states to warn 
+that such a concern over deposits in private sector banks  was “highly misplaced” and could 
+have destabilizing effects on the banking and financial system (Ramchandani and Jethwani 
+2021).  
+In his memoir, former SBI Chairman Rajnish Kumar points out that following the end of the 
+moratorium, corporates and state governments withdrew bulk deposits from Yes Bank. The 
+exact extent of the bulk deposit flight  is not clear,  but Kumar asserts that the RBI’s special 
+liquidity facility of INR 500 b illion was essential to Yes Bank ’s survival through that period 
+(Kumar 2021, 20). 
+On March 17, 2020, the RBI announced that all banks shall not make any dividend payments 
+for the financial year ending in March 2020 until further instructions from the RBI, and to 
+conserve capital due to the uncertainty from the COVID-19 pandemic (YESB 2020b). 
+On March 24, 2020, India’s 1.3 billion people started 21 days of lockdown to stop the spread 
+of C OVID-19. India’s Home  Ministry issued a statement declaring certain exemptions for 
+essential services, such as banks, gas stations, and food shops, to remain open (Schultz and 
+Gettleman 2020). 
+9. Verification of Solvency: There was no explicit valuation report to confirm the 
+solvency of Yes Bank after the moratorium was implemented.  
+Yes Bank was functioning on a going-concern basis after breaching the RBI’s CET1 
+requirements at the end of December 2019. Yes Bank reported breaching the regulator LCR, 
+as deposits dropped from INR 2.1 trillion in September 2019, to INR 1.6 trillion in December 
+2019, and to INR 1.1 trillion by March 31, 2020. Yes Bank’s deposit base bottomed at INR 1.0 
+trillion as of May 2, 2020 (see Figure 3) (YESB 2021).  
+Yes Bank was determined to be unviable as a r esult of the RBI’s rescue plan in early March 
+2020. Yes Bank’s newly constructed board of directors made an assessment on Yes Bank’s 
+ability to continue functioning on a going concern basis for three years, given the announced 
+equity capital infusion by the RBI’s plan (YESB 2021).  
+By March 6, 2020, Yes Bank’s equity share price had declined 96% and reached an all -time 
+low of INR 5.65 per share after the announcement of the RBI’s plan (Business Today 2020a). 
+The RBI’s plan provided a capital infusion to Yes Bank at INR 10 per share (MoF 2020b). The 
+announcement of the early termination of the moratorium on March 16, led to a 50% rise in 
+the share price of Yes Bank  on March 18  (Moneycontrol News 2020)  (see Key Design 
+Decision No.6, Communication and Disclosure, for details on the public statements during 
+174
+Journal of Financial Crises Vol. 7 Iss. 2
+
+--- Page 21 ---
+the end of the moratorium). Yes Bank’s deposits continued to decline until early May 2020, 
+while the equity share price consistently maintained a 150% premium to the capital infusion 
+on March 14, 2020.  
+There was no valuation or solvency report disclosed by the RBI or by Yes Bank, before the 
+moratorium was lifted on March 18.  
+Figure 3: Yes Bank: Deposits and Liquidity Coverage Ratio 
+Date 
+(as of) 
+Deposits  
+(in INR trillion) 
+LCR 
+(in %) 
+September 30, 2019 2.1 114% 
+December 31, 2019 1.6 74% 
+March 31, 2020 1.1 40% 
+May 2, 2020 1.0 35% 
+ 
+Note: Regulatory LCR requirement of 100% (80% in May 2020). 
+Sources: YESB 2020b; YESB 2021.  
+10. Other Conditions: The RBI replaced the board of directors of Yes Bank during the 
+moratorium period, and the MoF’s final plan appointed an interim administrator.  
+The RBI replaced the board of directors of Yes Bank on March 5  under 36ACA of the BRA to 
+restore the faith of depositors while a restructuring plan was being formulated (RBI 2020b). 
+The RBI provided additional direction to Yes Bank to limit business activity in interest of the 
+depositors under 35A of the BRA (RBI 2020a). The RBI could appoint additional directors to 
+the restructured entity under subsection 1 of section 36AB of the BRA (RBI 2020d).  
+On March 13, as part of the MoF’s final plan , the RBI  appointed a new board to the 
+reconstructed Yes Bank comprising four members, with the former CFO of the SBI (lead 
+investor bank) as the CEO and the  former nonexecutive chairman of Punjab National Bank 
+(leading public-sector bank) as the nonexecutive chairman. The reconstructed board was to 
+remain in place for one year or until an alternate board was constructed , pursuant to the 
+articles of association of Yes Bank (MoF 2020b). On March 26, 2020, eight individuals were 
+appointed to form the board of directors of the reconstructed Yes Bank (YESB 2020b). (For 
+details see Key Design Decision No. 5, Governance, in Gupta [2024b].). 
+Rana Kapoor, the founder of Yes Bank, was arrested in March 2020 by the Enforcement 
+Directorate (ED), a federal law enforcement body for economic and foreign exchange related 
+crimes and subsidiary of the MoF , for allegations of money laundering of INR 50 billion 
+(Jagannath 2020; Samervel 2023). In July 2020, the ED froze assets of Kapoor worth INR 14 
+billion, including luxury cars and properties across India, Australia, the United Kingdom, and 
+the US (Jagannath 2020). 
+The ED case against Kapoor began in November 2022, charging him under sections 44 and 
+45 of the Prevention of Money Laundering Act, 2002. Kapoor is being charged separately by 
+the Central Bureau of Investigation (CBI) for INR 6 billion of alleged fraudulent transfers to 
+175
+India: Yes Bank Moratorium, 2020 Gupta
+
+--- Page 22 ---
+a nonbank (DHC 2022). As of December 2023, Kapoor was granted bail by a special court in 
+Mumbai in relation to the ED money laundering charges but remained in custody pending 
+the CBI investigation (Samervel 2023). 
+11. Exit Strategy: The MoF ended the moratorium earlier than expected on March 18. 
+Yes Bank was able to return to the markets to raise capital independent ly and 
+received credit ratings upgrades in the second half of 2020 . Yes Bank’s deposits 
+rebounded to INR 2.2 trillion as of 2023.  
+The MoF’s draft plan h ad stated that the moratorium would end after 30 days on April 3 
+(MoF 2020a). The MoF’s final plan ended the moratorium in 13 days by 6pm on March 18, 
+2020 (MoF 2020b). Yes Bank would begin to offer its “full suite of services” across all its 
+1,132 branches that evening (Moneycontrol News 2020). 
+On July 23, 2020, Yes Bank successfully raised INR 148.7 billion from private investors 
+through an FPO that was not a part of the RBI’s rescue plan (Mint 2020b; YESB 2021) . In 
+August 2020, Moody’s upgraded Yes Bank’s long term credit rating to B3 with a stable 
+outlook (YESB 2023b). In March 2021, Yes Bank Chairman Sunil Mehta reported that the 
+bank’s CET1 ratio had improved from 6.3% in 2020 to 11.2% in 2021 (YESB 2021).  
+In March 2022, Yes Bank reported a successful return to full-year profitability for the first 
+time since the restructuring plan in March 2020 (YESB 2022). In July 2022, J .C. Flowers, a 
+private equity firm, agreed to purchase a stressed loan pool from Yes Bank for INR 480 billion 
+(USD 6.3 billion) (MC 2022). 
+As of March 13 , 2023, the lock -in period for investors in Yes Bank had ended, with those 
+participating in the rescue plan securing 70% returns on market prices . The RBI has asked 
+private investors to sell  their stakes gradually to avoid destabilizing the bank (Gopakumar 
+2023). As of March 31, 2023, Yes Bank’s CET1 ratio has improved to 13.3% from 6.3% in 
+2020 (see Figure 1) (SBI 2022; YESB 2023b). 
+12. Regulatory Changes: The RBI announced changes to the deposi t insurance, 
+auditing, and supervision regimes for both banks and nonbanks in India since Yes 
+Bank’s rescue. 
+In August 2021, India’s Parliament passed an amendment to the DICGC bill, which ensured 
+the payment of the new insurance amount of INR 500,000 within 90 days of any bank being 
+placed in a moratorium. This is in sharp contrast to the eight to 10 years of average 
+settlement period for depositors of stressed cooperative banks in India.  Finance Minister 
+Nirmala Sitharaman stated that this legislative change will benefit small depositors (PTI 
+2021). 
+The RBI has also update d its guidelines for auditor selection and tenure for banks in India 
+since Yes Bank’s rescue. The RBI reduced the minimum tenure to change audit ors to three 
+years, and also introduced restrictions on the ability to audit multiple entities within the 
+same or related corporate groups (Dethe 2023). 
+176
+Journal of Financial Crises Vol. 7 Iss. 2
+
+--- Page 23 ---
+The RBI is adopting a technology- and data-first approach to bank supervision to quicken the 
+feedback and supervision process of banks and nonbanks.  The RBI’s legacy system of data 
+collection, the Off-Site Monitoring and Supervision System (OSMOS), has lags because of data 
+inefficiencies which extends the supervisory process to almost nine months . The RBI h as 
+been considering implementing integrated service platforms to get near real-time reporting 
+from regulated banks and nonbanks (Bansal 2020). 
+The RBI recently shortened the timeline for regulated entities to submit audited financials 
+to the regulator after the auditor’s approval (Nayak, Bhat, and Goswami 2024).  
+  
+177
+India: Yes Bank Moratorium, 2020 Gupta
+
+--- Page 24 ---
+References and Key Program Documents 
+Implementation Documents 
+(MoF 2020a) Ministry of Finance (MoF). 2020a. “Ministry of Finance (Banking Division) 
+Notification - Extraordinary - Official Gazette.” CG-DL-E-05032020-216550, March 5, 2020. 
+Official disclosure presenting Yes Bank’s rescue plan by India’s Ministry of Finance. 
+http://elischolar.library.yale.edu/ypfs-documents2/1558 
+(MoF 2020b) Ministry of Finance (MoF). 2020b. “Ministry of Finance, Department of 
+Financial Services - Notification.” G.S.R. 174(E)., March 13, 2020. 
+Official disclosure presenting Yes Bank’s rescue plan by India’s Ministry of Finance. 
+http://elischolar.library.yale.edu/ypfs-documents2/1649 
+(RBI 2020a) Reserve Bank of India (RBI). 2020a. “Draft ‘Yes Bank Ltd. Reconstruction 
+Scheme, 2020.’” March 5, 2020. 
+Document presenting the RBI’s draft of the rescue plan for Yes Bank. 
+http://elischolar.library.yale.edu/ypfs-documents2/1565 
+(RBI 2020b) Reserve Bank of India (RBI). 2020b. “Supersession of the Board of Directors - 
+Appointment of Administrator - Yes Bank Ltd..” March 5, 2020. 
+Document disclosing the removal of Yes Bank’s board by the RBI. 
+http://elischolar.library.yale.edu/ypfs-documents2/1567 
+(RBI 2020c) Reserve Bank of India (RBI). 2020c. “Yes Bank Ltd. Placed under Moratorium.” 
+March 5, 2020. 
+Document disclosing the decision to place Yes Bank in moratorium. 
+http://elischolar.library.yale.edu/ypfs-documents2/1569 
+(RBI 2020d) Reserve Bank of India (RBI). 2020d. “Yes Bank Ltd.: RBI Announces Scheme of 
+Reconstruction.” March 6, 2020. 
+Document disclosing the RBI’s draft rescue plan for Yes Bank. 
+https://elischolar.library.yale.edu/ypfs-documents2/1570 
+Legal/Regulatory Guidance 
+(DHC 2022) Sudhir Kumar Jain (DHC). 2022. “Rana Kapoor vs Directorate of Enforcement.” 
+2022/DHC/005170. Sudhir Kumar Jain, November 25, 2022. 
+Document presenting the official case filed in the Delhi High Court by Federal Law 
+Enforcement Authorities against Yes Bank’s founder. 
+http://elischolar.library.yale.edu/ypfs-documents2/1556 
+  
+178
+Journal of Financial Crises Vol. 7 Iss. 2
+
+--- Page 25 ---
+(GoI 1949) Government of India (GoI). 1949. “Section 45. Power of Reserve Bank to Apply 
+to Central Government for Suspension of Business by a Banking Company and to Prepare 
+Scheme of Reconstitution or Amalgamation.” 1949. 
+Law describing the powers of the Reserve Bank of India to apply for permission for a bank 
+holiday from the Government. 
+https://elischolar.library.yale.edu/ypfs-documents2/4334 
+(GoI 2020) Ministry of Law and Justice (GoI). 2020. The Banking Regulation (Amendment) 
+Ordinance, 2020. June 26, 2020. 
+Disclosure providing an amendment to the Banking Regulation Act of 1949. 
+http://elischolar.library.yale.edu/ypfs-documents2/1604 
+(Jha and Chawla 2023) Jha, Abhijnan, and Chetan Chawla. 2023. “The Limits to a 
+Moratorium: Interplay Between the Indian Insolvency and Bankruptcy Code and Defensive 
+Proceedings.” February 1, 2023. 
+Document describing the moratorium in the Indian legal context. 
+http://elischolar.library.yale.edu/ypfs-documents2/2366 
+(Panday 2023) Panday, Ashish. 2023. “Interpretation of Parallel Proceedings during 
+Moratorium under IBC.” May. 
+Article by a lawyer at the Delhi High Court explaining the term moratorium under the 
+Insolvency and Bankruptcy Code 2016. 
+http://elischolar.library.yale.edu/ypfs-documents2/2367 
+Media Stories 
+(Bansal 2020) Bansal, Rajesh. 2020. “Yes Bank, PNB Crises Shows Why RBI Needs a Data-
+First Approach to Supervision.” The Print, December 4, 2020. 
+Article describing the updates to technology infrastructure by the RBI to help in bank 
+supervision. 
+https://elischolar.library.yale.edu/ypfs-documents2/4345 
+(Bhakta 2020) Bhakta, Pratik. 2020. “How ICICI Bank Swiftly Absorbed Yes Bank 
+Transactions after Outages at PhonePe, BharatPe.” Moneycontrol, March 9, 2020. 
+Article describing how another large private bank helped stem the panic after Yes Bank’s 
+moratorium. 
+https://elischolar.library.yale.edu/ypfs-documents2/4328 
+(Bhaskar 2018) Bhaskar, Utpal. 2018. “Why RBI Said No to Yes Bank on Rana Kapoor 
+Extension.” Mint, October 29, 2018. 
+Article describing the RBI’s reasons for not approving an extension of tenure as CEO for Yes 
+Bank’s founder. 
+https://elischolar.library.yale.edu/ypfs-documents2/1607 
+  
+179
+India: Yes Bank Moratorium, 2020 Gupta
+
+--- Page 26 ---
+(BS 2015) Business Standard (BS). 2015. “Yes Bank Takes on UBS over Negative Report.” 
+July 14, 2015. 
+Article presenting the asset quality concerns of Yes Bank’s balance sheet. 
+https://elischolar.library.yale.edu/ypfs-documents2/1616 
+(BT 2020) Kiran, Niti (BT). 2020. “Faith Shattered! Yes Bank Deposits down 54% from Rs 
+2.27 Lakh Crore Peak.” Business Today, May 7, 2020.  
+Article describing the run on deposits of Yes Bank in the build up to its resolution. 
+http://elischolar.library.yale.edu/ypfs-documents2/1612 
+(Business Today 2020a) Business Today. 2020a. “Yes Bank Share Price Loses 85% after 
+RBI Takes over Private Lender.” BT Market Today, March 6, 2020. 
+Article describing the drop in share price of Yes Bank after the announcement of the RBI’s 
+rescue plan. 
+https://elischolar.library.yale.edu/ypfs-documents2/4343 
+(Business Today 2020b) Business Today. 2020b. “Yes Bank Administrator Prashant Kumar 
+Writes Letter to Customers, Thanks Them for Their Patience.” Business Today, March 17, 
+2020. 
+Article describing a letter from the interim administrator of Yes Bank to the depositors. 
+https://elischolar.library.yale.edu/ypfs-documents2/4337 
+(Business Today 2020c) Business Today. 2020c. “Yes Bank Crisis: ATMs Full of Cash, No 
+Liquidity Issue, Says Prashant Kumar.” Business Today, March 17, 2020. 
+Article describing the communication by the interim administrator of Yes Bank to prevent a 
+run on the bank. 
+https://elischolar.library.yale.edu/ypfs-documents2/4338 
+(Dethe 2023) Dethe, Amol. 2023. “Banks Brace for Auditor Shuffle in New Year as per RBI’s 
+Three Year Tenure Mandate.” The Economic Times, December 26, 2023. 
+Article describing a change in the RBI’s policy on auditors. 
+https://elischolar.library.yale.edu/ypfs-documents2/4324 
+(Dhasmana 2020) Dhasmana, Indivjal. 2020. “CBDT Exempts Yes Bank Investors under 
+Reconstruction Scheme from Income Tax.” Business Standard, June 30, 2020. 
+Article describing a special clause in the rescue plan which exempted new investors from 
+capital gains tax. 
+http://elischolar.library.yale.edu/ypfs-documents2/1744 
+(Dubey 2020) Dubey, Navneet. 2020. “Deposits with Yes Bank Insured up to Rs 5 Lakh but 
+What Should Salary Account Holders Do?” The Economic Times, March 6, 2020. 
+Article describing the increase in deposit insurance to INR 500,000. 
+http://elischolar.library.yale.edu/ypfs-documents2/1619 
+  
+180
+Journal of Financial Crises Vol. 7 Iss. 2
+
+--- Page 27 ---
+(ET 2020) ET Bureau (ET). 2020. “Union Cabinet Approves Yes Bank Reconstruction Plan.” 
+Economic Times, March 14, 2020. 
+Article describing the Ministry of Finance’s announcement of a rescue plan for Yes Bank. 
+http://elischolar.library.yale.edu/ypfs-documents2/1620 
+(Fortune 2019) Fortune India (Fortune). 2019. “Ravneet Gill Appointed YES Bank MD and 
+CEO.” January 24, 2019. 
+Article describing the appointment of a new CEO to Yes Bank to help with clean-up efforts and 
+to raise equity capital. 
+http://elischolar.library.yale.edu/ypfs-documents2/1637 
+(Ghosh 2020) Ghosh, Shayan. 2020. “RBI to Take Swift Action to Revive Troubled Yes Bank, 
+Assures Governor Das.” Mint, March 6, 2020. 
+Interview disclosing RBI Governor Das’s reassurances to the media on Yes Bank. 
+http://elischolar.library.yale.edu/ypfs-documents2/1720 
+(Gopakumar 2023) Gopakumar, Gopika. 2023. “As Lock-in Expires, Yes Bank Rescuers May 
+Retain Stakes.” Mint, March 7, 2023. 
+Article describing the behavior of investors in Yes Bank’s rescue plan after the expiration of 
+the lock-in period. 
+http://elischolar.library.yale.edu/ypfs-documents2/1750 
+(IBC Laws 2023) IBC Laws. 2023. “All about Moratorium under Section 14 of the Insolvency 
+and Bankruptcy Code, 2016 Including Judicial Announcements.” June 13, 2023. 
+Blog post explaining the idea of a moratorium in the Indian legal context. 
+http://elischolar.library.yale.edu/ypfs-documents2/1557 
+(Jagannath 2020) Jagannath, J. 2020. “Yes Bank Case: ED Attaches Assets Worth ₹2,500 Cr 
+of Rana Kapoor and Wadhawans.” Mint, July 9, 2020. 
+Article describing action against the founder of Yes Bank by federal law enforcement 
+authorities. 
+http://elischolar.library.yale.edu/ypfs-documents2/1752 
+(MC 2022) Moneycontrol news (MC). 2022. “YES Bank in Final Stages to Close $1 Billion 
+Fundraise from Carlyle, Advent Post ARC Deal.” July 18, 2022. 
+Article describing Yes Bank’s potential capital raise from a foreign investor. 
+http://elischolar.library.yale.edu/ypfs-documents2/1762 
+(Mint 2019) Gopika Gopakumar (Mint). 2019. “Mint, RBI Appoints R Gandhi to Yes Bank 
+Board.” Mint, May 14, 2019.  
+Article presenting a regulatory action taken by the RBI towards Yes Bank.  
+http://elischolar.library.yale.edu/ypfs-documents2/1722 
+(Mint 2020a) Mint Staff (Mint). 2020a. “What the Yes Bank Crisis Means for Its Customers 
+and Investors.” Mint, March 9, 2020. 
+Article presenting an update to the depositors of Yes Bank after the moratorium. 
+https://elischolar.library.yale.edu/ypfs-documents2/4335 
+181
+India: Yes Bank Moratorium, 2020 Gupta
+
+--- Page 28 ---
+(Mint 2020b) Mint Staff (Mint). 2020b. “Yes Bank FPO Issue: Floor Price Fixed at INR 12 
+per Share.” Mint, July 10, 2020. 
+Article describing a followup public offering by Yes Bank in July 2020. 
+https://elischolar.library.yale.edu/ypfs-documents2/2892 
+(Moneycontrol News 2020) Moneycontrol News. 2020. “Yes Bank Jumps 1,484% from 
+Record Low as Ops Resume Today Evening.” March 18, 2020. 
+Article describing the growth in Yes Bank’s stock price after the end of the moratorium period. 
+https://elischolar.library.yale.edu/ypfs-documents2/4339 
+(Nair 2020) Nair, Vishwanath. 2020. “Yes Bank Moratorium: Only A Third Of Depositors 
+Withdrew Maximum Permitted.” NDTV Profit, March 17, 2020. 
+Article describing the withdrawal of some deposits during Yes Bank’s moratorium. 
+https://elischolar.library.yale.edu/ypfs-documents2/4342 
+(NDTV Profit 2020) NDTV Profit. 2020. “Yes Bank Moratorium Live Updates: Inward 
+Payment Using NEFT And IMPS Restored.” NDTV Profit, March 10, 2020. 
+Article presenting the timeline of the moratorium and the restoration of digital payments at 
+Yes Bank. 
+https://elischolar.library.yale.edu/ypfs-documents2/4341 
+(NH Web Desk 2020) NH Web Desk. 2020. “Yes Bank to Restart Full-Fledged Services from 
+Wednesday.” National Herald, March 16, 2020. 
+Article presenting an update to depositors on Yes Bank after the lifting of the moratorium. 
+https://elischolar.library.yale.edu/ypfs-documents2/4344 
+(OpIndia Staff 2020) OpIndia Staff. 2020. “Phone Pe and Paytm Engage in Twitter Banter 
+after YES Bank Moratorium Affects the Former.” OpIndia, March 6, 2020. 
+Article describing the communication of two largest digital payments providers after Yes 
+Bank’s moratorium was announced. 
+https://elischolar.library.yale.edu/ypfs-documents2/4331 
+(Parkin 2019a) Parkin, Benjamin. 2019a. “India’s Shadow Banking Crisis Raises Spectre of 
+Contagion.” Financial Times, October 29, 2019. 
+Article describing the spark of India’s Lehman moment with the collapse of a large nonbank 
+financial lender. 
+http://elischolar.library.yale.edu/ypfs-documents2/1790 
+(Parkin 2019b) Parkin, Benjamin. 2019b. “India’s Yes Bank Receives $1.2bn Stake Offer 
+from Foreign Investor.” Financial Times, October 31, 2019. 
+Article about a potential equity capital investment for Yes Bank. 
+http://elischolar.library.yale.edu/ypfs-documents2/1672 
+(Parkin 2019c) Parkin, Benjamin. 2019c. “RBI Says Yes Bank Under-Reported Bad Loans by 
+$457m.” Financial Times, November 20, 2019. 
+Article describing the faulty reporting of bad loans by Yes Bank. 
+http://elischolar.library.yale.edu/ypfs-documents2/1674 
+182
+Journal of Financial Crises Vol. 7 Iss. 2
+
+--- Page 29 ---
+(PTI 2020a) Press Trust of India (PTI). 2020. “RBI Extends Rs 60,000-Crore Credit Line to 
+Yes Bank.” March 19, 2020. 
+Article describing an emergency liquidity line provided to Yes Bank by the RBI. 
+https://elischolar.library.yale.edu/ypfs-documents2/5485 
+(PTI 2020b) Press Trust of India (PTI). 2020. “RBI to Use Any Means Necessary to Revive 
+Growth, Preserve Financial Stability: Shaktikanta Das.” April 13, 2020. 
+Article describing the interactions of the RBI Governor Das with the media to provide 
+reassurances about maintaining growth and economic stability. 
+http://elischolar.library.yale.edu/ypfs-documents2/1776 
+(PTI 2021) Press Trust of India (PTI). 2021. “Parliament Passes Deposit Insurance and 
+Credit Guarantee Corporation Amendment Bill.” The Economic Times, August 9, 2021. 
+Article describing an amendment to the deposit insurance bill in India. 
+https://elischolar.library.yale.edu/ypfs-documents2/4330 
+(PYMNTS 2020) PYMNTS. 2020. “Google Pay Restricts App After Yes Bank Seizure Disrupts 
+Payments Rails In India.” March 9, 2020. 
+Article describing the disruption to digital payments networks after Yes Bank’s moratorium. 
+https://elischolar.library.yale.edu/ypfs-documents2/4327 
+(Rawat 2020) Rawat, Aman. 2020. “SBI Emerges Single Largest Players In UPI After YES 
+Bank Fiasco.” Inc42, June 2, 2020. 
+Article describing SBI as the new leader in digital payments after Yes Bank’s collapse. 
+https://elischolar.library.yale.edu/ypfs-documents2/4333 
+(RBI 2020e) Reserve Bank of India (RBI). 2020e. “Reserve Bank of India Tweet on Banks.” 
+March 8, 2020. 
+Post on social media platform Twitter (now X) to clarify rumors about the banking system. 
+http://elischolar.library.yale.edu/ypfs-documents2/5476 
+(RBI 2020f) Reserve Bank of India (RBI). 2020f. “RBI Governor Shaktikanta Das Speaks to 
+Bloomberg Economics’ Stephanie Flanders on Coordinated Policy Action to the Coronavirus 
+Fallout, Yes Bank and the Indian Banking Sector.” Interview Transcript, March 3, 2020. 
+Transcript of a TV interview between the RBI governor and a Bloomberg journalist. 
+http://elischolar.library.yale.edu/ypfs-documents2/1680 
+(Samervel 2023) Samervel, Rebecca. 2023. “Rana Kapoor Gets Bail in ED Case but Won’t 
+Walk Free Yet.” Times of India, December 22, 2023. 
+Article providing an update on the case against the founder of Yes Bank. 
+https://elischolar.library.yale.edu/ypfs-documents2/2894 
+(Schultz and Gettleman 2020) Schultz, Kai, and Jeffrey Gettleman. 2020. “Modi Orders 3-
+Week Total Lockdown for All 1.3 Billion Indians.” New York Times, March 24, 2020. 
+Article discussing the imposition of a national lockdown in India as a reaction to the COVID-
+19 pandemic. 
+http://elischolar.library.yale.edu/ypfs-documents2/1681 
+183
+India: Yes Bank Moratorium, 2020 Gupta
+
+--- Page 30 ---
+(Sen 2022) Sen, Meghna. 2022. “Yes Bank to Sell 10% Stake to Carlyle, Advent for ₹8,898 
+Crore.” Mint, July 29, 2022. 
+Article describing the equity capital injection by foreign private equity players into Yes Bank. 
+http://elischolar.library.yale.edu/ypfs-documents2/1682 
+(Nayak, Bhat, and Goswami 2024) Nayak, Siddhi, Swati Bhat, and Sohini Goswami. 2024. 
+“India Cenbank Tweaks Rules to Standardise Filing of Supervisory Returns by Banks.” 
+Reuters, February 27, 2024. 
+Article presenting an update to the RBI’s supervisory guidelines for banks and nonbanks. 
+https://elischolar.library.yale.edu/ypfs-documents2/4329 
+(The Tribune 2020) The Tribune. 2020. “RBI Extends Rs 600 Bn Liquidity Facility to Yes 
+Bank.” March 19, 2020. 
+Article describing the extension of a special liquidity facility by the RBI to Yes Bank. 
+http://elischolar.library.yale.edu/ypfs-documents2/1785 
+Press Releases/Announcements 
+(RBI 2020g) Reserve Bank of India (RBI). 2020g. “Deposit Insurance and Credit Guarantee 
+Corporation (DICGC) Increases the Insurance Coverage for Depositors in All Insured Banks 
+to Rs 5 Lakh.” Press release: 2019-2020/1878, February 4, 2020. 
+Press release disclosing the increase in deposit insurance by the RBI. 
+http://elischolar.library.yale.edu/ypfs-documents2/1564 
+(YESB 2020a) YES Bank Limited (YESB). 2020a. “Yes Bank Media Statement.” March 6, 
+2020. 
+Disclosure notifying depositors of Yes Bank of a withdrawal limit during the moratorium. 
+https://elischolar.library.yale.edu/ypfs-documents2/4340 
+Reports/Assessments 
+(Das 2020) Das, Shaktikanta. 2020. “Indian Economy at a Crossroad: A View from Financial 
+Stability Angle.” Speech, July 11, 2020. 
+Speech by Governor Das on financial stability. 
+http://elischolar.library.yale.edu/ypfs-documents2/1605 
+(Duvvuri 2011) Duvvuri, Subba Rao. 2011. “Duvvuri Subbarao: Bank Resolution 
+Framework Challenges in the Indian Context.” November. 
+Speech detailing the RBI’s approach to bank resolutions by the RBI Governor. 
+https://elischolar.library.yale.edu/ypfs-documents2/4326 
+(Duvvuri 2024) Duvvuri, Subba Rao. 2024. “Lessons Learned Interview with Salil Gupta, 
+November 29, 2023.” Yale Program on Financial Stability Lessons Learned Oral History 
+Project. Transcript. 
+Transcript of YPFS interviewing Subba Rao Duvvuri. 
+https://elischolar.library.yale.edu/ypfs-documents2/5169/ 
+184
+Journal of Financial Crises Vol. 7 Iss. 2
+
+--- Page 31 ---
+(Kotak 2017) Kotak Institutional Equities Research (Kotak). 2017. “Yes Bank: All about a 
+Table, Once More.” October 22, 2017. 
+Report describing Kotak Research’s view on Yes Bank’s performance. 
+https://elischolar.library.yale.edu/ypfs-documents2/1647 
+(Moody’s 2020) Moody’s Investor Service (Moody’s). 2020. “Moody’s Announces 
+Completion of a Periodic Review of Ratings of Yes Bank Limited.” October 16, 2020. 
+Report presenting the latest credit rating for Yes Bank and its rationale by Moody’s. 
+https://elischolar.library.yale.edu/ypfs-documents2/1665 
+(Moody’s 2022) Moody’s Investor Service (Moody’s). 2022. “Moody’s Upgrades Yes Bank’s 
+Rating to Ba3 from B2; Changes Outlook to Stable.” August 4, 2022. 
+Report presenting the latest credit rating for Yes Bank and its rationale by Moody’s. 
+https://elischolar.library.yale.edu/ypfs-documents2/1658 
+(MS 2020) Morgan Stanley (MS). 2020. “Yes Bank: F4Q20 Conference Call Takeaways.” May 
+11, 2020. 
+Report by the brokerage division of Morgan Stanley on Yes Bank’s performance in the fourth 
+quarter of 2020. 
+http://elischolar.library.yale.edu/ypfs-documents2/1668 
+(SBI 2021) State Bank of India (SBI). 2021. State Bank of India Annual Report 2020-2021. 
+State Bank of India’s annual report for the full year 2021. 
+http://elischolar.library.yale.edu/ypfs-documents2/1576 
+(SBI 2022) State Bank of India (SBI). 2022. State Bank of India Annual Report 2021-2022. 
+State Bank of India’s annual report for the full year 2022. 
+http://elischolar.library.yale.edu/ypfs-documents2/1575 
+(SBI 2025) State Bank of India (SBI). 2025. “Disclosure under Regulation 30 of SEBI (LODR) 
+Regulations, 2015 Divestment of 13.19% Stake in Yes Bank Limited (YBL),” May 9, 2025. 
+Disclosure describing the divestment of Yes Bank shares by SBI. 
+https://elischolar.library.yale.edu/ypfs-documents2/5496 
+(YESB 2019) YES Bank Limited (YESB). 2019. Yes Bank Annual Report 2018-2019. 
+Yes Bank’s annual report for the full year 2019. 
+http://elischolar.library.yale.edu/ypfs-documents2/1593 
+(YESB 2020b) YES Bank Limited (YESB). 2020b. “Yes Bank Annual Report 2019–2020,” 
+2020. 
+Yes Bank’s annual report for the full year 2020. 
+http://elischolar.library.yale.edu/ypfs-documents2/1689 
+(YESB 2021) YES Bank Limited (YESB). 2021. Yes Bank Annual Report 2020–21. 
+Yes Bank’s annual report for the full year 2021. 
+http://elischolar.library.yale.edu/ypfs-documents2/1586 
+185
+India: Yes Bank Moratorium, 2020 Gupta
+
+--- Page 32 ---
+(YESB 2022) YES Bank Limited (YESB). 2022. Yes Bank Annual Report 2021–22. 
+Yes Bank’s annual report for the full year 2022. 
+http://elischolar.library.yale.edu/ypfs-documents2/1592 
+(YESB 2023a) YES Bank Limited (YESB). 2023a. Yes Bank Annual Report 2022–23. 
+Yes Bank’s annual report for the full year 2023. 
+http://elischolar.library.yale.edu/ypfs-documents2/2368 
+(YESB 2023b) YES Bank Limited (YESB). 2023b. “Yes Bank Investor Presentation.” June 11, 
+2023. 
+Disclosure presenting an update to investors of Yes Bank. 
+https://elischolar.library.yale.edu/ypfs-documents2/2896 
+(YESB 2025) YES Bank Limited (YESB). 2025. “Disclosure under Regulation 30 of the 
+Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements) 
+Regulations, 2015, as Amended (‘SEBI Listing Regulations’),” May 9, 2025. 
+Report disclosing the sale of Yes Bank’s equity by SBI and a private bank consortium to SMBC. 
+https://elischolar.library.yale.edu/ypfs-documents2/5495 
+Key Academic Papers 
+(Akhtar, Alam, and Khan 2021) Akhtar, Shakeb, Mahfooz Alam, and Mohd Mohsin Khan. 
+2021. “YES Bank Fiasco: Arrogance or Negligence.” 3(2) 95–102, 2021. Emerging 
+Economies Cases Journal, 2021. 
+Study assessing the collapse of Yes Bank, its causes, and the regulatory response. 
+http://elischolar.library.yale.edu/ypfs-documents2/1606 
+(Bandyopadhyay 2020) Bandyopadhyay, Tamal. 2020. `Pandemonium: The Great Indian 
+Banking Tragedy’. Roli Books. 
+Book written by one of India’s leading banking and finance journalists on the travails of the 
+Indian banking system over the past few years. 
+http://elischolar.library.yale.edu/ypfs-documents2/1691 
+(Gupta 2024a) Gupta, Salil. 2024a. “India: Yes Bank Capital Injection, 2020.” Journal of 
+Financial Crises 6, no. 3. 
+Case study examining the ad-hoc capital injection provided to Yes Bank by a bank consortium. 
+https://elischolar.library.yale.edu/journal-of-financial-crises/vol6/iss3/12/ 
+(Gupta 2024b) Gupta, Salil. 2024b. “India: Yes Bank Restructuring, 2020.” Journal of 
+Financial Crises 6, no. 1. 
+YPFS case study describing the restructuring of India’s Yes Bank. 
+https://elischolar.library.yale.edu/journal-of-financial-crises/vol6/iss2/2/ 
+(Kumar 2021) Kumar, Rajnish. 2021. The Custodian of Trust: A Banker’s Memoir. Penguin 
+Random House India. 
+Memoir of the former Chairman of SBI from 2017 to 2020. 
+http://elischolar.library.yale.edu/ypfs-documents2/1826 
+186
+Journal of Financial Crises Vol. 7 Iss. 2
+
+--- Page 33 ---
+(Ramchandani and Jethwani 2021) Ramchandani, Kumar, and Kinjal Jethwani. 2021. “Yes 
+Bank: An Untold Story.” SSRN Scholarly Paper. Rochester, NY. 
+Study concluding risk and aggression as the most important aspects of Yes Bank’s culture 
+before its rescue, from one of the most promising banks in India. 
+http://elischolar.library.yale.edu/ypfs-documents2/1677 
+(RBI 2020h) Reserve Bank of India (RBI). 2020h. “Directive under Section 35A of the 
+Banking Regulation Act, 1949.” March 5, 2020. 
+Document providing exceptions to the moratorium for Yes Bank. 
+https://elischolar.library.yale.edu/ypfs-documents2/4325 
+(Wiggins et al . 2025 ) Wiggins, Rosalind Z., Owen Heaphy, Anmol Makhija, Stella Shaefer -
+Brown, Greg Feldberg, and Andrew Metrick. 2025. “Survey of Bank Holidays and Fund 
+Suspensions.” Journal of Financial Crises 7, no. 2.  
+Survey of YPFS case studies examining bank holidays and mutual fund suspensions.  
+https://elischolar.library.yale.edu/journal-of-financial-crises/vol7/iss2/1/ 
+Other 
+(NPCI n.d.) National Payments Corporation of India (NPCI). n.d. “An Introduction to NPCI 
+and Its Various Products.” 
+Webpage describing the umbrella organization for retail payments in India. 
+https://elischolar.library.yale.edu/ypfs-documents2/4323 
+(SBI 2024) State Bank of India (SBI). 2024. “RTGS/ NEFT FAQ.” June 2024. 
+Webpage introducing the two payment systems maintained by the RBI. 
+https://elischolar.library.yale.edu/ypfs-documents2/4332 
+ 
+  
+187
+India: Yes Bank Moratorium, 2020 Gupta
+
+--- Page 34 ---
+Appendixes 
+Appendix A: Timeline for Yes Bank Rescue 
+Date Event 
+2004 RBI provides approval to commence banking operations to the founders of Yes Bank, who had 
+successful retail banking careers at foreign banks (Bank of America and ABN AMRO) 
+2008 Yes Bank receives award for No. 1 banking franchise in India in the Business Today -KPMG Best 
+Banks Annual Survey 
+2015 UBS brokerage report on Yes Bank citing concerns about corporate loan exposure  
+2017 Kotak Mahindra Bank issues brokerage report on Yes Bank citing divergence from the RBI’s bad 
+asset recognition guidance 
+2018 RBI raises concerns of corporate governance at Yes Bank 
+2018 Yes Bank has deposits of INR 2 trillion (USD 30 billion) and 21,000 employees  
+August 2018 Yes Bank’s share price reaches all-time high of INR 400 per share; Yes Bank becomes fourth-
+largest private bank in India 
+December 2018 Yes Bank’s share price falls by 50% on concerns of exposures to troubled nonbank financial 
+institutions 
+January 2019 RBI refuses to extend the tenure of Yes Bank founder as CEO, citing concerns of corporate 
+governance and inadequate reporting of bad assets 
+March 2019 RBI appoints a former Deutsche Bank banker as the new CEO of Yes Bank  
+May 2019 RBI appoints a former RBI deputy governor to the board of Yes Bank, following a significant 
+increase in loan-loss provisioning and a credit ratings downgrade of the bank’s long-term debt  
+October 2019 Yes Bank enters negotiations with foreign investors to raise equity capital, with concerns of the 
+bank’s stressed loan book  
+March 2020 Yes Bank’s deposits decrease 54% since the last year to INR 1.1 trillion  
+March 3, 2020 RBI Governor Das commits to banking sector stability 
+March 5, 2020 RBI identifies Yes Bank for a draft rescue and capital infusion plan, because of regular outflow 
+of liquidity and inability to present a credible revival plan. The RBI removes the existing board 
+of Yes Bank, appoints an interim board, and limits depositor withdrawals to INR 50,000 per 
+depositor for 30 days 
+March 6, 2020 Yes Bank’s share price falls to all-time low of INR 5 per share and closes at INR 16 per share 
+after the announcement of RBI’s rescue plan 
+March 13, 2020 The MoF, along with the RBI, submits a final resolution plan for Yes Bank including SBI as the lead 
+investor at INR 10 per share 
+188
+Journal of Financial Crises Vol. 7 Iss. 2
+
+--- Page 35 ---
+March 14, 2020 A consortium of eight banks (SBI, HDFC, ICICI Bank, Axis Bank, Kotak Mahindra Bank, Bandhan 
+Bank, Federal Bank, IDFC Bank) commits to a capital infusion of INR 100 billion into Yes Bank  
+March 18, 2020 The MoF lifts the moratorium on depositor withdrawals at Yes Bank.  
+March 2020 RBI provides a INR 600 billion special liquidity facility to Yes Bank 
+July 2020 Yes Bank conducts a successful capital raise via an FPO for INR 150 billion, improving its CET1 
+ratio to 13.4% from 6.6% at the end of June 2020 
+August 2020 Moody’s upgrades Yes Bank’s credit rating to B3 from Caa1 with outlook stable 
+September 2020 Yes Bank repays the RBI’s special liquidity facility in full for INR 500 billion 
+March 2021 In fiscal year 2021, Yes Bank accelerates provisioning for incremental slippages in its legacy 
+stressed asset portfolio, reports a full-year loss, and has a CET1 ratio of 11.2%  
+November 2021 Moody’s upgrades Yes Bank’s credit rating to B2 from B3 with positive outlook  
+March 2022 Yes Bank returns to profitability after two years, with assets of INR 3 trillion and gross NPLs 
+improving to 13.9% versus 15.4% in the year earlier 
+March 2022 Yes Bank’s deposit base grows 21% annually to INR 2 trillion, with CET1 ratio of 11.6%   
+July 2022  Yes Bank sells pool of stressed assets to private equity firm J.C. Flowers for INR 480 billion 
+July 2022 Yes Bank sells 10% equity stake to private equity firms Carlyle and Advent for INR 89 billion 
+November 2022 Moody’s upgrades Yes Bank’s credit rating to Ba3 with a stable outlook  
+March 2023 The lock-in period for Yes Bank investors ended, with the eight financial institutions recording a 
+70% return on investment in three years since the capital infusion. RBI asked banks to sell their 
+stake down gradually to maintain stability in Yes Bank 
+June 2023 Yes Bank reports growth in deposit base to INR 2.2 trillion, assets to INR 3.5 trillion, CET1 ratio 
+to 13.3%, and gross NPLs of 2.2% 
+May 2025 Yes Bank’s board approves the sale of a 13.2% stake from SBI and a combined 6.8% stake from 
+the other seven private banks in the consortium to Japan’s SMBC for INR 21.5 per share 
+Sources: Bhaskar 2018; BS 2015; BT 2020; Fortune 2019; Ghosh 2020; Kotak 2017; Mint 2019; Moody’s 2020; 
+Moody’s 2022; Parkin 2019 a; Parkin 20 19b; SBI 2025; YESB 2020b; YESB 2021; YESB 2022; YESB 2023a ; YESB 
+2025; author’s analysis. 
+  
+189
+India: Yes Bank Moratorium, 2020 Gupta
+
+--- Page 36 ---
+Appendix B: Letter to Yes Bank Depositors at the end of the moratorium period 
+ 
+Source: Business Today 2020b. 
+ 
+Copyright 2025 © Yale University. All rights reserved. To order copies of this material or to receive 
+permission to reprint any or all of this document, please contact the Yale Program on Financial 
+Stability at ypfs@yale.edu. 
+190
+Journal of Financial Crises Vol. 7 Iss. 2

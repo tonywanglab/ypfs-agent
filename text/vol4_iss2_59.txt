@@ -1,0 +1,864 @@
+--- Page 1 ---
+Journal of Financial Crises Journal of Financial Crises 
+Volume 4 Issue 2 
+2022 
+United States: New York Clearing House Association, the Panic of United States: New York Clearing House Association, the Panic of 
+1884 1884 
+Benjamin Hoffner 
+Yale School of Management 
+Follow this and additional works at: https://elischolar.library.yale.edu/journal-of-financial-crises 
+ Part of the Economic Policy Commons, Finance and Financial Management Commons, 
+Macroeconomics Commons, Policy Design, Analysis, and Evaluation Commons, Policy History, Theory, 
+and Methods Commons, and the Public Administration Commons 
+Recommended Citation Recommended Citation 
+Hoffner, Benjamin (2022) "United States: New York Clearing House Association, the Panic of 1884," 
+Journal of Financial Crises: Vol. 4 : Iss. 2, 1278-1299. 
+DOI: https://doi.org/10.17132/2693-3179.1348 
+Available at: https://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss2/59 
+This Case Study is brought to you for free and open access by the Journal of Financial Crises and 
+EliScholar – A Digital Platform for Scholarly Publishing at Yale. For more information, please contact 
+journalfinancialcrises@yale.edu.
+
+--- Page 2 ---
+READERS TAKE NOTICE: READERS TAKE NOTICE: 
+As of April 2024, the YPFS Resource Library’s site domain has changed 
+to https://elischolar.library.yale.edu/ypfs-financial-crisis-resource-library/. 
+Please be aware that upon clicking any of the URL references to 
+the former Resource Library domains, either https://ypfs.som.yale.edu 
+or https://ypfsresourcelibrary.blob.core.windows.net/, in the 
+"References/Key Program Documents" section of a case study, 
+readers will encounter a "page not found" error. readers will encounter a "page not found" error. 
+Readers can still retrieve a given resource cited within this case study 
+on the new site  by searching by searching here  for the title cited. for the title cited. 
+This case study is available in Journal of Financial Crises: https://elischolar.library.yale.edu/journal-of-financial-
+crises/vol4/iss2/59
+
+--- Page 3 ---
+United States: New York Clearing House Association,  
+the Panic of 18841 
+Benjamin Hoffner2 
+Yale Program on Financial Stability Case Study 
+July 15, 2022 
+Abstract 
+The New York Clearing House Association (NYCH), whose membership included most banks 
+in New York, acted as a lender of last resort during the National Banking Era (1863 –1913). 
+In the Panic of 1884, following idiosyncratic deposit runs that forced three NYCH member 
+banks to close, the NYCH membership unanimously agreed to issue clearinghouse l oan 
+certificates (CLCs) that banks could use as a temporary substitute for currency in the 
+payment of interbank clearinghouse balances. The NYCH required the borrowing bank to 
+post sufficient collateral to secure the loan, subject to a minimum 25% haircut (excluding US 
+government bonds secured at par) and to pay 6% interest. In aggregate, the NYCH issued 
+$24.9 million in CLCs between May 15 and June 6. Outstanding CLCs peaked at $21.9 million 
+on May 24. By July 1, all banks retired their CLCs, except for Metropolitan National Bank. 
+Metropolitan National entered liquidation later that year with more than  $5 million in 
+uncanceled CLCs; the NYCH canceled these final CLCs in September 1886. With the exception 
+of Metropolitan National Bank, the NYCH’s issuance of  CLCs coincided with a short and 
+contained panic in New York City. Unlike in the Panic of 1873, New York banks did not 
+temporarily suspend payments to depositors or pool their cash reserves to meet their 
+liquidity needs. The US Treasury did not intervene by purchasing government bonds but did 
+offer to repay $10 million in debt a month early to provide some relief to the market. 
+Keywords: clearinghouse loan certificates, National Banking Era, New York Clearing House 
+Association, Panic of 1884, private lender of last resort   
+ 
+1 This case study is part of the Yale Program on Financial Stability (YPFS) selection of New Bagehot Project 
+modules considering broad -based emergency lending programs. Cases are available from the Journal of 
+Financial Crises at   
+https://elischolar.library.yale.edu/journal-of-financial-crises/. 
+2 Research Associate, YPFS, Yale School of Management. 
+1278
+
+--- Page 4 ---
+Overview 
+The New York Clearing House Association 
+(NYCH) was a private organization 
+established in 1854 to simplify and 
+streamline the settlement of interbank 
+transactions in New York City. It had 63 
+member banks in 1884, including the city’s 
+largest banks, which maintained reserves on 
+deposit at the NYCH (Andrew 1910; Fulmer 
+2022). In the absence of a central bank, the 
+NYCH served as a private lender of last resort 
+for its member banks in crises in  the 1860s 
+and throughout the National Banking Era  
+(Cannon 1910a). 
+Numerous bank failures in 1883 undermined 
+confidence in the banking system, 
+contributing to runs on three large NYCH 
+member banks. Those runs marked the start 
+of the Panic of 1884 (OCC 1907).  
+On May 6, 1884, the failure of brokerage firm 
+Grant and Ward resu lted in the closure of its 
+large creditor, Marine National Bank. On May 
+13, Second National Bank temporarily closed 
+after news of $3.2 million in misappropriated 
+funds (Bluedorn and Anderson 2016; OCC 
+1884). Finally , on May 14, a run on 
+Metropolitan Nation al Bank precipitated its 
+temporary suspension as allegations 
+circulated of fraudulent conduct (OCC 1907).  
+Although the NYCH opted to allow Marine 
+National Bank to fail following a special 
+examination, the closure of Metropolitan 
+National Bank prompted immediate action by 
+the NYCH on May 14 (Gorton and Tallman 
+2016).  
+The NYCH convened that day and 
+unanimously agreed on an emergency plan. As in 1873, it created a five -member interim 
+Loan Committee that would extend credits in the form of clearinghouse loan certificates 
+(CLCs) to member banks. It described the decision as an effort to “protect the reserves of 
+[member] banks” and “prevent suspension of gold and currency payments in New York” 
+(OCC 1884) . Member banks that received CLCs (borrowers) could use the  certificates 
+Key Terms 
+Purpose: “For the purpose of sustaining each other 
+and the business community” and “settling balances 
+at the clearing house” (OCC 1884) 
+Launch Dates Announcement: May 14, 
+1884 
+  
+First issue: May 15, 1884  
+Expiration Dates Final issue: June 6, 1884 
+Final cancellation: 
+September 23, 1886 
+Legal Authority  National Bank of 1864 
+(disputed) 
+Peak Outstanding $21.9 million on May 
+24, 1884 
+Participants 20 of 63 member banks 
+participated in the CLCs 
+Rate 6% 
+Collateral Bills receivable, stocks, 
+bonds, and other 
+securities  
+Loan Duration Not applicable  
+Notable Features Deployed at the start of 
+the panic when deposit 
+runs were isolated to 
+three member banks 
+Outcomes Contained crisis with 
+New York City in a short 
+period, no suspension of 
+convertibility, delayed 
+closure of Metropolitan 
+National Bank 
+1279
+Journal of Financial Crises Vol. 4 Iss. 2
+
+--- Page 5 ---
+exclusively for the settlement of balances with other members at the NYCH; the NYCH 
+required all member banks to accept CLCs as legitimate substitutes for currency balances. 
+NYCH members jointly guaranteed CLC repayment. If a bank failed and could not repay its 
+CLCs, the NYCH split the cost among the member banks proportional to their shares of capital 
+and surplus (Gorton and Tallman 2018, 42 –43). Members’ ability to use CLCs as payment 
+within the NYCH freed up currency to lend and pay down lo ans outside the clearinghouse 
+(Moen and Tallman 2013).  
+To secure the CLCs, the Loan Committee would “receive from banks members of the 
+association bills receivable and other securities to be approved by said committee” subject 
+to a minimum haircut of 25%,  excluding the use of US  government bonds (OCC 1884) . 
+Borrowing banks paid a 6% interest rate to accepting banks (Cannon 1910a). As a penalty 
+rate, the 6% interest on CLCs exceeded typical market rates for short-term financing, thereby 
+incentivizing borrowers’ prompt retirement of their outstanding CLCs (Hoag 2016).  
+From May 15 to June 6, the Loan Committee issued $24.9 million of CLCs in total, peaking at 
+$21.9 million CLCs outstanding on May 24 (Bluedorn and Anderson 2016; OCC 1884; OCC 
+1907). Metropolitan National Bank’s borrowings constituted one -third of total CLC issues. 
+Metropolitan National Bank along with five other banks represented 89% of all CLCs issued 
+(Moen and Tallman 2013) . By October 3, 1884, all but $5.3 million issues were retired. 
+Almost one year later, on October 1, 1885, $2.6 million in CLCs remained outstanding, all of 
+which Metropolitan National Bank borrowed (OCC 1907). The NYCH retired the outstanding 
+CLCs by September 1886 (Bluedorn and Anderson 2016).  
+As in other National Banking Era panics, the NYCH temporarily suspended publication of 
+individual bank’s balance  sheet information to ease market concerns. Unlike in the other 
+panics, in 1884 (as well as 1890) , banks did not suspend redemptions of deposits (Gorton 
+and Tallman 2016). 
+Summary Evaluation 
+The quick actions taken by the NYCH through the provision of CLCs at the onset of the Panic 
+of 1884 were largely effective in managing the crisis. In its 1884 annual report, the Office of 
+the Comptroller of the Currency praised the early rollout of CLCs in contrast to those issued 
+in 1873. The Comptroller remarked that although the 1873 CLCs “could not restore 
+confidence” to banks, in 188 4, “there [was] little doubt but that the prompt action of the 
+associated banks in May last in issuing these loan certificates had a most excellent effect not 
+only in the city of New York but throughout the country” (OCC 1884).  
+The Panic of 1884 is often not labeled a “full -scale banking panic” as its effects were largely 
+limited to New York (Bluedorn and Anderson 2016) . Bluedorn and Anderson (2016) 
+attribute such containment to the rapid introduction of CLCs that “prevented the banking 
+difficulties in New York from worsening and from spreading to the interior .” Similarly, 
+Wicker (2000, 34) characterizes the NYCH’s liquidity support during the 1884  panic as an 
+“unheralded success story” in the clearinghouse’s history of crisis man agement. In contrast 
+1280
+United States Hoffner
+
+--- Page 6 ---
+with other crises during the National Banking Era, in 1884, the NYCH never resorted to 
+unilateral suspension of convertibility for demand deposits (Bluedorn and Anderson 2016). 
+  
+1281
+Journal of Financial Crises Vol. 4 Iss. 2
+
+--- Page 7 ---
+Context: NYCH 1884–1885 
+Net deposits of NYCH membership 
+(average of weekly data) 
+$322.4 million in 1884 
+$371.1 million in 1885  
+Loans held by NYCH membership  
+(average of weekly data) 
+$311.0 million in 1884 
+$312.7 million in 1885 
+Capital and surplus of NYCH membership 
+ (average of weekly data) 
+$101.2 million in 1884 
+$97.1 million in 1885 
+Required reserves held by NYCH membership  
+(average of weekly data) 
+$80.5 million in 1884 
+$92.6 million in 1885 
+Number of members in the NYCH 62 in 1884 
+64 in 1885 
+NYCH clearing transactions (annual) $31.0 billion in 1884 
+$28.2 billion in 1885 
+Number of commercial failures  10,968 failures in 1884 
+10,637 failures in 1885  
+Total liabilities of commercial failures $226.3 million in 1884 
+$124.2 million in 1885 
+Total individual deposits for the United States 
+(excluding savings banks)  
+$1,493 million in 1884 
+$1,639 million in 1885 
+Ratio of aggregate CLC issuance to net deposits 
+of NYCH membership  Not available 
+Source: Andrew 1910.  
+1282
+United States Hoffner
+
+--- Page 8 ---
+Key Design Decisions 
+1. Purpose: As in earlier panics, the NYCH issued CLCs to provide liquidity to its 
+membership, although in 1884, its support targeted one large, vulnerable bank. 
+On May 14, following the temporary suspension of Metropolitan National Bank amidst 
+deposit runs, the NYCH membership convened for the purpose of creating a plan to “protect 
+the reserves of the [member] banks and  . . .  prevent suspension of gold and currency 
+payments in New York” (OCC 1884). In the meeting, NYCH banks unanimously authorized a 
+five-member, interim Loan Committee to issue CLCs against collateral to member banks, as 
+it had in 1873; the CLCs were then accepted as valid payments for interbank balances at the 
+NYCH (OCC 1884). The ability for borrowing banks to cover clearinghouse settlements with 
+CLCs as a substitute for currency freed up additional liquidity to meet deposit withdrawals 
+(Bluedorn and Anderson 2016).  
+However, several authors note that NYCH lending in 1884 focused on Metropolitan National 
+Bank, a large memb er bank that was suffering runs by depositors. Bluedorn and Anderson 
+(2016) describe the NYCH’s introduction of CLCs in 1884 as a bailout of Metropolitan 
+National Bank. Because many NYCH member banks had large balances with Metropolitan 
+National Bank, CLCs allowed the defaulted bank to remain operational, thereby preventing 
+speculative runs against its exposed counterparties (Bluedorn and Anderson 2016). 
+2. Legal Authority: The NYCH was a private institution and faced no explicit legal 
+restrictions against issuing CLCs in 1884. 
+Without a central bank to administer public liquidity assistance during the National Banking 
+Era, the NYCH employed CLCs as a private liquidity tool to manage financial crises (Fulmer 
+2022). The law at the time effectively banned state -chartered banks from issuing their own 
+notes by applying a steep 10% tax, which the CLCs did not pay and could establish them as 
+illegal (Gorton and Tallman 2016). 
+However, contemporary sources and scholars tend to agree that CLCs used entirely for 
+interbank transactions—such as those issued in 1873, 1884, and 1890 —did not break this 
+law because they did not circulate as currency. The National Bank Act of 1864 appears to 
+sanction CLCs that circulated only between banks: “Clearing-house certificates, representing 
+specie or lawful money specifically deposited for the purpose of any clearing -house 
+association, shall be deemed to be lawful money” (National Bank Act of 1864 1864, 13:109).  
+A former clearinghouse chairman, James Cannon, wrote in 1910 that the term “clearing -
+house certificates” used in the act would refer both to the certificates that clearinghouses 
+issued in normal  operations, which were backed by gold, and to clearinghouse loan 
+certificates that they issued in crises, which were backed by securities (Cannon 1910b). He 
+argued that CLCs were legal debt instruments since they could not circulate as currency 
+outside the clearinghouse. Cannon cited the NYCH’s regulator, the Comptr oller of the 
+1283
+Journal of Financial Crises Vol. 4 Iss. 2
+
+--- Page 9 ---
+Currency, which regarded CLCs as “duebills, and their sole function consisted in discharging 
+the single obligation at the clearing house” (Cannon 1910a).  
+Starting in 1893, some clearinghouses issued CLCs in smaller denominations and 
+encouraged their use as currency, raising more directly the question of their legality under 
+the National Bank Act (Cannon 1910a).  
+Within the institutional framework of the NYCH, members needed to first vote on the 
+provision of CLCs as to “whether the crisis was s ignificant enough to warrant their use” 
+(Gorton and Tallman 2016) . The NYCH members unanimously approved the provision for 
+CLCs immediately as the crisis unfolded in an emergency meeting on May 14, 1884 (OCC 
+1884). 
+3. Part of a Package:  The NYCH distributed C LCs in concert with other measures of 
+special bank examinations and the suppression of bank information. 
+As in other crises, the NYCH temporarily suppressed the publication of individual banks’ 
+balance sheet information and initiated special examinations o f troubled bank’s portfolios. 
+Unlike in the Panic of 1873, New York banks did not temporarily suspend payments to 
+depositors or pool their reserves to meet their liquidity needs.  
+The special examinations by the NYCH in 1884 began with Marine National Bank , which 
+closed on May 6. The NYCH publicly indicated the poor condition of the bank and the refusal 
+of the clearinghouse to extend assistance, forcing Marine National Bank to remain closed. 
+The examination’s discovery of malfeasance contributed to the deci sion by the NYCH to 
+withhold support (Gorton and Tallman 2016) . The NYCH also examined Metropolitan 
+National Bank, as described in Key Design Decision No. 6, Eligible Participants.  
+The NYCH during the Panic of 1884 also temporarily suppressed the balance sheet 
+information of member banks on May 24 for one week. In normal times, NYCH members 
+reported their individual balance sheet figures on a weekly basis. During crises, the NYCH 
+took action to halt the publication of these statistics to protect vulnerable banks most at risk 
+of runs. The one-week suspension in 1884 was relatively brief (Gorton and Tallman 2016). 
+The US Department of the Treasury did not intervene by purchasing government bonds, as 
+it had in 1873. However, Treasury Secretary Charles Folger did offer on May 14 to repay $10 
+million in government debt a month early to provide some relief to the market (NYT 1884a). 
+It appears that offer proved unnecessary; an article  on May 16 in the New York Times titled 
+“Laughing at Secretary Folger” noted that market participants agreed there was no money 
+shortage for the Treasury to address (NYT 1884c). 
+4. Management: The temporary Loan Committee of the NYCH managed the 
+distribution of CLCs to member banks as well as setting relevant interest and fees 
+on loans. 
+The NYCH’s framework for emergency liquidity assistance called for the creation of the 
+temporary Loan Committee, through which member banks would receive CLCs upon 
+1284
+United States Hoffner
+
+--- Page 10 ---
+approval of collateral by the committee. The Loan Committee, created on May 14, 1884, 
+consisted of five members appointed by the chair of the NYCH, with the president of the 
+NYCH serving as an ex officio member  (Cannon 1910a). The Loan Committee managed the 
+CLC issuances, established the applicable interest rate and any fees, and also monitored the 
+value of collateral placed by banks for receipt of CLCs (Gorton and Tallman 2018, 43) . The 
+committee also required that all members accept CLCs as settlement for member debts. 
+The NYCH also conducted special examinations of banks to supervise and ensure the security 
+of extending credit through the CLC issuance. Before approving CLCs for Metropolitan 
+National Bank on May 1 4, the NYCH established an examination committee to inspect the 
+bank’s assets (Gorton and Tallman 2016). 
+5. Administration: Member banks applied to the Loan Committee for CLCs by 
+depositing the required collateral with the NYCH; CLCs could then be used to settle 
+balances with other NYCH members. 
+Banks in need of financing could request CLCs from the Loan Committee by offering sufficient 
+collateral to be approved by the committee. The CLCs historically required borrowing banks 
+to pay out an interest between 5 % and 10 % annually to whichever NYCH counterparty 
+(accepting bank) received the CLCs in pl ace of a settlement for currency balances (Cannon 
+1910a); in 1884, the NYCH fixed the interest rate at 6% (OCC 1884). When the borrower 
+received the CLC from the Loan Committee, it could use the CLC to settle a balance with an 
+accepting member bank. Importantly, the NYCH demanded that all members accept the CLCs 
+for settling balances in substitution of currency (Gorton and Tallman 2018, 43) . The 
+borrower paid the interest to the NYCH, which paid it to the accepting bank in possession of 
+the CLC (Hoag 2016).  
+Once the borrowing bank had adequate liquidity to exit from the CLCs, it informed the Loan 
+Committee of its intention to retire the certificates. The Loan Committee then notified 
+accepting banks , which could then redeem for cash from reserves. Finally, t he Loan 
+Committee returned the posted collateral to the borrower (Cannon 1910a).  
+Borrowing banks did not necessarily request CLCs in the exact amount of a settlement gap. 
+Banks could settle balances partially in currency and the remainder in CLCs in whate ver 
+proportions they desired. Some banks requested CLCs as a precaution yet settled balances 
+entirely in currency. The Comptroller of the Currency noted that several banks took out CLCs 
+as a precautionary measure and never used them to settle balances (OCC 1884). 
+6. Eligible Participants: Only members of the NYCH were eligible to receive CLCs. 
+The Loan Committee distributed CLCs only to member banks. At the start of 1884, the NYCH 
+had 63 members; during the crisis , only 20 members took out CLCs (Andrew 1910; OCC 
+1884). The NYCH indicated that it could impose solvency tests on participants in CLCs. An 
+NYCH spokesman told the New York Times that the Clearing House Committee3 could inspect 
+ 
+3 The Clearing House Committee was the permanent executive committee of the NYCH holding “almost 
+absolute power, the direction of practically the whole machinery  of the [clearinghouse]” (Cannon 1910b).  
+1285
+Journal of Financial Crises Vol. 4 Iss. 2
+
+--- Page 11 ---
+the assets of any member bank and use its discretion in the terms used to secure CLCs (NYT 
+1884d). Excluding Metropolitan National Bank, most CLCs were issued to banks that paid 
+interest and had large bankers’ deposits, as in 1873 (Sprague 1910, 118). 
+According to our research, the e xamination of Metropolitan National Bank was the only 
+instance of a solvency test performed on an eligible CLC program participant in 1884; the 
+examination of Marine National Bank occurred days before the CLC resolution was 
+introduced. On May 14, following the suspension of Metropolitan National Bank’s operations, 
+the NYCH created an examination committee to assess whether the bank held sufficient 
+assets to collateralize CLCs such that it could reopen and remain solvent (OCC 1884) ; 
+although the examination committee approved of Metropolitan National Bank’s reopening 
+and participation in the first issues of CLCs on May 1 5, the bank continued to suffer 
+withdrawals and became insolvent the following month (Moen and Tallman 2013). Given the 
+operation of the exam ination committee during the CLC program in 1884, it is possible the 
+NYCH implemented similar solvency tests on other participants on a confidential basis. 
+7. Funding Source : CLCs were a transferrable liability issued by the NYCH and 
+guaranteed by the entire membership of the NYCH.  
+The CLCs were effectively joint liabilities of the NYCH members issued by the Loan 
+Committee at the request of a member bank (Bluedorn and Anderson 2016) . According to 
+Gorton and Tallman (2018, 43) , CLCs possessed two key character istics that made these 
+certificates an effective form of liquidity assistance. First, CLC programs required member 
+banks to accept CLCs in place of specie or legal tender for temporarily settling intra -
+clearinghouse balances; thus, establishing CLCs served as a valid form of payment within the 
+membership (OCC 1873). Second, the NYCH collectively guaranteed the repayment of the 
+CLCs. If a borrowing bank defaulted on its CLCs, the NYCH reimbursed banks, holding the 
+defaulted certificates, by dividing the cost  amongst the membership relative to individual 
+members’ shares of membership capital and surplus (Gorton and Tallman 2018, 43). 
+8. Program Size: The issuance of CLCs totaled $24.9 million over the course of the 
+Loan Committee’s operations, with $21.9 million in peak outstanding.  
+It does not appear that the NYCH set a predetermined amount of CLCs that would be issued. 
+Beginning with the first allotment on May 1 5, 1884, and the last on June 6, the Loan 
+Committee provided a total of $24.9 million CLCs (OCC 1907). Aggregate CLCs outstanding 
+peaked on May 24, 1884, with a total of $21.9 million. Metropolitan National Bank received 
+$7 million of the total issuance of CLCs. By July 1, 1884, all CLCs had been retired and 
+collateral returned, with the exception of Metropolitan National Bank, which still owed $5.3 
+million at the close of the fiscal year on October 3, 1884 (OCC 1884). 
+Figure 1 shows the aggregate surplus of reserves among all NYCH members as well as 
+outstanding CLC issues throughout the Panic of 1884; banks borrowed CLCs most heavily 
+during May and June as the membership’s surplus reserves turned negative (Gorton and 
+Tallman 2018, 47). 
+1286
+United States Hoffner
+
+--- Page 12 ---
+Figure 1: NYCH Reserve Surplus vs. Outstanding CLCs, 1884 
+ 
+Source: Gorton and Tallman 2018, 47. 
+9. Individual Participation Limits: Aside from the collateral offered by borrowing 
+member banks, there did not appear to be any limits to the participation in CLCs. 
+The Loan Committee did not set a limit to the amount of CLCs it could issue. As a result, 
+individual members could take out CLCs at the discretion of the Loan Committee as long as 
+they had sufficient securities to collateralize the cert ificates (Bluedorn and Anderson 2016; 
+OCC 1884) . Subject to collateral constraints, the allocation and size of funding largely 
+depended on the availability of reserves to cover interbank settlements. Figure 1 further 
+indicates the relationship between reserves and CLC funding during the Panic of 1884.  
+The issuance of CLCs during 1884 was largely concentrated in a few borrowing banks out of 
+the 63 eligible NYCH members (Andrew 1910). As noted, only 20 banks took out CLCs, six of 
+which represented 89% of all the certificates issued (OCC 1884). Furthermore, Metropolitan 
+National Bank received $7 million of the total $24.9 million CLCs issued as the largest 
+recipient of the liquidity; these borrowings constituted three times its reserves of legal 
+currency (Moen and Tallman 2013) . The significant concentration of CLCs provides little 
+evidence of any potential participati on limits in the program. Banks were thus primarily 
+limited by the collateral they had at their disposal to satisfy the collateral policy, which 
+stipulated a minimum 25% haircut on borrowings (Gorton and Tallman 2016). 
+10. Rate Charged: The NYCH imposed a 6% interest rate on borrowings using CLCs , 
+which accrued to the creditor banks that received that CLCs. 
+When announcing the authorization of the Loan Committee to issue CLCs on May 14, 1884, 
+the NYCH stipulated a fixed interest on borrowings using the certificates at 6% (OCC 1884). 
+In other CLC programs introduced by the NYCH during crises, loans carried a fixed rate of 
+either 6% or 7% (OCC 1907). After depositing sufficient collateral, borrowing banks received 
+CLCs, paying the fixed 6% interest to any bank for  which the borrower needed to settle 
+balances (Cannon 1910a). Accepting banks receiving CLCs could also use the certificates to 
+settle balances with other NYCH counterparties , and the interest payments would be paid 
+1287
+Journal of Financial Crises Vol. 4 Iss. 2
+
+--- Page 13 ---
+out to the new CLC holder (Hoag 2016). The NYCH set interest rates high enough such that 
+banks would opt to retire the CLCs as soon as they came up with ample currency reserves. 
+Because of the high rate, it was not always in the interest of the accepting banks to relinquish 
+CLCs as the crisis subsided; therefore, borrowers largely controlled the process of redeeming 
+CLCs and ceasing interest payments by requesting cancellation through the Loan Committee 
+(Cannon 1910a; Hoag 2016).  
+The interest rates for CLCs typically mirrored those of commercial paper, excluding the cost 
+of the haircut on collateral. The way the CLCs were structured provided banks a maximum 
+of 75% (minimum 25% haircut) of the collateral they deposited. Gorton and Tallman (2016) 
+go on to describe the heightened cost of using CLCs as opposed to commercial paper, saying 
+“an interest rate charge of six percent on USD 75 generates a cash outflow that will be 
+covered by the interest on the USD 100 collateral of 4.5 percent.” 
+Despite the fixed 6% interest rate stipulated in the 1884 CLC issues, the NYCH reduced the 
+rate charged for Metropolitan National Bank’s outstanding CLC’s following a request from 
+the bank at the beginning of 1885 (Gorton and Tallman 2016). 
+11. Eligible Collateral: Member banks could secure CLCs using bills receivable, stocks, 
+bonds, and other securities subject to a minimum haircut of 25%, while the NYCH 
+accepted government bonds at par. 
+The NYCH Loan Committee accepted “bills receivable, stocks, bonds, and other securities” as 
+collateral for CLCs that “shal l not exceed 75% of the market value of collateral” (OCC 1884; 
+OCC 1907). The 75% limit of CLC issuance in exchange of collateral effectively constituted a 
+25% minimum haircut on such securities (Gorton and Tallman 2016) . The haircuts varied 
+from the minimum depending on the form of collateral offered. No details on such variations 
+are available. On May 17, 1884, three days after the NYCH’s original announcement, the New 
+York Times reported that the NYCH had decided to exempt US government bonds from the 
+25% minimum haircut for CLC collateral and would lend at par against such securities (NYT 
+1884e). This was similar to its policy in 1873. 
+The NYCH’s Clearing House Committee also had discretion to petition banks to substitute 
+CLC collateral if the collateral approached maturity or appeared of insufficient value for the 
+loan amount (Gorton and Tallman 2016) . On June 4, weeks after the initial rollout of CLCs, 
+the NYCH passed an amendment to its constitution, giving the Clearing House Committee the 
+following authority: 
+To examine any bank member of the association, and to require from any member 
+securities of such an amount and character as said committee may deem sufficient for 
+the protection of the balances resulting from the exchanges [at the NYCH]. (NYCH 1895, 
+4–5) 
+By the end of the 1884 CLC program, the Comptroller noted that commercial paper had been 
+the most commonly used collateral instrument for CLCs (OCC 1884).  
+1288
+United States Hoffner
+
+--- Page 14 ---
+12. Loan Duration: CLCs did not have a set maturity; rather, borrowing banks 
+determined when to retire the CLCs. Most CLCs were retired less than two months 
+after issuance.  
+The NYCH Loan Committee began issuing CLCs on May 14, 1884, ending with a final issue on 
+June 6 (OCC 1907). Since borrowing banks initiated the retirement of the CLCs by notifyin g 
+the Loan Committee, the terms of borrowings varied considerably by participant (Cannon 
+1910a). However, of the $24.9 million total CLCs issued between May 15 and June 6, $9.6 
+million remained outstanding by July 1, indicating that most borrowings did not  extend 
+beyond 1.5 months; the schedule of issuance and outstanding CLC amounts is presented in 
+Figure 2 (OCC 1884). 
+Figure 2: Aggregate Issuance and Cancellation of CLCs, 1884 
+ 
+Source: OCC 1884. 
+The insolvency of Metropolitan National Bank accounted for the majority of uncanceled CLCs 
+after July 1; Metropolitan National Bank was eventually liquidated in November 1884 (Moen 
+and Tallman 2013). Consequently, the outstanding CLCs in the NYCH from the 1884 issuance 
+were not retired until more than two years after the operation began, in September 1886 
+(Bluedorn and Anderson 2016) . Hoag (2016) notes that the large gap between the 
+liquidation of Metropolitan National Bank and the eventual redemption of its CLCs indicated 
+that creditor member banks believed that Metropolitan’s deposited collateral was 
+insufficient to redeem the loans; the Loan Committee continued to manage the collateral well 
+into 1885, liquidating the securities as prices recovered. After all defaulted CLC collateral 
+had been converted to currency, the NYCH provided a guarantee that the remaining debt 
+1289
+Journal of Financial Crises Vol. 4 Iss. 2
+
+--- Page 15 ---
+owed to creditors would be jointly distributed across the membership in proportion to the 
+share of capital and surplus reserves of each member (Gorton and Tallman 2016). However, 
+the NYCH did not appear to compensate individual members for the cost of holding such 
+illiquid defaulted CLCs in the intermittent period between default and redemption (Hoag 
+2016). Research could not determine the prec ise details of the redemption of Metropolitan 
+National Bank’s CLCs. 
+13. Other Conditions: No other conditions were given aside from collateral recourse 
+and solvency tests previously discussed. 
+Additional conditions on CLCs included possible collateral substitutions mentioned in Key 
+Design Decision No. 11, Eligible Collateral, as well as solvency tests discussed in Key Design 
+Decision No. 6, Eligible Participants. 
+14. Impact on Monetary Policy Transmission: The NYCH did not preside over a 
+monetary policy objective given their status as a private banking association. 
+The NYCH did have to consider any monetary policy implications of liquidity injections 
+through CLCs because it remained a private in stitution, catering to its members’ needs and 
+constrained by the regulatory supervision of the Comptroller of the Currency. 
+15. Other Options: The NYCH members never suspended convertibility or pooled cash 
+reserves in 1884, two actions that were used to halt bank runs in 1873. Although 
+only in 1873 did NYCH utilize reserve pooling, in subsequent panics after 1884, 
+with the exception of 1890, the membership suspended convertibly of deposits.  
+Although the NYCH did not seem to disclose considerations of other options, two tools used 
+in other crises by the NYCH, convertibility suspension and reserve pooling (only in the Panic 
+of 1873), were never employed in 1884. 
+In several panics during the National Banking Era, banks facing runs stopped converting 
+demand deposit s into currency, thus breaking their contracts with depositors to always 
+honor withdrawals as long as their doors were open (Gorton and Tallman 2018, 181) . In 
+1873, banks that suspended convertibility issued certified checks backed by the NYCH to 
+depositors in place of cash. The absence of unilateral suspensions of convertibility by NYCH 
+members marked the Panic of 1884 (and 1890) in contrast to other crises in which the NYCH 
+issued CLCs. Although the NYCH did not always orchestrate this policy as it directed the 
+issuance of CLCs, the extensive counterparty exposure amongst member banks prompted 
+widespread suspensions of convertibility during bank runs. According to Gorton and 
+Tallman, in 1884, the swift provision of liquidity assistance through CLCs appeare d to 
+prevent any need for large-scale convertibility suspension (Gorton and Tallman 2016). 
+The NYCH also never implemented reserve pooling in 1884, which had been done in 1873. 
+The NYCH, in 1873, made a decision to collectivize legal tenders of member bank s to be 
+jointly managed for the mutual security of the membership’s reserves (OCC 1873). Reserve 
+pooling aimed to prevent distressed banks from undermining the solvency of other 
+members; however, it was not used again in the panics from 1884 through 1914. Moen and 
+1290
+United States Hoffner
+
+--- Page 16 ---
+Tallman (2013) suggest that the NYCH member banks with ample reserves did not want to 
+freely share reserves amongst the membership in the subsequent panics, as reserve pooling 
+lacked compensation, and as such preferred the interest rate compensation provided under 
+the CLC program. The 1884 crisis was also not as severe as the earlier crisis. A banker told 
+the New York Times  on May 14 that in 1873 , “[W]e pooled the bank -notes, but there is no 
+occasion for that now as there is more money than we know what to do with” (NYT 1884b). 
+16. Similar Programs in Other Countries: The quick provision of CLCs by the NYCH in 
+1884 contrasted with similar, delayed operations during the Panic of 1873. 
+Given the uniqueness of the NYCH system, comparisons of interventions related to crises 
+during the National Banking Era are most useful. Specifically, the Comptroller of the 
+Currency contrasted the CLC loans in 1884 with similar operations by the NYCH in 1873 
+(OCC 1884). Ultimately, the Panic of 1884 was unique in so far as the crisis and bank failures 
+were largely confined to New York City. In other crises, clearinghouses in different cities such 
+as Philadelphia and Boston also issued their own CLCs; however, in 1884, only the NYCH 
+issued CLCs (OCC 1907). 
+Furthermore, unlike the crisis in 1873 and many others that followed, in 1884, the NYCH 
+members did not find the need to suspend convertibility, because the shortages of cash 
+reserves affected only a handful of banks  (Gorton and Tallman 2016) . Nevertheless, the 
+Comptroller perceived the Panic of 1884 to be “even more unexpected” than that of 1873 
+(OCC 1884).  
+During the Panic of 1873, the NYCH waited to issue CLCs until after the panic had assumed 
+such proportions that their use and the consequent relief to the banks in settling their 
+balances at the clearinghouse could not restore confidence (OCC 1884). 
+In contrast, the Comptroller attributed the “most excellent effect” of the quick resolution of 
+the 1884 crisis to the “prompt action” of the NYCH in issuing CLCs at th e panic’s onset (OCC 
+1884). 
+Figure 3 helps illustrate the NYCH’s successful management of the 1884 crisis through CLC 
+issuance compared to other panics. The scaling of CLC issuance by reserves indicates the 
+relative size of liquidity support over time , with the 1884 figures evidencing rapid support 
+and quick retirement of loans.  
+1291
+Journal of Financial Crises Vol. 4 Iss. 2
+
+--- Page 17 ---
+Figure 3: Outstanding CLCs (as a % of Average NYCH Reserves in the Prior Two Years) 
+over Each Day into a Panic, 1873–1907 
+ 
+Source: Gorton and Tallman 2016. 
+17. Communication: The NYCH reported on CLC operations via articles in the New York 
+Times and financial market magazines. 
+The NYCH circulated its announcements for the CLC program in the New York Times. On May 
+15, 1884, the day after the initial CLC announcement, the New York Times reported that in an 
+emergency meeting , “the members unanimously adopted a resolution to issue loan 
+certificates” (NYT 1884a) . Immediately after deliberations on rescue plans,  the NYCH 
+communicated the CLC plan to members of the New York Stock Exchange , who “almost 
+without exception, remained in their offices to await the outcome” of the meeting (NYT 
+1884a). On the topic of CLCs, the article went on to state that this action br ought a 
+“perceptible feeling of relief [to Wall Street]” (NYT 1884a). By emphasizing the unanimous 
+agreement on the provision for CLCs and the positive sentiment around such resolutions, the 
+NYCH’s public communication surrounding CLC measures reinforced p ositive 
+announcement effects amidst the crisis. 
+The New York Times  also reported on important changes to the mechanics of the CLCs; for 
+instance, the New York Times published, on May 17, 1884, the NYCH’s decision to accept US 
+government bonds at par as col lateral for CLCs rather than the minimum 25% haircut 
+attributed to all other securities (Gorton and Tallman 2016; NYT 1884e) . The decision to 
+1292
+United States Hoffner
+
+--- Page 18 ---
+lend against government treasuries at par “gave wide -spread satisfaction” according to the 
+New York Times article (NYT 1884e).  
+18. Disclosure: Aside from information about the aggregate size of issuances, the 
+NYCH withheld most information related to CLC lending arrangements.  
+In addition to announcements relating to the introduction of and changes to the CLC 
+operations, the NYCH disclosed aggregate issuances and outstanding amounts of CLCs in the 
+press, especially through the New York Times  (NYT 1884a; Gorton and Tallman 2018, 38). 
+From the reporting in the New York Times  columns, it appear s that CLC statistics were 
+reported weekly as aggregate issues outstanding (NYT 1884a; NYT 1884e) . Information 
+regarding requests for CLCs, the identity of borrowers, and intrabank settlements using CLCs 
+were kept private (Gorton and Tallman 2018, 38). 
+Although the NYCH required members to submit weekly balance sheet information for 
+public disclosure, the NYCH often temporarily discontinued these weekly releases during 
+panics and in concert wit h CLC issuances (Gorton and Tallman 2016; NYCH 1881, 9) . The 
+chairman of the Loan Committee announced the suspension of these bank -specific 
+disclosures on May 24, reported the following day in the New York Times (NYT 1884f).  
+Such lack of disclosure helped anonymize weak member banks whose condition would have 
+otherwise invited deposit runs (Gorton and Tallman 2018, 38). In contrast with the lengthier 
+suppression periods in other panics, the NYCH opted to suspend weekly bank statements for 
+only one week in 1884 , beginning on May 24 (Gorton and Tallman 2016) . Gorton and 
+Tallman (2018, 49) hypothesize that the relatively short suppression period observed in 
+1884 indicated that the CLCs themselves “appeared to be sufficient to quell the panic.”  
+The New York Times article on May 25 quoted the chairman of the NYCH Loan Committee as 
+justifying the suppression of bank information by arguing the following: 
+The issue of loan certificates by the Clearing -house Association has so changed t he 
+relations of banks to each other that the publication of the statement in detail would give 
+an incorrect impression as to the actual condition of the banks. (NYT 1884f) 
+Such explanation pointed to potential accounting difficulties presented by CLCs as j oint 
+liabilities in substitution of currency balances (Gorton and Tallman 2018, 49–50). However, 
+a later 1893 article in the New York Times  explained the accounting of CLCs as similar in 
+nature to interbank loans  (NYT 1893) . Hoag (2016) further clarifie s that creditors could 
+transfer CLC liabilities amongst each other , thereby changing the title of the creditor while 
+maintaining the original CLC debtor. 
+19. Stigma Strategy: The NYCH kept key financial metrics hidden in an effort to 
+prevent banks vulnerable to runs. 
+As discussed in Key Design Decision Nos. 3,  Part of a Package,  17, Communication, and 18, 
+Disclosure, the NYCH withheld specific bank data related to CLCs in order to mitigate 
+potential runs on member banks perceived to be short of liquidity. Consequently, the NYCH 
+1293
+Journal of Financial Crises Vol. 4 Iss. 2
+
+--- Page 19 ---
+reported on aggregate CLC issuances without disclosing the recipients or individual amounts 
+borrowed (Gorton and Tallman 2018, 38).  
+In the spirit of the CLCs, the NYCH member banks resolved to unify during panics, reducing 
+asymmetric stigmas toward individual banks. The NYCH thus emphasized the need for all 
+members to accept CLCs in settlement of interbank balances “without re gard to how strong 
+[borrowing banks] may have been or how easily they might have gotten on without using 
+them” (Cannon 1910a). Cannon (1910a) notes that the NYCH once suspended a member 
+bank from the association for three months after it refused to accept CLCs, although he does 
+not specify in which panic this occurred. 
+To further eliminate stigma during panics, large banks sometimes took out CLCs without any 
+immediate funding need, to normalize their use without signaling vulnerabilities (Cannon 
+1910a). Although it is unclear if any large banks took out CLCs for such reasons in 1884, 
+several banks held CLCs as a precaution and never borrowed against them (OCC 1884); it 
+therefore appears that the cost associated with CLC stigma was sufficiently low at the tim e 
+so as to motivate banks to request certificates despite no urgent need for liquidity.  
+20. Exit Strategy: The NYCH did not set a predetermined end date to CLC issuance, and 
+due to the insolvency of Metropolitan National Bank , a few certificates remained 
+outstanding more than two years after the final issue. 
+At the time of the NYCH’s announcement on May 14 establishing the Loan Committee, the 
+NYCH did not set a precise en d date for CLCs. The Loan Committee of the NYCH decided to 
+stop issuing CLCs after June 6, 1884 (Bluedorn and Anderson 2016). The Comptroller noted 
+that from June 10, 1884 , onward, NYCH interbank balances were settled exclusively using 
+legal currency; it is unclear if this was voluntarily done by individual members or mandated 
+the NYCH (OCC 1884). However, by July 1, 1884, all borrowing banks, excluding Metropolitan 
+National Bank, retired their CLCs completely, indicating the increased availability of liquidity 
+(OCC 1884). 
+Despite the significant support Metropolitan National Bank received in the form of $7 million 
+of CLCs, the bank’s deposits fell from $7.4 million on May 17 to only $1.2 million on June 21 
+(Gorton and Tallman 2016). As a result of the massi ve liquidation of deposits, Metropolitan 
+National Bank could not retire its outstanding CLCs and collect its collateral in accordance 
+with the other borrowing members. After July 1, 1884, the NYCH membership agreed to 
+carry the outstanding CLCs secured wit h collateral as temporary loans to Metropolitan 
+National Bank (OCC 1884). The NYCH still held more than $5 million in uncollected CLCs at 
+the time of Metropolitan National Bank’s voluntary liquidation in November 1884 (Gorton 
+and Tallman 2016) . The NYCH ev entually retired the remaining issues in September 1886 
+(Bluedorn and Anderson 2016) . Gorton and Tallman argue that the NYCH strategically 
+allowed Metropolitan National Bank to remain open long after it became insolvent in order 
+prevent its inevitable clos ure from occurring during the panic period (Gorton and Tallman 
+2016). 
+1294
+United States Hoffner
+
+--- Page 20 ---
+After Metropolitan National Bank’s liquidation in November 1884, the Loan Committee did 
+not immediately sell all the loan collateral to pay down defaulted CLCs held by creditor 
+member banks (Hoag 2016; Moen and Tallman 2013). If the cash value of collateral including 
+haircuts had been sufficient to redeem Metropolitan’s defaulted CLCs, member banks would 
+have been paid without much delay; however, many of the securities deposited as collateral 
+were illiquid railroad bonds , and therefore , the NYCH waited until late 1885 when the 
+depressed prices had recovered to convert them into cash for the repayment of outstanding 
+CLCs. Any unpaid CLCs after all collateral had been liquidated was covered by the NYCH’s 
+guarantee to jointly distribute CLC losses across the membership (Hoag 2016). Accordingly, 
+each member bank shared in the final outstanding loss in proportion to its individual capital 
+and excess reserves relative to the aggregate capital and excess reserves of the NYCH (Gorton 
+and Tallman 2016) . However, as Hoag (2016) indicates, the NYCH did not seem to 
+compensate members for individual costs of holding illiquid, defaulted CLCs before all 
+collateral was liquidated and the remaining loss distributed.  
+ 
+  
+1295
+Journal of Financial Crises Vol. 4 Iss. 2
+
+--- Page 21 ---
+References and Key Program Documents 
+Documents cited in the text are introduced with a parenthetical author -date citation. 
+Documents that are relevant to this case but have not been cited in text do not include this 
+parenthetical reference. 
+Program Summaries 
+(Wicker 2000) Wicker, Elmus. 2000. Banking Panics of the Gilded Age. Cambridge: 
+Cambridge University Press. 
+A study of the banking panics during the National Banking Era, with specific focus on bank 
+closures and causes. 
+https://ypfs.som.yale.edu/library/document/banking-panics-gilded-age 
+Implementation Documents 
+(National Bank Act of 1864 1864) An Act to Provide a National Currency, Secured by a 
+Pledge of United States Bonds, and to Provide for the Circulation and Redemption Thereof 
+(National Bank Act). 1864. 13 Stat. 99. 1st session, Congress 38–106. 
+Law creating the system of national banks and defining (broadly) lawful money and the 
+clearinghouses’ role in managing both. 
+https://ypfs.som.yale.edu/library/document/national-bank-act 
+(NYCH 1881) New York Clearing House Association (NYCH). 1881. “Constitution of the New 
+York Clearing House Association, with Amendments, January 1, 1881.” Columbia University 
+Libraries. 108. 
+NYCH constitution as amended in 1881 including disclosure requirements for banks. 
+https://ypfs.som.yale.edu/library/late-19th-and-early-20th-century-new-york-clearing-
+house-association-constitutions 
+(NYCH 1895) New York Clearing House Association (NYCH). 1895. “Constitution of the New 
+York Clearing House Association, with Amendments.” Columbia University Libraries. 108. 
+NYCH constitution including an amendment on collateral management passed in 1884. 
+https://ypfs.som.yale.edu/library/late-19th-and-early-20th-century-new-york-clearing-
+house-association-constitutions 
+Media Stories 
+(NYT 1884a) New York Times (NYT). 1884a. “On the Verge of a Panic.” New York Times, 
+May 15, 1884. 
+Article announcing the onset of the Panic of 1884 and subsequent measures approved by the 
+NYCH. 
+https://ypfs.som.yale.edu/library/document/verge-panic-may-15-1884 
+(NYT 1884b) New York Times (NYT). 1884b. “Views on the Situation.” New York Times, May 
+15, 1884. 
+1296
+United States Hoffner
+
+--- Page 22 ---
+Article comparing the severity of the Panic of 1873 to that of 1884. 
+https://ypfs.som.yale.edu/library/document/views-situation 
+(NYT 1884c) New York Times (NYT). 1884c. “Laughing at Secretary Folger.” New York 
+Times, May 16, 1884. 
+Article describing the ineffective action taken by the Secretary of Treasury during the Panic of 
+1884. 
+https://ypfs.som.yale.edu/library/laughing-secretary-folger-may-16-1884 
+(NYT 1884d) New York Times (NYT). 1884d. “The Storm Not Yet Spent.” New York Times, 
+May 16, 1884. 
+Article discussing the NYCH’s provisions for examining and requesting additional collateral 
+for CLCs. 
+https://ypfs.som.yale.edu/library/document/storm-not-yet-spent-may-16-1884 
+(NYT 1884e) New York Times (NYT). 1884e. “The Ebb of the Panic.” New York Times, May 
+17, 1884. 
+Article announcing the NYCH’s decision to remove the 25% haircut from US government 
+bonds for collateral. 
+https://ypfs.som.yale.edu/library/document/ebb-panic-may-17-1884 
+(NYT 1884f) New York Times (NYT). 1884f. “Not a Good Bank Showing.” New York Times, 
+May 25, 1884. 
+Article reporting on the NYCH’s ongoing crisis management, including the temporary 
+suppression of bank-specific disclosures. 
+https://ypfs.som.yale.edu/library/document/not-good-bank-showing-may-25-1884 
+(NYT 1893) New York Times (NYT). 1893. “Certificates May Be Issued,” June 15, 1893. 
+Article discussing the New York Clearing House’s decision whether to issue clearinghouse loan 
+certificates during the Panic of 1893. 
+https://ypfs.som.yale.edu/node/20204 
+Reports/Assessments 
+(Andrew 1910) Andrew, A. Piatt. 1910. “Statistics for the United States 1867-1909.” 
+National Monetary Commission. 
+Article containing summary statistics for the banking sector in New York City used in the 
+context box. 
+https://ypfs.som.yale.edu/node/20294 
+(OCC 1873) Office of the Comptroller of the Currency (OCC). 1873. Eleventh Annual Report 
+of the Comptroller of the Currency for the Year 1873. November 28, 1873. 
+Report from the OCC on the Panic of 1873 and the response by the NYCH. 
+https://ypfs.som.yale.edu/library/document/annual-report-comptroller-currency-1873 
+(OCC 1884) Office of the Comptroller of the Currency (OCC). 1884. Annual Report of the 
+Comptroller of the Currency to the Second Session of the Forty-Eighth Congress of the 
+1297
+Journal of Financial Crises Vol. 4 Iss. 2
+
+--- Page 23 ---
+United States. December 1, 1884. 
+Report from the OCC discussing the Panic of 1884 and the response by the NYCH. 
+https://ypfs.som.yale.edu/library/document/annual-report-comptroller-currency-1884 
+(OCC 1907) Office of the Comptroller of the Currency (OCC). 1907. Annual Report of the 
+Comptroller of the Currency. December 2, 1907. 
+Report by the OCC containing information on the Panic of 1907, as well as data on the 
+previous NYCH interventions. 
+https://ypfs.som.yale.edu/library/document/annual-report-comptroller-currency-1907 
+Key Academic Papers 
+(Bluedorn and Anderson 2016) Bluedorn, John C., and Haelim Anderson. 2016. “Stopping 
+Contagion with Bailouts: Microevidence from Pennsylvania Bank Networks during the 
+Panic of 1884.” Rochester, NY: Social Science Research Network. 
+Report evaluating the contagion and overall efficacy of the NYCH’s use of CLCs during the 
+Panic of 1884. 
+https://ypfs.som.yale.edu/library/document/stopping-contagion-bailouts-micro-
+evidence-pennsylvania-bank-networks-during-panic 
+(Cannon 1910a) Cannon, James Graham. 1910a. “Clearing House Methods and Practices.” 
+61st Senate Doc. 491. Publications of the National Monetary Commission. Washington, DC: 
+Government Printing Office. 
+Report for the National Monetary Commission by an individual connected to the 
+clearinghouses that provides detail on their operations and structure. 
+https://ypfs.som.yale.edu/library/document/clearing-house-methods-and-practices 
+(Cannon 1910b) Cannon, James Graham. 1910b. “Clearing House Loan Certificates and 
+Substitutes for Money Used During the Panic of 1907: With Suggestions for an Emergency 
+Currency Based upon Such Loan Certificates.” Presented at the Finance Forum, New York, 
+March 30, 1910. 
+Speech surveying CLC features around the US. 
+https://ypfs.som.yale.edu/node/20249 
+(Fulmer 2022) Fulmer, Sean. 2022. “New York Clearing House Association: Overview.” 
+Journal of Financial Crises 4, no. 2. 
+Overview document that details the New York Clearing House Association. 
+https://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss2/32 
+(Gorton and Tallman 2016) Gorton, Gary, and Ellis W. Tallman. 2016. “How Did Pre-Fed 
+Banking Panics End?” NBER Working Paper 22036, February 2016. 
+Working paper on the actions committed by the NYCH in response to banking panics in the 
+absence of a central bank. 
+https://ypfs.som.yale.edu/library/document/how-did-pre-fed-banking-panics-end 
+(Gorton and Tallman 2018) Gorton, Gary, and Ellis Tallman. 2018. Fighting Financial Crises: 
+Learning from the Past. Chicago: University of Chicago Press. 
+1298
+United States Hoffner
+
+--- Page 24 ---
+Book documenting how the New York Clearing House Association responded to several 
+banking panics in the National Banking Era. 
+https://ypfs.som.yale.edu/library/document/fighting-financial-crises-learning-past 
+(Hoag 2016) Hoag, Christopher. 2016. “Clearinghouse Loan Certificates as Interbank Loans 
+in the United States, 1860–1913.” Financial History Review 23, no. 3: 303–24. 
+Article discussing the role and status of CLCs during banking panics in the National Banking 
+Era. 
+https://ypfs.som.yale.edu/library/clearinghouse-loan-certificates-interbank-loans-united-
+states-1860-1913 
+(Moen and Tallman 2013) Moen, Jon R., and Ellis W. Tallman. 2013. “Close but Not a Central 
+Bank: The New York Clearing House and Issues of Clearing House Loan Certificates.” 1308. 
+Federal Reserve Bank of Cleveland. 
+Paper that closely examines the issuance of CLCs by the NYCH during the National Banking 
+Era. 
+https://ypfs.som.yale.edu/library/document/close-not-central-bank-new-york-clearing-
+house-and-issues-clearing-house-loan 
+(Sprague 1910) Sprague, Oliver Mitchell Wentworth. 1910. History of Crises under the 
+National Banking System. §National Monetary Commission. 2nd 61st Congress: 538. 
+Washington, DC: US Government Printing Office. 
+Definitive account of the NYCH crises, leading to the creation of the Federal Reserve. 
+https://ypfs.som.yale.edu/library/document/history-crises-under-national-banking-
+system 
+Copyright 2022 © Yale University. All rights reserved. To order copies of this material or to receive 
+permission to reprint any or all of this document, please contact the Yale Program on Financial 
+Stability at ypfs@yale.edu. 
+1299
+Journal of Financial Crises Vol. 4 Iss. 2

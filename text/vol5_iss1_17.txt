@@ -1,0 +1,825 @@
+--- Page 1 ---
+Journal of Financial Crises Journal of Financial Crises 
+Volume 5 Issue 1 
+2023 
+Switzerland: Central Bank Swaps to the Eurozone, Poland, and Switzerland: Central Bank Swaps to the Eurozone, Poland, and 
+Hungary, 2008–2009 Hungary, 2008–2009 
+Jack French 
+YPFS, Yale School of Management 
+Follow this and additional works at: https://elischolar.library.yale.edu/journal-of-financial-crises 
+Recommended Citation Recommended Citation 
+French, Jack (2023) "Switzerland: Central Bank Swaps to the Eurozone, Poland, and Hungary, 2008–2009," 
+Journal of Financial Crises: Vol. 5 : Iss. 1, 430-448. 
+DOI: https://doi.org/10.17132/2693-3179.1495 
+Available at: https://elischolar.library.yale.edu/journal-of-financial-crises/vol5/iss1/17 
+This Case Study is brought to you for free and open access by the Journal of Financial Crises and 
+EliScholar – A Digital Platform for Scholarly Publishing at Yale. For more information, please contact 
+journalfinancialcrises@yale.edu.
+
+--- Page 2 ---
+READERS TAKE NOTICE: READERS TAKE NOTICE: 
+As of April 2024, the YPFS Resource Library’s site domain has changed 
+to https://elischolar.library.yale.edu/ypfs-financial-crisis-resource-library/. 
+Please be aware that upon clicking any of the URL references to 
+the former Resource Library domains, either https://ypfs.som.yale.edu 
+or https://ypfsresourcelibrary.blob.core.windows.net/, in the 
+"References/Key Program Documents" section of a case study, 
+readers will encounter a "page not found" error. readers will encounter a "page not found" error. 
+Readers can still retrieve a given resource cited within this case study 
+on the new site  by searching by searching here  for the title cited. for the title cited. 
+This case study is available in Journal of Financial Crises: https://elischolar.library.yale.edu/journal-of-financial-
+crises/vol5/iss1/17
+
+--- Page 3 ---
+Switzerland: Central Bank Swaps to the  
+Eurozone, Poland, and Hungary, 2008–20091 
+Jack French2 
+Yale Program on Financial Stability Case Study 
+July 21, 2023 
+Abstract 
+Prior to the Global Financial Crisis, Swiss banks made significant Swiss  franc loans to 
+financial institutions in several European countries. By the fall of 2008, many of th ose 
+Swiss banks were unwilling or unable to continue refinancing those loans. In mid-
+September 2008, f ollowing the collapse of Lehma n Brothers, short-term interest rates  
+in the Swiss  franc money market rose  significantly. Banks throughout Europe, 
+particularly in Poland and Hungary , had borrowed Swiss francs and lent them to 
+households to buy  real estate . As their domestic currencies lost value relative to the 
+Swiss franc , a relative safe haven currency , borrowers in these countries began to 
+default, and the lending banks lost money on the loans they had made. In October 2008, 
+the Swiss National Bank (SNB) entered a swap arrangement with the European Central 
+Bank (ECB) to provide Swiss franc liquidity to euro area banks. The SNB then announced 
+similar Swiss-franc-for-euro swap arrangements with two non-eurozone central banks, 
+the Polish central bank, Narodowy Bank Polski (NBP), in November 2008 and the 
+Hungarian central bank, Magyar Nemzeti Bank (MNB), in January 2009. In each case, the 
+borrowing central bank would offer Swiss francs to financial institutions within its 
+borders in downstream auctions that coincided with the SNB’s domestic auctions . For 
+the swaps in aggregate, the peak amount outstanding during the crisis period was about 
+39 billion Swiss franc s (CHF; USD 34 billion) in March 2009 , with most of that usage 
+coming from the ECB . The SNB , ECB, NBP, and MNB  announced the end of the 
+downstream liquidity auctions in January 2010, by which time the condition of the 
+European banking  system had improved , interbank funding rates had fallen , and the 
+swap lines were allowed to expire.  
+Keywords: central bank liquidity swaps , financial crises, Global Financial Crisis, Swiss 
+National Bank  
+ 
+1 This case study is part of the Yale Program on Financial Stability (YPFS) selection of New Bagehot Project 
+modules considering central bank swap line programs. Cases are available from the Journal of Financial Crises 
+at https://elischolar.library.yale.edu/journal-of-financial-crises/. 
+2 Research Associate, YPFS, Yale School of Management. 
+430
+
+--- Page 4 ---
+Overview 
+During the early stages of the Global 
+Financial Crisis (GFC), European banks  
+faced a US dollar liquidity problem . Many 
+had financed relatively long -term assets 
+with short -term US dollar funding . From 
+December 2007 to mid-September 2008, 
+the Swiss National Bank (SNB) was one of 
+two central banks to enter a swap 
+agreement with the Federal Reserve ; the 
+other was the European Central Bank 
+(ECB). The SNB  needed the swap 
+agreement with the Fed to lend US dollars 
+to financial institutions in Switzerland . 
+After the collapse of Lehman Brothers on 
+September 15, 2008, financial institutions 
+across the world sought to shore up 
+liquidity with the help of their central 
+banks. Many needed foreign currencies  
+because of similar short -term funding 
+issues. In September, a dozen more central 
+banks entered into swap arrangements 
+with the Fed  to source dollars that they 
+could then lend to financial institutions that 
+needed to roll over dollar liabilities (Ho and 
+Michaud 2008; SNB 2009b) . See “United 
+States: Central Bank Swaps to 14 Countries, 
+2007-2009” for more info o n the Fed’s 
+swap line activity during the crisis (French 
+2023). 
+However, European financial institutions 
+needed other currencies besides dollars —
+particularly euros and Swiss francs. In the 
+lead-up to the crisis, Switzerland’s banking 
+system had financed lo ans denominated in 
+Swiss francs in several European countries. 
+By the fall of 2008, many of th ose Swiss 
+banks stopped refinancing those loans 
+(SNB 2009b) . Swiss franc lending was 
+especially popular in Poland and Hungary , 
+where a number of  banks had borrowed 
+Swiss francs and lent them to households to 
+finance real estate purchases  (Andries, 
+Key Terms 
+Purpose: To “improve liquidity in short-term Swiss 
+franc money markets” and meet the Swiss franc 
+funding needs of banks outside Switzerland that 
+lacked direct access to SNB operations (SNB 
+2008c) 
+Participating 
+Parties 
+Lending central bank: SNB 
+Borrowing central banks: ECB, 
+NBP, MNB  
+Type of Swap Bilateral; reciprocal with the 
+ECB and unidirectional with 
+NBP and MNB 
+Currencies 
+Involved 
+ECB, NBP, MNB: to borrow 
+Swiss francs in exchange for 
+euros  
+Launch Date ECB: October 2008;  
+NBP: November 2008; 
+MNB: February 2009  
+End Date ECB, NBP, MNB: January 2010  
+Date of First Usage ECB: October 2008;  
+NBP: November 2008;  
+MNB: February 2009 
+Interest Rate and 
+Fees 
+ECB: Spot exchange rates were 
+based on the prevailing market 
+rate, and that was applied to 
+the forward leg of the 
+transaction, with an 
+adjustment to take into 
+account the different interest 
+rates on the two currencies 
+and any fees.  
+NBP and MNB: No info 
+Amount 
+Authorized 
+No pre-specified limit for any 
+of the lines 
+Peak Usage 
+Amount and Date 
+All figures are approximate; 
+ECB: CHF 36.5 billion in March 
+2009;  
+NBP: CHF 0.8 billion in March 
+2009;  
+MNB: CHF 0.9 billion in April 
+2009;  
+Aggregate: CHF 39.2 billion in 
+March 2009  
+ 
+(continued) 
+431
+Journal of Financial Crises Vol. 5 Iss. 1
+
+--- Page 5 ---
+Fischer, and Yesin 2014; Smith and 
+Koeppen 2010).  
+As local currencies lost value relative to the 
+Swiss franc , a safe haven currency , 
+repayment of those loans became more 
+expensive and borrowers began to default  
+(Smith and Koeppen 2010). 
+Years earlier, in January 2003, the SNB and 
+ECB had signed a n agreement creating a  
+standing swap arrangement that enabled 
+the Swiss central bank to borrow euros to 
+provide liquidity in euro s to financial 
+institutions in Switzerland . In October 
+2008, the two cent ral banks amended the 
+agreement by establishing a “temporary 
+standing arrangement ” in the other 
+direction—to enable the ECB to provide 
+liquidity in Swiss franc s to banks in the 
+euro area (ECB and SNB 2008; SNB 2008c). 
+Two more Swiss franc –providing swap 
+agreements soon followed between the SNB and the Polish central bank, Narodowy Bank 
+Polski (NBP), in November 2008 , and the Hungarian central bank, Magyar Nemzeti Bank  
+(MNB), in January 2009 . Like the ECB, the NBP and MNB used euros as collateral for their 
+lines (SNB 2008d; SNB 2009a) . In addition to the three central bank swap lines, the SNB 
+provided Swiss franc liquidity via swaps to its normal repo counterparties  (Allen and 
+Moessner 2010). The instruction sheet issued by the SNB described them as being open to 
+domestic and foreign banks that were eligible to access the SNB’s main refinancing and fine-
+tuning operations, including counterparties outside of the SNB’s jurisdiction (SNB 2008a).  
+The ECB, NBP, and MNB distributed Swiss francs drawn on th eir swap lines with SNB to 
+commercial banks in their jurisdictions through downstream, fixed -price auctions that 
+coincided with those organized by the SNB (Allen and Moessner 2010) . The ECB’s 
+downstream auctions allowed ECB counterparties to submit bids fo r the euro amount they 
+wished to swap for Swiss francs at a fixed price based on market exchange rates. The national 
+central banks of the Eurosystem then acted as administrative entities and channeled the 
+funds to the financial institutions in their jurisdictions by first entering into their own swap 
+with the ECB . The system allowed the same set of rules to apply to the entirety of the 
+Eurosystem’s downstream Swiss franc liquidity operations (ECB 2008a). The ECB’s October 
+2008 agreement with the SNB did not set a limit on total draws that the ECB could make on 
+behalf of euro -area financial institutions  (ECB and SNB 2008) . However, the press release 
+announcing the agreement said that the SNB and ECB would announce a specific maximum 
+allotment for the seven-day downstream foreign exchange swaps in advance of each weekly 
+downstream auction. Therefore, the size of ECB draws was effectively limited by maximum 
+allotments for the downstream auctions that the ECB set in consultation with the SNB (ECB 
+Downstream 
+Use/Application of 
+Swap Funds 
+ECB: To provide Swiss franc 
+funding to banks in 
+jurisdiction; 
+NBP: To provide Swiss francs 
+to counterparties against 
+Polish zloty; 
+MNB: To provide Swiss franc 
+funding against euros to banks 
+in jurisdiction 
+Outcomes SNB balances from swap 
+transactions against Swiss 
+francs returned to zero by 
+early 2010 when the 
+downstream foreign exchange 
+swaps ended and lines expired  
+Notable Features Use of Swiss-francs-for-euros 
+swap lines with the NBP and 
+MNB, instead of Swiss francs 
+for local currencies; 
+Coordinated downstream 
+usage via fixed-price auctions 
+coinciding with SNB  
+432
+Switzerland: Central Bank Swaps to the Eurozone, Poland, and Hungary French
+
+--- Page 6 ---
+2009). The swap arrangement between the SNB and ECB  to provide Swiss franc liquidity , 
+which was created by  the amendment to the 2003 agreement,  was first set to last until at 
+least January 2009 (SNB 2008c).  
+The November 2008 swap line between the SNB and NBP allowed Poland’s central bank to 
+draw Swiss francs against euros. The purpose of the swap was for the NBP to provide Swiss 
+francs to banks in its jurisdiction with funding needs. Like the ECB line, the NBP arrangement 
+was meant to be in place until at least January 2009 . In addition to announcing the creation 
+of the swap line between the two central banks, the press release also  announced that the 
+NBP would be joining the weekly foreign exchange swap operations of the SNB and the 
+Eurosystem. Effectively that meant  the NBP would be using the swap line to fund weekly 
+liquidity auctions targeting banks in its jurisdiction, and that the auctions where said banks 
+could bid for funds would coincide with those of the SNB and the ECB  (Allen and Moessner 
+2010; SNB 2008d).  
+The SNB’s January 2009 press release announcing the swap line with the MNB stated that it 
+was similar  to the agreements  with the ECB and NBP and would  allow the MNB to offer 
+Swiss-franc-for-euro funding to financial institutions in Hungary via foreign exchange swaps. 
+As with the NBP, the press release also stated that the MNB would be joining the weekly 
+downstream foreign exchange operations conducted under the umbrella of the SNB.  The 
+MNB’s annual report said the  swap agreement enabled the MNB “to provide Swiss franc 
+liquidity through EUR/CHF fixed rate swap tenders with maturity of one week” (MNB 2010; 
+SNB 2009a). The line with the MNB was intended to last until at least the end of April 2009. 
+The central banks extended the swap agreements several times (MNB 2009b; MNB 2009c; 
+MNB 2009d). The SNB, along with the ECB, NBP, and MNB, announced in January 2010 that 
+the EUR/CHF downstream foreign exchange swaps operations would end that month. The 
+SNB’s 2010 annual report confirmed that the swap arrangements ended in January 2010 as 
+well. The press release stated that Swiss franc funding conditions had improved and there 
+was less demand for liquidity via that type of operation.  The press release also said domestic 
+and foreign banks  domiciled in Switzerland could continue to access Swiss franc liquidity 
+through the Swiss franc repo system and the interbank market (SNB 2010a). Foreign banks 
+in Switzerland had been able to participate in the SNB’s repo transac tions since 1999 (IMF 
+2009). Amounts outstanding under the swap lines fell to zero by February 2010 (SNB 2022).  
+The SNB’s swap line with the ECB was bilateral and reciprocal , while its lines with the NBP 
+and MNB were bilateral and unidirectional, meaning the SNB could not draw funds through 
+them. The ECB line was really the amendment to the 2003 SNB -ECB arrangement. The two 
+swap lines with the NBP and MNB and the amendment to the ECB line gave  the borrowing 
+central banks the ability to access Swiss francs in exchange for euros, whereas the 2003 swap 
+agreement between the SNB and ECB gave the SNB the ability to draw euros in exchange for 
+Swiss francs (SNB 2008c; SNB 2008d; SNB 2009a).  
+The SNB’s goal in its lender -centric series of swap lines was to improve liquidity in the 
+international Swiss franc market. The SNB did not publish separate usage figures for its three 
+swap lines but instead reported only the aggregate amount outstanding across its swap lines 
+433
+Journal of Financial Crises Vol. 5 Iss. 1
+
+--- Page 7 ---
+and its domestic auctions . Neither  the ECB, NBP, nor MNB released their own figures 
+(Andries, Fischer, and Yesin 2014) . Allen and Moessner (2010) estimated the amounts of 
+Swiss francs outstanding under each of the swap lines and the SNB’s own Swiss franc 
+auctions. They used the SNB’s “Balances from swap transactions against CHF” balance sheet 
+item and individual auction results that had been published at the time. Their calculation 
+leaves a residual of any amounts the ECB, MNB, and NBP drew on their swaps but didn’ t 
+distribute minus anything they distributed. The result shows a peak amount outstanding of 
+about CHF 39 billion (USD 34 billion)3 (Allen and Moessner 2010) . The ECB accounted for 
+most of the usage among the three central banks. See Figure 1 for information on swap line 
+usage from their paper . The table shows the amount of Swiss franc s the SNB provided via 
+euro-for-Swiss-franc swaps by counterparty central bank, including the SNB’s own domestic 
+auctions. 
+  
+ 
+3 Per FRED, USD 1 = CHF 1.14 on March 31, 2009.  
+434
+Switzerland: Central Bank Swaps to the Eurozone, Poland, and Hungary French
+
+--- Page 8 ---
+Figure 1: Approximate Swiss Franc Swap Usage by Downstream Liquidity Provider 
+  
+Note: Total ex SNB is the sum of the SNB’s CHF –EUR swap operations not including the SNB’s own domestic 
+operations. Data is as of the end of the month. USD a mounts were converted from CHF using applicable spot 
+rates from the Board of Governors of the Federal Reserve System, accessed through FRED. Gray cells denote 
+periods where no swap arrangement existed; the NBP line was established in Nov ember 2008, and the MNB 
+line was established in February 2009. 
+Source: Allen and Moessner 2010; author’s calculations. 
+Summary Evaluation 
+The International Monetary Fund’s (IMF) 2009 Article IV report said the SNB’s monetary 
+policy during the crisis had a positive impact in a challenging environment (IMF 2009). Allen 
+and Moessner wrote that the SNB ’s swap facilities were probably motivated i n part by 
+concern about the Swiss franc appreciating too much in addition to concern about credit 
+markets. They also describe the purpose of the swaps as enabling foreign central banks to 
+provide domestic banks with Swiss francs and say that doing so was e xpected to help the 
+SNB bring their policy rate within its target range, since the strong demand for Swiss francs 
+was putting upward pressure on the LIBOR rate (Allen and Moessner 2010). The 2010 IMF 
+Article IV report said Switzerland survived the  global downturn well relative to most 
+industrial countries and pointed to supportive macroeconomic and financial policies as part 
+of the reason (IMF 2010). A 2014 paper from SNB officials used stock prices to show the SNB 
+swap lines had a positive impact on banks in Central and Eastern Europe (Andries, Fischer, 
+and Yesin 2014) . The Wall Street Journal  reported the end of the liquidity operations  in 
+January 2010 as a sign of improving conditions in the European banking system and money 
+markets (Smith and Koeppen 2010). 
+  
+Amounts	of	Swiss	Francs	Provided	by	the	SNB	via	Swaps	(in	Billions)
+Total	ex	SNB Total	ex	SNB SNB ECB NBP MNB Residue
+Date CHF USD USD USD USD USD USD
+10/31/2008 20.2 17.3 15.9 16.1 1.1
+11/30/2008 23.1 19.0 19.1 17.9 0.2 1.0
+12/31/2008 28.0 26.2 21.0 24.4 0.5 1.4
+1/31/2009 32.9 28.3 15.6 26.4 0.5 1.3
+2/28/2009 39.2 33.6 19.4 31.0 0.3 0.7 1.6
+3/31/2009 39.2 34.4 20.2 32.0 0.7 0.7 1.1
+4/30/2009 38.5 33.8 13.3 31.4 0.3 0.8 1.4
+5/31/2009 38.3 35.8 21.1 33.8 0.2 0.6 1.1
+6/30/2009 33.5 30.8 13.8 28.1 0.2 0.5 2.0
+7/31/2009 20.5 19.2 10.8 17.7 0.2 0.1 1.3
+8/31/2009 16.9 16.0 11.8 14.7 0.2 0.0 1.1
+9/30/2009 10.5 10.1 1.7 9.5 0.1 0.0 0.6
+435
+Journal of Financial Crises Vol. 5 Iss. 1
+
+--- Page 9 ---
+436
+Switzerland: Central Bank Swaps to the Eurozone, Poland, and Hungary French
+
+--- Page 10 ---
+Key Design Decisions 
+1. Purpose and Type: The SNB entered into a series of bilateral swap lines that were 
+reciprocal with the ECB, and unidirectional with the NBP and the MNB, to provide 
+Swiss franc funding downstream to banks in their jurisdictions. 
+The SNB provided Swiss franc liquidity to the ECB, NBP, and MNB , which were then able to 
+offer the funds to banks in their jurisdictions via weekly auctions that coincided with the 
+SNB’s own swaps t o domestic and foreign banks that were its normal repo counterparties  
+(Allen and Moessner 2010; SNB 2010b). The SNB’s goal in establishing the swap lines was to 
+supply Swiss franc liquidity to banks operating outside Switzerland that had Swiss franc 
+funding needs. The SNB intended for the swaps to meet the strong foreign demand for Swiss 
+francs and to address the illiquidity in the international Swiss franc money market . Central 
+and Eastern European banks  in particular  had extended a significant number of loans in 
+Swiss francs that they had financed by borrowing short -term from Swiss banks . When the 
+Swiss banks pulled their funding during the financial crisis, many European banks, especially 
+smaller Eastern European ones that generally had less in volvement in Swiss payment 
+systems, did not have access to the SNB ’s domestic crisis-era liquidity operations (Andries, 
+Fischer, and Yesin 2014) . A few large Western European banks had accounts with the SNB 
+and could access Swiss franc liquidity directly, while the Eastern European banks that had 
+financed Swiss franc mortgage loans and were now facing liquidity issues were less likely to 
+have access to the SNB’s operations. The swap lines allowed the SNB to have a central bank 
+as its counterparty in each tr ansaction, and that central bank could then allocate the Swiss 
+franc liquidity and take on the risk of dealing with local banks. That structure helped with 
+providing liquidity to banks with lower credit ratings than the SNB would want to transact 
+with directly. 
+2. Part of a Package: The SNB took various other measures to address liquidity inside 
+and out side of Switzerland , including Swiss franc –euro foreign exchange swaps 
+targeting domestic and foreign banks.  
+The SNB relaxed monetary policy early in the crisis and then turned to offering more longer-
+term repos, purchasing Swiss franc bonds issued by the private sector and buying foreign 
+currency via the open market (IMF 2009). The SNB also stepped in to provide  financing for 
+the transfer of illiquid assets from UBS, a large Swiss bank with global operations, to a special 
+purpose vehicle . Additionally, the central bank lent Swiss francs in exchange for euro s to 
+eligible commercial banks4 (SNB 2008a) . The SNB held its own euro –Swiss franc swap  
+auctions for domestic and foreign banks in addition to  having the swap lines with the ECB, 
+NBP, and MNB (SNB 2009a; SNB 2009b). 
+ 
+4 See Key Design Decision No. 5, Administration, for more information on bank eligibility for SNB foreign 
+exchange swaps. 
+437
+Journal of Financial Crises Vol. 5 Iss. 1
+
+--- Page 11 ---
+3. Legal Authority:  The SNB has authority to use currency swaps under Article 9 , 
+Paragraph 1 of the National Bank Act. 
+Article 9 , Paragraph 1 of the National Bank Act gives the SNB the ability to use spot and 
+forward foreign exchange transactions and currency swaps (SNB 2003; SNB 2010b). 
+4. Governance: Members of the Governing Board of the SNB agreed to the SNB and 
+ECB swap amendment. 
+The SNB’s supervisory and executive bodies are the Bank Council and the Governing Board. 
+The Bank Council oversees and controls business at the SNB , while the Governing Board is 
+responsible for monetary policy, asset management strategy, international monetary 
+cooperation, and the stability of the financial system, as well as representing the bank to the 
+public (SNB n.d.b; SNB n.d.c) . The SNB’s press releases and annual reports do not specify 
+which body had to approve the swap lines, but members of the Governing Board were listed 
+as signees to the October 15, 2008, amendment to the SNB-ECB swap arrangement (ECB and 
+SNB 2008; SNB 2008c). 
+The SNB reported the swap lines in its annual reports but provided only the aggregate usage 
+numbers across the three borrowing central banks (Andries, Fischer, and Yesin 2014; SNB 
+2010b). The ECB’s 2009 annual report discussed the swap line with the SNB and the 
+Eurosystem’s downstream foreign exchange swaps and mention ed that  the Eurosystem 
+conducted 51 Swiss franc –providing operations at seven -day maturities during  2009, 
+consistent with the weekly auction schedule described in the press releases (ECB 2010). The 
+NBP reported on downstream lending in its annual report (NBP 2010). The MNB discussed 
+the swap agreement and the downstream lending in its annual report (MNB 2010). 
+5. Administration: The SNB coordinated with the ECB, NBP, and MNB on the 
+downstream uses of funds in each of their jurisdictions. 
+When the SNB first announced its swap agreement with the ECB, it said the SNB and E CB 
+would provide Swiss francs to euro-area financial institutions in return for euros. The press 
+release noted that the two central banks ha d entered into a swap arrangement through 
+which the ECB would access Swiss francs to lend to euro-area banks (SNB 2008c). 
+For the Poland and Hungary press releases, the SNB announced swap lines with each central 
+bank and said  that the NBP and MNB would joi n the weekly foreign exchange swap 
+operations “conducted under the umbrella of the SNB ” (SNB 2008d; SNB 2009a). The MNB 
+said the swap agreement enabled it to provide Swiss franc liquidity through the one -week 
+maturity swap tenders (MNB 2010). 
+In October 2008, the SNB issued instruction sheets for participation in the bank’s domestic 
+weekly auctions (SNB 2008a; SNB 2008b). The SNB’s auctions were accessible by its normal 
+commercial repo counterparties (Allen and Moessner 2010).  
+The ECB offered its downstream foreign exchange swaps via fixed-price auctions that were 
+open to counterparties eligible for US dollar foreign exchange swap tenders or that were 
+438
+Switzerland: Central Bank Swaps to the Eurozone, Poland, and Hungary French
+
+--- Page 12 ---
+eligible under Annex 3 of the General Documentation on Eurosystem Monetary Policy 
+Instruments and Procedures (ECB 2008a). The 2006 version of that document describes the 
+selection as mainly being based on prudence and efficiency (ECB 2006). Those categories 
+included creditworthiness of, quality of information provided by, and reputation of the 
+potential counterparty. While the ECB’s instruction sheet specifies a minimum bid of EUR 1 
+million, there was no maximum bid given. The ECB’s annual report states that the maximum 
+allotment amounts for the downstream auctions were determined by the ECB in 
+coordination with the SNB (ECB 2010). 
+The ECB’s 2008 annual report stated that the ECB drew Swiss francs from its swap line and 
+simultaneously entered into swaps with national central banks (NCBs) of the Eurosystem. 
+Those NCBs then used the funds to provide Swiss franc liquidity against euros to euro-area 
+financial institutions (ECB 2009). The weekly downstream swap offerings allowed one set of 
+rules to apply to the entirety of the Eurosystem and leveraged the NCBs as administrative 
+entities (ECB 2008a). 
+In 2009 the NBP’s downstream foreign exchange swaps were offered weekly, at seven-day-
+maturity, and in Swiss francs for Polish zloty, US dollars for Polish zloty, or euros for zloty. 
+The Swiss-franc-for-Polish-zloty swaps saw the highest demand from banks (NBP 2010).  
+The MNB offered seven-day-maturity Swiss-franc-for-euro swaps to its domestic 
+institutions. The MNB also offered euro-for-Hungarian-forint swaps to provide liquidity  
+domestically in euros with terms of three and six months (MNB 2010). 
+On its balance sheet, the SNB reported collateral from the 2008 and 2009 swap 
+arrangements under “balances from swap transactions against Swiss francs” (SNB n.d.a; SNB 
+2022). 
+6. Communication: The SNB announced the swap agreements via press releases. 
+The SNB announced the swap line s via press releases with each release also announcing 
+downstream foreign exchange swaps (SNB 2008c; SNB 2008d; SNB 2009a). 
+The press release language, particularly with the  SNB and ECB agreement, emphasized the 
+close collaboration between the central banks with statements like “the Swiss National Bank 
+(SNB) and the European Central Bank (ECB) are jointly announcing measures to improve 
+liquidity.” In the same press release  that the SNB announced the revised swap agreement 
+with the ECB, it also announced that the SNB and the Eurosystem would together offer Swiss 
+franc–euro swaps  to euro -area banks in a weekly foreign exchange swap facility (SNB 
+2008c). The ECB and MNB issued press releases announcing their respective swap 
+agreements around the same time as the SNB , while the NBP’s press release is dated about 
+two months after the SNB announcement , when the arrangement was already underway  
+(ECB 2008b; MNB 2009a; NBP 2009). 
+439
+Journal of Financial Crises Vol. 5 Iss. 1
+
+--- Page 13 ---
+The SNB’s press release announcing the swap line with the ECB mostly contained details on 
+the downstream lending, including the rates that would be used for the swap points 5 on the 
+downstream activities6 (SNB 2008c). 
+The four central banks also jointly announced the end of the downstream foreign exchange 
+swaps (SNB 2010a). 
+7. Eligible Institutions: The first swap agreement was between the SNB and the ECB, 
+followed by the SNB and NBP agreement and then the SNB and MNB. 
+The swap lines were between the SNB as the lending bank and the ECB, NBP, and MNB as 
+borrowing banks  (SNB 2010b) . The line with the ECB was launched in October 2008 
+alongside the launch of the SNB’s domestic Swiss franc  lending facility and the ECB’s 
+downstream lending (SNB 2008c). The NBP swap was launched in November 2008, and the 
+MNB swap was launched in February 2009 (SNB 2008d; SNB 2009a).  
+Some foreign banks participating in the SNB’s repo operations  could access Swiss  franc 
+liquidity directly from the SNB through  Swiss-franc-for-euro foreign exchange swap 
+operations (SNB 2008a). The SNB entered into the swap agreements with the ECB, NBP, and 
+MNB to enable those central banks to extend Swiss  franc liquidity to financial institutions 
+within their jurisdictions that had Swiss franc funding needs  (SNB 2008c; SNB 2008d; SNB 
+2009a).  
+8. Size: The SNB did not announce limits on the sizes of the swap lines, but their size 
+was effectively controlled by the maximum allotments the ECB and MNB set for 
+the downstream auctions. The NBP did not report a maximum allotment for its 
+downstream auctions. 
+There was no specified size for the central bank swap lines.  The earlier 2003 swap 
+agreement between the ECB and SNB  that the 2008 agreement amended did provide a 
+maximum size of EUR 10 billion for the amount of euro liquidity that the SNB could access 
+(ECB and SNB 2003). 
+For the ECB’s downstream lending, the foreign exchange swaps were offered with maximum 
+amounts of EUR 20 billion for seven-day operations and EUR 5 billion for 84-day operations. 
+The ECB said in its annual report that it determined the size of the swaps in coordination 
+with the SNB (ECB 2009). If the aggregate amount of bids exceeded the allotted amount, the 
+SNB and ECB would allocate swaps to banks on a pro rata basis (SNB 2008c). 
+The MNB  reported that it s Swiss -franc-for-euro swap tenders  for its domestic banks  had 
+maximum amounts of EUR 5 billion per week for seven -day maturity operations (MNB 
+ 
+5 Generally, swap points, also referred to as “forward points” or the “forward spread” are the number of basis 
+points added to or subtracted from the spot rate to determine the forward rate for a specific date in the future 
+(Chen 2020).  
+6 The press release described the swap points as being “calculated using the rate applied in main refinancing 
+operations of the ECB and the SNB 1-week repo rate plus 25 basis points” (SNB 2008c). 
+440
+Switzerland: Central Bank Swaps to the Eurozone, Poland, and Hungary French
+
+--- Page 14 ---
+2010). The NBP did not report a max imum size for its weekly Swiss-franc-for-Polish-zloty 
+auctions targeting domestic banks in its annual report (NBP 2010).  
+9. Process for Utilizing the Swap Agreement: The foreign central banks placed bids 
+for Swiss francs at the SNB’s fixed -price and fixed -term auction, and the two 
+central banks then agreed on terms. 
+Under the October 2008 amendment to the January 2003 SNB and ECB swap agreement, the 
+parties had to mutually agree to enter into swap transactions. The amendment specifically 
+allowed the ECB to buy Swiss francs from the SNB in exchange for euros and simultaneously 
+enter a forward transaction to sell back the Swiss francs on a maturity date specified upfront 
+(ECB and SNB 2008).  
+When one of the foreign central banks wanted to draw on its swap line, it would place a bid 
+at the SNB’s auction. After the two parties agreed to initiate a draw, the central banks would 
+agree to the amount, value date, exchange rate, maturity date, applicable interest rates, and 
+applicable swap points. On the value date, the Swiss franc s would be credited to the ECB’s 
+account at the SNB and the euros would be credited to the SNB’s account at the EC B. On the 
+maturity date , the euro s were  then repaid including any interest to the ECB through the 
+SNB’s account (ECB and SNB 2008) . The difference between the exchange rate used on the 
+value date and the maturity date reflected the forward points or swap points. 
+10. Downstream Use of Borrowed Funds: The swaps were used to offer Swiss francs 
+to counterparties in the borrowing central bank’s jurisdiction. 
+The ECB, NBP, and MNB offered Swiss franc funds to banks in their jurisdictions via weekly 
+auctions that coin cided with the SNB’s own swap  auctions for banks that were its repo 
+counterparties (Allen and Moessner 2010; SNB 2010b). The swap agreements did not govern 
+the downstream operations , and the borrowing central banks were largely responsible for 
+allocating the Swiss francs. 
+The ECB provided one-week and three-month Swiss franc funding to banks in its jurisdiction 
+by drawing Swiss francs from its swap line and simultaneously entering into swaps with the 
+NCBs (SNB 2008c). Those NCBs then used the funds to provide Swiss franc liquidity against 
+euros to euro-area financial institutions (ECB 2009).  
+Under the SNB’s swap lines, the central banks of Poland and Hungary had to swap euros for 
+Swiss francs rather than their local currencies (SNB 2008d; SNB 2009a). The NBP lent Swiss 
+francs to banks in its jurisdiction in return for zloty. The MNB lent Swiss francs to banks in 
+return for euros, although there’s no information regarding whether or not that was required 
+by the SNB.  The MNB would only accept euros from commercial financial institutions, 
+whereas NBP accepted Polish zloty in exchange for euros. However, Hungarian banks could 
+access euros through euro –Hungarian forint swaps offered by the MNB (MNB 2010). The 
+MNB and NBP also had repo agreements with the ECB (ECB 2009). 
+The NBP’s 2009 downstream foreign exchange swaps were  offered weekly, at seven-day-
+maturity, and in Swiss francs for Polish zloty, US dollar s for zloty, or euros for zloty (NBP 
+441
+Journal of Financial Crises Vol. 5 Iss. 1
+
+--- Page 15 ---
+2010). The NBP also offered US dollars for zloty and euros for zloty on a monthly basis with 
+a 28-day maturity. The MNB offered seven-day-maturity Swiss-franc-for-euro swaps on their 
+domestic markets (MNB 2010).  
+11. Duration of Swap Draws: The ECB, NBP, and MNB offe red swaps with a one -week 
+maturity; the ECB later also offered swaps with a three-month (84-day) maturity. 
+The SNB’s swaps with the three central banks initially all had a one-week duration. The ECB 
+later introduced a three -month (84-day) swap to address “tensions in this segment of the 
+Swiss franc money markets” (ECB 2009).  
+12. Rates and Fees: The swaps and downstream auctions were set at fixed prices 
+based on prevailing exchange rates. 
+SNB swap transactions use the same exchange rate for the spot and forward rates but with a 
+discount or premium  to account for the spread between the interest rate s on the two 
+currencies, called the swap points. In effect, the borrowing central bank  pays the rate of 
+interest on the currency they borrow and receives the interest rate on the currency they lent 
+in exchange (SNB n.d.a). In the ECB swap line, the agreement states that the spot exchange 
+rate would be based on the prevailing market spot rate , while the forward exchange rate 
+would equal the spot exchange rate plus or minus forward swap points. Once the SNB and 
+ECB agreed to a drawing, they would agree to the exchange rate and fees, along with other  
+specifics (ECB and SNB 2008). Documentation was not available for the swap lines with the 
+NBP or MNB , but their press releases noted that their Swiss franc auctions would also be 
+based on fixed prices, similar to the SNB-ECB arrangement. 
+13. Balance Sheet Protection : If the ECB failed to repay Swiss franc s at the maturity 
+date, any amount owed would be rolle d into a new overnight swap transaction 
+with the interest rate and exchange rate being mutually agreed to by the ECB and 
+SNB. No information was found regarding the NBP or MNB. 
+If the ECB failed to repay any amount of Swiss franc on the maturity date, the unpaid amount 
+maturing on that date would be rolled over into a new overnight swap, and the ECB would 
+credit the SNB account with that amount in euro s. The two central banks would mutually 
+agree to the interest rate and exchange rate for the roll-over draw (ECB and SNB 2008). 
+14. Other Restrictions: The documentation doesn’t reveal other restrictions. 
+The documentation doesn’t reveal other restrictions. 
+15. Other Options:  The SNB did not enter into a swap agreement with the Bank of 
+England despite the United Kingdom’s having a similar Swiss franc shortage. 
+In December 2008, t he four economies with the largest Swiss franc shortages  according to 
+the “net outstanding Swiss franc cross -border claims” measure were the euro area, Poland, 
+the United Kingdom, and Hungary , in that order. The SNB extended Swiss franc swap lines 
+442
+Switzerland: Central Bank Swaps to the Eurozone, Poland, and Hungary French
+
+--- Page 16 ---
+to the euro area, Poland, and Hungary , but not to the United Kingdom (Allen and Moessner 
+2010). 
+16. Exit Strategy: The swaps were extended several times before ending in January 
+2010. 
+The initial swap agreement with the ECB said the measure would be in place “as long as 
+needed, at least until January 2009 ” (SNB 2008c) . In January 2009, the SNB and MNB 
+announced their swap agreement (SNB 2009a). The agreements between the SNB and the 
+ECB, NBP, and MNB were then extended in April, June, and September of 2009 (MNB 2009b; 
+MNB 2009c; MNB 2009d) . The SNB , along with the three borrowing central banks,  
+announced on January 18, 2010 , that because conditions in the Swiss franc funding market 
+had improved and the demand for liquidity had declined, the last downstream foreign 
+exchange swap operation would be conducted on Januar y 25, 2010. The press release said 
+banks domiciled in Switzerland  could continue to access Swiss franc liquidity through the 
+Swiss franc repo system and the interbank market (SNB 2010a) . The SNB’s 2010 annual 
+report confirmed that the swap arrangements ended in January 2010 as well (SNB 2011).  
+443
+Journal of Financial Crises Vol. 5 Iss. 1
+
+--- Page 17 ---
+References and Key Program Documents 
+Summary of Program. 
+(SNB n.d.a) Swiss National Bank (SNB). n.d.a. “Questions and Answers on Foreign Exchange 
+Swaps in Swiss Francs.” Accessed September 26, 2022. 
+FAQ page on SNB site answering various questions on foreign exchange swaps. 
+https://ypfs.som.yale.edu/node/22288 
+Implementation Documents. 
+(ECB 2008a) European Central Bank (ECB). 2008a. “Tender Procedure for the Provision of 
+Swiss Francs to Eurosystem Counterparties Through FX Swap Operations.” November 4, 
+2008. 
+ECB document describing the provision of Swiss franc funding to Eurosystem counterparties 
+by Eurosystem central banks. 
+https://ypfs.som.yale.edu/node/22261/ 
+(ECB and SNB 2003) European Central Bank and Banque Nationale Suisse (ECB and SNB). 
+2003. “Euro-Swiss Franc Swap Agreement.” January 23, 2003. 
+Document detailing the 2003 Euro-Swiss franc swap agreement between the ECB and SNB. 
+https://ypfs.som.yale.edu/node/22861 
+(ECB and SNB 2008) European Central Bank and Banque Nationale Suisse (ECB and SNB). 
+2008. “Amendment to the Euro-Swiss Franc Swap Agreement.” October 15, 2008. 
+Document describing the 2008 amendment to the 2003 swap agreement between the ECB and 
+SNB. 
+https://ypfs.som.yale.edu/node/22263 
+(SNB 2008a) Swiss National Bank (SNB). 2008a. “Instruction Sheet on Participation in 
+EUR/CHF Foreign Exchange Swaps of the Swiss National Bank.” October 16, 2008. 
+Instruction sheet describing the Swiss National Bank’s EUR/CHF foreign exchange swaps and 
+how to participate. 
+https://ypfs.som.yale.edu/node/22277/ 
+(SNB 2008b) Swiss National Bank (SNB). 2008b. “Instruction Sheet on Participation in 
+EUR/CHF Foreign Exchange Swaps of the Swiss National Bank.” October 29, 2008. 
+Instruction sheet describing the Swiss National Bank’s EUR/CHF foreign exchange swaps and 
+how to participate. 
+https://ypfs.som.yale.edu/node/22278 
+Legal/Regulatory Guidance. 
+(SNB 2003) Swiss National Bank (SNB). 2003. “Federal Act on the Swiss National Bank 
+(National Bank Act).” October 3, 2003. 
+Federal Act covering the Swiss National Bank. 
+https://ypfs.som.yale.edu/node/22275/ 
+444
+Switzerland: Central Bank Swaps to the Eurozone, Poland, and Hungary French
+
+--- Page 18 ---
+Media Stories. 
+(Smith and Koeppen 2010) Smith, Geoffrey T., and Nina Koeppen. 2010. “Swiss Bank Will 
+Stop Providing Liquidity to European Markets.” Wall Street Journal, January 18, 2010. 
+Article about the end of the SNB’s swap lines to the ECB, MNB, and NBP. 
+https://ypfs.som.yale.edu/node/22274 
+Press Releases/Announcements. 
+(ECB 2006) European Central Bank (ECB). 2006. “The Implementation of Monetary Policy 
+in the Euro Area—September 2006.” Press release, September 2006. 
+ECB document containing general documentation on Eurosystem monetary policy 
+instruments and procedures. 
+https://ypfs.som.yale.edu/node/22259 
+(ECB 2008b) European Central Bank (ECB). 2008b. “Swiss National Bank and European 
+Central Bank Cooperation to Provide Swiss Franc Liquidity.” Press release, October 15, 
+2008. 
+ECB press release announcing the SNB and ECB swap agreement. 
+https://ypfs.som.yale.edu/node/22260 
+(MNB 2009a) Magyar Nemzeti Bank (MNB). 2009a. “Swiss National Bank and Magyar 
+Nemzeti Bank Cooperate to Provide Swiss Franc Liquidity.” Press release, January 28, 2009. 
+MNB press release announcing the SNB and MNB swap agreement. 
+https://ypfs.som.yale.edu/node/22267 
+(MNB 2009b) Magyar Nemzeti Bank (MNB). 2009b. “The Swiss National Bank, the 
+European Central Bank, the Narodowy Bank Polski and the Magyar Nemzeti Bank Will 
+Continue One-Week EUR/CHF Foreign Exchange Swap Operations.” Press release, April 27, 
+2009. 
+MNB press release announcing the continuation of the SNB and MNB foreign exchange swap 
+operations until at least the end of July 2009. 
+https://ypfs.som.yale.edu/node/22268/ 
+(MNB 2009c) Magyar Nemzeti Bank (MNB). 2009c. “The Swiss National Bank, the 
+European Central Bank, the Narodowy Bank Polski and the Magyar Nemzeti Bank Will 
+Continue One-Week EUR/CHF Foreign Exchange Swap Operations.” Press release, June 25, 
+2009. 
+MNB press release announcing the continuation of the SNB and MNB foreign exchange swap 
+operations until at least October 31, 2009. 
+https://ypfs.som.yale.edu/node/22269 
+(MNB 2009d) Magyar Nemzeti Bank (MNB). 2009d. “The Swiss National Bank, the 
+European Central Bank, the Narodowy Bank Polski and the Magyar Nemzeti Bank Continue 
+to Provide Swiss Francs through EUR/CHF Foreign Exchange Swaps until the End of 
+January 2010.” Press release, September 24, 2009. 
+MNB press release announcing the continuation of the SNB and MNB foreign exchange swap 
+445
+Journal of Financial Crises Vol. 5 Iss. 1
+
+--- Page 19 ---
+operations until the end of January 2009. 
+https://ypfs.som.yale.edu/node/22270 
+(NBP 2009) Narodowy Bank Polski (NBP). 2009. “Swiss National Bank, European Central 
+Bank and Narodowy Bank Polski Cooperation to Provide Swiss Franc Liquidity.” Press 
+release, January 16, 2009. 
+NBP press release announcing the ECB and NBP swap agreement. 
+https://ypfs.som.yale.edu/node/22272 
+(SNB 2008c) Swiss National Bank (SNB). 2008c. “Swiss National Bank and European 
+Central Bank Cooperate to Provide Swiss Franc Liquidity.” Press release, October 15, 2008, 
+October 15, 2008. 
+Press release announcing the swap agreement between the SNB and the ECB. 
+https://ypfs.som.yale.edu/node/22276 
+(SNB 2008d) Swiss National Bank (SNB). 2008d. “Swiss National Bank and Narodowy Bank 
+Polski Cooperate to Provide Swiss Franc Liquidity.” Press release, November 7, 2008. 
+Press release announcing the swap agreement between the SNB and the NBP. 
+https://ypfs.som.yale.edu/node/22279 
+(SNB 2009a) Swiss National Bank (SNB). 2009a. “Swiss National Bank and Magyar Nemzeti 
+Bank Cooperate to Provide Swiss Franc Liquidity.” Press release, January 28, 2009. 
+Press release announcing the swap agreement between the SNB and the MNB. 
+https://ypfs.som.yale.edu/node/22280 
+(SNB 2010a) Swiss National Bank (SNB). 2010a. “Swiss National Bank Discontinues 
+EUR/CHF Foreign Exchange Swaps.” Press release, January 18, 2010. 
+SNB press release announcing the end of the EUR/CHF swap arrangements. 
+https://ypfs.som.yale.edu/node/22282 
+Reports/Assessments. 
+(Chen 2020) Chen, James. 2020. “Forward Points,” December 26, 2020. 
+Forward points are the number of basis points added to or subtracted from the current spot 
+rate to determine the forward rate. 
+https://ypfs.som.yale.edu/node/22258/ 
+(ECB 2009) European Central Bank (ECB). 2009. “Annual Report 2008,” February 1, 2009. 
+ECB annual report covering 2008. 
+https://ypfs.som.yale.edu/node/22262 
+(ECB 2010) European Central Bank (ECB). 2010. “Annual Report 2009,” 2010. 
+ECB annual report covering 2009. 
+https://ypfs.som.yale.edu/node/20065 
+(Ho and Michaud 2008) Ho, Corrinne, and François-Louis Michaud. 2008. “Central Bank 
+Measures to Alleviate Foreign Currency Funding Shortages.” December 8, 2008. 
+446
+Switzerland: Central Bank Swaps to the Eurozone, Poland, and Hungary French
+
+--- Page 20 ---
+BIS report on central bank measures during 2008, extract from pages 14-15 of BIS Quarterly 
+Review, December 2008. 
+https://ypfs.som.yale.edu/node/22264 
+(IMF 2009) International Monetary Fund (IMF). 2009. “Switzerland: 2009 Article IV 
+Consultation—Staff Report; Public Information Notice on the Executive Board Discussion; 
+and Statement by the Executive Director for Switzerland.” May 26, 2009. 
+IMF Article IV report covering Switzerland. 
+https://ypfs.som.yale.edu/node/22265/ 
+(IMF 2010) International Monetary Fund (IMF). 2010. “Switzerland: 2010 Article IV 
+Consultation—Staff Report; Public Information Notice on the Executive Board Discussion; 
+and Statement by the Executive Director for Switzerland.” May 20, 2010. 
+IMF Article IV report covering Switzerland during 2009. 
+https://ypfs.som.yale.edu/node/22266 
+(MNB 2010) Magyar Nemzeti Bank (MNB). 2010. “Annual Report 2009.” April 6, 2010. 
+Annual report covering 2009. 
+https://ypfs.som.yale.edu/node/22271 
+(NBP 2010) Narodowy Bank Polski (NBP). 2010. “Annual Report 2009.” 2010. 
+NBP annual report covering 2009. 
+https://ypfs.som.yale.edu/node/22273 
+(SNB 2009b) Swiss National Bank (SNB). 2009b. “Swiss National Bank, 101st Annual 
+Report, 2008.” March 9, 2009. 
+Annual report covering 2008 from the SNB. 
+https://ypfs.som.yale.edu/node/22281 
+(SNB 2010b) Swiss National Bank (SNB). 2010b. “Swiss National Bank, 102nd Annual 
+Report, 2009.” February 26, 2010. 
+Annual report covering 2009 from the SNB. 
+https://ypfs.som.yale.edu/node/22284 
+(SNB 2011) Swiss National Bank (SNB). 2011. “Swiss National Bank, 103rd Annual Report, 
+2010.” February 25, 2011. 
+SNB annual report covering 2010. 
+https://ypfs.som.yale.edu/node/22416 
+(SNB 2022) Swiss National Bank (SNB). 2022. “Balance Sheet Items of the SNB.” Dataset, 
+August 31, 2022. 
+SNB data tracking balances from swap transactions against CHF. 
+https://ypfs.som.yale.edu/node/22285/ 
+  
+447
+Journal of Financial Crises Vol. 5 Iss. 1
+
+--- Page 21 ---
+(SNB n.d.b) Swiss National Bank (SNB). n.d.b. “Information About the SNB.” Accessed 
+October 17, 2022. 
+SNB web page containing info including goals and responsibilities, structure and 
+organization, and legal basis of the SNB. 
+https://ypfs.som.yale.edu/node/22286 
+(SNB n.d.c) Swiss National Bank (SNB). n.d.c. “Information About the SNB - Questions and 
+Answers on the SNB as a Company.” Accessed October 21, 2022. 
+Web page containing Q/A on the SNB’s operations and governance. 
+https://ypfs.som.yale.edu/node/22287/ 
+Key Academic Papers. 
+(Allen and Moessner 2010) Allen, William A., and Richhild Moessner. 2010. “Central Bank 
+Co-Operation and International Liquidity in the Financial Crisis of 2008-9.” BIS Working 
+Paper No 310, May 2010. 
+Overview of central bank responses to the GFC. 
+https://ypfs.som.yale.edu/node/19791 
+(Andries, Fischer, and Yesin 2014) Andries, Alin Marius, Andreas M. Fischer, and Pinar 
+Yesin. 2014. “The Impact of International Swap Lines on Stock Returns of Banks in 
+Emerging Markets.” Swiss National Bank, November. 
+Paper mainly analyzing Swiss National Bank swap lines to Central and Eastern European 
+countries during the Global Financial Crisis. 
+https://ypfs.som.yale.edu/node/22257/ 
+(French 2023) French, Jack. 2023. “United States: Central Bank Swaps to 14 Countries, 
+2007–2009.” Journal of Financial Crises 5, no. 1. 
+Case study describing the Fed’s swap lines with 14 central banks during the Global Financial 
+Crisis. 
+https://elischolar.library.yale.edu/journal-of-financial-crises/vol5/iss1/20 
+ 
+ 
+ 
+Copyright 2023 © Yale University. All rights reserved. To order copies of this material or to receive 
+permission to reprint any or all of this document, please contact the Yale  Program on Financial 
+Stability at ypfs@yale.edu. 
+448
+Switzerland: Central Bank Swaps to the Eurozone, Poland, and Hungary French

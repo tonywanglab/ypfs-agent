@@ -1,0 +1,909 @@
+--- Page 1 ---
+Journal of Financial Crises Journal of Financial Crises 
+Volume 4 Issue 2 
+2022 
+Japan: Special Funds-Supplying Operations Japan: Special Funds-Supplying Operations 
+Sharon M. Nunn 
+Yale School of Management 
+Follow this and additional works at: https://elischolar.library.yale.edu/journal-of-financial-crises 
+ Part of the Economic Policy Commons, Finance and Financial Management Commons, 
+Macroeconomics Commons, Policy Design, Analysis, and Evaluation Commons, Policy History, Theory, 
+and Methods Commons, and the Public Administration Commons 
+Recommended Citation Recommended Citation 
+Nunn, Sharon M. (2022) "Japan: Special Funds-Supplying Operations," Journal of Financial Crises: Vol. 4 : 
+Iss. 2, 1618-1640. 
+DOI: https://doi.org/10.17132/2693-3179.1364 
+Available at: https://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss2/75 
+This Case Study is brought to you for free and open access by the Journal of Financial Crises and 
+EliScholar – A Digital Platform for Scholarly Publishing at Yale. For more information, please contact 
+journalfinancialcrises@yale.edu.
+
+--- Page 2 ---
+READERS TAKE NOTICE: READERS TAKE NOTICE: 
+As of April 2024, the YPFS Resource Library’s site domain has changed 
+to https://elischolar.library.yale.edu/ypfs-financial-crisis-resource-library/. 
+Please be aware that upon clicking any of the URL references to 
+the former Resource Library domains, either https://ypfs.som.yale.edu 
+or https://ypfsresourcelibrary.blob.core.windows.net/, in the 
+"References/Key Program Documents" section of a case study, 
+readers will encounter a "page not found" error. readers will encounter a "page not found" error. 
+Readers can still retrieve a given resource cited within this case study 
+on the new site  by searching by searching here  for the title cited. for the title cited. 
+This case study is available in Journal of Financial Crises: https://elischolar.library.yale.edu/journal-of-financial-
+crises/vol4/iss2/75
+
+--- Page 3 ---
+Japan: Special Funds-Supplying Operations1 
+Sharon M. Nunn2 
+Yale Program on Financial Stability Case Study 
+July 15, 2022 
+Abstract 
+The Bank of Japan responded to the COVID -19 economic downturn in March 2020 with 
+several financial stability interventions. The Special Funds -Supplying Operations to 
+Facilitate Financing in Response to the Novel Coronavirus (COVID -19) (SFSO) offered 
+interest-free loans of up to one year in maturity to eligible financial institutions in an attempt 
+to encourage broader lending to Japanese businesses and households. Counterparties could 
+pledge as collateral a broad range of corporate and private debt, includin g corporate bonds 
+and asset-backed securities. Enhancements made throughout the program’s operation led to 
+substantial increases in SFSO use. First, the BoJ expanded institution and collateral eligibility, 
+as well as maximum lending limits, to encourage SF SO-eligible financial institutions to 
+increase lending to small and medium-sized enterprises (SMEs) and households. Second, the 
+BoJ said it would pay a positive interest rate on a portion of a financial institution’s balances 
+with the central bank, corresponding to the amount of its outstanding SFSO loans. Third, the 
+BoJ essentially reduced the amount of reserves financial institutions held with the central 
+bank at negative interest rates. These provisions meant that the BoJ effectively paid banks to 
+use the new facility. SFSO lending to a broad range of financial institutions, including regional 
+banks and financial cooperatives, totaled JPY 64.8 trillion (roughly USD 0.6 trillion) as of 
+year-end March 2021, helping spur active lending to businesses. 
+Keywords: Japan, lending facility, market liquidity programs , special funds-supplying 
+operations  
+ 
+1 This case study is part of the Yale Program on Financial Stability (YPFS) selection of New Bagehot Project 
+modules considering market support programs in response to COVID-19. Cases are available from the Journal 
+of Financial Crises at https://elischolar.library.yale.edu/journal-of-financial-crises/. 
+2 Research Associate, YPFS, Yale School of Management. 
+1618
+
+--- Page 4 ---
+Overview 
+The Japanese government, in line with 
+other countries, imposed lockdowns and 
+travel restrictions in March 2020 in 
+response to the spread of COVID -19, 
+triggering significant stresses to its 
+financial system and the broader 
+economy. Private consumption contracted 
+sharply, along with exports and industrial 
+production, and business sentiment 
+dropped (BoJ 2020i). The Ja panese bond 
+market experienced a bout of illiquidity, 
+corporate financing conditions worsened 
+in response to firms’ financial positions, 
+and long -term interest rates rose (BoJ 
+2021j).  
+To ease monetary policy and maintain a 
+high level of liquidity, the BoJ  increased 
+outright purchases of commercial paper, 
+corporate bonds, Japanese government 
+bonds, exchange -traded funds, and 
+Japanese real estate investment trust 
+instruments (BoJ 2021j). The central 
+bank’s policymakers also created the 
+“Special Funds -Supplying Operations to 
+Facilitate Financing in Response to the 
+Novel Coronavirus (COVID19)” (SFSO) 
+(BoJ 2021j, 3–6). Like an earlier version of 
+the SFSO that the BoJ created during the 
+Global Financial Crisis (GFC), 
+policymakers activated the program  to 
+facilitate financing by offering loans with 
+generous terms against eligible collateral 
+(Buchholtz 2020). 3 The COVID -19 
+program offered interest -free loans of up 
+to one year in maturity to encourage 
+lending to Japanese businesses (BoJ 2021j; 
+BoJ 2021f). 
+ 
+3 See Part of a Package key design decision for further discussion of the GFC SFSO program.  
+4 Financial institutions hold current accounts at the BoJ. Most of these deposits are reserves subject to the BoJ’s 
+reserve requirements. See (BoJ 2022) for an explanation of current account deposits. 
+In April 2 020, the BoJ said it would pay a 
+positive 0.1% interest rate on a portion of  
+a financial institution’s current account 
+balances with the central bank 
+corresponding to the amount of its SFSO 
+loans, at a time when the BoJ’s policy ra te 
+was negative 0.1%.4 
+ 
+Key Terms 
+Purpose: To “ ensure smooth private sector 
+financing and maintain stability in financial 
+markets” 
+Launch Dates Announced: March 16, 
+2020 
+Operational Date March 24, 2020 
+End Date March 31, 2022  
+Legal Authority Article 33 of the Bank of 
+Japan Act 
+Administrators Bank of Japan 
+Overall Size No announced size limit 
+Term Up to one year 
+Interest Rate 0% per annum 
+Collateral Broad variety of 
+corporate debt and 
+certain household debt  
+Peak Utilization JPY 64.8 trillion as of 
+year-end March 2021  
+1619
+Journal of Financial Crises Vol. 4 Iss. 2
+
+--- Page 5 ---
+The BoJ also added twice the amount outstanding of borrowing via the SFSO to financial 
+institutions’ “Macro Add -on Balances” (BoJ 2020i, 15 –17). Macro Add -on Balances are the 
+portion of financial institutions’ balances with the central bank that carry a zero interest rate, 
+according to the negative interest rate policy that the BoJ introduced in 2016 (BoJ 2021c).  
+Eligible SFSO participants included financial institutions that had BoJ accounts and that the 
+BoJ deemed sufficiently creditworth y, certain financial cooperatives, and the Development 
+Bank of Japan (BoJ 2020i). Counterparties could pledge as collateral a broad range of 
+corporate and private debt. Maximum loan amounts were based on the value of a financial 
+institution’s collateral. T he BoJ later said that it would also consider how much a given 
+financial institution had lent to small and medium -sized enterprises (SMEs) in response to 
+and independent of COVID -19 government incentives (BoJ 2021f). The SME lending 
+provision was one of several changes the BoJ made to the program in 2020 and 2021. 
+In March 2021, the BoJ said it would pay a premium interest rate of 0.2% in current account 
+balances that corresponded to SFSO funds against certain money lent outside of government-
+incentivized programs  (BoJ 2021h) . The BoJ called this incentive program the “Interest 
+Scheme to Promote Lending.” It continued to pay 0.1% interes t on balances corresponding 
+to other loans. 
+The BoJ’s annual Market Operations report showed outstanding SFSO loans of JPY 64.8 
+trillion (roughly USD 0.6 trillion) 5 on March 31, 2021, the end of its 2020 fiscal year (BoJ 
+2021j). The monthly time series da ta the BoJ releases do not break out SFSO lending 
+individually. Rather, the data include SFSO lending as part of aggregate loans against pooled 
+collateral, which includes lending operations conducted prior to the pandemic (BoJ 2021a).6 
+These grouped data show rapid growth in these lending programs: The BoJ’s lending in this 
+category surged to JPY 133 trillion in August 2021 from JPY 49 trillion in February 2020, a 
+month before the SFSO was activated and the COVID-19 pandemic began.7 
+Summary Evaluation 
+Analysts and researchers have published little evaluation of the SFSO. The BoJ’s 2020 Market 
+Operations report noted strong demand for the facility. The report said that the “loans were 
+utilized by a wide range of sectors and the amount outstanding of the loa ns increased 
+significantly throughout the fiscal year” (BoJ 2021j, 4). 
+Financial institutions appeared to have been actively lending to businesses, suggesting that 
+the SFSO’s operations had been effective, according to Ayaka Nakamura of the research and 
+consulting firm Daiwa Institute of Research (Nakamura 2020). The central bank attributed 
+the SFSO’s early success to the positive interest rate the BoJ paid on current account balances 
+ 
+5 Per Federal Reserve Foreign Exchange Rate data, 
+USD 1 = JPY 108 on March 2, 2020. 
+6 See Size key design decision for further discussion 
+of other BoJ special lending facilities. 
+7 See the Bank of Japan’s Account data. 
+1620
+Japan Nunn
+
+--- Page 6 ---
+corresponding to SFSO loans and the Macro Add-on Balance incentive policy, described in 
+further detail in the Interest Rates key design decision (BoJ 2021j). 
+Katsumi Ishibashi, a senior analyst at investment company Fidelity International, said in a 
+published report that the BoJ’s decision to apply positive interest rates to ou tstanding 
+balances on current accounts corresponding to lending through the SFSO provided more 
+incentive for banks to use the facility. It eased “potential negative impacts on the banks if 
+they provide further loans to corporates” (Ishibashi 2020). As Ishi bashi explains, Japanese 
+financial institutions would not need to worry about facing the BoJ’s negative interest rate 
+policy if they were to extend more loans that came back to the banks as deposits that would 
+have previously led to further increases in current account balances where banks could have 
+been charged a -0.1% interest rate (Ishibashi 2020). 
+“This subtle but meaningful change [makes] the policy framework for commercial banks 
+more consistent with the BOJ’s emergency support policy objectives and w ill help support 
+the healthier functioning of the financial system,” Ishibashi said (Ishibashi 2020). 
+The BoJ said the increased use of SFSO operations magnified the effects of the central bank’s 
+various asset purchase programs through an increase in finan cial institutions' demand for 
+collateral (BoJ 2021j). 
+  
+1621
+Journal of Financial Crises Vol. 4 Iss. 2
+
+--- Page 7 ---
+Context: Japan 2019–2020 
+GDP 
+(SAAR, nominal GDP in LCU  
+converted to USD) 
+$5.1 trillion in 2019 
+$5.2 trillion in 2020 
+GDP per capita 
+(SAAR, nominal GDP in LCU  
+converted to USD) 
+$40,778 in 2019 
+$40,193 in 2020 
+Sovereign credit rating  
+(five-year senior debt) 
+Data for 2019: 
+Moody’s: A1 
+S&P: A+u 
+Fitch: A 
+ 
+Data for 2020: 
+Moody’s: A1 
+S&P: A+u 
+Fitch: A 
+Size of banking system $7.8 trillion in 2019 
+$8.9 trillion in 2020 
+Size of banking system  
+as a percentage of GDP 
+153.63% in 2019 
+171.21% in 2020 
+Size of banking system  
+as a percentage of financial system 
+52.70% in 2019 
+53.95% in 2020 
+Five-bank concentration of banking system 39.42% in 2019 
+43.88% in 2020 
+Foreign involvement in banking system Data not available for 2019 
+Data not available for 2020 
+Government ownership of banking system Data not available for 2019 
+Data not available for 2020 
+Existence of deposit insurance Yes in 2019 
+Yes in 2020 
+Sources: Bloomberg; World Bank Global Financial Development Database; World 
+Bank Deposit Insurance Dataset. 
+1622
+Japan Nunn
+
+--- Page 8 ---
+Key Design Decisions 
+1. Purpose: The Bank of Japan created the Special Funds -Supplying Operations to 
+promote lending to Japanese businesses and households and to maintain stability 
+in financial markets. 
+Through the SFSO, the Bank of Japan (BoJ) provided loans at favorable terms to financi al 
+institutions to encourage business lending (BoJ 2021f). The program was designed to 
+“encourage financial institutions to actively facilitate financing of their client firms despite 
+their own severe business conditions” (BoJ 2020g). This, in turn, would “alleviate the anxiety 
+of business managers whose firms were experiencing a deterioration in financial positions” 
+(BoJ 2020g, 14). 
+2. Part of a Package: The BoJ created the SFSO as part of a broader suite of measures 
+to protect the Japanese economy. 
+The SFSO was one measure in the BoJ’s three -part strategy to contain the economic fallout 
+of the COVID-19 pandemic, which included: 
+1. Implementing the “Special Program to Support Financing in Response to the Novel 
+Coronavirus (COVID-19).” 
+a. Significantly increasing amounts of outright purchases of commercial paper 
+and corporate bonds. 
+b. The creation of SFSO. 
+2. Providing ample funds  in yen and foreign currencies without setting upper limits, 
+mainly through purchases of Japanese government bonds and the U.S. dollar funds -
+supplying operation through which the BoJ offered counterparties USD-denominated 
+loans. 
+3. Actively purchasing exchange-traded funds and Japanese real estate investment trust 
+instruments (BoJ 2021j, 3-6). 
+ 
+The BoJ also deferred by one year the full implementation of the finalized Basel III standards 
+and encouraged banks to use their capital and liquidity buffers .8 The Financial Services 
+Agency of Japan and the BoJ jointly eased leverage coverage requirements (Kuroda 2020b).  
+The BoJ made several changes to the SFSO as the program progressed. Figure 1 provides an 
+overview of those changes, which are discussed in further detail elsewhere in this case study. 
+ 
+ 
+8 The oversight body of the Basel Committee on Banking Supervision, a Bank for International Settlements 
+group that sets bank regulations standards, agreed to delay the implementation of Basel III standards because 
+its members wanted banks and supervisors to “commit their full resources to respond to the impact of Covid -
+19” (Bank for International Settlements 2020). 
+1623
+Journal of Financial Crises Vol. 4 Iss. 2
+
+--- Page 9 ---
+Figure 1. Timeline of Important Bank of Japan SFSO Changes 
+ 
+Change Announcement 
+ 
+ 
+Summary of Changes 
+ 
+April 27, 2020: BoJ 
+Monetary Policy Meeting 
+• Expanded the range of eligible collateral to private debt in 
+general, including asset-backed securities and interests in 
+trusts holding housing loans. 
+• Included a wider range of eligible count erparties by 
+adding, for example, financial cooperatives. 
+• Applied a positive interest rate of 0.1% to the outstanding 
+balances of current accounts held by participating 
+financial institutions at the BoJ that correspond to the 
+amounts outstanding of loans p rovided through the 
+operation. 
+• Would add t wice the amount outstanding of borrowing 
+via the SFSO to financial institutions’ Macro Add -on 
+Balances. 
+• Changed facility name to “Special Funds -Supplying 
+Operations to Facilitate Financing in Response to the 
+Novel Coronavirus (COVID -19)” from “Special Funds -
+Supplying Operations to Facilitate Corporate Financing 
+regarding the Novel Coronavirus (COVID -19)” as part of 
+various changes to better support small and medium -
+sized enterprises (SMEs). 
+May 22, 2020: 
+Unscheduled BoJ 
+Monetary Policy Meeting 
+• Extended end date to March 31, 2021. 
+• Introduced the “New Fund -Provisioning Measure” that 
+was integrated into the SFSO: The calculation of maximum 
+lending amounts to eligible counterparties from the SFSO 
+from May 2020 forward included amounts outstanding of 
+eligible loans that an institution made to SMEs. 
+December 17–18, 2020: 
+BoJ Monetary Policy 
+Meeting 
+• Extended end date to September 30, 2021. 
+• Removed upper limit on lending that the BoJ would 
+provide to each eligible  counterparty ( JPY 100 billion) 
+against loans that financial institutions made on their own 
+to eligible SMEs (outside of government -sponsored 
+programs). 
+1624
+Japan Nunn
+
+--- Page 10 ---
+March 18–19, 2021: BoJ 
+Monetary Policy Meeting 
+• Created the “Interest Scheme to Promote Lending” that 
+applied a 0.2% incentive interest rate to money in current 
+account balances that corresponds to SFSO funds against 
+certain money lent outside of government -incentivized 
+programs. It continued to apply a 0.1% interest rate for 
+other loans and the private debt pledged as collateral. 
+June 17–18, 2021: BoJ 
+Monetary Policy Meeting 
+• Extended end date to March 31, 2022. 
+ 
+Sources: Meeting minutes: BoJ 2020i; BoJ 2020h; BoJ 2021g; BoJ 2021i; BoJ 2021h. Related press 
+releases: BoJ 2020b; BoJ 2020a; BoJ  2020c; BoJ 2020d; BoJ 2020e; BoJ 2020f; BoJ 2021d; BoJ 
+2021e.  
+The BoJ activated a version of the SFSO during the Global Financial Crisis (GFC) 9. The main 
+differences between the earlier and later SFSO include (Buchholtz 2020): 
+• The COVID -19 SFSO charged a 0% loan interest rate, whereas the GFC SFSO 
+provided loans at a rate equal to the average target uncollateralized overnight call 
+rate, which was 0.1% throughout the facility’s life.  
+• By paying a positive interest rate on financial institutions’ current account 
+balances proportionate to their SFSO lending, the COVID-19 SFSO effectively paid 
+financial institutions to participate; the GFC SFSO did not include this benefit.  
+• The COVID-19 SFSO loans were available at maturities of up to a year, whereas the 
+GFC SFSO provided one- to three-month loans. 
+• The BoJ held operations once a month for most of the operation of the COVID -19 
+SFSO, whereas the central bank  eventually held operations once a  week for the 
+GFC SFSO. 
+3. Legal Authority : Article 33 of the Bank of Japan Act gives the central bank the 
+power to make loans against certain kinds of collateral. 
+Article 33 allows the BoJ to make loans against a wide variety of collateral, including 
+negotiable instruments, Japanese government securities, or in the form of electronically 
+recorded monetary claims (Bank of Japan Act 1997).10 
+ 
+9 See Buchholtz 2020, a YPFS case study documenting and evaluating the GFC SFSO program.  
+10 Japanese policymakers use the “electronically recorded” description in various policy documents because 
+the country’s financial system has been transitioning from physical certificates to electronic transactions since 
+the late 2000s (Japan Securities Depository Center 2009). Officials call this process “dematerialization,” a word 
+that is now often used to describe certain assets, such as dematerialized commercial paper (BoJ 2000). 
+1625
+Journal of Financial Crises Vol. 4 Iss. 2
+
+--- Page 11 ---
+4. Governance: The Bank of Japan Act requires the central bank to submit a biannual 
+report detailing its operations to the Japanese legislature. 
+The biannual reports must detail the currency and monetary policy measures the BoJ takes, 
+such as interest rate moves and reserve requirement ratio changes (Bank of Japan Act 1997; 
+BoJ 2021b). 
+5. Administration: The BoJ implemented the program. 
+The BoJ’s Operations Department administered the SFSO (BoJ 2021f). The central bank did 
+not appear to use a third party to help implement the SFSO. 
+6. Communication: BoJ officials said the SFSO would encourage financial institutions 
+to play a necessary intermediation role in the Japanese economy, which would 
+alleviate businesses’ financing concerns. It increasingly emphasized the benefits 
+for small businesses and households. 
+By encouraging lending via the SFSO, the BoJ said , the program would provide a “sense of 
+security” to both market participants and the Japanese public (Kuroda 2020a, 4). 
+BoJ officials initially positioned the SFSO as a corporate financing facility (BoJ 2020g) but 
+removed the word “corporate” from the facility’s title in April 2020 as it attempted to reach 
+smaller businesses (BoJ 2020i, 16–17). In May 2020, a member of the BoJ’s Policy Board said 
+it was imperative that the BoJ clarify that the program’s targets were “wide -ranging, from 
+large firms to sole proprietors” (BoJ 2020h, 5). BoJ policymakers said that by supporting the 
+country’s financial institutions, the facility also supported firms and households (BoJ 2021j). 
+Officials also said that the increased use of the SFSO magnified the effects of the BoJ’s various 
+asset purchase programs by increasing financial institutions’ demand for collateral (BoJ 
+2021j). 
+7. Disclosure: The Bank of Japan Act requires the central bank to publish its business 
+operations and balance sheet annually. 
+The BoJ exceeds this responsibility, releasing balance sheet updates every 10 days (Bank of 
+Japan Act 1997; BoJ 2021b). The BoJ does not report SFSO transaction-level data. 
+8. Use of SPV: This key design decision does not apply to the SFSO. 
+This key design decision does not apply to the SFSO. 
+9. Size: The SFSO did not have an overall predetermined size, but policymakers did 
+limit the total amount that eligible counterparties could borrow. 
+Though BoJ officials did not set an explicit overall lending limit for the SFSO, the facility is 
+capped by the pool of available collateral that meets the central bank’s requirements (BoJ 
+1626
+Japan Nunn
+
+--- Page 12 ---
+2021f). The BoJ expanded the range of SFSO eligible collateral and eligible co unterparties 
+during its April 2020 monetary policy meeting (BoJ 2020i). 
+Policymakers did limit how much individual counterparties could borrow from the SFSO. This 
+maximum is the sum of an institution’s collateral pledged to the SFSO plus its total amount 
+of loans outstanding to SMEs through (or similar to) certain government programs  (BoJ 
+2021f).11 See Loan Amounts key design decision for further discussion of the calculation of 
+individual lending limits. 
+BoJ policymakers added the SME loan portion of the calculation as part of its broader efforts 
+to support smaller enterprises (BoJ 2020h). This was one of several tweaks BoJ officials 
+made to its maximum lending amount policy ( see Figure 1). For example, when the central 
+bank first activated the SFSO in early 2020, the BoJ’s calculation included just corporate debt 
+(BoJ 2020a), but it later updated the calculation to include a broader variety of collateral, 
+which expanded the maximum amount certain counterparties could borrow from the SFSO 
+(BoJ 2020i). 
+The BoJ’s 2020 Market Operations report showed SFSO outstanding loans totaled JPY 64.8 
+trillion on March 31, 2021, the end of its 2020 fiscal year (BoJ 2021j). The monthly time 
+series data the BoJ releases do not break out SFSO lending individually. Rather, the data 
+include SFSO lending as part of aggregate loans against pooled collateral, which include 
+lending operations conducted prior to the pandemic. 12 These grouped data show rapid 
+growth in these lending programs: The BoJ’s lending in this category surged to  JPY 133 
+trillion in August 2021 from JPY 49 trillion in February 2020, a month before  the COVID-19 
+pandemic began and the SFSO was activated and (see Figure 2).13  
+  
+ 
+11 For example, the Ministry of Economy, Trade and Industry created a program supporting SME financing by 
+guaranteeing 80% of eligible loans to eligible SMEs (Ministry of Economy, Trade and Industry 2020) . 
+12 An example of a facility grouped with the SFSO in BoJ reporting is t he BoJ’s “Funds-Supplying Operations 
+against Pooled Collateral,” which was created in 2006 to facilitate money market operations by substituting the 
+previously paper -based bill -purchasing operations with paperless operations against poole d collate ral (BoJ 
+2006). Another example is the “Funds-Supplying Operation to Support Financial Institutions in Disaster Areas 
+of the 2016 Kumamoto Earthquake ” facility, created in 2016 to support financial institutions in areas hit by 
+natural disasters to help meet demand for rebuilding funds (BoJ 2016). 
+13 See the Bank of Japan’s Account data. 
+1627
+Journal of Financial Crises Vol. 4 Iss. 2
+
+--- Page 13 ---
+Figure 2. Loans by Funds-Supplying Operations Against Pooled Collateral 
+ 
+Date 
+ 
+Source: Bank of Japan Accounts. 
+When the program launched in March 2020, primarily city banks, trust banks, and money 
+market brokers (called tanshi companies) borrowed through the SFSO (BoJ 2021j). Regional 
+banks and financial credit cooperatives, known as  shinkin banks, began using the facility as 
+the BoJ broadened counterparty eligibility in April 2020 (BoJ 2021j). Use of the SFSO by 
+regional banks increased substantially after the BoJ expanded eligible collateral to include 
+private debt, and in particula r beneficial interests of a trust in house loans (BoJ 2021j) (see 
+Figure 3). 
+  
+1628
+Japan Nunn
+
+--- Page 14 ---
+Figure 3. Amounts Outstanding of Special Operations in Response to COVID -19 by 
+Sector 
+ 
+Source: Bank of Japan. 
+10. Sources of Funding: The BoJ expanded its balance sheet to lend to financial 
+institutions via the SFSO. 
+The BoJ’s balance sheet expanded to JPY 714.6 trillion at the end of March 2021, up from JPY 
+110.1 trillion a year earlier at the start of the pandemic (BoJ 2021j).  
+The BoJ has aggressively and innovatively used its balance sheet to conduct unconventional 
+monetary policy and secure financial stability since the late 1990s, when it purchased asset-
+backed securities and asset-backed commercial paper to ease credit conditions (Shiratsuka 
+2010). Other major central banks, such as the US Federal Reserve and the European Central 
+Bank, took similar actions nearly a decade later during the GFC (Logan and Bindseil 2019). 
+11. Eligible Institutions: Eligible SFSO participants included financial institutions 
+with BoJ accounts that the BoJ deemed sufficiently creditworthy, the Development 
+Bank of Japan, and certain financial cooperatives. 
+SFSO eligibility was initially limited to financial institutions with BoJ accounts that the BoJ 
+deemed creditworthy (BoJ 2020a). The standards by which the BoJ examined and deemed a 
+potential counterparty sufficiently creditworthy are unclear with available documentation. 
+1629
+Journal of Financial Crises Vol. 4 Iss. 2
+
+--- Page 15 ---
+In late April 2020, BoJ officials broadened eligibility to include the Development Bank of 
+Japan and member banks of financial cooperative central organizations (BoJ 2020i).14 These 
+member institutions resemble credit unions in the US and disproportionately lend to SMEs. 
+Financial cooperative member institutions wanting to tap the SFSO had to work through 
+their cooperative’s parent org anizations. The BoJ provided a separate set of rules that the 
+parent organizations had to use to tap SFSO funding for their member institutions. For 
+example, the parent organization had to request, in advance, their member institutions’ 
+collateral offerings (BoJ 2020j). 
+12. Auction or Standing Facility: The SFSO was a standing lending facility through 
+which the BoJ held operations at least once a month. 
+The BoJ initially held SFSO operations twice a month through August 2020 and scaled them 
+back to once a month  from September 2020 onward (BoJ 2021j). The BoJ held operations 
+once a week for the GFC SFSO (Buchholtz 2020). 
+13. Loan or Purchase: The SFSO provides interest-free loans to certain counterparties 
+against eligible collateral. 
+The BoJ structured the SFSO’s lending terms to encourage counterparties to lend to Japan’s 
+broader business community (BoJ 2021f). 
+14. Eligible Assets: BoJ policymakers allowed a broad range of collateral, including 
+corporate and private debt. The  BoJ structured the SFSO’s lending terms to 
+encourage counterparties to lend to Japan’s broader business community. 
+Initially, the SFSO accepted only corporate debt, but after its April 2020 monetary policy 
+meeting, the BoJ broadened the list of eligible collateral to include the following (BoJ 2020i; 
+BoJ 2021f):  
+• Corporate bonds; 
+• Dematerialized commercial paper issued by domestic corporations, foreign 
+corporations with guarantees, and real estate investment corporations, in 
+addition to non-electronic commercial paper; 
+• Asset-backed securities; 
+• Dematerialized asset-backed commercial paper; 
+• Bonds issued by real estate investment corporations; 
+ 
+14 The central organizations include the Shinkin Central Bank, the Shinkumi Federation Bank, the Rokinren 
+Bank, and the Norinchukin Bank (BoJ 2020j). 
+1630
+Japan Nunn
+
+--- Page 16 ---
+• Bills drawn by companies and real estate investment corporations; 
+• Electronically recorded monetary claims on companies and on real estate 
+investment corporations; 
+• Loans on deeds to companies (including those denominated in USD) and to real 
+estate investment corporations; and 
+• Beneficial interests of a trust in housing loans. 
+The assets also had to meet standards outlined in the BoJ’s eligible collateral guidelines. The 
+BoJ sets these guidelines to enhance transparency, protect itself from losses, and implement 
+monetary and currency policy (BoJ 2000; BoJ 2009). The guidelines vary by asset type and 
+include maturity limits, credit worthiness standards, limitations on the types of underlying 
+investments, and the structure of the assets themselves (BoJ 2000).15 
+The GFC SFSO also accepted a broad range of corporate debt as collateral (Buchholtz 2020). 
+15. Loan Amounts: The BoJ limited individual loan amounts to the sum of eligible 
+pledged collateral and the amounts outstanding of loans made by eligible 
+counterparties to SMEs in response to COVID-19. 
+This maximum amount for an individual financial institution was calculated by summing 
+(BoJ 2021f): 
+(1) The t otal value of eligible collateral  pledged to the SFSO at the time of the loan 
+disbursement;16 
+(2) The amount of loans outstanding to SMEs in response to COVID -19 through credit 
+guarantees by the country’s guarantee corporations or the program to 
+reduce/exempt interest rates; and 
+(3) The amount outstanding of SME loans that are equivalent to the funds lent through 
+the previously mentioned govern ment initiatives  but that an institution lent out 
+independent of such programs. 
+At the time the loan was disbursed, this sum could not exceed the unused value of the total 
+pool of eligible collateral pledged by all borrowers to the BoJ (BoJ 2021f). The BoJ initially 
+placed a JPY 100 billion (roughly USD 1 billion) limit on funds  that it would offer 
+counterparties against loans made to SMEs on their own (outside of government programs). 
+It later removed this limit to encourage broader lending to SMEs (BoJ 2021j). 
+ 
+15 See BoJ (2000) for a list of full requirements. 
+16 Maximum loan amount rules for financial cooperatives were nearly identical to the rules for other financial 
+institutions, with one exception. In calculating the maximum loan figure, cooperatives would use 50% of the 
+face value of eligible private debt. This 50% rule does not apply to COVID-19-related lending outlined in points 
+2 and 3 of the calculation, just point 1 (BoJ 2020j). 
+1631
+Journal of Financial Crises Vol. 4 Iss. 2
+
+--- Page 17 ---
+The GFC SFSO was similar to the COVID -19 SFSO in that counterparties ’ borrowing  was 
+limited by the total value of corporate debt collateral available (Buchholtz 2020). 
+16. Haircuts or Purchase Price: The BoJ priced collateral using historical market price 
+fluctuations and the assets’ residual maturity. 
+The BoJ  uses historical market price fluctuations (actual or estimated) and the asset’s 
+residual maturity to calculate the margin on eligible collateral (BoJ 2000). The BoJ used a 
+similar formula to price collateral for its GFC SFSO (Buchholtz 2020). 
+17. Interest Rates: SFSO loans were interest-free, but the BoJ effectively paid financial 
+institutions to participate in the program through important changes to the SFSO’s 
+terms. 
+Financial institutions paid no interest on loans in the COVID -19 SFSO program. In contrast, 
+the GFC SFSO provided loans at a rate equal to the average target uncollateralized overnight 
+call rate (Buchholtz 2020). Throughout 2020, the short-term prime lending rate adopted by 
+the largest number of city banks, a measure the BoJ uses to track rates, was 1.48%.17 
+However, the BoJ effectively paid financial institutions to use the COVID-19 SFSO program 
+by implementing important changes to the facility’s terms (BoJ 2020i).  
+First, the BoJ said in April 2020 that it would pay a positive 0.1% interest rate  on a portion 
+of a financial institution’s current account balances with the central bank corresponding to 
+the amount of its SFSO loans, at a time when the BoJ’s policy rate was negative 0.1%. 
+Second, the BoJ agreed to add twice the amount outstanding of b orrowing via the SFSO to 
+financial institutions’ “Macro Add-on Balances” (BoJ 2020i, 15–17). Macro Add-on Balances 
+are the portion of financial institutions’ balances with the central bank that carry a zero 
+interest rate, according to the negative interest  rate policy that the BoJ introduced in 2016. 
+The BoJ applies negative interest rates to the portion of financial institutions’ balances that 
+it calls the “Policy -Rate Balances” tier. It applies a positive interest rate to the “Basic 
+Balances” tier (BoJ 20 21c). The Policy -Rate Balance is the balance in excess of the Basic 
+Balance and Macro Add-on Balance.18 
+The BoJ increased these incentives in March 2021 with the “Interest Scheme to Promote 
+Lending” (BoJ 2021h, 35–36). Under this new incentive structure, the BoJ applied a positive 
+0.2% incentive interest rate to money in current account balances that corresponds to SFSO 
+funds against certain money lent outside of government-incentivized programs. The central 
+bank continued to apply a positive 0.1% interest rate to funds provided through the SFSO 
+against other eligible loans and the private debt pledged as collateral (BoJ 2021h). 
+The BoJ said it would raise incentives when policymakers lower the central bank’s short -
+term policy interest rate, potentially miti gating “the impact on financial institutions ’ profits 
+ 
+17 See Bank of Japan historical prime lending rates data. 
+18 See (BoJ 2021j, 25–26) for further explanation of the tiering system. 
+1632
+Japan Nunn
+
+--- Page 18 ---
+to a certain degree at the time of rate cuts” (Kuroda 2021, 6 –7). The more a bank makes 
+qualifying loans, the more funds in that bank’s current account that will receive a 0.2% 
+interest rate, offsetting the impact of the given negative rate. 
+18. Fees: The BoJ did not appear to charge fees. 
+The central bank did not charge fees for SFSO loans (BoJ 2021f). 
+19. Loan Maturity: SFSO loan maturities were under one year. 
+The SFSO’s terms limited maturities to a year ( BoJ 2021f), but the central bank in practice 
+used shorter-term maturities, initially three months and later extended to six months (BoJ 
+2021j). The GFC SFSO, in contrast, provided one- to three-month loans (Buchholtz 2020). 
+20. Other Restrictions on Eligible Participants: The BoJ required financial cooperative 
+parent organizations to monitor their member financial institutions’ credit risk 
+standards.  
+The BoJ required that financial cooperative parent organizations ensure adequate credit risk 
+standards of their  member financial institutions that receive d SFSO funding . BoJ officials 
+reserved the right to suspend loan disbursements to parent organizations if they did not 
+adhere to SFSO rules (BoJ 2020j). 
+The central bank did not appear to impose restrictions on ot her SFSO participants. Overall, 
+the BoJ reserved the right to exclude otherwise eligible counterparties  from SFSO 
+participation if the central bank deemed the measure prudent (BoJ 2021f). 
+21. Regulatory Relief: This key design decision does not apply to the SFSO. 
+This key design decision does not apply to the SFSO. 
+22. International Coordination: This key design decision does not apply to the SFSO. 
+This key design decision does not apply to the SFSO. 
+23. Duration: Lending through the SFSO was expected to end on March 31, 2022.  
+BoJ officials planned to stop accepting new applications for loans through the SFSO on March 
+31, 2022 (BoJ 2021i). Policymakers extended this deadline multiple times since the SFSO’s 
+initial activation (see Figure 1). 
+During the April 2020 monetary policy meeting, BoJ Governor Haruhiko Kuroda asked BoJ  
+staff to consider measures that would enhance the central bank’s easing policies and support 
+Japanese businesses (BoJ 2020i). Days before an unscheduled Policy Board meeting in which 
+the SFSO’s deadline was extended to March 2021, Governor Kuroda publicly  expressed 
+concerns that corporate financing conditions were not adequately accommodative, citing 
+rising commercial paper issuance rates and broad deterioration in financial positions across 
+firm size (Kuroda 2020a; BoJ 2020h). He said that because “the ec onomy [was] in an 
+1633
+Journal of Financial Crises Vol. 4 Iss. 2
+
+--- Page 19 ---
+increasingly severe situation, the stress on the financial system [had] been growing in Japan” 
+and though “tension in financial markets [had] abated somewhat, the markets have 
+remained nervous due to a decline in liquidity” (Kuroda 2020a, 3). 
+The BoJ in December 2020 extended the SFSO’s deadline six months to September 30, 2021, 
+because Policy Board members predicted that business financing conditions would remain 
+stressed because of the government’s continued COVID-19 mitigation measures (BoJ 2021g). 
+The Policy Board in June 2021 extended the program’s duration another six months to March 
+31, 2022, because the move would “indicate its direction to financial institutions early and 
+give a sense of security, mainly to firms that received loan s from these institutions” (BoJ 
+2021i, 17; 26). 
+ 
+  
+1634
+Japan Nunn
+
+--- Page 20 ---
+References and Key Program Documents 
+Documents cited in the text are introduced with a parenthetical author -date citation. 
+Documents that are relevant to this case but have not been cited in text do not in clude this 
+parenthetical reference. 
+Program Summaries 
+(Kuroda 2020a) Kuroda, Haruhiko. May 14, 2020. “Novel Coronavirus (COVID-19): 
+Economic and Financial Developments and the Responses Taken by the Bank of Japan.” 
+Speech presented at the Webcast Hosted by the Naigai Josei Chosa Kai (Research Institute 
+of Japan), Virtual, May 14. 
+Bank of Japan Governor Kuroda speech regarding the central bank’s response to the COVID-
+19 economic downturn. 
+https://ypfs.som.yale.edu/library/novel-coronavirus-covid-19-economic-and-financial-
+developments-and-responses-taken-bank 
+(Kuroda 2020b) Kuroda, Haruhiko. June 26, 2020. “The Impact of COVID-19 on the 
+Japanese Economy and the Bank of Japan’s Response.” Speech presented at the Event Co-
+Hosted by Harvard Law School and the Program on International Financial Systems, 
+Virtual, June 26. 
+Bank of Japan Governor Kuroda speech regarding the central bank’s response to the COVID-
+19 economic downturn. 
+https://ypfs.som.yale.edu/library/impact-covid-19-japanese-economy-and-bank-japans-
+response 
+(Kuroda 2021) Kuroda, Haruhiko. March 30, 2021. “Further Effective and Sustainable 
+Monetary Easing.” Webcast Speech presented at the Kisaragi-kai Meeting, Virtual, March 
+30. 
+Bank of Japan Governor Kuroda speech regarding the central bank’s updated approach to 
+interest rate policy and how it encourages financial institutions to lend. 
+https://ypfs.som.yale.edu/library/further-effective-and-sustainable-monetary-easing 
+Implementation Documents 
+(BoJ 2000) Bank of Japan (BoJ). October 13, 2000. “Guidelines on Eligible Collateral.” 
+Webpage. 
+Bank of Japan webpage detailing the central bank’s collateral policy. 
+https://ypfs.som.yale.edu/library/guidelines-eligible-collateral-0 
+(BoJ 2009) Bank of Japan (BoJ). May 22, 2009. “Collateral Guidelines on Eligible Foreign 
+Bonds.” Webpage. 
+Bank of Japan webpage detailing the central bank’s foreign bond collateral. 
+https://ypfs.som.yale.edu/library/collateral-guidelines-eligible-foreign-bonds 
+(BoJ 2020a) Bank of Japan (BoJ). March 16, 2020. “Establishment of ‘Principal Terms and 
+Conditions of the Special Funds-Supplying Operations to Facilitate Corporate Financing 
+1635
+Journal of Financial Crises Vol. 4 Iss. 2
+
+--- Page 21 ---
+Regarding the Novel Coronavirus (COVID-19).’” Press Release. 
+Bank of Japan press release detailing the SFSO’s initial terms and conditions. 
+https://ypfs.som.yale.edu/library/establishment-principal-terms-and-conditions-special-
+funds-supplying-operations-0 
+(BoJ 2020b) Bank of Japan (BoJ). March 16, 2020. “Introduction of the Special Funds-
+Supplying Operations to Facilitate Corporate Financing Regarding the Novel Coronavirus 
+(COVID-19).” Press Release. 
+Bank of Japan press release announcing the SFSO. 
+https://ypfs.som.yale.edu/library/introduction-special-funds-supplying-operations-
+facilitate-corporate-financing-regarding 
+(BoJ 2020c) Bank of Japan (BoJ). April 27, 2020. “Strengthening of the Special Funds-
+Supplying Operations to Facilitate Financing in Response to the Novel Coronavirus (COVID-
+19).” Press Release. 
+Bank of Japan press release announcing various changes to SFSO policy, including expanding 
+the range of eligible collateral and increasing the number of eligible counterparties. 
+https://ypfs.som.yale.edu/library/strengthening-special-funds-supplying-operations-
+facilitate-financing-response-novel 
+(BoJ 2020d) Bank of Japan (BoJ). May 1, 2020. “Establishment of ‘Special Rules for Member 
+Financial Institutions of Central Organizations of Financial Cooperatives to Use the Special 
+Funds-Supplying Operations to Facilitate Financing in Response to the Novel Coronavirus 
+(COVID-19).’” Press Release. 
+Bank of Japan press release announcing rules for financial cooperatives participating in the 
+SFSO. 
+https://ypfs.som.yale.edu/library/establishment-special-rules-member-financial-
+institutions-central-organizations-financial 
+(BoJ 2020e) Bank of Japan (BoJ). May 22, 2020. “Amendment to ‘Principal Terms and 
+Conditions of the Special Funds-Supplying Operations to Facilitate Financing in Response 
+to the Novel Coronavirus (COVID-19).’” Press Release. 
+Bank of Japan press release announcing SFSO changes meant to encourage SME lending. 
+https://ypfs.som.yale.edu/library/amendment-principal-terms-and-conditions-special-
+funds-supplying-operations-facilitate 
+(BoJ 2020f) Bank of Japan (BoJ). December 18, 2020. “Amendment to ‘Principal Terms and 
+Conditions of the Special Funds-Supplying Operations to Facilitate Financing in Response 
+to the Novel Coronavirus (COVID-19).’” Press Release. 
+Bank of Japan press release announcing the SFSO’s new end date. 
+https://ypfs.som.yale.edu/library/amendment-principal-terms-and-conditions-special-
+funds-supplying-operations-facilitate-0 
+(BoJ 2020j) Bank of Japan. April 27, 2020. “Special Rules for Member Financial Institutions 
+of Central Organizations of Financial Cooperatives to Use the Special Funds-Supplying 
+Operations to Facilitate Financing in Response to the Novel Coronavirus (COVID-19).” 
+1636
+Japan Nunn
+
+--- Page 22 ---
+Special Rules. 
+Bank of Japan webpage detailing special SFSO rules for financial cooperatives. 
+https://ypfs.som.yale.edu/library/document/special-rules-member-financial-institutions-
+central-organizations-financial 
+(BoJ 2021a) Bank of Japan (BoJ). 2021. “Notes on Statistics.” Webpage. 
+Bank of Japan webpage explaining the Bank of Japan’s statistics. 
+https://ypfs.som.yale.edu/library/notes-statistics 
+(BoJ 2021b) Bank of Japan (BoJ). 2021. “Webpage: Bank of Japan Accounts (Every Ten 
+Days).” Webpage. 
+Bank of Japan account data webpage. 
+https://ypfs.som.yale.edu/library/webpage-bank-japan-accounts-every-ten-days 
+(BoJ 2021c) Bank of Japan (BoJ). 2021. “What Is the Complementary Deposit Facility? How 
+Does a Negative Interest Rate Applied to Current Accounts at the Bank Affect Financial 
+Markets?” Webpage. 
+Bank of Japan webpage explaining the central bank’s current account interest rate policy. 
+https://ypfs.som.yale.edu/library/document/what-complementary-deposit-facility-how-
+does-negative-interest-rate-applied 
+(BoJ 2021d) Bank of Japan (BoJ). March 19, 2021. “Establishment of ‘Principal Terms and 
+Conditions of the Interest Scheme to Promote Lending.’” Press Release. 
+Bank of Japan press release announcing changes to SFSO interest rate lending incentives. 
+https://ypfs.som.yale.edu/library/establishment-principal-terms-and-conditions-interest-
+scheme-promote-lending 
+(BoJ 2021e) Bank of Japan (BoJ). June 18, 2021. “Amendment to ‘Principal Terms and 
+Conditions of the Special Funds-Supplying Operations to Facilitate Financing in Response 
+to the Novel Coronavirus (COVID-19).’” Press Release. 
+Bank of Japan press release announcing the extension of the SFSO’s new loan application 
+deadline. 
+https://ypfs.som.yale.edu/library/amendment-principal-terms-and-conditions-special-
+funds-supplying-operations-facilitate-1 
+(BoJ 2021f) Bank of Japan (BoJ). June 18, 2021. “Principal Terms and Conditions of the 
+Special Funds-Supplying Operations to Facilitate Financing in Response to the Novel 
+Coronavirus (COVID-19).” Terms and Conditions. 
+Bank of Japan SFSO terms and conditions. 
+https://ypfs.som.yale.edu/library/principal-terms-and-conditions-special-funds-
+supplying-operations-facilitate-financing 
+Legal/Regulatory Guidance 
+(Bank for International Settlements 2020) Bank for International Settlements. March 27, 
+2020. “Governors and Heads of Supervision Announce Deferral of Basel III Implementation 
+to Increase Operational Capacity of Banks and Supervisors to Respond to Covid-19.” Press 
+1637
+Journal of Financial Crises Vol. 4 Iss. 2
+
+--- Page 23 ---
+Release. 
+Bank for International Settlements press release announcing the deferral of Basel III 
+implementation. 
+https://ypfs.som.yale.edu/library/document/governors-and-heads-supervision-
+announce-deferral-basel-iii-implementation 
+(BoJ 2006) Bank of Japan (BoJ). April 11, 2006. “Introduction of Funds-Supplying 
+Operations against Pooled Collateral.” Announcement. 
+Bank of Japan announcement detailing a then-newly established funds-supplying operation 
+against pooled collateral. 
+https://ypfs.som.yale.edu/library/introduction-funds-supplying-operations-against-
+pooled-collateral 
+(BoJ 2016) Bank of Japan (BoJ). April 28, 2016. “Principal Terms and Conditions for the 
+Funds-Supplying Operation to Support Financial Institutions in Disaster Areas of the 2016 
+Kumamoto Earthquake (Invalid).” Terms and Conditions. 
+Bank of Japan terms and conditions regarding one of its funds-supplying loan operations. 
+https://ypfs.som.yale.edu/library/principal-terms-and-conditions-funds-supplying-
+operation-support-financial-institutions 
+(BoJ 2022) Bank of Japan (BoJ). 2022. “What Are Current Account Deposits at the Bank? 
+Are Interest Rates Applied to the Deposits?” Webpage. 
+Bank of Japan webpage explaining current account deposits at the central bank. 
+https://ypfs.som.yale.edu/library/document/what-are-current-account-deposits-bank-
+are-interest-rates-applied-deposits 
+(Bank of Japan Act 1997) Bank of Japan Act. 1997. “Bank of Japan Act of 1997.” Law Act No. 
+89 of June 18, 1997. 
+Government act establishing the Bank of Japan and outlining its responsibilities. 
+https://ypfs.som.yale.edu/library/bank-japan-act-unofficial-english-translation 
+(Japan Securities Depository Center 2009) Japan Securities Depository Center. 2009. 
+“Annual Report 2008.” Annual Report. 
+JASDEC annual report. 
+https://ypfs.som.yale.edu/library/document/annual-report-2008 
+Press Releases/Announcements 
+(Ministry of Economy, Trade and Industry 2020)  Ministry of Economy, Trade and Industry. 
+April 24, 2020. “Scope of SMEs Targeted for Financial Assistance Due to Novel Coronavirus 
+Expanded.” News Release. 
+Ministry of Economy, Trade and Industry news release regarding SME support programs. 
+https://ypfs.som.yale.edu/library/document/scope-smes-targeted-financial-assistance-
+due-novel-coronavirus-expanded 
+1638
+Japan Nunn
+
+--- Page 24 ---
+Reports/Assessments 
+(BoJ 2020g) Bank of Japan (BoJ). May 1, 2020. “Minutes of the Monetary Policy Meeting on 
+March 16, 2020.” Meeting Minutes. 
+Bank of Japan March 16, 2020, monetary policy meeting minutes. 
+https://ypfs.som.yale.edu/library/minutes-monetary-policy-meeting-march-16-2020 
+(BoJ 2020h) Bank of Japan (BoJ). May 22, 2020. “Minutes of the Monetary Policy Meeting on 
+May 22, 2020.” Meeting Minutes. 
+Bank of Japan May 22, 2020, monetary policy meeting minutes. 
+https://ypfs.som.yale.edu/library/minutes-monetary-policy-meeting-may-22-2020 
+(BoJ 2020i) Bank of Japan (BoJ). June 19, 2020. “Minutes of the Monetary Policy Meeting on 
+April 27, 2020.” Meeting Minutes. 
+Bank of Japan April 27, 2020, monetary policy meeting minutes. 
+https://ypfs.som.yale.edu/library/minutes-monetary-policy-meeting-april-27-2020 
+(BoJ 2021g) Bank of Japan (BoJ). January 26, 2021. “Minutes of the Monetary Policy 
+Meeting on December 17 and 18, 2020.” Meeting Minutes. 
+Bank of Japan December 17-18, 2020, monetary policy meeting minutes. 
+https://ypfs.som.yale.edu/library/minutes-monetary-policy-meeting-december-17-and-
+18-2020 
+(BoJ 2021h) Bank of Japan (BoJ). May 6, 2021. “Minutes of the Monetary Policy Meeting on 
+March 18 and 19, 2021.” Meeting Minutes. 
+Bank of Japan March 2021 monetary policy meeting minutes. 
+https://ypfs.som.yale.edu/library/document/minutes-monetary-policy-meeting-march-
+18-and-19-2021 
+(BoJ 2021i) Bank of Japan (BoJ). July 21, 2021. “Minutes of the Monetary Policy Meeting on 
+June 17 and 18, 2021.” Meeting Minutes. 
+Bank of Japan June 17-18, 2021, monetary policy meeting minutes. 
+https://ypfs.som.yale.edu/library/minutes-monetary-policy-meeting-june-17-and-18-
+2021 
+(BoJ 2021j) Bank of Japan (BoJ). September 2021. “Market Operations in Fiscal 2020.” 
+Bank of Japan report on its market operations in fiscal year 2020. 
+https://ypfs.som.yale.edu/library/market-operations-fiscal-2020 
+(Ishibashi 2020) Ishibashi, Katsumi. April 27, 2020. “The BOJ Expands Purchases and Eases 
+Further.” Fidelity International report. 
+Fidelity International report analyzing Bank of Japan policy changes. 
+https://ypfs.som.yale.edu/library/boj-expands-purchases-and-eases-further 
+(Nakamura 2020) Nakamura, Ayaka. July 8, 2020. “Effectiveness of Expanding COVID-19 
+Finance Operations.” Daiwa Institute of Research report. 
+1639
+Journal of Financial Crises Vol. 4 Iss. 2
+
+--- Page 25 ---
+Daiwa Institute of Research paper examining Bank of Japan SFSO terms changes. 
+https://ypfs.som.yale.edu/library/effectiveness-expanding-covid-19-finance-operations 
+Key Academic Papers 
+(Buchholtz 2020) Buchholtz, Alec. 2020. “Japan’s Special Funds-Supplying Operations 
+(Japan GFC).” Journal of Financial Crises 2 (3): 421–36. 
+YPFS case study analyzing the GFC SFSO. 
+(Logan and Bindseil 2019) Logan, Lorie, and Ulrich Bindseil. October 2019. “Large Central 
+Bank Balance Sheets and Market Functioning.” Markets Committee Report. 
+Bank for International Settlements paper studying the unprecedented scale of balance sheet 
+expansion during the Global Financial Crisis and its aftermath. 
+https://ypfs.som.yale.edu/library/large-central-bank-balance-sheets-and-market-
+functioning 
+(Shiratsuka 2010) Shiratsuka, Shigenori. January 2010. “Size and Composition of the 
+Central Bank Balance Sheet: Revisiting Japan’s Experience of the Quantitative Easing 
+Policy.” Dallas Federal Reserve Working Paper No. 42. 
+Dallas Federal Reserve paper examining the Bank of Japan’s initial quantitative easing 
+experiences. 
+https://ypfs.som.yale.edu/library/size-and-composition-central-bank-balance-sheet-
+revisiting-japans-experience-quantitative 
+Copyright 2022 © Yale University. All rights reserved. To order copies of this material or to receive 
+permission to reprint any or all of t his document, please contact the Yale Program on Financial 
+Stability at ypfs@yale.edu. 
+1640
+Japan Nunn

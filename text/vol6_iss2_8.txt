@@ -1,0 +1,170 @@
+--- Page 1 ---
+Journal of Financial Crises Journal of Financial Crises 
+Volume 6 Issue 2 
+2024 
+Lessons Learned: Guillermo Ortiz Martínez Lessons Learned: Guillermo Ortiz Martínez 
+Mercedes Cardona 
+Follow this and additional works at: https://elischolar.library.yale.edu/journal-of-financial-crises 
+ Part of the Economic History Commons, Finance and Financial Management Commons, Policy 
+Design, Analysis, and Evaluation Commons, Policy History, Theory, and Methods Commons, Public 
+Administration Commons, Public Affairs Commons, and the Public Policy Commons 
+Recommended Citation Recommended Citation 
+Cardona, Mercedes (2024) "Lessons Learned: Guillermo Ortiz Martínez," Journal of Financial Crises: Vol. 6 
+: Iss. 2, 111-114. 
+DOI: https://doi.org/10.17132/2693-3179.1566 
+Available at: https://elischolar.library.yale.edu/journal-of-financial-crises/vol6/iss2/8 
+This Lessons Learned is brought to you for free and open access by the Journal of Financial Crises and 
+EliScholar – A Digital Platform for Scholarly Publishing at Yale. For more information, please contact 
+journalfinancialcrises@yale.edu.
+
+--- Page 2 ---
+READERS TAKE NOTICE: READERS TAKE NOTICE: 
+As of April 2024, the YPFS Resource Library’s site domain has changed 
+to https://elischolar.library.yale.edu/ypfs-financial-crisis-resource-library/. 
+Please be aware that upon clicking any of the URL references to 
+the former Resource Library domains, either https://ypfs.som.yale.edu 
+or https://ypfsresourcelibrary.blob.core.windows.net/, in the 
+"References/Key Program Documents" section of a case study, 
+readers will encounter a "page not found" error. readers will encounter a "page not found" error. 
+Readers can still retrieve a given resource cited within this case study 
+on the new site  by searching by searching here  for the title cited. for the title cited. 
+This lessons learned is available in Journal of Financial Crises: https://elischolar.library.yale.edu/journal-of-financial-
+crises/vol6/iss2/8
+
+--- Page 3 ---
+Yale Program on Financial Stability 
+Lessons Learned 
+ 
+   
+ 
+Guillermo Ortiz Martínez 
+By Mercedes Cardona 
+Guillermo Ortiz Mart ínez served as undersecretary of finance and public credit in Mexico’s 
+federal government from 1988 to 1994 . He  became secretary in December 1994 in the 
+administration of Ernesto Zedillo and served until December 1997. As undersecretary, he was 
+president of the bank privatization committee and the chief negotiator for Mexico during the 
+North American Free Trade Agreement ( NAFTA) negotiations in 1991 t o 1993.  He was 
+governor of the Bank of Mexico from January 1998 to December 2009 and is currently partner 
+and member of the board of BTG Pactual , a Brazilian investment bank . This Lesson Learned  
+summary is based on an interview with Ortiz Martínez held on June 8, 2022; the full transcript 
+may be accessed here. 
+Regulatory lapses, especially relating to capital adequacy and credit quality, can have 
+enormous, long-lasting consequences and create systemic weaknesses. 
+On December 1994, as part of a restructuring of the banking system, the Mexican 
+government unexpectedly abandoned its policy of anchoring the peso to the US dollar and 
+allowed it to float freely, triggering a financial crisis. Faced with a possible default  on its 
+dollar-denominated bonds ( tesobonos), Mexico negotiated a $50 billion assistance package 
+with the United States  and International Monetary Fund  (IMF). Austerity measures to 
+control the crisis caused significant economic hardships, but by 1996 –97, the economy had 
+rebounded and Mexico paid back all outstanding obligations.  
+The so-called Tequila Crisis had an aspect in common with other crises around the world : 
+regulatory failure. The Mexican government had privatized the financial system  after 
+liberalizing governing regulations in the years leading up to the crisis. Before privatization, 
+Mexican banks financed the government through a regime known as the Encaje Legal, where 
+a portion of their deposits was channeled to the government. Afte r privatization, Encaje 
+Legal ended, freeing up deposits that banks could use to expand private  sector lending. At 
+the same time, other regulatory changes liberalized trade and investment policies. The North 
+American Free Trade Agreement, signed in 1992, took effect in 1994 . Emerging markets 
+were increasingly popular with international investors, and Mexico became a “darling,”  
+leading to large inflows of foreign investment and capital and what has been called a rapid 
+and “disorderly” expansion of credit.  
+Ortiz Martínez, who was chairman of the privatization committee, acknowledged that the 
+privatization process was perhaps executed too quickly without sufficient due diligence. He 
+explained:  
+My short description is that the buyers did n’t know what they were buying, and we 
+didn’t know what we were selling. We didn ’t really have the time to go deeply into 
+each bank and find out what the real situation was . Because obviously the overdue 
+obligations, when you expand very, very fast, become  much smaller in proportion to 
+111
+
+--- Page 4 ---
+the growth of credit, until it explodes. Apparently, the banks were very sound because 
+the amount of overdue obligations was very small, and credit growth was very fast. 
+The banks were very profitable. But of course, that was hiding the underlying credit 
+quality of this expansion, which was not correctly overseen. 
+In this new era for the Mexican banking system, Ortiz Martínez noted, the crisis was caused 
+by a lack of oversight of credit risk and of the credit quality of bank reserves. “We did not pay 
+sufficient attention, and that’s an understatement , to the situation of the banking system ,” 
+Ortiz Martínez explained:  
+We did not really know the credit quality of the portfolio  [on average]. And we did 
+not know whether the reserves that the banks were making were sufficient. 
+Obviously, they were not sufficient ex -post. What we should have done when 
+privatizing the banks should’ve been to devote a lot more resources of the sale of the 
+bank to creating reserves for eventual bad loans, and that didn’t happen. 
+In the wake of the crisis, many Mexican banks failed or were sold to foreign institutions.  
+Even the best policy responses can be undermined by miscommunication and bad 
+execution, which can lead to a loss of confidence. 
+The foundation of the newly privatized banking system was not healthy enough to weather 
+the consequences as investment capital began to flee the country following a series of 
+sociopolitical shocks , including the Zapatista uprising in the state of Chiapas a nd the 
+assassination of presidential candidate Luis Donaldo Colosio in 1994. This was compounded 
+by a doubling of interest rates in the United States from 3% to 6%.  
+In December 1994, Ortiz Martínez explained, the minister of finance and the Mexican central 
+bank could see international reserves were being depleted and announced a widening of the 
+exchange rate band, which didn’t have the desired effect: 
+The government decided first to widen the band, and that lasted for about one day—
+24 or 48 hours, I don ’t remember exactly how much. The minister of finance at the 
+time and the central bank gathered all the Mexican bankers and explained the terms 
+of the widening of the band. The mechanics were really blundered because, obviously, 
+the bankers took advantage of this information and they started buying dollars, and 
+they precipitated an already difficult situation into a crisis. Finally, the band was 
+abandoned, and the peso started floating freely, while the finance minister had 
+promised investors prior to this episode that the peso was going to remain within the 
+band and so on. So that was what triggered (the crisis), the last straw. . . . 
+So, when I started in the Finance Ministry, we had no reserves—zero reserves, or very 
+close to zero reserves. I don ’t remember the figure, but probably around $26 billion 
+in tesobonos that were issued were payable in dollars, and that was the situation. We 
+had lost all confidence. Mexico had been a darling of emerging markets, because of 
+NAFTA, and the bright future, and everythin g I described. So, it was a very difficult 
+start, as you can imagine. 
+112
+Journal of Financial Crises Vol. 6 Iss. 2
+
+--- Page 5 ---
+A more measured effort could have spared Mexico the worst of the crisis , Ortiz Martínez 
+explained:   
+The blunder of the government was how they handled devaluation, and the fact that 
+they did not adjust the band before. They could have widened the exchange rate band, 
+and tightened monetary policy, tightened fiscal policy, in August-September of 1994, 
+and they didn’t do it. That would’ve, if not avoided it, attenuated the magnitude of the 
+crisis. So, then we start 1995, with no reserves and a bunch of debt. 
+A credible, consistent policy framework creates the conditions to build economic 
+resilience that will aid the financial system in surviving a crisis. 
+New in office, President Zedillo faced a difficult political situation that required negotiating 
+with Congress, unions, and other sectors. Mexico experienced a 7% contraction in GDP in 
+1995 and a sharp drop in real wages as inflation shot up and wages stagnated due to 
+austerity. The crisi s and the countermeasures extracted a political cost; the Partido 
+Revolucionario Institucional ( the Institutional Revolutionary Party, or  PRI) lost big in the 
+next midterm elections and in 1997 lost control of the Congress for the first time in 70 years. 
+But the economy bounced back almost wholly, and Mexico regained access to international 
+markets in the following year. Mexico learned to live with the floating exchange rate and put 
+a monetary policy  in place consistent with the floating rate, and a mechanism of inflation -
+targeting at the central bank, said Ortiz Martínez. 
+The government was able to replenish international reserves and pay back the US loan and 
+other aid ahead of schedule. “So , in that  sense, the program was very successful,” Ortiz 
+Martínez said. The speed with which the program’s aims were delivered calmed the waters 
+and avoided social disruption, he said. 
+In the aftermath of the crisis, it was clear that tighter monetary and banking p olicy would 
+have helped forestall the worst effects. The relative stability of the Mexican economy through 
+later crises, such as the Global Financial Crisis of 2008 and the disruption of the COVID -19 
+pandemic, has shown that a credible, consistent policy f ramework helps build a resilient 
+system. During the pandemic lockdown, Mexico suffered some hardship; “the shock was very 
+large but very short,” he said. 
+The development of this symbiosis between the existing monetary and fiscal policy regimes 
+derives directly from the lessons of the 1994–95 crisis intervention, and it has really helped 
+the economy going forward, Ortiz Martínez explained. 
+Those are the two ingredients that are fundamental for economic stability: having a 
+sound banking system  . . .  and a con sistent framework, a consistent, credible policy 
+framework. Because you ’re always going to be facing shocks, like COVID and you -
+name-it. 
+The point is to increase the resilience of the economy, and the banking system. And if 
+you have a set of policies, good regulation, good capital adequacy, and so on, the 
+capacity to absorb shocks is much greater than if you don’t. It’s as simple as that. 
+113
+Lessons Learned: Guillermo Ortiz Martínez Cardona
+
+--- Page 6 ---
+Dated: July 2024 
+YPFS Lessons Learned No. 2022-06 
+114
+Journal of Financial Crises Vol. 6 Iss. 2

@@ -1,0 +1,727 @@
+--- Page 1 ---
+Journal of Financial Crises Journal of Financial Crises 
+Volume 6 Issue 3 
+2024 
+Germany: IKB Deutsche Industriebank Capital Injection, 2008 Germany: IKB Deutsche Industriebank Capital Injection, 2008 
+Lakshimi Swaminathan 
+Yale School of Management 
+Rishi Vala 
+Financial Markets Department, Bank of Canada 
+Follow this and additional works at: https://elischolar.library.yale.edu/journal-of-financial-crises 
+ Part of the Banking and Finance Law Commons, Economic History Commons, Finance Commons, 
+Policy Design, Analysis, and Evaluation Commons, Policy History, Theory, and Methods Commons, Public 
+Administration Commons, and the Public Economics Commons 
+Recommended Citation Recommended Citation 
+Swaminathan, Lakshimi and Vala, Rishi (2024) "Germany: IKB Deutsche Industriebank Capital Injection, 
+2008," Journal of Financial Crises: Vol. 6 : Iss. 3, 157-174. 
+DOI: https://doi.org/10.17132/2693-3179.1576 
+Available at: https://elischolar.library.yale.edu/journal-of-financial-crises/vol6/iss3/8 
+This Case Study is brought to you for free and open access by the Journal of Financial Crises and 
+EliScholar – A Digital Platform for Scholarly Publishing at Yale. For more information, please contact 
+journalfinancialcrises@yale.edu.
+
+--- Page 2 ---
+READERS TAKE NOTICE: READERS TAKE NOTICE: 
+As of April 2024, the YPFS Resource Library’s site domain has changed 
+to https://elischolar.library.yale.edu/ypfs-financial-crisis-resource-library/. 
+Please be aware that upon clicking any of the URL references to 
+the former Resource Library domains, either https://ypfs.som.yale.edu 
+or https://ypfsresourcelibrary.blob.core.windows.net/, in the 
+"References/Key Program Documents" section of a case study, 
+readers will encounter a "page not found" error. readers will encounter a "page not found" error. 
+Readers can still retrieve a given resource cited within this case study 
+on the new site  by searching by searching here  for the title cited. for the title cited. 
+This case study is available in Journal of Financial Crises: https://elischolar.library.yale.edu/journal-of-financial-
+crises/vol6/iss3/8
+
+--- Page 3 ---
+Germany: IKB Deutsche Industriebank  
+Capital Injection, 20081 
+Lakshimi Swaminathan2 and Rishi Vala3 
+Yale Program on Financial Stability Case Study 
+October 4, 2024 
+Abstract 
+In July 2007, investors rapidly pulled their funding from asset-backed commercial paper 
+(ABCP) programs  that held US subprime mortgage -linked securities. According to the 
+Financial Crisis Inquiry Commission (FCIC), German bank IKB Deutsche Industriebank AG 
+(IKB) was the “first big casualty” of that run on ABCP. I t had directly and indirectly 
+guaranteed to provide EUR 9.3 billion in liquidity to its off-balance-sheet vehicle, Rhineland 
+Funding Capital Corporation . German authorities and the Kreditanstalt für Wiederaufbau 
+(KfW), a state-owned German development bank, quickly took over those obligations on July 
+30 to keep IKB solvent and prevent it from closing. KfW also agreed to cover up to EUR 1 
+billion of IKB’s potential losses on on -balance-sheet subprime mortgage assets. But IKB 
+remained undercapitalized as loss es increased on its on -balance-sheet exposures in 2008. 
+KfW, with government backing, increased IKB’s capital by EUR 2.3 billion over the course of 
+2008, raising its ownership in IKB from a pre-Global Financial Crisis stake of 37.8% to a peak 
+of 90.8%. The capital injection measures included the conversion of a EUR 54 million bond 
+into equity i n February 2008; a EUR 1 billion loan in February 2008, for which KfW 
+immediately waived IKB’s obligation to repay unless IKB’s finances improved; and the 
+injection of EUR 1.3 billion in common stock in August 2008. In October 2008, Lone Star, a 
+US private equity firm, acquired KfW’s 90.8 % stake in IKB for EUR 137 million. The different 
+measures German authorities took to support IKB cost the German taxpayers EUR 9.6 billion 
+in total. 
+ 
+Keywords: GFC, IKB Deutsche Industriebank, KfW 
+  
+ 
+1 This case study is part of the Yale Program on Financial Stability (YPFS) selection of New Bagehot Project 
+modules considering ad hoc capital injection programs. A survey of all the cases in this series (Rhee et al. 2024) 
+and the individual cases underlyin g it are available from the Journal of Financial Crises  at  
+https://elischolar.library.yale.edu/journal-of-financial-crises/vol6/iss3/. Rhee et al. (2022) surveys broad -
+based capital injection programs. 
+2 Research Associate, YPFS, Yale School of Management. 
+3 Economist, Financial Markets Department, Bank of Canada . 
+157
+
+--- Page 4 ---
+Overview 
+This case study  details the capital injection 
+provided to IKB Deutsche Industriebank AG 
+(IKB) at the onset of the Global Financial 
+Crisis (GFC). For an examination of the 
+emergency liquidity assistance that preceded 
+the capital injections, see (George and Alden, 
+forthcoming). 
+As of 2007, IKB was a partly government -
+owned bank that focused on corporate 
+banking, structured finance, real  estate 
+financing, and portfolio  investments. The 
+onset of the subprime mortgage crisis in the 
+United States acutely affected IKB’s off -
+balance-sheet vehicle, Rhineland Funding 
+Capital Corporation , which invested in 
+structured products with exposure to US 
+subprime mortgages and was financed 
+through asset -backed commercial paper 
+(ABCP). IKB had provided liquidity facilities 
+of EUR 8.1 billion  (USD 10.9 billion) 4 and 
+indirect protection of EUR 1.2 billion to 
+Rhineland to refinance its ABCP . IKB also 
+held Rhinebridge (IKB’s off -balance-sheet 
+vehicle) and other investment portfolios’ 
+subordinated debt on its balance sheet (EC 
+2009). In late July 2 007, IKB’s creditors 
+ceased to renew their funding facilities with 
+IKB because of uncertainty over whether IKB 
+could continue to backstop Rhineland’s 
+short-term financing needs (FCIC 2011). 
+This prompted a sequence of measures 
+effected by the Federal Financial Supervisory 
+Authority (BaFin); the Federal Ministry of 
+Finance; and Kreditanstalt für Wiederaufbau 
+(KfW), a state-owned development bank that 
+was IKB’s largest shareholder entering the 
+GFC in 2007. In July 2007, BaFin told KfW and 
+the Federal Ministry of Finance that it would 
+close IKB by imposing a moratorium if they 
+ 
+4 Per OANDA, EUR 1 = USD 1.36 on July 1, 2007. 
+Key Terms 
+Purpose: To avoid the bankruptcy of IKB, and to 
+prevent a systemic financial crisis in Germany 
+Announcement 
+Date 
+Convertible bond:  
+Jan. 7, 2008; 
+Capital injection (including 
+the Tier 1 loan):  
+Feb. 14, 2008 
+Operational Date Convertible bond: Feb. 28, 
+2008 (conversion to equity); 
+Capital injection:  
+Feb. 2008–Aug. 2008 
+Date of Final 
+Capital Injection 
+Aug. 21, 2008 
+End Date Oct. 29, 2008 
+Source of Funding KfW 
+Administrator German gov’t through KfW 
+Size EUR 2.3 billion 
+Capital 
+Characteristics 
+Convertible bond: Converted 
+to common equity one month 
+after issuance; 
+Cash capital: Common 
+equity; 
+Loan: Regulatory Tier 1 
+equity subject to “better 
+fortune” clause that waived 
+immediate repayment 
+Bail-in Terms No bail-in 
+Outcomes KfW sold its stake to Lone 
+Star for EUR 137 million in 
+Aug. 2008 resulting in a loss 
+of more than EUR 9 billion to 
+the German government 
+Notable Features IKB was one of the first 
+banks in Germany to be 
+affected by the GFC 
+158
+Journal of Financial Crises Vol. 6 Iss. 3
+
+--- Page 5 ---
+could not reduce the risk exposure of IKB (EC 2009).  
+By the end of the month, BaFin, the Federal Ministry of Finance , and KfW organized a loss -
+sharing agreement, known as a risk shield, to absorb some of the losses from IKB’s impaired 
+assets. KfW remained committed to cover any losses on IKB’s EUR 8.1 billion liquidity 
+facilities as well as EUR 0. 9 billion in indirect expos ures that IKB also had to Rhineland 
+through two facilities known as the Havenrock I and II conduits. KfW also agreed to cover up 
+to EUR 1 billion of IKB’s potential losses on a EUR 6.8 billion on-balance-sheet portfolio that 
+largely consisted of subprime-linked securities. Three German private banking associations 
+participated in the risk shield, which required them to absorb up to EUR 1 billion of the 
+losses: the Association of German Private Banks (BdB), the Association of German 
+Cooperative Banks (BVR), and the German Savings Banks Association (DSGV). In November 
+2007, KfW and the banking associations increased the loss coverage for IKB’s Havenrock 
+conduits to EUR 1.2 billion because of the increasing financial market stress (EC 2009).  
+But IKB’s losses c ontinued to grow. In February 2008, the German government mandated 
+that KfW provide an additional EUR 2.3 billion to IKB to increase its capital. KfW 
+recapitalized IKB by means of a EUR 54 million convertible bond (converted to equity one 
+month after issuance); a EUR 1 billion loan that BaFin qualified as Tier 1 regulatory capital 
+because KfW immediately waived IKB’s obligation to make repayments unless and until 
+IKB’s finances improved; and a purchase of EUR 1. 3 billion of newly issued IKB common 
+stock. KfW’s stake in IKB rose to 90.8% after these transactions (EC 2009).  
+KfW sold its stake in IKB in August 2008 to Lone Star Funds, a US private equity group , for 
+EUR 137 million (EC 2009; KfW 2009b; Reuters 2017) . This sale was completed in October 
+2008 after the European Commission (EC) approved the deal (EC 2009; KfW 2009a; KfW 
+2009b). The entire aid cost the German taxpayers EUR 9.6 billion (Kaserer 2010). However, 
+despite the takeover, IKB Bank continued to receive liquidity support from the German 
+authorities. This included receiving a guarantee of up to EUR 5 billion from SoFFin 
+(Sonderfonds Finanzmarktstabilisierung, or Special Financial Market Stabilization Funds in 
+English) in December 2008, as well as a guarantee of up to EUR 7 billion in August 2009 (EC 
+2008; Reuters 2009). Figure 1 encapsulates the events that were involved in resolving the 
+crisis that IKB faced. 
+Figure 1: Timeline of IKB Deutsche Industriebank 
+Date Event 
+July 27, 2007 BaFin informs KfW and the Federal Ministry of Finance that it would close IKB by imposing a 
+moratorium if the risk exposure of IKB is not handled by these parties  
+July 29, 2007 BaFin, Federal Ministry of Finance, KfW, BdB, BVR, and DSGV agree that KfW and BaFin 
+would provide a risk shield worth up to EUR 1 billion for IKB 
+July 30, 2007 KfW provides protection for the liquidity facility IKB provided to Rhineland (EUR 8.1 billion) 
+and protection against losses of up to EUR 1 billion for the on-balance-sheet exposures 
+Aug. 16, 2007 The three German private banking associations (BdB, BVR, and DSGV) decide to take over 
+30% of KfW’s risk exposure, with a EUR 1 billion cap 
+159
+Germany: IKB Deutsche Industriebank Capital Injection Swaminathan and Vala
+
+--- Page 6 ---
+Nov. 30, 2007 KfW and the three private banking associations provide an ancillary risk shield of EUR 350 
+million when the original risk shield proves to be insufficient 
+KfW covers EUR 150 million, of which EUR 54.3 million took the form of a convertible bond, 
+which IKB converts into shareholder equity on February 14, 2008 (effective on February 28, 
+2008), thereby increasing KfW’s share in IKB to 43%. A further EUR 150 million is provided by 
+BdB and EUR 50 million by BVR and DGSV 
+Jan. 7, 2008 The German government issues a 4.75% convertible bond with a duration of one year  
+Feb. 14, 2008 The EUR 54 million convertible bond that KfW provided under the ancillary risk shield 
+measure is converted to common equity 
+The German government directs KfW to provide an additional support of EUR 2.3 billion 
+• EUR 1 billion is in a loan, subject to a “better fortune” clause, making the loan qualify as 
+Tier 1 capital  
+• EUR 1.3 billion is in common stock 
+Feb. 20, 2008 KfW provides approximately EUR 600 million of the EUR 1 billion loan 
+March 20, 2008 KfW provides approximately EUR 400 million of the EUR 1 billion loan 
+Aug. 2008 KfW conditionally consents to subscribe to about 487 million new shares of IKB common 
+stock valued at EUR 2.56 per share 
+Aug. 21, 2008 Lone Star buys IKB Bank for EUR 137 million and agrees to inject an additional EUR 225 
+million in capital; the “better fortune” clause is eliminated, essentially resulting in a write -
+down of the entire EUR 1 billion loan 
+Oct. 29, 2008 Lone Star completes its takeover of IKB following EC approval  
+Source: Authors’ analysis  
+Summary Evaluation 
+In a technical note produced by the International Monetary Fund (IMF), the authors 
+described the support to IKB as “ substantial” (IMF 2011) . The EC ruled in its State Aid 
+decision that it saw “no commercial reason for the disproportionate involvement of KfW”  
+compared to that of the three German private banking associations (EC 2009). The EC, while 
+evaluating whether the  capital injections amounted to State Aid, concluded that KfW went 
+beyond what a private investor would have done. The EC decision also expressly stated that 
+these interventions would not have been less costly for Germany and KfW than liquidation 
+(EC 2009).  
+A report from PriceWaterhouse Coopers (PwC), commissioned by IKB’s managing board of 
+directors after the episode revealed that IKB’s failure stemmed from the fact that its 
+evaluations of investments in structured products were primarily based on third -party 
+ratings and not on their own understanding of the instruments and how they contributed to 
+the overall portfolio risk. Consequently, reduction in the credit asset quality that did not 
+witness a similar downgrade from third parties went unnoticed until the GFC struck in 
+August 2007 (Forbes and O’Donohoe 2015; IKB 2007b). 
+Moreover, scholars Forbes and Donohoe (2015) state that inadequate risk management 
+along with weak governance (as evidenced by office held by senior officials from outside the 
+banking sector) contributed to the downfall of the bank.  
+160
+Journal of Financial Crises Vol. 6 Iss. 3
+
+--- Page 7 ---
+KfW’s 2008 annual report stated that although it had to bear a high financial burden to rescue 
+IKB, that decision “proved to be correct” (KfW 2009a).  
+161
+Germany: IKB Deutsche Industriebank Capital Injection Swaminathan and Vala
+
+--- Page 8 ---
+Context: Germany, IKB Deutsche Industriebank, 2007–2008 
+Assets EUR 54 billion as of March 31, 2007 
+EUR 50 billion as of March 31, 2008 
+Liabilities EUR 53 billion as of March 31, 2007 
+EUR 37 billion as of March 31, 2008 
+Deposits No information 
+Tier 1 Ratio  7.1% as of March 31, 2007 
+6% as of March 31, 2008 
+Nonperforming Loans EUR 1.6 billion as of March 31, 2007 
+EUR 1.3 billion as of March 31, 2008 
+Market Share 
+No information for March 31, 2007 
+10% of lending market (long-term corporate 
+loans to manufacturing industry)  
+as of March 31, 2008 
+Banking System, % of GDP 117.4% as of March 31, 2007 
+115.7% as of March 31, 2008 
+Sources: Bloomberg;  IKB 2008d ; World Bank Global Financial Development 
+Database; World Bank Deposit Insurance Dataset. 
+162
+Journal of Financial Crises Vol. 6 Iss. 3
+
+--- Page 9 ---
+Key Design Decisions 
+1. Purpose: KfW provided capital to prevent IKB from breaching its minimum capital 
+requirements and destabilizing of the German economy. 
+In February 2008, after earlier efforts by the German authorities to aid IKB proved 
+insufficient (see Key Design Decision No. 2, Part of a Package), the German government 
+mandated that KfW furnish an additional EUR 2.3 billion to IKB (EC 2009) . This capital 
+injection was necessary to keep the IKB from breaching its minimum capital requirements  
+and provided additional risk protection  (EC 2009; KfW 2008). These capital injections 
+permitted IKB to maintain a Tier 1 capital ratio of 5.3%, above the 4% mandated minimum. 
+The total capital ratio stood at 8.7% for IKB, which helped them meet the mandated 
+minimum of 8%. IKB as a whole was also able to maintain Tier 1 capital ratio of 6% and total 
+capital ratio of 9.8% (IKB 2008d). IKB had considered bringing Rhineland Funding (its off -
+balance-sheet investment vehicle) onto its balance sheet in October 2007 (Simensen 2007). 
+It retroactively consolidated Rhineland Funding in the 2006-07 annual accounts, as restated 
+in February 2008 (IKB n.d.). 
+KfW’s 2008 annual report asserts that capital injection was to preserve a bank for small- and 
+medium-sized enterprises as well as to protect  the confidence in the German  financial 
+market and its economy from “destabilization” and “damage” (KfW 2009a). However, in its 
+October 2008 State Aid decision, the EC noted that it did not agree with the perception of the 
+German authorities that the problem would have resulted in a systemic crisis (EC 2009).  
+2. Part of a Package: The capital injection was preceded by risk shields , protection 
+on losses to IKB from certain assets,  and a liquidity facilit y. After the capital 
+injection, there was another liquidity facility and IKB was restructured.  
+In July 2007, prompted by BaFin, IKB’s biggest shareholder,  KfW, provided the first set of 
+protection for IKB for losses incurred from  EUR 8.1 billion worth of a liquidity facility 
+provided to IKB’s off-balance-sheet vehicle Rhineland Funding. KfW also agreed to cover up 
+to EUR 1 billion of IKB’s potential losses on on-balance-sheet investments in portfolios with 
+exposure to subprime mortgages (EC 2009). 
+Three German private banking associations —BdB, BVR and DSGV —afterwards agreed to 
+cover 30% of KfW’s costs under this protection for IKB with a cap of EUR 1 billion . On 
+November 30, 2007, KfW and the  three private  banking associations agreed to cover 
+additional risks of IKB amounting to USD 350 million (EC 2009). 
+In January 2008, KfW provided IKB with a secured refinancing liquidity facility in the amount 
+of EUR 1.5 billion (IKB 2008b). The capital injection took place starting February 2008. KfW 
+then created a second  liquidity facility on July 18, 2008 , after the capital injection, for an 
+additional EUR 1.5 billion (EC 2009; IKB 2009). Both of these liquidity facilities charged an 
+interest rate based on a spread over the Euro Interbank Offered Rate ( Euribor). Collateral 
+requirements were set high enough, at more than 100%, to aim to cover the loans even in a 
+163
+Germany: IKB Deutsche Industriebank Capital Injection Swaminathan and Vala
+
+--- Page 10 ---
+“worst-case scenario” (EC 2009). Some of the portfolio investments of IKB that were not sold 
+to Lone Star Funds were restructured and packaged. 
+For details about t he emergency liquidity provided to IKB, see George and Alden  
+(forthcoming).  
+3. Legal Authority: The capital injections were carried out in accordance with the 
+existing law allowing for the government to direct KfW’s funds for state interest. 
+The German government relied on the existing Article 2, Paragraph 4 of the Law Concerning 
+KfW to carry out the capital injections (KfW 2008; KfW 2020) . This authority empowered 
+the German government to direct KfW’s financing activities toward operations in which the 
+government had a state interest (KfW 2020).  
+In addition to their national law, the German government also required approval from the 
+EC to assess whether the measures taken to protect IKB amounted to State Aid (EC 2009). 
+The EC found that the risk shield and capital contribution measures failed the private 
+investor test and therefore had to be regarded as State Aid. The EC further held that these 
+measures did not qualify for the exception to the general prohibition against State Aid under 
+Article 107(3)(b) Treaty on the Functioning of the European Union (TFEU), which allows EU 
+member states to grant State Aid to remedy a serious disturbance in the economy. As the IKB 
+episode took place before the financial crisis fully developed into a systemic crisis, the EC 
+considered this failure to be firm -specific as opposed to systemic and did not expect IKB's 
+insolvency to have systemic consequences. However, the EC found that the aid could qualify 
+for an exception under the Rescu e and Restructuring guidelines, subject to a restructuring 
+plan to be implemented by 2011 (Frisch 2017). 
+4. Administration: KfW administered the capital injections. 
+KfW administered the capital injections at the behest of the German government (EC 2009; 
+KfW 2009a). Moreover, the EC also reported that all of KfW’s decisions were attributable to 
+the German state as the Federal Ministry of Finance was involved in the capita l injection 
+decision making and administration processes (EC 2009). 
+5. Governance: The capital injection was subject to EC oversight under State Aid 
+rules.  
+The capital injection was subject to both EC  oversight and State Aid rules  (EC 2009) . An 
+article by Kl aus Engelen in the journal International Economy criticized the lack of diligent 
+reports and summaries disclosed during the episode (Engelen 2008).  
+6. Communication and Disclosure: KfW  reported that measures to aid IKB were 
+necessary to prevent a destabilization of the German economy. 
+On February 11, 2008, Dow Jones reported that authorities considered using tax money to 
+bail out IKB and that sources familiar with this situation asserted that “no option is taboo .” 
+The same article stated that while the BaFin president threatened to close down IKB, he was 
+164
+Journal of Financial Crises Vol. 6 Iss. 3
+
+--- Page 11 ---
+dissuaded by the president of the Bundesbank (Dow Jones International News 2008). IKB’s 
+shares fell by more than 20 percent that day , b efore the capital injection plan was to be 
+discussed; the same article posited that some observers believed that IKB’s crisis was being 
+turned into a “game of brinkmanship” by IKB’s shareholders to pressure for a private sector 
+bailout (Morarjee and Benoit 2008). 
+Following the provision of a capital injection worth EUR 600 million in February 2008, the 
+German Finance minister stated that the German government was aiming for a quick sale of 
+IKB (Sobolewski 2008). KfW’s 2008 annual report asserts that the capital injection measures 
+were made for additional risk protection as well as to protect the German economy from 
+“destabilization” and “damage” (KfW 2009a). The 2009 EC State Aid decision included details 
+pertaining to the capital injections but redacted some key figures. 
+7. Treatment of Creditors and Equity Holders: The conversion of a convertible bond 
+to equity in January 2008 increased KfW’s stake in IKB to 43%.  
+Upon conversion of the bond one month after issuance, KfW’s ownership stake increased by 
+5.6%, from 37.8% to 43.4% in February 2008 (KfW 2008). According to Capital IQ data, the 
+transaction excluded pre -emptive rights ,5 thereby proportionately diluting existing 
+shareholders.  
+8. Capital Characteristics: First, KfW provided a EUR 54.3 million convertible  bond 
+that was converted to common equity one month after its issuance. Second, KfW 
+provided a loan in two tranches in early 2008 and immediately waived IKB’s 
+obligation to repay, thereby increasing IKB’s capital. Third, KfW subscribed to 487 
+million new shares of common stock at EUR 2.56 per share in August 2008. 
+KfW injected capital into IKB through three different instruments: a convertible bond, a loan 
+that it didn’t require IKB to repay, and common stock (EC 2009). 
+According to Capital IQ data, o n January 7, 2008, IKB issued a one -year, 4.75% convertible 
+bond that was fully subscribed by KfW, as part of the risk shield. The security was structured 
+as senior debt prior to conversion; upon conversion one month after issuance, KfW received 
+common equity amounting to 5.6% of IKB’s total equity (IKB 2008b). For pricing, the bond 
+was issued at a 0.1% spread to the 12-month Euribor, which fluctuated between 4.65% and 
+4.88% during this period (Deutsche Bundesbank 2022) . This conversion increased the 
+subscribed capital of IKB from EUR 225.3 million to EUR 247.8 million comprising 
+approximately 99 million notional no -par value bearer shares. The issuance of the 
+convertible bonds was authorized by  a resolution adopted by the general meeting of 
+September 9, 200 4, which entitled the board of managing directors to issue convertible 
+bonds and/or bonds with warrants with an aggregate value of up to EUR 300 million and to 
+grant the holders of such bonds  or shares conversion or option rights for up to EUR 22.5 
+ 
+5 These rights refer to the right of existing shareholders to purchase newly issued stock of the corporation 
+before it is offered to the others. Thus, exclusion of preemptive rights would dilute the stake of existing 
+shareholders (Legal Information Institute n.d.). 
+165
+Germany: IKB Deutsche Industriebank Capital Injection Swaminathan and Vala
+
+--- Page 12 ---
+million of the share capital in accordance with the laid -down conditions until September 8, 
+2009 (IKB 2008d). 
+KfW invested EUR 1 billion in IKB in the form of loans on which it immediately waived IKB’s 
+obligation to repay , making it possible to be counted toward Tier 1 capital per section 
+272(2)4 of HGB (German GAAP) (EC 2009). IKB received EUR 600 million of the EUR 1 billion 
+loan on February 20, 2008 , and EUR 450 million of the loan on March 20, 2008 (Reuters 
+2008; Sobolewski 2008) . This loan did not entitle KfW  to additional voting rights , nor did 
+they indicate any change in KfW’s ownership stake in IKB (IKB 2008a). The loan was subject 
+to a “better fortune” clause, under which IKB could repay the loan only if IKB did not incur 
+an accounting loss under HGB and its regulatory capital was above 9% . Interest payments 
+on the loan were due only if such payments  did not incur a loss  for IKB  in its financial 
+statements under HGB.  These payments out of future profits, howe ver, were to precede 
+payments for other profit-participation certificates6 (IKB 2008b).  
+Additionally, in August 2008, KfW conditionally consented to subscribe to about 487 million 
+new IKB shares (common stock) valued at EUR 2.56 per share . The condition of the capital 
+injection was that the European Commission either determined that this share subscription 
+was compatible with applicable State Aid rules under the EC Treaty or approved the IKB risk 
+protection and support measures, in each case by no later than October 25, 2008. According 
+to Capital IQ data, t he transaction was structured as a subscription -rights-offering—a 
+structure in which existing shareholders can purchase new shares of a secondary offering 
+before these new shares are available to the ope n market. Existing shareholders were 
+offered new shares at a ratio of 6:1. KfW transferred EUR 1.25 billion in connection with this 
+transaction to a trust account  (the satisfaction of their condition was still pending) . This 
+transaction was executed on October 24, 2008, following EC approval on October 21, 2008 , 
+and increased KfW’s stake from 45.5% to 90.8% (KfW 2009b).  
+9. Size and Source of Funding: KfW provided EUR 2.3 billion, of which EUR 1.2 billion 
+was guaranteed by the federal government. A private ban king association 
+contributed EUR 300 million. 
+The German government infused equity capital into IKB via the KfW by means of a EUR 54.3 
+million convertible bond, a EUR 1  billion loan that was eligible as Tier 1 capital  under 
+regulatory requirements, and a E UR 1. 3 billion (before costs) purchase of newly issued 
+common stock (EC 2009; IKB 2008c; KfW 2009b). 
+The common stock capital injection measure’s announced sizes were inconsistent with the 
+sizes of the actual transactions. As per KfW’s 2008 Form 18-K submitted to the US Securities 
+and Exchange Commission (SEC) and IKB’s press releases, KfW invested a total of EUR 2.3 
+billion of capital into IKB. This sum included EUR 1 billion as a loan and at least EUR 1. 3 
+billion (before costs) in exchange for common stock . For the contribution of KfW’s EUR 2.3 
+billion, the German government guaranteed EUR 1.2 billion  and the three private banking 
+ 
+6 A profit-participation certificate is a security that entitles the holder to dividends based on the performance 
+of the issuing company. Holders do not have a share of ownership in the company nor are they eligible to vote 
+on company decisions (Moneyland n.d.). 
+166
+Journal of Financial Crises Vol. 6 Iss. 3
+
+--- Page 13 ---
+associations contributed an EUR 300 million (EC 2009; KfW 2009b) . These supports come 
+in to help KfW as it could not assume the entire financial risk from the investment into IKB 
+because it would have placed the European Recovery Program (ERP) Special Fund at ris k7 
+(KfW 2008). 
+10. Timing: After the German government provided guarantees and protections to 
+IKB, KfW provided a liquidity facility and injected capital into IKB. Lone Star 
+acquired IKB after the capital injection.  
+Following the onset of the US subprime cri sis, IKB was at risk of bankruptcy owing  to the 
+freezing of the commercial paper market. IKB faced acute pressure on July 27, 2007, after its 
+counterparties froze their liquidity facilities.  A couple of days later,  BaFin told KfW and the 
+Federal Ministry of Finance, that it would close IKB by imposing a moratorium if they could 
+not reduce the risk exposure of IKB. By the end of the month, BaFin , the Federal Ministry of 
+Finance, and KfW organized a loss-sharing agreement, known as a risk shield, to absorb some 
+of the losses from IKB’s impaired assets (EC 2009). 
+But IKB’s losses continued to grow. In February 2008, the German government mandated 
+that KfW provide an additional EUR 2.3 billion to IKB to increase its capital (EC 2009). KfW 
+recapitalized IKB by me ans of a EUR 54 million convertible bond (converted to equity one 
+month after issuance); a EUR 1  billion loan that BaFin qualified as Tier 1 regulatory capital 
+because KfW immediately waived IKB’s obligation to make repayments unless and until 
+IKB’s finances improved; and a purchase of EUR 1. 3 billion of newly issued IKB common 
+stock. KfW’s stake in IKB rose to 90.8% after these transactions (EC 2009).   
+KfW sold its stake in IKB in August 2008 to Lone Star Funds, a US private equity group , for 
+EUR 137 million (EC 2009; KfW 2009b; Reuters 2017) . This sale was completed in October 
+2008 after the EC approved the deal (EC 2009; KfW 2009a; KfW 2009b). 
+11. Restructuring: The capital injection preceded a restructuring process that led to 
+the sale of KfW’s stake to Lone Star Funds. 
+The capital injection preceded the creation of a restructuring plan intended to downsize 
+IKB’s risk portfolio and prioritize its core busines s lines (EC 2008; IKB 2008c). On October 
+29, 2008, KfW sold its stake (90.8%) to the US private equity fund Lone Star Funds (KfW 
+2009a; KfW 2009b). 
+12. Treatment of Board and Management: IKB’s old management was replaced by KfW 
+appointees but not as a part of the capital injection but of prior interventions. 
+A member of KfW’s board of managing directors replaced IKB’s CEO. In addition, IKB’s board 
+of managing directors appointed a director from KfW. These appointments (which preceded 
+the capital injection)  were made on July 30, 2007 , immediately upon the start of the 
+ 
+7 The ERP Special Fund is a source of capital that KfW draws upon to fund its promotional capacities under its 
+federal mandate (KfW 2008). 
+167
+Germany: IKB Deutsche Industriebank Capital Injection Swaminathan and Vala
+
+--- Page 14 ---
+government’s initial involvement with IKB (IKB Board of Directors 2007; IKB 2007a; IKB 
+2007b). 
+In the EC’s assessment of compensatory measures taken to avoid undue distortions of 
+competition, these management replacements were recognized as a “valuable signal against 
+moral hazard” (EC 2009). 
+13. Other Conditions: The EC imposed restrictions pertaining to IKB’s balance sheet 
+and activities. 
+The EC imposed a limitation of a balance sheet total amounting to EUR 33.5 billion until the 
+end of the restructuring period (September 30, 2011). This was to ensure that IKB does not 
+circumvent the closures and divestitures from restructuring through rebuilding the business 
+in other parts of the bank or simply transferring it (EC 2009). 
+Before IKB could be sold, the following conditions had to be fulfilled: the EC’s decision in the 
+State Aid proceedings, registration of IKB’s capital increase at the Düsseldorf local court, and 
+exempting BaFin from making a mandatory offer in line with the Security Acquisition and 
+Takeover Act  (IKB 2009). 
+14. Regulatory Relief: There was no regulatory relief involved in these capital 
+injections. 
+Our research found no evidence of regulatory relief in these capital injections. 
+15. Exit Strategy: KfW’s 90.8% stake in IKB was sold off to Lone Star, a US private 
+equity fund. 
+The restructuring plan outlined KfW’s intention  to sell off its stake (90.8%) in IKB to 
+interested bidders t hrough an open, nondiscriminatory , and transparent bidding proce ss 
+(EC 2009). The sale process commenced in January 2008 and came to an end on August 21, 
+2008, when Lone Star was chosen as the winning bidder to acquire KfW’s stake; the sale was 
+completed on October 29, 2008 (EC 2009; KfW 2009a; KfW 2009b).  
+The risk -sharing among the parties was as follows: On August 25, 2008, KfW assumed 
+control over one of IKB’s portfolios worth EUR 1.6 billion for EUR 1 billion . Overall, KfW 
+received a reimbursement of E UR 750 million from the German state for losses borne on 
+these instruments. In addition to this, KfW indemnified IKB up to amounts agr eed upon in 
+connection to legal costs and provided IKB financing on market terms to IKB and other 
+entities connected to IKB by providing EUR 0.6 billion in senior funding to a special purpose 
+vehicle (KfW 2009b). 
+KfW sold its stake in IKB in August 2008 to Lone Star Funds, a US private equity group , for 
+EUR 137 million (EC 2009; KfW 2009b; Reuters 2017). Ultimately, the compensation rights 
+of KfW relating to future profits in connection with debt waivers worth EUR 1 billion also 
+transferred over to the Lone Star Group (IKB 2009). Figure 2 displays the composition of the 
+stakeholders of IKB before and after its sale to Lone Star.  
+168
+Journal of Financial Crises Vol. 6 Iss. 3
+
+--- Page 15 ---
+Figure 2: Shareholders of IKB Before and After Sale to Lone Star 
+Entity name Stake  Entity name Stake 
+KfW 90.8%  Lone Star 90.8% 
+Stiftung Industrieforschung 1.7%  Sal Oppenheim Jr. & Cie. S.C.A. 4.5% 
+Sal Oppenheim jr. & Cie. S.C.A. 0.5%  UBS AG 2.9% 
+UBS AG 2.9%  Total (as of October 29, 2008) 98.2% 
+Total (as of October 24, 2008) 98.1%    
+Sources: (IKB 2008a; IKB 2009) 
+  
+169
+Germany: IKB Deutsche Industriebank Capital Injection Swaminathan and Vala
+
+--- Page 16 ---
+References and Key Program Documents 
+Legal/Regulatory Guidance 
+(KfW 2020) Kreditanstalt für Wiederaufbau (KfW). 2020. Law Concerning Kreditanstalt 
+Für Wiederaufbau. 
+Laws concerning KfW, a bank. 
+https://elischolar.library.yale.edu/ypfs-documents2/294 
+(Legal Information Institute n.d.) Legal Information Institute. n.d. “Preemptive Right.” 
+Cornell Law School. Accessed November 11, 2023. 
+Web page clarifying the meaning of preemptive right. 
+https://elischolar.library.yale.edu/ypfs-documents2/2763 
+(Moneyland n.d.) Moneyland. n.d. “Profit Participation Certificate.” Accessed June 15, 2023. 
+Webpage describing a profit participation certificate. 
+https://elischolar.library.yale.edu/ypfs-documents2/308 
+Media Stories 
+(Dow Jones International News 2008) Dow Jones International News. 2008. “German Fin 
+Min Looking into Options to Bail Out IKB -Reports,” February 11, 2008. 
+News article on the options considered by the German Finance Minister. 
+https://elischolar.library.yale.edu/ypfs-documents2/2742 
+(Morarjee and Benoit 2008) Morarjee, Rachel, and Bertrand Benoit. 2008. “IKB Shares Fall 
+Ahead of Rescue Talks.” Financial Times, February 11, 2008. 
+Article on the slump faced by IKB shares. 
+https://elischolar.library.yale.edu/ypfs-documents2/2747 
+(Reuters 2008) Reuters. 2008. “German Bank Gets Another Cash Infusion.” The New York 
+Times, March 20, 2008. 
+News article on the cash injection received by IKB Bank. 
+https://elischolar.library.yale.edu/ypfs-documents2/2748 
+(Reuters 2009) Reuters. 2009. “EU Clears State Aid for Germany’s IKB Bank,” August 17, 
+2009. 
+Article on the EU aid to IKB Bank. 
+https://elischolar.library.yale.edu/ypfs-documents2/2751 
+(Reuters 2017) Reuters. 2017. “Lone Star Renews Efforts to Sell IKB - Source.” Reuters, June 
+29, 2017. 
+Article on the proposed sale of IKB. 
+https://elischolar.library.yale.edu/ypfs-documents2/2752 
+  
+170
+Journal of Financial Crises Vol. 6 Iss. 3
+
+--- Page 17 ---
+(Simensen 2007) Simensen, Ivar. 2007. “PwC Review Prompts IKB Departures.” Financial 
+Times, October 16, 2007. 
+Article on the PwC report that led to turmoil at IKB. 
+https://elischolar.library.yale.edu/ypfs-documents2/2754 
+(Sobolewski 2008) Sobolewski, Matthias. 2008. “German Finmin Says IKB Stable, Plans Fast 
+Sale.” Reuters, February 20, 2008. 
+Article on the opinion of the German finance minister’s opinion on IKB Bank. 
+https://elischolar.library.yale.edu/ypfs-documents2/2749 
+Press Releases/Announcements 
+(IKB 2007a) IKB Deutsche Industriebank AG (IKB). 2007a. Preliminary Results for the First 
+Quarter (1 April 2007 – 30 June 2007). 
+IKB Deutsche Industriebank AG press release on the quarterly results. 
+https://elischolar.library.yale.edu/ypfs-documents2/2452/ 
+(IKB 2007b) IKB Deutsche Industriebank AG (IKB). 2007b. “Special Report by 
+PricewaterhouseCoopers Available – IKB Drives Realignment of the Business Forward.” 
+Press release, October 16, 2007. 
+IKB Deutsche Industriebank AG press release financial health of IKB Bank (in German). 
+https://elischolar.library.yale.edu/ypfs-documents2/292 
+(IKB n.d.) IKB Deutsche Industriebank (IKB). n.d. Ad hoc announcement according to 
+Section 15 WpHG: IKB expects higher valuation losses on portfolio investments - received 
+further support - earnings forecast adjusted. 
+Press release from IKB announcing the restated financial accounts (in German). 
+https://elischolar.library.yale.edu/ypfs-documents2/2756 
+(IKB Board of Directors 2007) IKB Board of Directors. 2007. “Ad-hoc Announcement.” 
+Press release, August 7, 2007. 
+Press release from IKB Bank’s Board of Directors on the measures taken (in German). 
+https://elischolar.library.yale.edu/ypfs-documents2/2454/ 
+Reports/Assessments 
+(Deutsche Bundesbank 2022) Deutsche Bundesbank. 2022. “Money Market Rates,” June 15, 
+2022. 
+Statistics on money market rates in German). 
+https://elischolar.library.yale.edu/ypfs-documents2/298/ 
+(EC 2008) European Commission (EC). 2008. “State Aid N 639/2008 – Germany, Guarantee 
+for IKB,” December 22, 2008. 
+EC document on the liquidity guarantee provided to IKB Bank in December 2008. 
+https://elischolar.library.yale.edu/ypfs-documents2/2755 
+171
+Germany: IKB Deutsche Industriebank Capital Injection Swaminathan and Vala
+
+--- Page 18 ---
+(EC 2009) European Commission (EC). 2009. “Commission Decision of 21 October 2008 on 
+State Aid Measure C 10/08 (Ex NN 7/08) Implemented by Germany for the Restructuring 
+of IKB Deutsche Industriebank AG,” October 23, 2009. 
+Decision by the European Commission on the restructuring of IKB. 
+https://elischolar.library.yale.edu/ypfs-documents2/293 
+(FCIC 2011) Financial Crisis Inquiry Commission (FCIC). 2011. “Financial Crisis Inquiry 
+Report,” 2011. 
+Report on Global Financial Crisis that describes market conditions at the time of IKB’s 
+financial problems. 
+https://elischolar.library.yale.edu/ypfs-documents2/2453/ 
+(IKB 2008a) IKB Deutsche Industriebank (IKB). 2008a. Annual Report 2007/2008. 
+IKB’s annual report for the 2007/2008 financial year. 
+https://elischolar.library.yale.edu/ypfs-documents2/2764/ 
+(IKB 2008b) IKB Deutsche Industriebank (IKB). 2008b. Financial Statements and 
+Management Report 2007/2008. 
+Report covering IKB’s operations and financial statements for the 2007/2008 financial year. 
+https://elischolar.library.yale.edu/ypfs-documents2/2760 
+(IKB 2008c) IKB Deutsche Industriebank AG (IKB). 2008c. IKB Deutsche Industriebank AG 
+Restated Financial Statements and Management Report 2006/2007. 
+Financial statements of IKB Bank for the year 2006-07. 
+https://elischolar.library.yale.edu/ypfs-documents2/2758 
+(IKB 2008d) IKB Deutsche Industriebank AG (IKB). 2008d. IKB Deutsche Industriebank AG 
+Financial Statements and Management Report 2007/2008. 
+IKB financial statements for 2007/2008. 
+https://elischolar.library.yale.edu/ypfs-documents2/2760 
+(IKB 2009) IKB Deutsche Industriebank (IKB). 2009. “Annual Financial Statements and 
+Management Report of IKB Deutsche Industriebank AG 2008/2009,” 2009. 
+Report covering IKB’s operations and financial statements for the 2008/2009 financial year. 
+https://elischolar.library.yale.edu/ypfs-documents2/2757 
+(IMF 2011) International Monetary Fund (IMF). 2011. “Germany: Technical Note on Crisis 
+Management Arrangements.,” December 23, 2011. 
+Report on crisis management arrangements in Germany. 
+http://elischolar.library.yale.edu/ypfs-documents2/291 
+(KfW 2008) Kreditanstalt für Wiederaufbau (KfW). 2008. Annual Report 2007. 
+KfW’s annual report for the year 2007. 
+https://elischolar.library.yale.edu/ypfs-documents2/297/ 
+172
+Journal of Financial Crises Vol. 6 Iss. 3
+
+--- Page 19 ---
+(KfW 2009a) Kreditanstalt für Wiederaufbau (KfW). 2009a. Annual Report 2008. 
+KfW’s annual report for the year 2008. 
+https://elischolar.library.yale.edu/ypfs-documents2/2762 
+(KfW 2009b) Kreditanstalt für Wiederaufbau (KfW). 2009b. Form 18-K, 2008 Annual 
+Report of KfW. 
+Form 18-K from KfW’s annual report for 2008. 
+https://elischolar.library.yale.edu/ypfs-documents2/310/ 
+Key Academic Papers 
+(Engelen 2008) Engelen, Klaus C. 2008. “Denial, Coverup and the Blaming of Others.” 
+International Economy, Summer 2008. 
+Article on the negligence of IKB’s officials. 
+https://elischolar.library.yale.edu/ypfs-documents2/2743 
+(Forbes and O’Donohoe 2015) Forbes, William, and Sheila O’Donohoe. 2015. “Financial 
+Regulation, Collective Cognition, and Nation State Crisis Management: A Multiple Case 
+Study of Bank Failures in Germany, Ireland, and the UK.” Journal of Risk Finance 16, no. 3: 
+284–302, May 18, 2015. 
+Study on the framework of crisis management in Germany, Ireland, and the UK. 
+https://elischolar.library.yale.edu/ypfs-documents2/2744 
+(Frisch 2017) Frisch, Sven. 2017. “Crisis Aid to Banks in Germany. In Research Handbook 
+on State Aid in the Banking Sector.” Edited by François-Charles Laprévote, Joanna Gray, and 
+Francesco De Cecco, 219–241. Cheltenham, UK: Edward Elgar. Cleary Gottlieb, 2017. 
+Study on the banking crisis aid in Germany. 
+https://elischolar.library.yale.edu/ypfs-documents2/2745 
+(George and Alden, forthcoming) George, Ayodeji, and Sophie Alden. Forthcoming. 
+“Germany: IKB Deutsche Industriebank Emergency Liquidity Assistance, 2008.” Journal of 
+Financial Crises. 
+YPFS case study focusing on the AHEL to IKB in Germany. 
+(Kaserer 2010) Kaserer, Christoph. 2010. “State Aid for Banks and Its Costs – Necessity and 
+Characteristics of an Exit Strategy,” July 29, 2010. 
+Report covering the status of market turmoil and state intervention in German banks during 
+the onset of the GFC. 
+https://elischolar.library.yale.edu/ypfs-documents2/2761 
+(Rhee, Oguri, et al. 2022) Rhee, June, Junko Oguri, Greg Feldberg, and Andrew Metrick. 
+2022. “Broad-Based Capital Injection Programs.” Journal of Financial Crises 4, no. 1. 
+Survey of YPFS case studies examining broad-based capital injection programs. 
+https://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss1/1 
+  
+173
+Germany: IKB Deutsche Industriebank Capital Injection Swaminathan and Vala
+
+--- Page 20 ---
+(Rhee, Hoffner, et al. 2024) Rhee, June, Benjamin Hoffner, Greg Feldberg, and Andrew 
+Metrick. 2024. “Survey of Ad Hoc Capital Injections.” Journal of Financial Crises. 
+Survey of YPFS case studies examining ad hoc capital injections. 
+https://elischolar.library.yale.edu/journal-of-financial-crises/vol6/iss3/1 
+ 
+Copyright 2024 © Yale University. All rights reserved. To order copies of this material or to receive 
+permission to reprint any or all of this  document, please contact the Yale Program on Financial 
+Stability at ypfs@yale.edu. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+174
+Journal of Financial Crises Vol. 6 Iss. 3

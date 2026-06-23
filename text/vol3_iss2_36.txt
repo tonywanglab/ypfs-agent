@@ -1,0 +1,138 @@
+--- Page 1 ---
+Journal of Financial Crises Journal of Financial Crises 
+Volume 3 Issue 2 
+2021 
+Lessons Learned: James Wigand Lessons Learned: James Wigand 
+Sandra Ward 
+Follow this and additional works at: https://elischolar.library.yale.edu/journal-of-financial-crises 
+ Part of the Economic History Commons, Economic Policy Commons, Finance Commons, 
+Macroeconomics Commons, and the Public Administration Commons 
+Recommended Citation Recommended Citation 
+Ward, Sandra (2021) "Lessons Learned: James Wigand," Journal of Financial Crises: Vol. 3 : Iss. 2, 
+784-786. 
+DOI: https://doi.org/10.17132/2693-3179.1159 
+Available at: https://elischolar.library.yale.edu/journal-of-financial-crises/vol3/iss2/36 
+This Lessons Learned is brought to you for free and open access by the Journal of Financial Crises and 
+EliScholar – A Digital Platform for Scholarly Publishing at Yale. For more information, please contact 
+journalfinancialcrises@yale.edu.
+
+--- Page 2 ---
+READERS TAKE NOTICE: READERS TAKE NOTICE: 
+As of April 2024, the YPFS Resource Library’s site domain has changed 
+to https://elischolar.library.yale.edu/ypfs-financial-crisis-resource-library/. 
+Please be aware that upon clicking any of the URL references to 
+the former Resource Library domains, either https://ypfs.som.yale.edu 
+or https://ypfsresourcelibrary.blob.core.windows.net/, in the 
+"References/Key Program Documents" section of a case study, 
+readers will encounter a "page not found" error. readers will encounter a "page not found" error. 
+Readers can still retrieve a given resource cited within this case study 
+on the new site  by searching by searching here  for the title cited. for the title cited. 
+This lessons learned is available in Journal of Financial Crises: https://elischolar.library.yale.edu/journal-of-financial-
+crises/vol3/iss2/36
+
+--- Page 3 ---
+Yale Program on Financial Stability  
+Lessons Learned 
+ 
+James Wigand 
+ 
+By Sandra Ward 
+ 
+A finance specialist and longtime F ederal Deposit Insurance Corporation (F DIC) executive, 
+James Wigand served as Deputy Director, Franchise and Asset Marketing, at the FDIC from 
+1997 to 2010, a period encompassing the global financial crisis of 2007 -09. Wigand oversaw 
+the resolution of all insured-depository institutions during the crisis, arranging acquisitions of 
+troubled banks or liquidating them. He also acted as liaison between the chairman and board 
+of directors of the FDIC.  In 2010, in the aftermath of the crisis, Wigand was named director of 
+the newly created Office of Comple x Financial Institutions at the FDIC, an office formed under 
+the Dodd-Frank Act, and also served as senior advisor to the agency’s chairman.  This Lessons 
+Learned is based on an interview with Wigand. 
+Actions send signals: Understanding market perceptions and the risk of contagion can 
+help to avoid systemic risk. 
+When Lehman Brothers failed in mid -September 2008 it sent a strong signal that the 
+government’s approach to handling troubled institutions was changing, says Wigand. In 
+earlier instances, the government had provided some sort of lifeline to flailing outfits: Bear 
+Stearns, which received some aid from the New York Fed; Fannie Mae and Freddie Mac, 
+which were put under government conservatorship; and AIG, which received assistance, 
+also. Yet, it took the collapse of Washington Mutual a few weeks after Lehman went bust for 
+investors to realize there was no cookie -cutter approach and there  would be a limit to 
+government assistance. Says Wigand, 
+Washington Mutual’s failure reinforced the perception that there was a change in how 
+the government was dealing with these distressed financial companies. A signal was 
+sent that clearly reinforced the fact that the government was not going to be bailing 
+out institutions just to bail them out.  
+Investors reacted to the Washington Mutual case by revaluing assets at other banks, a 
+process that quickly led to a reappraisal of Wachovia, whose loan portfolio resembled 
+WaMu’s, and an outflow of deposits that ultim ately led to its acquisition by Wells Fargo. 
+Wigand observes, 
+Wachovia had purchased a thrift that had been located on the West Coast, and its 
+footprint overlapped significantly with Washington Mutual ’s, so investors started 
+thinking, ah, well, Wachovia looks an awful lot like Washington Mutual with respect 
+to its single-family mortgage portfolio, so we ’re going to start having to think about 
+the losses we are going to take on its unsecured debt. That, in turn, then cr eated a 
+need to have Wachovia either be acquired, raise capital, or otherwise be resolved. By 
+784
+
+--- Page 4 ---
+itself, it  really wasn ’t systemic, but it is illustrative of how a change in market 
+perception can have an effect, particularly during a time of financial instabil ity. And 
+it’s also illustrative of how market participants will look at an acquisition, in this case 
+JPMorgan’s acquisition of Washington Mutual, and use that information as a basis to 
+reprice similar asset books. 
+Mind the gaps: The regulatory framework needs fixes to avert future calamity. 
+As banks transformed themselves in the 1980s and ’90s into mega -financial enterprises 
+offering a broad range of commercial, consumer, and investment banking services, 
+circumventing the constraints established under the G lass-Steagall Act, the regulatory 
+bodies overseeing them failed to keep pace with the changing nature of the business, notes 
+Wigand.  
+Advances in technology, the rise in nonbank institutions, the so -called “shadow” banking 
+system, and financial intermediaries operating without banking charters, pose serious risks, 
+then and now,  that need to be addressed, he says.  The time to tackle the cracks in the 
+regulatory system is now. 
+Observes Wigand,  
+As the financial system continues to evolve, a gap may be in the works, and . . . there 
+are now entities that are outside of regulation and that pose a risk to the financial 
+system. 
+The lesson learned by the gap in financial oversight that was created by n ot having 
+authorities in place to deal with nonbank financial companies is it takes a long time 
+to get something up and running. It may not be too premature to start thinking about 
+how to deal with nonbank banks.  
+Improved interagency communications: Addre ssing crises through coordinated 
+action.  
+Prior to the financial crisis, interagency communication among the various domestic 
+regulators occurred occasionally but not regularly, says Wigand. Communication among 
+global regulators was even more infrequent an d tended to be typically formal, meet -and-
+greet sessions. That has changed for the better. Wigand notes, 
+After the financial crisis, you had the creation of entities and bodies across regulatory 
+agencies for the very purpose of communicating what one regulator was doing, and 
+[how it was] looking at issues, hopefully in a way such that each regulator had an 
+understanding of what the other regulator either was thinking or had to think about 
+or the issues it was facing.  
+785
+Journal of Financial Crises Vol. 3 Iss. 2
+
+--- Page 5 ---
+Knowing what those are, if you are another regulator, is very important, because it 
+helps frame both your understanding of what that other regulator has to do and then 
+also what you might be able to do to facilitate making progress on whatever that issue 
+might be. 
+On an international level, improved communication has resulted in a much better 
+understanding of the authorities of the various regulatory bodies and of their missions, and 
+interaction among global policymakers, says Wigand.  That allows for greater insights into 
+how to best handle crises and coordinate responses in the event of a crisis. 
+Wigand explains,  
+Prior to the financial crisis, I had gone to the Bank of England once  with the chairman and 
+the deputy to the chairman of the FDIC. It was basically a meet-and-greet visit. That was the 
+only interaction I ever had with [officials at] the Bank of England. Then the financial crisi s 
+hit, and afterwards I had multiple meetings with them per year. The huge benefit of that was 
+a much better understanding of what authorities the Bank of England had and how a failure 
+would be ostensibly treated in the normal course of events, understanding there are always 
+exceptions. Also, I had a better understanding on where we could coordinate, though fully 
+recognizing that each regulator had to abide by, and conform with, what its authorities were. 
+_____________________________________ 
+Dated: June 2021 
+YPFS Lessons Learned No: 2019-57 
+ 
+ 
+786
+Lessons Learned: James Wigand Ward

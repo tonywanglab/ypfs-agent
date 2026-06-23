@@ -1,0 +1,525 @@
+## Korea: Korea First Bank and Seoul Bank Capital Injections, 1997[1] 
+
+_Jisoo Park[2] and Owen Heaphy[3]_ 
+
+Yale Program on Financial Stability Case Study October 4, 2024 
+
+## **Abstract** 
+
+Korea First Bank (KFB) and Seoul Bank (SB) were two of the five largest commercial banks in Korea with high levels of exposure to conglomerates, which had high short-term foreign debt in the late 1990s. Starting in the late summer of 1997, Korea, like other Asian economies, experienced capital outflows due to international creditors’ reducing their exposures to Korean financial institutions. Banks relied on the Bank of Korea for foreign exchange liquidity support. The two banks became insolvent owing to high levels of nonperforming loans and required government recapitalization after experiencing a run in early December 1997. As financial conditions deteriorated, Korea sought an International Monetary Fund (IMF) standby arrangement, and the bank recapitalizations became part of the IMF program. KFB received a total of 5.7 trillion Korean won (KRW; USD 4.8 billion) of capital in two rounds, and SB received a total of KRW 5.7 trillion in three rounds, as the initial size was not sufficient when the banks realized further losses. Meanwhile, the government originally intended to sell the banks immediately after the first round of capital injections but was unable to do so because of a lack of a potential investors. An IMF working paper evaluates the privatization of KFB in December 1999 as a landmark step to affect a marketdriven corporate restructuring process, but the privatization of SB was criticized for not being complete after five years. In December 1999, the government sold a 51% stake in KFB for KRW 500 billion to Newbridge Capital with a put-back option requiring the government to repurchase all KFB loans that defaulted over the next two years (three years for loans in workout). The government sold the rest for KRW 1.7 billion to Standard Chartered in January 2005. The government recouped KRW 1.5 trillion in 2002 from the sale of SB to Hana Bank. In the case of KFB, the government lost KRW 17.6 trillion from the transactions before interest, of which KRW 12.6 trillion was recovered as of 2011. For SB, the government spent KRW 9.1 trillion and recovered KRW 6.4 trillion as of 2011. 
+
+**Keywords:** Asian Financial Crisis, capital injection, equity participation, Korea 
+
+> 1 This case study is part of a Yale Program on Financial Stability (YPFS) selection of New Bagehot Project modules considering ad hoc capital injections. A survey of all the cases in this series (Rhee, Hoffner, et al. 2024) and the individual cases underlying it are available from the _Journal of Financial Crises_ at https://elischolar.library.yale.edu/journal-of-financial-crises/vol6/iss3/. Rhee, Oguri, et al. (2022) surveys broad-based capital injection programs. 
+
+> 2 Economist, Financial Stability Department, Bank of Korea. 
+
+> 3 Research Associate, YPFS, Yale School of Management. 
+
+
+## **Overview** 
+
+## **Key Terms** 
+
+This case study is about a capital injection provided to Korea First Bank (KFB) and Seoul Bank (SB). 
+
+During the second half of 1997, the Korean economy started to deteriorate, as many Asian countries, including Korea, experienced large amounts of capital outflows owing to a sudden shift in market sentiment. As a result, conglomerates were faced with liquidity shortages and started to go bankrupt. The Korean banks with large exposures to these companies were also affected; nonperforming loans (NPLs) increased, and capital ratios decreased and, in some cases, were negative (Lindgren et al. 2000). 
+
+KFB and SB were two of the five largest commercial banks in Korea that had high levels of exposure to conglomerates that went bankrupt in the late 1990s. KFB, with total capital of 46.9 trillion Korean won (KRW; USD 55.3 billion)[4] at the end of 1996, was the main creditor of the Hanbo Steel Industry Co. When Hanbo declared bankruptcy in January 1997, making it one of Korea’s largest corporations to collapse, KFB’s total amount of loans outstanding to Hanbo was KRW 1.8 trillion (Jwa and Huh 1998; KDIC 2016; KFB 1997; WSJ 1997). 
+
+SB’s problems started in 1996 when several second-tier business groups, for which SB was the main creditor, failed. By the end of 1996, SB’s NPLs amounted to 9% of total assets, and it recorded a KRW 167 billion loss for the year. In November 1996, the CEO of SB was arrested on bribery charges. The fall of Daenong Group in May 1997 further squeezed the bank. The bank closed the year with a KRW 917 
+
+Purpose: The government was concerned about the impact of the closure of KFB and SB on the broader economy and wanted to resolve financial market instability at an early stage by alleviating concerns about bank insolvency 
+
+||Announcement|December 9, 1997|
+|---|---|---|
+||Date<br>Operational Date<br>Date of Final<br>Capital Injection|January 17, 1998<br>KFB: July 1999 (two rounds);<br>SB: Sept 2001 (three rounds)|
+||End Date|Final sale of KFB shares in|
+|||January 2005;<br>Final sale of SB shares in<br>September 2002|
+||Source of Funding|Government-owned shares,|
+|||KDIC-issued bonds|
+||Administrator<br>Size|KDIC<br>KFB: KRW 5.7 trillion;<br>SB: KRW 5.7 trillion|
+||Capital|KFB: Common stock;|
+||Characteristics|SB: Unknown|
+||Bail-in Terms|Following several dilutions,<br>all previous shareholders in<br>KFB and SB were bailed in<br>before reprivatization|
+||Outcomes|KFB: The government spent<br>a total KRW 17.6 trillion, of|
+|||which KRW 12.6 was<br>recovered as of 2011;<br>SB: The government spent a|
+|||total KRW 9.1 trillion and|
+|||recovered KRW 6.4 trillion as|
+|||of 2011|
+||Notable Features|Anti-dilution for existing<br>shareholders after the first|
+|||round of capital injections|
+
+
+
+4 According to FRED, USD 1 = KRW 847.50 on December 31, 1996. 
+
+
+billion net loss. In the second half of 1998, two large construction companies—Dong-Ah Construction and Woobang Construction—were put into the government’s corporate restructuring program. SB was the main creditor bank for both, with exposures amounting to KRW 984 billion and KRW 171 billion, respectively, at the end of 1998. In August 1999, 12 Daewoo Group companies were also put into government workout programs. The bank’s net loss amounted to KRW 2.2 trillion in 1998. Accumulated losses from 1996 to the end of 1999 were KRW 5.5 trillion (Kang 2003). 
+
+With the financial markets in distress, the Korean government announced plans to stabilize financial markets and boost investor confidence. However, with the economy deteriorating, NPLs kept increasing. Instead of closing the two banks, the government announced on December 9, 1997, plans for injecting capital in both banks owing to their systemic importance. The International Monetary Fund (IMF), International Bank for Reconstruction and Development, and Korea Institute of Finance provided consultation to the government regarding the terms for the injection. In January 1998, the government, through the Korea Deposit Insurance Corporation (KDIC), injected KRW 1.5 trillion (USD 882 million) each into KFB and SB. Because of this recapitalization, the government ended up owning nearly 94% of each bank. KFB received a second round of capital injection from the KDIC in July 1999 of KRW 4.2 trillion (USD 3.6 billion), at which point all legacy shareholders were wiped out (KDIC 2016). It was reprivatized in December 1999 after a sale of the government shares to Newbridge Capital. At this point, the government suspended the sale of KFB shares for a year. In following years, KFB shares could be sold only by the KDIC or Newbridge Capital with the approval of the other party. SB carried out a capital reduction in September 1999, wherein government shares were merged, and all private shareholders were bailed in. SB was not reprivatized until 2002, after being purchased by Hana Bank. Before then, the bank received two more rounds of capital injections totaling KRW 4.1 trillion (KDIC 2016; KFB 2000; Kwon 2016; MOEF 1997). Figure 1 shows the timeline summary of total amount of assistance for KFB and SB. 
+
+
+[FIGURE id=vol6_iss3_15_f1 type=diagram page=6 label="Figure 1" file=figure_1.png caption="Timeline and Total Amount of Public Assistance to KFB and SB"]
+### **Figure 1: Timeline and Total Amount of Public Assistance to KFB and SB**
+
+|**KOREA FIRST BANK**|**KOREA FIRST BANK**|**KOREA FIRST BANK**|**KOREA FIRST BANK**|
+|---|---|---|---|
+|**Date**|**Type**|**Amount**<br>**(KRW billions)**|**Characteristics**|
+|Sept. 4, 1997|Emergency liquidity|1,000|Government extends a special loan at 8%<br>interest rate.|
+|Nov. 26,1997|Assetpurchase|1,528|KAMCOpurchases NPLs.|
+|Jan. 17, 1998|Capital injection|750|Government injects capital to achieve capital<br>ratio of 8%.|
+|Jan. 30, 1998|Capital injection|750|KDIC injects capital to achieve capital ratio of<br>8%.|
+|July 9, 1999|Capital injection|4,209|KDIC injects capital to achieve capital ratio<br>above 10%.|
+|Sept. 1999|Assetpurchase|1,200|KAMCOpurchases distressed assets.|
+|Dec. 23, 1999|Reprivatization|—|KDIC and Newbridge Capital sign final<br>contract for the sale of KFB.|
+|Dec. 31, 1999|Capital injection|38|Government establishes a special reserve<br>duringthe sale to Newbridge.|
+|Jan. 21, 2000|Bonds purchase|91|KDIC purchases bonds with a KFB-issued<br>warrant.|
+|Sept. 2001–<br>Dec. 2005|Cost of sale|6,250|KDIC pays to offset decreases in KFB’s net<br>assets as well as compensation under a put-<br>back option of the sale to Newbridge.|
+|**Total amount injected: KRW 15.8 trillion**||||
+
+
+
+Note: Estimates of the total public aid to KFB vary. Kwon (2016) estimates that the government spent KRW 17.6 trillion in public funds in the restructuring of KFB. The KDIC (2016) estimates that KRW 14.1 trillion in public funds went to rescuing KFB. 
+
+|**SEOUL BANK**|**SEOUL BANK**|**SEOUL BANK**|**SEOUL BANK**|
+|---|---|---|---|
+|**Date**|**Type**|**Amount**<br>**(KRW billions)**|**Characteristics**|
+|Nov. 26,1997|Assetpurchase|1,382|KAMCOpurchases NPLs.|
+|Jan. 17,1998|Capital injection|750|Thegovernment raises capital.|
+|Jan. 30, 1998|Capital injection|750|Government makes a cash investment with<br>approval from KDIC.|
+|Jan. 31, 1998|Capital Injection|500|SB is recapitalized under the Act on the Structural<br>Improvement of the Financial Industry.|
+|July 23, 1998|Asset purchase|50|KAMCO pays for NPLs from SB using KAMCO<br>bonds.|
+|Sept. 17,1999|Assetpurchase|1,543|KAMCOpurchases NPLs.|
+|Sept. 18, 1999|Capital injection|3,321|KDIC injects capital to reach the Bank for<br>International Settlements (BIS) capital ratio of<br>10%.|
+|Dec. 29, 2000 –<br>Sept. 29, 2001|Capital injection|832|KDIC increases capital incrementally under the<br>Deposit Protection Act to reach the capital ratio of<br>10% set by BIS.|
+|Sept. 27, 2002|Reprivatization|—|KDIC and Hana Bank sign final contract for the sale<br>of SB.|
+|**Total amount injected: KRW 9.1 trillion**||||
+
+
+
+_Sources: Kwon 2016, KDIC 2016._ 
+
+
+## **Summary Evaluation** 
+
+The initial announcement of the capital injection in December 1997 was taken as favorable news by the public, as stock prices for both banks rose after the announcement. The IMF evaluated the recapitalization of the two banks as not meeting the IMF’s ambitious timetable, as the banks were nationalized rather than being closed or sold off. The privatization of KFB was considered successful as a signal of confidence in the Korean financial market and a landmark step to a market-driven corporate restructuring process. However, the privatization of the SB was criticized for not being complete after five years (Chopra et al. 2001; IMF 2003; Strom 1999; Yonhap 1997a). 
+
+In a publication for the Korea Development Institute, economist O-kyu Kwon evaluates the rescue of KFB as a moderate success. Although the sale of KFB to foreign investor Newbridge Capital yielded a roughly KRW 5 trillion loss for the government as of 2011, Kwon argues the loss was modest relative to the potential cost of liquidation. As of 2011, SB had received KRW 9.1 trillion in public funds, with the government recovering KRW 6.4 trillion (or 71%). Additionally, Kwon argues the authorities’ handling of KFB provided “an effective model for the [cross-border] sale of a distressed bank,” which Korean firms seeking to purchase distressed foreign financial institutions could use (Kwon 2016, 137). 
+
+Kwon also details two successful features of the sale of KFB. First, officials innovated during negotiations by agreeing to sell KFB’s assets at a discount with a put-back option, which required the government to repurchase all loans that defaulted over the next two years (three years for loans in workout). Such an option was necessitated by market distortion complicating a fair valuation of assets. Second, the government retained as large a stake as possible in KFB (49%) in order to maximally benefit taxpayers when the bank turned profitable again (Kwon 2016). 
+
+Finally, Kwon notes that public perception of the rescue of Seoul Bank was more favorable than that of KFB, despite that fact that a similar percentage of public funds was recovered in both cases, because Hana Bank (a domestic bank) purchased Seoul Bank rather than a foreign financial entity such as Newbridge Capital (Kwon 2016). 
+
+
+|**Context: Korea, Korea First Bank, 1995–1996***|**Context: Korea, Korea First Bank, 1995–1996***|
+|---|---|
+|**Assets**|KRW 45.2 trillion in 1995<br>KRW 46.9 trillion in 1996|
+|**Liabilities**|KRW 43.2 trillion in 1995<br>KRW 45.0 trillion in 1996|
+|**Deposits**|KRW 26.8 trillion in 1995<br>KRW 26.4 trillion in 1996|
+|**Capital Ratio (Tier 1)**|7.5% in 1995<br>6.9% in 1996|
+|**Nonperforming Loans**|KRW 278.7 billion in 1995<br>KRW 343.9 billion in 1996|
+|**Market Share**|Not disclosed|
+|**Banking System, % of GDP**|47.5% in 1995<br>50.4% in 1996|
+|_*_Data for 1997 and 1998 is not available.<br>_Sources: Bloomberg; World Bank Global Financial Development Database; World_<br>_Bank Deposit Insurance Dataset, KFB 1996._||
+
+
+
+|**Context: Korea, Seoul Bank, 2000–2001***|**Context: Korea, Seoul Bank, 2000–2001***|
+|---|---|
+|**Assets**|KRW 20.4 trillion in 2000<br>KRW 23.4 trillion in 2001|
+|**Liabilities**|KRW 19.9 trillion in 2000<br>KRW 22.7 trillion in 2001|
+|**Deposits**|Not disclosed|
+|**Capital Ratio (total)**|10.1% in 2000<br>9.2% in 2001|
+|**Nonperforming Loans**|KRW 2.3 trillion in 2000<br>KRW 0.3 trillion in 2001|
+|**Market Share**|Not disclosed|
+|**Banking System, % of GDP**|74.0% in 2000<br>78.7% in 2001|
+|_*_Data for 1997 and 1998 is not available.<br>_Sources: Bloomberg; World Bank Global Financial Development Database; World_<br>_Bank Deposit Insurance Dataset, Kang 2003._||
+
+
+
+
+## **Key Design Decisions** 
+
+**1. Purpose: Both KFB and SB held large exposures to distressed and bankrupt conglomerates. The government was concerned about the impact of the closure of KFB and SB on the broader economy and wanted to resolve financial market instability at an early stage by improving capital adequacy and restoring solvency at both banks.** 
+
+During the Asian Financial Crisis (AFC), KFB and SB were the first and the biggest beneficiaries of capital injections, while other banks were closed, merged, or acquired. This was largely because of the government’s concern around the impact their closure may have had on the broader economy. KFB’s customers included 4.9 million individuals and 77,000 companies, and SB customers included 5.6 million individuals and 101,000 companies. The government also determined that selling the banks off after bankruptcy would be costlier than going through financial restructuring and then privatizing them, and thus it decided to act as a bridge until the two banks were ready for sale (Chopra et al. 2001; MOEF 1997; MOEF 1998c). 
+
+The Ministry of Economy and Finance (MOEF) also announced that the purpose of the recapitalization was to resolve financial market instability at an early stage by alleviating concerns about bank insolvency that arose during negotiations with the IMF. The capital injections were also expected to improve the creditworthiness of the banks by raising their Basel capital ratios and to encourage them to increase lending to corporations that had almost come to a halt (MOEF 1997). 
+
+**2. Part of a Package: Emergency lending, clean-up of some NPLs, and subordinated debt preceded the recapitalization of the banks and was part of the broad-based financial restructuring program under the rescue package by the IMF.** 
+
+In August 1997, the Korean government effectively provided guarantees for all the Korean banks’ foreign liabilities. In September 1997, the Bank of Korea (BOK) provided emergency liquidity via a loan to KFB amounting to KRW 1 trillion. The loan was conditional on the bank’s following its restructuring plan, which required the management to resign and supervisors to monitor progress of the restructuring every six months. In November 1997, the Korea Asset Management Corporation (KAMCO), a newly established resolution authority, purchased NPLs worth KRW 2.7 trillion from KFB and KRW 3 trillion from SB (BOK 1997; Chopra et al. 2001; KDIC 2016). 
+
+However, with the economy still deteriorating, NPLs continued to increase in both institutions. Furthermore, in early December 1997, the word got out that KFB and SB were under discussions with the IMF for financial restructuring, causing a massive run in which depositors withdrew roughly KRW 1 trillion from each institution within a week. In December, neither the government nor the Korea Deposit Insurance Corporation (KDIC) could raise funds for a capital injection. Instead, the government used the Public Funds Management Fund (PFMF) to replace subordinated debt with government bonds in KFB and 
+
+
+SB. This preexisting fund had purchased government and government-owned-enterprise bonds with excess government reserves. These bonds were exchanged at the same face value as the subordinated debt, and the fund took on any losses from the exchange (KDIC 2016). 
+
+On December 22, 1997, under Article 10 of the Public Funds Management Fund Act, the government authorized an agreement to exchange public bonds (including industrial finance bonds) held by the PFMF for subordinated bonds of the same denomination issued by 27 banks, with a total book value of KRW 5.5 trillion. The terms of the agreement included that any losses incurred by the PFMF from failure to repay the subordinated bonds would be compensated from the PFMF’s reserve fund and general account in accordance with the provisions of Article 14 of the Public Fund Management Fund Act (KDIC 2016). 
+
+On July 9, 1999, KFB sold nonperforming assets with a book value of KRW 4.5 trillion to KAMCO. On December 30, 1999, KFB transferred additional nonperforming assets totaling KRW 3.1 trillion in banking accounts and KRW 525 billion in trust accounts to the KDIC (KFB 2000). 
+
+Figure 2 shows the capital ratios for both banks before, during, and after capital injections. 
+
+[FIGURE id=vol6_iss3_15_f2 type=figure page=10 label="Figure 2" file=figure_2.png caption="Capital Adequacy Ratio of KFB and SB 1995–2001"]
+### **Figure 2: Capital Adequacy Ratio of KFB and SB 1995–2001**
+
+||**1995**|**1996**|**1997**|**1998**|**1999**|**2000**|**2001**|
+|---|---|---|---|---|---|---|---|
+|**KFB**|8.71|9.14|(2.70)|(1.47)|11.44|13.40|13.26|
+|**SB**|8.97|8.56|0.97|(0.88)|10.41|10.08|9.22|
+
+
+
+_Source: ADB 2005._ 
+
+Meanwhile, the government facilitated mergers and liquidations of other distressed banks, depending on their size, interconnectedness, and the amount of their losses. Capital injections to KFB and SB also became a part of the IMF’s rescue package, as Korea sought a three-year standby arrangement with the IMF in December 1997 (Chopra et al. 2001; IMF 1997b). 
+
+## **3. Legal Authority: The recapitalization of the banks was carried out by newly established authorities specialized in financial restructuring.** 
+
+The basis for capital injections by the government and KDIC was legislated by amendments to the Act on the Structural Improvement of the Financial Industry (ASIFI), as well as in the Depositor Protection Act (DPA), which were both amended on December 31, 1997. The authorities amended ASIFI to avoid the rigorous requirement under commercial law in writing off existing shares and issuing new shares. Through the amendment, the authorities were able to expedite the process from 14 weeks to 10 days, enabling them to intervene in KFB and SB more quickly (Korea 1997b; Korea 1997c; MOEF 1998c). 
+
+Under the amended ASIFI, a bank has to be designated as insolvent to receive capital injections. Specifically, the ASIFI’s Article 2 stipulates the conditions under which a financial institution becomes insolvent: (a) its liabilities exceed its assets, as determined by the 
+
+
+Financial Supervisory Commission (FSC) or the Policy Committee at the KDIC; or (b) the FSC has directed it to suspend depositor withdrawals or repayment of debt owed to other financial institutions because the bank has insufficient available funds to meet those obligations without external funding support (Korea 1997c). 
+
+The amended DPA established the Deposit Insurance Fund (DIF). The DIF combined preexisting insurance funds that were dispersed across different financial sectors. It permits the KDIC to issue government-guaranteed bonds for the purposes of financial restructuring (Korea 1997b). 
+
+The legislature passed the Act on the Establishment of Financial Supervisory Organizations (AEFSO) on December 31, 1997. This act established the FSC and the Financial Supervisory Service (FSS). The FSC is responsible for financial restructuring and coordinating with other agencies involved in addressing a financial crisis (Korea 1997a). 
+
+As the amount of government support grew larger, a need for a dedicated body to oversee and recoup public funds arose. As the government planned the third round of capital injections to the KFB and SB, the legislature passed the Special Act on Public Funds Management (SAPFM) in December 2000 to ensure efficient use of public funds and to minimize the public cost by enhancing transparency of managing the funds (Korea 1997b; Korea 2003). 
+
+**4. Administration: Bank of Korea administered the first round of capital injections. Following the IMF’s involvement, the government established a new body with legislative and supervisory power to facilitate the recapitalization and restructuring of the banks, while the deposit insurer, KDIC, administered later capital injections.** 
+
+In the first round of capital injections for KFB and SB, the Monetary Policy Committee of BOK oversaw bank supervision, made decisions on the insolvency of the banks, requested capital injection to the government and KDIC, and ordered banks to write down their capital (KDIC 2016). 
+
+A new regulatory body, the Financial Supervisory Commission (FSC), was established in April 1998, which consolidated financial sector supervision that had previously been stratified into separate oversight bodies for commercial banks, merchant banks, insurance companies, securities firms, and other nonbank financial institutions. The FSC is responsible for restructuring and was granted the power to revoke the licenses of financial institutions and supervise specialized and development banks through new legislation (Lindgren et al. 2000). 
+
+The KDIC did not have the authority to provide capital to insolvent institutions when it was established in 1996. The later amended DPA expanded the role of the KDIC so it could provide capital to insolvent institutions in two instances: (a) at the FSC’s request; or (b) upon the KDIC Policy Committee’s decision, which comprised 13 members: 
+
+
+- President of the KDIC; 
+
+- Vice minister of the MOEF; 
+
+- Vice chairman of the FSC; 
+
+- Vice governor of the Bank of Korea; 
+
+- Chairman of the Korea Federation of Banks; 
+
+- Chairman of the Korea Securities Dealers Association; 
+
+- Chairman of the Incorporated Life Insurance Association; 
+
+- Chairman of the Incorporated Korea Non-life Insurance Association; 
+
+- Chairman of the Incorporated Merchant Banks Association; 
+
+- Chairman of the Mutual Saving and Finance Company Federation; 
+
+- Chairman of the Credit Cooperatives Federation; and 
+
+- Two members commissioned by the MOEF, on the recommendation of the president of the KDIC (KDIC 2016). 
+
+Meanwhile, the government also hired outside experts to develop the banks’ privatization strategy per the IMF’s requirement under its financial restructuring program. It received proposals from five investment banks and appointed Morgan Stanley as the main advisor because it received the highest scores in terms of bank privatization experience, understanding of the Korean banking industry, and strategy for maximizing a bank’s net worth (IMF 1997b; KDIC 2016). 
+
+## **5. Governance: The Public Fund Oversight Committee was established to oversee the recouperation of funds, and a special act on public fund management mandated regular disclosure on how the funds injected to KFB And SB were being managed.** 
+
+After the second round of capital injections to KFB and SB, there were discussions on the establishment of an independent committee to oversee the use of public funds. The SAPFM established a Public Fund Oversight Committee (PFOC) in December 2000. The PFOC is responsible for approving and arranging and the provision and collection of all public funds. However, by the time PFOC was active, the government and the KDIC had finished injecting capital into KFB and SB, and thus the PFOC oversaw only the privatization process of the two banks in this case. SAPFM also required the MOEF to write quarterly reports on the use of public funds to the National Assembly. From 2003 on, however, SAPFM has required the PFOC to publish an annual white paper on public fund management (Korea 2003). 
+
+
+With the legislation of the Special Act on Public Funds Management in December 2000, the Korea Board of Audit (KBA) was empowered to audit the management of public funds and report to the National Assembly from 2001. These measures were due to increased public criticism and suspicion regarding the use of public funds that became particularly acute during the second half of 2000, as the government had to seek congressional approval for KRW 40 trillion of additional public funds for the second-stage financial restructuring (Kang 2003; Korea 2003). 
+
+Auditing was extensively carried out on the bank management. There were quarterly KDIC audits, regular regulatory audits by the prudential regulator, as well as quarterly audits on the rehabilitation plan (Kang 2003). 
+
+**6. Communication and Disclosure: At the outset, news leaks led to runs on both banks. The IMF also noted that earlier publication of staff reports could have improved market confidence.** 
+
+The government communicated the recapitalization and privatization process of KFB and SB through detailed press releases. Another major source of information for the public were the letters of intent (LOIs) sent to the IMF, co-signed by the BOK governor and the minister of finance. In the first LOI to the IMF on December 3, 1997, the letter left KFB and SB anonymous. It said that “[t]wo commercial banks in distress are required to prepare a plan, in about two months, to meet the Basle capital standards within four months after approval of the plan” (IMF 1997a). However, speculation around the two banks being KFB and SB caused a massive run on both banks, amounting to KRW 1 trillion each within a week. The runs caused large losses and rendered them effectively insolvent (KDIC 2016; MOEF 1998a). 
+
+In a 2003 report, the IMF’s Independent Evaluation Office concludes that, unlike in Indonesia’s financial crisis in 1997, the Korean government published its LOI in an effort to restore the confidence of private investors. However, the Korean government did not agree to voluntarily publish IMF staff reports until 2002, and the IMF notes that earlier publication of these reports could have been “particularly effective in communicating the logic of [IMF] programs to the markets” (IMF 2003, 28, 44). 
+
+## **7. Treatment of Creditors and Equity Holders: All existing shares were written down, yet original shareholders were given rights to request buyback at a set price, partially compensating for their losses.** 
+
+The government initially planned on injecting capital without imposing any losses on the original shareholders. However, upon the IMF’s recommendation that governmental aid should be based on shareholders’ loss sharing, the government amended ASIFI to order capital reduction. On January 15, 1998, the authorities ordered a write-down of existing shareholders at both banks. The size of the write-down was determined by calculating how much it would take for the entire outstanding equity to be reduced to KRW 100 billion, which was the minimum capital amount a bank must have had under the Korean banking law at the time (KDIC 2016). 
+
+
+After the first round of injections in January 1998, the government shares in the two banks were 93.8%—MOEF and KDIC each owned 46.9%—and the remaining 6.2% were private shareholders. In September 1998, the authorities amended the ASIFI, as part of its agreement with the IMF, allowing the FSC to further reduce the value of shareholder capital below the minimum capital requirement (KRW 100 billion) set forth in the commercial law and banking law. In the same amendment, the process for writing down shares was simplified pursuant an order from the FSC (Korea 2003). The shareholders were given a right to request buyback at KRW 562 per share, partially compensating capital reductions (PFOC 2000, 147). 
+
+In the second round of injections, shares of private shareholders remaining after the first round of capital injections were written down to zero, making the MOEF and KDIC the sole owners of the banks. Subsequently, there were complaints filed in the Korean Constitutional Court arguing that the amended sections of ASIFI breached the property rights of the original shareholders; however, these complaints were dismissed (KDIC 2016; PFOC 2000). 
+
+**8. Capital Characteristics: The government and the KDIC acquired stocks in both banks that satisfied the capital requirement under the Basel standard of 8%. For KFB, the government held voting common stock. Our research did not reveal the characteristics of SB stock subscribed to by the government.** 
+
+A news source reported that, for KFB, the government initially planned to inject capital in the form of newly issued preferred stocks. However, Korean commercial law prohibited issuance of preferred stocks beyond 25% of any firm’s total outstanding capital. Thus, the maximum amount the government could have injected would have been less than the intended size of the capital injection, which at that point was KRW 1.5 trillion. Therefore, the government provided the capital in newly issued voting common stocks (Yonhap 1997a). 
+
+For SB, our research has not revealed whether the government subscribed to preferred or common stock. 
+
+Both KFB and SB received additional funding from the authorities to supplement their capital deficits at the time they were acquired by third parties. For KFB, this was in connection with the sale to Newbridge Capital. For SB, this covered the deficiency in net worth as of the end of September 2000 and any further losses the bank experienced on market and trading losses between end-September and end-November 2000 (Kang 2003; KDIC 2000). 
+
+**9. Size and Source of Funding: The continuous increase in NPLs made the size of the initial injections insufficient, and the size of total capitalization ended up being about 2.4% of Korea’s 1998 GDP. The funding came mostly from KDIC, which was empowered to issue bonds to raise the funds.** 
+
+KFB received two rounds of capital, in January 1998 and July 1999, totaling KRW 5.7 trillion. SB received three rounds of capital, in January 1998, September 1999, and December 2000– September 2001, totaling KRW 5.7 trillion. The size of the first round of capital injections in January 1998 (KRW 1.5 trillion each) was determined by the amount that the banks needed 
+
+
+to reach the BIS capital ratio of 8% (KDIC 2016). Detailed information on write-downs is in Key Design Decision No. 7, Treatment of Creditors and Equity Holders. 
+
+However, this amount was not sufficient to cover losses realized. A forward-looking criterion (FLC)[5] was adopted by the prudential regulator in determining asset values, which resulted in an increase in measured NPLs. The size of the second round of injections was to help the banks get to a BIS capital ratio of 10%. Shares of minority shareholders that remained after the first round of capital injections were written down to zero. All funds for the second round came from the KDIC; therefore, after the second round, the government retained 3% of KFB while KDIC owned 97%. The size of the second round also took into account loan-loss provisioning and covered losses stemming from sales of NPLs to the newly established resolution authority KAMCO (KDIC 2016). Figure 3 shows a summary of total capital injected to KFB and SB and ownership following each injection. 
+
+[FIGURE id=vol6_iss3_15_f3 type=chart page=15 label="Figure 3" file=figure_3.png caption="Summary of Capital Injections to KFB and SB (KRW billions)"]
+### **Figure 3: Summary of Capital Injections to KFB and SB (KRW billions)**
+
+||**Korea First Bank**|**Korea First Bank**|**Seoul Bank**|**Seoul Bank**|
+|---|---|---|---|---|
+||**Recapitalization**|**Ownership**|**Recapitalization**|**Ownership**|
+|**Jan. 1998**|1,500<br>(from government<br>& KDIC)|46.9% (MOEF)<br>46.9% (KDIC)<br>6.2%(Private)|1,500<br>(from government &<br>KDIC)|46.9% (MOEF)<br>46.9% (KDIC)<br>6.2%(Private)|
+|**July 1999**|4,209 (by KDIC)|3% (MOEF)<br>97%(KDIC)|||
+|**Sept. 1999**|||3,321(byKDIC)|100%(KDIC)|
+|**Dec. 2000-**<br>**Sept. 2001**|||832 (by KDIC)|100% (KDIC)|
+|**Total**|**5,709**||**5,652**||
+
+
+
+_Sources: KDIC 2016; Ro 2001._ 
+
+SB required a third round of capital injections from KDIC that took place in three separate instances, as the privatization deal with a potential buyer failed. The size was determined to satisfy a capital ratio of 10%; it was also meant to cover shortfalls in net worth, money paid to minority shareholders when wiping them out in the previous round of capital injections, and losses realized after an audit (KDIC 2016). 
+
+There were no preset limits to the size of the total capital injection program, and the size of total capitalization was about KRW 11.3 trillion, approximately 2.4% of Korea’s 1998 GDP[6] (Kang 2003; KDIC 2016). 
+
+For the first capital injection in January 1998, 50% of funding came from MOEF and the other 50% came from KDIC. The MOEF transferred, with the National Assembly’s approval, the 
+
+> 5 Loan criteria that more accurately reflected the future abilities of borrowers to service their debt, effective as of December 31, 1999 (Lee 2011). 
+
+> 6 World Bank data. 
+
+
+government-owned shares of the Korea Tobacco & Ginseng Corporation[7] and the Korea Electric Power Corporation[8] in its State Property Special Accounts for the capital injection to the banks (KDIC 2016). 
+
+The KDIC provided cash to the banks in exchange for their shares. KDIC raised cash through bond issuance with approval from the National Assembly. The amount of bonds raised was less than the total amount of money used for restructuring because recouped public funds were re-spent on financial restructuring (PFOC 2000; PFOC 2021). The National Assembly initially approved the KDIC to issue KRW 44 trillion in bonds. However, as it was the first time for KDIC issuing bonds in such large amounts, it was unable to sell, and the first round of bonds issued was purchased by the BOK. The BOK purchased the bonds under the condition that the KDIC repay BOK as soon as it sold its equity stakes to the private sector (BOK 1998). The second round of issuance, raising KRW 40 trillion, was smoother, and the private sector participated in the purchase. 
+
+**10. Timing: Large conglomerates started falling early in 1997, quickly increasing NPLs for KFB and SB. The capital injection came in January 1998 after the IMF announced its support.** 
+
+The capital injections took place between January 1998 and September 2001. Previously, the authorities had already provided emergency liquidity and purchased NPLs and subordinated debt from both banks (KDIC 2016). 
+
+**11. Restructuring: The banks submitted restructuring plans, which were guided by a detailed prescribed outline set forth by the authorities and subject to approval by the prudential regulator.** 
+
+Both banks submitted restructuring plans in February 1998 after the first round of injections that would enable the banks to keep their capital ratios above 8% after June 1998, after considering loan-loss provisions. The plans were also to include a possible merger with another financial institution or disposal of some or all of their banking business, along with plans to raise more capital and dispose of risky assets. Details such as size of branch closings, layoffs, wage reductions, decreased number of executives, change in auditor, and risk management practices were also outlined in the plans. The restructuring plans were approved by the prudential regulator in February 1998 (KDIC 2016; MOEF 1998b; MOEF 1998c). 
+
+For both banks, the government hired a foreign investment bank for advising on the bank’s restructuring process. In May 1998, KDIC and the banks signed a Financial and Restructuring Advisory Agreement with Morgan Stanley. According to the new plan, the banks went through due diligence on the loan portfolios to draw on new risk management plans, credit 
+
+> 7 KT&G Corporation was a government-owned monopoly company on tobacco and ginseng. The government monopoly on ginseng stopped in 1996, and monopoly on tobacco stopped in 2001. 
+
+> 8 The Korea Electric Power Corporation is the leading electric utility company in Korea, and the government directly and indirectly owns most of its shares. As of December 2020, the government held 61% of the company’s equity. 
+
+
+review, and sales strategy. A committee comprising members from MOEF, KDIC, BOK, and both banks reviewed the privatization process as well (MOEF 1998b; MOEF 1998a). 
+
+**12. Treatment of Board and Management: The original management was removed, yet the authorities found it difficult to find new management.** 
+
+The original management of both banks, including all executives, was removed upon the first round of capital injections following the agreement with the IMF (IMF 1997b; KDIC 2016). 
+
+SB lacked consistent management, having three interim CEOs and one permanent CEO from 1997 to 2000, as it was difficult to find the right person. To improve the governance structure and mitigate moral hazard, the new board was structured so that outside directors outnumbered insiders, and an audit committee with a standing auditor was incorporated. Some attest that although this structure may have alleviated the political concern around using public funds, it still was not enough to serve the functional needs of bank governance. While the outside directors were well informed and committed, per then-CEO Chungwon Kang, the policymakers who were the new shareholders did not take the board seriously. Outside directors were not included in the discussion of the status of the bank in general or the timing of the sale, as shown in unsuccessful attempts to sell SB (Kang 2003). 
+
+**13. Other Conditions: In the last round of capital injections for SB, KDIC and SB signed a memorandum of understanding agreeing to sell SB to a foreign investor by the end of June 2001. Our research did not reveal other conditions for the sale of KFB.** 
+
+In December 2000, the government, in injecting more capital to SB, signed a memorandum of understanding (MOU) establishing that if SB were not sold to a private foreign investor by the end of June 2001, it would convert the bank into a financial holding company. The market understood that this financial holding company, named Woori Finance Holding Company, would be a vehicle for collecting bad banks. It had already absorbed four bad banks by April 2001 (Kang 2003). 
+
+## **14. Regulatory Relief: Our research did not reveal that officials applied any regulatory relief to KFB and SB as part of their capital injections.** 
+
+Our research did not reveal that officials applied any regulatory relief to KFB and SB as part of their capital injections. 
+
+## **15. Exit Strategy: The initial privatization target date of November 1998 was delayed because the government sought foreign investors under specific terms instead of going through an auction.** 
+
+The plan from the start was to privatize the banks as quickly as possible after the initial round of capital injections. Officials emphasized the temporary nature of the injections (MOEF 1997; Yonhap 1997b). The government initially intended to inject just the first round of capital and sell KFB and SB to foreign investors within less than a year after the injections. However, the initial sunset date, November 1998, was not met, as private investors were reluctant to purchase either bank. The banks subsequently required additional capital, 
+
+
+leading to their nationalization and subsequent reprivatization at a later stage (IMF 1998; Kwon 2016). 
+
+The Korean government set up a privatization review committee composed of government officials. The committee consisted of five members from the MOEF (two members), the KDIC, the FSS, and the Korea Institute of Finance, and was to decide on the privatization strategy. The committee preferred to sell each bank as a whole, considering a split sale as having higher uncertainty and disadvantages in terms of cost and speed. The committee, however, did consider the possibility of a split sale if one buyer purchased a 50% +1 share stake, so that the buyer could secure management rights. Also, in the case of a split sale, the committee hoped that if a buyer succeeded in turning the bank around, the value of remaining shares would also increase and in turn help to recover taxpayers’ money. The committee selected Morgan Stanley as its advisor for the sale of the two banks. The original target date for privatization was November 15, 1998 (Cho and Kalinowski 2010; KDIC 2016; Kwon 2016). 
+
+KFB was offered for sale after it went through valuation exercises by Morgan Stanley and Coopers & Lybrand, an accounting advisor for the committee in May and June 1998. The net assets of KFB were valued at KRW 4.4 trillion by Coopers & Lybrand in December 1997 and KRW 3.5 trillion by Morgan Stanley in June 1998 (KDIC 2016). Both estimates were lower than the government’s initial expectations. HSBC and a consortium led by Newbridge Capital, a US private equity fund, were the only two bidders. The negotiation with HSBC failed, however, because the British bank offered to buy 80%, whereas the government wanted to retain more than 20% of KFB. In December 1998, the committee was able to sign an MOU with Newbridge Capital. Newbridge Capital offered more advantageous terms. It agreed to buy a 51% stake for KRW 500 billion, with a put-back option for three years. Bad assets and certain liabilities were to be transferred to the bad bank, KAMCO. There was speculation that the government accepted the deal to meet the deadline set by the IMF. The deal provoked a public outcry over “fire sale” privatization (Lee 2011, 256). On the other hand, foreign news media mostly took the view that the sale of KFB was an important milestone and that it would be a major catalyst for future reform and restructuring in Korea. The bank was later sold to Standard Chartered in January 2005 for a sale price of KRW 3.4 trillion, of which the government received KRW 1.7 trillion for its stake (Cho and Kalinowski 2010; KDIC 2016; Strom 1999). 
+
+For SB, the government also sought foreign investors with Morgan Stanley’s help. It signed an MOU with HSBC in early 1999. Similarly to the KFB-Newbridge deal, the government planned to move NPLs to the bad bank (KAMCO) and only sell the clean bank. Some considered the terms of sale for SB to be more advantageous than the terms for KFB. However, the deal broke off in August 1999 as the parties failed to agree on the details of due diligence and standards on measuring fixed assets. The government decided to put SB through a more comprehensive restructuring before putting it on the market again to attract investors. The authorities then chose Deutsche Bank as an advisor for the business normalization as well as sale of SB. Additionally, it abandoned the preference that one buyer hold at least 51%; instead, the buyer was restricted to a single bank or a consortium including at least one bank. As NPLs kept increasing, SB needed a third round of injections. In 2002, with the economy recovering, SB’s prospects of being sold improved. The committee 
+
+
+now wanted to consider domestic investors. In July 2002, two investors—Lone Star, a USbased private equity firm, and Hana Bank, a Korean domestic bank—submitted binding bids. The sales review committee decided that Hana Bank was more suitable considering the purchase price, future business plans, and terms of sales including a put-back option. The bank was finally sold off in its entirety to Hana bank in September 2002, and the government recouped KRW 1.5 trillion in total (1.4 trillion from the sales and 0.1 trillion from dividends) (KDIC 2016; Kwon 2016; Lee 2011). 
+
+
+## **References and Key Program Documents** 
+
+## **Summary of Program** 
+
+(BOK 1997) Bank of Korea (BOK). 1997. “Special Loan to KFB,” September 5, 1997. _Document describing a special loan to KFB (in Korean)_ . http://elischolar.library.yale.edu/ypfs-documents2/1854 
+
+(BOK 1998) Bank of Korea (BOK). 1998. “BOK Purchases KDIC Bonds,” January 31, 1998. _Document describing the terms of BOK’s purchase of the initial issue of KDIC bonds (in Korean)_ . 
+
+http://elischolar.library.yale.edu/ypfs-documents2/1855 
+
+(PFOC 2000) Public Fund Oversight Committee (PFOC). 2000. “Public Fund Management White Paper.” Financial Services Commission of South Korea, August 1, 2000. _White paper describing the features of the capital that the Korea Deposit Insurance Corporation first bought from the banks (in Korean)_ . 
+
+https://elischolar.library.yale.edu/ypfs-documents/9051/ 
+
+(PFOC 2021) Public Fund Oversight Committee (PFOC). 2021. “Public Fund Management White Paper.” Financial Services Commission of South Korea, 2021. 
+
+_White paper describing the outcomes of the capital that the Korea Deposit Insurance Corporation bought from the banks (in Korean)_ . 
+
+https://elischolar.library.yale.edu/ypfs-documents2/2310/ 
+
+## **Legal/Regulatory Guidance** 
+
+(Korea 1997a) Republic of Korea (Korea). 1997a. Act on the Establishment of Financial Supervisory Organizations, Act No.5490. December 31, 1997. 
+
+_Legislation by the Parliament of Korea establishing the FSC and FSS (in Korean)_ . https://elischolar.library.yale.edu/ypfs-documents2/2858 
+
+(Korea 1997b) Republic of Korea (Korea). 1997b. Depositor Protection Act, Act No. 5492. December 31, 1997. 
+
+_Amendment to the legislation by the Parliament of Korea establishing the basis for funding support by the KDIC (in Korean)_ . 
+
+https://elischolar.library.yale.edu/ypfs-documents2/2859/ 
+
+(Korea 1997c) Republic of Korea (Korea). 1997c. Enforcement Decree of the Act on the Structural Improvement of the Financial Industry, Presidential Decree No. 15569. December 31, 1997. 
+
+_Amendment to the legislation by the Parliament of Korea establishing the basis for capital injection_ . 
+
+http://elischolar.library.yale.edu/ypfs-documents2/1831 
+
+
+(Korea 2003) Republic of Korea (Korea). 2003. Special Act on Public Funds Management, Act No. 6807. 
+
+_Amendment by the Parliament of Korea establishing the Committee for Management of Public Funds (in Korean)_ . 
+
+http://elischolar.library.yale.edu/ypfs-documents/9047 
+
+## **Media Stories** 
+
+(Strom 1999) Strom, Stephanie. 1999. “Korea to Sell Control of Bank to U.S. Investors.” New York Times, January 1, 1999. 
+
+_Newspaper article on an agreement between the South Korean government and a consortium led by GE Capital for the sale of a controlling stake in KFB_ . 
+
+http://elischolar.library.yale.edu/ypfs-documents2/1998 
+
+(WSJ 1997) Wall Street Journal (WSJ). 1997. “Hanbo Steel Goes Bankrupt with Debt of $5.85 Billion.” Wall Street Journal, January 24, 1997. 
+
+_News article reporting the bankruptcy of Hanbo Steel_ . http://elischolar.library.yale.edu/ypfs-documents2/2001 
+
+(Yonhap 1997a) Yonhap News Agency (Yonhap). 1997a. “The effects of government contribution to Korea First Bank.” Yonhap News Agency, September 4, 1997. 
+
+_News report on the first round of government capital injections to KFB (in Korean)_ . http://elischolar.library.yale.edu/ypfs-documents2/2002 
+
+(Yonhap 1997b) Yonhap News Agency (Yonhap). 1997b. “KOSPI Under 400.” Yonhap News Agency, December 9, 1997. 
+
+_News report on the uptick of share prices for KFB And SB (in Korean)_ . http://elischolar.library.yale.edu/ypfs-documents2/2003 
+
+## **Press Releases/Announcements** 
+
+(IMF 1997a) International Monetary Fund (IMF). 1997a. “Republic of Korea: Letter of Intent of the Government of Korea,” December 3, 1997. 
+
+_Letter of Intent from the government of Korea to the IMF describing the policies that Korea intends to implement in the context of its request for IMF financial support_ . http://elischolar.library.yale.edu/ypfs-documents/14862 
+
+(IMF 1997b) International Monetary Fund (IMF). 1997b. “Republic of Korea: Letter of Intent of the Government of Korea,” December 24, 1997. 
+
+_Letter of Intent from the government of Korea to the IMF describing the macroeconomic policies, financial restructuring, and other structural adjustments as a part of the IMF’s 1997 stand-by program with the Republic of Korea_ . 
+
+http://elischolar.library.yale.edu/ypfs-documents/14864 
+
+
+(IMF 1998) International Monetary Fund (IMF). 1998. “Republic of Korea: Letter of Intent of the Government of Korea,” May 2, 1998. 
+
+_Letter of Intent from the government of Korea to the IMF describing the ongoing financial structural reforms_ . 
+
+http://elischolar.library.yale.edu/ypfs-documents2/1859 
+
+(MOEF 1997) Ministry of Economy and Finance, Korea (MOEF). 1997. Announcement on Capital Injection for KFB and SB. Press release, December 9, 1997. 
+
+_A press release from the MOEF on the justification and overview of the capital injection plan for KFB and SB_ . 
+
+http://elischolar.library.yale.edu/ypfs-documents2/2311 
+
+(MOEF 1998a) Ministry of Economy and Finance, Korea (MOEF). 1998a. Plans for Privatization of KFB and SB. Press release, March 31, 1998. 
+
+_A press release by MOEF on plans to privatize KFB and SB (in Korean)_ . 
+
+http://elischolar.library.yale.edu/ypfs-documents2/2314 
+
+(MOEF 1998b) Ministry of Economy and Finance, Korea (MOEF). 1998b. “Signing Contract with the Advisory for Privatization of KFB and SB.” Press release, March 20, 1998. _Contract describing plans for arrangement with Morgan Stanley as outside advisor for privatization (in Korean)_ . 
+
+http://elischolar.library.yale.edu/ypfs-documents2/2313 
+
+## **Reports/Assessments** 
+
+(ADB 2005) Asian Development Bank (ADB). 2005. “Financial Sector Program (Loan 1601KOR) and Institutional Strengthening of the Financial Sector Project (Loan 1602-KOR) to the Republic of Korea.” Operations Evaluation Department, December 2005. _Assessment of Financial Sector Program Loan to Korea by the ADB_ . http://elischolar.library.yale.edu/ypfs-documents2/1853 
+
+(IMF 2003) International Monetary Fund (IMF). 2003. “The IMF and Recent Capital Account Crises: Indonesia, Korea, Brazil.” Independent Evaluation Office, Evaluation Report, September 2003. 
+
+_IMF report focusing on the role of the IMF in three currency crises: Indonesia (1997–98), Korea (1997–98), and Brazil (1998–99)_ . 
+
+http://elischolar.library.yale.edu/ypfs-documents2/1827 
+
+(KDIC 2000) Korea Deposit Insurance Corporation (KDIC). 2000. Annual Report, 1999. _Annual report of the KDIC for the year 1999_ . 
+
+http://elischolar.library.yale.edu/ypfs-documents/9024 
+
+
+(KDIC 2016) Korea Deposit Insurance Corporation (KDIC). 2016. “The History of KDIC,” May 2016. 
+
+_A report summarizing the history of KDIC with detailed information on its activities during the Asian Financial Crisis including  the government’s use of Public Funds Management Act (in Korean)_ . 
+
+http://elischolar.library.yale.edu/ypfs-documents2/2016 
+
+(KFB 1997) Korea First Bank (KFB). 1997. Annual Report 1996. _Annual report of KFB for the year 1996_ . https://elischolar.library.yale.edu/ypfs-documents2/2856 
+
+(KFB 2000) Korea First Bank (KFB). 2000. Annual Report 1999. _Annual report of KFB for the year 1999_ . https://elischolar.library.yale.edu/ypfs-documents2/2857 
+
+(MOEF 1998c) Ministry of Economy and Finance (MOEF). 1998c. “Details of Capital Injection to KFB and SB.” Financial Policy Division, January 3, 1998. 
+
+_Report from the MOEF’s Financial Policy Division providing details of the capital injection plans for KFB and SB (in Korean)_ . 
+
+http://elischolar.library.yale.edu/ypfs-documents2/2312 
+
+## **Key Academic Papers** 
+
+(Cho and Kalinowski 2010) Cho, Hyekyung, and Thomas Kalinowski. 2010. “Bank Nationalization, Restructuring and Reprivatization: The Case of Korea since the Asian Financial Crisis.” Korea Observer 41, no. 1 (Spring): 1-30, 2010. 
+
+_Case study of the political economy of bank restructuring, privatization and market liberalization in the South Korean banking sector since the 1997-98 financial crisis_ . http://elischolar.library.yale.edu/ypfs-documents2/1857 
+
+(Chopra et al. 2001) Chopra, Ajai, Kenneth Kang, Meral Karasulu, Hong Liang, Henry Ma, and Anthony Richards. 2001. “From Crisis to Recovery in Korea: Strategy, Achievements, and Lessons.” IMF Working Paper No. 01/154, October 2001. 
+
+_Paper reviewing and drawing lessons from the stabilization and reform program that Korea implemented in response to the 1997–98 crisis_ . 
+
+http://elischolar.library.yale.edu/ypfs-documents/8949 
+
+(Jwa and Huh 1998) Jwa, Sung-hee, and Chan Guk Huh. 1998. “Risk and Returns of Financial-Industrial Interactions: The Korean Experience.” Korea Economic Research Institute, June 1998. 
+
+_Working paper examining how a bank can lose its ability to exercise discretionary control over its lending to a firm when exposure to the firm is too large_ . http://elischolar.library.yale.edu/ypfs-documents2/1981 
+
+
+(Kang 2003) Kang, Chungwon. 2003. “From the Front Lines at Seoul Bank: Restructuring and Reprivatization.” IMF Working Paper No. 03/235, December 2003. 
+
+_Paper describing the restructuring of Seoul Bank by the new management team between June 2000 and October 2002, when the bank was sold to Hana Bank in a merger transaction_ . http://elischolar.library.yale.edu/ypfs-documents2/1982 
+
+(Kwon 2016) Kwon, O-kyu. 2016. “Financial Restructuring in Korea.” Korea Development Institute, March 31, 2016. 
+
+_Report on the structural reforms undertaken by Korea in response to the 1997 financial crisis including the government’s first capital injections into KFB and SB_ . https://elischolar.library.yale.edu/ypfs-documents/9020/ 
+
+(Lee 2011) Lee, Kyu-Sung. 2011. _The Korean Financial Crisis of 1997: Onset, Turnaround, and Thereafter_ . Washington, DC: World Bank. 
+
+_Memoir by former Minister of Finance and Economy Kyu-Sung Lee about the Korean financial crisis of 1997_ . 
+
+http://elischolar.library.yale.edu/ypfs-documents/9036 
+
+(Lindgren et al. 2000) Lindgren, Carl-Johan, Tomás J.T. Baliño, Charles Enoch, Anne-Marie Gulde, Marc Quintyn, and Leslie Teo. 2000. “Financial Sector Crisis and Restructuring: Lessons from Asia.” IMF Occasional Paper No. 188, January 21, 2000. _Paper reviewing the various policy responses of the Indonesian, Korean, and Thai governments to the Asian Financial Crisis of 1997_ . 
+
+http://elischolar.library.yale.edu/ypfs-documents/8734 
+
+(Rhee, Hoffner, et al. 2024) Rhee, June, Benjamin Hoffner, Greg Feldberg, and Andrew Metrick. 2024. “Survey of Ad Hoc Capital Injections.” _Journal of Financial Crises_ 6, no. 3. _Survey of YPFS case studies examining ad hoc capital injections_ . 
+
+https://elischolar.library.yale.edu/journal-of-financial-crises/vol6/iss3/1/ 
+
+(Rhee, Oguri et al. 2022) Rhee, June, Junko Oguri, Greg Feldberg, and Andrew Metrick. 2022. “Broad-Based Capital Injection Programs.” _Journal of Financial Crises_ 4, no. 1: 1–48. _Survey of YPFS case studies examining broad-based capital injection programs._ https://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss1/1 
+
+(Ro 2001) Ro, Gyun-Hun. 2001. “Banking Industry Consolidation in Korea.” In _The Banking Industry in the Emerging Markets Economies: Competition, Consolidation, and Systemic Stability_ . Bank for International Settlements Papers No. 4: 93–101. 
+
+_Paper describing the Korean government’s use of mergers via purchase and assumption to clean up its banking system; capital injections were often preceded by forced mergers_ . http://elischolar.library.yale.edu/ypfs-documents/9042 
+
+Copyright 2024 © Yale University. All rights reserved. To order copies of this material or to receive permission to reprint any or all of this document, please contact the Yale Program on Financial Stability at ypfs@yale.edu.

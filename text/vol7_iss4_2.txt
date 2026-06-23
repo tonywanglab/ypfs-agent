@@ -1,0 +1,143 @@
+--- Page 1 ---
+Journal of Financial Crises Journal of Financial Crises 
+Volume 7 Issue 4 
+2025 
+Lessons Learned: Pedro Machado Lessons Learned: Pedro Machado 
+Mercedes Cardona 
+Follow this and additional works at: https://elischolar.library.yale.edu/journal-of-financial-crises 
+ Part of the Finance Commons, Macroeconomics Commons, Policy Design, Analysis, and Evaluation 
+Commons, and the Policy History, Theory, and Methods Commons 
+Recommended Citation Recommended Citation 
+Cardona, Mercedes (2025) "Lessons Learned: Pedro Machado," Journal of Financial Crises: Vol. 7 : Iss. 4, 
+27-29. 
+DOI: https://doi.org/10.17132/2693-3179.1673 
+Available at: https://elischolar.library.yale.edu/journal-of-financial-crises/vol7/iss4/2 
+This Lessons Learned is brought to you for free and open access by the Journal of Financial Crises and 
+EliScholar – A Digital Platform for Scholarly Publishing at Yale. For more information, please contact 
+journalfinancialcrises@yale.edu.
+
+--- Page 2 ---
+READERS TAKE NOTICE: READERS TAKE NOTICE: 
+As of April 2024, the YPFS Resource Library’s site domain has changed 
+to https://elischolar.library.yale.edu/ypfs-financial-crisis-resource-library/. 
+Please be aware that upon clicking any of the URL references to 
+the former Resource Library domains, either https://ypfs.som.yale.edu 
+or https://ypfsresourcelibrary.blob.core.windows.net/, in the 
+"References/Key Program Documents" section of a case study, 
+readers will encounter a "page not found" error. readers will encounter a "page not found" error. 
+Readers can still retrieve a given resource cited within this case study 
+on the new site  by searching by searching here  for the title cited. for the title cited. 
+This lessons learned is available in Journal of Financial Crises: https://elischolar.library.yale.edu/journal-of-financial-
+crises/vol7/iss4/2
+
+--- Page 3 ---
+Yale Program on Financial Stability 
+Lessons Learned 
+ 
+   
+ 
+Pedro Machado  
+By Mercedes Cardona 
+Pedro Machado began his career as a legal advis er to the European Central Bank in the years 
+leading up the Global Financial Crisis ( GFC), then joined the Bank of Portugal  (BOP) in 2006, 
+where he has held several positions . He was chief of staff to Portugal’s minister of state and 
+finance in 2011, during the European Sovereign Debt Crisis, when the government negotiated 
+a bailout with the International Monetary Fund (IMF) and European Union. He returned to the 
+BOP, as deputy director of the prudential supervision department, while the program was being 
+implemented. The EUR 78 billion bailout was largely a success, reducing deficits, improving 
+Portugal’s bond yields, and eventually reducing unemployment below pre-GFC levels by the end 
+of the decade. Machado joined the European Union’s Single Resolution Board (SRB) in 2020 as 
+head of resolution planning and decisions. This Lessons Learned is based on an interview held 
+in January 2025; the full transcript is available here. 
+In a crisis, ownership of the pro cess, stakeholder engagement , and institutional 
+strength are crucial to the speed and success of any stability measures.  
+Machado noted that the GFC was one of the most unstable economic periods Portugal had 
+experienced since the First Republic, the period  between the fall of the monarchy in 1910 
+and the coup that installed a military regime in 1926. But , he continued,  the IMF’s rescue 
+plan for Portugal was enacted with less opposition than the Greek bailout during that same 
+period and was largely more successful than the programs in Greece and Italy.  
+Portugal emerged from the three -year plan in better shape, with lower unemployment and 
+improved economic growth. Machado pointed to the institutional strength of the country—
+in financial, economic, and social terms —as the underpinning of its success. He  three key 
+elements for this result:  
+The first was the idea of ownership. The program was ours in the sense that the 
+program would not be implem ented as something being imposed on us. Of course, 
+there is this issue that the program was agreed to with international institutions, or 
+European institutions, but the program would be undertaken by us as our own. There 
+should be a deep commitment to the involvement and the engagement from all parts 
+of the state, starting from the very high levels through the lower layers of the public 
+administration. I think that idea of ownership was a very important one in contrast, 
+for instance, to my knowledge, to the case of Greece. 
+The second key pillar for me was the broad stakeholder engagement or involvement. 
+The program had three pillars. It had the fiscal pillar, it had the structural reforms 
+pillar, and it had the financial stability pillar. When you look at whatever was needed 
+in terms of execution of each of those pillars, there was always a very deep 
+involvement at the level of certain interest groups that represented key stakeholders 
+in those processes. . . . 
+27
+
+--- Page 4 ---
+And then finally, I think there was a certain ins titutional strength, which was a  
+surprise to me. I thought that the institutional framework in Portugal was more feeble 
+than it [was] revealed to be. There was also an organization set  up from the very 
+beginning, which reported directly to the prime minist er. It was called  EXAM [or 
+sometimes ESAME, for Estrutura de Acompanhamento dos Memorandos —the 
+Structure for Monitoring the Memoranda ]. It was a horizontal structure, which 
+basically was entrusted with monitoring all the key milestones of the program and 
+coordinating the preparation of each of the quarterly reviews that were undertaken 
+by the Troika. 
+Establishing resolution processes before a crisis increases readiness ; testing these 
+processes can provide policymakers with invaluable experience and information that 
+improve their ability to address a crisis.  
+When Banco Espirit o Santo (BES) collapsed in 2014 and the government had to step in to 
+resolve the institution, the risk to the Portuguese economy was great. But, said Machado, the 
+Bank of Portugal was well positioned to address the situation. He described how the central 
+bank had been monitoring the European Union’s process of developing its Bank Resolution 
+and Recovery Directive (BRRD)  but decided to proceed with drafting its own resolution 
+directives rather than wait on the EU to adopt the BRRD.  
+We decided very early in the program to speed up the resolution framework. The 
+BRRD was being discussed at the time, and it was considered. Many times, we 
+struggled with the fact that: Should we wait fo r the BRRD? Because we ’re talking 
+about 2011; the discussions were starting, and we thought that maybe this was such 
+a key legislative piece for the European Union that this was going to be accelerated. 
+But then we saw in 2012 that things were not really g etting to the speed that we 
+would be expecting. So we decided not to wait for the BRRD. We front -loaded much 
+of the regime of the BRRD into our own resolution framework, which we adopted by 
+the end of 2012.  
+I think this idea of front -loading, of not really waiting for certain developments to 
+occur on very key pieces of legislation , is very important to cope with cris es, and in 
+particular banking crisis management. So we didn ’t wait. Of course, we took a risk 
+because the BRRD was still at a very incipient state, so we could not draw so much 
+from there. But I think with hindsight, we anticipated broadly the framework of the 
+BRRD. If you make a comparison, the differences are not that big between both pieces 
+of legislation. 
+Machado also described how once the resolution infrastructure was in place, the Bank of 
+Portugal and the finance ministry conducted a dry run on the basis of  another bank, which 
+proved very valuable as a learning exercise.  
+It was a very relevant exercise in regard to the key findings that it allowed us to draw 
+on, and also on the experience and the readiness. Even things like: How do you 
+prepare for resolution? The logistics inside the resolution authority: Who should get 
+28
+Journal of Financial Crises Vol. 7 Iss. 4
+
+--- Page 5 ---
+access immediately? How do we set up a team quickly? Access rights, hiring of the 
+independent valuer—which kind of data parameters  do you need for the valuation? 
+All this was tested during this dry run, which means that when we were unexpectedly 
+hit with this crisis in mid -2014, a large chunk of the preparedness part was in place 
+at the Bank of Portugal. The Bank of Portugal teams were quite proficient because 
+they had been not only deeply in volved in the preparation of the resolution 
+framework, but also in building certain expertise because we had conducted some 
+simulation exercises, which were quite granular. 
+Front-loading turned out to be a good decision. Machado highly recommends the process to 
+other central banks: 
+I think pre-crisis preparedness and readiness is of the essence, and you only achieve 
+it with sound legal frameworks, sound policies, but in particular with testing and 
+operationalization. For me, this is the key driver. If in a country, in whatever country, 
+you want to build crisis management preparedness, you have to go through these 
+exercises. It’s very key. Otherwise, the probability that you will not be successful is 
+very high. So for me, this is a major lesson learned from that. 
+Dated: December 2025 
+YPFS Lessons Learned No. 2024–21 
+29
+Lessons Learned: Pedro Machado Cardona

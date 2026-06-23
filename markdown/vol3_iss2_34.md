@@ -1,0 +1,53 @@
+## Yale Program on Financial Stability 
+
+## Lessons Learned 
+
+## Michael Krimminger 
+
+By Charles Euchner and Maryann Haggerty 
+
+_Michael Krimminger was Special Advisor for Policy and General Counsel at the Federal Deposit Insurance Corporation during the global financial crisis. In that role, he provided legal and policy advice on the writing and implementation of the Dodd-Frank Act, including its systemically important financial institution provisions, living wills, capital markets and capital, and structured finance requirements. He is now a partner at Cleary Gottlieb Steen & Hamilton LLP. This “Lessons Learned” is based on an interview with Mr. Krimminger._ 
+
+## **Institutional roles matter: Statutory responsibilities affect how people approach crises.** 
+
+Too much emphasis has been placed on how personalities and personality conflicts played out in the global financial crisis, Krimminger says. In his view, regulators and policymakers approached the crisis and its aftermath from the standpoint of legal obligations, some of which were in conflict in an unprecedented time. He points out, 
+
+The FDIC is the supervisor for state and non-member banks and is the depositor insurer and the receiver for failed banks. So, it has a different role than does the Office of the Comptroller of the Currency or the Treasury. I think that’s the predominant determinant of some of the conflicts that occurred.… The FDIC is doing this because that’s its job. The Treasury’s doing this because that’s its job. They’re just different roles. 
+
+One instance of this that Krimminger points to is that Treasury and the FDIC brought different institutional perspectives to how the Dodd-Frank Act should treat troubled banks. He says, 
+
+I think the people of Treasury would like to have more control over taking steps in a macroeconomic and a macrofinancial crisis than would the banking regulators. They wanted broad authority to provide support guarantees, loans, etc., in order to do bailouts as necessary. And the FDIC institutionally—and certainly Sheila Bair, the chairman at that time, personally—had long been convinced of the importance of imposing market discipline, and regulatory discipline if needs be, on financial institutions, so that they weren’t going to bailed out on a periodic basis. There was a rub there. So, in response to the proposals that came out of Treasury, internally and in discussions with Michael Barr [Treasury under-secretary in 2009 and 2010] and the Treasury, we came out fairly strongly against them because [those proposals] gave [Treasury] authority to provide the kind of bailout that the public and Congress had just railed against in the fall of 2008. 
+
+
+## **Bailouts should be a last resort: They can encourage reckless behavior and risk a new crisis.** 
+
+Since the thrift and banking crises of the 1980s and early 1990s, the FDIC has dealt with problem banks using a power called “prompt corrective action,” Krimminger explains. To protect the deposit insurance fund, it can step in and “resolve” a troubled institution, often by closing it or selling it to another bank. Krimminger says that such a system provides more bank discipline than a system that makes an implied promise of bailouts. Under Dodd-Frank as it was eventually written, he says, “The Treasury doesn’t have the authority to provide unlimited loans and guarantees—which is a huge deal because that would lead to almost too easy a reliance on bailouts.” He explains further, 
+
+There needs to be discipline. I see it as equally important for there to be discipline on the part of the regulators, so they don’t just sweep things under the rug. You did not want to have market and regulatory discipline, and institutional and banking discipline, [with] a perception that Treasury could just sweep in and provide guarantees. … 
+
+You should strive to make the likelihood of a bailout very low even for the largest [institutions]—recognizing that there could be the unusual circumstance, like 2008 or 1929, where you might have to do something beyond a resolution. 
+
+The political issues that we have today are partly based on the public anger at the bailouts, so the negative consequences of a bailout can be much broader and much longer—much more immense now than they used to be. 
+
+If you’re doing [bailouts] with small banks or medium-sized banks or even the occasional large bank, most of the public doesn’t really pay much attention. If you’re doing it on a systemwide basis, like we had to do in 2008, the public pays a lot more attention. I think that led to the Tea Party movement. 
+
+## **There will be other crises: Prepare for them.** 
+
+Critics may say that post-mortems and plans on how to deal with future crises are useless— that they’ll just “be put on a shelf,” Krimminger says, and never consulted again. “But the value of the planning that went into the plan will make you better able to deal with the crisis than you would have if you hadn’t done the planning.” He continues, 
+
+Everything I say and everybody else says will be forgotten by the time the next crisis comes around, whether that next crisis is in five years or 20 years. But if there’s literature about things to think about, about concerns and issues and lessons learned … some people will look and say, “Well, they wrote about this and they came up with these ideas and said to think about these issues.” And hopefully it’ll have some impact. 
+
+… 
+
+That’s why I think planning is critical. And this is why I worry that we’ve already kind of declared victory and gone home in a lot of these areas, instead of continuing to plan 
+
+
+and prepare. There’s still some things going on, on an intergovernmental basis and certainly resolution planning of the banks going on. But, thinking through these issues is critical to keep going on and keep kind of thinking through how you would do this in real time with market changes and changes in business models, because you would then at least have some strategy for going forward. 
+
+The process of planning creates value, he points out. For example, he says, under Dodd-Frank large banks are required to do resolution planning—that is, set out a plan for what would happen if they fail. Such a plan, known as a living will, requires mapping out the interconnections within what can be a complex institution. Krimminger believes there is value to this: 
+
+Operational connections in large financial institutions were very poorly understood, not only by the regulators, but by the banks, during the crisis and afterwards. The resolution planning processes require the banks to figure those things out. How are you going to ensure that the operations of your bank will continue? Who’s providing the services? What kind of contracts do you have for these services? What kind of funding do you have to make sure the services continue to flow? All of these things are important and are as important in a day-to-day business environment, right? In a crisis, they’re absolutely critical, but [banks have] even discovered that in the day-today business environment, they can become more efficient by understanding those things and actually being more efficient about the way they do it. 
+
+_____________________________________ 
+
+Dated: June 2021 YPFS Lessons Learned No: 2019-05

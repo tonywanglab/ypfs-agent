@@ -1,0 +1,255 @@
+--- Page 1 ---
+Journal of Financial Crises Journal of Financial Crises 
+Volume 8 Issue 1 
+2026 
+Lessons Learned: Eugen Rădulescu Lessons Learned: Eugen R dulescu 
+Benjamin Hoffner 
+Yale Program on Financial Stability 
+Follow this and additional works at: https://elischolar.library.yale.edu/journal-of-financial-crises 
+Recommended Citation Recommended Citation 
+Hoffner, Benjamin (2026) "Lessons Learned: Eugen Rădulescu," Journal of Financial Crises: Vol. 8 : Iss. 1, 
+59-64. 
+DOI: https://doi.org/10.17132/2693-3179.1681 
+Available at: https://elischolar.library.yale.edu/journal-of-financial-crises/vol8/iss1/4 
+This Lessons Learned is brought to you for free and open access by the Journal of Financial Crises and 
+EliScholar – A Digital Platform for Scholarly Publishing at Yale. For more information, please contact 
+journalfinancialcrises@yale.edu.
+
+--- Page 2 ---
+READERS TAKE NOTICE: READERS TAKE NOTICE: 
+As of April 2024, the YPFS Resource Library’s site domain has changed 
+to https://elischolar.library.yale.edu/ypfs-financial-crisis-resource-library/. 
+Please be aware that upon clicking any of the URL references to 
+the former Resource Library domains, either https://ypfs.som.yale.edu 
+or https://ypfsresourcelibrary.blob.core.windows.net/, in the 
+"References/Key Program Documents" section of a case study, 
+readers will encounter a "page not found" error. readers will encounter a "page not found" error. 
+Readers can still retrieve a given resource cited within this case study 
+on the new site  by searching by searching here  for the title cited. for the title cited. 
+This lessons learned is available in Journal of Financial Crises: https://elischolar.library.yale.edu/journal-of-financial-
+crises/vol8/iss1/4
+
+--- Page 3 ---
+Yale Program on Financial Stability 
+Lessons Learned 
+ 
+Eugen Rădulescu  
+By Benjamin Hoffner 
+Eugen Rădulescu has worked at the National Bank of Romania (NBR) since 1990 in various 
+roles covering monetary policy, foreign exchange, and supervision. During his tenure , he 
+contributed to the NBR’s work to fortify Romanian’s post -communist banking laws and the 
+operational structure of its financial system to bring it up to the European standard, enabling 
+Romania to join the European Union (EU) in 2007. Following the Global Financial Crisis  of 
+2007–09 (GFC), Rădulescu was named director of the NBR’s Financial Stability Department and 
+has served in this role until June 2023,when he became senior adviser to the governor of the 
+NBR. This Lessons Learned summary is based on an interview conducted by the Yale Program 
+on Financial Stability in December 2022; the full transcript may be found here. 
+Acting swiftly and preemptively at the early signs of a crisis can help minimize direct 
+and indirect impacts as the crisis develops. 
+Rădulescu reflected on Romania’s experience during the GFC and its aftermath, drawing on 
+over three decades of institutional evolution at the NBR. A key lesson Rădulescu emphasized 
+was the need for timely and proactive crisis engagement. Romania did not fa ce a classic 
+banking panic or the collapse of toxic asset holdings during the height of the crisis, but it was 
+hit hard by second -order effects of the GFC. Demand from Western Europe collapsed, 
+domestic wages fell, unemployment rose, and real sector vulner abilities quickly translated 
+into financial distress.  
+In response, Romanian authorities moved rapidly to secure external support and coordinate 
+a credible stabilization framework. Rădulescu described the Vienna Initiative —an 
+unprecedented public -private c risis coordination effort across Central and Eastern 
+Europe—as essential to forestalling a deeper financial collapse. Under the initiative, 
+Romania negotiated with the nine largest foreign -owned banks operating in the country . 
+“What we did was have an agreement with the first nine banks in Romania . . . that they will 
+not withdraw their capital lower than the level in March 2009,” he explained.  
+The agreement included the International Monetary Fund  (IMF), European Commission 
+(EC), European Central Bank (EC B), and private institutions , and created space for market 
+stabilization. It was backed by a EUR 20 billion support package with contributions from the 
+IMF, World Bank, and European Investment Bank. This package, Rădulescu emphasized, did 
+not involve bank bailouts but bolstered confidence by signaling Romania’s commitment to a 
+credible policy program. 
+The international reserves, which were held at the central bank as part of the agreement, 
+had a calming effect on markets, said Rădulescu.  
+It was important b ecause it bought confidence. Once we had this amount in our 
+reserves, and also the seal of approval that our policies were the right ones, the 
+59
+
+--- Page 4 ---
+financial market calmed down, and it was possible for us to finance the needs for the 
+deficits, both the government deficit and the current account deficit.  
+He framed the move as preemptive, underscoring that the agreement was made before full -
+scale panic took hold in domestic financial markets. 
+Rădulescu contrasted this approach to more reactive strategies taken in  other countries, 
+noting that securing early international cooperation and implementing credible domestic 
+measures were key to Romania’s relative stability. “We were able to act preemptively . . . not 
+in the sense that we acted before September 15, 2008, and Lehman Brothers, but before the 
+crisis reached our system full force.” 
+The Vienna Initiative also reflected lessons from previous crises, including the transition 
+shocks that had exposed Romania’s financial fragility in the 1990s. Having experienced bouts 
+of triple-digit inflation and structural reforms with minimal investor confidence, Romanian 
+authorities were acutely aware of the costs of delay. By 2009, this historical memory shaped 
+a consensus to act early and avoid a drawn-out liquidity crunch or capital flight. 
+The strategic coordination of the Vienna Initiative helped Romania avoid the fate of other 
+emerging markets that saw large -scale capital withdrawals or sovereign distress. While 
+nonperforming loans rose sharply, systemic collapse was avoided, and bank recapitalization 
+proceeded without direct government injections. For Rădulescu, the lesson was clear: 
+preemptive engagement —especially with external partners  when needed —can prevent a 
+crisis from spiraling.  
+Maintaining a well-capitalized banking sector and appropriate provisioning for loans 
+can buffer the initial effects of a crisis and also will enable a more resilient recovery. 
+A second key lesson drawn by Rădulescu from Romania’s GFC experience is the critical role 
+of strong bank capitalization—both as a buffer in the face of crisis and as a foundation for 
+credible, market-driven recovery. Although Romania avoided direct exposure to subprime 
+assets and complex securitizations, its banks were nonetheless vulnerable owing to a rapid 
+expansion of credit in the precrisis years fueled by foreign capital inflows and growing 
+household indebtedness. 
+Between 2000 and 2007, Romanian banks increased lending at a pace far outstripping 
+domestic deposit growth. The loan -to-deposit ratio clim bed from approximately 70% to 
+120%, with most of the excess funded through external borrowing from parent institutions 
+in Western Europe. As real sector conditions deteriorated in 2009, this dynamic left 
+Romanian banks exposed to rising defaults, and by 2011, the proportion of nonperforming 
+loans had reached a staggering 23%. 
+Despite the scale of the NPL problem, Romania stood out in the region for avoiding public 
+recapitalization of its banks. Instead, as Rădulescu explained, the central bank required 
+banks and their parent companies to take responsibility for recognizing losses and 
+rebuilding capital buffers through internal measures. This process began with a thorough 
+reassessment of collateral values —many of which had fallen sharply, particularly in re al 
+60
+Journal of Financial Crises Vol. 8 Iss. 1
+
+--- Page 5 ---
+estate. Some land values outside city centers had declined by as much as 80%.  Rădulescu 
+elaborated on the steps in the process: 
+First, it was to evaluate what is the actual value of their collateral and then to 
+provision everything which was not provisi oned. And in a few years, the banks 
+started to increase their capital in order to keep their capital requirements in line 
+with our regulation. We were one of the five countries in the whole European Union 
+where an intervention of the government was not nec essary. So, there was no 
+financing of the financial system with the intervention of the government. 
+The NBR supervised these efforts closely, relying on auditors from major international firms 
+to verify data and ensure consistency. 
+To enforce discipline an d ensure progress, the central bank  also introduced a novel 
+macroprudential rule —a systemic risk buffer targeted specifically at the NPL problem. 
+Banks were required to keep nonperforming loans below 5% of total loans and provisioning 
+rates above 60%. Inst itutions failing to meet either target faced an additional 1% capital 
+buffer requirement. This policy created strong incentives for banks to clean up their balance 
+sheets and align with prudential norms without resorting to public funds , Rădulescu 
+explained. This approach was seen as fair and efficient, rewarding progress while imposing 
+costs on laggards. Over time, the policy contributed to a steady decline in NPLs and restored 
+market confidence in the banking system’s solvency. 
+Rădulescu emphasized that R omania’s ability to resolve a severe banking sector shock 
+without fiscal transfers was a point of national credibility. While some critics noted that 
+banks paid no profit taxes for seven years during the recapitalization period, the central bank 
+viewed this as an acceptable trade -off for long -term stability: “ Well, yes, but t hey covered 
+their own losses without an intervention of the government.” 
+This hard-earned resilience became evident during the COVID -19 crisis. Romanian banks, 
+with stronger capital buf fers and more conservative lending profiles, weathered the 
+downturn without a comparable surge in defaults. In Rădulescu’s view, the investments in 
+recapitalization and provisioning during the GFC had positioned the financial system to 
+function as a stabilizer rather than a transmission channel for risk. 
+Effective cris is prevention requires regulatory innovation, the recognition of  
+emerging risks, and the persistence to defend sound policy despite skepticism. 
+The third major lesson Rădulescu identified was the importance of both regulatory 
+innovation and designing solutions that fit the domestic economy. He illustrated his point by 
+describing the central bank’s early integration of macroprudential stability with 
+microprudential controls tailored to borrower behavior. While macro -level capital buffers 
+and supervision are necessary, said Rădulescu, Romania’s experience demonstrated that 
+more was needed , as unchecked household borrowing and foreign currency exposure had 
+created significant vulnerabilities in the country’s rapidly developing banking sector. 
+61
+Lessons Learned: Eugen R?dulescu Hoffner
+
+--- Page 6 ---
+As early as 2004, Radulescu said, the National Bank of Romania recognized these risks and 
+began implementing a set of borrower -focused prudential measures —particularly debt-
+service-to-income (DSTI) ratios and loan-to-value (LTV) limits. These tools were intended to 
+rein in  high levels of household indebtedness and curb speculative credit growth as 
+Romania’s financial system expanded amid strong capital inflows and rising wages . At the 
+time, some Romanian households were taking on monthly loan payments that exceeded their 
+entire income, exposing the system to significant default risk. 
+The central bank’s early adoption of these tools proved timely. Between 2004 and 2007, the 
+financial system grew by 50  to 60% annually, driven in part by liberal credit conditions. 
+Concerned that such rapid expansion could lead to a domestic crisis —even independent of 
+global developments—Rădulescu and his team moved to cool credit markets through these 
+borrower-level constraints. 
+However, upon Romania’s accession to the European Union in 2007, these prudential 
+measures encountered institutional resistance. EU officials classified DSTI and LTV 
+requirements as administrative controls, relayed Rădulescu.  
+And as long as they were administrative, they were labeled as germinating risks for 
+capital inflows, so we had to remove them and leave the market to regulate that. And 
+you know that the market, particularly a young market, does not do very well in those 
+things.  
+Under EU pressure, Romania was required to roll back these regulatory tools, removing a 
+key line of defense against excessive household leverage. Rădulescu expressed frustration at 
+this reversal, noting that the young Romanian market lacked the maturity to self -regulate 
+effectively. As credit growth continued unchecked and foreign -currency loans became 
+increasingly common, the seeds were planted for future stress once external conditions 
+worsened. 
+The GFC vindicated Romania’s earlier concerns. Within a few years, the EU reconsidered its 
+stance, reclassifying DSTI and LTV measures as permitted microprudential tools rather than 
+administrative controls. These instruments were subsequently adopted across Europe and 
+are now part of the standard macroprudential toolkit. 
+Romania reintroduced these tools in a simplified and formalized structure. By 2019, DSTI 
+thresholds were set at 40% for both domestic-currency loans and foreign -currency loans 
+where the borrower had a natural hedge (that is, income in the same currency). For foreign-
+currency loans without a natural hedge, the DSTI was limited to 20%.  
+The reintroduction of DSTI and LTV limits reflects a broader lesson about institutional 
+patience and the value of early action , reflected Rădulescu. Though temporarily discarded 
+under external pressure, their eventual restoration confirmed the utility of micro -level 
+borrower constraints —especially in environments with high credit growth and limited 
+financial literacy.  These measures helped prevent another wave  of risky household 
+borrowing ahead of the COVID-19 crisis. 
+62
+Journal of Financial Crises Vol. 8 Iss. 1
+
+--- Page 7 ---
+“People usually used to have too rosy expectations,” Rădulescu explained. The reimposed 
+borrower-based limits helped focus borrowers and banks on more conservative lending 
+practices. He continued:  
+And we entered the crisis in 2019 with this limitation in place. Therefore, even if we 
+had several troubles associated with the COVID crisis, they were incomparable with 
+the troubles that occurred in 2008 –09 to the extent that the trend of declining 
+nonperforming loans in the banking sector continued throughout this period. 
+Eventually Romania’s level of NPLs fell below 3%—well within green-zone thresholds under 
+the European Systemic Risk Board (ESRB) framework. 
+This evolution, from early adoption to force d rollback and eventual European 
+standardization, illustrates the benefit of regulatory flexibility and long -term commitment 
+to borrower -based safeguards. For Rădulescu, the lesson is not just about specific 
+instruments, but about the ability to recognize emerging risks and the persistence to 
+implement sound but innovative policy even in the face of  skepticism. 
+There is great value in taking a long -term view to build financial system stability and 
+resilience suited to the domestic environment, especially for emerging markets, even 
+in the face of short-term setbacks and skepticism. 
+Romania’s financial system has undergone a dramatic transformation since the early 1990s. 
+From the outset of post -communist transition, the country faced significant structural 
+challenges—a shallow financial sector, inflationary pressures, and minimal inst itutional 
+capacity. Yet by the time of the GFC, Romania had established a credible, independent central 
+bank, a two -tier banking system, and a growing economy with increasing international 
+integration. This institutional groundwork allowed Romania to respond to the crisis not with 
+panic, but with a set of measured, targeted interventions shaped by experience and foresight. 
+What stands out in Rădulescu’s retelling is the consistency of Romania’s crisis response with 
+its long-run strategy for financial stability. Rather than rely on emergency bailouts or ad hoc 
+legislative fixes, Romania used the GFC as an opportunity to validate and reinforce its 
+prudential framework. The Vienna Initiative demonstrated how international cooperation 
+could be used to support do mestic stability without imposing unsustainable conditionality 
+or undermining local control.  
+By 2022, Romania had one of the lowest NPL ratios in Europe and maintained international 
+reserves above EUR 40 billion, underscoring the durability of its financi al sector reforms. 
+The COVID -19 pandemic and Russia’s invasion of Ukraine created new macroeconomic 
+shocks, including elevated inflation and widening deficits. But unlike in 2008, the banking 
+system was not part of the problem —instead, as Rădulescu emphasi zed, it became part of 
+the solution. 
+Romania’s experience offers a clear set of takeaways for other emerging markets . The 
+highlighted principles, which formed the basis of Romania’s crisis -era responses, helped 
+strengthen the resilience of the country’s financial system and better prepare it to withstand 
+63
+Lessons Learned: Eugen R?dulescu Hoffner
+
+--- Page 8 ---
+subsequent challenges, including the COVID -19 pandemic. Further, for Rădulescu, the long 
+arc of Romanian financial reform bends not just toward compliance with international 
+norms, but toward sustainable st ability rooted in domestic credibility and regulatory 
+foresight.   
+Dated: March 2026 
+YPFS Lessons Learned No. 2022–23 
+ 
+64
+Journal of Financial Crises Vol. 8 Iss. 1

@@ -1,0 +1,471 @@
+## Asset Management Corporation of Nigeria (AMCON): Asset Management[1] 
+
+_Pascal Ungersboeck_[2] and _Corey Runkel_[3] 
+
+Yale Program on Financial Stability Case Study January 3, 2021; Revised Date: June 23, 2021 
+
+## **Abstract** 
+
+Nigeria experienced the Global Financial Crisis as a dramatic decline in the price of crude oil and a burst stock market bubble. These losses were compounded by a high level of margin lending, resulting in large numbers of nonperforming loans (NPLs) for Nigerian banks. The government established the Asset Management Corporation of Nigeria (AMCON) in July 2010 to purchase NPLs and inject capital in insolvent banks. In three purchases between December 2010 and December 2011, AMCON acquired loans with face value ₦4.02 trillion ($26.8 billion) for ₦1.76 trillion. As a result, NPLs in Nigerian banks fell from a peak of 37.2% to 5.8% within 2 years of the establishment of AMCON. However, AMCON suffered heavy losses during its debt recovery and recapitalization efforts, and, by 2014, it carried a negative equity of ₦3.6 trillion. To offset these losses, AMCON created the Banking Sector Resolution Cost Fund (RCF). AMCON projected this sinking fund to provide the bulk of its revenue, though it remains unclear as to whether the ₦1.5 trillion RCF could completely cover AMCON’s losses. 
+
+**Keywords** : AMCON, asset management, Global Financial Crisis, Nigeria, NPLs 
+
+> 1 This case study is part of the Yale Program on Financial Stability (YPFS) selection of New Bagehot Project modules considering broad-based asset management company programs. 
+
+> Cases are available from the _Journal of Financial Crises_ at https://elischolar.library.yale.edu/journal-offinancial-crises/. 
+
+> 2 Research Associate, YPFS, Yale School of Management. 
+
+> 3 Research Associate, YPFS, Yale School of Management. 
+
+
+## Asset Management Corporation of Nigeria (AMCON) 
+
+## **At a Glance** 
+
+During the years leading up to the Global Financial Crisis, Nigerian banks fueled a rapid credit expansion to the private sector. Most notably, banks supplied large quantities of margin loans and investments in the oil and gas sector. 
+
+The situation became unsustainable as the financial crisis spread around the globe. The crash of the domestic stock market in March 2008 and the rapid decline of oil and gas prices affected the balance sheets of many banks in Nigeria, resulting in a high level of nonperforming loans (NPLs) in the sector. In response, Nigerian authorities set up the Asset Management Corporation of Nigeria (AMCON) during the summer of 2010. A public corporation, owned jointly by the Central Bank of Nigeria (CBN) and the Ministry of Finance, AMCON’s mandate was to “acquire [NPLs] from [Nigerian] banks and annex the underlying collateral, [as well as] fill the remaining capital deficiency and receive equity and/or preferred shares in the affected banks as consideration.” Through a series of three purchases from December 2010 through December 2011, AMCON acquired loans with face value ₦4.02 trillion ($26.8 billion) for ₦1.76 trillion ($11.7 billion), a 56% discount. 
+
+## **Summary Evaluation** 
+
+AMCON’s asset transfer operations successfully decreased the NPL level in the 
+
+## Summary of Key Terms 
+
+||Purpose: “to stimulate the recovery of the Nigerian<br>financial system through:<br>1. providing liquidity to the Intervened Banks and the<br>non–Intervened Banks|Purpose: “to stimulate the recovery of the Nigerian<br>financial system through:<br>1. providing liquidity to the Intervened Banks and the<br>non–Intervened Banks|
+|---|---|---|
+||2. providing capital to the|Intervened Banks and the|
+||non–Intervened Banks||
+||3. increasing confidence in|bank balance sheets|
+||4. increasing access to|restructuring/refinancing|
+||opportunitiesforborrowers”||
+||Launch dates|Announcement:<br>January 28, 2010<br>Operational:<br>July 19, 2010|
+|||First transfer:|
+|||December31,2010|
+||Wind-downdates<br>Size and Type of NPL<br>problem|Operationalas of 2021<br>32.8% of loans in 2009;<br>loans comprised energy<br>sector<br>debt,<br>margin<br>loans secured by energy|
+|||stocks, mortgages, and|
+||Programsize<br>Eligible institutions<br>Usage|othercorporate debt<br>Not specified<br>All banks in Nigeria;<br>Open-bank<br>Acquired ₦4.02 trillion|
+|||for ₦1.76 trillion ($11.7|
+|||billion)|
+||Outcomes<br>Ownership structure<br>Notable features|Negative equity of ₦3.6<br>trillion in 2014<br>Public<br>The CBN mandated that|
+|||no financial institution|
+|||could have more than|
+|||5%<br>of<br>their<br>loans|
+|||classified<br>as<br>assets|
+|||eligible for purchase by|
+|||AMCON|
+
+
+
+Nigerian banking sector. Critics noted issues related to AMCON’s dependence on CBN guidelines in its decision-making, including purchases, eligible asset selection, and valuation. The IMF repeatedly questioned AMCON’s lack of an explicit exit strategy and its continued 
+
+
+purchases of distressed assets years after the Global Financial Crisis, while acknowledging the agency’s contributions to the rapid decline in NPLs. Through loan acquisitions and bank recapitalizations, the agency accumulated a negative equity position of ₦3.6 trillion by the end of 2014. During the following year, AMCON’s CEO announced that the corporation had resolved 57% of the acquired loans, recovering a total of ₦1 trillion. AMCON continued to pose a financial burden on the government in 2020. 
+
+
+|**Asset Management Corporation of Nigeria: Nigeria Context**|**Asset Management Corporation of Nigeria: Nigeria Context**|
+|---|---|
+|**GDP**<br>**(SAAR, Nominal GDP in LCU converted to USD)**|$291.9 billion in 2009<br>$361.5 billion in 2010|
+|**GDP per capita**<br>**(SAAR, Nominal GDP in LCU converted to USD)**|$1,891 in 2009<br>$2,280in 2010|
+|**Sovereign credit rating (five-year senior debt)**|Data for 2009:<br>S&P: B+<br>Fitch: BB<br>Moody’s: Not available<br>Data for 2010:<br>S&P: B+<br>Fitch: BB<br>Moody’s: Not available|
+|**Size of banking system**|$72.2 billion in 2009<br>$79.0 billion in 2010|
+|**Size of banking system as a percentage of GDP**|25% of 2009 GDP<br>22% of 2010 GDP|
+|**Size of banking system as a percentage of**<br>**financial system**|Data not available in 2009<br>Data not available in 2010|
+|**Five-bank concentration of banking system**|81.7% in 2009<br>66.5% in 2010|
+|**Foreign involvement in banking system**|5.0% in 2009<br>14.0% in 2010|
+|**Government ownership of banking system**|Data not available in 2009<br>Data not available in 2010|
+|**Existence of deposit insurance**|Yes in 2009<br>Up to $3,328 via Nigeria<br>Deposit Insurance<br>Corporation in 2010|
+|_Sources: Bloomberg; World Bank Global Financial Development Database; World Bank_<br>_Deposit Insurance Dataset._||
+
+
+
+
+## **I. Overview** 
+
+## **Background** 
+
+In the early 2000s, the Nigerian banking sector underwent major structural reforms. In 2004, the Central Bank of Nigeria (CBN) announced a plan to strengthen the country’s fragmented financial sector through consolidation (Alford 2010). The CBN justified the policy with the need to “grow the banks and position them to play pivotal roles in driving development across the sectors of the economy” (Sanusi 2011). The CBN mandated that all banks increase their paid-up capital from ₦2 billion ($13 million) to ₦25 billion ($166 million).[4] The policy was announced just one month after Charles Soluda took office as the new Governor of the CBN in June 2004. Banks had until December 2005, a period of roughly 18 months, to reach the new minimum required capital (Alford 2010). The announcement forced several mergers and acquisitions in the banking sector. Of the 89 licensed privately owned banks active in Nigeria in 2005, 25 emerged. Ultimately, the CBN revoked the licenses of 13 banks due to their inability to reach the mandated capital level in time (Osuji 2012). 
+
+Following the consolidation, Nigerian banks fueled a rapid credit expansion to the private sector. Banks invested most of the funds in the country’s natural resources sector and in margin loans for the purchase of domestic stocks, making them increasingly exposed to oil and stock prices (Cerruti and Neyens 2016, 115; Makanjuola 2015). The expansion of margin lending fueled a five-fold increase in the total capitalization of the Nigerian stock market between 2004 and 2007 (Osuji 2012, 149; Makanjuola 2015). The domestic all-shares index reached its high of 66,162 points on March 3, 2008, and then fell 70% in the following 12 months (Nigerian Stock Exchange 1996–2021). Oil prices tanked as the Global Financial Crisis reduced demand around the globe. The combined oil and equity price shocks affected the balance sheets of many banks in Nigeria and led to a rapid increase in nonperforming loans to margin investors and oil companies (Cerruti and Neyens 2016). (See Figure 1.) 
+
+> 4 The exchange rate used throughout—₦150 for US$1—is the average exchange rate between 2009 and 2011 using annual data from the Federal Reserve Bank of St. Louis. 
+
+
+[FIGURE id=vol3_iss2_27_f1 type=chart label="Figure 1" file=figure_1.png caption="Nonperforming Loans in Nigeria (% of total loans)"]
+### **Figure 1: Nonperforming Loans in Nigeria (% of total loans)**
+![Figure 1](assets/vol3_iss2_27/figure_1.png)
+
+
+## _Source: Makanjuola 2015._ 
+
+Policymakers became aware of the magnitude of the problems facing the Nigerian financial sector through a special examination of the banking sector conducted jointly by the Nigeria Deposit Insurance Company (NDIC) and the CBN in June 2009 (CBN 2010). The report revealed 10 banks to be either undercapitalized or insolvent (Cerruti and Neyens 2016). The report also highlighted the banks’ “excessive risk-taking and ineffective risk management, weak internal control mechanisms, undue focus on short-term gains, lack of Board and management capacity, conflicts of interest, and excessive executive compensation” (Makanjuola 2016). The CBN intervened, quickly and decisively, following the outcome of the examination. It replaced the executives of eight banks and injected ₦620 billion ($1.4 billion) in Tier 2 capital in the form of unsecured subordinated debt. The central bank also guaranteed all interbank loans until December 2011 (Cerruti and Neyens 2016). 
+
+As a result of the additional provisioning that regulators required banks to make following the special examination, reported NPLs in the industry increased from 6.3 percent to 32.8 percent between December 2008 and December 2009 (CBN 2010). In 2010, the Nigerian authorities decided to establish a new agency to address the growing NPL problem and to perform further capital injections, instead of following the established route by winding down failed banks through the NDIC. The decision stemmed from the absence of a rapidly available mechanism to inject public funds beyond the CBN package and from legal challenges to the NDIC’s resolution authority (Cerruti and Neyens 2016). The Asset Management Corporation of Nigeria (AMCON) Act established AMCON as Nigeria’s public asset management company. The Act mandated that AMCON purchase nonperforming and systemically important loans and inject capital into banks (Makanjuola 2015). 
+
+
+## **Program Description** 
+
+The AMCON Act was approved by the House of Representatives and the Senate and signed into law on July 19, 2010 (Cerruti and Neyens 2016, 116; Makanjuola 2015). The Governor of the CBN had previously proposed the idea of a public asset management corporation in Nigeria in 2004 as a part of the banking reform package. Although an initial draft of the AMCON Act was forwarded to the Senate at that time, the proposal encountered strong resistance from opponents of the banking consolidation agenda and was abandoned. The context was different when the AMCON Act was presented to the National Assembly in 2010. Given the difficulties facing the banking system and the lack of appropriate government mechanisms to absorb the system’s NPLs and mobilize funds for recapitalizations, legislators had a new sense of urgency that facilitated a rapid enactment of the law. AMCON was established as a “resolution and recapitalization vehicle” mandated “to acquire [NPLs] from the banks and annex the underlying collateral . . .  fill the remaining capital deficiency and receive equity and/or preferred shares in the affected banks as consideration.” 
+
+After the legislature approved the legislation, the CBN set up the AMCON Implementation Committee (AMCON-IC; Makanjuola 2015). The committee met on six occasions between May and August 2010 to draft a work plan for AMCON and ensure it could properly execute its mandate once fully established. The AMCON-IC was separated into several groups, each in charge of different aspects of the implementation process.[5] Up to 30 participants attended. The committee’s last meeting took place on August 18, 2010, leading AMCON to start its operations with offices in Lagos and Abuja and total staff strength of 184. The newly established agency was governed by a 10-member board of directors. The Nigerian Senate approved the board, consisting of four executive directors and six non-executive members, on November 3, 2010. Mustafa Chike-Obi[6] was elected as CEO and head of the board. Members of the board were nominated by the Federal Ministry of Finance, the NDIC, and the CBN. AMCON was fully owned by the Nigerian government, with authorized capital of ₦10 billion contributed in equal parts by the CBN and Ministry of Finance. 
+
+The AMCON Act provided guidelines on governance and transparency. Regarding governance, the document establishes guidelines related to board members’ experience and potential conflicts of interest. Transparency was provided through annual reports to be submitted to the Ministry of Finance and the CBN, as well as quarterly reports to the legislature. The agency’s accounts were to be published yearly (Cerruti and Neyens 2016). 
+
+However, the AMCON Act provided no financial guardrails to limit the taxpayers’ exposure. “There [were] no provisions to limit the amount of assets or equity that AMCON may purchase or the bonds to be issued, no leverage ratio, and no requirement to maintain a minimum amount of equity.” AMCON was thinly capitalized, with paid-in capital of ₦10 billion for asset acquisitions and recapitalizations totaling ₦4 trillion (Cerruti and Neyens 
+
+> 5 There were nine subcommittees, which included: (i) Waivers and Forbearances; (ii) Back-up Plan; (iii) IT and Processes; (iv) Business Plan; (v) Valuations and Transfers; (vi) Logistics and Procurement; (vii) Recruitment; (viii) Funding and Bonds; (ix) Legal and Accounting (Makanjuola 2015). 
+
+> 6 Mustafa Chike-Obi previously held senior positions at various Wall Street firms, including Goldman Sachs and Guggenheim Partners (Makanjuola 2015). 
+
+
+2016). Since AMCON used zero-coupon bonds to acquire loans, it did not pay interest until the bonds expired at the end of 2013 and 2014. However, AMCON ultimately refinanced some of the face value of those bonds when they expired, amounting to ₦5.5 trillion, compared to the ₦3.9 trillion valuation of the bonds at issuance. 
+
+AMCON was set up to reduce the NPL level in the financial system (“Asset Management Corporation of Nigeria Guidelines No.1” 2010, para. 4; hereafter “AMCON Guidelines”). As the agency’s supervisory authority, the CBN played a critical role in devising the necessary incentives for banks to participate in the NPL purchase program. In the guidelines laid out for AMCON, the CBN mandated that within three months of the guidelines’ coming into force on November 15, 2010, no financial institution could have more than 5% of their loans classified as assets eligible for purchase by AMCON (AMCON Guidelines; Cerruti and Neyens 2016). This forced institutions in need of capital to quickly address their NPL problem. Per the AMCON Act, the agency could acquire any asset designated as eligible under the CBN guidelines. The guidelines defined a broad set of assets as eligible but focused on nonperforming assets or loans classified as substandard and below (AMCON Act). Similarly, the CBN guidelines specified valuation methodologies for acquired assets based on collateral type and required that unsecured loans were to be valued at 5 percent of face value (AMCON Guidelines). 
+
+Additional funding for AMCON’s operations was secured through the establishment of the Banking Sector Resolution Cost Fund (RCF) in the amount of ₦1.5 trillion (Makanjuola 2015). Funds were to be collected over a 10-year period, with the CBN contributing ₦500 billion and Nigerian banks ₦1 trillion. CBN contributions were fixed at ₦50 billion annually while banks would contribute “an annual levy equivalent to 0.3 percent of their assets, which is expected to generate ₦100 billion per year.” This contribution was later increased to 0.5% to secure sufficient funding for the RCF (Onu 2013). To assist banks in financing this levy, the Nigeria Deposit Insurance Corporation had the ability to decrease the insurance premium it charged banks (Makanjuola 2015). 
+
+## **Outcomes** 
+
+As a result of the CBN guidelines requiring banks to shed nonperforming assets, every bank in Nigeria except for two foreign-owned institutions—Citigroup and Standard Chartered Bank—participated in asset sales. The first transaction occurred on December 31, 2010, with the purchase of loans with face value ₦2.46 trillion for ₦866.2 billion, a 65% discount. In this first transaction, all transferred loans came from banking-sector margin lending practices. Subsequent purchases of non-margin NPLs and systemically important loans occurred on April 6, 2011, and December 28, 2011, respectively. In total, AMCON acquired loans with face value ₦4.02 trillion at an average discount rate of 56.2%, paying ₦1.76 trillion for the loans. Figure 2 provides an overview of the three transfers (Makanjuola 2015). 
+
+
+[FIGURE id=vol3_iss2_27_f2 type=figure label="Figure 2" file=figure_2.png caption="AMCON Loan Acquisition from Participating Financial Institutions"]
+### **Figure 2: AMCON Loan Acquisition from Participating Financial Institutions**
+
+||**Face value**|**Amount paid**|**Discount**|**Notes**|
+|---|---|---|---|---|
+||**(₦ billions)**|**(₦ billions)**|||
+|12/31/2010|2,460|866|64.7%|Margin NPLs and NPLs from|
+|||||banks recapitalized by AMCON|
+|4/6/2011|675|378|44.0%|Non-margin NPLs|
+|12/28/2011|885|515|41.8%|Systemically important|
+|Total|4,020|1,759|56.2%||
+
+
+
+## _Source: Makanjuola 2015, 103._ 
+
+The rapid execution of the margin loan purchase can be explained by the fact that the valuation of collateral for loans secured by publicly traded shares is simpler than that for other secured NPLs. The subsequent valuation of NPLs not secured by shares required considerably more time and resources. AMCON’s last acquisition consisted of “eligible assets which were not necessarily NPLs.” Among these assets were systemically important loans to the oil and gas sector purchased from commercial banks at a 5% to 15% discount (Cerruti and Neyens 2016). 
+
+Although nearly every financial institution in Nigeria participated in asset transfers, AMCON’s portfolio was dominated by assets acquired from a small number of sellers as well as a small number of loans with large face value. In total, AMCON purchased 12,537 individual loans from 22 financial institutions with the five largest sellers accounting for 58% of AMCON’s portfolio; it purchased just 20% of the total from the 12 smallest sellers.[7] Among the loans purchased, 19.87%, or 2,491 loans with face value above ₦100 million, represented 93% of AMCON’s total portfolio. A breakdown of AMCON’s portfolio by participating institution is provided in Figure 3 (AMCON, n.d.). Through its operations, AMCON successfully reduced the NPL ratio in the banking sector to 5.8% from its peak of 37.3% in 2009 (IMF 2007–2019; Cerruti and Neyens 2016). 
+
+> 7 AMCON ultimately recapitalized eight of these institutions, including the five largest. See Ungersboeck and Runkel (2021). 
+
+
+[FIGURE id=vol3_iss2_27_f3 type=figure label="Figure 3" file=figure_3.png caption="AMCON’s NPL Portfolio by Participating Institution"]
+### **Figure 3: AMCON’s NPL Portfolio by Participating Institution**
+![Figure 3](assets/vol3_iss2_27/figure_3.png)
+
+
+## _Source: AMCON, n.d._ 
+
+AMCON’s public accounts were issued at the end of its first year of operations. The statements reveal a negative equity position of ₦2.36 trillion. The losses are largely unrelated to AMCON’s loan acquisition operations and can be attributed to write-downs on the equity AMCON took in recapitalized banks (AMCON 2012). AMCON’s negative equity increased to ₦3.19 trillion in its 2012 financial statements and ₦3.3 trillion in 2013[8] (AMCON 2013). 
+
+AMCON’s negative equity position raised the question of whether the public would have to eventually carry the financial burden of losses arising from the agency’s operations (Economist Intelligence Unit 2012b). The concern was especially relevant at the time, given that 30% of the zero-coupon bonds AMCON issued to fund its purchases were repayable at the end of 2013 (AMCON 2013). 
+
+To address the situation and support AMCON in its recovery efforts, the CBN barred 113 firms who were unable to fulfill their debt obligations towards AMCON from accessing further credit until they repaid their debts. The decision was criticized by analysts, since cutting these firms off from available liquidity would only increase the risk that the firms would fail to repay any of the debts they owed (Economist Intelligence Unit 2012a). As of 
+
+> 8 AMCON switched to IFRS reporting in 2013. Previous financial statements were prepared “in accordance with local generally accepted accounting principles” (AMCON 2013). 
+
+
+2013, AMCON reported its intention to repay holders of the zero-coupon bonds with cash and liquid instruments at the bonds’ maturity date in December 2013, claiming it would be able to retire ₦2 trillion of its bonds during 2013 and 2014 (Economist Intelligence Unit 2013). These positive developments were attributed to the fact that participating banks honored their commitment to the Resolution Cost Fund, providing AMCON with substantial financial support (Economist Intelligence Unit 2013). However, given the magnitude of AMCON’s asset purchase and recapitalization operations, the ₦1.5 trillion provided by the Resolution Cost Fund may have covered the agency’s losses on NPLs without compensating for AMCON’s losses from its recapitalization efforts. As of February 2021, AMCON still carried ₦4.4 trillion of debt (Akinloye 2021). 
+
+## **II. Key Design Decisions** 
+
+## **1. Part of a Package: AMCON’s asset purchases were part of a policy package that included the recapitalization of banks.** 
+
+AMCON’s mandate was broader than asset management. AMCON’s operations included the recapitalization of illiquid or insolvent banks (Ungersboeck and Runkel 2021; Makanjuola 2015). Many other countries split the asset management and recapitalization functions into different organizations. The government established AMCON after previous measures to strengthen the financial system, including the CBN’s purchase of ₦620 billion of subordinated debt in eight banks in 2009 failed to fully stabilize ailing banks (Cerruti and Neyens 2016). 
+
+## **2. Legal Authority: AMCON was established under the AMCON Act, approved by the Nigerian legislature, and signed into law on July 19, 2010.** 
+
+A first draft of the AMCON Act was forwarded to the Senate in November 2004 as a part of the measures taken to strengthen the financial sector. At the time, the proposal encountered strong pushback from opponents of the banking consolidation agenda and did not gain the necessary traction. The idea was revived in 2009 following a special examination of Nigerian banks, focusing policymakers’ attention on the fragility of the domestic banking sector. A first public hearing on the bill was held at the House of Representatives on January 28, 2010. After a second reading, the House enacted the bill on March 10, 2010. The Nigerian Senate passed the bill on May 5, 2010. President Goodluck Jonathan signed the AMCON Act into law on July 19, 2010 (Makanjuola 2015). Among other functions, the Act empowered the agency to “acquire eligible bank assets [EBAs] from eligible financial institutions” (AMCON Act 2010). 
+
+## **3. Special Powers: To support recovery efforts, the government granted AMCON special debt restructuring and collection powers.** 
+
+The original act had provided powers to seize debtor collateral, freeze their funds, and apply to courts to take possession of a debtor’s property. AMCON could also petition courts to invoke bankruptcy proceedings regardless of the debtor’s solvency in an effort to recover 
+
+
+assets from a debtor. To bolster AMCON’s rights, the Act (2010) imposed penalties on those who lied about loans and collateral owed to AMCON. 
+
+Nigeria’s legislature ultimately concluded these powers were insufficient. It passed amendments to the AMCON Act in 2015 and 2019 to enhance the agency’s legal powers and obtain payments from recalcitrant debtors (Berkeley Legal 2019). With the first amendment in 2015, AMCON’s power to seize assets was extended to enable it to seize any of a debtors’ assets. The initial act limited its ability to seize collateral pledged against an eligible bank asset (AMCON Act Amendment 2015). In 2019 a new amendment further expanded these special powers. Under the act, AMCON now had the power to access debtors’ bank information to gain access to all available funds. The agency was also empowered to publish the names of non-cooperative debtors (AAA Chambers 2019). 
+
+## **4. Mandate: Within asset management, AMCON’s mandate was to maximize returns.** 
+
+The AMCON Act charged the corporation to “obtain the best achievable financial returns on eligible bank assets” and to protect the value of those assets in the interest of AMCON (AMCON Act 2010). This could include investing in assets other than NPLs to support AMCON’s functions. 
+
+**5. Communication: Documents surveyed did not suggest AMCON’s communication strategy.** 
+
+No documents indicated how AMCON designed or implemented its communication strategy. AMCON remained a focus of the press through at least its first 11 years (See, for example, Akinloye 2021; Benson 2020; Osae-Brown 2019; Wall 2014). 
+
+## **6. Ownership Structure: The CBN and Ministry of Finance split ownership of AMCON.** 
+
+AMCON was fully owned by the federal government with its ₦10 billion capital split evenly between the Ministry of Finance and the CBN (Makanjuola 2015). The cash helped cover AMCON’s initial operating costs (Cerruti and Neyens 2016). 
+
+**7. Governance/Administration: Prior to the start of AMCON’s operations, the AMCON Implementation Committee (AMCON-IC) devised a work plan for the establishment of the agency.** 
+
+The AMCON-IC met on 6 occasions between May and August 2010. As many as 30 people attended meetings. During the first meeting, participants included management consultants and legal and financial advisers, experts from the Central Bank of Nigeria, Nigeria Deposit Insurance Corporation, Deutsche Bank, Stanbic IBTC Bank Plc, Chapel Hill Advisory Partners Limited, Olaniwun Ajayi LP, Kola Awodein & Co, and PricewaterhouseCoopers. Subsequent meetings saw the addition of participants representing various Nigerian and international institutions including the Ministry of Finance, the Debt Management Office (DMO), the [Nigerian] Securities and Exchange Commission (SEC), and the International Monetary Fund. The work plan devised by the committee included, among other items, staff recruitment, securing office locations, determining a valuation methodology for NPLs, and exploring 
+
+
+funding options for AMCON. The draft bill establishing AMCON was modeled after Ireland’s National Asset Management Agency and Malaysia’s Danaharta. These agencies were mandated to acquire NPLs during the GFC and the Asian Financial Crisis, respectively (Makanjuola 2015). 
+
+## **8. Governance/Administration: AMCON was governed by a 10-member board of directors.** 
+
+AMCON’s board of directors consisted of four executive directors and six non-executive members (AMCON Act 20100). The Nigerian Senate approved the 10 nominees on November 3, 2010. The board was led by Mustafa Chike-Obi as AMCON’s CEO. The CBN had considerable power over the board, as it nominated all four executive directors, including the CEO, as well as two non-executive members, for a total of six nominations. The Ministry of Finance nominated three non-executive members, including the chairman of the board, while the last nominee was nominated by the NDIC (Makanjuola 2015; Cerruti and Neyens 2016). All directors were nominated for five-year terms with a possible reappointment to a second five-year term (Makanjuola 2015). The AMCON Act further specified that board members should have at least “10 years [of] cognate financial experience at a senior management level, . . . . have no conflict of interest with AMCON’s business, and disclose debt obligations and interest” (Makanjuola 2015; Cerruti and Neyens 2016; AMCON Act 2010). 
+
+## **9. Size: AMCON had no predetermined size limitations on asset purchases.** 
+
+No documents reviewed indicate that AMCON was subject to an upper limit on asset purchases. However, regulators encouraged a minimum level of AMCON purchases by requiring banks to reduce toxic assets. Since foreign participation in the banking sector was small, domestic banks faced few possible buyers other than AMCON. 
+
+## **10.Funding Source: AMCON issued government-guaranteed, zero-coupon bonds in exchange for eligible assets but ultimately covered its losses on debt recovery by creating a ₦1.5 trillion sinking fund financed through contributions by Nigerian financial institutions and the Central Bank of Nigeria.** 
+
+The bonds were issued in five series between December 31, 2010 and December 28, 2011. Figure 4 provides an overview of AMCON’s bond issuances. AMCON first funded EBA purchases before issuing bonds for its recapitalization program. While AMCON managed to retire about a third of its bonds by 2014, the remainder were refinanced by the CBN. The arrangement provided that the CBN invested ₦3.6 trillion in AMCON bonds to refinance the agency’s exposure (Mazen 2013).[9] 
+
+Then, in January 2011, the CBN and 24 Nigerian banks signed a Memorandum of Understanding (MoU) to create the Resolution Cost Fund (RCF). Initially, eligible financial institutions were required to make an annual contribution of 30 basis points of their assets. The contributions were estimated to generate ₦100 billion every year (Makanjuola 2015), 
+
+> 9 Further details on the use of AMCON bonds in credit operations with the CBN can be found in the relevant guidelines issued by the CBN. 
+
+
+and AMCON projected in 2011 that the RCF would produce the majority of AMCON revenues (AMCON 2012). To facilitate banking-sector contributions given liquidity constraints, the NDIC could decrease the insurance premium it charged banks. The CBN contributed ₦50 billion per year (Makanjuola 2015). Contributions were to be collected for a period of 10 years, with banking-sector and CBN contributions capped at ₦1 trillion and ₦500 billion, respectively, for a total fund size of ₦1.5 trillion (Cerruti and Neyens 2016). 
+
+The federal government guaranteed all losses incurred during AMCON’s operations that could not be covered by either the RCF or revenues from asset resolution. In the event that AMCON’s operations produced a surplus, it was to be shared on a pro-rata basis among banks contributing to the RCF (Makanjuola 2015). 
+
+In 2013 the IMF recommended that the RCF MoU be codified (Chew and Dijkman 2013). This was achieved in 2015 when the RCF was introduced into the AMCON Act through an amendment. The amendment formalized the bank levy and increased it from 30 to 50 basis points of total assets for each eligible financial institution. The CBN’s contribution was set to ₦50 billion as initially decided (AMCON Amendment 2015). The increase in banks’ contribution was justified by a desire to collect quickly in order to wind down AMCON’s operations (Wallace 2015). Regulators shared representation on the RCF’s board with a rotating slate of member banks (Makanjuola 2015). 
+
+[FIGURE id=vol3_iss2_27_f4 type=figure label="Figure 4" file=figure_4.png caption="A Breakdown of AMCON Bond Issuances"]
+### **Figure 4: A Breakdown of AMCON Bond Issuances**
+![Figure 4](assets/vol3_iss2_27/figure_4.png)
+
+
+_Source: AMCON 2012, 33._ 
+
+
+## **11.Eligible Institutions: All banks in Nigeria could participate, but CBN guidelines effectively required participation for domestic institutions by imposing an upper bound on all banks’ eligible asset holdings.** 
+
+Any bank in Nigeria was eligible to participate in AMCON’s NPL transfer operations. In total, 22 banks sold some of their NPLs to AMCON. Individual banks’ contributions to the agency’s portfolio ranged from 0.13% to 14.62%. A comprehensive list of participating institutions and their contribution to the total portfolio is provided in Figure 3 (AMCON Guidelines 2010; AMCON n.d.). 
+
+The CBN mandated that institutions decrease to below 5% the fraction of assets held that were classified as eligible bank assets. Some of these institutions, including the largest participants in the asset purchase program, later received capital injections from AMCON. Per the guidelines, “no Eligible Financial Institutions shall hold on its books Eligible Bank Assets with an aggregate Book Value exceeding five percent of the Book Value of its existing loan portfolio”. The threshold was effective from February 16, 2011, three months after the entry into force of the guidelines. From then on, banks whose asset holdings did not comply with the guidelines had 30 days to submit an offer to sell to AMCON. The CBN mandated that such an offer to sell should include “a full listing of all Eligible Bank Assets of the Eligible Financial Institution and [their] corresponding book value” (AMCON Guidelines). It is not known whether any bank sold assets beyond those required to reduce their percentage of EBAs to less than 5%. Twenty-two institutions transferred at least some share of their NPLs to AMCON. These included 21 domestic banks and the foreign-owned Stanbic IBTC. While Stanbic IBTC initially avoided participation, it eventually transferred 12 loans to AMCON, representing 0.13% of the agency’s portfolio. Two other foreign-owned institutions, Citigroup and Standard Chartered Bank, avoided participation in the program, though their reasons were not publicized. 
+
+## **12.Eligible Assets: Eligible assets were defined by a set of guidelines issued to AMCON by the CBN and focused on nonperforming assets or loans classified as substandard and below.** 
+
+The “Guidelines for the Operation of Asset Management Corporation of Nigeria” issued for AMCON by the CBN laid out 5 categories of EBAs (AMCON Guidelines): 
+
+- (i) “Collateralized loans classified as substandard and below (secured NPLs); 
+
+- (ii) Unsecured loans classified as substandard and below (unsecured NPLs); 
+
+- (iii) Loans owed to eligible institutions whose banking license has been revoked by the CBN; 
+
+- (iv) Collateral seized by an eligible institution while collecting on debt it is owed; 
+
+
+## (v) Loans that “pose significant risk to an eligible institution.”[10] 
+
+In practice, acquisitions mainly consisted of credit extended to the oil and gas sector, margin loans, and mortgage debt (AMCON n.d.). The energy-sector credit fell under the category of loans that posed significant risk without being classified as NPLs (Cerruti and Neyens 2016). AMCON declared that these loans, while classified as performing, “were too large given the lender’s capital base and could pose a systemic risk to the banking system” (Makanjuola 2015). The purchase appeared to critics to be a political gesture, “because one of the debtors was owned by the minister of power” (Cerruti and Neyens 2016). In addition to the asset categories mentioned, the CBN reserved the right to extend the definition to other types of assets. 
+
+## **13.Acquisition - Mechanics: Before agreeing on terms of transfer, interested eligible financial institutions submitted a complete list of eligible bank assets to AMCON.** 
+
+Before an eligible institution entered into a transfer agreement with AMCON, either because it wanted to transfer eligible assets or because it was required to in order to meet the mandated threshold, it submitted a sale offer (AMCON Guidelines). In the offer, the selling bank included its eligible bank assets and credit information relevant to the assets (AMCON Act 2010). Following the asset valuation, the parties entered a sale and purchase agreement in writing (AMCON Guidelines; AMCON Act 2010). 
+
+## **14.Acquisition - Pricing: The valuation process for secured loans was tied to collateral value, which was appraised according to AMCON-wide standards.** 
+
+The valuation of eligible assets was based on a set of guidelines issued by the CBN. Secured loans were valued based on collateral while unsecured loans were acquired at 5% of face value. The CBN provided detailed guidelines on three types of collateralized loans: 
+
+- (i) Loans secured by real estate: 
+
+The selling institution provided a _good faith_ valuation of the forced-sale and openmarket value of the property. The average of both values was adopted as acquisition price. This price was subject to a revaluation performed within 12 months of the purchase by a real estate appraiser jointly appointed by the seller and AMCON. In the case of an overvaluation, the seller was required to pay the difference and a penalty equal to 10% of the difference to AMCON. If the property was initially undervalued, the difference was paid to the seller without penalty. The revaluation option was abandoned for purchases occurring after February 16, 2011, as the initial price was directly determined by a jointly appointed third party. 
+
+> 10 Significant risk was defined as a reasonable expectation that the loan will be reclassified as substandard or below within the next three months or may result in a loss at least equal to 1% of an institution’s total assets within the next six months (AMCON Guidelines, 7). 
+
+
+- (ii) Loans secured by listed shares: 
+
+These loans were valued at the 60-day moving average of the price of the security offered as collateral measured from November 15, 2010, and augmented by a 60% premium. If the resulting valuation was below 5% of the principal, the loan would be valued at 5% of the principal sum. 
+
+- (iii) Loans secured by unlisted shares 
+
+The purchase price was based on the valuation of the unlisted share as estimated using the average of three different pricing methodologies and guided by the latest audited financials (AMCON Guidelines).[11] 
+
+## **15.Management and Disposal: Asset disposal focused on debt collection and employed asset freezes and credit sanctions on bad debtors.** 
+
+AMCON’s recovery efforts mainly focused on debt collection given that a large amount of the total debt owed to AMCON could be traced back to a small number of individuals (OsaeBrown 2019). AMCON also wielded its special right to name major non-cooperative debtors. This strategy built on previous attempts by Nigerian regulators to pressure debtors, such as the CBN’s prohibition on 113 companies from accessing credit lines in 2013 or its publication of 105 of AMCON’s biggest debtors in 2018 (TheCable 2018). The government augmented AMCON’s debt-collection powers because it and its debt recovery partners[12] faced serious difficulties in the recovery process, specifically while liquidating properties. Major issues included debtors’ intervention to slow down the judicial process and prevent liquidation, AMCON’s inability to trace the property of debtors, and initial overvaluations of properties (Abasiekong and Oyewo 2019). An amendment to the AMCON Act that allowed AMCON to inspect and freeze debtor bank accounts worked to address these last critiques (AAA Chambers 2019). AMCON also pressured debtors by the seizure—and threat of seizure—of debtor collateral using powers granted by the 2015 amendment to the AMCON Act. 
+
+## **16.Timeframe: AMCON’s asset disposal operations lacked a clear timeline.** 
+
+The 2015 amendment to the AMCON Act specified a 2019 end date for the corporation. However, the 2019 amendment lacked such specification. Nigerian media expected liquidation to come in 2023 or 2024 (Benson 2020), though the IMF (2019) refuted this idea, since AMCON had just issued 25-year bonds. The IMF criticized AMCON for its lack of an explicit exit strategy. The Fund recognized the agency’s contribution in restoring stability in the banking sector. However, it voiced concerns regarding the absence of a sunset provision for AMCON’s activities. In a 2012 report the Fund recommended that a “credible exit strategy [should be] devised to ensure a smooth winding up of its operations by end–2017.” An 
+
+> 11 The methodologies included (i) net asset value, (ii) comparing the average price-earnings ratio with ratios of shares in similar sectors or industry, and (iii) a valuation based on transactions in similar sectors or industries. 
+
+> 12 The AMCON Guidelines provide for the possibility of appointing third-party asset managers to assist the agency in the management of eligible bank assets (AMCON Guidelines). 
+
+
+explicit sunset date was seen as “important to minimize fiscal risks and avoid potential moral hazard behavior by the banks” (IMF 2013). The Fund reiterated its criticism in a 2019 report claiming that “an exit strategy for the state-backed asset management company (AMCON) is urgently needed.” However, some of this concern was related to AMCON’s continued recapitalization efforts, such as injection into Skye Bank, which had participated in AMCON’s asset purchase program. The Fund recommended “that AMCON . . . formally sets a sunset to its existence, earmarks its cash flows to buy back bonds, sets annual disposal targets, implements a plan to divest AMCON’s interests in companies and banks, improves its legal power to recover assets, and is gradually phased out” (IMF 2019). 
+
+## **III. Evaluation** 
+
+AMCON’s loan purchase operations achieved their stated goal of reducing the NPL level in the Nigerian banking sector (Cerruti and Neyens 2016). However, the agency has faced criticism related to its governance structure and operations. 
+
+AMCON successfully tackled the NPL level by absorbing nonperforming assets from 22 of the 24 banks (Central Bank of Nigeria 2010) in the country. As a result, the NPL ratio fell from its peak at 37.3% in 2009 to 5.8% by 2011 (IMF 2007–2019). By 2014, AMCON’s actions “resulted in a cleanup and stabilization of the banking system,” having pushed the baseline capital adequacy ratio to 17% and the NPL ratio to less than 3% (Cerruti and Neyens 2016). 
+
+On the operational side, criticism focused on the guidelines issued by the CBN. Critics raised concerns regarding the central bank’s decision to limit the scope of AMCON’s activities to deposit money banks. In particular, the exclusion of the microfinance sector “question[ed] the CBN’s claim that its intervention was [intended] to protect depositors and creditors and prevent losses” (Osuji 2012). 
+
+Observers also highlighted the fact that “the CBN [could] declare any class of bank assets eligible” providing it with “a power that appear[ed] unrestricted” (Osuji 2012). Overall, it was noted that the CBN had substantial power over AMCON’s decision making and that “AMCON is practically an arm of the CBN” (Osuji 2012; Cerruti and Neyens 2016). Last, AMCON’s statutory “focus on warehousing and management of assets” was thought to compromise its goal of achieving rapid market normalization (Osuji 2012). 
+
+The CBN’s influence also reflected on AMCON’s governance. Beyond serving as the agency’s main supervisory authority and shareholder, the central bank nominated all four executive members of the board of directors, including the chief executive. Given that experience shows independence to be an important factor in an asset management company’s success, critics raised the question of whether “these powers [compromised] its mission of attaining financial stability” (Cerruti and Neyens 2016). The issues related to AMCON’s independence were further exacerbated due to concerns regarding AMCON’s ability to conduct its operations. One source notes that “AMCON apparently lack[ed] persons with specialist skills including credit and transaction risk management” (Osuji 2012). 
+
+
+The IMF also voiced concerns regarding the eventual allocation of losses from AMCON’s loan purchases and bank recapitalization activities. By 2014, AMCON’s accounts showed a negative equity position of ₦3.6 trillion (Cerruti and Neyens 2016). The resulting debt was initially designed to be paid first from the proceeds of asset sales, with any remaining balance to be repaid out of the Banking Sector Resolution Cost Fund. In 2015, AMCON announced that it had recovered 57% of its eligible asset portfolio for a total of ₦1 trillion in recovered funds (Wallace 2015). However, it maintains a large amount of NPLs on its balance sheet and further losses accumulated from its bank recapitalization operations. Given the ₦1.5 trillion ceiling on the RCF, it appears that a large share of the losses will eventually be borne by the government (Cerruti and Neyens 2016). 
+
+## **IV. References** 
+
+AAA Chambers. 2019. “The Revised AMCON Debt Recovery Approach Vis-à-Vis the AMCON Special Powers – A Critical Review of AMCON Amendment Act 2019.” Law firm blog post. October 8, 2019. 
+
+https://ypfs.som.yale.edu/library/revised-amcon-debt-recovery-approach-vis-vis-amconspecial-powers-critical-review-amcon. 
+
+Abasiekong, Otto, and Oyeyinka Oyewo. 2019. “AMCON, AMPs and Debt Recovery Turnaround – First Glance.” Financial information provider. Proshare. May 17, 2019. https://ypfs.som.yale.edu/library/amcon-amps-and-debt-recovery-turnaround-firstglance. 
+
+Akinloye, Bayo. 2021. “Debtors as Threat to Financial System.” _THISDAYLive_ (blog). February 14, 2021. 
+
+https://ypfs.som.yale.edu/library/debtors-threat-financial-system. 
+
+Alford, Duncan. 2010. “Nigerian Banking Reform: Recent Actions and Future Prospects.” SSRN Scholarly Paper ID 1592599. Rochester, NY: Social Science Research Network. https://ypfs.som.yale.edu/library/nigerian-banking-reform-recent-actions-and-futureprospects. 
+
+Asset Management Corporation of Nigeria (AMCON). 2012. “Annual Report and Consolidated Financial Statements for the Year Ended 31 December 2011.” Lagos: PricewaterhouseCoopers. https://ypfs.som.yale.edu/library/annual-report-and-consolidated-financial-statementsyear-ended-31-december-2011. 
+
+———. 2013. “IFRS Consolidated Financial Statements for the Year Ended 31 December 2013.” Lagos. https://ypfs.som.yale.edu/library/ifrs-consolidated-financial-statements-year-ended-31december-2013. 
+
+———. n.d. “Achievements.” Accessed February 8, 2021. https://ypfs.som.yale.edu/library/achievements. 
+
+
+Asset Management Corporation of Nigeria Act. 2010. https://ypfs.som.yale.edu/library/asset-management-corporation-nigeria-act. 
+
+Asset Management Corporation of Nigeria (Amendment) Act. 2015. https://ypfs.som.yale.edu/library/asset-management-corporation-nigeria-amendment-act. 
+
+“Asset Management Corporation of Nigeria [AMCON] Guidelines No. 1 of 2010.” 2010. Proshare. 
+
+https://ypfs.som.yale.edu/library/asset-management-corporation-nigeria-guidelines-no12010. 
+
+Benson, Emmanuel Abara. 2020. “As AMCON Nears Possible ‘Liquidation’, What Should We Expect?” _Nairametrics_ (blog). July 22, 2020. https://nairametrics.com/2020/07/22/asamcon-nears-possible-liquidation-what-should-we-expect/. 
+
+Berkeley Legal. 2019. “Salient Provisions of the AMCON Amended Act 2019.” Law firm blog post. August 28, 2019. 
+
+https://ypfs.som.yale.edu/library/salient-provisions-amcon-amended-act-2019. 
+
+Central Bank of Nigeria. 2010. “Annual Report and Statement of Accounts for the Year Ended 31st December, 2009.” Abuja: Central Bank of Nigeria. 
+
+https://ypfs.som.yale.edu/library/annual-report-and-statement-accounts-year-ended31st-december-2009. 
+
+Cerruti, Caroline, and Ruth Neyens. 2016. “The Third Generation: NAMA, AMCON, and SAREB.” In _Public Asset Management Companies: A Toolkit_ , 107–30. World Bank Studies. World Bank Group. 
+
+https://ypfs.som.yale.edu/library/public-asset-management-companies. 
+
+Chew, Dawn, and Miquel Dijkman. 2013. “Crisis Management and Crisis Preparedness Frameworks: Technical Note.” IMF Country Report 13/143. Financial Sector Adjustment Program: Nigeria. Washington, D.C.: International Monetary Fund. 1NGAEA2013005. IMF eLibrary. 
+
+https://ypfs.som.yale.edu/library/crisis-management-and-crisis-preparednessframeworks-technical-note. 
+
+Economist Intelligence Unit. 2012a. “Central Bank Bars Loans to Defaulting Major Debtors,” September 24, 2012. https://ypfs.som.yale.edu/node/17062. 
+
+_———_ . 2012b. “AMCON Declares a US$15bn Loss,” December 17, 2012. https://ypfs.som.yale.edu/library/amcon-declares-us15bn-loss. 
+
+_———_ . 2013. “‘Bad Debt’ Bank Aims to Retire N2trn Worth of Bonds,” May 21, 2013. https://ypfs.som.yale.edu/library/bad-debt-bank-aims-retire-n2trn-worth-bonds. 
+
+
+International Monetary Fund. 2007–2019. “Bank Nonperforming Loans to Total Gross Loans (%).” Global Financial Stability Report. World Bank Group. FB.AST.NPER.ZS. https://ypfs.som.yale.edu/library/bank-nonperforming-loans-total-gross-loans. 
+
+———. 2013. “2012 Article IV Consultation.” _IMF Staff Country Reports_ , Nigeria, 13 (116): 1. https://ypfs.som.yale.edu/node/17068. 
+
+———. 2019. “2019 Article IV Consultation: Press Release; Staff Report; and Statement by the Executive Director for Nigeria.” _IMF Staff Country Reports_ , Nigeria, 19 (92). https://ypfs.som.yale.edu/library/2019-article-iv-consultation-press-release-staff-reportand-statement-executive-director. 
+
+Makanjuola, Yomi. 2016. _Banking Reform in Nigeria: The Aftermath of the 2009 Financial Crisis_ . Palgrave Macmillan Studies in Banking and Financial Institutions. Basingstoke, UK: Palgrave Macmillan. 
+
+https://ypfs.som.yale.edu/library/banking-reform-nigeria-aftermath-2009-financial-crisis. 
+
+Mazen, Maram. 2013. “Nigeria Amcon Bonds Refinance Plan Positive, Moody’s Says.” _Bloomberg_ , June 4, 2013, Business Section. 
+
+https://ypfs.som.yale.edu/library/nigeria-amcon-bonds-refinance-plan-positive-moodyssays. 
+
+Nigerian Stock Exchange. 1996–2021. “All-Share Index.” Nigerian Stock Exchange. ASI. https://ypfs.som.yale.edu/library/all-share-index. 
+
+Onu, Emele. 2013. “First Bank of Nigeria’s Profit Little Changed as Costs Rise.” _Bloomberg_ , August 27, 2013, Business Section. 
+
+https://ypfs.som.yale.edu/library/first-bank-nigerias-profit-little-changed-costs-rise. 
+
+Osae-Brown, Anthony. 2019. “Nigeria Sets Up Task Force to Recoup $15 Billion of Amcon Debt.” _Bloomberg_ , July 30, 2019, Markets Section. https://ypfs.som.yale.edu/node/17081. 
+
+Osuji, Onyeka. 2012. “Asset Management Companies, Non-Performing Loans and Systemic Crisis: A Developing Country Perspective.” _Journal of Banking Regulation_ 13, no. 2: 147–70. https://ypfs.som.yale.edu/library/asset-management-companies-non-performing-loansand-systemic-crisis-developing-country. 
+
+Sanusi, Sanusi L. 2012. “Banking Reform and Its Impact on the Nigerian Economy.” _CBN Journal of Applied Statistics_ , 02:115–22. Abuja: The Central Bank of Nigeria. https://ypfs.som.yale.edu/library/banking-reform-and-its-impact-nigerian-economy. 
+
+TheCable. 2018. “List of AMCON’s Top 105 Debtors.” Financial information provider. Proshare. October 24, 2018. 
+
+https://ypfs.som.yale.edu/library/list-amcons-top-105-debtors. 
+
+
+Ungersboeck, Pascal and Corey Runkel. 2021. “Asset Management Corporation of Nigeria.” _Journal of Financial Crises_ , Broad-Based Capital Injections, 3 (3). https://elischolar.library.yale.edu/journal-of-financial-crises/ 
+
+Wallace, Paul. 2015. “Nigeria’s Amcon Recovers 57% of Bad Debts Bought in Crisis.” _Bloomberg_ , May 24, 2015, Business Section. 
+
+https://ypfs.som.yale.edu/library/nigerias-amcon-recovers-57-bad-debts-bought-crisis. 
+
+## **V. Key Program Documents** 
+
+## **Summary of Program** 
+
+– “ Public Asset Management Companies Chapter 6: The Third Generation: NAMA, AMCON, and SAREB” (Cerruti and Neyens 2016) 
+
+_A World Bank Study containing case studies on a number of public AMCs._ 
+
+https://ypfs.som.yale.edu/library/asset-management-corporation-nigeria-amendment-act. 
+
+– Banking Reform in Nigeria The Aftermath of the 2009 Financial Crisis (Makanjuola 2015) _Book on the Nigerian experience following the 2009 financial crisis from the standpoint of the CBN._ 
+
+https://ypfs.som.yale.edu/library/banking-reform-nigeria-aftermath-2009-financial-crisis. 
+
+## **Legal/Regulatory Guidance** 
+
+Asset Management Corporation of Nigeria Act, 2010 
+
+_Act establishing the Asset Management Corporation of Nigeria as a public agency for the purpose of resolving nonperforming loans and defining terms such as eligible bank assets._ https://ypfs.som.yale.edu/library/asset-management-corporation-nigeria-act. 
+
+Asset Management Corporation of Nigeria (Amendment) Act, 2015 
+
+_Amendment extending, among other powers, enhanced debt collection powers._ https://ypfs.som.yale.edu/library/asset-management-corporation-nigeria-amendment-act. 
+
+Guidelines for the Operations of the Asset Management Corporation of Nigeria, 2010 _Terms specifying AMCON's organization and debt collection strategy._ 
+
+https://ypfs.som.yale.edu/library/asset-management-corporation-nigeria-guidelines-no12010. 
+
+## **Media Stories** 
+
+” Economist Intelligence Unit. 2012. “Central Bank bars loans to defaulting major debtors. (09/24/2012). 
+
+” ———. 2012. “AMCON declares a US$15 billion loss. (12/17/2012). ’ ” ———. 2013. “‘Bad debt bank aims to retire N2trn worth of bonds. (05/21/2013). 
+
+_Economist Intelligence news reports on AMCON’s operations and the Nigerian banking sector between 2010 and 2016._ 
+
+
+Bloomberg. “Nigeria Amcon Bonds Refinance Plan Positive, Moody’s Says.” (06/04/2013). ———. “First Bank of Nigeria’s Profit Little Changed as Costs Rise.” (08/27/2013). ———. “Nigeria’s Amcon Recovers 57% of Bad Debts Bought in Crisis.” (05/24/2015). ———. “Nigeria Sets Up Task Force to Recoup $15 Billion of Amcon Debt.” (07/30/2019). 
+
+_Bloomberg articles on AMCON’s operations and the Nigerian banking sector between 2013 and 2019._ 
+
+## **Reports/Assessments** 
+
+Asset Management Corporation of Nigeria Website, Achievements _Summary of loan acquisition data provided by AMCON._ https://ypfs.som.yale.edu/library/achievements. 
+
+AMCON: Consolidated financial statements 2011 
+
+_Investor slideshow and annual financial statements of AMCON showing 2010 and 2011 balance sheets_ . 
+
+https://ypfs.som.yale.edu/library/annual-report-and-consolidated-financial-statementsyear-ended-31-december-2011. 
+
+AMCON: IFRS Consolidated financial statements 2013 
+
+_Investor slideshow and annual financial statements of AMCON showing 2010 and 2011 balance sheets_ . 
+
+https://ypfs.som.yale.edu/library/ifrs-consolidated-financial-statements-year-ended-31december-2013. 
+
+Nigeria: 2012 Article IV Consultation _IMF report on the state of the Nigerian economy in 2012_ . https://ypfs.som.yale.edu/node/17068. 
+
+Nigeria: 2019 Article IV Consultation _IMF report on the state of the Nigerian economy in 2019._ https://ypfs.som.yale.edu/library/2019-article-iv-consultation-press-release-staff-reportand-statement-executive-director. 
+
+Copyright 2021 © Yale University. All rights reserved. To order copies of this material or to receive permission to reprint any or all of this document, please contact the Yale Program on Financial Stability at ypfs@yale.edu.

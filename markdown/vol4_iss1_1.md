@@ -1,0 +1,1007 @@
+## Broad-Based Capital Injection Programs[1] 
+
+_June Rhee,_[2] _Junko Oguri,_[3] _Greg Feldberg,_[4] _and Andrew Metrick_[5] 
+
+Yale Program on Financial Stability Survey 
+
+April 08, 2022 
+
+## **Abstract** 
+
+This paper surveys 36 broad-based capital injection (BBCI) programs and attempts to identify some best (and worst) practices. We argue that it is crucial to distinguish between programs implemented during acute (“panic”) and chronic (“debt overhang”) phases of a crisis, where the goals of program design should be different. In an acute phase, programs should be designed to influence the behavior of bank counterparties, while in chronic phases, the focus should be on bank behavior itself. With this framing, we identify seven themes to guide program design, and provide many illustrative examples for the policymaker’s tool kit. 
+
+**Keywords:** broad-based capital injection, equity injection, financial crisis interventions, recapitalization 
+
+> 1 This survey explores part of the Yale Program on Financial Stability (YPFS) selection of New Bagehot Project modules considering the responses to the Global Financial Crisis that pertain to broad-based capital injection programs. Cases are available from the _Journal of Financial Crises_ at https://elischolar.library.yale.edu/journal-offinancial-crises/. 
+
+> 2 Director, MMS in Systemic Risk, and Senior Editor, YPFS, Yale School of Management. 
+
+> 3 PhD student, Kellogg School of Management, Northwestern University. 
+
+> 4 Research Scholar and Director of Research, YPFS, Yale School of Management. 
+
+> 5 Janet L. Yellen Professor of Finance and Management and YPFS Program Director, Yale School of Management. 
+
+
+**Introductory Note:** This survey is an analysis of important considerations for policymakers seeking to establish a broad-based capital injection (BBCI) program. It is based on insights derived from case studies of 36 specific BBCI programs the Yale Program on Financial Stability has completed and from the existing literature on the topic. While this survey can help inform a decision about whether or not to establish a BBCI program, our main purpose to assist policymakers who have already made that decision in designing the most effective program possible. In analyzing the programs that are the focus of this survey, we used a color-coded system to highlight certain particularly noteworthy design features. Our colorcoding system is as follows: 
+
+|Color|Meaning|
+|---|---|
+|BLUE – INTERESTING|A design feature that is interesting and that<br>policymakers may want to consider. Typically,<br>this determination is based on the observation<br>that the design feature involves a unique and<br>potentially promising way of addressing a<br>challenge common to this type of program that<br>may not be obvious. Less commonly, there will<br>be empirical evidence or a widely held<br>consensus that the design feature was effective<br>in this context, in which case we will describe<br>that evidence or consensus.|
+|YELLOW – CAUTION INDICATED|A design feature that policymakers should<br>exercise caution in considering. Typically, this<br>determination is based on the observation that<br>the designers of the feature later made<br>significant changes to the feature with the<br>intention of improving the functioning of the<br>program. Less commonly, there will be<br>empirical evidence or a widely held consensus<br>that the design feature was ineffective in this<br>context, in which case we will describe that<br>evidence orconsensus.|
+
+
+
+This highlighting is not intended to be dispositive. The fact that a design feature is not highlighted or is highlighted yellow does not mean that it should not be considered or that it will never be effective under any circumstances. Similarly, the fact that a design feature is not highlighted or is highlighted blue does not mean that it should always be considered or will be effective under all circumstances. The highlighting is our subjective attempt to guide readers toward certain design features that (1) may not be obvious but are worth considering or (2) require caution. 
+
+## **Introduction** 
+
+Financial crises occur when the banking system is undercapitalized. For government authorities, the most direct way to fix an undercapitalization problem is by simply injecting 
+
+
+new capital—the taxpayers effectively become investors in the banking system. Indeed, this direct approach is common throughout history, comprising 285 of the 1,886 total interventions in the Metrick and Schmelzing (2021) database. Of that total, 106 of these programs are classified as “broad-based,” with eligibility for many qualifying institutions. The database also shows that the frequency of such programs has been increasing over time, especially in wealthy countries. This paper surveys 36 such broad-based capital-injection (BBCI) programs and attempts to identify some best (and worst) practices. 
+
+Financial crises are messy affairs, and no two are the same. Furthermore, the institutional background and political context vary significantly across crises, and it is not realistic to expect a fixed playbook to fit all cases. Despite this unavoidable morass, scholars have consistently found evidence that capital injections can facilitate crisis recovery. Laeven and Valencia (2018) find that bank recapitalization helps the growth of financially dependent firms. Brei, Gambacorta, and von Peter (2013) study 14 major economies from 1995–2010 and find that a “critical” level of recapitalization allows banks to expand lending in a crisis. In a broad comparative analysis of the efficacy of different types of interventions, Tong and Wei (2020) analyze 198 policy actions for 16 countries during the Global Financial Crises (GFC) and conclude that “recapitalization of banks appears particularly effective in channeling the intervention effects from financial to nonfinancial sectors.” 
+
+This evidence of effectiveness supports the use of BBCIs as an important part of the crisisfighting toolbox. But how should one design such programs? Policymakers have many consequential choices, ranging from straightforward term-sheet-level questions to issues of strategy and implementation. The main body of this paper discusses 17 of these Key Design Decisions, drawing lessons from the academic literature (which is sparse on specific design recommendations) and from the 36 case studies. 
+
+The case-based approach used here cannot provide any statistically significant conclusions. That is the nature of this beast. But the mass of past experience, including many creative ideas and numerous missteps, should be absorbed by future designers of BBCIs. For those designers in a particular hurry, the conclusion of this survey discusses seven themes that emerge from our analysis. Many of these themes are tied to a key framing mechanism: **program goals differ between acute and chronic phases of a crisis.** Most BBCIs will list “increased bank lending” as a main goal of the program. Academic studies have reinforced this goal, with the effect on lending the most typical measure of program success. This goal is entirely appropriate during the chronic “debt overhang” phase of a crisis, when policy should be designed to directly influence the behavior of the banks. But during an acute “panic” phase of a crisis, an emphasis on bank lending is misplaced. _In an ongoing or incipient panic, policy must focus on the behavior of bank counterparties,_ not on the banks themselves. It is the counterparties who are running, and if those runs are not mitigated, the later chronic phase will be more difficult to repair. We make extensive use of this framing throughout the paper. 
+
+Figure 1 lists the 36 cases covered in this survey, with these cases divided into “acute” and “chronic” groups. In most cases, this categorization is obvious, as we see for example in the acute-phase programs announced at the height of the GFC in October 2008, or the chronic- 
+
+
+phase definition for all the capital injections in the later stages of the long Japanese financial crisis. However, in other cases, this categorization is less clear due to market conditions improving but recovery of market confidence still stalling. 
+
+[FIGURE id=vol4_iss1_1_f1 type=figure label="Figure 1" file=figure_1.png caption="Programs Covered in This Survey: Acute and Chronic Groups"]
+### **Figure 1: Programs Covered in This Survey: Acute and Chronic Groups**
+
+|**Acute**|**Chronic**|
+|---|---|
+|Austria FinStaG(GFC)|Colombia FOGAFÍN capital injection(1999 & 2001)|
+|France SPPE(GFC)|Denmark capital injections(GFC)|
+|GermanySoFFin(GFC)|Finland(Nordic Crisis, 1992)|
+|Greece(GFC)|Hungarybank recapitalization(1993–94)|
+|Hong Kong contingent bank capital facility<br>(GFC)*|Japan Financial Functions Stabilization Act (February<br>1998)|
+|Hungaryrecapitalization scheme(GFC)|Japan Prompt Recapitalization Act(August 1998)|
+|Indonesia Bank Restructuring Agency (Asian<br>FinancialCrisis)|Japan Provision of Subordinated Loans for Major Banks<br>(GFC,2009)|
+|Ireland recapitalization program (GFC)|Japan Act on Strengthening Financial Functions (2004–<br>21)|
+|Israel bank shares arrangement(1983)|Korea Bank Recapitalization Fund(GFC)|
+|ItalyTremonti bonds(GFC)|Malaysia Danamodal(Asian Financial Crisis)|
+|Korea KDIC(Asian Financial Crisis)|Nigeria AMCON(2010)|
+|Mexico PROCAPTE(Peso Crisis, 1995)|Norway (Nordic Crisis, 1991)|
+|Poland 1925 FPIK capitalization(1925)|NorwayState Finance Fund(GFC)|
+|Russia bank capital supportprogram(2014)|Spain FROB(GFC)|
+|Thailand CSF 1998(Asian Financial Crisis)|Sweden Bank Support Authority (1993)|
+|UK bank recapitalisation scheme(GFC)|TurkeySavingDeposit Insurance Fund(2000)|
+|US RFC(1933)|US SCAP/CAP(GFC, 2009)|
+|US CPP(GFC,2008)|US CDCI(GFC,2010)|
+|* When Hong Kong announced this program, it was precautionary, and the capital levels of banks were well above 8%<br>and remaining so.||
+
+
+
+_Source: Authors’ analysis._ 
+
+We categorize the 2009 GFC programs in the US and Japan as chronic, as the details for all of these were announced after short-term funding markets had considerably improved and program goals had switched away from rescue and toward recovery. Similarly, most of the programs from the Asian Financial Crises are classified as acute, with the exception of Malaysia’s relatively late program. 
+
+As an illustration of the important distinction between acute- and chronic-phase programs, consider two well-studied GFC programs in the US, the Capital Purchase Program (CPP) of late 2008 and the Supervisory Capital Assessment Program/Capital Assistance Program (SCAP/CAP) in early 2009. The CPP was announced and first implemented in October 2008, during the most acute phase of the GFC and coincident with BBCI programs in many other countries. This program had relatively simple terms, loose eligibility for participation, and light restrictions on participant behavior. In contrast, the SCAP/CAP details were finalized 
+
+
+after short-term funding markets had calmed considerably and included a novel stress test and relatively complex rules around any necessary injections. While neither of these program designs was perfect (as discussed in Key Design Decisions section), we believe that on balance both should be labeled as a success. But if one were to have flipped the program designs, we think that the outcomes would likely have been far worse. 
+
+The remaining sections of this paper go through the specific Key Design Decisions in detail. We note at the outset of this analysis that most of these design decisions were made in real time, often during the most acute phases of a crisis. In almost all cases, the legal background for the programs was either new or untested, and many mistakes were made because of this time pressure and novelty. A metatheme of this paper—and of much of the work of the Yale Program on Financial Stability—is that program design could be significantly improved if policymakers worked out some of these details in advance. In the best case, there would be a flexible law passed during a quiet period that could be invoked in “emergencies” to enable the most common designs. 
+
+## **Key Design Decisions** 
+
+**1. Part of a Package: Was the BBCI program announced with different policy interventions, or was it announced stand-alone? Were there any intervention programs existing when the BBCI came into effect?** 
+
+Some BBCI programs were announced on a stand-alone basis, but most were announced as a part of a package of measures. In some instances, authorities had already provided emergency liquidity, account or debt guarantees, or ad hoc capital injections before the BBCI program became operational. Figure 2 lists different combinations of policy measures in operation with BBCI programs. 
+
+In 13 of the 36 cases, recapitalization was combined with a government program to purchase or guarantee nonperforming loans (NPLs) from those banks. In Spain, the purchase or guarantee of NPLs came after the recapitalization was in progress. In Hungary, Israel, South Korea, and Thailand, governments also enforced banking sector reform with the recapitalization program. Studies of past capital injection programs during the Asian Financial Crisis suggest that bank restructuring and impaired-asset purchases are both complementary to recapitalization, since the goal of recapitalization is to restore and reassure “sustainable cash-based profitability” (Enoch, Garcia, and Sundararajan 2001; Scott 2002). Brei et al. (2020) conclude that recapitalization is often ineffective without an NPL strategy, and vice versa. 
+
+In 22 of the cases, recapitalization was combined with a comprehensive government guarantee of bank liabilities. 15 cases combined with debt guarantees, 15 cases combined with account guarantees and 8 cases had both. Some believe that the US CPP in 2008–09 did not stabilize the financial system alone—only when it was combined with a debt guarantee from the Federal Deposit Insurance Corporation was the government able to calm financial markets (Jester, Nason, and Norton 2020). 
+
+
+[FIGURE id=vol4_iss1_1_f2 type=figure label="Figure 2" file=figure_2.png caption="Other Policy Measures in Operation with BBCI Programs (Chronic Group Programs from Figure 1 Highlighted)"]
+### **Figure 2: Other Policy Measures in Operation with BBCI Programs (Chronic Group Programs from Figure 1 Highlighted)**
+
+|**BBCI program**|**Other programs* **||
+|---|---|---|
+|AustriaFinStaG (GFC)|AP, G (debt)||
+|ColombiaFOGAFÍNcapital injection(1999 &2001)|DR,R||
+|Denmark Capital Injections(GFC)|G(already put inplace before recap) (debt and account)||
+|Finland (Nordic Crisis,1992)|AP, G (debt)||
+|France SPPE (GFC)|G (debt) (refinancing assistance created by private banks supported by government<br>guarantee)||
+|Germany SoFFin(GFC)|AP, G (debt)||
+|Greece(GFC)|G(debt), O(liquiditysupport viagovernment bonds)||
+|HongKong ContingentBankCapital Facility (GFC)|G (debt and account)||
+|HungaryBank Recapitalization(1993–94)|AP, O(debtor restructuring, financial sector reform)||
+|HungaryRecapitalizationScheme (GFC)|G (debt)||
+|Indonesia Bank RestructuringPlan(Asian Financial Crisis)|AP, DR, R, G(debt and account)||
+|IrelandRecapitalization Program(GFC)|G (debt)||
+|Israel Bank Shares Arrangement(1983)|O(temporarystock market closure,financial sector reform)||
+|ItalyTremontibonds (GFC)|G (account), O (liquidity support)||
+|Japan Financial Functions Stabilization Act(February1998)|AP, G(account), O(tax reduction)||
+|Japan Prompt Recapitalization Act<br>(August1998)|AP, R, G (account)||
+|Japan Act on StrengtheningFinancial Functions(2004–21)|N||
+|Japan Provision of Subordinated Loans for Major Banks(GFC,2009)|O(stockpurchase–market liquidity)||
+|KoreaKDIC (Asian FinancialCrisis)|AP,DR,R, G (account), O (financialsector reform)||
+|KoreaBank Recapitalization Fund (GFC,2008)|R, O (marketliquidity)||
+|MalaysiaDanamodal(Asian FinancialCrisis)|AP,DR||
+|MexicoPROCAPTE(Peso Crisis,1995)|AP,DR,R, G (debt and account)||
+|NigeriaAMCON(2010)|AP||
+|Norway (Nordic Crisis,1991)|N||
+|Norway StateFinanceFund (GFC)|G (account), O (liquidity support,marketliquidity)||
+|Poland1925FPIKcapitalization(1925)|N||
+|RussiaBankCapitalSupportProgram(2014)|N||
+|Spain FROB(GFC)|(lateradded toinclude)AP,R, G (debt and account)||
+|Sweden BankSupportAuthority (1993)|G (debt and account)||
+|Thailand CSF(Asian FinancialCrisis)|AP,DR, O (financialsector reform)||
+|Turkey SavingDepositInsuranceFund (2000)|AP, G (account)||
+|UK Bank RecapitalisationScheme (GFC)|G (debt and account), O (marketliquidity)||
+|USRFC (1933)|R, G (debt and account)||
+|US CPP(GFC, 2008)|O(housing, auto, credit market relief), G(debt and account)||
+|US SCAP/CAP(GFC, 2009)|O(market liquidityand consumer, small and medium enterprise(SME)lending)||
+|US CDCI(GFC,2010)|O (SME lending)||
+|*AP=asset purchase and other measures to provide relief from nonperforming or legacy assets, DR= debt restructuring, R=resolution, G=guarantee (debt and/or account),<br>N=none, O=other(description).|||
+
+
+
+_Source: Authors’ analysis._ 
+
+
+There are several reasons why combinations with other interventions—and with guarantees in particular—may be more effective than BBCI programs by themselves. First, it may simply be that such guarantees are essentially available only to high-income countries (Laeven and Valencia 2018). Under this explanation, we may simply be confounding the existence of the combination with the resources of the country, where the latter is what matters. 
+
+A similar mechanism, working just through expectations, might be that a combination of programs signals to counterparties that the government has many tools available and is willing to use them if necessary. In this case, there would be actual efficacy advantages for using a combination of programs, but it would require that the government’s signals be credible. Such credibility may also vary with national income. 
+
+But a “real” benefit of combinations, independent of national income, is also plausible. Here, we recognize that while capital injections are the most direct method to solve an undercapitalization problem, BBCI programs require immediate payments to banks and are thus both fiscally and politically expensive. A guarantee program, on the other hand, incurs only contingent liabilities for the government, and the absence of immediate outlays can make it politically more palatable. If marginal contributions to different types of programs suffer from decreasing returns, it would be easy to construct simple models where the government should optimally spread fiscal and political capital across a variety of programs. 
+
+**2. Legal Authority: What was a legal basis that the authorities relied on? Was there a need for new law, or could they rely on existing authority? For European Union (EU) member countries, what extra European Commission (EC) approval did they need?** 
+
+In most jurisdictions, government authorities created a new regulatory framework for BBCI programs. Out of 36 cases analyzed in this survey, only Japan and South Korea (both in GFC) did _not_ require additional legislation for the BBCI program. In Japan, the Bank of Japan (BOJ) requested authorization from the minister of finance and prime minister to introduce the BBCI framework to provide subordinated loans to banks. In general, the BOJ enjoys wide discretion to perform any activity necessary for its mandate, provided it receives authorization from the minister of finance and the prime minister. In this case, the BOJ requested authorization to extend subordinated loans on the basis of maintaining stability of the financial system. 
+
+In South Korea, authorities relied on the Bank of Korea’s (BOK’s) authority to provide temporary credit to financial institutions in an emergency. The Financial Services Commission, with statutory authority on financial policy and supervision, established the Bank Recapitalization Fund (BRF) to administer and manage capital injections. The BOK provided funding for the BRF. However, since it was prohibited under law from directly funding the BRF, it instead provided credit to a state-owned development bank based on the emergency authority, then this state bank passed the BOK funds through to the BRF. 
+
+The legal framework may (1) set up a new organization or authorize an existing government entity to operate and manage the recapitalization, (2) appropriate existing funding or raise 
+
+
+new funding for the program, (3) define the terms of any capital subscription, (4) provide guidelines for any conditions, and (5) direct how the authorities will exit their holdings. Each of these items is discussed in further detail in the appropriate Key Design Decision below. 
+
+Amid a fast-developing crisis, some governments intervene before they have a clear legal authority to do so. For example, in Sweden’s BBCI, in 1991, the Ministry of Finance began injecting capital on an ad hoc basis without a specific legal framework. It was only in December 1992 that the Swedish parliament passed a bill creating the Bank Support Authority. 
+
+For some countries, the international legal framework can also be binding. EU member states needed the approval of the European Commission for BBCI programs during the GFC. Article 107(1) of the Treaty on the Functioning of the European Union prohibits State Aid, which is defined as an advantage selectively provided by a national public authority that is likely to affect trade between states and may distort competition. 
+
+Article 107(3)(b) of the treaty, however, provides an exception to the general prohibition if the aid is in the common interest of EU countries or if it seeks to remedy a “serious disturbance” in the economy of an EU country. During the GFC, such disturbances were clear. On October 13, 2008, the EC issued guidance to member states on how they could support financial markets without excessive distortion to competition (European Commission 2009b). The guidance allowed for recapitalization of financial institutions that were fundamentally sound but might experience distress because of extreme conditions in financial markets. Countries could use recapitalization to strengthen the capital base of the financial institutions directly or to facilitate the injection of private capital, with the aim of preventing negative systemic spillovers (European Commission 2008a). 
+
+Each case of State Aid required prior notification to the EC, and each member state had to wait for the EC’s decision before putting the aid measures into effect. Acknowledging the urgency of the situation, the EC promised a swift review process upon complete notification and a decision within 24 hours and over a weekend, if necessary (European Commission 2008a). The EC subsequently published principles for designing specific features in recapitalization programs, which we further discuss in the appropriate sections below (European Commission 2009b). 
+
+It is worth noting that the EU's Bank Recovery and Resolution Directive (BRRD), adopted post-GFC in 2014, allows countries to undertake precautionary recapitalizations of banks that are solvent and not failing or likely to fail. Such measures are conditional on final approval under EU State Aid rules. 
+
+## **3. Communications: How did the government communicate the goals of the program? Were there any special communication issues?** 
+
+This section highlights some communication practices in BBCI programs. In general, in introducing and operating a BBCI program, authorities strive to quickly reinstall confidence in the banks and the financial system. It is essential that the public maintain confidence in the authorities themselves. Successful communications are clear about the goals of the 
+
+
+program, send consistent messages, and portray the authorities as competent and decisive. In particular, an acute-phase program should speak directly to bank counterparties and emphasize the effect of additional capital on the safety of bank liabilities. In contrast, a chronic-phase program should communicate with the banks themselves and emphasize the need to use their capital to lend to households and businesses. The long-term public perception of programs can be driven by expectations from these early communications, so it is not helpful to talk about “increasing lending” if there is nothing in the program design to incentivize that goal. 
+
+A poorly communicated recapitalization can make a bad situation worse. For example, a long lag between the announcement and implementation of a program can erode market confidence. Also, if the authorities fail to explain disparate treatments across banks, they may risk the perception that they are bailing out those that are politically connected. 
+
+In Indonesia during the Asian Financial Crisis, public confidence in banks eligible for recapitalization faltered due to inconsistent communication about the program from the government. In December 1998, markets collapsed when President B.J. Habibie announced that he was replacing the recapitalization program with forced mergers. The government then changed course for a second time, restoring the recapitalization program, and the parliament passed a budget for it in February 1999 (Lindgren et al. 2000, 63). However, two days before the expected implementation of the plan in February 1999, the government postponed it yet again on the grounds that there was a lack of political consensus around the plans for several of the banks. The public reacted negatively to that news. Many believed that decisions had been influenced by political favoritism (Enoch et al. 2001). When the government finally implemented the program on March 13, 1999, it generally reaffirmed the terms of its original commitment. Yet, even then, it created uncertainty about its intentions by neglecting to “explicitly restate its earlier commitment to leave the day-to-day running of the banks in the hands of the owners” (Lindgren et al. 2000, 64). 
+
+**4. Governance and Administration: Did the government or the central bank take the lead in establishing the BBCI program? Were any private parties involved for consultation? Were there requirements to report to a legislative body? Were there external or internal audits of the program’s operations?** 
+
+In devising governance arrangements, authorities must pay attention to both the operational efficiency of the program and to the public perception of its fairness. There are often many reasonable ways to successfully achieve the first goal. For the second, designers must be sensitive to the social and political climate. Is the public blaming specific actors for the crisis? How significant are concerns about fairness or corruption if an existing agency is directly administering the program? As with the communication challenges discussed above, there are many ways to get this part wrong but no general strategy to get it right. 
+
+Typically, the fiscal authority has taken the lead in establishing and administering the recapitalization of financial institutions. This is to be expected, as recapitalization entails substantial fiscal costs. The central bank has taken the lead in a smaller number of cases. In the Indonesian BBCI case of 1999, the new legislation on bank restructuring gave Bank 
+
+
+Indonesia the purview to make temporary capital investments in banks, and based upon this legal authority, the Ministry of Finance and Bank Indonesia issued a joint decree outlining the recapitalization program. Similarly, in the German BBCI during the GFC, the Federal Agency for Financial Market Stabilization, which managed the program, reported initially to Bundesbank but was later assigned to the Ministry of Finance. In the Japanese BBCI case during the GFC, called the Provision of Subordinated Loans for Major Japanese Banks, the Bank of Japan obtained an exception from the minister of finance and the prime minister to be the sole operator for recapitalizing banks with subordinated loans. 
+
+Even when the fiscal authority takes the lead, central banks and other supervisory and regulatory agencies will assist in the operations, often with private sector experts. For example, South Korea’s Bank Recapitalization Fund during the GFC was managed by a committee consisting of nine members representing the bank supervisor, participating banks, and institutional investors. Finland in the 1990s commissioned a working group of officials and bankers to draft a public report proposing the design of the program. Malaysia’s BBCI program in 1998 hired Goldman Sachs and Salomon Smith Barney as independent advisers to gauge the overall health of the beneficiaries, to determine the required capital amount, and to construct an operational infrastructure. Figure 3 lists the main operators of our 36 BBCI programs, highlighting any newly created legal entities. 
+
+
+[FIGURE id=vol4_iss1_1_f3 type=figure label="Figure 3" file=figure_3.png caption="Main Entity Responsible for BBCI Operations"]
+### **Figure 3: Main Entity Responsible for BBCI Operations**
+
+|**Country**|**Crisis**|**Institution administrating BBCI**|
+|---|---|---|
+|Austria|GFC|Special entity (FIMBAG)|
+|Colombia|1999 & 2001|Special entity (FOGAFÍN)|
+|Denmark|GFC|Government|
+|Finland|Nordic Crisis 1990s|Government|
+|France|GFC|Special entity (SPPE)|
+|Germany|GFC|Special entity (SoFFin)|
+|Greece|GFC|Government|
+|HongKong|GFC|HongKongMonetaryAuthority|
+|Hungary|1993–94|Government|
+|Hungary|GFC|Government|
+|Indonesia|Asian Financial Crisis<br>1990s|Bank Indonesia and Special Entity (IBRA)|
+|Ireland|GFC|Government|
+|Israel|1983|Government|
+|Italy|GFC|Government|
+|Japan|Asian Financial Crisis<br>1990s|Government|
+|Japan|Asian Financial Crisis<br>1990s|Special entity (FRC, RCC)|
+|Japan|2004–21|Government|
+|Japan|GFC|Bank ofJapan|
+|Korea|Asian Financial Crisis<br>1990s|Special entity (KDIC)|
+|Korea|GFC|Special entity (Bank Recapitalization Oversight Committee)|
+|Malaysia|Asian Financial Crisis<br>1990s|Special entity (Danamodal)|
+|Mexico|Peso Crisis 1990s|Special entity (FOBAPROA)|
+|Nigeria|2010|Special entity (AMCON)|
+|Norway|Nordic Crisis 1990s|Special entity (GBIF, SBIF)|
+|Norway|GFC|Special entity (SFF)|
+|Poland|1925|Special entity (FPIK)|
+|Russia|2014|Special entity (DIA)|
+|Spain|GFC|Special entity (FROB)|
+|Sweden|Nordic Crisis 1990s|Special entity (BSA)|
+|Thailand|Asian Financial Crisis<br>1990s|Special entity (Financial Restructuring Advising Committee)|
+|Turkey|2000|Special entity (BRSA, SDIF)|
+|UK|GFC|Special entity (UKFI)|
+|US|Great Depression|Special entity (RFC)|
+|US|GFC|Government(US Treasury)|
+
+
+
+_Source: Authors’ analysis._ 
+
+
+Some experts recommend that the entity operating and managing the BBCI program should remain independent, either from supervisors or political forces, while remaining under the purview of the government. Sweden’s Bank Support Authority (BSA), created in 1992 for the purpose of recapitalizing banks, remained independent from the banks’ supervisors. A commenter closely involved in the operations of the authority highlighted its independence, stating that this was natural as the supervisors then did not have any experience in recapitalizing banks. BSA reported the activities of participating institutions to the central bank, the financial supervisory authority, and the National Debt Office. In Norway’s BBCI program, the parliament created two funds with their own boards to handle the acquired shares at arm’s length from the government. The purpose of this setup was to prevent the political authorities from micromanaging the banks (Bergo 2003). 
+
+In most cases, the recapitalization operation has been subject to oversight and external audit. In France, Ernst & Young performed external audits for the _Société de prise de participation de l’État_ (SPPE) financial statements. In Sweden, the BSA board was subject to audit by the National Audit Office, as any other government entities would be. In the US, Congress created new oversight committees to keep track of the capital injection programs during the GFC. The Financial Stability Oversight Board, chaired by the chairman of the Federal Reserve Board, oversaw the activities of CAP and CPP in the US; the Senate’s Congressional Oversight Panel and a special inspector general conducted independent reviews. These forms of external review can make the day-to-day operation of the program more burdensome but can be useful to improve both the appearance and reality of fair treatment. 
+
+In the case of Japan’s recapitalization in 1998 under the Prompt Recapitalization Act, governance issues in the independent oversight commission caused further uncertainty in the market. While the first chair of the committee attempted to enforce stricter behavioral terms for banks receiving capital injections, he was removed from the position after less than a year and was replaced by a less-resolute chairman by the prime minister. The changes in leadership caused volatility in the Japanese market, with shareholders unsure of future underwriting terms. As the committee became more banker-friendly under successive chairs, efforts to restructure Japanese banks faltered (Spindle and Dvorak 2000). 
+
+## **5. Size: What was the announced size of the total BBCI program? Did changing circumstances lead the authorities to increase it?** 
+
+Legislative bodies typically determine the total amount of funds available for recapitalization, whether through taxpayer appropriation or government-bond issuance (see Key Design Decision No. 7, Source of Funding). The size of the program may be based on a rough estimate of the capital shortfall in the financial sector or simply an expression of political feasibility. Decisions on the overall size of the program may also be influenced by whether the crisis is in an acute or chronic phase. In an acute phase, policymakers may focus on deploying a larger and wider-scale capital injection while facing less political resistance due to the urgency of the situation. In a chronic phase, policymakers are likely to conduct more detailed analysis to determine the size of the program. Ultimately, however, the overall size of the program is constrained by fiscal space and political realities. 
+
+
+In five of the cases we reviewed, the authorities increased the initially announced size of the program, determining that the banking sector remained fragile after depleting the initially allocated amount. In each of these cases, we label the change with the yellow caution flag. 
+
+If a recapitalization is too small and banks remain unable to meet capital requirements, not only will the intervention have limited benefits, but there may also be costs. Banks that remain undercapitalized may be more likely to continue lending to zombie firms rather than take needed charge-offs (Giannetti and Simonov 2013). They may also seek to achieve capital ratio targets by simply reducing their assets (the denominator of the ratio), or “shrinking to health,” which doesn’t help them build capital (the numerator) or incentivize them to resume lending (Mariathasan and Merrouche 2012). A study analyzing three capital injection programs in Japan in 1998, 1999, and 2004 suggests that the size of capital injections and banks’ ex-post ability to meet capital requirements are crucial determinants in the effectiveness of recapitalization. The Japanese BBCI program in 1998 under the Financial Functions Stabilization Act (FFSA) unilaterally offered JPY100 billion (less than USD1 billion) to each of the city banks; considering the real capital needs of the banks, this amount proved to be too small (Montgomery and Shimizutani 2009). New legislation establishing the 1999 program increased the size. 
+
+The Irish recapitalization program during the GFC appropriated a small amount initially and then continuously increased the program’s size, which was consistent with the EC guidance but created public uncertainty about banks’ financial positions and reduced confidence in the official management of the problem (Baudino, Murphy, and Svoronos 2020; European Commission 2008a). 
+
+Of course, it is difficult to determine how much capital banks will need during the acute stage of a crisis, when the value of tradable assets and the likelihood of repayment on outstanding credits are uncertain. During the chronic phase, governments have more time and data for analysis. The US stress test in 2009 was a particularly rigorous example of analysis in the chronic phase of a crisis. Formal estimates of capital needs may be based on capital ratio targets in existing national regulations, international standards, or new targets developed in response to the market stress. Malaysia’s central bank in 1998 conducted an industry-wide stress test to determine the size of a BBCI program that would keep the risk-weighted capital ratio across the banking industry above 9%. Similarly, Denmark’s central bank in the GFC conducted a stress test based on three scenarios[6] for the 15 largest Danish banks to determine the size of the program. The central bank expected the program would be large enough to allow all eligible institutions in Denmark to achieve a 12% Tier 1 capital ratio, the 
+
+> 6 In the first scenario, the financial crisis would lead to a deep international recession, entailing lower demand for Danish products; central banks worldwide would adopt a more expansionary monetary policy stance, and interest rates would fall. In the second scenario, the financial crisis would prompt the Danish banks to significantly reduce their lending. The third scenario was a combination of the first two scenarios, in which a deep international recession would coincide with a credit crunch in Denmark and cause a historic decline in economic activity. The stress test accounted for the fact that banks could not pay dividends for two years due to the state guarantee issued in October 2008, and assumed that banks would contribute to the guarantee scheme. The stress test modeled the pressure on bank earnings and capital adequacy that would result from these scenarios _._ 
+
+
+level the central bank decided was enough to increase banks’ ability to raise private capital and support the economy. 
+
+In many cases, the size of the program was ultimately constrained by the public resources available. When US officials described the CAP as an unlimited capital backstop in 2009, they meant simply that they believed the roughly USD300 billion in available funds would be sufficient to meet any potential needs (Clark, Kabaker, and Sachs 2020, 270). The size of the Polish program in 1925 was constrained by limited fiscal space; for that reason, the program prioritized larger banks. 
+
+Ireland’s recapitalization during the GFC ultimately ran into fiscal constraints (Honohan 2012, 5, 10–11). The government’s support of the country’s largest banks, which included a blanket guarantee on bank liabilities, shifted the focal point of the crisis from the soundness of banks to the soundness of the government itself. The financial precariousness of the banks and the sovereign formed a vicious cycle (Bayoumi 2017, 208; Eichengreen 2014, 356–57). 
+
+## **6. Timing: Was the program timely?** 
+
+Homar and van Wijnbergen (2017) find that recapitalizing banks early can shorten the expected duration of a crisis-related recession by two years. In particular, they find that timely action in the acute phase of a financial crisis can stem further erosion of banks’ capital and lead to a faster recovery and limit damage to the economy. In contrast, Mariathasan and Merrouche (2012) conclude that timing did not play any “statistically significant role” in a study of recapitalizations’ effects on bank lending in 15 OECD (Organisation for Economic Co-operation and Development) countries. 
+
+As noted in Key Design Decision No. 3, Communications, delays in launching BBCI programs can contribute to market confusion and allow banks’ liquidity to deteriorate further. South Korea’s National Assembly Budget Office criticized the country’s Bank Recapitalization Fund in the GFC for the delay in operations. By the time the voluntary program was in operation, most banks had raised Tier 1 capital from the private market. The market then viewed banks that participated in the program as weaker because they had been unable to raise funds from private investors. Conversely, the Malaysian central bank argued that the timely establishment of its BBCI program in 1998 contributed to the success of the program in resolving banking sector problems and kept the cost of recapitalization low (Bank Negara Malaysia 2004). 
+
+Political factors can create delays. South Korea’s 1998 program required an additional round after the initially approved amount was depleted. By early 1999, the Korean government recognized the need to raise more public funds to head off any additional unforeseen complications. Lawmakers convened to discuss the second round of capital injections, but the discussion paused and did not pick up until after the national election for lawmakers in April 2000. The government did not declare the second round of funds until mid-2000. Some scholars suggest that lawmakers had sought to avoid political backlash before the election, and that they waited until financial markets became sufficiently turbulent before they conceded that banks would require additional public funds (Lim and Hahm 2004, 19). 
+
+
+International political factors can accelerate programs. For example, France accelerated the announcement of SPPE after the Netherlands announced that it was injecting capital into ING, a large Dutch bank. The US announced the CPP shortly after the UK announced its BBCI program. Figure 4 lists the timeline for US and European BBCI programs during the GFC, showing a cluster of announcements. 
+
+[FIGURE id=vol4_iss1_1_f4 type=figure label="Figure 4" file=figure_4.png caption="Announcement of BBCI Programs in US and EU Member States during the Global Financial Crisis"]
+### **Figure 4: Announcement of BBCI Programs in US and EU Member States during the Global Financial Crisis**
+
+|**Crisis**||
+|---|---|
+|**BBCIprogram**|**Announcement date**|
+|UK(2008)|October8,2008|
+|Italy (2008)|October9,2008|
+|Germany (2008)|October 12,2008|
+|US (2008, CPP)|October 14,2008|
+|Greece (2008)|October 15,2008|
+|France (2008)|October 20,2008|
+|Austria (2008)|October 26,2008|
+|Hungary (2008)|November6,2008|
+|Ireland (2008)|December 14,2008|
+|Denmark(2009)|February 3,2009|
+|Norway (2009)|February 8,2009|
+|US (2009, SCAPand CAP)|February10,2009|
+|Spain(2009)|June27,2009|
+|US (2010, CDCI)|February 3,2010|
+
+
+
+
+[FIGURE id=vol4_iss1_1_f5 type=figure label="Exhibit 5" file=exhibit_5.png caption=""]
+![Exhibit 5](assets/vol4_iss1_1/exhibit_5.png)
+
+
+_Source: Authors’ analysis._ 
+
+
+**7. Source of Funding: Where does the funding come from? Are the authorities providing cash or bonds in exchange for the capital? Are there any private funds involved? What measures do authorities take to protect the provided funds and allow them to recoup their investments?** 
+
+Some funding sources can prove controversial. In the case of the Irish BBCI in the GFC, the minister of finance used the National Pension Reserve Fund to recapitalize the banks. However, before this pension fund could be used for this purpose, the National Pension Reserve Fund Act had to be amended; this took about three months after the initial announcement of the recapitalization plan. The minister of finance raised EUR3 billion by pulling forward and redirecting government funding of the pension fund and EUR4 billion by liquidating existing assets in the fund, mostly cash reserves and government bonds. In a subsequent ad hoc capital injection, when the government considered it unlikely that it would recover funds, the Exchequer was used instead of the pension fund (Houses of the Oireachtas 2016). However, the fiscal space was ultimately revealed to be limited as the Irish government lost reasonable access to the bond market. 
+
+Some authorities obtained funding from the private sector. In Sweden (Nordic Crisis) and Hungary (GFC), operational costs were partially funded through mandatory fees paid by the participating financial institutions. In Indonesia, current shareholders were offered warrants to purchase additional shares as an incentive to participate. Participating shareholders also received Certificates of Entitlement, a tradable instrument on the capital market entitling the holder to proceeds of collections and sales of assets transferred to the recapitalizing authority over a specified period. We find this to be an interesting design feature with many unexplored mechanics. By varying the terms of such offers, authorities can create strong incentives for current shareholders to invest new capital, with the holdouts effectively subsidizing the participants. 
+
+In Thailand, to incentivize private investor participation in the Tier 1 capital injection, the government issued and offered three-year covered warrants on the preferred shares of banks to participating investors, enabling them to purchase the government’s shares at the original purchase price plus carrying costs (Santiprabhob 2003). 
+
+The government may contribute cash or bonds, either tradable or nontradable. Prior to the GFC, bonds were a common source of payment by the government. However, during and since the GFC, this has become less prevalent. Russia, Nigeria, and Turkey are the only countries that have used government bonds in recent years. Russia paid government bonds in its 2014 program in response to international sanctions, Nigeria’s AMCON in 2010 paid banks in zero-coupon bonds guaranteed by the government, and Turkey’s Saving Deposit Insurance Fund (SDIF) in 2000 paid the banks in treasury securities with floating rates linked to borrowing costs and foreign exchange–linked bonds. 
+
+
+[FIGURE id=vol4_iss1_1_f6 type=figure label="Figure 5" file=figure_5.png caption="Source of Funding for Capital Injection"]
+### **Figure 5: Source of Funding for Capital Injection**
+
+|**5: Source of Funding for Capital Injection**||
+|---|---|
+|**BBCI program**|**Funding source* **|
+|AustriaFinStaG (GFC)|NAP|
+|Colombia: FOGAFÍNcapital injection(1999 &2001)|GB, O (depositinsurancefund)|
+|DenmarkCapital Injections (GFC)|E-CB|
+|Finland (Nordic Crisis,1992)|NAP|
+|France SPPE(GFC)|GB|
+|Germany SoFFin(GFC)|E-FM|
+|Greece (GFC)|GB,IFI,F|
+|HongKong (GFC)|E-O (foreignexchangefund)|
+|HungaryBank Recapitalization(1993–94)|GB,IFI|
+|HungaryRecapitalizationScheme (GFC)|IFI(IMF,ECB)|
+|IndonesiaBank RestructuringPlanof 1999 (Asian FinancialCrisis)|GB|
+|IrelandRecapitalization Program(GFC)|E-O (National Pension ReserveFund)|
+|Israel BankSharesArrangement (1983)|GB|
+|ItalyTremontibonds (GFC)|GB|
+|Japan Financial Functions Stabilization Act (February1998)|GB|
+|Japan PromptRecapitalization Act (August1998)|GB|
+|Japan Act onStrengtheningFinancial Functions (2004–21)|E-CB, O (DepositInsurance CorporationofJapan)|
+|Japan ProvisionofSubordinatedLoansfor Major Banks (GFC,2009)|E-CB|
+|KoreaKDIC (Asian FinancialCrisis,1997)|GB|
+|KoreaBank Recapitalization Fund (GFC,2008)|GB,NAP|
+|MalaysiaDanamodal(Asian FinancialCrisis,1998)|GB|
+|MexicoPROCAPTE(Peso Crisis,1995)|GB,IFI,F|
+|NigeriaAMCON(2010)|GB|
+|Norway (Nordic Crisis,1991)|NAP|
+|Norway (GFC)|NAP|
+|Poland1925FPIKcapitalization(1925)|F, O (seigniorage)|
+|RussiaBankCapitalSupportProgram(2014)|GB|
+|Spain FROB(GFC)|NAP, O (Deposit GuaranteeFunds)|
+|Sweden BankSupportAuthority (1993)|NAP, O|
+|Thailand CSF(Asian FinancialCrisis,1998)|GB|
+|Turkey SavingDepositInsuranceFund (2000)|E-FM|
+|UK Bank RecapitalisationScheme (GFC)|GB|
+|USRFC (1933)|GB|
+|US CPP(GFC,2008)|NAP|
+|US SCAP/CAP(GFC,2009)|NAP|
+|US CDCI(GFC,2010)|NAP|
+|*E=existing, FM=finance ministry, CB=central bank, GB=newly issued government bonds, NAP=newly appropriated government funds, IFI=loans<br>from international institutions,F=loansfrom foreigncountry, O=Others||
+
+
+
+_Source: Authors’ analysis._ 
+
+
+## **8. Eligible Institutions: Which institutions are eligible for assistance? Only banks? Only domestic? Only potentially viable ones? Under what conditions do governments make participation mandatory?** 
+
+## _**Types of Financial Institution**_ 
+
+Generally, commercial banks and other depository institutions, such as savings banks and credit unions, are eligible for assistance in BBCI programs. However, recapitalization may also be extended to other financial institutions, depending on their roles in the economy. Most programs we surveyed, except those in Japan (1998) and Spain (GFC), were limited to domestic financial institutions. In the case of Japan, foreign banks were eligible but did not participate. In Spain, financial holding companies based in other European Union member states were eligible under some conditions. Figure 6 lists eligible institutions for BBCI programs in our database. The figure shows that most acute-phase programs focus on traditional banks, with broader eligibility more common in chronic-phase programs. 
+
+
+[FIGURE id=vol4_iss1_1_f7 type=figure label="Figure 6" file=figure_6.png caption="Eligible Types of Institution ((Chronic Group Programs from Figure 1 Highlighted))"]
+### **Figure 6: Eligible Types of Institution ((Chronic Group Programs from Figure 1 Highlighted))**
+
+|**BBCI program**|**Eligible institutions—only banks? If not, what other institutions? (Y/N)**|
+|---|---|
+|AustriaFinStaG (GFC)|Y|
+|Colombia: FOGAFÍNcapital injection(1999 &2001)|N(laterextended to creditinstitutions specializedin mortgagelending)|
+|DenmarkCapital Injections (GFC)|Y|
+|Finland (Nordic Crisis,1992)|Y|
+|France SPPE(GFC)|N(allcreditinstitutions)|
+|Germany SoFFin(GFC)|N(insurance companies and pension funds)|
+|Greece (GFC)|Y|
+|HongKong (GFC)|Y|
+|HungaryBank Recapitalization(1993-94)|Y|
+|HungaryRecapitalizationScheme (GFC)|Y|
+|IndonesiaBank RestructuringPlanof 1999 (Asian FinancialCrisis)|Y|
+|IrelandRecapitalization Program(GFC)|Y|
+|Israel BankSharesArrangement (1983)|Y|
+|ItalyTremontibonds (GFC)|Y|
+|Japan Financial Functions Stabilization Act<br>(February1998)|N (all domestic/foreign banks, credit cooperatives, credit unions, and cooperatives—a<br>type of nonbank financial institutions)|
+|Japan PromptRecapitalization Act (August1998)|N(threenonbankslisted explicitlyinthelaw)|
+|Japan Act onStrengtheningFinancial Functions (2004–21)|Y|
+|Japan ProvisionofSubordinatedLoansfor Major Banks (GFC,2009)|Y|
+|KoreaKDIC (Asian FinancialCrisis,1997)|Y|
+|KoreaBank Recapitalization Fund (GFC,2008)|Y|
+|MalaysiaDanamodal(Asian FinancialCrisis,1998)|N(finance companies)|
+|MexicoPROCAPTE(Peso Crisis,1995)|Y|
+|NigeriaAMCON(2010)|Y|
+|Norway (Nordic Crisis,1991)|Y|
+|Norway StateFinanceFund (GFC)|Y|
+|Poland1925FPIKcapitalization(1925)|Y|
+|RussiaBankCapitalSupportProgram(2014)|Y|
+|Spain FROB(GFC)|N(creditinstitutionsincludinginvestment companies, etc.)|
+|Sweden BankSupportAuthority (1993)|N(creditinstitutions owned by banks, government-affiliated creditinstitution)|
+|Thailand CSF(Asian FinancialCrisis,1998)|N(finance and securities companies)|
+|Turkey SavingDepositInsuranceFund (2000)|Y|
+|UK Bank RecapitalisationScheme (GFC)|Y|
+|USRFC (1933)|N(insurance companies,mortgageloancompanies,national mortgage association)|
+|US CPP(GFC,2008)|N(S-corporations,mutualbanks)|
+|US SCAP/CAP(GFC,2009)|Y|
+|US CDCI(GFC,2010)|N(credit unions, community developmentfinancial institutions)|
+
+
+
+_Source: Authors’ analysis._ 
+
+
+## _**Triage for Solvency/Viability**_ 
+
+Most jurisdictions use solvency or viability tests as a condition of participation. For this purpose, solvency tests can be based on some combination of regulatory and market measures, both of which may be unreliable in the midst of a crisis. “Viability” is an even looser concept, combining notions of solvency with a judgment about the potential for the bank business to be sustainable long-term. Detailed triage may not be feasible in the acute phase of a crisis, leading some countries to offer wider availability. This can be both necessary and expedient. For example, Finland in 1992, suffering the deepest recession among the three Nordic countries, offered recapitalization to banks regardless of their solvency. The US CPP, during the acute phase of the Global Financial Crisis, broadly offered to purchase preferred shares in banks of all sizes on a voluntary basis in late 2008. Regulators reviewed banks’ applications for CPP funds and approved banks that met simple criteria based on supervisory ratings and financial ratios. Later, during a more chronic phase of the crisis in early 2009, the US innovated the use of scenario-based stress testing to identify the capital needs of systemically important banks in the US CAP. Triaging to identify banks that still needed capital in the chronic phase came after the initial BBCI programs in the acute phase. (Claessens et al. 2014) 
+
+Some pre-GFC cases demonstrate the danger of attempting too much triage during the acute phase. The Thai program attracted some criticism for disproportionately focusing on identifying potentially viable institutions. Initially, the Thai government and subsequently the Thai central bank attempted to identify solvent and insolvent institutions. However, Santiprabhob (2003) comments that this careful exercise meant that authorities paid too little attention to asset deterioration and nonperforming loan restructuring. Similarly, in Indonesia, triage delayed the operation of the BBCI program, where the government announced a blanket guarantee in January 1998, began examinations in August 1998, but did not implement recapitalizations until March 1999. 
+
+Triage is more feasible in the chronic phase. Here, policymakers can carefully assess individual financial institutions, both to avoid wasting funds on nonviable banks and to make sure that the injections are correctly sized for the viable ones. Disregarding an institution’s needs can easily result in an ineffective recapitalization. Japan’s program under the FFSA in 1998 injected JPY100 billion into every city bank to avoid immediately revealing the weakness of any one bank through the assisted amount (Montgomery and Shimizutani 2009). No attempt was made to discern whether this amount would be enough to recapitalize each bank, and the amount was set unrelated to risk profile or level of undercapitalization (Allen, Chakraborty, and Watanabe 2009). The government determined the JPY100 billion figure because that was the most the government could get the Bank of Tokyo Mitsubishi, the healthiest bank at that time, to accept (Montgomery and Shimizutani 2009). It proved insufficient to properly recapitalize the other major banks, which had greater capital needs than the Bank of Tokyo Mitsubishi. 
+
+
+Authorities sometimes use external experts to assist in the viability assessment. Sweden’s BBCI program, announced in 1992, hired international consultants to analyze the banks’ credit portfolios and future viability before deciding to perform capital injections (Englund 2015). Similarly, Malaysia’s BBCI program in 1998 hired two US investment banks, Goldman Sachs and Salomon Smith Barney, to determine the viability of banks and identify those very likely to experience solvency issues by conducting comprehensive individual assessments and industry-wide stress tests. 
+
+The data and methodology of stress testing have advanced significantly since the GFC, which means that crisis triage techniques used in the past may be outdated. Some central banks may now have the data and skills to perform a credible stress test in the short timeframe required during the acute phase of a crisis. But a timeless lesson is that, in the acute stage, capital injections will not achieve their goal of calming bank counterparties if the size and features of the program are based on a non-credible test. 
+
+## _**Mandatory Participation**_ 
+
+Participation was voluntary in most of the programs that we studied. Exceptions included Hungary (1993–94) and Korea (Asian Financial Crisis). Mexico’s PROCAPTE made the participation voluntary for banks with capital adequacy ratios of 8% or above; for banks below that level, the authorities could either mandate recapitalization or suspend their banking charter. 
+
+In the cases of the US CAP and Malaysian Danamodal, authorities used stress tests to determine the amount of capital that banks needed; if they were unable to raise the capital from private sources, their participation in the official recapitalization became mandatory. Some jurisdictions made coordinated efforts to minimize the stigma and to ensure wide participation in programs that they described as voluntary. France’s SPPE coordinated with the six main French banking groups, then representing 80% of France’s net banking income, to participate in the capital injection simultaneously (European Commission 2008b; Woll 2014). Similarly, in the US CPP, the Treasury secretary and other high-level government officials arranged a meeting with the heads of nine of the largest US banks, holding about 55% of all US banking assets at that time. The bankers agreed to participate in CPP “to signal the program’s importance to the stability of the financial system” (US Government Accountability Office 2012, 7). The nine banks were selected because government officials viewed them as systemically important due to their size, scope of business, and interconnectedness in the broader economy (Office of the Special Inspector General for the Troubled Asset Relief Program 2009, 14–15). The government believed that having the institutions all take the capital would mitigate stigmatization by avoiding the appearance that institutions that took the capital were weak. 
+
+Landier and Ueda (2009), however, caution that compulsory programs targeting a set of banks may require specific changes in the legislation for some jurisdictions, which may not be feasible when systemic risk is imminent. Nevertheless, ensuring wide participation may be crucial in the acute phase of a crisis. 
+
+
+## _**Raising Private Capital**_ 
+
+Some BBCI programs required banks to raise private capital before the government capital assistance came in. For example, Mexico’s PROCAPTE denied participation of a bank that was unable to raise new capital from the existing shareholders (Mackey 1999, 191). Similarly, for private bank recapitalization in Colombia in 1999 and 2001, authorities required current shareholders to contribute. 
+
+Indonesia’s BBCI program in 1999 required private banks to raise 20% of the capital required for the bank to reach a capital adequacy ratio of 4% in cash from the shareholders before the government provided capital assistance. 
+
+In others, the authorities did not require but incentivized the participating banks to raise private capital first through existing or new shareholders. The UK Bank Recapitalisation Scheme required institutions that chose to issue ordinary shares to first offer to sell additional shares to existing shareholders; the government acted as the underwriter of any of these offers. However, the UK BBCI did not require shareholders to take the offer, unlike Mexico and Indonesia. The UK government purchased any shares that were not purchased by existing shareholders at the “maximum permitted discount of 10% to the share price” (Kroes 2008). 
+
+US CAP, similarly, allowed six months after the stress test in 2009 for banks to raise new capital from private sources. After that, the government acquired new shares to meet any shortfalls. Crucially, the CAP did not allow banks to meet the Federal Reserve’s capital ratio target by shrinking their assets (denominator of capital ratio). Instead, the program required that any shortfall be met by raising new capital (numerator of the ratio). This is an important mechanism for a chronic phase, preventing a perverse incentive to shrink the balance sheet by reducing lending. 
+
+In Thailand, the government injected Tier 1 capital to meet a capital adequacy ratio of 2.5%. Beyond this level, the government injected Tier 1 capital only if it was matched by private capital injections of equal or greater value. This enabled the government to rely on the due diligence of private investors to determine the level of Tier 1 capital contributions. The private capital could come from both new and existing shareholders (Lindgren et al. 2000, 100). 
+
+## _**Other Efforts to Incentivize Participation**_ 
+
+Subsequent policy measures may encourage banks to participate in a voluntary recapitalization program, if the measure is attractive enough for banks. For example, the US Reconstruction Finance Corporation (RFC) during the Great Depression faced early hesitancy from banks (Jones 1951, 26). Participation increased when the government emphasized that only sound and solvent banks would be eligible for the new federal deposit insurance program that would come into effect at the beginning of 1934 (Banking Act of 1933, 11). By the end of 1933, the RFC had disbursed about USD264 million in preferred share aid, compared to USD63 million at the end of the third quarter (U. S. Department of the Treasury 1959, 27). 
+
+
+## **9. Individual Participation Limits: Are there any limits to how much assistance an individual participant can receive from the intervention?** 
+
+Individual capital injection amounts were often unlimited but, in some cases, tailored to the size of individual financial institutions. Most commonly, these limits were calculated against risk-weighted assets. US CPP set forth both a maximum—the lesser of USD25 billion and 3% of risk-weighted assets—and a minimum of 1% of risk-weighted assets. South Korea’s Bank Recapitalization Fund (GFC) used asset holdings in calculating individual caps, rejecting the use of credit ratings because of stigma concerns (Lee and Rhee 2012). Russia’s 2014 program limited capital injections to no more than 25% of the bank’s capital. 
+
+Some programs further tailored the size of capital injections to the needs of individual institutions. The UK Bank Recapitalisation Scheme depended on calculations using a variety of bank-specific stress tests, aimed at substantiating private market confidence in the bank and ensuring enough loss absorption in the case of a recession or tightened banking conditions. 
+
+Similarly, Denmark limited the recapitalization of participating institutions up to a Tier 1 capital ratio of 12%. The Danish National Bank decided on that target after a stress test based on three scenarios for the 15 largest Danish banks. The central bank concluded the target 12% should increase banks’ ability to get private capital market funding and support the real economy (European Commission 2009a). 
+
+## **10. Capital Characteristics: What form of capital is injected?** 
+
+Figure 7 summarizes the main structures used in our 36 cases. Overall, 19 programs used subordinated debt, 23 used preferred shares, and 11 used common shares. In 22 cases, two or more types of capital were offered. In 14 cases, preferred shares or subordinated debt were convertible into common shares. In four cases, Ireland, US CPP and CAP during the GFC and Thailand during the Asian Financial Crisis, those holdings came with warrants to buy common shares. 
+
+
+[FIGURE id=vol4_iss1_1_f8 type=figure label="Figure 7" file=figure_7.png caption="Capital Characteristics and Phase of Crises"]
+### **Figure 7: Capital Characteristics and Phase of Crises**
+
+|**Acute phase**|**Acute phase**|**Acute phase**|**Chronic phase**|**Chronic phase**|**Chronic phase**|
+|---|---|---|---|---|---|
+|**Programs**|**Capital characteristics* **|**Voting or nonvoting****|**Programs**|**Capital characteristics* **|**Voting or nonvoting****|
+|**Austria FinStaG (GFC)**|O (participation capital)|NVT|**Colombia FOGAFÍN capital**<br>**injection(1999 & 2001)**|SD, O (loans to shareholders)|DK|
+|**France SPPE (GFC)**|SD, P (later added)|NVT|**Denmark Capital Injections**<br>**(GFC)**|SD (convertibility added later)|NVT|
+|**Germany SoFFin (GFC)**|SD (silent participation),<br>C(later added)|NVT (SD),<br>VT(C)|**Finland (Nordic Crisis, 1992)**|CP (government had the right)|NVT|
+|**Greece (GFC)**|CP|DK|**Hungary Bank Recapitalization**<br>**(1993–94)**|C, SD|VT (C),<br>NVT(SD)|
+|**Hong Kong Contingent Bank**<br>**Capital Facility (GFC)**|DK|DK|**Japan Financial Functions**<br>**Stabilization Act (February**<br>**1998)**|CP, SD|DK|
+|**Hungary Recapitalization**<br>**Scheme (GFC)**|P|NVT|**Japan Prompt Recapitalization**<br>**Act (August 1998)**|MCP, SD|DK|
+|**Indonesia Bank**<br>**Restructuring Plan of 1999**<br>**(Asian Financial Crisis)**|C, CP (but not used)|VT|**Japan Act on Strengthening**<br>**Financial Functions (2004-21)**|C, CP, SD, O (beneficial rights,<br>preferred investments)|NVT (unless in three<br>circumstances)|
+|**Ireland Recapitalization**<br>**Program (GFC)**|P|VT (but limited)|**Japan Provision of Subordinated**<br>**Loans for Major Banks (GFC)**|SD|DK|
+|**Israel Bank Shares**<br>**Arrangement (1983)**|O (purchasing<br>shareholder's shares)|NVT|**Korea Bank Recapitalization**<br>**Fund (GFC)**|P, SD|NVT|
+|**Italy Tremonti bonds (GFC)**|CD|DK|**Malaysia Danamodal (Asian**<br>**Financial Crisis)**|C, CD|VT|
+|**Korea KDIC (Asian**<br>**Financial Crisis)**|C, P, SD|DK|**Nigeria AMCON (2010)**|C, P|DK|
+|**Mexico PROCAPTE 1995**<br>**(Peso Crisis)**|CD|DK|**Norway (Nordic Crisis, 1991)**|C, P, CD, O (primary capital<br>certificate)|VT, NVT|
+|**Poland 1925 FPIK**<br>**capitalization (1925)**|DK|DK|**Norway State Finance Fund**<br>**(GFC)**|P, O (fund bonds)|NVT|
+|**Russia Bank Capital**<br>**Support Program (2014)**|P, SD|NVT|**Spain FROB (GFC)**|CP, C (later added), CD (later<br>added)|VT|
+|**Thailand CSF 1998 (Asian**<br>**Financial Crisis)**|P, SD|VT (just for P)|**Sweden Bank Support Authority**<br>**(1993)**|C, CP (authority had the right to<br>convert)|V, NVT|
+|**UK Bank Recapitalisation**<br>**Scheme (GFC)**|C, P|VT (C), NVT (P)|**Turkey Saving Deposit**<br>**Insurance Fund (2000)**|O (already SDIF-controlled banks)|DK|
+|**US RFC (1933)**|P, SD|VT|**US SCAP and CAP (GFC)**|MCP|NVT|
+|**US CPP (GFC)**|P, SD|NVT|**US CDCI (GFC)**|P, SD|NVT (unless excessive non-<br>repayment)|
+|*C=common, MCP= mandatorily convertible preferred, CP=convertible preferred, P=preferred, CD=convertible debt, SD=subordinated debt, O=other (specify)<br>**VT=voting,NVT=nonvoting,DK=donotknow||||||
+
+
+
+_Source: Authors’ analysis._ 
+
+
+The wide variety of structures is driven by the variety of goals. Designers use security choice and shareholder rights to incentivize participation by the “right” institutions, to reduce moral hazard in participating institutions, to facilitate the eventual exit of government investment, and sometimes just to get around legal restrictions for existing share classes. There is no one-size-fits-all path to achieving these goals. Nevertheless, a few patterns emerge and allow for some general guidance. We discuss some of this guidance below, and then again in the conclusion section of this paper. 
+
+- (a) Bearing losses and voting rights can be separated. The label on the security (common, preferred, debt) does not necessarily imply specific control rights. 
+
+Governments of capitalist economies are naturally reluctant to take voting rights in banks. This reluctance spills over to an avoidance of common share, since common shareholders typically have voting rights but are last in the cash flow waterfall after debtholders and preferred shareholders. But while this pairing of voting rights with the willingness to bear losses is standard, it is absolutely not required. Conversely, preferred share, subordinated debt, and any other cash flow claim can also be structured to include voting rights. Overall, there is no reason to let concerns about voting or control have any influence over the cash flow claims and capital priority embedded in the security choice. 
+
+In the US CPP, the authorities pledged not to use the voting power given to them by the common equity obtained through conversion. In contrast, in the US RFC during the Great Depression, although assistance was through preferred shares, the authorities required substantial voting rights. Thailand’s BBCI program also subscribed to preferred shares with voting rights. Ireland’s BBCI program during the Global Financial Crisis used preferred shares with 25% of the banks’ voting rights on issues of change of control and board appointments. In Hungary, the assistance was through nonvoting preferred shares, but the government received a special veto right as a safeguard. 
+
+- (b) In an acute phase, simpler is better. 
+
+Mariathasan and Merrouche (2012) find that, after analyzing data from public interventions in 2008–09, common shares, not preferred shares, corresponded to increased bank lending and larger regulatory capital buffers. 
+
+Denmark’s BBCI program during the GFC started with perpetual subordinated debt, but the authorities later added a convertibility option for participating banks. This was to enhance the loss-bearing quality of the capital that participating banks issued under the program. Investors and rating agencies did not consider the initially issued subordinated debt to be sufficiently loss-bearing, a critical feature for inclusion as core Tier 1 capital. 
+
+Indonesia’s BBCI program, which was in an acute phase, favored common shares over preferred shares and eventually subscribed only to common shares. During the GFC, Germany and Spain’s BBCI programs exclusively used subordinated debt and preferred shares, respectively, but when these injections were proven to be insufficient, the authorities extended the programs to include common shares. 
+
+
+The Italian government in its BBCI program during the Global Financial Crisis acquired special bonds known as “Tremonti bonds” from banks. The Tremonti bonds were designed to qualify as core Tier 1 capital. Interest was noncumulative and only paid if there were distributable earnings, provided the total capital ratio was at least 8%. They had the same degree of subordination and same ability to absorb losses as a common share in case of insolvency or when losses reduced the capital ratio below 8%. A representative from the Bank of Italy, however, in discussing the features of Tremonti bonds, agreed that, in principle, instruments with standard, noncomplex features would be preferable for capital injections, as they would allow for greater comparability, pricing, and clearer loss-absorption mechanisms. 
+
+These examples all point toward using simple structures in the acute phase. In many countries, the simplest option would be common shares. But it is also possible that preferred shares could be considered simple enough to execute in the acute phase, especially if banks already have outstanding preferred shares that they issued in normal times. In the post-GFC regulatory environment, many countries have adopted preferred shares as part of their capital buffers. It also may be simpler to issue preferred stock if negotiations with existing common shareholders about pricing would complicate the issuance of common shares. 
+
+- (c) In a chronic phase, creative security design can alleviate incentive problems. Convertible preferred shares warrants with time-varying strike prices and other features should all be considered but must be tailored to the specific goals of the program. 
+
+As Quintyn and Hoelscher (2003) and Philippon and Schnabl (2013) recommend, other features attached to the basic forms of capital can enhance the quality of capital. For example, subordinated debt or preferred shares may not provide a strong enough capital support for a faltering bank; adding convertibility or warrants can lower the probability of default. Moreover, the capital base would become even stronger if the exercise of conversion is mandatory and automatic rather than at the discretion of the holder or the issuer (Landier and Ueda 2009). 
+
+In the Denmark BBCI program, the authorities added a conversion option to the subordinated debt in the hope of ensuring that participating banks could maximize the use of capital injections for external-rating purposes while minimizing changes to the authorized original plan (European Commission 2009a). The conversion option was available for five years after issuance. By converting, banks could avoid step-up provisions related to interest rates and reimbursement prices. This gave banks an incentive to convert their debt into ordinary shares to avoid higher payments (European Commission 2009a). The conversion price included a 5% discount to the average share price derived over three working days from the conversion date, limiting the ability of issuers to use the conversion option to entirely avoid the step-up clauses. For the conversion option, banks had to pay an additional annual fee of 20 basis points (bps) to 60 bps, as per European Central Bank recommendations, to align it with the range of remuneration set up for ordinary shares. The EC verified appropriate fee levels of convertible hybrid capital on a case-by-case basis. The EC considered these conditions appropriate to safeguard the use of the capital injections 
+
+
+scheme and to avoid undue distortions of competition, as required by the State Aid policy (European Commission 2009a). 
+
+Convertibility can also be used to direct banks’ behavior. The Irish BBCI incorporated a conversion exercisable by the government if the participating banks missed dividend payments. Finland’s 1992 BBCI took the form of noncumulative convertible preferred shares. The government had the right to convert them to common shares if interest remained unpaid for three consecutive years or if a bank’s solvency ratio fell below the legal minimum. The government viewed the three-year target as “enough time for the banks to put their houses in order” (Kuusterä and Tarkka 2011, 671–74). However, as none of the shares were converted and the interest rate was set only slightly above the market rate, some argue that this form of capital support represented a subsidy for the existing shareholders (Moe, Solheim, and Vale 2004). 
+
+There were four interventions with warrants attached in our survey. Warrants gave authorities the right to purchase shares in the future at a set price, and thus had the political appeal in allowing the taxpayers to share the potential upside of recipient institutions (Calomiris and Khan 2015) **.** Philippon and Schnabl (2013) claim preferred shares with standard warrants outperform common shares in eliminating free-riding and opportunistic participation. They find that preferred shares with standard warrants minimize ex-post private information rents to banks and minimize ex-ante moral hazard conditional on any given likelihood of government intervention. However, in an acute phase of a financial crisis, using warrants for this purpose may not be the most efficient choice for stabilizing the financial system quickly. The US CPP and CAP had 10-year warrants, which were immediately exercisable, attached to the preferred shares. This allowed the government to purchase common shares of publicly traded banks equal to a certain percentage of preferred shares issued on the day of the initial investment. 
+
+In Ireland, the preferred shares came with warrants giving the government the right to purchase 25% of the common shares of each bank after five years. The strike prices for these warrants were in each bank’s case less than 1 euro. A bank could reduce the government’s rights under the warrant to as low as 15% of the common shares if the bank redeemed the preferred shares up to EUR1.5 billion by the end of 2009. This tranche of warrants that the banks could eliminate had a materially lower strike price than the rest of the warrants, aiming to encourage banks to expediently replace government capital with new private capital (European Commission 2009d, 7; European Commission 2009e, 7). The government could not vote more than half of the votes associated with any shares it received through exercise of the warrant, but if these shares were transferred to a nongovernment third party, full voting privileges became reinstated (Department of Finance 2009). US CPP had a similar voting restriction on common shares acquired by the exercise of warrants. 
+
+Some cases used forms of capital that diverge further from these standard forms. In Austria, the form of capital issued under the BBCI program was participation capital, largely shaped by banks. This was introduced in Austria 30 years before the crisis and does not grant the government any position or membership rights under stock corporation law, giving the government no direct influence over the beneficiary institution. According to Kalss (2010), 
+
+
+the preference for participation capital stemmed from the banks’ influence on the writing of the Financial Market Stability Act, which the recapitalization relied upon, and their input during individual negotiations for institutional recapitalization. 
+
+- (d) Be careful about corporate charters and existing shareholder/creditor rights. 
+
+For issuance of new shares and the conversion to and exercise of warrants for common shares to operate smoothly and timely, authorities need to ensure certain requirements are met for banks to have enough available authorized shares. In Indonesia, the authorities faced delays due to its capital regulation, requiring a preemptive rights issue for new issuance of shares to protect existing shareholders. Spain’s BBCI program during the Global Financial Crisis and beyond required participating banks to cancel preemptive subscription rights of existing shareholders. In the US CAP and CPP, the authorities recommended and incentivized the banks to go through the process of increasing the number of authorized shares earlier than later in preparation for a smooth convertibility when the warrants were exercised. 
+
+In the US CAP, to incentivize banks to solve shareholder rights issues in a timely fashion, the strike price on the warrants was reduced by 15% every six months if banks did _not_ obtain preemptive shareholder consent to increase the number of authorized shares. 
+
+## **11. Interest Rates and Dividends (Pricing): Should they be uniform or risk adjusted? Generous or punitive?** 
+
+Authorities have two main decisions to make in pricing BBCI programs. First, will the rates be uniform for all participants or calibrated to the riskiness or size of each bank? Second, will the rates be relatively generous to incentivize participation or relatively high to encourage banks to find funding elsewhere? The goal of a BBCI program will largely shape the decisions. For example, if the crisis is in an acute phase and the goal is to intervene fast to stem panic, the pricing structure may be uniform and more generous. On the other hand, if the crisis has calmed and entered a chronic phase, in which the main goal is to stimulate bank lending, then the pricing structure may be more tailored and less generous. 
+
+## _**Uniform or Risk Adjusted?**_ 
+
+Greece, Germany, Ireland, Italy, the UK, and the US imposed a flat, uniform rate for all participating financial institutions. 
+
+In other cases, dividend and interest rates varied depending on the riskiness of the investment. For example, in France, the interest rate for subordinated debt was cheaper than for preferred shares, reflecting a greater degree of subordination and risk for the authorities. In Japan (1998), Austria (GFC), and Denmark (GFC), interest rates and dividends varied depending on the health of the bank. In South Korea’s 2008 BBCI program, national banks had lower interest rates than regional banks. 
+
+
+## _**Generous or Punitive?**_ 
+
+Interest rates and dividend rates were often set above market rates. Finland had a variable interest rate set slightly above market rate. 
+
+Denmark, France, Italy, Japan, the UK, and the US adopted step-up clauses after a set number of years had passed from issuance to incentivize banks to repay and exit the program as soon as market conditions improved. In the Japanese program during the GFC, the interest rate was determined through auction. Under the Provision of Subordinated Loans for Major Japanese Banks in the global financial crisis, BOJ allowed for the amount of each loan and interest rates for the first five years on the 10-year and perpetual loans to be determined at auctions using a premium over the six-month yen LIBOR. The interest rate rose by 1.5% after five years to penalize banks that did not exit. The US CPP required preferred shares to pay a 5% annual dividend for the first five years—as an incentive to participate in the voluntary program—and a flat 9% after, as an incentive to exit. 
+
+A country may attract some criticism if it sets a more punitive dividend rate compared to BBCI programs that other countries establish at the same time, especially if both jurisdictions share the same financial institutions and similar financial markets. In the UK Bank Recapitalisation Scheme, ordinary shares were issued at a discount to the reference market price, while preferred shares paid a 12% annual dividend for the first five years and three-month Libor plus 700 bps thereafter. The high cost to banks in a program that was entirely voluntary ensured that the UK program carried a stigma (Culpepper and Reinke 2014). Culpepper and Reinke (2014) argue that the high costs attached to recapitalization were more of a drawback to participation, rather than beneficial to taxpayers. 
+
+Going into the Global Financial Crisis, the European Commission’s State Aid rules followed the principle that recapitalizations should minimize the amount of State Aid. Such a principle would suggest charging relatively high interest and dividend payments in BBCI programs. Nonetheless, the EC recognized that high rates would discourage banks from participating in recapitalizations. The EC intended to adjust to long-term market conditions and not to impose unfavorable conditions at the time of the crisis. For these reasons, the EC approved dividend rates reflecting market-based remuneration between 6% and 9.3%, according to the degree of subordination. Individual member states had room to adjust the EC guideline for two reasons: (1) to incentivize early repayment, so as to reduce taxpayers’ exposure; and (2) to avoid excessive recourse to the program, without being excessively penalizing (Panetta et al. 2009). 
+
+In Italy, authorities revised the interest rate and the redemption price to encourage participation by sound banks. The initial option consisted of lower coupon payments and higher redemption prices for five years; later, the authorities added the option of a higher initial coupon and lower redemption price. EC Competition Commissioner Neelie Kroes said that “[t]he Italian authorities have asked permission to modify the design of their scheme to make it more attractive to sound banks that are willing to use the state capital only for a very short period of time” (European Commission 2009c). However, this feature—emphasizing 
+
+
+the usage for only a short period of time—may no longer allow this form of capital to qualify as Tier 1 under the new regulatory framework applied to all EU member countries in 2014. 
+
+## **12. Allocation of losses for existing stakeholders: Were there any write-downs of the value for existing equity?** 
+
+Several BBCI programs require banks to write down the value of nonperforming or depreciated assets before the government will buy shares, forcing existing shareholders to bear losses first. This is typically a feature of a capital injection that is mandatory, rather than voluntary. 
+
+South Korea’s 1997 BBCI program—which was mandatory, and during the acute phase of a crisis—enabled the authorities to order capital write-downs for existing shareholders. Colombia’s BBCI program required participating banks to write off their nonperforming loans in such a way that it reasonably reflected their true economic value. If after the writeoffs, the bank’s equity was negative, its shareholders had to capitalize the institution with their own resources to bring equity to at least zero. 
+
+Similarly, in Malaysia—which was mandatory for banks that were unable to raise funds from private investors—existing shareholders bore all losses prior to recapitalization under the “first-loss” principle. In practice, the application of this principle required banks to mark down the value of investments and sell their NPLs to the asset management authorities. This resulted in “equitable burden sharing” for existing shareholders and reduced the use of public funds (Bank Negara Malaysia 1999, 20). The central bank argued that strict observance to the “first-loss” principle successfully minimized the total cost of recapitalization (Bank Negara Malaysia 2004, 108). 
+
+Norway’s BBCI program in 1991 required banks to write down the equity value, forcing existing shareholders to absorb losses before the government made direct capital investments in the banks. If a bank refused to do so, the government was entitled to write down its share capital. There is some disagreement as to whether this strategy was helpful, with Bergo (2003) highlighting the valuable political benefits of imposing losses on current shareholders, and Moe, Solheim, and Vale (2004) claiming that the specific write-down decisions seemed arbitrary for some banks and thus reduced confidence in the program. 
+
+In Thailand’s 1998 program, banks receiving Tier 1 capital were required to write down the equity value, forcing losses on existing shareholders, and to allow the government to change management and boards of directors. These relatively punitive terms have split opinion in the typical fashion. Some commentators argue that such punitive terms in a voluntary program reduced participation and delayed the recapitalization of the sector (World Bank 2000). Others applaud the incentives created to raise capital privately so as to avoid the punitive terms (Scott 2002). This trade-off will always exist, and future designers should not expect that they will get only one side of it. 
+
+
+## **13. Business Restructuring Plan: Were there any requirements on restructuring business for the participating institutions?** 
+
+Many BBCI programs require participating institutions to submit business restructuring plans with the authorities. Used as a condition of any capital injection, the requirement of such plans can ease the path toward long-term viability and carries the political benefit of putting conditions on the recipients of support. The potential downside is that governments generally do not have the expertise to properly vet these plans, and they run the risk of making things worse. As usual, the details vary, and designers should at least know the menu of options. 
+
+For example, EC’s guidance on recapitalizing banks during the Global Financial Crisis required member states to submit business-restructuring plans for financial institutions unable to exit the BBCI program after six months. The deadline could be extended in sixmonth increments if the crisis were to continue (European Commission 2008a). The restructuring plan included disclosure of impaired assets, structural changes, and burdensharing with the government (European Commission 2009f). On the other hand, US BBCI programs during the Global Financial Crisis did not require such agreements with participating financial institutions. 
+
+Most BBCI programs in Asian countries responding to the financial crisis in 1997–99 also required banks to submit and implement plans. For example, Indonesian banks seeking recapitalization submitted three-year business plans addressing items including: (1) the current condition of the bank and weaknesses needing attention; (2) steps and schedule for resolution of problem loans and nonperforming property loans; (3) the bank’s strategy to improve performance and health, both short and long term; and (4) plans to repay the capital. In South Korea, the plans included details on a financial institution’s target capital adequacy ratio, profit-to-assets ratio, bad-loan ratio, and the written consent of the in-house labor union to restructuring. Often, these plans also included a consideration for merger, as seen in Indonesia and Malaysia. 
+
+An exception was Japan’s BBCI under the FFSA in 1998. The FFSA did not mandate any examination or cleanup of bank balance sheets. Banks were, therefore, able to receive capital from the government without writing off any of their bad debts. Banks continued to improperly value their NPLs. This contributed to further undercapitalization and made it difficult for the government to accurately estimate how much capital was needed to properly recapitalize the banks (Fukao 2000). Thus, the following BBCI program seeking to improve upon the FFSA BBCI encouraged restructuring, corporate reorganization, and cost reduction by the participating banks. 
+
+In Hungary, as a precondition to its 1993–94 recapitalization, banks submitted “consolidation plans,” which were medium-term restructuring plans. The consolidation plan involved management strategies for their reorganization and to participate actively in enterprise debt resolution programs. This agreement also prescribed certain restructuring procedures on an individual basis. 
+
+
+## **14. Fate of Existing Board and Management: Did the authorities have the right to replace any board members or management of participating institutions?** 
+
+Replacing existing boards and management has similar benefits and costs as requirements of business restructuring discussed in the previous section. In a few cases, especially during the Nordic Crisis and the Asian Financial Crisis, voluntary recapitalization programs gave the authorities power to replace bank management. In other BBCI programs, the authorities could replace bank management if banks failed to achieve certain performance targets. 
+
+In Norway’s 1991 BBCI, authorities could replace bank management (Moe, Solheim, and Vale 2004). Although the members of the banks' governing bodies were replaced, the governance structure of the banks was maintained. This prevented the recapitalization authority from interfering with the banks’ day-to-day business operations (Bergo 2003). Sweden’s 1993 BBCI and Nigeria’s AMCON also actively replaced management of troubled banks. 
+
+In Malaysia, the authorities appointed a minimum of two nominees to serve as executive director and either chairman or deputy chairman on the board of directors of beneficiary institutions. The amount of Tier 1 capital injected dictated additional board representation beyond the minimum two appointees. Reviewing the Malaysian program, the International Monetary Fund (IMF) cautioned that replacing a couple of directors and chief executives may not be sufficient; ineffective management teams may remain, with the potential for similar problems arising in the future (International Monetary Fund 1999). 
+
+In Thailand, on the other hand, the government’s right to appoint board members if banks issued Tier 1 capital under the BBCI, in combination with write-down requirements for existing shareholders, made banks wary of the Tier 1 capital injection program (World Bank 2000, 33). Eventually, only banks already with large government holdings requested and received Tier 1 capital (Warr 2004, 74). 
+
+Some authorities chose not to or neglected to exercise the right to replace existing boards and management. Germany’s SoFFin, during the Global Financial Crisis, had the right to replace three board seats in a bank but did not exercise that right, since it did not intend to influence the bank’s decision-making or interfere with the ownership control of existing private shareholders. 
+
+All three US BBCI programs in the GFC allowed the government to appoint two directors if a bank missed too many interest or dividend payments. In the case of the CDCI, the inspector general criticized the government for failing to act consistently on its own right to attend board meetings and appoint directors in the event of consecutive missed interest or dividend payments (Office of the Special Inspector General for the Troubled Asset Relief Program 2014, 13). For example, a CDCI recipient had missed 12 dividend payments, yet the government failed to place any representatives on the company’s board (Office of the Special Inspector General for the Troubled Asset Relief Program 2014, 14). On the other hand, when another recipient missed enough payments to warrant a government observer at its board meetings, the recipient rejected the observer but subsequently paid the back dividends. This suggested that enforcing management rights may lead to better compliance and less cost for 
+
+
+the government (Office of the Special Inspector General for the Troubled Asset Relief Program 2017, 57–58). 
+
+## **15. Other Conditions: Should recapitalization come with nonprice conditions to incentivize banks to exit government support quickly?** 
+
+On balance, the picture is murky for an acute phase. But once a crisis has reached a chronic phase, the balance would appear to favor conditions. 
+
+Authorities have used several other nonprice conditions to incentivize banks to exit from the government support as soon as market conditions recovered. These conditions can also help build political support for recapitalization programs. Restrictions on executive compensation and dividend payments were the most widely adopted in our survey. Requirements to maintain adequate lending to businesses and households were also widespread (Panetta et al. 2009). Other examples include limiting or prohibiting share buybacks and subordinating existing shareholders to shares issued under BBCI programs. Sweden’s Bank Support Authority imposed profit-sharing arrangements so that taxpayers could take advantage of the upside of the BBCI program. 
+
+These conditions, however, can come with some downsides. For US CPP, Calomiris and Khan (2015) point out that executive compensation restrictions were associated with less willingness on the part of banks to participate in the program. 
+
+Conditions requiring participating banks to increase or maintain lending to individuals and small businesses or certain core industry sectors are politically tempting but carry risks. A relatively benign implementation requires only a plan and some reporting. For example, the US CAP (GFC) required participating banks to submit a plan for how they intended to use the capital to increase lending activities above levels that would have been possible without government support. It also required banks to submit regular reports on their lending by category and to compare that lending to estimates of what lending would have been without government support. 
+
+However, political pressure to leverage the state’s ownership in a bank to promote lending to a particular sector can interfere with a bank’s financial recovery and increase the odds the bank will require further support in the future. For example, an IMF report cautioned in the case of Malaysia that too much emphasis on loan growth by the central bank and the interventions aimed at sparking growth had the potential to generate poor quality loans (International Monetary Fund 1999, 72). Similarly, in a more recent Russian BBCI program, the IMF urged the authorities to eliminate the monthly 1% credit-growth targets to selected sectors since forced lending could increase credit risks for banks and result in potential inefficient credit allocation. The IMF recommends that lending targets should instead be based on banks’ commercial assessment of risk and remuneration. 
+
+Many BBCI programs subordinated payments to and imposed dividend restrictions on existing shareholders to further protect the government investment. For example, Denmark, Finland, Greece, Ireland, Japan (in the GFC), Mexico, Spain, Sweden, Thailand, Turkey, the UK, and the US included dividend restrictions. At some level, such a restriction seems self- 
+
+
+evident: if the government is injecting capital, then it would work directly against their goals for that capital to be immediately paid out to shareholders. In addition to the direct reduction in capital, allowing dividend payments carries political risk. The main argument against such a restriction is that it could serve to stigmatize program recipients. 
+
+In the US CPP (GFC), when the government subscribed to preferred shares, recipient banks were required to be current on all dividends to the government before they could pay any dividends on common shares and other junior or equivalently ranked shares. Such subordination is typical for preferred shares. However, there were no other restrictions on paying dividends to common shareholders. The participating financial institutions could even increase the amount of common share dividends with government approval. After the third anniversary of the capital injection, publicly traded participating financial institutions could raise common share dividends by any amount without government approval. After 10 years, all participating institutions could raise common share dividends by any amount without approval. A subsequent study by Calomiris and Khan (2015) argues that common share dividends should have been completely restricted despite the government’s assertions that, had they done so, the largest banks, such as JPMorgan Chase and Citigroup, might not have participated in the program. Given the acute phase of the crisis when the policy was announced, we reserve judgement on this debate. 
+
+## **16. Exit Strategy: Did the authorities have a plan to unload its investments once conditions normalized? Was the plan in place at the time of capital injection?** 
+
+Most governments do not want to be long-term investors in their banks. But exiting from crisis era investments can be difficult, especially when the banks are not publicly traded, or if the government’s holdings are not in common equity. Since exit can be difficult, it is helpful to have a plan already in place at the start. Just having a sunset date for investments is not sufficient—it is still necessary to sell or otherwise liquidate all of the earlier investments. 
+
+The most common exit is a redemption arrangement, in which the bank agrees to buy back shares or pay back loans. These arrangements often include a premium, if the capital outstanding is not bought back by the participating bank within a certain period. Conversely, redemptions before a certain period can also have some restrictions. For example, the US CPP allowed redemption after three years, and early redemption was allowed only with the proceeds from the new issuance of Tier 1 qualifying perpetual preferred shares or common shares. Other strategies include the government selling its shares in participating banks to a private investor, sometimes holding an auction. 
+
+Other price-related conditions discussed above on convertibility, warrants, and step-up clauses for interest or dividend rates also incentivize the exit of the participating banks as soon as viable. Concurrent policy interventions such as restructuring, resolution, and asset purchases also assist in the government exiting from BBCI programs. 
+
+The IMF tends to criticize governments that lacked exit strategies. An IMF note on Germany’s SoFFin emphasized that, to return to a functioning financial sector, concrete exit strategies for banks remaining in the capital injection program were essential, including ways to wind 
+
+
+up institutions. It recommended conversion of government capital into common shares, with a view to selling these shares to the private sector when market circumstances permitted. Furthermore, it recommended that these strategic plans should aim at reducing the possible future need for such assistance, in part by raising private capital or by adjusting banks’ balance sheets (International Monetary Fund 2011). 
+
+Similarly, the IMF criticized Nigeria’s AMCON for lack of explicit exit strategy. Again, it voiced concerns regarding the absence of a sunset provision for AMCON’s activities. In a 2012 report, the IMF recommended that a “credible exit strategy [should be] devised to ensure a smooth winding up of its operations by end-2017” (International Monetary Fund 2013, 12). The IMF emphasized that an explicit sunset date is “important to minimize fiscal risks and avoid potential moral hazard behavior by the banks” (International Monetary Fund 2013, 12). However, AMCON failed to implement an exit strategy, and the IMF reiterated its criticism in a 2019 report (International Monetary Fund 2019). 
+
+**17. Amendments to Relevant Regulations: Did the authorities amend any existing regulations that acted as a hurdle to participation in the capital injection? Were there any amendments to regulation allowing easier access to foreign capital? Was there tightening of capital requirements? Did the authorities introduce a new resolution framework?** 
+
+In some cases, existing regulations must be amended to allow eligible institutions to participate in BBCI programs or to help the programs run smoothly. During the Nordic Crisis, both Norway and Sweden had to amend laws to allow the government to write down the value of existing bank shares without shareholder approval. For example, in Norway, when the government first attempted to recapitalize a bank by writing down its share value to zero, it faced legal objections from shareholders. The case was brought to court; the court agreed with the government’s view that the bank was insolvent, but to avoid similar occurrences in future recapitalizations, the legislature passed a new law allowing the government's discretion in writing down share value of the participating banks. 
+
+The US RFC could initially subscribe to cumulative nonassessable preferred stock. But the laws in most states prevented state-chartered banks and trust companies from issuing preferred stock. Congress amended the law to clarify that, in those states, the RFC was authorized to purchase capital notes or debentures of state banks or trust companies in place of preferred shares. 
+
+In France, the central bank increased the ceiling of non-core Tier 1 capital to 35% after some banks already reached the previous limit of 25% through participation in the BBCI program. This allowed banks to take full advantage of the capital injections provided by the program (Conac 2010). 
+
+Some governments have changed the rules to broaden the pool of private capital available for banks. The Mexican Congress modified bank ownership laws to permit foreign financial institutions to take control of troubled domestic banks. This quickly opened Mexico’s banking system to foreign participation (Lubrano 1998, 11). With the PROCAPTE 
+
+
+recapitalization, foreigners invested a significant amount of capital in Mexican banks. Foreign-controlled banks came to account for 20% of the entire Mexican banking system’s assets; adding in the noncontrolling shares, that stake reached 30%. Foreign banks obtaining controlling and noncontrolling shares included Spanish, Canadian, US, and Hong Kong banks (Lubrano 1998). Similarly, in Thailand, to incentivize the entry of foreign capital, the government loosened restrictions on foreign ownership of Thai financial institutions in 1997 (Santiprabhob 2003, 26–28). The Emergency Decree Amending the Commercial Banking Act lifted the 25% ceiling on foreign ownership on a case-by-case basis and allowed 100% foreign ownership by foreign investors that aimed to resolve or rehabilitate distressed financial institutions (Bank of Thailand 2000, 12). 
+
+Some governments did not amend regulations, hindering their BBCI programs. As discussed above, in obtaining shareholder approval for issuance of new shares, the Indonesian capital markets regulation required banks to offer shareholders preemptive rights issues before they could issue new shares. The process for rights issues was lengthy, causing delays in recapitalization. While the Financial Services Authority (FSA) attempted to resolve this problem by allowing direct public offerings, it was faced with protests because the offerings did not protect minority shareholders. The delay persisted (Enoch, Garcia, and Sundararajan 2001, 55). 
+
+Other governments tightened regulatory requirements to meet international standards before banks were able to secure sufficient capital. This made it difficult for banks to recover. To prevent banks from having future problems, the Thai government raised supervisory standards, and new regulatory standards required banks and nonbank financial institutions to significantly increase their capital (Vichyanond 2004, 217). The Bank of Thailand also raised loan classification, provisioning, and reporting standards to bring Thai financial institutions in line with international standards by end-2000 (Vichyanond 2004, 217). By the time that the BBCI program opened in late 1998, these regulatory changes were already in place. Although the Thai government allowed a transitional period phasing in the changed standards, to receive Tier 1 capital injections, institutions were required to make full end2000 provisions immediately and to forgo the transitional period (Bank for International Settlements 1999, 43; Nimmanahaeminda and Sonakul 1998). These financial institutions, however, were already struggling because the new regulatory standards forced substantial write-downs on their capital, thus making it even harder for these institutions to become eligible for a capital injection (MacDonald 1998, 3–4; World Bank 2000, 33). 
+
+In some countries, the government seizes the opportunity to establish a permanent legal framework for restructuring banks based on the experience with recapitalization in a crisis. In implementing policy interventions during financial crises, it is recommended to use the crisis as an opportunity to implement medium-term structural reforms, including improving the general quality of institutions, combating corruption, and building a more efficient judicial system. 
+
+These reforms are positively associated with faster recovery. These measures of institutional development are also important determinants of the fiscal outlays (Klingebiel, Claessens, and Laeven 2004). Germany passed an act allowing authorities to forcibly assume control of 
+
+
+or nationalize ailing financial institutions in early 2009, quickly enabling the authorities to overcome resistance from existing shareholders and ease the process of intervening in troubled institutions whose failure may trigger a systemic crisis. France, on the other hand, did not; some criticize the authorities for failing to leverage the opportunity to pass a similar law (Conac 2010). Other nations, such as Colombia and Hungary, introduced prudential regulation of banks for the first time. 
+
+## **Conclusion** 
+
+This paper surveys 17 Key Design Decisions for 36 cases of BBCI programs. These examples do not allow traditional empirical analysis. Nevertheless, we believe that several themes emerge from a close study of these cases. Below, we list and discuss seven of those themes. 
+
+**The most common mistake is for programs to be too small.** We see this pattern in the case studies, and it is reinforced by the empirical literature (Brei, Gambacorta, and von Peter (2013); Giannetti and Simonov (2013); Poczter (2016)). And the discussion of Key Design Decision No. 5, Size, lists several examples where programs were too small, delaying or preventing any positive effects. 
+
+**Combining BBCIs with other interventions is good practice.** BBCIs are politically challenging to do, and it is critical for the program to be of sufficient size. As such, political constraints may prevent a program from being large enough at the beginning, and from getting an opportunity to adjust upward later. Combining other programs with BBCI can be a useful force multiplier. As discussed above in Key Design Decision No. 1, Part of a Package, debt and/or account guarantee programs have been a popular combination with BBCIs, appearing in 22 out of the 36 cases studied. Regarding the most well-studied example—the US CPP—several experts believe the combination with a debt guarantee program was pivotal to the success of the BBCI. 
+
+**Beware of legal/regulatory constraints on program implementation.** BBCI programs frequently require participating banks to increase their authorized shares, eliminate an existing form of shareholder or debtor rights, or get an exemption from some other regulatory rule. These constraints are often far from the top of policymakers’ concerns but ignoring them can lead an otherwise well-designed program into unnecessary delays. Key Design Decisions No. 6, Timing, and No. 17, Amendments to Relevant Regulations, discuss some examples. In an ideal world, policymakers would address as many of these problems as possible through legislation passed in quiet times, allowing for emergency authority to be utilized efficiently. 
+
+Triage of banks, through stress tests or other means, is good practice in a chronic phase but may not be desirable (or even feasible) in an acute phase. Designers want to get the right amount of capital into each bank and are understandably wary about sending any capital to unviable enterprises. During a chronic phase of a crisis, when run risk is low, a well-designed triage system can greatly mitigate these concerns. The case studies include several examples of such triage that have received positive postmortem reviews. But the case studies also 
+
+
+show examples of well-intentioned triage that came too early in a crisis, slowing down the intervention and failing to provide any clarity for bank counterparties. Key Design Decision No. 8, Eligible Institutions, gives some examples. As noted, better data and frequent stresstesting since the GFC make it possible that some countries could now conduct a credible triage even in the acute phase of a crisis. 
+
+**Make sure that the exit plan fits the investment type.** It is all well and good to get the capital into the banks, but how will you get it out? As discussed in Key Design Decision No. 10, Capital Characteristics, some BBCIs use security-design features to accomplish this goal, with time-varying incentives for banks to replace the injections with private capital. The ability to employ such clever design will vary by jurisdiction and by institutional form. A good designer will be aware of the options. Several others are discussed in Key Design Decision No. 16, Exit Strategy. 
+
+**Security design can separate voting rights from the willingness to bear losses.** There are many cases where designers avoid common share investments because of a desire to avoid government “control” over banks. But there is no reason to constrain security choice for this reason. It is possible to have the loss absorption of common shares without any voting control at all. Conversely, if designers want to be higher in the capital structure but also desire some control, that can be accomplished through contractual terms unattached to the typical voting rights of the security. The typical linkage of voting rights and lossabsorption is frequently cited as a constraint, but it should not be. Key Design Decisions No. 10, Capital Characteristics, gives several examples where these concepts were successfully separated. 
+
+**In the acute phase, simpler is better.** This theme applies across many design features: in the acute phase, designers are trying to communicate with bank counterparties. For many of these counterparties, the rational response to complexity is to “run.” Complex program design is often motivated by a natural desire to minimize moral hazard and protect taxpayers. In a chronic phase, those laudable goals can come to the forefront. But in an acute phase, simple capital structures and nonpunitive conditions have the best chance of attracting participation and preventing runs. 
+
+
+## **Glossary** 
+
+AMCON: Asset Management Corporation of Nigeria (Nigeria) 
+
+BBCI: Broad-based capital injection 
+
+BRSA: Banking Regulation and Supervision Authority (Turkey) BSA: Bank Support Authority (Sweden) 
+
+CAP: Capital Assistance Program (US) CAR: Capital adequacy ratio 
+
+CDCI: Community Development Capital Initiative (US) CDFI: Community Development Financial Institution (US) CDS: Credit default swap CoE: Certificate of Entitlement (Indonesia and others) 
+
+COP: Congressional Oversight Panel (US) 
+
+CPP: Capital Purchase Program (US) CSF: Capital Support Facilities (Thailand) DIA: Deposit Insurance Agency (Russia) EBA: European Banking Authority (EBA) EC: European Commission (Europe) EESA: European Economic Stabilization Act (Europe) EU: European Union (Europe) 
+
+FDIC: Federal Deposit Insurance Corporation (US) FFSA: Financial Functions Stabilization Act (Japan) 
+
+FIMBAG: Finanzmarktbeteiligung Aktiengesellschaft des Bundes (Austria) FinStaG: Financial Market Stability Act (Finanzmarktstabilitätsgesetz) (Austria) FOBAPROA: Fondo Bancario de Protección al Ahorro (Mexico) FOGAFÍN: Financial Institutions Guarantee Fund (Colombia) 
+
+
+FPIK: Fundusz Pomocy Instytucjom Kredytowym (Poland) 
+
+FRC: Financial Reconstruction Commission (Japan) 
+
+FROB: Fondo de Reestructuración Ordenada Bancaria (Spain) FSA: Financial Services Authority (Indonesia) GAO: Government Accountability Office (US) 
+
+GBIF: Government Bank Insurance Fund (Norway) 
+
+GDP: Gross domestic product 
+
+IBRA: Indonesian Bank Restructuring Agency (Indonesia) 
+
+IMF: International Monetary Fund 
+
+KDIC: Korea Deposit Insurance Corporation (Korea) Libor: London Interbank Offered Rate 
+
+NPL: Nonperforming loans 
+
+OECD: Organisation for Economic Co-operation and Development 
+
+PROCAPTE: Programa de Capitalización Temporal (Mexico) 
+
+RCC: Resolution and Collection Corporation (Japan) 
+
+RFC: Reconstruction Finance Corporation (US) 
+
+RWA: Risk-weighted assets 
+
+SBIF: New and additional GBIF (Norway) 
+
+SCAP: Supervisory Capital Assessment Program (US) SDIF: Saving Deposit Insurance Fund (Turkey) 
+
+SFF: State Finance Fund (Norway) 
+
+SoFFin: Sonderfonds Finanzmarktstabilisierung (Germany) 
+
+SPPE: Société de prise de participation de l’État (France) TFEU: Treaty on the Functioning of the European Union (Europe) 
+
+UKFI: UK Financial Investments (UK) 
+
+
+## **References** 
+
+Allen, Linda, Suparna Chakraborty, and Wako Watanabe. 2009. “Regulatory Remedies for Banking Crises: Lessons from Japan.” _SSRN Electronic Journal_ , November. https://ypfs.som.yale.edu/library/regulatory-remedies-banking-crises-lessons-japan 
+
+Bank for International Settlements. 1999. _Bank Restructuring in Practice_ . BIS Policy Papers, No. 6. Basel, Switzerland: Bank for International Settlements. https://ypfs.som.yale.edu/library/bank-restructuring-practice 
+
+Bank Negara Malaysia. 1999. Annual Report 1998. March 1999. https://ypfs.som.yale.edu/library/bank-negara-malaysia-annual-report-1998 
+
+———. 2004. Annual Report 2003. March 2004. https://ypfs.som.yale.edu/library/bank-negara-malaysia-annual-report-2003 
+
+Bank of Thailand. 2001. Annual Economic Report 2000. https://ypfs.som.yale.edu/library/annual-economic-report-2000 
+
+Banking Act of 1933. June 16, 1933. _Banking Act of 1933_ . Public Law 73-66. United States Congress. 
+
+https://ypfs.som.yale.edu/library/banking-act-1933 
+
+Baudino, Patrizia, Diarmuid Murphy, and Jean-Philippe Svoronos. 2020. “The Banking Crisis in Ireland.” FSI Crisis Management Series. Bank for International Settlements. https://ypfs.som.yale.edu/library/banking-crisis-ireland 
+
+Bayoumi, Tamim. 2017. _Unfinished Business: The Unexplored Causes of the Financial Crisis and the Lessons Yet to Be Learned_ . New Haven: Yale University Press. 
+
+https://ypfs.som.yale.edu/library/document/unfinished-business-unexplored-causesfinancial-crisis-and-lessons-yet-be-learned 
+
+Bergo, Jarle. 2003. “Crisis Resolution and Financial Stability in Norway.” Speech by Mr. Jarle Bergo, Deputy Governor of Norges Bank, at the 50th Anniversary of Bank Indonesia, December 10, 2003. 
+
+https://ypfs.som.yale.edu/library/crisis-resolution-and-financial-stability-norway 
+
+Brei, Michael, Leonardo Gambacorta, Marcella Lucchetta, and Bruno Maria Parigi. 2020. “Bad Bank Resolutions and Bank Lending.” BIS Working Papers, No. 837, January. https://ypfs.som.yale.edu/library/bad-bank-resolutions-and-bank-lending 
+
+Brei, Michael, Leonardo Gambacorta, and Goetz von Peter. 2013. “Rescue Packages and Bank Lending.” _Journal of Banking & Finance_ 37, no. 2: 490–505. 
+
+https://ypfs.som.yale.edu/library/document/rescue-packages-and-bank-lending 
+
+
+Calomiris, Charles W., and Urooj Khan. 2015. “An Assessment of TARP Assistance to Financial Institutions.” _Journal of Economic Perspectives_ 29, no. 2: 53–80. https://ypfs.som.yale.edu/node/4420 
+
+Claessens, Stijn, Ayhan Kose, Luc Laeven, and Fabian Valencia, eds. 2014. _Financial Crises: Causes, Consequences, and Policy Responses._ Washington, DC: International Monetary Fund. https://ypfs.som.yale.edu/library/document/financial-crises-causes-consequences-andpolicy-responses 
+
+Clark, Tim, Matthew Kabaker, and Lee Sachs. 2020. “Chapter 10: Bank Capital: Reviving the System.” In _First Responders: Inside the U.S. Strategy for Fighting the 2007–2009 Global Financial Crisis_ , edited by Ben S. Bernanke, Timothy F. Geithner, and Henry M. Paulson, Jr., with J. Nellie Liang. 254-288. New Haven: Yale University Press. 
+
+https://ypfs.som.yale.edu/library/document/first-responders-inside-us-strategy-fighting2007-2009-global-financial-crisis 
+
+Conac, Pierre-Henri. 2010. “Mastering the Financial Crisis – The French Approach Discussion Report.” _European Company and Financial Law Review_ 7, no. 2: 297–339. https://ypfs.som.yale.edu/library/mastering-financial-crisis-french-approach-discussionreport 
+
+Culpepper, Pepper D., and Raphael Reinke. 2014. “Structural Power and Bank Bailouts in the United Kingdom and the United States.” _Politics & Society_ 42, no. 4: 427–54. https://ypfs.som.yale.edu/node/3997 
+
+Department of Finance. 2009. “Recapitalisation of Allied Irish Bank and Bank of Ireland.” Department of Finance. 
+
+https://ypfs.som.yale.edu/library/recapitalisation-allied-irish-bank-and-bank-ireland 
+
+Eichengreen, Barry. 2014. _Hall of Mirrors: The Great Depression, the Great Recession, and the Uses-and Misuses-of History_ . New York: Oxford University Press. 
+
+https://ypfs.som.yale.edu/library/document/hall-mirrors-great-depression-greatrecession-and-uses-and-misuses-history 
+
+Englund, Peter. 2015. “The Swedish 1990s Banking Crisis: A Revisit in the Light of Recent Experience.” Paper presented at the Riksbank Macroprudential Conference, Stockholm. June 23-24, 2015. https://ypfs.som.yale.edu/library/swedish-1990s-banking-crisis-revisit-light-recentexperience 
+
+Enoch, Charles, Barbara Baldwin, Olivier Frécaut, and Arto Kovanen. 2001. “Indonesia: Anatomy of a Banking Crisis Two Years of Living Dangerously, 1997-99.” International Monetary Fund Working Paper. WP 01/52. May 2001. https://ypfs.som.yale.edu/node/16293 
+
+
+Enoch, Charles, Gillian Garcia, and V. Sundararajan. 2001. “Recapitalizing Banks with Public Funds.” IMF Staff Papers 48, no. 1: 58–110. 
+
+https://ypfs.som.yale.edu/library/document/recapitalizing-banks-public-funds 
+
+European Commission. 2008a. “The Application of State Aid Rules to Measures Taken in Relation to Financial Institutions in the Context of the Current Global Financial Crisis.” Communication from the Commission. _Official Journal of the European Union_ , 2008/C 270/02, October 25, 2008. 
+
+https://ypfs.som.yale.edu/index.php/library/communication-commission-applicationstate-aid-rules-measures-taken-relation-financial 
+
+———. 2008b. “State Aid N 613/2008 – Republic of France Capital-Injection Scheme for Banks.” 
+
+https://ypfs.som.yale.edu/library/state-aid-n-6132008-republic-france-capital-injectionscheme-banks 
+
+———. 2009a. “State Aid N 31a/2009 - Denmark Recapitalisation of Credit Institutions and Amendments of the Guarantee Scheme.” 
+
+https://ypfs.som.yale.edu/library/subject-state-aid-scheme-n31a2009-denmarkrecapitalisation-credit-institutions-and 
+
+———. 2009b. “The Recapitalisation of Financial Institutions in the Current Financial Crisis: Limitation of Aid to the Minimum Necessary and Safeguards against Undue Distortions of Competition.” Communication from the Commission. _Official Journal of the European Union_ , 2009/C 10/03, January 15, 2009. 
+
+https://ypfs.som.yale.edu/library/document/communication-commissionrecapitalisation-financial-institutions-current-financial 
+
+———. 2009c. “State Aid N 97/2009 Italy. Amendment of Italian Bank Recapitalisation Scheme.” https://ypfs.som.yale.edu/node/17922 
+
+———. 2009d. “State Aid N 149/2009 – Recapitalisation of Bank of Ireland by the Irish State.” 
+
+https://ypfs.som.yale.edu/library/recapitalisation-bank-ireland-irish-state 
+
+———. 2009e. “State Aid N 241/2009 – Recapitalisation of Allied Irish Bank by the Irish State.” 
+
+https://ypfs.som.yale.edu/library/recapitalisation-allied-irish-bank-irish-state 
+
+———. 2009f. “Commission Communication on the Return to Viability and the Assessment of Restructuring Measures in the Financial Sector in the Current Crisis under the State Aid Rules.” Communication from the Commission. _Official Journal of the European Union_ , 2009/C 195/04, August 19, 2019. 
+
+https://ypfs.som.yale.edu/library/document/commission-communication-returnviability-and-assessment-restructuring-measures 
+
+
+Fukao, Mitsuhiro. 2000. “Recapitalizing Japan’s Banks: The Functions and Problems of Financial Revitalization Act and Bank Recapitalization Act.” _Keio Business Review_ 38, Oct. 2000: 1-16. 
+
+https://ypfs.som.yale.edu/library/recapitalizing-japans-banks-functions-and-problemsfinancial-revitalization-act-and-bank 
+
+Giannetti, Mariassunta, and Andrei Simonov. 2013. “On the Real Effects of Bank Bailouts: Micro Evidence from Japan.” _American Economic Journal: Macroeconomics_ 5, no. 1: 135–67. https://ypfs.som.yale.edu/library/real-effects-bank-bailouts-micro-evidence-japan 
+
+Homar, Timotej, and Sweder J.G. van Wijnbergen. 2017. “Bank Recapitalization and Economic Recovery after Financial Crises.” _Journal of Financial Intermediation_ 32 (October): 16–28. 
+
+https://ypfs.som.yale.edu/library/document/bank-recapitalization-and-economicrecovery-after-financial-crises 
+
+Honohan, Patrick. 2012. “Recapitalisation of Failed Banks - Some Lessons from the Irish Experience.” Address by Mr Patrick Honohan, Governor of the Central Bank of Ireland, at the 44th Annual 
+
+Money, Macro and Finance Conference, Trinity College, Dublin, September 2012. https://ypfs.som.yale.edu/library/recapitalisation-failed-banks-some-lessons-irishexperience 
+
+Houses of the Oireachtas. 2016. “Volume 1: Report.” Joint Committee of Inquiry into the Banking Crisis. https://ypfs.som.yale.edu/library/report-joint-committee-inquiry-banking-crisisgovernment-republic-ireland 
+
+International Monetary Fund (IMF). 1999. “Malaysia: Selected Issues.” IMF Staff Country Report No. 99/86. August 1999. https://ypfs.som.yale.edu/library/malaysia-selected-issues 
+
+———. 2011. “Germany: Technical Note on Crisis Management Arrangements.” Financial Sector Assessment Program Update 11/368, December 2011. 
+
+https://ypfs.som.yale.edu/library/germany-technical-note-crisis-managementarrangements 
+
+———. 2013. “Nigeria: 2012 Article IV Consultation.” IMF Country Report No. 13/116. May 2013. 
+
+https://ypfs.som.yale.edu/node/17068 
+
+———. 2019. “2019 Article IV Consultation: Press Release; Staff Report; and Statement by the Executive Director for Nigeria.” IMF Staff Country Report 19/92. April 2019. https://ypfs.som.yale.edu/library/2019-article-iv-consultation-press-release-staff-reportand-statement-executive-director 
+
+
+Jester, Dan, David Nason, and Jeremiah Norton. 2020. “Chapter 8: Recapitalizing the Banking System.” In _First Responders: Inside the U.S. Strategy for Fighting the 2007–2009 Global Financial Crisis_ , edited by Ben S. Bernanke, Timothy F. Geithner, and Henry M. Paulson, Jr., with J. Nellie Liang, 208–25. New Haven: Yale University Press. 
+
+https://ypfs.som.yale.edu/library/first-responders-inside-us-strategy-fighting-2007-2009global-financial-crisis 
+
+Jones, Jesse H. 1951. _Fifty Billion Dollars; My Thirteen Years with the RFC, 1932–1945_ . New York: Macmillan & Co., Ltd. 
+
+https://ypfs.som.yale.edu/library/fifty-billion-dollars-my-thirteen-years-rfc-1932-1945 
+
+Kalss, Suzanne. 2010. “Measures by the Austrian Regulatory Authorities in Response to the Financial Market Crisis.” _European Business Organization Law Review_ (EBOR) 11 (December): 257–548. https://ypfs.som.yale.edu/node/3170 
+
+Klingebiel, Daniela, Stijn Claessens, and Luc Laeven. 2004. “Resolving Systemic Financial Crises: Policies and Institutions,” World Bank Policy Research Working Papers, 3377, August. https://ypfs.som.yale.edu/library/document/resolving-systemic-financial-crises-policiesand-institutions 
+
+Kroes, Neelie. 2008. “State Aid N 507/2008 – UK Financial Support Measures to the Banking Industry in the UK.” European Commission. https://ypfs.som.yale.edu/index.php/node/14435 
+
+Kuusterä, Antti, and Juha Tarkka. 2011. _Bank of Finland 200 Years: Imperial Cashier to Central Bank_ . Helsinki: Otava. 
+
+https://ypfs.som.yale.edu/library/document/bank-finland-200-years-imperial-cashiercentral-bank 
+
+Laeven, Luc, and Fabian Valencia. 2018. “Systemic Banking Crises Revisited.” IMF Working Paper No. 18/206, September 14, 2018. 
+
+https://ypfs.som.yale.edu/library/document/systemic-banking-crises-revisited 
+
+Landier, Augustin, and Kenichi Ueda. 2009. “The Economics of Bank Restructuring: Understanding the Options.” IMF Staff Position Note SPN/09/12, June 5, 2009. 
+
+https://ypfs.som.yale.edu/library/economics-bank-restructuring-understanding-options-0 
+
+Lee, Hangyong, and Changyong Rhee. 2012. “Lessons from the 1997 and 2008 Crises in Korea.” _Asian Economic Policy Review_ 7: 47–64. https://ypfs.som.yale.edu/node/17128 
+
+Lim, Wonhyuk, and Joonho Hahm. 2004. “Financial Globalization and Korea’s Post-Crisis Reform: A Political Economy Perspective.” Paper presented at the workshop on Financial Globalization and East Asian Capitalism, Stanford University, August 14-15, 2003. https://ypfs.som.yale.edu/library/financial-globalization-and-koreas-post-crisis-reformpolitical-economy-perspective 
+
+
+Lindgren, Carl-Johan, Tomás Baliño, Charles Enoch, Anne-Marie Gulde, Marc Quintyn, and Leslie Teo. 2000. _Financial Sector Crisis and Restructuring: Lessons from Asia_ . Washington, DC: International Monetary Fund. 
+
+https://ypfs.som.yale.edu/library/financial-sector-crisis-and-restructuring-lessons-asia 
+
+Lubrano, Michele. 1998. “Mexico - Financial Sector Restructuring Loan Project [Loan 3911ME].” Implementation Completion Report 18012. World Bank. 
+
+https://ypfs.som.yale.edu/library/report-no-18012-mexico-financial-sector-restructuringloan-project-loan-3911-me 
+
+MacDonald, Claire. 1998. “A False Sense of Recovery.” _Asian Business_ , December 1, 1998, Volume 34, Issue 12 edition. https://ypfs.som.yale.edu/library/false-sense-recovery 
+
+Mackey, Michael W. 1999. _Report of Michael W. Mackey on the Comprehensive Evaluation of the Operations and Functions of the Fund for the Protection of Bank Savings ‘FOBAPROA’ and Quality of Supervision of the FOBAPROA Program 1995-1998_ . Report to the Congress of Mexico, July 1999. 
+
+https://ypfs.som.yale.edu/node/4532 
+
+Mariathasan, Mike, and Ouarda Merrouche. 2012. “Recapitalization, Credit and Liquidity.” _Economic Policy_ 27, no. 72: 603–46. 
+
+https://ypfs.som.yale.edu/library/document/recapitalization-credit-and-liquidity 
+
+Metrick, Andrew, and Paul Schmelzing. 2021. “Banking-Crisis Interventions, 1257–2019.” National Bureau of Economic Research Working Paper 29281. September 2021. https://ypfs.som.yale.edu/library/document/banking-crisis-interventions-1257-2019 
+
+Moe, Thorvald, Jon Solheim, and Bent Vale, eds. 2004. “The Norwegian Banking Crisis.” Norges Bank Occasional Papers, no. 33. 2004. https://ypfs.som.yale.edu/library/norwegian-banking-crisis 
+
+Montgomery, Heather, and Satoshi Shimizutani. 2009. “The Effectiveness of Bank Recapitalization Policies in Japan.” _Japan and the World Economy_ 21, no. 1: 1–25. https://ypfs.som.yale.edu/library/effectiveness-bank-recapitalization-policies-japan 
+
+Nimmanahaeminda, Tarrin, and M. R. Chatumongol Sonakul. 1998. “Thailand Letter of Intent, August 25, 1998,” August 25, 1998. 
+
+https://ypfs.som.yale.edu/library/thailand-letter-intent-august-25-1998 
+
+Office of the Special Inspector General for the Troubled Asset Relief Program (Office of SIGTARP). 2009. “Emergency Capital Injections Provided to Support the Viability of Bank of America, Other Major Banks, and the US Financial System.” Report No. SIGTARP-10-001. October 5, 2009. 
+
+https://ypfs.som.yale.edu/index.php/node/17467 
+
+———. 2014. “Banks and Credit Unions in Tarp’s CDCI Program Face Challenges.” Quarterly Reports to Congress. August 30, 2014. 
+
+
+https://ypfs.som.yale.edu/library/banks-and-credit-unions-tarps-cdci-program-facechallenges 
+
+———. 2017. “Quarterly Report to Congress.” January 27, 2017. 
+
+https://ypfs.som.yale.edu/library/sigtarp-quarterly-report-congress-january-27-2017 
+
+Panetta, Fabio, Thomas Faeh, Giuseppe Grande, Corrinne Ho, Michael King, eds. 2009. _An Assessment of Financial Sector Rescue Programmes_ . BIS Papers No. 48. Basel: Bank for International Settlements. https://ypfs.som.yale.edu/library/assessment-financial-sectorrescue-programmes 
+
+Philippon, Thomas, and Philipp Schnabl. 2013. “Efficient Recapitalization.” _Journal of Finance_ 68, no. 1: 1–42. 
+
+https://ypfs.som.yale.edu/library/document/efficient-recapitalization 
+
+Poczter, Sharon. 2016. “The Long-Term Effects of Bank Recapitalization: Evidence from Indonesia.” _Journal of Financial Intermediation_ 25 (January): 131–53. 
+
+https://ypfs.som.yale.edu/library/document/long-term-effects-bank-recapitalizationevidence-indonesia 
+
+Quintyn, Marc and David S. Hoelscher. 2003. _Managing Systemic Banking Crises_ . Washington, DC: International Monetary Fund. 
+
+https://ypfs.som.yale.edu/index.php/library/document/managing-systemic-bankingcrises 
+
+Santiprabhob, Veerathai. 2003. _Lessons Learned from Thailand’s Experience with FinancialSector Restructuring_ . Bangkok: Thailand Development Research Institute. https://ypfs.som.yale.edu/library/lessons-learned-thailands-experience-financial-sectorrestructuring 
+
+Scott, David. 2002. “A Practical Guide to Managing Systemic Financial Crises: A Review of Approaches Taken in Indonesia, the Republic of Korea, and Thailand.” Washington, DC: World Bank Group. 
+
+https://ypfs.som.yale.edu/library/practical-guide-managing-systemic-financial-crisesreview-approaches-taken-indonesia 
+
+Spindle, Bill, and Phred Dvorak. 2000. “Japan’s Drive to Clear Bad Debt Wilts as New Bosses Rotate through Agency.” _Wall Street Journal_ , December 11, 2000. 
+
+https://ypfs.som.yale.edu/library/japans-drive-clear-bad-debt-wilts-new-bosses-rotatethrough-agency 
+
+Tong, Hui, and Shang-Jin Wei. 2020. “Did Unconventional Interventions Unfreeze the Credit Market?” _American Economic Journal: Macroeconomics_ 12, no. 2: 284–309. https://ypfs.som.yale.edu/library/document/did-unconventional-interventions-unfreezecredit-market 
+
+
+US Department of the Treasury (US Treasury). 1959. “Final Report of the Reconstruction Finance Corporation.” Washington, DC: Government Printing Office. May 6, 1959. https://ypfs.som.yale.edu/node/18178 
+
+US Government Accountability Office (US GAO). 2012. “Capital Purchase Program: Revenues Have Exceeded Investments, but Concerns about Outstanding Investments Remain.” Report to Congressional Committees. GAO-12-301.  March 2012. https://ypfs.som.yale.edu/node/17986 
+
+Vichyanond, Pakorn. 2004. “Chapter 7: Dealing with Debt: NPLs and Debt Restructuring.” In _Thailand Beyond the Crisis_ , edited by Peter Warr, 208–31. New York: RoutledgeCurzon. https://ypfs.som.yale.edu/library/thailand-beyond-crisis 
+
+Warr, Peter, ed. 2004. _Thailand Beyond the Crisis_ . New York: RoutledgeCurzon. https://ypfs.som.yale.edu/library/thailand-beyond-crisis 
+
+Woll, Cornelia. 2014. _The Power of Inaction: Bank Bailouts in Comparison_ . Cornell Studies in Political Economy. Ithaca: Cornell University Press. 
+
+https://ypfs.som.yale.edu/library/document/power-inaction-bank-bailouts-comparison 
+
+World Bank. 2000. “Thailand - Social and Structural Review - Beyond the Crisis: Structural Reform for Stable Growth.” Pre-2003 Economic or Sector Report No. 19732. https://ypfs.som.yale.edu/library/thailand-social-structural-review-beyond-crisisstructural-reform-stable-growth 
+
+Copyright 2022 © Yale University. All rights reserved. To order copies of this material or to receive permission to reprint any or all of this document, please contact the Yale Program on Financial Stability at ypfs@yale.edu.

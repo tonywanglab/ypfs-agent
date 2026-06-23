@@ -1,0 +1,1299 @@
+--- Page 1 ---
+Journal of Financial Crises Journal of Financial Crises 
+Volume 6 Issue 3 
+2024 
+Portugal: Banco Espírito Santo Capital Injection, 2014 Portugal: Banco Espírito Santo Capital Injection, 2014 
+Salil Gupta 
+Yale School of Management 
+Shavonda Brandon 
+Yale School of Management 
+Follow this and additional works at: https://elischolar.library.yale.edu/journal-of-financial-crises 
+ Part of the Banking and Finance Law Commons, Economic History Commons, Finance Commons, 
+Policy Design, Analysis, and Evaluation Commons, Policy History, Theory, and Methods Commons, Public 
+Administration Commons, and the Public Economics Commons 
+Recommended Citation Recommended Citation 
+Gupta, Salil and Brandon, Shavonda (2024) "Portugal: Banco Espírito Santo Capital Injection, 2014," 
+Journal of Financial Crises: Vol. 6 : Iss. 3, 397-426. 
+DOI: https://doi.org/10.17132/2693-3179.1586 
+Available at: https://elischolar.library.yale.edu/journal-of-financial-crises/vol6/iss3/18 
+This Case Study is brought to you for free and open access by the Journal of Financial Crises and 
+EliScholar – A Digital Platform for Scholarly Publishing at Yale. For more information, please contact 
+journalfinancialcrises@yale.edu.
+
+--- Page 2 ---
+READERS TAKE NOTICE: READERS TAKE NOTICE: 
+As of April 2024, the YPFS Resource Library’s site domain has changed 
+to https://elischolar.library.yale.edu/ypfs-financial-crisis-resource-library/. 
+Please be aware that upon clicking any of the URL references to 
+the former Resource Library domains, either https://ypfs.som.yale.edu 
+or https://ypfsresourcelibrary.blob.core.windows.net/, in the 
+"References/Key Program Documents" section of a case study, 
+readers will encounter a "page not found" error. readers will encounter a "page not found" error. 
+Readers can still retrieve a given resource cited within this case study 
+on the new site  by searching by searching here  for the title cited. for the title cited. 
+This case study is available in Journal of Financial Crises: https://elischolar.library.yale.edu/journal-of-financial-
+crises/vol6/iss3/18
+
+--- Page 3 ---
+Portugal: Banco Espírito Santo Capital Injection, 20141 
+Salil Gupta2 and Shavonda Brandon3 
+Yale Program on Financial Stability Case Study 
+October 4, 2024 
+Abstract 
+Banco Espírito Santo ( BES) was the second -largest private bank in Portugal  in 2014, with 
+assets of EUR 80 billion (USD 81 billion). A capital increase of EUR 1.1 billion to the BES was 
+concluded on market terms in June 2014. The Bank of Portugal (BOP) adopted a resolution 
+measure for BES on August 3, 2014, to safeguard financial  stability by protecting all 
+depositors and ensuring continuation of operating activities of the bank . The Portuguese 
+Resolution Fund provided equity capital of EUR 4.9 billion to a bridge bank, Novo Banco, 
+with 100% public ownership and the expectation of  sale to private investors in two years. 
+The Resolution Fund was capitalized by a loan of EUR 3.9 billion from  the Portuguese state 
+and contributions  of EUR 1.0 billion  from the  private banking sector. Novo Banco was 
+initially expected to be sold to private investors no later than December 2016.  In 2015, the 
+BOP’s decision to bail -in EUR 2.2 billion of senior bonds led to uncertainty for the senior 
+unsecured debt of European banks. In 2017, the BOP and the Resolution Fund sold a  75% 
+stake in Novo Banco to Lone Star, a US-based private equity fund, in return for a commitment 
+to inject EUR 1.0 billion of new capital into Novo Banco . Portugal also committed to a 
+Contingent Capital Agreement (CCA) with Lone Star, for a maximum size o f EUR 3.9 billion 
+to provide additional capital injections to Novo Banco if the Tier 1 ratio dropped below 12%. 
+Novo Banco received EUR 3.4 billion of capital injections by the Resolution Fund between 
+2018 and 2021 , thereby receiving EUR 7.3 billion of tot al capital injections from the state 
+since 2014. In February 2023, the E uropean Commission (EC) declared that the resolution 
+process was over and was successful in returning an important bank to viability. As of 
+November 2023, the government of Portugal and the Resolution Fund continue to hold a 
+joint 25% stake in Novo Banco with a book value of EUR 1.1 billion (GOP holds 12% and the 
+Resolution Fund holds 13%).  
+Keywords: BES, BOP, capital injection, government of Portugal, Novo Banco, resolution 
+  
+ 
+1 This case study is part of a Yale Program  on Financial Stability (YPFS) selection of New Bagehot Project 
+modules considering ad hoc capital injections. A survey of all the cases in this series (Rhee, Hoffner, et al. 2024) 
+and the individual cases underlyin g it are available from the Journal of Financial Crises  at 
+https://elischolar.library.yale.edu/journal-of-financial-crises/vol6/iss3/. Rhee, Oguri,  et al. (2022) surveys 
+broad-based capital injection programs. 
+2 Research Associate, YPFS, Yale School of Management. 
+3 Research Support Assistant, YPFS, Yale School of Management. 
+397
+
+--- Page 4 ---
+Overview 
+This case study is about the ad  hoc capital 
+injections provided to Banco Espírito Santo  
+(BES). The first capital injection to BES was 
+provided in  August 2014  along with a 
+resolution plan;  for details, see Gupta 
+(2024).  
+Founded in 1869, Espírito Santo 
+International (ES)  was one of Portugal’s 
+largest conglomerates that is privately -
+owned with various business holdings 
+including real estate, hotels, financials, and 
+hospitals. The ES group owned 49% of a 
+publicly listed financial arm Espírito Santo 
+Financial Group (ESFG), which owned 27% 
+of BES in May 2014 (Kowsmann 2014a) . 
+Prior to the restructuring announcement, 
+ESFG’s ownership of the bank had dropped 
+to 20%, while the other 36% of major 
+shareholders were various private banks, 
+investors, and asset management 
+companies (s ee Figure 1) (Benedetti-
+Valentini 2014; BES 2014a; EC 2014b) . 
+Crédit Agricole ,4 a large French private 
+bank, was the second largest shareholder in 
+BES (Benedetti-Valentini 2014).  
+In 2014, BES was the second largest private 
+bank in Portugal, with assets o f more than 
+EUR 80 billion (USD 97.6 billion) 5 and 
+10,000 employees across 25 countries (EC 
+2014a).  
+ 
+4 Crédit Agricole helped the Espírito Santo family regain control of the bank and insurer  from the Portuguese 
+government in 1989 (Benedetti-Valentini 2014; EC 2014b). Crédit Agricole had remained a major shareholder 
+of BES from the early 1990s; it reported a EUR 708 million (USD 950 million) loss in the second quarter of 2014, 
+owing to losses at BES from distressed exposures to companies owned by the ES group(Reuters 2014b). In May 
+2014, Crédit Agricole and ESFG (holding company of the ES family) jointly held 47% in BES through a holding 
+company called BESPAR (Reuters 2014a) . In May 2014, they gave up their stakes in BESPAR and, after BES 
+issued new shares in BES i n June 2014, Crédit Agricole and ESFG were left with individual stakes of 15% and 
+25% in BES respectively (Reuters 2014a). 
+5 Per Yahoo Finance, EUR 1 = USD 1.22 on December 31, 2014. 
+Key Terms 
+Purpose: “To safeguard the financial soundness of 
+Banco Espírito Santo, S.A. and the interest of its 
+depositors, as well as to maintain the stability of 
+the Portuguese financial system.” (BOP 2014a) 
+Announcement 
+Date 
+August 3, 2014 
+Operational Date August 3, 2014 
+Date of Final 
+Capital Injection 
+December 2021 
+End Date As of November 2023, the 
+government of Portugal held a 
+25% stake in Novo Banco 
+Source of Funding Novo Banco received two sets 
+of capital injections: (1) EUR 
+4.9 billion provided by the 
+Resolution Fund, with EUR 
+3.9 billion from the 
+Portuguese state, and EUR 1.0 
+billion from private banks; (2) 
+EUR 3.4 billion more than 
+2018–21 under the CCA from 
+the State 
+Administration BOP’s Resolution Fund 
+Size 2014: EUR 4.9 billion;  
+2017: EUR 3.9 billion (CCA) 
+Capital 
+Characteristics 
+Equity capital of Novo Banco 
+is underwritten by the 
+Resolution Fund 
+ 
+(continued) 
+398
+Journal of Financial Crises Vol. 6 Iss. 3
+
+--- Page 5 ---
+BES had a market share of 11.5% of total 
+deposits from the residents of Portugal, and 
+31% of financing of the insurance and 
+financial sector. A disruption in BES’s 
+financing activities would have had a 
+significant systemic effect in Portugal (World 
+Bank Group 2016).  
+In May 2014, KPMG’s external audit report  
+noted irregularities in the accounts of ES and 
+stated that the group is in “serious financial 
+condition” (Kowsmann 2014a) . Between 
+June and August 2014, BES’s shares had 
+dropped by 89% due to financial concerns 
+(BBC 2014b).  
+On July 30, 2014, BES unexpectedly 
+announced EUR 3.5 billion (USD 4.8 billion) 
+in losses largely due to improper loans made 
+to other affiliates of the ES group, dropping 
+its Common Equity Tier 1 (CET1) ratio to 5% 
+and breaching minim um regulatory 
+requirements (BOP 2014b; Minder 2014b) . 
+BES had suffered from EUR 1.5 billion in 
+unexpected losses from operations conducted in the first half of 2014 and had not previously 
+reported this to the external auditor (World Bank Group 2016) . Ricar do Espírito Santo 
+Salgado, who ran BES for more than two decades starting from 1991, stepped down in May 
+2014, was held in custody in July 2014 for money laundering and tax evasion charges, and 
+ordered by a judge to post bail of EUR 3 million (BBC 2014a; Ewing and Bray 2014; Minder 
+2014a).  
+In September 2013, the Bank of Portugal ( BOP) initiated a ring-fencing policy for BES with 
+respect to other companies in the ES group, after its ETRICC 2 (Horizontal Review of Credit 
+Portfolio Impairment) process, involving an audit of nonfinancial companies. This BOP 
+policy was reinforced as ES group  companies started to default. As of December 2013, 
+external auditors KPMG and PricewaterhouseCoopers (PwC) had confirmed the setup of a 
+provision of EUR 700 million of capital to ESFG (Costa 2014b). On June 16, 2014, BES raised 
+EUR 1.1 billion via a public offering from the issuance of 1.6 billion new common shares (BES 
+2015).  
+On August 3, 2014, the BOP announced that it was applying a resolution measure to BES and 
+transferring its good assets, customers, and operations to Novo Banco (a bridge bank), while 
+protecting depositors and senior, unsubordinated bondholders. The Resolution Fund also 
+announced its purchase of EUR 4.9 billion in common shares in Novo Banco, representing a 
+100% ownership stake in the bank (see Figure 2) (BOP 2014b). The BOP also tran sferred 
+EUR 3.5 billion of Government Guaranteed Bank Bonds (GGBB), which the BES had issued 
+Bail-in Terms 2014: Equity and 
+subordinated debt;  
+2015: Senior debt of EUR 2.2 
+billion 
+Outcomes Novo Banco received EUR 8.3 
+billion of capital injections 
+over 2014–21, with the 
+Portuguese state providing 
+EUR 7.3 billion; Lone Star 
+injected EUR 1.0 billion into 
+Novo Banco to purchase 
+75%; GOP’s 25% stake in 
+Novo Banco had a book value 
+of EUR 1.1 billion as of 2023  
+Notable Features BOP retransfer of senior 
+bonds led to uncertainty for 
+the senior unsecured debt of 
+European banks; in 2017, the 
+Resolution Fund did not 
+receive anything for selling 
+75% of Novo Banco to Lone 
+Star; the Resolution Fund 
+also had to commit to an 
+additional EUR 3.9 billion of 
+capital, adding pressure on 
+the overall banking system 
+399
+Portugal: Banco Espírito Santo Capital Injection Gupta and Brandon
+
+--- Page 6 ---
+under the Portuguese Guarantee Scheme to Novo Banco to strengthen the liability side of its 
+balance sheet (EC 2017b). The bad assets and liabilities associated wit h the ES group were 
+to remain in the residual entity, which was the bad bank under liquidation, with all losses to 
+be borne by the equity and subordinated debt holders of BES (see Figure 1) (BOP 2014a). 
+The Resolution Fund was to receive a EUR 3.9 billion loan from the Portuguese state and 
+would also be funded by EUR 1.07 billion of contributions from banks in Portugal (EUR 700 
+million from eight participating banks and EUR 365 million of past contributions) (Machado 
+2019). At the time, the authorities stat ed that they expected the proceeds from the sale of 
+Novo Banco would be used to compensate the Resolution Fund (Kowsmann 2014b).  
+Figure 1: Major Shareholders of BES as of July 30, 2014 
+  
+Source: Benedetti-Valentini 2014; BES 2014a; EC 2014b. 
+The next day, August 4, 2014, the European Commission (EC) approved the capital injection 
+and creation of the bridge bank. The EC declared that the BOP’s actions were in line with 
+State Aid rules, justified by the need to restore financial stability and avoid adverse systemic 
+risks (EC 2014a). The BOP communicated the costs of a disorderly resolution of BES to the 
+EC in the range of EUR 16  billion to 28 billion in losses, and up to EUR 18 billion from the 
+Deposit Insurance Fund to cover insured deposits (Albuquerque an d Branco 2016; EC 
+2017b).  
+In December 2014, Apollo Global, Banco BPI, and Banco Santander, were reported by the 
+Wall Street Journal  as interested parties to purchase Novo Banco with deposits of EUR 25 
+billion and a loan portfolio of EUR 32 billion (see Fi gure 2) (Kowsmann and Patrick 2014) . 
+In early September 2015, Novo Banco reported losses of EUR 252 million for the first half of 
+the year owing to costs associated with writing off loans received from BES. The BOP missed 
+its own deadline to sell Novo Banco, with the New York Times reporting that the potentially 
+400
+Journal of Financial Crises Vol. 6 Iss. 3
+
+--- Page 7 ---
+interested bidders included Anbang Insurance Group, Apollo Global, and Fosun International 
+(Minder 2015). On September 15, 2015, the board of directors of the BOP suspended the sale 
+process of Novo Banco due to the unsatisfactory three binding offers received, and other 
+significant uncertainties including potential capital increases from th e European Central 
+Banks’s (ECB) prospective stress tests of the bank (BOP 2015a).  
+The ECB Banking Supervision stress test highlighted a capital shortage of EUR 1.4 billion at 
+Novo Banco in the adverse scenario (BOP 2015b). Novo Banco passed the stress te st in the 
+baseline scenario with a CET1 ratio of 8.24% but fell short in the adverse scenario with a 
+CET1 ratio of 2.43% versus the 5.5% passing threshold (BOP 2015b). Novo Banco committed 
+to focusing on core business activities and reducing exposure to unprofitable business areas. 
+In December 2015, the EC approved the extension of the Portuguese state guarantee to the 
+bonds of Novo Banco at a value of EUR 3.5 billion, which were originally placed at BES in 
+2011 and 2012 (BOP 2015c). Novo Banco continued to  report losses due to provisioning 
+related to loan impairments, and disclosed losses of EUR 1.0 billion in 2015, EUR 837 million 
+in 2016, and EUR 290 million for the first half of 2017 (EC 2017b).  
+The bad bank BES reported a full year loss of EUR 9.2 billion for 2014, loss of EUR 2.6 billion 
+for 2015, and reported assets at less than 3% of liabilities as of December 31, 2015. The BOP 
+retransferred five issues of senior unsubordinated debt worth EUR 2.2 billion from Novo 
+Banco to BES, which was accounted for in the reported financials for 2015 (BES 2016a). The 
+retransfer effectively imposed a total loss on the holders of these bonds, and later in 2016 
+led to legal action against the BOP by 14 institutional asset managers, including BlackRock 
+and PIMCO (Hale and Arnold 2016).  
+At the time of the retransfer, Novo Banco had EUR 5.4 billion of senior unsecured debt among 
+its liabilities (Reis and Almeida 2015) . This move led to uncertainty and volatility in the 
+broader markets for senior unsecured debt issued by European banks, as investors became 
+concerned that this debt was also bail -in-able under the post -crisis regulatory regime (see 
+Figure 3) (Hale 2016). As per the EU regulatory framework, senior debt is bail-in-able, which 
+created the legal basis for the re transfer of the select senior bonds. In July 2016, the ECB 
+revoked the ability of BES to function as a banking entity, leading to effective insolvency and 
+liquidation of the legacy bad bank (BES 2016b).  
+In October 2017, the Resolution Fund sold 75% of Nov o Banco’s equity to Lone Star, an 
+American private equity fund, through Nani Holdings (Novo Banco 2015) . The Resolution 
+Fund did not receive anything for the EUR 4.9 billion in capital it had invested so far; 
+however, it retained a 25% stake in Novo Banco to allow for potential inflows from its sale 
+in the future. Lone Star agreed to invest EUR 1 billion of new capital into Novo Banco (Wise 
+2017).  
+However, Portuguese authorities also signed a Contingent Capital Agreement (CCA) with 
+Lone Star, under which the state could compensate Lone Star up to EUR 3.9 billion to cover 
+any losses related to a portfolio of legacy nonperforming loans (NPLs), in the event its CET1 
+ratio fell below 12%. The total amount authorized under the CCA corresponded to 75 –95% 
+of the gross book value of assets covered by the agreements (EC 2017b). 
+401
+Portugal: Banco Espírito Santo Capital Injection Gupta and Brandon
+
+--- Page 8 ---
+António Costa, Portugal’s prime minister, stated that choosing to nationalize Novo Banco 
+would have cost the taxpayer an additional EUR 4.0 billion to 4.7 billion upfront, and exposed 
+the state to “limitless” liabilities down the road if the bank’s losses turned out to be even 
+worse than expected. In contrast, the CCA exposed the state to costs on a contingent basis, 
+which it booked over time, and capped  its exposure at EUR 3.9 billion. Lone Star was 
+restricted from paying dividends for a period of five years, to ensure that the income from 
+asset sales would build Novo Banco’s capital (Wise 2017).  
+The Portuguese state also committed to providing a capital backstop, approved by the EC in 
+2017, in addition to the contingent capital agreement. The EC’s 2017 decision noted that the 
+trigger for the state to provide aid under the capital backstop would be if the total capital of 
+Novo Banco “falls below the SREP total capital requirement;” SREP is the Supervisory Review 
+and Evaluation Process, in which European supervisors evaluate banks’ capital and risks and 
+assign an individual capital requirement for each bank every year. Specifically, the EC would 
+deem it appropriate for the state to provide aid under the capital backstop  “to the extent 
+necessary to ensure the solvency of Novo Banco in the Commission’s adverse scenario.” (EC 
+2017b, 25). 
+At the end of 2021, Novo Banco’s minority shareholders comprised 24.61% held by the 
+Resolution Fund, 1.56% held by the Directorate General for the Treasury and Finance, and 
+73.83% held by Lone Star (Nani Holdings). As per the deal with Lone Star, any conversion of 
+rights instruments by the Portuguese state would only lead to a dilution in the shareholding 
+of the Resolution Fund, and not affect Lone Star’s 75% holding. As a result, by the end of 
+2022, the Resolution Fund’s  holding in Novo Banco reduced to 19.31%, the Treasury’s 
+holding increased to 5.69%, and Lone Star’s holding was back to 75%. The latest annual 
+report noted that the Portuguese state could have an effective stake of 22.1% in Novo Banco, 
+at the expense of f urther dilution for the Resolution Fund. The share increase for the 
+Treasury can be attributed to the completion of rights conversions for net negative results 
+and tax credits accumulated by Novo Banco between 2015 and 2020 (Novo Banco 2023b). 
+In February 2023, Portugal’s Finance Ministry announced that the European Commission 
+had declared the end of the restructuring process and the end of its ongoing monitoring of 
+the implementation of the resolution of Novo Banco. The GOP called the EC announcement 
+“the end of a very important stage for the stabilization of the national financial system.” (GOP 
+2023). The BOP announced in a separate statement that the restructuring of Novo Banco in 
+2014 and the contingent capital agreement in 2017 were essential for the su rvival of the 
+bank. The BOP argued that the completion of the restructuring process was “a further 
+indicator that Novo Banco will not need to request any further payments from the Resolution 
+Fund under the [CCA].”(BOP 2023, 1). The Finance Ministry and BOP also both noted that the 
+end of EC involvement meant that the Portuguese state was no longer committed to provide 
+the public capital backstop in an extreme scenario (BOP 2023). The Portuguese state and the 
+Resolution Fund continue to hold a joint 25% stak e in Novo Banco, including 12% held by 
+the Treasury and 13% held by the Resolution Fund, as per an investor presentation from 
+November 2023 (Novo Banco 2023c). 
+402
+Journal of Financial Crises Vol. 6 Iss. 3
+
+--- Page 9 ---
+As of November 2023, Novo Banco had received EUR 3.4 billion under the CCA, and had an 
+additional EUR 485 million available to fund losses if its CET1 ratio drops below 12%. The 
+CCA is in place until December 2025, and can be extended under specific conditions by one 
+additional year. Novo Banco remains subject to a dividend ban and has a servicing agreement 
+with the Resolution Fund until the maturity of the CCA. Novo Banco reported that its net 
+nonperforming asset (NPA) ratio had fallen from 12.2% in 2017 to 0.7% in the third quarter 
+of 2023. Novo Banco’s CET1 ratio was 16.5%, strongly above the 12% C CA trigger (Novo 
+Banco 2023c) . Novo Banco’s CEO Mark Bourke declared that the bank would be 
+operationally ready for an initial public offering (IPO) in the first half of 2024 (Reuters 2023). 
+In December 2023, the DBRS rating agency upgraded the long-term debt of Novo Banco by 
+two notches due to notable improvements in earnings and capital (Novo Banco 2023a).  
+Figure 2: Timeline of the Restructuring of Banco Espírito Santo 
+Date Event  
+May 21, 2014 KPMG’s audit reports irregularities in the accounts of ES and notes that the group is in 
+“serious financial condition”  
+June 16, 2014 BES raises EUR 1.1 billion via a public markets offering from the issuance of 1.6 billion new 
+common shares 
+July 2014 BES’s subordinated bond prices drop amidst uncertainty and concerns about the bank’s 
+ability to bear potential losses  
+July 2014 BES’s Tier 2 bond prices drop over 30% to EUR 65, with senior unsecured bond prices still 
+above EUR 90  
+July 24, 2014 Former head of BES Ricardo Salgado is arrested in a tax evasion and money laundering 
+probe  
+July 29, 2014 BES is expected to report its largest ever loss of EUR 3–4 billion, more than the capital 
+cushion of EUR 2.1 billion for the bank. BES’s share prices have fallen 40% in the last month 
+July 31, 2014 BES’s board of directors inform the BOP that it will not be possible to submit a 
+recapitalization plan from private sources under the terms required by the BOP  
+August 1, 2014 Portugal’s Securities Market Commission suspends trading of BES shares  
+August 1, 2014 DBRS, a Canadian rating agency, downgrades BES’s rating  
+August 3, 2014 As per BOP’s plan, EUR 4.9 billion (USD 6.6 billion) would be provided to BES with equity 
+and subordinated debt holders bearing the losses 
+August 3, 2014 Portugal provided the funds to BES through a Resolution Fund, which is funded by a EUR 
+4.9 billion capital injection, with a part of the credit line provided from Portugal’s 2011 
+bailout program. Portugal has EUR 6 billion of the total EUR 12 billion set aside for bank 
+recapitalization in the bailout program  
+August 3, 2014 BOP resolves BES by creating a bridge bank, Novo Banco, to take over most assets and 
+liabilities. A small amount of assets, including the unrecoverable loans to the parent/ 
+affiliate entity, and the bank’s 56% ownership in BES Angola, plus equity, subordin ated 
+liabilities, and ES-linked liabilities remain with the legacy entity, the bad bank. The plan was 
+to use proceeds from the sale of the bridge bank to compensate the Resolution Fund  
+403
+Portugal: Banco Espírito Santo Capital Injection Gupta and Brandon
+
+--- Page 10 ---
+December 2014 Novo Banco agrees to sell BES’s former investment banking arm to Haitong Securities for 
+EUR 379 million (USD 466 million)  
+September 2015 BOP reports missing its deadline to sell Novo Banco after breakdown in talks with the lead 
+bidders, with rumors of a Chinese Insurance company and Apollo Global as the pote ntial 
+bidders 
+September 2015 Prime Minister Pedro Passos Coelho emphasizes that the sale of Novo Banco needs to be 
+quick to keep risk mitigated, while ensuring the best possible terms of sale  
+November 2015 ECB reports that Novo Banco would suffer a capital shortfall of EUR 1.4 billion as per its 
+stress tests  
+December 2015 Portugal’s market regulator suspends trading in Novo Banco’s debt, which fuels speculation 
+that the ECB and BOP had formulated a plan to use the bank’s senior debt to plug the EUR 
+1.4 billion capital shortfall  
+December 2015 BOP imposes EUR 2.0 billion in losses on some senior bondholders of Novo Banco. The 
+Resolution Fund could not provide additional capital as per the EC’s State Aid rules  
+April 2016 Fourteen asset managers, including BlackRock and PIMCO, sue Novo Banco to recoup 
+investments of EUR 2.0 billion that were written down in December 2015  
+July 13, 2016 ECB revokes the ability of BES to function as a banking entity 
+July 28, 2016 BES declares insolvency and enters liquidation 
+March 2017 Lone Star acquires 75% of Novo Banco for a capital injection of EUR 1 billion, with 
+stipulation that the Resolution Fund would provide up to EUR 3.9 billion (USD 4.2 billion) of 
+capital for losses related to potentially nonperforming assets that remained at Novo Banco  
+March 2018 Novo Banco reports a EUR 1.4 billion loss and draws a capital injection of EUR 792 million 
+of previously committed capital from the Resolution Fund  
+March 2019 Novo Banco to receive EUR 1.2 billion from the Resolution Fund, after posting a EUR 1.4 
+billion loss in 2018. Novo Banco revises its 2017 loss from EUR 1.4 billion to EUR 2.3 billion  
+May 2020 Resolution Fund injects EUR 1.0 billion into Novo Banco 
+November 2020 Portugal’s finance minister announces that the state will meet all its commitments related 
+to Novo Banco, after the opposition party blocked a fresh capital injection of EUR 476 
+million into the bridge bank as a part of the 2021 budget. PM Costa also called ECB 
+president Christine Lagarde to confirm Portugal’s compliance with the terms of Novo 
+Banco’s sale  
+June 2021 Portugal’s Resolution Fund provides a capital injection of EUR 317 million (USD 386 million) 
+to Novo Banco to keep the bank’s solvency ratios at required levels.  This capital injection is 
+funded by a pool of EUR 475 million created by contributions from a syndicate of seven 
+Portuguese banks  
+December 2021 BOP provides an additional capital injection of EUR 112 million (USD 127 million) to Novo 
+Banco. The Resolution Fund states that it does not expect to provide additional capital to 
+Novo Banco  
+October 2022 Novo Banco CEO Mark Bourke states that the bank is not seeing an uptick in stress or NPLs, 
+and that there will be no need to raise additional capital  
+December 2022 EC determines that Novo Banco’s restructuring process is completed  
+404
+Journal of Financial Crises Vol. 6 Iss. 3
+
+--- Page 11 ---
+February 2023 EC agrees that the restructuring from the collapse of BES in 2014 is over, and Portugal’s 
+Finance Ministry marks it as a vital stage in the stabilization of Portugal’s financial system 
+November 2023 Novo Banco reported a CET1 ratio of 16.1% for the third quarter of 2023, with the net NPL 
+ratio down from 12.2% in 2017 to 0.7% in the third quarter of 2023  
+November 2023 The government of Portugal continues to hold a 25% stake in Novo Banco, with 13% he ld 
+by the Resolution Fund and 12% held by the General Directorate of Treasury and Finance  
+Source: Authors’ analysis 
+Summary Evaluation 
+The I nternational Monetary Fund (IMF)  noted in 2015 that the financing arrangement 
+between the Portuguese government and the Resolution Fund potentially added a 
+considerable burden on a concentrated and unprofitable banking system. The IMF suggested 
+a revised repayment schedule for the government’s loan, with a longer-term horizon to allow 
+the banking system to absorb the costs of the resolution (IMF 2015). 
+In 2015, Fitch Ratings stated that if the sale price for Novo Banco was lower than the size of 
+the loan to the Resolution Fund, the losses would have to be borne by the Portuguese banking 
+system. Fitch noted further that Caixa Geral de Depósitos and Banco Comercial Português 
+were the largest contributors to the Resolution Fund, but the potential costs to each 
+Portuguese bank would depend on each bank’s capital and profitability levels (Fitch Ratings 
+2015). 
+Albuquerque and Branco, two attorneys in private pr actice, concluded in the International 
+Banking Law and Regulation Journa l that the creation of Novo Banco allowed for the 
+continuation of the core activities of the bank, limiting disruption to depositors , and 
+preventing contagion risk to the financial sys tem. In 2015, the first sale process for Novo 
+Banco was suspended due to concerns of a capital shortfall at the bridge bank. In 2017, Novo 
+Banco failed the adverse stress scenario in the ECB’s stress test, highlighting a capital 
+shortfall of EUR 1.4 billio n. The decision to retransfer senior bond tranches of Novo Banco 
+helped improve the CET1 ratio from 9.4% to 13%, but also made the senior debt of the bank 
+bail-in-able. This retransfer decision was seen as important to maximize the value of Novo 
+Banco’s ba lance sheet, but a “two -edged sword” due to the uncertainty created amongst 
+investors (Albuquerque and Branco 2016). In 2016, Fitch Ratings stated that the BOP’s 2015 
+decision highlighted the risk of retransfer of bonds in bridge banks until the resolution  is 
+concluded. 
+Albuquerque and Branco stated that the loan provided to the Portuguese Resolution Fund, 
+from the state and the banking system, may not be fully recovered . This implied that 
+taxpayers were not fully protected against the cost of failure of BES . It was also highlighted 
+that the initial two-year sale target did not account for the size and structure of Novo Banco, 
+including considering further capital needs (Albuquerque and Branco 2016). Later in 2017, 
+the Portuguese authorities sold 75% of Novo Banco to Lone Star in return for a EUR 1 billion 
+capital injection into the bridge bank (Wise 2017) . As per the EC, the shareholders and 
+subordinated debt holders of BE S absorbed nearly EUR 7 billion of losses as of 2017  (EC 
+2017a). 
+405
+Portugal: Banco Espírito Santo Capital Injection Gupta and Brandon
+
+--- Page 12 ---
+In the learnings from the BES resolution, Pedro Machado, the chief legal counsel of the BOP, 
+noted that in certain cases the objectives of preserving financial stability and protecting 
+taxpayer funds are in conflict (Machado 2019).  Orrick, a legal advisory firm, stated that the 
+BOP had limited tools towards the resolution of BES, since the EU Bank Recovery and 
+Resolution Directive (BRRD) (Directive 214/59/EU) would not be adopted by Portugal until 
+2016 (European Parliament and Council of the European Union 2014) .  The BRRD would 
+have provided the BOP with additional legal authorization to impose losses on subordinated 
+creditors and minimize the use of taxpayer funds (Orrick 2014).  
+In 2022, a member of the European Parliament, João Pimenta Lopes, noted that after Novo 
+Banco’s sale to Lone Star in 2017, the bank disposed legacy assets inherited from BES at a 
+steep discount and needed to access the CCA (Lopes 2022). In a written response, the EC’s 
+vice president Margrethe Vestager clarified that capital requirements for Novo Banco were 
+determined by the authorities based on National Portuguese Law, and that the EC was 
+monitoring compliance on commitments by the Portuguese government (Vestager 2022).  
+In the same year, the Portuguese Communist Party presented the case that eight years since 
+the application of resolution to BES, and five years after the sale to Novo Banco, the costs to 
+the country have been EUR 9 billion. The report by the Court of Auditors on Novo Banco from 
+2021 is cited to reflect the lack of effective control measures in the disposal of assets in the 
+capital mechanism (PCP 2022).  
+Portugal’s State and Resolution Fund provided EUR 7.3 billion of capital injections between 
+2014 and 2021 and continues to hold a joint 25% stake in Novo Banco with a book value of 
+EUR 1.1 billion (12% held by the GOP and 13% stake held by the Resolution Fund) (Novo 
+Banco 2023c). Novo Banco is expected to complete an IPO in  2024, which could allow the 
+Portuguese state an additional opportunity to monetize its holdings (Reuters 2023).  
+For more details on the resolution and restructuring of BES, see Gupta (2024). 
+406
+Journal of Financial Crises Vol. 6 Iss. 3
+
+--- Page 13 ---
+Context: Portugal, Banco Espírito Santo,  2013–2014 
+Assets EUR 66.2 billion as of Dec. 31, 2013 
+EUR 0.2 billion as of Dec. 31, 2014 
+Liabilities EUR 60.5 billion as of Dec. 31, 2013 
+EUR 2.9 billion as of Dec. 31, 2014 
+Deposits EUR 38.9 billion as of Dec. 31, 2013 
+EUR 0.7 billion as of Dec. 31, 2014 
+Capital Ratio (Tier 1) 10.6% as of Dec. 31, 2013 
+5.1% as of Dec. 31, 2014 
+Nonperforming Loans Data unavailable 
+Market Share 
+(Domestic Banking) 
+20.0%  as of Dec. 31, 2013 
+20.0% as of Mar. 31, 2014 
+Bank Assets, % of GDP 165.7% as of 2013 
+152.6% as of 2014 
+Sources: BES 2014b; BES 2015; BES 2016c; TGE 2020; Wise 2020. 
+  
+407
+Portugal: Banco Espírito Santo Capital Injection Gupta and Brandon
+
+--- Page 14 ---
+Key Design Decisions 
+1. Purpose: The program was designed to ensure the soundness of BES, protect its 
+depositors, and ensure financial stability. The program was also focused on the 
+best solution for the taxpayers of Portugal.  
+An extraordinary meeting of the board of directors of the BOP declared on August 3, 2014 , 
+that a resolution plan for BES was being formulated:  “To safeguard the financial soundness 
+of Banco Espírito Santo, S.A. and the interest of its depositors, as well as to maintain the 
+stability of the Portuguese financial system” (BOP 2014a, 1). 
+As of June 30, 2014, BES had total deposits of EUR 37.3 billion and loans /advances of EUR 
+45.9 billion. In July 2014, BES was experiencing significant deposit withdrawals by retail 
+customers and non-financial companies between EUR 1.0 and 1.9 billion. By the end of the 
+month, BES had reported EUR 3.6 billion in capital losses for the first half of 2014 (EC 2014b). 
+BES was forced to apply for an Emergency Liquidity Assistance (ELA) of EUR 3.5 billion on 
+August 1, 2014. The Governing Council of the ECB rejected BES ’s liquidity request on the 
+same day, suspended the bank’s monetary policy counterparty status, and asked the bank to 
+repay EUR 10 billion in credit by the close of August 4, 2014. The ECB’s decision to suspend 
+the counterparty status of BES forced the ban k to seek emergency liquidity assistance from 
+the BOP (BOP 2014a). 
+In August 2014, the Resolution Fund provided EUR 4.9 billion to Novo Banco in exchange for 
+common shares of the bank (EC 2014b). The Resolution Fund garnered the capital from a 
+loan of EUR 3.9 billion from the Portuguese state, a loan of EUR 700 million from eight 
+Portuguese banks, and EUR 365 million of prior contributions from the banking system 
+between 2013 and 2014 (Machado 2019). The BOP’s press release stated that the Resolution 
+Fund will be supported by the financial sector, and that the State would not bear any costs 
+related to this resolution (BOP 2014b). The board of directors of the BOP noted that state 
+funds would only be used for financing operations to the Resolution Fund, and n ot to 
+capitalize it. The BOP board was focused on the best solution for taxpayers, before 
+considering a compulsory capitalization or public recapitalization of the bank.  A public 
+recapitalization was declared unviable owing to the urgency of the default risk of BES and to 
+protect taxpayer funds from the inherent risks of the banking business (BOP 2014a).  
+Apart from the urgent public interest in ensuring financial stability, the BOP wanted to 
+ensure that the new bank would sever ties that led to the current adverse situations, have a 
+stable balance sheet, and be ready for sale to private investors (BOP 2014a). The first capital 
+injection took place on August 3, 2014, to capitalize Novo Banco, the good or bridge bank of 
+BES formed by the BOP’s resolution plan (BOP 2014b).  
+In 2017, Novo Banco and the Resolution Fund committed to a CCA, which required the 
+Resolution Fund to provide up to EUR 3.9 billion of a dditional capital injections  funded by 
+the Portuguese state (Resolution Fund 2014b). Between 2018 and 2021, the Resolution Fund 
+provided a total of EUR 3.4 billion in capital injections to Novo Banco (see Figure 4).  
+408
+Journal of Financial Crises Vol. 6 Iss. 3
+
+--- Page 15 ---
+2. Part of a Package:  The BOP’s actions fo r the restructuring of BES included the 
+creation of a bridge bank, transfer of select assets and liabilities, appointment of 
+independent valuation agents,  capital injection by the Resolution Fund,  and 
+preparing the bridge bank for sale to private investors.  
+Between 2014 and 2023, the BOP undertook several steps to ensure the viability of the 
+bridge bank ( Novo Banco) and the success of its restructuring plan. For details, see Gupta 
+(2024).  
+In November 2014, Governor Costa in a speech to the Parliament Committee of  Inquiry 
+stated that the “plan A” for BES involved immediate capitalization of the bank, with 
+preferable recourse to private investors. Governor Costa discussed that BOP had various  
+contingency or “plan B” scenarios in case that the private capitalization would not be feasible 
+in time. The BOP governor also negotiated with the ECB Governing Council on August 1, 
+2014, to delay the suspension of BES as a Eurosystem counterparty for three days until the 
+BOP could submit a resolution plan (Costa 2014b). 
+In December 2015, the BOP decided to retransfer liabilities related to non -subordinated 
+bonds of BES to the bad bank with a nominal value of EUR 2 billion. The BOP’s ability to 
+conduct this retransfer was deemed necessary to ensure that losses at BES were absorbed 
+by shareholders and subordinated debt holders, rather than the Resolution Fund (World 
+Bank Group 2016). Novo Banco had outstanding senior unsecured debt of EUR 5.4 billion at 
+the time, which created uncertainty among investors about the different treatment of 
+creditors in the same hierarchy of claims. Fourteen asset managers sued to recoup their bond 
+investments in Novo Banco citing discrimination and pointing out that Portuguese r etail 
+investors that held similar bonds did not bear losses (Hale and Arnold 2016). This move by 
+the BOP was also seen by journalists as a break in the pari passu clause, which created a 
+difference in treatment between bonds governed by Portuguese law and those by foreign 
+law (The FT View 2016). 
+3. Legal Authority:  The BOP used existing Portuguese laws under the RGICSF to 
+establish the Resolution Fund and present the resolution plan.  
+The BOP acted under Article 146(1) of the  Legal Framework of Credit Institutions and 
+Financial Companies (Regime Geral das Instituições de Crédito e Sociedades Financeiras , or 
+RGICSF) Decree-Law no. 298/92 of 31 December 1992  to impose resolution procedures on 
+BES. Article 153-B of the RGICSF was used to establish the Resolution Fund (BOP 2014a). 
+The Resolution Fund  was created in 2012 by Portuguese Decree -Law no. 31 -A/2012, with 
+the purpose of assisting the BOP’s resolution procedures . The loan to the Resolution Fund 
+was provided by the Portuguese law no. 83-C/2013 of 31 December (EC 2014b). In 2015, the 
+EC and BOP extended the maturity of the GGBBs provided to Novo Banco under Article 
+107(3)(b), Article 107(1) and Article 108(3) of the Treaty on the Functioning of Europe (EC 
+2015).  
+For more details on the resolution and restructuring of BES, see Gupta (2024). 
+409
+Portugal: Banco Espírito Santo Capital Injection Gupta and Brandon
+
+--- Page 16 ---
+4. Administration: The capital injection into Novo Banco was administered by 
+Portugal’s Resolution Authority. The board of directors of the BOP formulated the 
+restructuring plan for BES, including the formation of Novo Banco and the transfer 
+of assets.  
+The Bank of Portugal ’s Resolution Fund  administered the capital injection to Novo Banco  
+(BOP 2014b). The board of directors of the BOP  gathered at an extraordinary meeting to 
+formulate the resolution plan which presented the capital injection by the Resolution Fund.  
+The proceedings were convened under Article 103 (a) of the Administrative Procedures 
+Code (Código de Procedimento Administrativo) (BOP 2014a).  
+The BOP’s board presented steps in the resolution plan for the establishment of the new 
+bank, the development of its bylaws,  the development of a communication strategy for BES’s 
+existing clientele, the valuation and transfer of asset s between the resulting bad and good 
+bank, and the appointment of new board members and auditors for BES.  The board also 
+appointed PwC as the valuation agent for BES (BOP 2014a). 
+The Resolution Fund is independently financed and governed by its own steering committee, 
+but the Fund relies on the BOP’s technical and administrative infrastructure to operate. The 
+steering committee of the Fund consists of a president and general secretary, an individual 
+appointed by the Ministry of Finance and a staff member from the Bank of Portugal 
+appointed by its board of directors (Resolution Fund n.d.; Resolution Fund 2014a). 
+5. Governance: Novo Banco was to be managed by two boards appointed by the BOP 
+after recommendation from the Resolution Fund. The EC had the ability to appoint 
+a monitoring trustee to the Resolution Fund and received regular reports from the 
+Portuguese government. 
+The BOP was to appoint a board of directors and a board of auditors to oversee Novo Banco, 
+along with recommendations from the management committee of the Resolution Fund. The 
+board of auditors was to submit a report to the Resolution Fund and the BOP as per Article 
+17 of the Notice of Banco de Portugal No 13/2012.  Members of the two corporate bodies 
+were to remain in office for a period of two years,  extendable by one year in the event  of an 
+extension of the period to sell Novo Banco (BOP 2014a). 
+A general meeting was to be formed, which had the right to deliberate on a list of topics for 
+Novo Banco, including the distribution of profits. The board of auditors was required to meet 
+at least once every two months (BOP 2014a). 
+The Resolution Fund was initially cr eated to assist the BOP, as the nat ional regulation 
+authority, in the execution of resolution procedures. After the introduction of the S ingle 
+Resolution Mechanism (SRM) in August 2016, the Resolution Fund became responsible for 
+providing funding for financial measures that are outside of t he scope of the SRM. The 
+Resolution Board is expected to submit its annual accounts to Portugal’s Ministry of Finance 
+by March 31 every year (Resolution Fund n.d.). 
+410
+Journal of Financial Crises Vol. 6 Iss. 3
+
+--- Page 17 ---
+As per section 6.5 of the 2013 Banking Communication, the Portuguese government had to 
+file regular reports to the EC, including consulting the EC for the appointment of the 
+monitoring trustee by the Resolution Fund. Novo Banco was expected to have a strict 
+compensation policy, with total compensation of any employee not exceeding 15 times in the 
+first year, or 10 times in the second year, of the average salary of employees at bank (EC 
+2014b).  
+The resolution of BES by Portuguese authorities took place before the BRRD came into force; 
+hence the sale process of the Novo Banco was to be governed by Portuguese resolution laws 
+(EC 2017a).  
+6. Communication and Disclosure: The capital injection was communicated through 
+press releases, reports, and speeches by the governor of the BOP . BES’s capital 
+injections in 2020 and 2021 were subject to parliamentary criticism and caused 
+uncertainty in the banking system. The retransfer of senior bonds in 2015 
+received criticism in the financial press.  
+The BOP communicated the capital injection and resolution for BES through press releases, 
+annual report disclosures, governor speeches, financial stability reports, and EC State Aid 
+disclosures. In September 2014, Portugal’s prime minister Pedro Passos Coelho emphasized 
+that the sale of Novo Banco needs to be quick to keep risk mitigated, while ensuring the best 
+possible terms of sale (Reuters 2014c). 
+In a speech, BOP governor Costa confirmed that the resolution was to a ddress the rapidly 
+deteriorating financial position  of BES. The dual goal of the resolution was stated by the 
+governor as guaranteeing deposit protection and ensuring financial stability. Governor Costa 
+emphasized that the Resolution Fund’s financial resources did not come from state resources 
+but was funded from levies on the banking system and representing an integral part of the 
+European financial stability model (Costa 2014a). But, as reported in Key Design Decision 
+No. 9, Size and Sources of Funding, the Portuguese state provided a loan of EUR 3.9 billion to 
+the Resolution Fund in 2014 (Resolution Fund 2014b). In conclusion, Governor Costa noted 
+that “fraudulent funding schemes” such as those of the ES group are often difficult to detect 
+due to a group’s widespread activities in various jurisdictions.  The governor credits the 
+BOP’s ETRICC2 process  (involving horizontal review of credit portfolio impairment)  for 
+early detection of the problem at the ES group in September 2013, which allowed the BOP to 
+ring-fence some of the ES group’s assets.  Overall, Gov ernor Costa mentioned that 
+safeguarding taxpayers and public funds was core to the solution pursued by the BOP (Costa 
+2014a). 
+Additionally, the governor stated in the same speech that ESFG (the financial arm of the ES 
+group) had been “subject to unparallel ed balance sheet scrutiny” due to Portugal’s 
+participation in the Economic and Financial Assistance Program since mid-2010. Governor 
+Costa added that the BOP’s decisions with regards to the EFSG were to ensure public 
+confidence and maintain financial system stability (Costa 2014b). 
+411
+Portugal: Banco Espírito Santo Capital Injection Gupta and Brandon
+
+--- Page 18 ---
+As for learnings from the event, Governor Costa believes that the legal framework needs 
+improvement to allow BOP more powers to adequately monitor and supervise financial 
+institutions, along with the introduction of specific tools to tackle off-balance sheet troubled 
+assets, as in the case of BES (Costa 2014b). 
+BOP’s capital injection and resolution plan was not without controversy. As recently as 2022, 
+a local court in Portugal alleged that the public interest had no t been safeguarded by BOP 
+since Novo Banco could require an additional EUR 1.6 billion in capital injection (Donn 
+2022). In 2021, the Fitch rating agency commented that the Portuguese banking system 
+would benefit from clarity on the certainty and timing of a capital injection into Novo Banco 
+by the BOP (Fitch Ratings 2021). After Portuguese opposition parties blocked an additional 
+capital injection in 2020, the finance minister João Leão had to reaffirm to the media that 
+Portugal would continue to meet its obligations to Novo Banco (Goncalves 2020). 
+The BOP’s regulatory action of transferring EUR 2.2 billion of senior bonds from Novo Banco 
+to the bad bank in December 2015 created uproar among financial investors and 
+commentators, and later led to a lawsuit b y 14 asset managers (Hale and Arnold 2016) . 
+Commentators in the Financial Times referred to the Novo Banco Case as a “debacle” and 
+“saga”, while quoting Black Rock, which deemed the retransfer of senior bonds by the BOP 
+“unlawful” (Hale 2018a, 2; Hale 2018b, 1) . The Novo Banco case was referred to as a 
+precedent where the public interest clause was used to override contractual claims or legal 
+proceedings (Hale 2018a). This move also led to uncertainty in the senior unsecured debt 
+markets, as investors became concerned that this debt was also bail -in-able (see Figure 3) 
+(Hale 2016).  
+Figure 3: Senior Bond Prices of Novo Banco from December 2015 and March 2016 
+ 
+Source: Hale 2016. 
+412
+Journal of Financial Crises Vol. 6 Iss. 3
+
+--- Page 19 ---
+7. Treatment of Creditors and Equity Holders: All of BES’s equity and subordinated 
+debt holders bore losses as part of the resolution plan in 2014. BES’s senior bond 
+holders were ascribed losses of EUR 2.2 billion through the retransfer of assets in 
+December 2015. The EC concluded that the equity and subordinated debt holders 
+of BES absorbed total losses of  EUR 7 billion.  
+In the 2014 resolution, all equity and subordinated debt holders were subjected to losses, as 
+for any capitalization plan that  requires the use of public funds. All of BES’s subordinated 
+debt of EUR 902.5 million was termed as “excluded liabilities” and was to remain in the bad 
+bank to be written down.  All depositors were to continue a stable relationship with Novo 
+Banco and have access to all bank services (BOP 2014a). As of June 201 7, Novo Banco had 
+deposits of EUR 2 5.4 billion (EC 2017b). All the loss sharing rules have been derive d from 
+the EC’s 2013 Banking Communication (EC 2014a). 
+In 2015, the BOP imposed losses on some senior bondholders by retransferring EUR 2. 2 
+billion from Novo Banco to the bad bank  (BES 2016a). The EC stated in 2017 that imposing 
+greater losses on senior creditors to lower th e cost to the Resolution Fund was in line with 
+State Aid rules.  But the decision to impose losses on senior creditors was solely of the 
+Portuguese authorities. As per the EC, the shareholders and subordinated debt holders of 
+BES absorbed nearly EUR 7 billi on of losses (EC 2017a). See Figure 1 for a list of the major 
+shareholders of BES before the application of the resolution. 
+Novo Banco attempted to raise Tier -2 capital in 2018 for the first time since the resolution 
+at a minimum yield of 8.5%, which was 200 to 300 basis points higher than that for peers at 
+the time. This attempted capital raise by Novo Banco also comprised a controversial clause, 
+which allowed the bank to change the underlying governing law for the bonds without prior 
+approval from the issuer (Smith 2018). 
+8. Capital Characteristics:  The Resolution Fund provided EUR 4.9 billion of equity 
+capital to Novo Banco. 
+The Resolution Fund wholly owned the share capital of Novo Banco amounting to EUR 4.9 
+billion. The share capital of Novo Banco was represented by 4.9 billion shares with nominal 
+value of EUR 1 per share (BOP 2014a). Dividend and coupon payments by Novo Banco were 
+suspended (EC 2014b).  
+The Resolution Fund is the sole owner of the share capital of Novo Banco  in 2015 (Novo 
+Banco 2015). See Key Design Decision No. 5, Governance, for details.  
+9. Size and Source of Funding: The Resolution Fund provided EUR 4.9 billion to Novo 
+Banco in 2014 and committed to contingency capital of EUR 3.9 billion in 2017.  
+The Resolution Fund provided EUR 4.9 billion  of equity capital  to Novo Banco (EC 2014b). 
+The Resolution Fund was to receive  a EUR 4. 5 billion loan from the Portuguese state (EC 
+2014a). As per the Resolution Fund’s disclosures, the state provided only EUR 3.9 billion. A 
+group of Portuguese credit institutions —Caixa Geral de Depósitos ; Banco Comercial 
+Português; Banco BPI ; Banco Santander Totta ; Caixa Económica Montepio Geral ; Banco 
+413
+Portugal: Banco Espírito Santo Capital Injection Gupta and Brandon
+
+--- Page 20 ---
+Popular; Banco BIC Português; and Caixa Central do Crédito Agrícola Mútuo—provided EUR 
+700 million to the Resolution Fund (Resolution Fund 2014b). The Resolution Fund also had 
+EUR 365 million from previous contributions by the financial and banking sector (Resolution 
+Fund 2014b). 
+The conditions of the sale of Novo Banco in 2017 required the creation of a CCA, which 
+required the Resolution Fund to provide up to EUR 3.9 billion of additional capital injections 
+(Resolution Fund 2014b) . As per Figure 4, between 2018 and 2021, the Resolution Fund 
+provided a total of EUR 3.4 billion in several capital injections to Novo Banco in response to 
+capital shortfalls at the bank.  
+On June 16, 2014, BES raised EUR 1.1 billion via a public markets offering from the issuance 
+of 1.6 billion new common shares (BES 2015). This was not a part of the BOP’s resolution 
+plan.  
+10. Timing: The first major capital injection into Novo Banco took place immediately 
+after announcemen t in 2015. The second major capital injection , agreed to in 
+2017, was committed to Novo Banco over a period of five years. 
+The first capital in jection of EUR 4.9 billion into Novo Banco took place on August 3, 2014, 
+and was provided by the Resolution Fund all at once (Novo Banco 2015).  
+In 2017, Lone Star purchased 75% of Novo Banco and committed to infus e EUR 1 billion, 
+with EUR 750 million being committed immediately and EUR 250 million to be provided 
+within three years (Wise 2017).  
+The L one Star deal also comprised the Resolution Fund committing to a CCA of EUR 3. 9 
+billion to Novo Banco if capital ratios drop below specific thresholds (Fitch Ratings 2021). 
+This capital was committed to Novo Banco in five separate capital injections betwee n 2018 
+and 2021 amounting to a total of EUR 3.4 billion (see Figure 4). 
+11. Restructuring: The BOP utilized asset separation and sale of business strategies 
+to resolve BES and limit a disruption of the general banking activities of BES. The 
+bad bank was expected to be wound down and Novo Banco was expected to be sold 
+in a private auction.   
+The BOP created a bridge bank, Novo Banco, with select assets and liabilities of BES , which 
+received the first capital injection of EUR 4.9 billion from the Resolution Fund . A bad bank 
+was created with the impaired assets of BES  and was liquidated. The BOP utilized the bad 
+bank to ascribe losses of EUR 3.7 billion by equity holders and EUR 927 million by the 
+subordinated debt holders at the time of the resolution. Novo Banco was expected to be sold 
+in a private auction by December 31, 2016.  For details, see Gupta (2024). 
+414
+Journal of Financial Crises Vol. 6 Iss. 3
+
+--- Page 21 ---
+12. Treatment of Board and Management: The founder of BES was arrested for tax 
+evasion and money laundering. The BOP appointed a board of directors and board 
+of auditors to Novo Banco. 
+In July 2014, Ricardo Salgado, the head of BES for 23 years, was held in custody hearings in 
+relation to several alleged crimes, including tax evasion and money laundering (BBC 2014a). 
+BOP’s governor Carlos da Silva Costa stated in a speech on August 3, 2014, that the BOP was 
+conducting a forensic audit to determine if any illicit acts were committed by the 
+management of BES (Costa 2014a). In 2023, Portugal’s Competition Court consolidated all of 
+the fines imposed on Salgado to EUR 8 million, and the Supreme Court reduced his prison 
+sentence from eight years to six (Fernandes 2023; Graeme 2023). 
+For details on the resolution and restructuring of BES, see Gupta (2024). 
+13. Other Conditions: The bridge bank and the legacy bad bank were not allowed to 
+make any new acquisitions, could not provide dividend payments, had 
+compensation restrictions, and were to refrain from advertising the state’s 
+financial support.  
+Novo Banco was not allowed to price deposits at higher than market average rates, as 
+determined by the Statistical Department of the BOP, in line with Regulation (EC) 290/2009. 
+Similarly, Novo Banco could not pro vide loans at below market rates, both of which were 
+monitored on a monthly basis . The 2015 resolution amendment assigned performance 
+targets for Novo Banco in the reduction of cost base, full time employees, and bank branches. 
+Novo Banco was also restricted to only investing in investment grade or euro area sovereign 
+securities (EC 2015). 
+The CCA was signed between the Resolution Fund and Novo Banco in 2017  and came into 
+effect retroactively from June 30, 2016. A CCA payment required Novo Banco’s CET1 ratio to 
+drop below the range of 8 to 13%, assuming Lone Star had completed its EUR 1 billion capital 
+injection into Novo Banco. In 2017, Novo Banco had to commit to further shrink its full time 
+employees and bank branches if public funds were used in its recapitalization (EC 2017b).   
+The EC stressed the importance of Novo Banco providing loans at a pre-tax return on equity 
+(RoE) of less than 7  to 10% in 2018, 8  to 11% in 2019, and 9  to 12% in 2020. Such  
+restrictions were provided to ensure that State Aid is not used to promote distortive 
+behavior in the deposit markets (EC 2017b). 
+The EC discussed that Novo Banco or the bridge bank would be allowed to compete with 
+private market players, despite finding that the BOP’s measures were distorting competition 
+by providing capital to avoid insolvency.  Portugal had to commit to a n advertising ban (of 
+not referring to any state financial support) and a bank acquisition ban to the EC (EC 2014b). 
+415
+Portugal: Banco Espírito Santo Capital Injection Gupta and Brandon
+
+--- Page 22 ---
+14. Regulatory Relief : There was no additional regulatory relief provided  to Novo 
+Banco.  
+There was no other disclosed or identifiable regulatory relief provided to facilitate the 
+capital injection and restructuring of Novo Banco.  
+15. Exit Strategy:  Novo Banco was initially expected to be sold within two years by 
+2016. The sale deadline was extended by one year to 2017. Novo Banco received 
+several capital injections between 2017 and 2023.  
+As per the 2014 plan, the bridge bank or Novo Banco was to be sold by August 2016 and the 
+bad bank was to enter insolvency proceedings no later than December 31, 2016 (EC 2014b).  
+The BOP acknowledged missing the deadline for the sale for Novo Banco in September 2015 
+after talks with the lead bidders broke down , with rumors of a Chinese insurance company 
+and Apollo Global as the potential bidders. It was reported that Novo Banco had been unable 
+to secure a high auction price due to the parent BES’s history of unchecked lending to the ES 
+group. The BOP had separately accused Ricardo Salgado, BES’s former head, of 
+mismanagement and concealment of information on actual losses prior to debt sales to 
+investors (Minder 2015).  
+In January 2017, the Portuguese finance minister Mário Centeno stated that the government 
+was not prepared to provide a full state guarantee to the potential buyer (Bugge 2017). The 
+Portuguese prime minister Costa added in March that the cost to the state to nationalize 
+Novo Banco would be EUR 4.0 to 4.7 billion, including exposure to “limitless liabilities” in the 
+future (Wise 2017). 
+In March 2017, the BOP and Resolution Fund sold 75% of Novo Banco to Lone Star Capital, 
+thereby securing a capital injection of EUR 1 billion into the bank and completing the role of 
+the bridge bank prior to the August 2017 sale deadline. The deal between Lone Star and the 
+Resolution Fund also included a “liability management exercise” of senior unsecured 
+bondholders, which was expected to provide EUR 500 million of additional CET1 capital but 
+was later declared unsuccessful in October 2017. The Resolution Fund would continue to 
+hold 25% in Novo Banco (EC 2017b) . Novo Banco was also restricted from providing 
+dividends to Lone St ar for five years to ensure maximum capital to strengthen the bank’s 
+capital and viability (Wise 2017). 
+Novo Banco received EUR 3.4 billion of capital injections by the Resolution Fund between 
+2018 and 2021 to cover capital shortfalls related to its legacy  portfolio (see Figure 4). The 
+last capital injection was in December 2021. The restructuring of Novo Banco was 
+successfully completed in December 2022. In February 2023, the EC agreed with the 
+Portuguese authorities’ assessment that the resolution process  was over (Goncalves 2023). 
+The Portuguese ministry’s statement marke d the event as “an important stage in the 
+stabilization of the national financial system” (Goncalves 2023).  
+  
+416
+Journal of Financial Crises Vol. 6 Iss. 3
+
+--- Page 23 ---
+Figure 4: Contingency Capital Drawdown by the Resolution Fund 
+ 
+Sources: Arnold 2018; EC 2017b; Fitch Ratings 2021; Goncalves 2021a; Goncalves 2021b; Wise 2019. 
+Please see Figure 5 for the other capital injections into Novo Banco. 
+Figure 5: Additional Capital Injections into Novo Banco  
+Date Capital Injection  
+2017 Lone Star injects EUR 1 billion into Novo Banco in exchange for 75% equity ownership in the 
+bridge bank (EUR 750 million at transaction completion and EUR 250 million capital injection 
+within three years) 
+2017 As part of the deal with Lone Star, the Resolution Fund commits contingency capital of EUR 3.9 
+billion towards potential recapitalization of Novo Banco, if the bank’s capital ratios drop below 
+regulatory thresholds due to its EUR 7.9 billion portfolio of bad loans  
+2018 Resolution Fund injects EUR 792 million of previously committed capital into Novo Banco, after 
+the bridge bank reports a loss of EUR 1.4 billion, bringing cumulative losses of the bank to EUR 
+3.6 billion 
+2019 Resolution Fund injects EUR 1.2 billion into Novo Banco, after the bridge bank posts a loss of 
+EUR 1.4 billion 
+2020 Resolution Fund injects EUR 1.0 billion into Novo Banco 
+2020 Portuguese politicians reject a capital injection of EUR 476 million into Novo Banco as a part of 
+the country’s 2021 budget  
+2021 Resolution Fund injects EUR 317 million into Novo Banco in June 2021 to ensure the bank 
+maintains its regulatory capital ratios. This capital injection is financed by a EUR 475 million 
+loan to the Resolution Fund from a syndicate of seven Portuguese banks. Novo Bank report s its 
+first quarterly profit of EUR 70 million since the BOP’s resolution plan  
+2021 Resolution Fund injects EUR 106 million into Novo Banco in December 2021, after declaring in a 
+joint statement with PwC that the injection is legally appropriate   
+Source: Authors’ analysis.  
+As of November 2023, the Government of Portugal continues to hold a 25% stake i n Novo 
+Banco, including 13% held by the Resolution Fund and 12% held by the General Directorate 
+of Treasury and Finance (Direção-Geral do Tesouro e Finanças) (Novo Banco 2023c). 
+417
+Portugal: Banco Espírito Santo Capital Injection Gupta and Brandon
+
+--- Page 24 ---
+References and Key Program Documents 
+Implementation Documents 
+(BOP 2014a) Bank of Portugal (BOP). 2014a. “Extraordinary Meeting of the Board of 
+Directors of Banco de Portugal,” August 3, 2014. 
+Document disclosing minutes of a meeting by the board of BOP to set up Novo Banco and 
+appoint a new board of directors and auditors. 
+https://elischolar.library.yale.edu/ypfs-documents2/2152 
+Legal/Regulatory Guidance 
+(European Parliament and Council of the European Union 2014) European Parliament and 
+Council of the European Union. 2014. Directive 2014/59/EU Establishing Rules for the 
+Recovery and Resolution of Credit Institutions and Investment Firms. December 12, 2014. 
+Directive aimed to set out new rules to deal with troubled financial institutions, to avoid 
+bailouts that involve the use of taxpayers’ money in future cases of bank failure, and to 
+establish common EU rules for the recovery and restructuring of failing banks. 
+https://elischolar.library.yale.edu/ypfs-documents2/2972 
+Media Stories 
+(Arnold 2018) Arnold, Martin. 2018. “Portuguese Lender Novo Banco Slumps to a €1.4bn 
+Loss.” Financial Times, March 28, 2018. 
+Article providing an update on the financial health of Novo Banco. 
+https://elischolar.library.yale.edu/ypfs-documents2/2078 
+(BBC 2014a) BBC. 2014a. “Portugal’s Banco Espirito Ex-Boss Arrested.” July 24, 2014. 
+Article presenting the fate of the former management of BES. 
+https://elischolar.library.yale.edu/ypfs-documents2/2080 
+(BBC 2014b) BBC. 2014b. “Portugal Unveils Bank Rescue Plan.” August 4, 2014. 
+Article describing the rescue plan for BES presented by the Bank of Portugal. 
+https://elischolar.library.yale.edu/ypfs-documents2/2081 
+(Benedetti-Valentini 2014) Benedetti-Valentini, Fabio. 2014. “Credit Agricole Rises as 
+Banco Espirito Santo Risk Cut.” Bloomberg, August 5, 2014. 
+Article describing the positive market reaction to the reduction in risk for one of France’s 
+largest banks. 
+https://elischolar.library.yale.edu/ypfs-documents2/2106 
+(Bugge 2017) Bugge, Axel. 2017. “Lone Star Picked as Top Candidate to Buy Portugal’s 
+Novo Banco.” Reuters, January 5, 2017. 
+Article confirming the selection of a prospective buyer for Novo Banco. 
+https://elischolar.library.yale.edu/ypfs-documents2/2109 
+418
+Journal of Financial Crises Vol. 6 Iss. 3
+
+--- Page 25 ---
+(Donn 2022) Donn, Natasha. 2022. “Novo Banco: Government and Bank of Portugal ‘Did 
+Not Safeguard Public Interest.’” Portugal Resident, July 12, 2022. 
+Article presenting the view of a local court in Portugal on the rescue of BES. 
+https://elischolar.library.yale.edu/ypfs-documents2/2111 
+(Ewing and Bray 2014) Ewing, Jack, and Chad Bray. 2014. “Banco Espírito Santo to Be Split 
+Up in Rescue by Portugal.” New York Times, August 3, 2014. 
+Article describing the rescue of BES by the Bank of Portugal. 
+https://elischolar.library.yale.edu/ypfs-documents2/2117 
+(Fernandes 2023) Fernandes, Sheras. 2023. “Portugal’s Competition Court Consolidates 
+Fines of Eight Million Euros Imposed on Ricardo Salgado.” BNN Breaking, September 24, 
+2023. 
+Article detailing the fines imposed on the founder of BES. 
+https://elischolar.library.yale.edu/ypfs-documents2/2973 
+(Goncalves 2020) Goncalves, Sergio. 2020. “Portugal Will Not Renege on Novo Banco 
+Commitments: Finance Minister.” Reuters, November 27, 2020. 
+Article presenting a statement by the finance minister of Portugal on Novo Banco. 
+https://elischolar.library.yale.edu/ypfs-documents2/2118 
+(Goncalves 2021a) Goncalves, Sergio. 2021a. “Portugal’s Resolution Fund Pumps $386 Mln 
+into Novo Banco.” Reuters, June 5, 2021. 
+Article disclosing a capital injection into Novo Banco by the Portuguese Resolution Fund. 
+https://elischolar.library.yale.edu/ypfs-documents2/2119 
+(Goncalves 2021b) Goncalves, Sergio. 2021b. “Portugal’s Resolution Fund Injects $127 
+Million into Novo Banco.” Reuters, December 24, 2021. 
+Article disclosing a capital injection into Novo Banco by the Portuguese Resolution Fund. 
+https://elischolar.library.yale.edu/ypfs-documents2/2120 
+(Goncalves 2023) Goncalves, Sergio. 2023. “Portugal Closes Novo Banco’s Access to State 
+Funding after Restructuring – Ministry.” Reuters, February 13, 2023. 
+Article describing a regulatory action on Novo Bank after its restructuring. 
+https://elischolar.library.yale.edu/ypfs-documents2/2121 
+(Graeme 2023) Graeme, Christopher. 2023. “Supreme Court Accepts BES Banker’s Appeal.” 
+Essential Business, November 6, 2023. 
+Article discussing the reduction in prison sentence for the founder of BES. 
+https://elischolar.library.yale.edu/ypfs-documents2/2976 
+(Hale 2016) Hale, Thomas. 2016. “European Banks: New Rules, Old Problems.” Financial 
+Times, March 30, 2016. 
+Article discussing the fate of European banks after new rules adopted by regulatory bodies. 
+https://elischolar.library.yale.edu/ypfs-documents2/2122 
+419
+Portugal: Banco Espírito Santo Capital Injection Gupta and Brandon
+
+--- Page 26 ---
+(Hale 2018a) Hale, Thomas. 2018a. “The Novo Banco Debacle and the Rule of Law in 
+Europe.” Financial Times, January 19, 2018. 
+Article evaluating the various decisions taken by the resolution of BES by the Portuguese 
+authorities. 
+https://elischolar.library.yale.edu/ypfs-documents2/2977 
+(Hale 2018b) Hale, Thomas. 2018b. “The Novo Banco Saga Continues.” Financial Times, 
+June 28, 2018. 
+Article providing an update on the controversies of Novo Banco’s resolution plan. 
+https://elischolar.library.yale.edu/ypfs-documents2/2123 
+(Hale and Arnold 2016) Hale, Thomas, and Martin Arnold. 2016. “Fourteen Asset Managers 
+Sue Portuguese Central Bank.” Financial Times, April 4, 2016. 
+Article presenting the legal case following a move by the BOP. 
+https://elischolar.library.yale.edu/ypfs-documents2/2124 
+(Kowsmann 2014a) Kowsmann, Patricia. 2014a. “Audit Cites Problems at Portugal’s 
+Espírito Santo International.” Wall Street Journal, May 21, 2014. 
+Article describing the financial interlinkages between BES and the ES group as per a recent 
+audit. 
+https://elischolar.library.yale.edu/ypfs-documents2/2190 
+(Kowsmann 2014b) Kowsmann, Patricia. 2014b. “Bank of Portugal Unveils Plan to Rescue 
+Banco Espírito Santo.” Wall Street Journal, August 3, 2014. 
+Article describing the rescue plan for BES presented by the Bank of Portugal. 
+https://elischolar.library.yale.edu/ypfs-documents2/2125 
+(Kowsmann and Patrick 2014) Kowsmann, Patricia, and Margot Patrick. 2014. “Apollo 
+Among Firms Circling Portugal’s Novo Banco.” Wall Street Journal, December 29, 2014. 
+Article describing the potential acquirers for Novo Banco. 
+https://elischolar.library.yale.edu/ypfs-documents2/2979 
+(Minder 2014a) Minder, Raphael. 2014a. “In Portugal, Ex-Chief of Bank Is Arrested.” New 
+York Times, July 24, 2014. 
+Article describing the arrest of the head of BES after the bank’s collapse. 
+https://elischolar.library.yale.edu/ypfs-documents2/2982 
+(Minder 2014b) Minder, Raphael. 2014b. “Banco Espírito Santo Posts $4.8 Billion Loss.” 
+New York Times, July 30, 2014. 
+Article notifying of the large capital shortfall at BES. 
+https://elischolar.library.yale.edu/ypfs-documents2/2126 
+(Minder 2015) Minder, Raphael. 2015. “Portugal, Missing Deadline for Novo Banco Sale, 
+Turns to Second Bidder.” New York Times, September 1, 2015. 
+Article providing an update to the sale process for Novo Banco. 
+https://elischolar.library.yale.edu/ypfs-documents2/2127 
+420
+Journal of Financial Crises Vol. 6 Iss. 3
+
+--- Page 27 ---
+(Reis and Almeida 2015) Reis, Anabela, and Henrique Almeida. 2015. “Portugal Imposes 
+Losses on Some Novo Banco Senior Bonds.” Bloomberg, December 30, 2015. 
+Article describing a decision by Portuguese regulators to address the capital shortfall at Novo 
+Banco. 
+https://elischolar.library.yale.edu/ypfs-documents2/2076 
+(Reuters 2014a) Reuters. 2014a. “BES Chief Executive Says Family Lost Control of Bank,” 
+June 11, 2014. 
+Article describing the alleged mismanagement of BES by its founders. 
+https://elischolar.library.yale.edu/ypfs-documents2/2144 
+(Reuters 2014b) Reuters. 2014b. “Credit Agricole Takes $950M Espirito Santo Hit.” CNBC, 
+August 5, 2014. 
+Article describing the financial loss at one of France’s largest banks due to BES. 
+https://elischolar.library.yale.edu/ypfs-documents2/2145 
+(Reuters 2014c) Reuters. 2014c. “Portugal PM Says Novo Banco Sale Has to Be Quick as 
+Risks Grow,” September 15, 2014. 
+Article quoting the prime minister of Portugal on the sale process of Novo Banco. 
+https://elischolar.library.yale.edu/ypfs-documents2/2146 
+(Reuters 2023) Reuters. 2023. “Portugal’s Novo Banco to Be IPO-Ready in 2024, CEO Says,” 
+November 2, 2023. 
+Article discussing the plans to launch an IPO for Novo Banco in 2024. 
+https://elischolar.library.yale.edu/ypfs-documents2/2987 
+(Smith 2018) Smith, Robert. 2018. “Novo Banco Bond Sale Clouded by Hedge Fund 
+Challenge.” Financial Times, June 27, 2018. 
+Article describing the challenges in raising capital for Novo Banco after haircutting senior 
+bondholders. 
+https://elischolar.library.yale.edu/ypfs-documents2/2988 
+(The FT View 2016) The FT View. 2016. “Bad Luck for Backers of Portugal’s ‘Good Bank.’” 
+Financial Times, January 10, 2016. 
+Article presenting the investor concerns over various resolution mechanisms across Europe. 
+https://elischolar.library.yale.edu/ypfs-documents2/2148 
+(Wise 2017) Wise, Peter. 2017. “Lone Star Acquires 75% of Portugal’s Novo Banco.” 
+Financial Times, March 31, 2017. 
+Article describing the purchase of a majority of Novo Banco by a US private equity fund. 
+https://elischolar.library.yale.edu/ypfs-documents2/2150 
+(Wise 2019) Wise, Peter. 2019. “Portugal’s Novo Banco to Receive New Capital Injection 
+after Posting €1.4bn Loss.” Financial Times, March 1, 2019. 
+Article providing an update on the financial health of Novo Banco. 
+https://elischolar.library.yale.edu/ypfs-documents2/2151 
+421
+Portugal: Banco Espírito Santo Capital Injection Gupta and Brandon
+
+--- Page 28 ---
+(Wise 2020) Wise, Peter. 2020. “Prosecutors Accuse Ex-Chief over Collapse of Banco 
+Espírito Santo.” Financial Times, July 15, 2020. 
+Article describing the allegations against the founder of BES by the Portuguese authorities. 
+https://elischolar.library.yale.edu/ypfs-documents2/2990 
+Press Releases/Announcements 
+(BES 2014a) Banco Espírito Santo (BES). 2014a. “Banco Espírito Santo, S.A. Informs on 
+Exposures to Espírito Santo Group.” Press release, July 10, 2014. 
+Disclosure presenting the full extent of exposure of BES to the ES group. 
+https://elischolar.library.yale.edu/ypfs-documents2/2962 
+(BES 2016a) Banco Espírito Santo (BES). 2016a. “Communication relating to BES’s 
+Financial Statements as of December 31, 2015.” Press release, May 23, 2016. 
+Press release disclosing the updated financials for BES for the full year 2015 (in Portuguese). 
+https://elischolar.library.yale.edu/ypfs-documents2/2965 
+(BES 2016b) Banco Espírito Santo (BES). 2016b. “Liquidation Committee Message.” 
+Announcement, July 28, 2016. 
+Announcement disclosing the winding up of the bad bank BES. 
+https://elischolar.library.yale.edu/ypfs-documents2/2966 
+(BOP 2014b) Bank of Portugal (BOP). 2014b. “Press Release of Banco de Portugal on the 
+Application of a Resolution Measure to Banco Espírito Santo, S.A.” Press release, August 3, 
+2014. 
+Document disclosing the initiation of a resolution procedure for Banco Espírito Santo by the 
+Bank of Portugal. 
+https://elischolar.library.yale.edu/ypfs-documents2/2153 
+(BOP 2015a) Bank of Portugal (BOP). 2015a. “Press Release of Banco de Portugal on the 
+Novo Banco Sale Process.” Press release, September 15, 2015. 
+Notice providing an updated decision by the BOP to pause and extend the sale timeline for 
+Novo Banco. 
+https://elischolar.library.yale.edu/ypfs-documents2/2968 
+(BOP 2015b) Bank of Portugal (BOP). 2015b. “Press Release of Banco de Portugal on the 
+Results of Novo Banco in the Stress Test of the Comprehensive Assessment Conducted by 
+the Single Supervisory Mechanism/European Central Bank.” Press release, November 14, 
+2015. 
+Notice disclosing the findings of the ECB’s stress test of Novo Banco. 
+https://elischolar.library.yale.edu/ypfs-documents2/2969 
+(BOP 2015c) Bank of Portugal (BOP). 2015c. “Comunicado do Banco de Portugal sobre 
+acordo alcançado com a Comissão Europeia relativo ao Novo Banco.” Press release, 
+December 21, 2015. 
+Report confirming the end of the ECB’s stress test of Novo Banco (in Portuguese). 
+https://elischolar.library.yale.edu/ypfs-documents2/2967 
+422
+Journal of Financial Crises Vol. 6 Iss. 3
+
+--- Page 29 ---
+(BOP 2023) Bank of Portugal (BOP). 2023. “Conclusão do processo de reestruturação do 
+Novo Banco.” Press release, February 13, 2023. 
+Report disclosing the end of the restructuring of Novo Banco (in Portuguese). 
+https://elischolar.library.yale.edu/ypfs-documents2/2970 
+(Costa 2014a) Costa, Carlos da Silva. 2014a. “The Application of a Resolution Measure to 
+Banco Espírito Santo.” Speech, August 3, 2014. 
+Transcript of a speech made in Lisbon by the Bank of Portugal’s governor about the resolution 
+procedures applied to BES. 
+https://elischolar.library.yale.edu/ypfs-documents2/2157 
+(Costa 2014b) Costa, Carlos da Silva. 2014b. “Address to the Banco Espírito Santo and 
+Grupo Banco Espírito Santo Parliamentary Inquiry.” Speech, November 17, 2014. 
+Transcript of a speech given by the Bank of Portugal’s governor to an inquiry committee 
+about BES. 
+https://elischolar.library.yale.edu/ypfs-documents2/2166 
+(EC 2014a) European Commission (EC). 2014a. “State Aid: Commission Approves 
+Resolution Aid for Portuguese Banco Espírito Santo.” Press release, August 4, 2014. 
+Document providing the European Commission’s approval of the Bank of Portugal’s resolution 
+plan for BES. 
+https://elischolar.library.yale.edu/ypfs-documents2/2171 
+(GOP 2023) Government of Portugal (GOP). 2023. “Plano de reestruturação do Novo Banco 
+concluído.” Press release, February 13, 2023. 
+Document disclosing the end of the restructuring of Novo Banco (in Portuguese). 
+https://elischolar.library.yale.edu/ypfs-documents2/2975 
+(Lopes 2022) Lopes, João Pimenta. 2022. “Management of Novo Banco by Lone Star, Bank 
+Recovery and Resolution Criteria and Capital Requirements.” Parliamentary question E-
+002289/2022, June 27, 2022. 
+Note disclosing a question posed in the European Parliament on the resolution of Novo Banco. 
+https://elischolar.library.yale.edu/ypfs-documents2/2980 
+(Novo Banco 2023a) Novo Banco. 2023a. “Novo Banco, S.A. Informs about Multi-Notch 
+Rating Upgrade by DBRS Morningstar.” Announcement, December 13, 2023. 
+Report disclosing the ratings upgrade for Novo Banco. 
+https://elischolar.library.yale.edu/ypfs-documents2/2986 
+(PCP 2022) Portuguese Communist Party (PCP). 2022. “The Court of Auditors’ Audit Report 
+on the Management of Novo Banco Confirms Options That Are Harming the Country in 
+Billions of Euros,” July 12, 2022. 
+Report presenting a criticism of Novo Banco’s restructuring by an opposition political party. 
+https://elischolar.library.yale.edu/ypfs-documents2/3643/ 
+  
+423
+Portugal: Banco Espírito Santo Capital Injection Gupta and Brandon
+
+--- Page 30 ---
+(Resolution Fund n.d.) Resolution Fund. n.d. “Mission and Functions.” Accessed October 5, 
+2023. 
+Webpage providing an overview of a national resolution authority created by the Bank of 
+Portugal (in Portuguese). 
+https://elischolar.library.yale.edu/ypfs-documents2/2193 
+(Resolution Fund 2014a) Resolution Fund. 2014a. “Organic and Functioning.” 2014. 
+Accessed October 5, 2023. 
+Webpage providing an overview of a national resolution authority created by the Bank of 
+Portugal (in Portuguese). 
+https://elischolar.library.yale.edu/ypfs-documents2/2739/ 
+(Vestager 2022) Vestager, Margrethe. 2022. “Answer given by Executive Vice-President 
+Vestager on Behalf of the European Commission.” Parliamentary question E-
+002289/2022(ASW), August 4, 2022. 
+Note presenting the written response by a member of the EC to a question posed in the 
+European Parliament. 
+https://elischolar.library.yale.edu/ypfs-documents2/2989 
+Reports/Assessments 
+(BES 2014b) Banco Espírito Santo (BES). 2014b. Annual Report 2013. 
+BES annual report for the year 2013. 
+https://elischolar.library.yale.edu/ypfs-documents2/2961 
+(BES 2015) Banco Espírito Santo (BES). 2015. Annual Report 2014. 
+BES annual report for the year 2014. 
+https://elischolar.library.yale.edu/ypfs-documents2/2963 
+(BES 2016c) Banco Espírito Santo (BES). 2016c. Annual Report 2015. 
+BES annual report for the year 2015. 
+https://elischolar.library.yale.edu/ypfs-documents2/2964 
+(EC 2014b) European Commission (EC). 2014b. “State Aid N° SA.39250 (2014/N) – 
+Portugal, Resolution of Banco Espírito Santo, S.A.,” August 3, 2014. 
+Document detailing the resolution mechanism drafted by the Bank of Portugal for BES. 
+https://elischolar.library.yale.edu/ypfs-documents2/2167 
+(EC 2015) European Commission (EC). 2015. “State Aid N° SA.43976 (2015/N) – Portugal 
+Amendment of the 2014 Resolution of Banco Espírito Santo, S.A.,” December 19, 2015. 
+Document discussing the EC’s view on the amendment to the 2014 rescue plan for BES. 
+https://elischolar.library.yale.edu/ypfs-documents/1608/ 
+  
+424
+Journal of Financial Crises Vol. 6 Iss. 3
+
+--- Page 31 ---
+(EC 2017a) European Commission (EC). 2017a. “State Aid: Commission Approves 
+Portuguese Restructuring Plan and Support for Sale of Novo Banco, Completing 2014 
+Resolution of Banco Espírito Santo.” Press release, October 11, 2017. 
+Document providing the European Commission’s approval of the resolution plan for Novo 
+Banco. 
+https://elischolar.library.yale.edu/ypfs-documents2/2172 
+(EC 2017b) European Commission (EC). 2017b. “State Aid N° SA.49275 (2017/N) – 
+Portugal Sale of Novo Banco with Additional Aid in the in the [sic] Context of the 2014 
+Resolution of Banco Espírito Santo, S.A.,” October 11, 2017. 
+Document providing the European Commission’s approval of the resolution plan for Novo 
+Banco. 
+https://elischolar.library.yale.edu/ypfs-documents2/2113 
+(Fitch Ratings 2015) Fitch Ratings. 2015. “Delayed Novo Banco Sale Unfavourable for 
+Portuguese Banks.” Fitch Wire, September 30, 2015. 
+Document providing an updated view by a leading ratings agency on the plan to delay the 
+sale timeline for Novo Banco. 
+https://elischolar.library.yale.edu/ypfs-documents2/2974 
+(Fitch Ratings 2021) Fitch Ratings. 2021. “Clarity on Novo Banco Capital Injections Could 
+Help Portuguese Banks.” Fitch Wire, January 7, 2021. 
+Notice providing an update by the credit ratings agency Fitch on Novo Banco. 
+https://elischolar.library.yale.edu/ypfs-documents2/2174 
+(Machado 2019) Machado, Pedro. 2019. “The Portuguese Experience on Banking 
+Resolution – Challenges and Lessons Learned.” Speech, October 9, 2019. 
+Report discussing the resolution of BES in 2014 by the Bank of Portugal’s Chief Legal Counsel. 
+https://elischolar.library.yale.edu/ypfs-documents2/2168 
+(Novo Banco 2015) Novo Banco. 2015. Annual Report 2014. 
+Novo Banco annual report for the year 2014. 
+https://elischolar.library.yale.edu/ypfs-documents2/2983 
+(Novo Banco 2023b) Novo Banco. 2023b. Annual Report 2022. 
+Novo Banco annual report for the year 2022. 
+https://elischolar.library.yale.edu/ypfs-documents2/2984 
+(Novo Banco 2023c) Novo Banco. 2023c. “Investor Presentation.” November 2023. 
+Presentation providing a financial and operations update to investors. 
+https://elischolar.library.yale.edu/ypfs-documents2/2985 
+(Resolution Fund 2014b) Resolution Fund. 2014b. “Financing of Resolution Measures.” 
+2014. 
+Document describing the various financing contributions to Portugal’s Resolution Fund in 
+2014 (in Portuguese). 
+https://elischolar.library.yale.edu/ypfs-documents2/2170 
+425
+Portugal: Banco Espírito Santo Capital Injection Gupta and Brandon
+
+--- Page 32 ---
+Key Academic Papers 
+(Albuquerque and Branco 2016) Albuquerque, Mariana Solá de, and Luís Branco. 2016. 
+“Resolving Banco Espírito Santo: An Overview of the Application of Recovery and 
+Resolution Measures in Portugal.” Journal of International Banking Law and Regulation, 31, 
+no. 10, 2016: 534–541. 
+Study assessing the implementation of the BRRD in Portugal. 
+https://elischolar.library.yale.edu/ypfs-documents2/2177 
+(Gupta 2024) Gupta, Salil. 2024. “Portugal: Banco Espirito Sancto Restructuring, 2014.” 
+Journal of Financial Crises 6, no: 1:436-485. 
+YPFS case study examining the restructuring of Banco Espírito Santo by the Bank of Portugal. 
+https://elischolar.library.yale.edu/journal-of-financial-crises/vol6/iss1/16 
+(IMF 2015) International Monetary Fund (IMF). 2015. “Portugal: First Post-Program 
+Monitoring Discussions.” IMF Country Report No. 15/21, January 2015. 
+Report summarizing the IMF staff’s discussions on the economic and banking system of 
+Portugal. 
+https://elischolar.library.yale.edu/ypfs-documents2/2978 
+(Orrick 2014) Orrick. 2014. “The Nationalisation of Banco Espirito Santo – The Aftermath,” 
+August 11, 2014. 
+Note studying the resolution of BES in context of National and European laws. 
+https://elischolar.library.yale.edu/ypfs-documents2/2184 
+(Rhee, Hoffner,  et al. 2024) Rhee, June, Benjamin Hoffner, Greg Feldberg, and Andrew 
+Metrick. “Survey of Ad Hoc Capital Injections.” Journal of Financial Crises 6, no. 3.  
+Survey of YPFS case studies examining ad hoc capital injections.   
+https://elischolar.library.yale.edu/journal-of-financial-crises/vol6/iss3/1/   
+(Rhee, Oguri,  et al. 2022) Rhee, June, Junko Oguri, Greg Feldberg, and Andrew Metrick. 
+“Broad-Based Capital Injection Programs.” Journal of Financial Crises 4, no. 1: 1-48.  
+Survey of YPFS case studies examining broad-based capital injection programs.  
+https://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss1/1 
+(World Bank Group 2016) World Bank Group. 2016. “Bank Resolution and ‘Bail-In’ in the 
+EU: Selected Case Studies Pre and Post BRRD.” 2016. 
+Study presenting an assessment of the bail-in tool across European resolutions. 
+https://elischolar.library.yale.edu/ypfs-documents2/1568 
+ 
+Copyright 2024 © Yale University. All rights reserved. To order copies of this material or to receive 
+permission to reprint any or all of this document, please contact the Yale Program on Financial 
+Stability at ypfs@yale.edu. 
+426
+Journal of Financial Crises Vol. 6 Iss. 3

@@ -1,0 +1,246 @@
+--- Page 1 ---
+Journal of Financial Crises Journal of Financial Crises 
+Volume 4 Issue 2 
+2022 
+Lessons Learned: Mark Van Der Weide Lessons Learned: Mark Van Der Weide 
+Matthew A. Lieber 
+Yale School of Management 
+Follow this and additional works at: https://elischolar.library.yale.edu/journal-of-financial-crises 
+ Part of the Economic Policy Commons, Finance and Financial Management Commons, 
+Macroeconomics Commons, Policy Design, Analysis, and Evaluation Commons, Policy History, Theory, 
+and Methods Commons, and the Public Administration Commons 
+Recommended Citation Recommended Citation 
+Lieber, Matthew A. (2022) "Lessons Learned: Mark Van Der Weide," Journal of Financial Crises: Vol. 4 : Iss. 
+2, 2036-2041. 
+DOI: https://doi.org/10.17132/2693-3179.1382 
+Available at: https://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss2/93 
+This Lessons Learned is brought to you for free and open access by the Journal of Financial Crises and 
+EliScholar – A Digital Platform for Scholarly Publishing at Yale. For more information, please contact 
+journalfinancialcrises@yale.edu.
+
+--- Page 2 ---
+READERS TAKE NOTICE: READERS TAKE NOTICE: 
+As of April 2024, the YPFS Resource Library’s site domain has changed 
+to https://elischolar.library.yale.edu/ypfs-financial-crisis-resource-library/. 
+Please be aware that upon clicking any of the URL references to 
+the former Resource Library domains, either https://ypfs.som.yale.edu 
+or https://ypfsresourcelibrary.blob.core.windows.net/, in the 
+"References/Key Program Documents" section of a case study, 
+readers will encounter a "page not found" error. readers will encounter a "page not found" error. 
+Readers can still retrieve a given resource cited within this case study 
+on the new site  by searching by searching here  for the title cited. for the title cited. 
+This lessons learned is available in Journal of Financial Crises: https://elischolar.library.yale.edu/journal-of-financial-
+crises/vol4/iss2/93
+
+--- Page 3 ---
+Yale Program on Financial Stability 
+Lessons Learned 
+Mark Van Der Weide 
+By Matthew A. Lieber 
+With more than two decades of continuing service at the Federal Reserve Board, Mark Van Der 
+Weide brings a unique insider perspective on central bank policymaking before, during, and 
+after the Global Financial Crisis (GFC), including the Fed’s response to the COVID-19 pandemic 
+in 2020. From 1998 to 2009, Van Der Weide served in the Fed’s legal division. Detailed to the 
+Treasury Department in 2009, he helped draft the Dodd -Frank Wall Street Reform and Con-
+sumer Protection Act of 2010. Back at the Fed in 2010, Van Der Weide served for eight years in 
+the Division of Supervision and Regulation, where he was made deputy director, helping to im-
+plement the Dodd-Frank Act and the Basel III accord, among other policies. The Board of Gov-
+ernors appointed him general counsel in 2017. This “Lessons Learned” is based on an interview 
+with Mr. Van Der Weide in September 2020.  
+Act fast—and with overwhelming force—to stop bank runs and asset fire sales. 
+Financial leaders at the Federal Reserve and the US Department of the Trea sury learned a 
+clear set of lessons from the crisis of 2007–09, according to Van Der Weide. As he put it: 
+Number one: act fast, don’t dilly dally. When you see a financial system heading to-
+ward the abyss, do something about it rapidly; don’t waste time try ing to figure out 
+what the perfect solution is. Just start acting to quell the panic. 
+Second and related, you need to act with overwhelming force using your full arsenal 
+of tools.  
+[And third,] a prime directive in a time of financial instability is that t he central bank 
+needs to stop runs and fire sales of assets. That’s the thing that can really collapse 
+your economy. 
+The emphasis on an immediate and forceful crisis response, Van Der Weide indicated, has 
+been internalized equally by both newcomers and the  remaining veteran Fed staff who 
+served in 2007–08. He shared that he felt that Fed’s response in 2020 to the COVID-19 crisis 
+reflected operationalization of the lessons learned: 
+I would say at a high level that the Fed’s response to the COVID crisis of 2020 has been 
+good. We learned the lessons of 2008 quite well, lessons we talked about before—the 
+need to act fast, to act with power, to stop the runs, and to be creative in responding 
+to the unfolding events. We’ve used every tool that we had, and I think we’ve been 
+quite successful in preventing the financial markets from dislocating. [ . . . ] One of my 
+takeaways from the COVID event of 2020 is that at least for this particular financial 
+crisis, the government’s toolkit worked quite well. 
+2036
+
+--- Page 4 ---
+By contrast, in 2007–08, the Federal Reserve’s response to the crisis was more drawn out, 
+for several reasons. Market events occurred in at least three waves : with mortgage market 
+tremors in 2007, the failure of Bear Stearns in March 2008, and spiking with the September 
+2008 respective collapse and near -collapse of Lehman Brothers and AIG, which pushed the 
+financial system to the edge. Along the way, the Fed and the Treasury sought to contain the 
+damage and insulate the broader economy from the mounting financial problems, interven-
+ing in commercial paper and repo financing markets, and attempting to resolve failing insti-
+tutions.  
+In hindsight, one can see that earlier interventions by the Fed and the Treasury could have 
+reduced the spread and damage of the financial crisis.  The novel forms of the challenges 
+called for extraordinary actions that were hard for these institutions to take at all, let alone 
+rapidly and smoothly: to study precedents and craft interventions that would be feasible, 
+efficacious, and legal—and then to line up the pieces and roll them out.  
+A major difficulty for the Fed was that its supervisory authority did not extend to many of 
+the institutions where the problems were emerging. As Van Der Weide explained:  
+A lot of the most tumultuous events of the f inancial crisis of 2008 occurred outside 
+the banking system that [the Fed regulated]—Bear Stearns, Lehman Brothers, Merrill 
+Lynch, Morgan Stanley, Goldman Sachs, AIG—all of these were companies that we did 
+not regulate and that we did not supervise; we did  not have perfect visibility into 
+those organizations. 
+As a result, continued Van Der Weide, 
+. . . At many distress points in the crisis —Bear Stearns, for example, and AIG, for ex-
+ample—we got very little notice of the deep nature of the problems at those f irms. 
+Days, not weeks, for Bear Stearns and AIG. 
+Another challenge Van Der Weide related was addressing markets that the Fed had not tra-
+ditionally regulated. For example, with commercial paper markets freezing up in October 
+2008, Fed leaders recognized a clear and present danger to the financial system. They had to 
+respond, but they had a basic legal issue. Section 13(3) of the Federal Reserve Act makes 
+clear that the Fed is to act as a liquidity provider and not a credit risk taker. This constraint 
+had just prevented the Fed from rescuing Lehman Brothers. Van Der Weide described his 
+due diligence to scrutinize the Fed’s emergency legal authorities in Section 13(3) which had 
+not been invoked since the 1930s: 
+I personally spent quite a bit of time in late 200 7, early 2008, in the Federal Reserve 
+Board legal division’s library, poring through all the different precedents that we had 
+on 13(3). There weren’t a whole lot, but we became expert on that pretty quickly as 
+we saw the strains increasing.  
+The Commercial Paper Funding Facility, which Van Der Weide considers the riskiest of the 
+facilities the Fed did in 2007 -08, successfully reintroduced liquidity to commercial paper 
+2037
+Journal of Financial Crises Vol. 4 Iss. 2
+
+--- Page 5 ---
+markets, using a novel design and narrow eligibility to ensure that the Fed’s exposure was  
+adequately secured.  
+Under-regulated pre-crisis, the banking system is sounder today thanks to updated 
+capital and liquidity standards.  
+Addressing crisis prevention, Van Der Weide shared a basic takeaway from the 2007–09 cri-
+sis: “We had woefully underreg ulated the global banking system.” Before the GFC, the Fed 
+and other bank regulators in the United States, as well as central banks around the world, 
+had not regulated the banking system as strongly as they should have, he said. This was a 
+contributing factor to the GFC. The crisis revealed some particular vulnerabilities across the 
+banking system, Van Der Weide explained, namely that banks did not have enough capital 
+and that they had too much liquidity risk.  
+To rectify these flaws, US bank regulators engaged with their global counterparts at the Basel 
+Committee in Switzerland to harmonize domestic reforms. Like many of the world’s major 
+economies, and under the Fed’s direction , the US implemented the Basel III accord, which 
+significantly strengthened the capital requirements for banks and implemented new liquid-
+ity requirements. The Basel reforms have “made banks tremendously safer,” Van Der Weide 
+explained, noting that “the combination of much higher capital requirements and decently 
+strict liquidity requirements has left the global banking system and the US banking system a 
+lot stronger.” According to Van Der Weide, estimating conservatively, “we tripled the 
+strength of bank capital requirements versus pre-crisis.”  
+Regarding liquidity levels, there previously had been much more limited regulations. Indeed, 
+the 2008 crisis stemmed in large part from banks holding long-term mortgage securities that 
+they funded excessively with short-term liabilities. The Basel Committee’s standards require 
+banks reliant on short-term funding to hold very liquid assets on their balance sheets. 
+Crisis-borne capabilities and greater political support boosted the Fed’s 2020 crisis 
+response. 
+Empowered by new lessons and post-crisis tools, the Fed responded much more rapidly and 
+effectively to the pandemic  crisis of March 2020. Van Der Weide considered the COVID -19 
+response “a validation of the strength of government’s toolkit to deal with crises.” 
+Within weeks, the Fed rolled out emergency lending programs that had ta ken a year to de-
+ploy in the GFC . Among others, updated versions of the Primary Dealer Credit Facility 
+(PDCF), the money market mutual fund facility, and the Commercial Paper Funding Facility 
+(CPFF) kept the short-term funding markets operating.  
+Having already built them once and having kept them on the shelf relatively fresh 
+over the last 12 years, we were able to launch all of our short -term funding market 
+facilities very quickly in 2020. We were at least able to announce them very quickly. 
+2038
+Lessons Learned: Mark Van Der Weide Lieber
+
+--- Page 6 ---
+In addition, the Fed was able to tweak the programs to expand their impact thanks to greater 
+congressional support for the interventions. Van Der Weide noted, “in the CARES Act that 
+they passed, they gave Treasury a very large sum of money to make investments in Fed emer-
+gency lending programs. So, they positively promoted the establishment of our programs.” 
+This contrasted greatly with 2008, when according to Van Der Weide, the relationship “was 
+a little more difficult and a little more hostile.” 
+The Fed’s crisis response in 2020 also saw even tighter coordination with the Treasury De-
+partment because the Dodd-Frank Act required Treasury to formally pre -approve any Fed 
+13(3) emergency lending facility. The Fed also did more facilities with Treasury funding in  
+2020 than it did in the GFC. The Treasury’s first-loss position supported the Fed’s risk taking 
+on these programs, which enabled them to be broader than they might have been without it. 
+For example, the Fed expanded the CPFF to include a wider set of asse ts. Overall, the speed 
+and scale of the Fed’s 2020 crisis response, in Van Der Weide’s view “was quite critical to 
+restoring confidence.” 
+There is more work to be done on the shadow banking system. 
+While generally emphasizing the increased soundness of the  US banking system, Van Der 
+Weide recognized that regulators have done less work on monitoring and reforming the 
+shadow banking system. Its heterogeneity complicates efforts to establish and oversee the 
+sector in a single regulatory framework; there is still much to be done. He noted that, perhaps 
+partially as a result of post-GFC banking reforms, there had been some movement of activity 
+from regulated banks to shadow banks, highlighting the need for greater scrutiny. 
+Van Der Weide identified three trends in shadow banking activities that the Fed is monitor-
+ing: 
+Mortgage origination has moved significantly away from the banking system. You’ve 
+seen a significant decline in the size of the trading books of the big US banks and 
+movements of some of that trading activity into smaller proprietary trading firms, 
+hedge funds, and some other kinds of fund vehicles. 
+[ . . . ] 
+Leveraged lending is something [else] to keep an eye on. It was a business the banks 
+got burned on in 2008 . . . A lot more leveraged loans are b eing held on the balance 
+sheets of securitization vehicles like CLOs – collateralized loan obligations – and loan 
+mutual funds.  
+Still, he pointed to some key successes regarding shadow banking—tightening regulation of 
+derivatives markets, authorizing the Financial Stability Oversight Council to designate indi-
+vidual shadow banks that become systemic, and pushing for more disclosure. In addition, 
+Van Der Weide explained that the crisis revealed three particular vulnerabilities across the 
+financial system: 
+2039
+Journal of Financial Crises Vol. 4 Iss. 2
+
+--- Page 7 ---
+In addition to banks not having enough capital and having way too much liquidity 
+risk, the other thing we learned—at the top of the lessons learned list—was, we didn’t 
+really have a very good failure framework to deal with large financial institutions. 
+He credits Title II of Dodd-Frank, specifically its Orderly Liquidation Authority, for establish-
+ing a process to resolve large nonbank financial institutions. Although the framework has 
+not yet been tested by a systemically important institution’s failure, it does give regulators a 
+powerful new tool that they did not have in 2008. Van Der Weide commented: “I think at 
+least on paper it looks like it's an effective way to allow the failure of the next Bear Stearns 
+that comes along.”  
+The Fed’s broader crisis-fighting role raises questions for its independence.  
+Of note during the GFC, the Fed maintained a close alignment with the Treasury Department, 
+which Van Der Weide said was its main liaison to the executive branch. The Fed had several 
+conversations with the Treasury before launching any of its 13(3) facilities. “We always got 
+the Treasury’s informal consent,” Van Der Weide explained, noting that, “We weren’t re-
+quired to by law, but we felt that given the emergency nature of those programs, the potential 
+risk to the taxpayers, it was the right thing to do to get part of the elected branch of govern-
+ment onboard with the programs.”  
+The GFC and COVID-19 crises have seen the Fed deploy its authorities in novel and broader 
+ways, which according to Van Der Weide, presented certain new concerns for Fed independ-
+ence that should be carefully watched: 
+The government has now acted quite powerfully two different times in the last 12 
+years to avert a financial crisis, and a lot of people worry about what the long -term 
+consequences might be of the central bank, of Congress, stepping in and intervening 
+very powerfully in the financial markets to prevent them from collapsing.  
+[ . . . ] 
+This is something that we don’t have time to think about in situations like September 
+2008 or March 2020, but which are very important public policy issues for us all to 
+keep in mind. There certainly are long-term risks of those sorts of interventions from 
+a central banking perspective. Obviously, when we have low interest rates and are 
+doing massive asset purchases, there are certainly risks of asset bubbles in financial 
+markets and potentially inflation. Now, the low interest rates from 2008 to 2020 did 
+not generate any scary asset bubbles or excessive inflation, in my view, but past is not 
+always prologue. And these are things we need to watch. 
+And then the last thing I wanted to flag is that we also need to be very careful about 
+potential threats to central bank independence as the Fed acts more frequently and 
+in broader ways to avert financial crises. The more that the central bank is relied upon 
+to solve non-traditional problems, the more the central bank is taking risks with tax-
+payer money, and the more that we’re viewed as allocating credit or picking winners 
+2040
+Lessons Learned: Mark Van Der Weide Lieber
+
+--- Page 8 ---
+and losers, the less independence that Congress and the executive branch will be will-
+ing to give the Fed. And independence is critically important to the success of a central 
+bank. 
+Dated: June 2022 
+YPFS Lessons Learned No. 2020-20 
+2041
+Journal of Financial Crises Vol. 4 Iss. 2

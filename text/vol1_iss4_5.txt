@@ -1,0 +1,464 @@
+--- Page 1 ---
+Journal of Financial Crises Journal of Financial Crises 
+Volume 1 Issue 4 
+2019 
+Basel III C: Internal Risk Models Basel III C: Internal Risk Models 
+Christian M. McNamara 
+Yale School of Management 
+Karen Anna Clara Braun-Munzinger 
+European Central Bank 
+Andrew Metrick 
+Yale School of Management 
+Follow this and additional works at: https://elischolar.library.yale.edu/journal-of-financial-crises 
+Recommended Citation Recommended Citation 
+McNamara, Christian M.; Braun-Munzinger, Karen Anna Clara; and Metrick, Andrew (2019) "Basel III C: 
+Internal Risk Models," Journal of Financial Crises: Vol. 1 : Iss. 4, 70-80. 
+DOI: https://doi.org/10.17132/2693-3179.1040 
+Available at: https://elischolar.library.yale.edu/journal-of-financial-crises/vol1/iss4/5 
+This Case Study is brought to you for free and open access by the Journal of Financial Crises and 
+EliScholar – A Digital Platform for Scholarly Publishing at Yale. For more information, please contact 
+journalfinancialcrises@yale.edu.
+
+--- Page 2 ---
+READERS TAKE NOTICE: READERS TAKE NOTICE: 
+As of April 2024, the YPFS Resource Library’s site domain has changed 
+to https://elischolar.library.yale.edu/ypfs-financial-crisis-resource-library/. 
+Please be aware that upon clicking any of the URL references to 
+the former Resource Library domains, either https://ypfs.som.yale.edu 
+or https://ypfsresourcelibrary.blob.core.windows.net/, in the 
+"References/Key Program Documents" section of a case study, 
+readers will encounter a "page not found" error. readers will encounter a "page not found" error. 
+Readers can still retrieve a given resource cited within this case study 
+on the new site  by searching by searching here  for the title cited. for the title cited. 
+This case study is available in Journal of Financial Crises: https://elischolar.library.yale.edu/journal-of-financial-
+crises/vol1/iss4/5
+
+--- Page 3 ---
+Basel III C:  
+Internal Risk Models1   
+ 
+Christian M. McNamara2 
+Karen Braun-Munzinger3 
+Andrew Metrick4 
+ 
+ 
+Yale Program on Financial Stability Case Study 2014-5A-V1 
+November 1, 2014, Revised: October 6, 2015 
+Abstract 
+For financial regulators seeking to use regulatory requirements to manage risk in a banking 
+system, there can be a concern that such requirements crowd out efforts by banks to develop 
+their own risk management systems.  One way in which regulators have attempted to solve  
+this problem is to enable banks to use internal risk models to satisfy regulatory 
+requirements. Beginning with the 1996 Market Risk Amendment, the Basel framework has 
+allowed banks to determine the capital charges associated with certain assets using thei r 
+own internal risk models. But allowing the use of internal risk models has not been without 
+controversy. Where some see an incentive for the development of internal risk management 
+systems better able to address the unique risk profiles of particular ban ks, others see 
+excessive complexity and uncertainty. And while some financial regulators are beginning to 
+subject banks’ models to greater scrutiny, questions remain about the ability of financial 
+regulators to provide effective oversight of such models.  
+__________________________________________________________________ 
+1  This module is one of seven produced by the Yale Program on Financial Stability (YPFS) examining issues 
+related to bank capital. The other modules in this series are:  
+• Basel III A: Regulatory History  
+• Basel III B: Basel III Overview 
+• Basel III D: The Swiss Finish to Basel III  
+• Basel III E: Synthetic Financing by Prime Brokers  
+• Basel III F: Callable Commercial Paper  
+• Basel III G: Shadow Banking and Project Finance 
+ 
+Cases are available from the Journal of Financial Crises. 
+2  Director, New Bagehot Project and Senior Editor, Case Study and Research, YPFS, Yale School of 
+Management.  
+3 Senior Advisor, Bank of England. Any views expressed are solely those of the author and so cann ot be 
+taken to represent those of the Bank of England or to state Bank of England policy.  
+4  Janet L. Yellen Professor of Finance and Management, and YPFS Program Director, Yale School of 
+Management. 
+70
+
+--- Page 4 ---
+1.  Introduction  
+For financial regulators seeking to use regulatory requirements to manage the risk in a 
+banking system, there can be a concern that such requirements crowd out efforts by banks 
+to develop their own risk management systems.  Banks subject t o regulatory requirements 
+may perceive the satisfaction of those requirements by itself as a sufficient response to risk. 
+Or banks may believe they lack the resources to both meet regulatory requirements and 
+develop their own risk management systems. Given that such systems, if robust, may be 
+more effective in dealing with the unique risk profile of a particular bank than blanket 
+requirements, there have been calls by regulators to “ensure that regulatory requirements 
+do not impede the development of sound risk management by creating perverse incentives” 
+(Bank for International Settlements 1995, 1-2). 
+One way in which regulators have attempted to solve the problem of providing effective 
+oversight of financial institutions without stunting the d evelopment of the financial 
+institutions’ own risk management systems is to enable banks to use internal risk models to 
+satisfy regulatory requirements. Beginning with the 1996 Amendment to the Capital Accord 
+to Incorporate Market Risk (commonly referred t o as the Market Risk Amendment), the 
+Basel framework has allowed banks to determine the capital charges associated with certain 
+assets using their own internal risk models rather than standardized capital charges applied 
+by the Basel Committee on Banking Supervision (BCBS) to different categories of assets. With 
+the capital charges produced by internal risk models typically lower than those produced 
+using the standardized approach, the opportunity to use internal risk models has been 
+widely seen as intended  to incentivize the development of banks’ own risk management 
+systems.      
+But the incorporation of internal risk models as a cornerstone of the Basel framework has 
+not been without controversy. Where some see an incentive for the development of internal 
+risk management systems better able to address the unique risk profiles of particular banks, 
+others see “a subsidy to complexity,” which makes “risk more difficult to monitor and 
+manage, not less” (Haldane 2012, 17). With this complexity has often come uncertainty, with 
+a series of recent studies illustrating the fact that different banks’ models can produce very 
+different assessments of the riskiness of the same set of assets.   
+In response to growing concerns about the use of internal risk models, some fi nancial 
+regulators are beginning to subject banks’ models to greater scrutiny.  Yet questions remain 
+about the ability of financial regulators to provide effective oversight of such models given 
+their complexity and the difficulty government agencies face i n hiring individuals with the 
+necessary expertise in risk modeling. Furthermore, some banks have complained about the 
+amount of resources necessary to respond to this added scrutiny, forcing some banks to run 
+parallel models—one for the banks’ actual use and one to satisfy financial regulators.    
+The remainder of the case is organized as follows : Section 2 provides an overview of the 
+history of internal risk models. Section 3 outlines the adoption of internal risk models as part 
+of the Basel framework. Section 4 discusses concerns that are emerging about the ability of 
+banks to manipulate their internal risk models to achieve desired results . Section 5 
+concludes with a summary of the current status of efforts by regulators to address the 
+concerns raised by internal risk models. 
+Questions 
+1. Is the incorporation of internal risk models into regulatory frameworks a positive 
+trend that incentivizes the development of banks’ own risk management systems or 
+71
+Journal of Financial Crises Vol. 1 Iss. 4
+
+--- Page 5 ---
+a negative trend that introduces too much complexity and sub jectivity into such 
+frameworks (or neither of the above, some of each, etc.)? 
+2. Are financial regulators capable of providing effective oversight of banks’ internal 
+risk models? 
+2. History of Internal Risk Models 
+Some commentators date the introduction of in ternal risk models to the late 1960s, when 
+profound changes to the global economy produced a level of financial market turbulence not 
+experienced since the Great Depression thereby necessitating increased attention to risk. 
+Others argue that internal risk models date to the late 1970s and early 1980s, when high 
+market volatility caused large investment banks to establish risk management departments. 
+Regardless of the specific account selected, the common narrative is that at some point after 
+the economic st ability of the 1950s and early 1960s, conditions of market stress caused 
+banks to pay increased attention to the amount of risk involved in their businesses.  
+Charles Sanford (then head of Resources Management and later CEO) at Bankers Trust 
+undertook early efforts to use modeling techniques to address this risk, developing along 
+with Dan Borge the “risk-adjusted return on capital” metric or RAROC in the late 1970s. This 
+measure compared the return produced by a transaction to the amount of capital that would 
+need to be allocated to the transaction as a buffer against risk.  Because the RAROC model 
+determined this amount of capital based on its assessment of the maximum potential loss 
+that could occur during a fixed period of time, many consider Charles Sanford and Dan Borge 
+to be the fathers of the modern Value-at-Risk (VaR) model. 
+Market Risk Models 
+In 1994, the VaR approach became an increasingly popular way for banks to measure market 
+risk (i.e., the risk of loss due to fluctuating prices for assets) wi th the introduction of J.P. 
+Morgan’s RiskMetrics model.  Widely disseminated by J.P. Morgan, the RiskMetrics model 
+became the basis for much of the market risk modeling that occurred during this period 
+(Nuxoll 1999). J.P. Morgan described the model as consisting of three basic components: 
+1. A set of market risk measurement methodologies 
+2. Data sets of volatility and correlation data used in the computation of market risk 
+3. Software systems that implement the methodologies using the data sets 
+At a very basic level, the RiskMetrics model involves the use of historical data to determine 
+an estimated volatility for each type of risk (interest rate risk, foreign exchange risk, etc.) 
+associated with a given security and the correlation between the various types of risk. In its 
+technical document describing the RiskMetrics model, J.P. Morgan gives the simple example 
+of a U.S. corporation holding a government bond denominated in a foreign currency.  Such a 
+bond would be subject to two different, but potentially related types of market risk—interest 
+rate risk (loss to the U.S. corporation resulting from a decline in the price of the bond due to 
+an increase in interest rates) and foreign exchange risk (loss to the U.S. corporation resulting 
+from a decline in the value of the foreign currency relative to the dollar).  
+Historical data can provide an estimate of the maximum amount that the price of the bond is 
+likely to drop over a given time period as a result of interest rate movement to a given degree 
+72
+Basel III C McNamara et al.
+
+--- Page 6 ---
+of certainty (the int erest rate VaR) and it can also provide an estimate of the maximum 
+amount that the foreign exchange rate is likely to drop over the same time period to the same 
+degree of certainty (foreign exchange VaR).  But the total risk will not be simply the sum of 
+the interest rate risk and the foreign exchange risk if there is a correlation between these 
+two factors. Therefore, historical data also is used to determine the correlation between the 
+interest rate risk and the foreign exchange risk for this type of bond.  Using the RiskMetrics 
+model, the corporation would have to determine the interest rate VaR, the foreign exchange 
+VaR, and the correlation between the two risk factors, before using a formula derived from 
+standard portfolio theory to calculate the total Va R for the bond.  (For a detailed discussion 
+of the methodology underlying the RiskMetrics model, see Longerstaey and Zangari 1996.) 
+Figure 1: CreditMetrics Framework 
+ 
+Source: Gupton et al. 1997.    
+ 
+Credit Risk Models 
+J.P. Morgan also developed what became the industry standard for models measuring credit 
+risk (i.e., the risk of loss due to a counterparty failing to pay an amount owed), releasing 
+CreditMetrics in 1997 (Nuxoll 1999) . While J.P. Morgan describes CreditMet rics as 
+“philosophically similar” to RiskMetrics, it notes one major difference in available data that 
+drives much of the divergence between the models.  Whereas when measuring market risk 
+there is “an abundance of daily liquid pricing data on which to construct a model,” in the case 
+of credit risk there is “relatively sparse and infrequently priced data on which to construct a 
+model.” Therefore, “CreditMetrics seeks to construct what it cannot directly observe:  the 
+volatility of value due to credit quality changes” (Gupton et al. 1997, iii emphasis in original).  
+The model does this by seeking to “balance the best of all sources of information in a model 
+which looks across broad historical data rather than only recent market moves and across 
+the full range o f credit quality migration —upgrades and downgrades —rather than just 
+default.” (The basic framework is depicted in Figure 1.) 
+In its technical document describing the CreditMetrics model, J.P. Morgan gives the simple 
+example of a portfolio consisting of two bonds: 
+73
+Journal of Financial Crises Vol. 1 Iss. 4
+
+--- Page 7 ---
+• Bond #1—BBB-rated, senior unsecured, 6% annual coupon, five-year maturity 
+• Bond #2—A-rated, senior unsecured, 5% annual coupon, three-year maturity 
+To determine the credit risk associated with each of the bonds by itself, the CreditMetrics 
+model employs three steps tied to the three headings under the “Value at Risk due to Credit” 
+heading of the framework diagram: Credit Rating, Seniority, and Credit Spreads. 
+First, the bond issuer’s current credit rating determines the likelihood of a default or 
+migration to another credit rating within a given timeframe.  Based on historical data, 
+CreditMetrics determines a “transition matrix” setting forth the percentage likelihood of a 
+given migration. For example, the sample transition matrix in Figure 2 indicates that there is 
+a 0.06% likelihood that a AAA issuer will be downgraded to BBB within one year but a 5.52% 
+chance that an A issuer would experience such a downgrade. 
+Figure 2: CreditMetrics One-Year Transition Matrix 
+ 
+Source: Gupton et al. 1997.    
+Second, armed with the percentage likelihood of a given credit migration, the CreditMetrics 
+model calculates the value change likely to result from such migrations.  Value upon default 
+is determined based on historical data concerning rates of recovery in default given seniority 
+class. For example, the sample chart in Figure 3 based on one set of historical data indicates 
+that senior unsecured creditors can expect to recover an average of 51.13% of face value in 
+the event of default. 
+CreditMetrics determines value changes tied to non -default credit migrations by revaluing 
+the expected cash flows from a bond (periodic interest payments and principal payment on 
+maturity) using a discount rate tied to credit spreads between rating categories. 
+Third, with the likelihood of a given migration and the value change that would result from 
+such migration having been determined, CreditMetrics can produce an estimate of the 
+maximum value change to a given degree of certainty. For example, in the table of migration 
+probabilities and value changes in Figure 4, there is only a 1.47% chance that the BBB bond 
+in question will migrate to B, CCC, or default. To this degree of certainty, the value of the bond 
+will not fall below $98.10, or $8.99 below the mean of all scenarios.  
+74
+Basel III C McNamara et al.
+
+--- Page 8 ---
+Figure 3: Recovery Rates by Seniority Class (% of face value, i.e., “par”) 
+ 
+Source: Gupton et al. 1997.    
+ 
+ 
+Figure 4: Calculating Volatility in Value Due to Credit Quality Changes 
+ 
+Source: Gupton et al. 1997.    
+The above steps concerned the calculation of the risk associated with a single bond.  
+Returning to our model portfolio of two different bonds, as with the calculation of market 
+risk by RiskMetrics, the total credit risk of the portfolio would not simply be the sum of the 
+individual credit risk of each bond unless there was no correlation between the probability 
+of credit migration and the resulting value changes of the two bonds.  Thus, as with 
+RiskMetrics, CreditMetrics relies on a determination of correlation grounded in h istorical 
+75
+Journal of Financial Crises Vol. 1 Iss. 4
+
+--- Page 9 ---
+data. (For a detailed discussion of the methodology underlying the CreditMetrics model, see 
+Gupton et al. 1997.) 
+Despite having been introduced nearly two decades ago, there is evidence that the 
+methodologies underlying the RiskMetrics and CreditMetrics models continue to guide 
+internal risk modeling today. (For more on internal risk models, see the YPFS Case Study 
+Zeissler, et al. 2014C.) 
+3. Internal Risk Models and Basel 
+As discussed in greater detail in the YPFS Case Study  Basel III A: Regulatory History  
+(McNamara, et al. 2014A), the Basel framework as initially established by Basel I was 
+directed primarily at credit risk.  It wasn’t until 1996 that the Basel Committee on Banking 
+Supervision (BCBS) addressed market risk with the Amendment to the Capital Ac cord to 
+Incorporate Market Risk (commonly referred to as the Market Risk Amendment).  Perhaps 
+not surprisingly given its development during the same time period that banks were 
+becoming increasingly active in financial modeling, the Market Risk Amendment ad ded not 
+only market risk to the Basel framework, but also the concept of allowing banks to use their 
+own internal risk models to make determinations of risk.  As the BCBS noted, in developing 
+the Market Risk Amendment, it “took account of the fact that the risk management practices 
+of banks have developed significantly since the initial proposals [about incorporating market 
+risk into Basel] were formulated in the early 1990s.” Moreover, the BCBS expressed a desire 
+not to impede further development of these p ractices by establishing regulatory 
+requirements detached from banks’ own risk management systems (Bank for International 
+Settlements 1995). 
+As a result, the Market Risk Amendment provides banks with a choice between “two broad 
+methodologies” in measuring market risk. The first methodology is a standardized approach 
+based on risk measurements developed by the BCBS.  The second methodology, available 
+subject to the fulfillment of certain conditions and the explicit approval of a bank’s 
+supervisory authority, allows for the use of internal risk models to determine risk 
+measurements. Among the conditions outlined by the BCBS for use of internal risk models 
+are: 
+• Certain general criteria concerning the adequacy of the risk management system; 
+• Qualitative standards for internal oversight of the use of models, notably by 
+management; 
+• Guidelines for specifying an appropriate set of market risk factors (i.e. the market 
+rates and prices that affect the value of banks’ positions); 
+• Quantitative standards setting out the use  of common minimum statistical 
+parameters for measuring risk; 
+• Guidelines for stress testing; 
+• Validation procedures for external oversight of the use of models; and 
+• Rules for banks which use a mixture of models and the standardized approach. 
+(Key elements of the different conditions are outlined in Figure 5.) 
+76
+Basel III C McNamara et al.
+
+--- Page 10 ---
+With the development of Basel II, the BCBS expanded the ability to use internal risk models 
+to determine risk measurements to credit risk as well. (For an overview of the use of internal 
+risk models in measuring credit risk, see McNamara, et al. 2014D.) 
+Figure 5: Conditions for Using Internal Risk Models 
+ 
+   Source: Bank for International Settlements 1995 
+4. Internal Risk Models and the Potential for Manipulation 
+Although grounded in similar approaches, the various internal risk models deployed by 
+different banks are comprised of a variety of components —risk measurement 
+methodologies, historical data sets, software systems, etc. —differences in any one of which 
+could result in models that , when presented with the same set of assets , arrive at very 
+different assessments of risk.  While the BCBS has argued that “it is desirable to have some 
+diversity in risk modelling practices; if all banks modelled in the same way, they could create 
+additional fi nancial instability,” it has also noted that “it is undesirable for banks’ capital 
+calculation inputs to generate excessive variation in risk measurement, as it would 
+undermine the credibility of capital ratios, distort the international playing field and hamper 
+the functioning of financial markets”  (Bank for International Settlements 2013b, 3) . And 
+indeed, in the wake of the financial crisis there have been a series of studies that show that 
+the risk assessments of banks’ internal models do vary drastically. 
+In December 2013, the BCBS released the results of Phase II of an analysis of banks’ trading 
+book risk-weighted assets (RWAs). This analysis presented 17 internationally  active banks 
+in nine jurisdictions with 42 different hypothetical trading portfolio s to “test for the impact 
+of differences in modelling across banks by controlling for portfolio composition” (Bank for 
+International Settlements 2013b). The 42 different portfolios consisted of both plain vanilla 
+77
+Journal of Financial Crises Vol. 1 Iss. 4
+
+--- Page 11 ---
+and complex products in the five major asse t categories identified by the BCBS:  equity, 
+interest rates, foreign exchange, commodities, and credit spread.  
+According to the BCBS, individual positions contained within the hypothetical trading 
+portfolios generated wide variations in some instances, va riations which narrowed 
+somewhat at the portfolio -level with more diversification.  Still, even for the two most 
+diversified portfolios in the exercise, the capital requirements calculated by the different 
+models had a standard deviation of between 24% and 30% of the mean, a significant degree 
+of variation. The capital requirements calculated ranged from €8.6 million to €18.5 million 
+for one portfolio and from €6.3 million to €19.7 million for the other. Among the key drivers 
+of this variation were the lengt h of the data period used in a given model and the method 
+used to aggregate general and specific risk (Bank for International Settlements 2013b).  
+These results confirmed the findings of Phase I of the BCBS’s analysis, which presented 15 
+internationally active banks with 26 hypothetical trading portfolios containing mostly 
+simple products. Even with these more straightforward products, the different models had 
+a standard deviation of 31% of the mean for calculated capital requirements of t he most 
+diversified portfolio, with outcomes ranging from €13.4 million to €34.2 million (Bank for 
+International Settlements 2013a). 
+In August 2013 the European Banking Authority (EBA) released a second interim report on 
+a similar hypothetical portfolio exercise involving credit risk. The EBA’s exercise included 35 
+banks from 13 EU countries and involved low default portfolios consisting of central 
+government, credit institution and large corporate exposures.  The EBA’s analysis found 
+“significant variation in the [risk weights] and [expected losses] across banks.”  Drivers of 
+this variation include differences in definitions of default, differences in the granularity of 
+credit ratings used, and data limitations (European Banking Authority 2013).   
+With the potential for such wide variation of results based in significant part on the modeling 
+choices that banks make (such as the length of data periods used), there have been growing 
+concerns about the achievement of lower capital requirements through the manipulation of 
+models rather than through the actual reduction of RWAs. (For a detailed examination of one 
+possible case of such manipulation, see McNamara, et al. 2014D.) 
+5. Regulator Response to Model Manipulation 
+Particularly in light of the increased attenti on being paid to the complexity of internal risk 
+modeling and the variability or even manipulation that can result, some financial regulators 
+are beginning to subject banks’ models to greater scrutiny. For example in May 2014, the U.S. 
+Office of the Comptr oller of the Currency (OCC) announced a major expansion of its 
+quantitative analysis function, focusing not only on enhanced evaluation of banks’ internal 
+risk models as required by Dodd-Frank, but also on the creation of the OCC’s own models to 
+vet the re sults of the banks’ models.  The OCC’s staff of “quants” —the individuals charged 
+with the OCC’s modeling efforts—recently increased from 31 quantitative economists to 53 
+and from six research associates/financial analysts to seven after the financial crisis  
+(LaCapra 2014).  
+But the heightened regulatory scrutiny of internal risk models is not without detractors, even 
+among other financial regulators.  An anonymous U.S. Treasury official interviewed for the 
+Reuters article announcing the OCC’s initiative chara cterized the effort as a waste of time , 
+owing in part to the fact that government quants lack the experience of their private sector 
+counterparts and would therefore be seconding -guessing models that they do not fully 
+78
+Basel III C McNamara et al.
+
+--- Page 12 ---
+understand (LaCapra 2014). And indeed, recruiting and retaining experienced quants may 
+be a tall order for regulatory agencies when even starting salaries for quants at major 
+financial institutions are several times more than salaries for government quants. Notably, a 
+senior quant recently hired as part of the OCC’s push was poached from another agency, not 
+from the private sector (Ibid.).  
+Banks themselves have also been critical of the move by some financial regulators to take a 
+more active role in policing internal risk models.  One major point of concern has been the 
+increasingly large amount of quantitative resources banks must devote to regulatory 
+compliance. The co-head of the quantitative group at Bank of America has estimated that 
+such compliance represents more than half of his  group’s work (Andersen 2014). Similarly, 
+an industry headhunter believes that the amount of time quants spend on regulatory matters 
+has increased from 30% pre -crisis to 50% -60% today (LaCapra 2014) . According to some 
+bankers, much of this additional work is unnecessary.  An anonymous bank executive 
+interviewed for the Reuters article described weeks of back and forth with the OCC over 
+minor differences in model design that resulted in almost no difference in model outcome.  
+According to the executive, the bank now runs two models concurrently—its own version of 
+the model (which had already been approved by the Federal Reserve) and a different version 
+to placate the OCC (Ibid.). 
+Given the critical role internal risk models play in the Basel risk-weighted capital framework, 
+determining how to provide oversight is a key challenge for regulators moving forward. This 
+state of affairs raises the question of whether or not financial regulators are even in a 
+position to provide effective and efficient oversight of ban ks’ internal risk models. This 
+question is made even more urgent by the many new responsibilities being added to 
+regulators’ plates around the world.  
+Commentators have also proposed potential solutions that reduce the ability of banks to rely 
+solely on th e results of their internal risk models.  First, regulators could establish floors 
+below which capital requirements would not go regardless of the outcome of modeling. A 
+drawback of such an approach is that the higher the floor is set, the less Basel -driven 
+incentive there is for banks to invest time and resources in internal risk models.  In extreme 
+examples where the floor is set at what capital requirements would be using a standardized 
+approach, there is no such incentive —using internal risk models to det ermine capital 
+requirements could only result in higher capital charges, not lower capital charges.  Such a 
+situation would nullify one of the chief reasons for introducing the internal -risk-models 
+approach to the Basel framework, which was to incentivize b anks to further develop their 
+own risk management systems given the promise of lower capital requirements.  
+Another potential solution is the strengthening of the leverage ratio as a credible backstop 
+to risk -based capital requirements.  Based solely on a b ank’s total exposures without any 
+adjusting for risk, the leverage ratio is intended to be simpler and more  transparent than 
+risk-based capital requirements and is not subject to the same type of manipulation using 
+internal risk models. A bank manipulating its internal risk models to arrive at artificially low 
+risk-based capital requirements could still be reined in by a leverage ratio that is sufficiently 
+robust. Ultimately, given the difficulty involved in effectively overseeing banks’ internal risk 
+models and the potential problems with introducing model floors, it could be that the 
+leverage ratio is the most important element of Basel III for addressing bank capital. 
+ 
+79
+Journal of Financial Crises Vol. 1 Iss. 4
+
+--- Page 13 ---
+References 
+Anderson, Leif. 2014. Regulation, Capital, and Margining: Quant Angle. January.  
+Bank for International Settlements.  1995. An internal model -based approach to market risk 
+capital requirements. April.  
+Bank for International Settlements.  2013b.  Regulatory Consistency Assessment Programme 
+(RCAP)—Second report on risk-weighted assets for market risk in the trading book. December.  
+Bank for International Settlements.  2013a. Regulatory Consistency Assessment Programme 
+(RCAP) Analysis of risk-weighted assets for credit risk in the banking book. July.  
+European Banking Authority. 2013. Interim results update of the EBA review of the consistency 
+of risk-weighted assets. August.  
+Gupton, Greg et. al. 1997. CreditMetrics—Technical Document. April.  
+Haldane, Andrew. The Dog and the Frisbee. August.  
+LaCapra, Lauren Tara.  2014. “Exclusive: U.S. banking regulators hire math geeks of their 
+own.” Reuters. May.  
+Longerstaey, Jacques and Peter Zangari. 1996. RiskMetrics—Technical Document 4th edition. 
+December.  
+McNamara Christian M., Thomas Piontek, and Andrew Metrick, 2014A. “ Basel III A: 
+Regulatory History” Yale Program on Financial Stability Case Study 2014-1A-V1, November. 
+McNamara Christian M., Natalia Tente, and Andrew Metrick, 2014D. “Basel III D: Swiss Finish” 
+Yale Program on Financial Stability Case Study 2014-1D-V1, November. 
+Nuxoll, Daniel.  1999. “Internal Risk -Management Models as a Basis for Capital 
+Requirements.” FDIC Banking Review 12, no 1:18–29. (Nuxoll 1999) 
+Zeissler Arwin G. and Andrew Metrick, 2014C. “JP Morgan Chase London Whale C: Risk Limits, 
+Metrics and Models,” Yale Program on Financial Stability Case Study 2014-2C-V1, December. 
+ 
+ 
+Development of this case has been supported by a generous grant from the Alfred P. Sloan 
+Foundation to the Yale Program on Financial Stability. 
+Copyright 2014, 2015, 2020 © Yale University. All rights reserved. To order copies of this 
+material or to receive permission to reprint any or all of this document, please contact the 
+Yale Program for Financial Stability at ypfs@yale.edu. 
+ 
+ 
+80
+Basel III C McNamara et al.

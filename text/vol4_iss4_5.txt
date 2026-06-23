@@ -1,0 +1,749 @@
+--- Page 1 ---
+Journal of Financial Crises Journal of Financial Crises 
+Volume 4 Issue 4 
+2022 
+Reserve Requirements Survey Reserve Requirements Survey 
+June Rhee 
+Yale School of Management 
+Carey K. Mott 
+Yale School of Management 
+Greg Feldberg 
+Yale School of Management 
+Andrew Metrick 
+Yale School of Management 
+Follow this and additional works at: https://elischolar.library.yale.edu/journal-of-financial-crises 
+ Part of the Economic History Commons, Economic Policy Commons, Finance Commons, Finance and 
+Financial Management Commons, Growth and Development Commons, Policy Design, Analysis, and 
+Evaluation Commons, Public Administration Commons, and the Public Policy Commons 
+Recommended Citation Recommended Citation 
+Rhee, June; Mott, Carey K.; Feldberg, Greg; and Metrick, Andrew (2022) "Reserve Requirements Survey," 
+Journal of Financial Crises: Vol. 4 : Iss. 4, 133-149. 
+DOI: https://doi.org/10.17132/2693-3179.1441 
+Available at: https://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss4/5 
+This Survey is brought to you for free and open access by the Journal of Financial Crises and EliScholar – A Digital 
+Platform for Scholarly Publishing at Yale. For more information, please contact journalfinancialcrises@yale.edu.
+
+--- Page 2 ---
+READERS TAKE NOTICE: READERS TAKE NOTICE: 
+As of April 2024, the YPFS Resource Library’s site domain has changed 
+to https://elischolar.library.yale.edu/ypfs-financial-crisis-resource-library/. 
+Please be aware that upon clicking any of the URL references to 
+the former Resource Library domains, either https://ypfs.som.yale.edu 
+or https://ypfsresourcelibrary.blob.core.windows.net/, in the 
+"References/Key Program Documents" section of a case study, 
+readers will encounter a "page not found" error. readers will encounter a "page not found" error. 
+Readers can still retrieve a given resource cited within this case study 
+on the new site  by searching by searching here  for the title cited. for the title cited. 
+This survey is available in Journal of Financial Crises: https://elischolar.library.yale.edu/journal-of-financial-crises/
+vol4/iss4/5
+
+--- Page 3 ---
+Reserve Requirements Survey1 
+June Rhee,2 Carey K. Mott,3 Greg Feldberg,4 and Andrew Metrick5 
+Yale Program on Financial Stability Survey 
+December 22, 2022 
+Abstract 
+Banks have a private motive to hold some level of cash and liquid reserves, but the negative 
+externalities of bank runs create a public interest in setting a regulatory level higher than the 
+privately optimal level. We can think of such reserve requirements (RRs) as the original form 
+of liquidity regulation. In this paper, we fo cus on 14 cases in which central banks adjusted 
+RRs after crises hit, typically to deal with liquidity shortages in the banking system.  We 
+observe that RR adjustments have several advantages in a crisis: ( 1) such changes require 
+little process, and the change for banks can be quick; (2) stigma concerns may be much lower 
+than with emergency  lending operations; ( 3) RRs can be used to  fine-tune incentives for 
+holding various types and maturities of assets; and (4) RR easing can complement a central 
+bank’s other liquidity support programs. 
+Keywords: financial crisis intervention, liquidity, liquidity regulation, reserve requirement 
+  
+ 
+1 This case study is part of the Yale Pr ogram on Financial Stability (YPFS) selection of New Bagehot Project 
+modules considering the adjustment of reserve requirements. Cases are available from the Journal of Financial 
+Crises at https://elischolar.library.yale.edu/journal-of-financial-crises/. 
+2 Director, MMS in Systemic Risk, YPFS, Yale School of Management. 
+3 Research Associate, YPFS, Yale School of Management. 
+4 Research Scholar and Director of Research, YPFS, Yale School of Management.  
+5 Janet L. Yellen Professor of Finance and Management and YPFS Program Director, Yale School of Management. 
+133
+
+--- Page 4 ---
+Introductory Note: This survey is an analysis of important considerations for policymakers 
+seeking to adjust reserve requirements in response to a financial crisis. It is based on insights 
+derived from case studies of 14 specific reserve requirement programs the Yale Program on 
+Financial Stability has completed and from the existing literature on the topic. While this 
+survey can help inform a decision about whether or not to adjust reserve requirements, our 
+main purpose is to assist policymakers who have already made that dec ision in designing 
+the most effective program possible. In analyzing the programs that are the focus of this 
+survey, we used a color -coded system to highlight certain particularly noteworthy design 
+features. 
+Treatment Meaning 
+BLUE – INTERESTING A design feature that is interesting and that 
+policymakers may want to consider. Typically, 
+this determination is based on the observation 
+that the design feature involves a unique and 
+potentially promising way of addressing a 
+challenge common to this type of program that 
+may not be obvious. Less commonly, empirical 
+evidence or a consensus will indicate that the 
+design feature was effective in this context, in 
+which case we will describe that evidence or 
+consensus. 
+YELLOW – CAUTION INDICATED A design feature that policymakers should 
+exercise caution in considering. Typically, this 
+determination is based on the observation that 
+the designers of the feature later made 
+significant changes to the feature with the 
+intention of improving the program. Less 
+commonly, empirical evidence or a consensus 
+will indicate that the design feature was 
+ineffective in this context, in which case we will 
+describe that evidence or consensus. 
+This highlighting is not intended to be dispositive. The fact that a design feature is not  
+highlighted or is highlighted yellow does not mean that it should not be considered or that it 
+will never be effective under any circumstances. Similarly, the fact that a design feature is 
+not highlighted or is highlighted blue does not mean that it shoul d always be considered or 
+will be effective under all circumstances. The highlighting is our subjective attempt to guide 
+readers toward certain design features that (1) may not be obvious but are worth 
+considering or (2) require caution. 
+  
+134
+Journal of Financial Crises Vol. 4 Iss. 4
+
+--- Page 5 ---
+Introduction 
+All banks have a private motive to hold some cash reserves, but the negative externalities of 
+bank runs create a public interest in setting a regulatory ratio higher than the privately 
+optimal level. We can think of such reserve requirements (RRs) as the original form of 
+liquidity regulation, the practice of which has evolved from the simple ratios of the old days 
+to the complex calculations underlying the rules of Basel III. 
+This paper surveys 14 cases covering the adjustment of RRs in response to a financial crisis. 
+RR adjustments have several advantages in a crisis. Perhaps the most important  advantage 
+is speed. For the central bank, adjusting RR s requires little more than a press release ; and 
+the result for banks is aut omatic—they immediately have access to a potentially significant 
+amount of liquidity that had previously been restricted or stuck at the central bank. Second, 
+stigma concerns may be much lower than  with emergency lending operations because RR 
+adjustments typically apply to many or all banks at the same time in the same way . Third, 
+the authorities can fine -tune incentives for financial institutions by adjusting and 
+differentiating elements of RRs. Fourth, RR easing can complement a central bank’ s other 
+liquidity support programs. 
+The main drawback to the use of RRs is that they are relatively weak compared to other crisis 
+interventions. Nobody should expect that a change in RRs will fix a crisis by itself: compared 
+to “direct” injections of liquidity or capital, changes in RR ratios are “indirect,” as they require 
+active bank participation. Nevertheless, in combination with other interventions, RR 
+adjustments can be a force multiplier in crisis response. Their usage in recent years, 
+alongside the innovation of more complex liquidity rules, suggests central banks continue to 
+see RRs as a valuable crisis-fighting tool. 
+Figure 1 shows all the cases covered in this survey. We use country names and a date or crisis 
+acronym to refer to the cases in the text. 
+  
+135
+Reserve Requirements Rhee et al.
+
+--- Page 6 ---
+Figure 1: Programs Covered in This Survey 
+Case title Reference 
+Argentina: Reserve Requirements, 1994–1995 Leonard 2022 
+Brazil: Reserve Requirements, GFC Fulmer 2022 
+China: Reserve Requirements, GFC Mott 2022a 
+China: Reserve Requirements, 2015–2016 Mott 2022b 
+Colombia: Reserve Requirements, GFC Leonard and Decker 2022 
+Czech Republic: Reserve Requirements, 1997  Hoffner 2022a 
+India: Reserve Requirements, GFC Nunn and Mott 2022 
+Jamaica: Reserve Requirements, GFC Runkel 2022a 
+Malaysia: Reserve Requirements, AFC Decker 2022 
+Peru: Reserve Requirements, GFC Fulmer and Decker 2022 
+Russia: Reserve Requirements, 1998  Hoffner 2022b 
+Russia: Reserve Requirements, GFC Hoffner 2022c 
+Thailand: Reserve Requirements, AFC Runkel and Vergara 2022 
+Venezuela: Reserve Requirements, GFC Runkel 2022b 
+Sources: Decker 2022; Fulmer 2022; Fulmer and Decker 2022; Hoffner 2022a; Hoffner 2022b; Hoffner 2022c; 
+Leonard 2022; Leonard and Decker 2022; Mott 2022a; Mott 2022b; Nunn and Mott 2022; Runkel 2022a;  Runkel 
+2022b; Runkel and Vergara 2022. 
+Key Design Decisions 
+1. Purpose: What was the purpose of adjusting RRs? 
+Outside financial crises , central banks use RRs for several purposes , most often to “lean 
+against the wind” and promote financial stability during credit expansions. In many cases in 
+this survey, the reversal of such tightening was an early response to an acute crisis. For 
+example, before the Global Financial Crisis of 2007 –2009 (GFC), Colombia and India used 
+RRs to curtail excessive credit growth but then reversed course to release liquidity tied up 
+at the central bank. Similarly, in the mid-1990s, the central bank of Russia managed RR policy 
+to support its primary objective of supporting ruble stability; when the Ruble Crisis hit in 
+1998, it lowered RRs to provide liquidity to domestic banks and restore the functioning of 
+the payment system (CBR 1998; 1999, 6–7). Later, in the early 2000s, Russia’s central bank 
+used RRs to limit domestic banks’ exposure to forei gn borrowings and to maintain banking 
+sector stability; when the GFC erupted, the central bank lowered RRs so the banks could use 
+funds released from reserves to maintain liquidity and settle payments. The central bank of 
+Peru used RRs to lengthen the maturity of banks’ liabilities because short-term liabilities are 
+typically more vulnerable to runs or sudden capital outflows . It responded to a surge of 
+136
+Journal of Financial Crises Vol. 4 Iss. 4
+
+--- Page 7 ---
+capital inflows in September 2007 by removing RRs on banks’ long-term external liabilities 
+to promote long-term, rather than short-term, capital inflows; five months later, it began a 
+series of RR hikes on other liabilities to strengthen the banking sector . When the GFC 
+unfolded, the central bank reversed RR hikes to release banks’ liquidity . Several central 
+banks also used RRs during the GFC to redistribute liquidity in the banking system. For 
+example, Brazil’s central bank observed that the GFC did not cause deposits to leave Brazil 
+systematically—rather, the crisis concentrated deposits among a few large institutions that 
+depositors considered relatively safe. Through RR adjustments, the central bank attempted 
+to reverse this accumulation of deposits among the largest banks of Brazil. 
+Authorities can use RR adjustments as an  expression of government policy support for 
+certain types of companies or industries, both in normal times and when specific sectors are 
+under unique stress. For example, China adopted two-tier RRs with higher ratios applied to 
+the largest commercial banks and lower ratios to smaller commercial banks and urban and 
+rural credit cooperatives. The central bank initially tested the two -tier RRs in response to a 
+series of natural disasters in 2008. During the GFC, the central bank explained that the tiered 
+RR structure was part of a broader principle of “differentiated treatment to different 
+sectors,” which included credit allocation to the agricultural sector (PBOC 2009, 51). 
+During the Asian Financial Crisis  (AFC) of the late 1990s , the Bank of Thailand repeatedly 
+expanded the list of reserve assets that healthy banks could use to satisfy the RR to meet 
+several policy purposes. Early on, it encouraged healthy banks to support illiquid banks by 
+allowing them to count their loans to a government liquidity fund as reserve assets. Later, it 
+adjusted its definition of eligible reserve assets for broader policy purposes beyond liquidity 
+provision—to encourage banks to provide funding to restructured banks and to government 
+agencies and state enterprises , which ultimately included the Export -Import Bank of 
+Thailand. Although this form of intervention has some risk attached, we believe it is an 
+interesting strategy to be considered in cases when the central bank is constrained in direct 
+liquidity provision. 
+In the early stages of the GFC,  investors sold Jamaican -dollar assets in favor of foreign  
+currency assets seen as safe stores of value amid uncertainty and following the downgrades 
+of Jamaican national debt by th e three major rating agencies. The sales of Jamaican -dollar 
+assets created “extraordinary foreign exchange needs” for Jamaican financial and 
+nonfinancial businesses (BOJ 2008) . Around the same time, the maturation of Bank of 
+Jamaica (BOJ) and Government of  Jamaica securities yielded further Jamaican -dollar 
+liquidity to bondholders. The BOJ sought to discourage those bondholders from swapping 
+Jamaican dollars for foreign currencies, which would have put further pressure on the value 
+of the Jamaican dollar. To do so, the BOJ raised reserve requirements for banks’ holdings of 
+Jamaican-dollar assets on three occasions. 
+137
+Reserve Requirements Rhee et al.
+
+--- Page 8 ---
+2. Part of a Package : Did the central bank have lender-of-last-resort authority to 
+back up liquidity provision through RR adjustments? Did any other interventions 
+accompany the RR adjustments? 
+Banks may be more willing to use built -up liquidity buffers, such as reserves,  if the central 
+bank provides liquidity backstops at the same time (BIS 2012). Many jurisdictions in our 
+survey directly inject ed liquidity when lowering RRs. For example, Peru expanded its 
+repurchase agreement (repo) operations, introduced a new swap facility, and repurchased 
+certificates of deposit (CDs) from banks. During the GFC , Russia also provided emergency 
+lending, but this initiative required additional legislation by the parliament, thus taking 
+longer to launch than the RR adjustments. 
+In 1998 , Russia reduced individual banks’ RR s on a case -by-case basis to facilitate three 
+multilateral clearing operations that reduced banks’ interbank liabilities. The central bank 
+had information on each bank’s outstanding liabilities to clients , other banks, and the 
+government. With this information, over a weekend, the central bank provided participants 
+with an overnight loan to settle end -of-day balances. If a bank still needed funds to settle, it 
+could draw down the reserves it held at the central bank. The central bank did not make 
+foreign currency available to banks while the multilateral clearing operations took place, to 
+prevent banks from immediately selling the additional ruble funds they received for settling 
+balances on the foreign exchange market. 
+In some cases , jurisdictions imposed relatively high RR s to make up for a relatively weak 
+lender-of-last-resort (LOLR) authority. Also, central banks with limited ability to act as LOLR 
+or offer deposit insurance used RR adjustment s as their main tool to provide liquidity  in 
+crisis times. For example,  heading into the Mexican Peso Crisis of 1994–1995, Argentina’s 
+central bank had limited LOLR capacity—up to 20% of the monetary base, which the central 
+bank nearly exceeded during the crisis—and did not have deposit insurance; that facility was 
+introduced only later into the crisis. Therefore, authorities relied on RR adjustments to 
+release liquidity quickly. 
+In Brazil, RR policy was the central bank’s main tool for providing liquidity at the onset of  
+the GFC. Legislation prohibited the central bank from using public money to rescue financial 
+institutions unless it was extending discount window loans with maturities of less than 360 
+days. Regardless, central bank officials said political pressure and scrutiny from the National 
+Congress and the public had discouraged the use of LOLR policy . The central bank was not 
+formally an independent institution, and central bank officials were liable for their actions 
+for up to five years after leaving office—a threat of legal action the officials took  seriously 
+due to precedents. This structure greatly constrains an effective crisis response. 
+3. Legal Authority: Which body had the legal authority to adjust RRs? 
+Generally, central banks had discretion in their enabling legislation  to adjust RR  policy. 
+However, a small number of central banks required the government’s approval. 
+In China, the central bank required the State Council’s approval to adjust RRs. However, some 
+sources suggest that the approval process was not as rigorous for RR operations as for other 
+138
+Journal of Financial Crises Vol. 4 Iss. 4
+
+--- Page 9 ---
+monetary policy decisions under the central bank ’s authority. Malaysia’s government also 
+required the central bank to obtain the finance minister’s approval before raising RRs. 
+Occasionally, law s constrained central bank s’ ability to adjust RR policy  by limiting how 
+much they could adjust the RR at one time. For example, in Jamaica, the central bank could 
+adjust a RR only once a month and by no more than 200 basis points (bps); as a result, the 
+central bank needed three months to raise RRs by 500 bp s in 2008–2009. Russia’s central 
+bank could not change a RR more than 500 bps at a time. 
+4. Administration: What was the process for adjusting RRs? 
+Generally, c entral banks followed independent internal process es in deciding whether to 
+alter RRs. A minority of countries’ central banks needed to coordinate with other 
+government entities. For example, China’s central bank administered RR policy under the 
+guidance of the State Council. Malaysia’s central bank administered changes to the RR with 
+approval from the finance minister. The finance minister had authority to issue binding 
+directives against the central bank’s proposed actions, and if the central bank objected to the 
+finance minister’s override, the House of Representatives heard both sides’ reas oning. I t 
+remains unclear who made the final decision. 
+In Brazil, the National Monetary Council set RR policy. Its members consisted of the minister 
+of state for finance ; minister of state for planning, budget , and management ; and the 
+president of the central bank. However, the central bank president was the main driver of 
+RR decisions. 
+In some cases, regulated financial entities were involved in setting RR policies. For example, 
+in Russia, the central bank’s board of directors  administered RRs in coord ination with the 
+central bank branches and with some participation from the A ssociation of Russian Banks, 
+an interest group of Russian commercial banks . Certainly, any input from regulated 
+institutions must be treated with caution. 
+5. Governance: Did the body responsible for adjusting RR s have any legal mandate 
+on reporting, or did it receive any oversight on the process of adjusting RRs? 
+Most central banks were not subject to mandated reporting obligations or oversight for RR 
+adjustments. Regardless, some central banks incorporated accountability into their 
+practices. For example, although t he Reserve Bank of India Act , 1934,  did not formally 
+prescribe oversight or accountability policies, the central bank employed various practices 
+to ensure its policymaking was transparent. This approach included publicizing its policy 
+rationale and potential or expected outcomes. The governor of the central bank also held a 
+quarterly press conference after every policy review. 
+A minority of central banks were obligated  to report to their legislatures  about their  RR 
+operations. In  Argentina, the central bank  reported annually on its operations to the 
+Congress. In China, the central bank submitted reports on monetary policy operations to the 
+Standing Committee of the National People’s Congress and recorded its monetary policy 
+decisions and procedures for the State Council. 
+139
+Reserve Requirements Rhee et al.
+
+--- Page 10 ---
+6. Communication: How was the adjustment of RR s announced to the market or 
+public? 
+The central banks in the cases surveyed were clear in communicating that they intended RR 
+adjustments to deal with sudden stress in the financial system from the onset of a financial 
+crisis. Some—Argentina, India, Malaysia, and Russia—emphasized the temporary nature of 
+such policy changes at the announcement of the RR adjustment. 
+7. Assets Qualifying as Reserves: What types of assets satisfied RRs? 
+Reservable assets generally consisted of  cash in local or foreign currency  and sometimes 
+included treasuries or other assets like cash. The relative proportions of cash held at the 
+bank, cash and securities held at the  central bank, and other reservable assets at the bank 
+are important to consider when evaluating the impact of RR adjustments. The prop ortions 
+differed in each jurisdiction. Some countries—China, Czech Republic, Malaysia, Venezuela—
+required all RR funds to be held with the central bank. Some —Peru, Thailand —required 
+financial institutions to hold a specific portion of their required reserv es with the central 
+bank and allowed them to hold the remainder in various acceptable reserve assets. Others—
+Argentina, India, Jamaica —employed an additional liquidity requirement that essentially 
+functioned in the same way. 
+Sometimes, central banks expanded the assets that qualified as reserves when adjusting RR. 
+For example, India allowed banks to count as reserve assets their holdings of assets funded 
+with the government’s Liquidity Adjustment Facility. 
+Early in the AFC, the central bank of Thailand enco uraged healthy banks to support illiquid 
+banks by allowing them to count their loans to a government liquidity fund as reserve assets. 
+As the crisis deepened, a newly created state -owned bank and new financial company 
+absorbed the failed banks and financial companies. After this consolidation, the central bank 
+expanded assets satisfying the RR to include the debt of these new entities. After the crisis, 
+it also added the Export-Import Bank of Thailand to the list to promote the export sector. 
+8. Reservable Liabilities: Against which liabilities could financial institutions hold 
+the liquid assets under RRs? 
+In calculating RRs, often liabilities included or excluded from the calculation were explicitly 
+listed in the relevant regulations. Generally, the reservable  liabilities consisted of time, 
+savings, and checking deposits. They often excluded subordinated debt. Shareholder capital 
+is not a liability, by definition, but several central banks, to avoid confusion, explicitly noted 
+that banks were not required to hold reserves against it. 
+India, Thailand, and Venezuela required banks to hold reserves against various types of 
+nondeposit liabilities. India included external debts. Thailand included short -term foreign 
+liabilities and other borrowings with index -linked r eturns or embedded financial 
+derivatives. Venezuela included debts to export finance companies and public housing funds. 
+140
+Journal of Financial Crises Vol. 4 Iss. 4
+
+--- Page 11 ---
+During a crisis, central banks could change the reservable liabilities composition to motivate 
+lending to a certain sector. For example, China’s central bank differentiated RRs by business 
+type or lending portfolio; it applied lower RRs to agricultural banks and required banks to 
+have a certain portion of agricultural loans in their portfolios to qualify for lower RRs. 
+The composition of reservable liabilities may affect the behavior of banks in normal times 
+and sometimes affect the ability of RR adjustments to provide liquidity during crisis times. 
+For example, in Brazil, time deposits have been the most important source of domestic 
+funding for Brazilian banks since the 1990s, partly because the central bank has applied high 
+rates to demand and savings deposits. 
+In Argentina, a similar kind of migration to funding with a lower or no RR during normal 
+times affected the ability of the central bank to use an RR adjustment to provide appropriate 
+liquidity during crisis times. T he central bank relied on lowering the RR as the main tool to 
+provide emergency liquidity. However, the RR applied to time deposits was much lower than 
+the RR applied to checking and overnight savings accounts in normal times; this disparity 
+created an unequal distribution of liquidity. When the crisis hit, time deposits showed a 
+higher propensity for runs. The central bank concluded that the unequal imposition of RRs 
+in normal times had parked liquidity in the wrong place.  Also, the interbank market proved 
+to be a poor channel for transmission of liquidity across institutions in a systemic crisis 
+because time deposits were held mostly by investment banks. 
+If a central bank  plans to rely on RR adjustments as a major tool for providing emergency 
+liquidity, it should ensure that the RR framework accurately reflects the potential risks in the 
+financial system to build up funds where they will be most needed, and unequal imposit ion 
+of RRs does not create a migration of funding to riskier sources. 
+9. Computation: What elements went into calculating RRs? 
+Central banks expressed ordinary RRs as the ratio of required reserve assets to a bank’s 
+reservable liabilities. As Figure 2 shows, jurisdictions differed in how they calculated the RR 
+(Della Valle, King, and Veyrune 2022). Some elements considered included: 
+(i) How long the maintenance period should be. The maintenance period is the length 
+of time during which financial institutions must maintain the specified level of 
+required reserve funds. 
+(ii) Whether to require financial institutions to meet the RR on a specific date or on 
+average over the maintenance period. Averaging gives financial institutions the 
+flexibility to allow  their reserves to sometimes fall below the requirement during 
+the maintenance period. 
+(iii) Whether to calculate the reserve requirement based on financial institutions’ 
+liabilities over the same time as the maintenance period (contemporaneous 
+accounting) or ov er an earlier period (lagged accounting). With lagged reserve 
+accounting, financial institutions can be certain about their required reserves; in a 
+contemporaneous framework,  they may have an incentive to set aside more 
+141
+Reserve Requirements Rhee et al.
+
+--- Page 12 ---
+reserves than necessary to make sure  they don’t fall below their requirements. 
+(Montoro and Moreno 2011, 56) 
+Figure 2: RR Computation Pre-crisis 
+Case Averaging Maintenance period Lagged Notes 
+Argentina 1994–1995 Yes 1 month No  
+Brazil GFC Yes 
+1–2 weeks 
+(depended on  
+deposit type) 
+Yes 
+Half-lagged to lagged 
+measure; also depended on 
+deposit type 
+China GFC No 10 days Yes  
+China 2015–2016   Yes(a) 10 days Yes  
+Colombia GFC Yes 2 weeks Yes  
+Czech Republic 1997  Yes 2 weeks     N/A(b)  
+India GFC Yes 2 weeks N/A Likely lagged, but unclear 
+Jamaica GFC Yes 1 month N/A Likely lagged, but unclear 
+Malaysia AFC Yes 2 weeks N/A  
+Peru GFC Yes 1 month No  
+Russia 1998  Yes 25 days Yes Between the 5th and 30th day 
+of the month 
+Russia GFC Yes 1 month No 
+Central bank could require 
+banks to compute RR ratios 
+before the official reporting 
+deadline 
+Thailand AFC Yes 
+1–2 weeks 
+(depended on  
+institution type) 
+No  
+Venezuela GFC N/A N/A N/A  
+(a) In September 2015, the central bank changed from a time -point framework to an averaging method. 
+(b) N/A = not available. 
+Source: Authors’ analysis. 
+In response to a crisis, authorities can provide liquidity not only by changing the RR itself 
+but also by adjusting a certain part of the ratio calculation. For example, in Malaysia during 
+the AFC, the central bank  gave banking ins titutions more flexibility in their daily liquidity 
+operations by widening the band for the permissible daily variation in the average balances 
+required to meet the RR. During the GFC, Russia raised and expanded its av eraging ratio,6 
+ 
+6 Banks kept most required reserve funds in idle accounts with the central bank, which allowed banks that met 
+certain prudential criteria to meet a maximum percentage (the averaging ratio) of their RR ratios using the 
+monthly average balance of their correspondent accounts with the central bank. Correspondent accounts were 
+liquid accounts at a local central bank branch that banks used for interbank payments. 
+142
+Journal of Financial Crises Vol. 4 Iss. 4
+
+--- Page 13 ---
+which gave eligible banks access to some of their otherwise idle required reserve funds as a 
+source of additional liquidity. 
+Central banks also could set marginal reserve requirements. In these cases, the RR ratio 
+denominator was the change in a bank’s liabilities over a set time or above a threshold level 
+of liabilities. For example, Colombia in 2007 introduced a marginal RR on deposit liabilities 
+above the level of May 7, 2007, to lean against credit growth  then eliminated this marginal 
+RR in the second half of August 2008 at the onset of the GFC. Similarly, Peru introduced a 
+marginal RR to temper short -term capital inflows and reinforce the banking sector for 
+increases in domestic currency –denominated liabilities but eliminated this margi nal RR 
+during the GFC. Venezuela also cut its marginal RR during the GFC to increase bank liquidity. 
+10. Eligible Institutions: Which financial institutions were  subject to RRs and RR 
+adjustments? 
+All central banks’ RRs applied to commercial banks and other depository institutions. Other 
+financial institutions  could also be obligated to satisfy RRs . Venezuela required money  
+market mutual funds to hold reserves with the central bank. Peru applied its RRs to a wide 
+category of financial institutions, including municipal funds and small and microenterprise 
+development entities. 
+Argentina included investment banks and mortgage banks. However, attempts to use RR cuts 
+to promote liquidity during a crisis revealed some shortcomings of the RR framework. 
+Lowering RRs did little to resolve  liquidity problems because the institutions experiencing 
+runs were investment banks offe ring time deposits. Although the liabilities of investment 
+banks were included in the RR framework, these bore low or no RRs. The central bank then 
+had to increase RRs on banks in the middle of a crisis to raise funds to lend to the troubled 
+investment banks. 
+Among the financial institutions required to hold reserves, those with a greater need for 
+liquidity often saw deeper central bank s cuts to  the RR. For example, in 2015 –2016 the 
+Chinese central bank reduced RRs for all deposit-taking institutions but applied a lower RR 
+to small and rural institutions, as they had a greater need for liquidity, among other reasons. 
+During a later period of RR easing, China again cut RRs for all banks , but the Agricultural 
+Bank of China received a greater reduction to its RR. 
+In some instances, the central banks differentiate d RRs on an individual -institution basis. 
+During the Ruble Crisis , Russia  applied a specific RR for each bank while performing 
+multilateral clearing operations. The multilateral clearing operations are discussed in more 
+detail in Key Design Decision No. 2, Part of a Package. 
+11. Timing: As the crisis hit, when did the authorities use RR adjustments? 
+RR adjustment is often the first measure a country takes in response to a potential financial 
+crisis, a run , or other stress in the banking system. For example, Argentina during the 
+Mexican Peso Crisis quickly acted to adjust RRs when its peso devalued sharply in December 
+1994. During the GFC, Russia, China, Brazil , and Colombia adjusted their RRs in the same 
+143
+Reserve Requirements Rhee et al.
+
+--- Page 14 ---
+month or right before Lehman Brothers filed for bankruptcy. RR adjustments in Peru, India, 
+Thailand, and Venezuela came slightly later —however, when their central banks felt the 
+repercussions of the GFC hit their jurisdiction s, they soon reduced their RRs. Colombia had 
+a two-month gap between the announcement of the RR adjustments and the date they took 
+effect. In Jamaica, where the central bank faced limits on the size of monthly RR changes, the 
+central bank had to adjust the RR over three months to reach its targeted ratio. 
+Malaysia did not cut the RR until the second phase of its crisis. In its initial response, the 
+central bank cut the policy rate and the government attempted, without success, to borrow 
+on international capital markets. Only later, during a period of tightened fiscal and monetary 
+policy to contain inflationary pressures, did the central bank , having noticed disruption to 
+corporate borrowers’ access to credit, lower RR s to encourage financial institutions to 
+finance productive economic activity. 
+12. Changes in Reserve Requirements: What elements in the RRs changed? 
+Figure 3 lists the RR adjustments in the surveyed cases. Some countries differentiated RR 
+adjustments among currency, maturity , and types of liabilities. Further discussio n on the 
+denominator of RR ratio calculation may be found in Key Design Decision No. 8, Reservable 
+Liabilities. Argentina, instead of cutting the RR, lowered its minimum cash requirement for 
+the RR, to release liquidity. In Venezuela, the central bank cut only the marginal RR. 
+Figure 3 also shows the amount of liquidity released based on data the central bank or 
+International Monetary Fund supplied. In some cases, a proxy for banking sector liquidity is 
+used; for example, China in 2015–2016 released a figure for the actual decline in bank 
+reserves after the RR cut. The actual impact of the liquidity, however, depends on other 
+factors including conditions around reservable assets and remuneration on those assets held 
+at the central bank, and therefore does not directly translate into the amount of liquidity 
+banks made available to the market or themselves through the RR adjustments. For example, 
+during the GFC, various industry officials  in the country  stated that the R eserve Bank of 
+India’s policy rate cuts, including the reduction to the  RR, had not led to adequate credit 
+expansion, and the then –commerce and industry minister remarked that fresh liquidity 
+released had not reached “cash-starved industry and consumers” (Dhasmana 2009). 
+ 
+144
+Journal of Financial Crises Vol. 4 Iss. 4
+
+--- Page 15 ---
+Figure 3: RR Changes and Liquidity Released 
+Case RR range Eligible Liabilities 
+Liquidity released 
+(USD) 
+Argentina  
+1994–1995(a) 
+43%–30% 
+3%–1% 
+demand and savings deposits 
+time deposits  4 billion__  
+Brazil GFC 
+53%–42% 
+30%–20% 
+8%–9% 
+demand deposits 
+savings deposits 
+time deposits  
+71 billion__  
+China GFC 17.5%–15.5% headline rate for large financial institutions 117 billion__  
+China 2015–2016 20%–17.5% headline rate for large financial institutions 330 billion(b)  
+Colombia GFC 
+40%–11% 
+35%–11% 
+7.5%–4.5% 
+checking accounts 
+savings accounts 
+time deposits 
+— 
+Czech Republic 1997  11.5%–9.5% all 0.66 billion(c)  
+India GFC 9%–5% 
+25%–24% 
+cash reserve requirement 
+statutory liquidity ratio 40.9 billion__ 
+Jamaica GFC 9%–14% 
+23%–28% 
+cash  
+liquid assets (0.17 billion)(d)  
+Malaysia AFC 13.5%–4% all 9.7 billion(e) 
+Peru GFC 9%–6% 
+40%–0% 
+ordinary RR 
+marginal RR 0.75 billion__ 
+Russia 1998  
+16%–5% 
+13%–5% 
+10%–5% 
+demand and time liabilities up to 30 days 
+time liabilities of 31–90 days 
+time liabilities of more than 90 days 
+2.8 billion(b) 
+Russia GFC 
+8.5%–0.5% 
+6.5%–0.5% 
+5.5%–0.5% 
+liabilities to foreign banks 
+other liabilities 
+liabilities to individuals in rubles 
+14.1 billion__ 
+Thailand AFC 7%–6% all 1.52 billion__ 
+Venezuela GFC 30%–17% marginal RR 2.8 billion__ 
+(a) These changes apply to the  minimum cash requirement within the RR. The authorities announced that 
+these resulted in an indirect average RR cut of 21% to 14% for all deposits.  
+(b) These figures are not specifically liquidity released but a decline in bank reserves (China 2015–2016) and 
+a decline in required reserve account balances (Russia 1998), representing the amount actually drawn 
+down through the cuts to RRs. 
+(c) This figure reflects the May 1997 cut only; the central bank cut the reserve requirement ratio three more 
+times during July 1998–October 1999. About half of this figure was sterilized through requiring importers 
+to deposit a certain percentage of the value of their imports with the central bank. 
+(d) Jamaica increased the RR to prevent its currency from sharply depreciating; the figure presented 
+represents liquidity absorbed. This is the only case in the survey covering a country that increased the RR. 
+(e) Out of USD 9.7 billion, the first RR adjustment released USD 5.8 billion, which was sterilized, and the later 
+adjustment released USD 3.9 billion, which was not sterilized.  
+Source: Authors’ analysis. 
+145
+Reserve Requirements Rhee et al.
+
+--- Page 16 ---
+13. Changes in Interest/Remuneration: Were changes  made to remuneration on 
+assets held in an account with the central bank as required reserves? 
+Among the cases reviewed, five central banks had the authority to pay interest on the portion 
+of reserves held at the central bank—Brazil, China, Colombia, Peru, and Venezuela. However, 
+although Peru and Venezuela had the authority to remunerate, they did not do so. Colombia 
+ultimately stopped remunerating reserves on July 24, 2009. Argentina amended the relevant 
+law in 2001, after the crisis, allowing the central bank to remunerate reserves. Of course, as 
+noted, several central banks allowed financial institutions to hold reserve assets other than 
+cash or deposits with the central bank , such as government securities, that  typically paid 
+interest. 
+Brazil’s RRs included ordinary reserves, which paid low or no interest; extraordinary reserves, 
+which the Banco Central do Brasil required banks to hold in cash; and a government bond–
+holding requirement. Both the extraordinary cash reserves and the government bonds earned 
+interest at the central bank’s target policy rate. During the GFC, Brazil also introduced a 
+temporary RR that forced banks to move their time deposit reserves from government bonds 
+to unremunerated reserves unless they provided liquidity to smaller banks. 
+14. Other Restrictions: Did any other conditions or restrictions accompany the 
+adjustments to RRs? 
+Sometimes, central banks attached additional conditions to direct liquidity released by 
+adjustments to RRs to a specific use by the banks and financial institutions. In Russia in 1998, 
+the central bank allowed the banks to use funds in the reserves to settle and clear interbank 
+liabilities. 
+In Brazil, the central bank’s RR policy had an unusual component that we didn’t see in other 
+cases: it allowed banks to deduct part of their required reserves by fixed amounts, varying 
+for the three types of RRs . The deductibles effectively lowered the RR burden for relatively 
+small banks. In particular, t he government bond –holding RR had a high deductible that 
+effectively exempted most small and medium -sized banks. In addition, d uring the GFC, the 
+central bank allowed the largest six banks to deduct loan portfolio purchases from the 
+remaining 97 banks  from their government bond –holding RR . With this deduction, the 
+central bank attempted to voluntarily shift reserves from large banks to smaller banks. 
+Argentina, India, Peru, and Russia imposed fines on banks that fell short of the RR. In Russia, 
+the central bank waived the fine for noncompliance during the period of RR adjustment. 
+15. Impact on Monetary Policy Transmission: Did the release of liquidity through an 
+adjustment to the RR have any impact on monetary or macroprudential policies, 
+or did the authorities implement sterilizing measures for the additional liquidity 
+released? 
+Generally, there was no sterilization for the additional liquidity provided by lowering RRs. 
+However, the Czech Republic and Malaysia did attempt to sterilize. The Czech Republic 
+partially sterilized the additional liquidity through the government’s new import deposit 
+146
+Journal of Financial Crises Vol. 4 Iss. 4
+
+--- Page 17 ---
+scheme, in which importers of select goods had to deposit 20% of their imports’ value with 
+the central bank  for a six-month period. The central bank also sterilized a l owering of RRs 
+through repo transactions. 
+The Malaysian central bank initially sterilized additional liquidity by reducing direct lending 
+to the interbank market. However, its later lowering of the RR remained unsterilized as the 
+central bank determined that its overall policy package had successfully reduced inflation. 
+16. Duration: Did the authorities announce an end date for the RR adjustment? 
+Most of the central banks in the cases surveyed did not announce an end date, although many 
+emphasized the temporary nature of the RR adjustments. A Bank for International 
+Settlements report suggests that banks and other financial institutions will be more willing 
+to use the released liquidity if the authority can credibly convince the market that it is 
+committed to keeping reserve requirements low until banks have sufficient time to rebuild 
+buffers (BIS 2012). 
+In both the  Ruble Crisis and the GFC , Russia  explicitly stated an end  date. As each crisis 
+persisted, the central bank  ultimately postponed the date at which it would return RRs to 
+pre-crisis levels. In Argentina, the initial announcement of the RR adjustment did not include 
+a specific end date, but the central bank did announce one a few weeks later. 
+Conclusion 
+The literature assessing the effectiveness of RR adjustments in response to financial crises is 
+limited. Often, the RR adjustments were accompanied by other liquidity providing 
+interventions; thus, isolating the effect of the adjustments in providing liquidity relief to 
+financial institutions is difficult. Many central banks published the amount of liquidity they 
+expected to release through RR adjustments. However, a bank or financial institution did not 
+necessarily use the released funds to deal with liquidity shortages within the institution or 
+extend loans. 
+Nevertheless, we find that a close examination of 14 cases suggests that RR adjustments have 
+several advantages in a crisis: ( 1) they require little process , and the change for banks can 
+be quick; (2) stigma concerns may be much lower than with emergency lending operations; 
+(3) RRs can be used to fine-tune incentives for holding various types and maturities of assets; 
+and (4) RR easing can complement a central bank’s other liquidity support programs. 
+References 
+Bank for International Settlements  (BIS). 2012. Operationalising the Selection and 
+Application of Macroprudential Instruments: Report Submi tted by a Working Group 
+Established by the Committee on the Global Financial System.  Bank for International 
+Settlements, Committee on the Global Financial System, Paper No. 48, December 2012.   
+147
+Reserve Requirements Rhee et al.
+
+--- Page 18 ---
+https://ypfs.som.yale.edu/library/operationalising-selection-and-application-
+macroprudential-instruments 
+Bank of Jamaica (BOJ). 2008. “News Release.” November 18, 2008.  
+https://ypfs.som.yale.edu/node/21822 
+Central Bank of the Russian Federation (CBR). 1998. “Legal Status.” Webpage. 
+https://ypfs.som.yale.edu/library/document/legal-status-july-12-1998 
+———. 1999. Annual Report 1998.   
+https://ypfs.som.yale.edu/library/document/annual-report-1998-0 
+Decker, Bailey. 2022. “Malaysia: Reserve Requirements, AFC.” Journal of Financial Crises  4, 
+no. 4.   
+https://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss4/24/ 
+Della Valle, Guido, Darryl King, and Romain Veyrune. 2022. “Reserve Requirements.” In 
+Monetary and Capital Markets Department: Technical Assistance Handbook. Washington, DC: 
+International Monetary Fund.   
+https://ypfs.som.yale.edu/library/monetary-and-capital-markets-department-technical-
+assistance-handbook-reserve-requirements 
+Dhasmana, Indivjal. 2009. “Bank Funds Not Reaching Industry, Consumers: Nath.” Press 
+Trust of India, January 30, 2009. Press Trust of India.  
+https://ypfs.som.yale.edu/node/20091 
+Fulmer, Sean. 2022. “Brazil: Reserve Requirements, GFC.” Journal of Financial Crises 4, no. 4. 
+https://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss4/17/ 
+Fulmer, Sean, and Bailey Decke r. 2022. “Peru: Reserve Requirements, GFC.” Journal of 
+Financial Crises 4, no. 4.  
+ https://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss4/25/ 
+Hoffner, Ben jamin. 2022a. “Czech Republic: Reserve Requirements, 1997.” Journal of 
+Financial Crises 4, no. 4.   
+https://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss4/21/ 
+———. 2022b. “Russia: Reserve Requirements, 1998.” Journal of Financial Crises 4, no. 4.  
+https://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss4/26/ 
+———. 2022c. “Russia: Reserve Requirements, GFC.” Journal of Financial Crises 4, no. 4.  
+https://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss4/27/ 
+Leonard, Natalie. 2022. “Argentina: Reserve Requirements, 1994–1995.” Journal of Financial 
+Crises 4, no. 4.   
+https://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss4/16/ 
+148
+Journal of Financial Crises Vol. 4 Iss. 4
+
+--- Page 19 ---
+Leonard, Natalie, and Bailey Decker. 2022. “Colombia: Reserve Requirements, GFC. ” Journal 
+of Financial Crises 4, no. 4.  
+https://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss4/20/ 
+Montoro, Carlos, and Ramon Moreno. 2011. “The Use of Reserve Requirements as a Policy 
+Instrument in Latin America.” Bank for Internationa l Settlements, BIS Quarterly Review 
+(March).   
+https://ypfs.som.yale.edu/library/use-reserve-requirements-policy-instrument-latin-
+america 
+Mott, Carey. 2022a. “China: Reserve Requirements, GFC.” Journal of Financial Crises 4, no. 4. 
+https://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss4/18/ 
+———. 2022b. “China: Reserve Requirements, 2015–2016.” Journal of Financial Crises 4,   
+no. 4.  
+https://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss4/19/ 
+Nunn, Sharon, and Carey Mott.  2022. “India: Reserve Requirements, GFC.” Journal of 
+Financial Crises 4, no. 4.   
+https://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss4/22/ 
+People’s Bank of China (PBOC). 2009. “China Monetary Policy Report, Quarter Four, 2008.”  
+https://ypfs.som.yale.edu/library/china-monetary-policy-report-quarter-four-2008 
+Runkel, Corey. 2022a. “Jamaica: Reserve Requirements, GFC.” Journal of Financial Crises  4, 
+no. 4.  
+https://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss4/23/ 
+———. 2022b. “Venezuela: Reserve Requirements, GFC.” Journal of Financial Crises 4, no. 4.  
+https://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss4/29/ 
+Runkel, Corey, and Ezekiel Vergara. 2022. “Thailand: Reserve Requirements, AFC.” Journal of 
+Financial Crises 4, no. 4.   
+https://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss4/28/ 
+ 
+Copyright 2022 © Yale University. All rights reserved. To order copies of this material or to receive 
+permission to reprint any or all of this document, please contact the Yale Program on Financial 
+Stability at ypfs@yale.edu. 
+149
+Reserve Requirements Rhee et al.

@@ -1,0 +1,374 @@
+## Public-Private Investment Program: The Legacy Loans Program (U.S. GFC)[1] 
+
+## _Benjamin Henken_[2] 
+
+Yale Program on Financial Stability Case Study March 20, 2019, revised: October 10, 2020 
+
+## **Abstract** 
+
+On March 23, 2009, the U.S. Treasury, in conjunction with the Federal Reserve (Fed) and the Federal Deposit Insurance Corporation (FDIC), announced the Public-Private Investment Program (PPIP). PPIP consisted of two complementary programs designed to foster liquidity in the market for certain mortgage-related assets: The Legacy Loans Program and the Legacy Securities Program. This case study discusses the design and implementation of the Legacy Loans Program. Under this program, the FDIC and Treasury attempted to create publicprivate investment partnerships that—using a combination of private equity, Treasury equity, and FDIC-guaranteed debt—would purchase legacy mortgage loans from U.S. banks by way of FDIC-supervised auctions of them. Despite months of FDIC attempts to develop the program, it was never implemented. The program was criticized by many in the media and academic community for favoring the interests of private investors over those of taxpayers; government officials, however, have contended that these concerns were unfounded. 
+
+**Keywords:** Public-Private Investment Program, PPIP, Legacy Loans Program, TARP, U.S. Department of the Treasury, FDIC, mortgage-related assets, asset purchase program 
+
+_____________________________________________________________________ 
+
+> 1 This case study is part of the Yale Program on Financial Stability (YPFS) selection of New Bagehot Project modules considering the responses to the global financial crisis that pertain to market liquidity programs. Cases are available from the _Journal of Financial Crises_ at https://elischolar.library.yale.edu/journal-offinancial-crises/. 
+
+> 2 Benjamin Henken – Research Associate, YPFS, Yale School of Management. 
+
+
+## Legacy Loans Program (PPIP) 
+
+## **At a Glance** 
+
+By the fall of 2008, troubled mortgage-related assets had become inextricably linked to the onset of the Global Financial Crisis. Marked down to only a fraction of what they were once worth, these assets weighed heavily on financial institutions in possession of them, consuming their capital, raising concerns about their solvency, and inhibiting their ability to make new loans. 
+
+On March 23, 2009, the U.S. Treasury, the Federal Deposit Insurance Corporation (FDIC), and the Federal Reserve Board (Fed) announced the PublicPrivate Investment Program (PPIP), consisting of two complementary programs designed to create demand and provide liquidity for these assets: the Legacy Loans Program and the Legacy Securities Program. This case study discusses the design and implementation of the Legacy Loans Program. For more information on the Legacy Securities Program, see Henken 2019. 
+
+The Legacy Loans Program revolved around the creation of public-private investment funds (PPIFs) that—using a combination of private equity, 
+
+||Summary of Key Terms|Summary of Key Terms|
+|---|---|---|
+||Purpose: To facilitate private investment in illiquid||
+||mortgage loans through a public-private partnership||
+||andFDIC-supervised auctions ofthem.||
+||AnnouncementDate|March 23,2009|
+||Operational Date|Never implemented|
+||Legal Authority|Emergency Economic|
+|||Stabilization Act of 2008|
+|||(Troubled Asset Relief|
+|||Program); FDIC systemic|
+|||riskexception|
+||Program Mechanics|To form public-private|
+|||investment funds to|
+|||purchase mortgage loans put|
+|||up for sale by banks via an|
+|||FDIC-led auction|
+||PeakUsage|$0 (as originally planned)|
+||Government|U.S. Department of the|
+||Sponsors|Treasury, Federal Deposit|
+|||Insurance Board, Federal|
+|||Reserve Board|
+
+
+
+Treasury equity, and FDIC-guaranteed debt—would purchase legacy mortgage loans from U.S. banks by way of FDIC-supervised auctions of them. As the primary government sponsor, the FDIC was responsible for most of the program’s elements, including establishing PPIFs with private investors, setting guidelines for participation, reviewing loans submitted by banks, and ultimately putting up the loans for auction. 
+
+Immediately following its announcement, the program was received favorably by investors. However, doubt about its viability soon grew. Despite spending months developing the program, the FDIC and the Treasury never implemented it. 
+
+## **Summary Evaluation** 
+
+The Legacy Loans Program was met with criticism from many in the media and the academic community. Some argued that the program was doomed to fail from the very beginning—that it offered plenty of incentives for private investors but little reason for holders of mortgage loans to now sell them, resulting in a stalemate and little new market activity. Others worried that the program created a moral hazard, presenting private investors with huge profit potential but without forcing them to shoulder enough of the risk. 
+
+
+|**The Legacy Loans Program:  United States Context**|**The Legacy Loans Program:  United States Context**|
+|---|---|
+|**GDP**<br>**(SAAR, Nominal GDP**<br>**in LCU converted to**<br>**USD)**|$14,681.5 billion in 2007<br>$14,559.5 billion in 2008<br>_Source: Bloomberg_|
+|**GDP per capita**<br>**(SAAR, Nominal GDP**<br>**in LCU converted to**<br>**USD)**|$47,976 in 2007<br>$48,383 in 2008<br>_Source: Bloomberg_|
+|**Sovereign credit**<br>**rating (5-year senior**<br>**debt)**|As of Q4, 2007:<br>Fitch: AAA<br>Moody’s: Aaa<br>S&P: AAA<br>As of Q4, 2008:<br>Fitch: AAA<br>Moody’s: Aaa<br>S&P: AAA<br>_Source: Bloomberg_|
+
+
+
+
+|**Size of banking**<br>**system**|$9,231.7 billion in total assets in 2007<br>$9,938.3 billion in total assets in 2008<br>_Source: Bloomberg_|
+|---|---|
+|**Size of banking**<br>**system as a**<br>**percentage of GDP**|62.9% in 2007<br>68.3% in 2008<br>_Source: Bloomberg_|
+|**Size of banking**<br>**system as a**<br>**percentage of**<br>**financial system**|Banking system assets equal to 29.0% of<br>financial system in 2007<br>Banking system assets equal to 30.5% of<br>financial system in 2008<br>_Source: World Bank Global Financial_<br>_Development Database_|
+|**5-bank concentration**<br>**of banking system**|43.9% of total banking assets in 2007<br>44.9% of total banking assets in 2008<br>_Source: World Bank Global Financial_<br>_Development Database_|
+|**Foreign involvement**<br>**in banking system**|22% of total banking assets in 2007<br>18% of total banking assets in 2008<br>_Source: World Bank Global Financial_<br>_Development Database_|
+
+
+
+
+|**Government**<br>**ownership of banking**<br>**system**|0% of banks owned by the state in 2008<br>_Source: World Bank, Bank Regulation and_<br>_Supervision Survey_|
+|---|---|
+|**Existence of deposit**<br>**insurance**|100% insurance on deposits up to $100,000<br>for 2007<br>100% insurance on deposits up to $250,000<br>for 2008<br>_Source: Federal Deposit Insurance Corporation_|
+
+
+
+
+## **I. Overview** 
+
+## **Background** 
+
+By the fall of 2008, troubled mortgage-related assets had become inextricably linked to the onset of the Global Financial Crisis (GFC). Marked down to only a fraction of what they once were worth, these assets weighed heavily on the nation’s financial institutions, consuming their capital, raising concerns about their solvency, and inhibiting their ability to make new loans (PPIP White Paper 2009). 
+
+On September 19, 2008, U.S. Treasury Secretary Henry Paulson issued a public statement on the escalating crisis, calling troubled mortgage-related assets “the underlying weakness [of the U.S.] financial system” (Paulson Statement 9/19/2018). Two weeks later, Congress responded by enacting the Emergency Economic Stabilization Act (EESA), approving the creation of the Troubled Asset Relief Program (TARP) and giving the Treasury up to $700 billion with which to purchase these assets. 
+
+By the end of year, the Treasury had disbursed nearly $200 billion in TARP funding; however, it had yet to establish an asset purchase program. Two months earlier, the Treasury decided to halt the development of such a program, citing the exceeding complexity of designing one and the relative inefficiency of buying troubled assets as opposed to bank capital (Paulson Statement 11/12/2008). 
+
+By early 2009, the worst of the financial crisis had subsided, yet troubled mortgage assets continued to pose a threat to the broader financial system. Deep markdowns on these assets “[created] uncertainty around the balance sheets of financial institutions [holding them], compromising their ability to raise capital and their willingness to increase lending” (PPIP Fact Sheet 2009). The resulting drag on new credit formation threatened to exacerbate the ongoing recession (PPIP Fact Sheet 2009). 
+
+On February 10, 2009, in recognition of the risk of prolonged financial and economic instability, the Obama Treasury announced a comprehensive Financial Stability Plan that was intended to “attack [the] credit crisis on all fronts” (Financial Stability Plan 2009). Given the prevalence of troubled mortgage assets and their role in instigating the crisis, a key focus of this plan was to “restart” primary and secondary markets for these assets, with the hope of giving financial institutions a chance to “cleanse their balance sheets” of them (Financial Stability Plan 2009). 
+
+## **Program Description** 
+
+On March 23, 2009, on the basis of a proposal outlined in the Financial Stability Plan, the Treasury, Federal Deposit Insurance Corporation (FDIC), and Federal Reserve (Fed) officially announced the Public-Private Investment Program (PPIP). The program was created to allow for the establishment of public-private investment partnerships; “using $75 [billion] to $100 billion in TARP capital and capital from private investors,” these partnerships would aim to purchase up to $500 billion in “legacy assets,” providing a significant injection of liquidity to the market for them (PPIP Fact Sheet 2009). PPIP consisted of two complementary programs designed to support the market for mortgage loans and related assets: the Legacy Loans Program and the Legacy Securities Program. This 
+
+
+case study discusses the design and implementation of the Legacy Loans Program. For more information on the Legacy Securities Program, see Henken 2019.[3] 
+
+The Legacy Loans Program revolved around the creation of public-private investment funds (PPIFs) that—using a combination of private equity, Treasury equity, and FDIC-guaranteed debt—would purchase legacy mortgage loans from U.S. banks by way of FDIC-supervised auctions of them. In so doing, the government sought “to boost private demand for [these] distressed assets . . . and facilitate market-priced sales of [them],” helping banks “to free up capital” and to pick up the pace of “new credit formation” (PPIP White Paper 2009). 
+
+## _Program Sequence_ 
+
+To begin the program, eligible U.S. banks and savings associations were instructed “to work with their primary regulators to identify” pools of legacy mortgage loans that they wanted to sell. Once they did so, the FDIC—with the help of a “third party valuation firm”—would assess the quality of the loans and, based on this assessment, decide how much leverage investors could take on when purchasing them. In all cases, leverage would not be more than 6:1. After rendering a judgment, the FDIC would put up the loans for auction and collect bids submitted by the PPIFs. At the conclusion of each auction, the FDIC would inform the seller of the top bid and allow it time to decide whether to accept (PPIP Fact Sheet 2009; PPIP White Paper 2009; SIGTARP Report Q2 2009). 
+
+If their bids were accepted, PPIFs would finance purchases of loans by committing a combination of Treasury and private equity and by issuing nonrecourse, FDIC-guaranteed debt. The proportion of equity and debt used to finance purchases depended on the leverage the FDIC had permitted for the loans. Say, for example, that a loan pool with a face value of $100 was sold to a PPIF for $84 and that the FDIC had permitted leverage of 6:1 for its purchase. To fund the purchase of these loans, a PPIF would commit $6 of private equity and $6 of Treasury equity and issue $72 of FDIC-guaranteed debt (PPIP Fact Sheet 2009). Figure 1 illustrates an example of such a scenario. 
+
+[FIGURE id=vol2_iss3_12_f1 type=chart label="Figure 1" file=figure_1.png caption="Example Sale of $100 Loan Portfolio"]
+### **Figure 1: Example Sale of $100 Loan Portfolio**
+
+Example sale of $100 loan portfolio for $84 to a buyer using leverage of 6:1 
+
+
+[FIGURE id=vol2_iss3_12_f2 type=figure label="Exhibit 2" file=exhibit_2.png caption=""]
+![Exhibit 2](assets/vol2_iss3_12/exhibit_2.png)
+
+
+_Source: Based on Figure 2.20, SIGTARP Report Q2 2009._ 
+
+_____________________________________________________________________ 
+
+> 3 Henken, Benjamin. 2019. “The Public-Private Investment Program: The Legacy Securities Program (U.S. GFC).” Yale Program on Financial Stability. 
+
+
+## _Financing Details_ 
+
+As noted above, equity in each PPIF would be divided equally between the Treasury and private investors, and all investments would consist of Treasury and private equity in equal parts. The FDIC anticipated participation by a wide range of private investors, such as “financial institutions, individuals, insurance companies, mutual funds, publicly managed investment funds and pension funds.” In return for its commitment, the Treasury would receive warrants in each PPIF (Legacy Loans Program Terms). 
+
+After committing equity, PPIFs fulfilled what remained of a purchase price by issuing debt directly to the banks from which they purchased the loans.[4] The FDIC would provide a guarantee for this debt, for which it would receive a fee to be paid annually and based on the amount that remained outstanding. The guarantee would be secured by the loans that the debt was used to purchase (Legacy Loans Program Terms). 
+
+## _Profit- and Loss-Sharing_ 
+
+All returns generated by PPIFs would be divided by their stakeholders in proportion to their equity interests (Legacy Loans Program Terms). 
+
+## _Assets Management_ 
+
+Assets acquired by PPIFs would be managed by fund managers according to guidelines set forth by the FDIC (Legacy Loans Program Terms). 
+
+## _Abuse Prevention_ 
+
+PPIFs could not buy assets from (1) affiliates of their investors or (2) firms with a stake of more than 10% in them; they also were required to “agree to waste, fraud, and abuse protections . . . defined by [the Treasury] and the FDIC” (Legacy Loans Program Terms). 
+
+## _Servicing_ 
+
+Loans would continue to be serviced by the banks that sold them (Legacy Loans Program Terms). 
+
+## **Outcomes** 
+
+The announcement of PPIP on March 23, 2009, was received favorably at the time by the market; the S&P 500 and Dow Jones Industrial Average both had gains of 7% that day. However, the Legacy Loans Program—as initially drawn up—was never implemented. Several reasons seem to have contributed to this outcome. Above all, developing a program with features as such (e.g., public-private partnership, auction process) appears to have been a difficult task for the FDIC, and the market showed a “reluctance to participate” in a program that it consequently viewed as unlikely to succeed (among other reasons) (Polk and Wardwell 2009). This difficulty was likely compounded by the fact that even before 
+
+_____________________________________________________________________ 
+
+> 4 Put another way, banks selling assets were compensated in cash (equity) and debt notes that were guaranteed by the FDIC. The banks could either hold on to these notes or attempt to sell them in the market. 
+
+
+attempting to roll out the program, the FDIC had reservations about it (Bair 2013). For more information on the response to the program, see the Evaluation section. 
+
+The FDIC did, however, conduct a test run of the program during summer 2009 involving the sale of receivership loans to Residential Credit Solutions (RCS), a company that was active in the mortgage market. Per the arrangement, RCS purchased a 50% stake in a pool of residential mortgage loans with a face value of $1.3 billion for $64 million, leaving the FDIC with 50% ownership. It also issued $728 million in FDIC-guaranteed debt directly to the FDIC because—through receivership—the FDIC was the owner of these loans. Although there has been little analysis of this transaction, it appears to have been successful, given that the FDIC has used a similar approach to sell receivership loans on other occasions (Bair 2013). 
+
+## **II.** 
+
+## **1. The FDIC and Treasury sought to facilitate private investment in troubled mortgage loans through a public-private partnership.** 
+
+In early 2009, huge markdowns on mortgage-related assets continued to afflict the banks in possession of them, consuming their capital and inhibiting their ability to make new loans (PPIP White Paper 2009). That March, in recognition of the risks associated with these assets, the Treasury established the Public-Private Investment Program (PPIP) with two primary goals in mind. The obvious aim was to create new demand for troubled mortgage assets, thus enabling financial institutions to sell them. At the same time, the Treasury wanted a considerable portion of the new demand to be from private investors. In order to achieve this, it sought to form investment partnerships with them. 
+
+While the government could have purchased these assets on its own, it concluded that incorporating the private sector into its approach had three clear advantages: It would (1) “[leverage] the impact of each taxpayer dollar,” enabling for the purchase of more assets using less TARP funding; (2) reduce government exposure to risk, as the private sector would help to shoulder losses on investments; and (3) “provide a mechanism for valuing the assets,” helping the government to avoid paying the wrong price for them, which would have further distorted the dysfunctional market it sought to fix (PPIP Fact Sheet 2009; Elliott 2009; Polk and Wardwell 2009). 
+
+**2. Treasury funding for PPIP was authorized under the Troubled Asset Relief Program (TARP); the FDIC sought to participate through its systemic risk exception.** 
+
+Created by Congress in October 2008 with the enactment of the Emergency Economic Stabilization Act (EESA), the Troubled Asset Relief Program enabled the Treasury “to purchase and insure certain types of troubled assets for the purposes of providing stability to and preventing disruption in the economy and financial system” (Public Law 110—343). The law defined troubled assets as: 
+
+(A) residential or commercial mortgages and any securities, obligations, or other instruments that are based on or related to such mortgages, that in each case was originated or issued on or before March 14, 2008, the purchase of which the Secretary 
+
+
+determines promotes financial market stability; and (B) any other financial instrument that the Secretary, after consultation with the Chairman of the Board of Governors of the Federal Reserve System, determines the purchase of which is necessary to promote financial market stability, but only upon transmittal of such determination, in writing, to the appropriate committees of Congress. 
+
+Legacy loans and securities that were eligible for purchase through PPIP largely conformed to the description in definition (A). However, given the existence of definition (B), the Treasury Secretary also had the authority to decide if other assets needed to be purchased and what characteristics to apply to them. 
+
+Meanwhile, the FDIC sought to participate in the program by citing the systemic risk exception created by the Federal Deposit Insurance Corporation Improvement Act of 1991. It is unclear, however, if it ever received the authority to do so (GAO 2011). 
+
+## **3. The FDIC was responsible for most of the program’s elements, while the Treasury provided TARP funding for asset purchases.** 
+
+The FDIC was responsible for most of the program’s elements. Its primary duties were to (1) “provide oversight for the formation, funding, and operation of [all] PPIFs,” which included vetting and approving private sector investors before they could participate;[5] (2) appoint and work with a “third-party valuation firm” to assess the quality of loan portfolios that banks wanted to sell, and to specify a leverage limit for the purchase of them; and (3) hold auctions (presumably with the help of third-party contractors), which not only required it to coordinate bids but also “preparation of required marketing materials” (i.e., making information on auction items—loans—available to PPIFs that were interested in purchasing them). The Treasury’s role was that of a funder; it agreed to provide exactly half of each PPIF’s equity base.[6] The Special Inspector General for TARP and Government Accountability Office (GAO) were ready to assist in a supervisory role (Legacy Loans Program Terms). 
+
+## **4. Favorable financing terms were intended to induce private sector investment in troubled mortgage loans.** 
+
+Because the private market was hesitant to invest in troubled mortgage loans, the government needed to provide an incentive for it to do so as part of the Legacy Loans Program. As a result, the Treasury agreed to take a 50% stake (or less if investors so desired) in assets they purchased, and the FDIC promised to guarantee the nonrecourse debt they issued to fund these investments. In so doing, the program effectively reduced the risk borne by these investors while amplifying any returns they generated—decreasing the amount of capital they would have to gamble on these assets while assuring they had access to affordable debt to purchase them (Polk and Wardwell 2009). 
+
+At the same time, the provision of cheap financing was also supposed to increase investor tolerance for paying higher prices for these assets (Polk and Wardwell 2009). In this way, 
+
+_____________________________________________________________________ 
+
+> 5 The FDIC said that it would “pre-screen” private investors but did not say what specifically it would look for. 6 The FDIC noted that it would permit PPIFs to accept less equity from the Treasury but did not clarify terms that would apply to such a decision. 
+
+
+the program would help to convince holders of these assets to choose to now sell them (Polk and Wardwell 2009). 
+
+## **5. FDIC-supervised auctions were intended to recreate a functional marketplace for legacy loans.** 
+
+The illiquidity of legacy loans in large part was due to the inability of buyers and sellers to settle on the price of them amid the ongoing housing correction and credit crisis (Elliott 2009). By holding auctions for these loans, the FDIC intended to manufacture a market for them, helping to “provide a . . . mechanism for valuing [them]” (PPIP Fact Sheet 2009). 
+
+## **6. Any FDIC-insured bank or savings associations could sell assets to PPIFs.** 
+
+For the purpose of the program, these institutions were defined as any “bank or savings association organized under the laws of the United States or any State of the United States, the District of Columbia, any territory or possession of the United States, Puerto Rico, Northern Mariana Islands, Guam, American Samoa, or the Virgin Islands” (Legacy Loan Program Terms). 
+
+## **7. Few restrictions were placed on who could invest in PPIFs.** 
+
+The FDIC and Treasury anticipated that a wide range of investors would want to invest in PPIFs—including “financial institutions, individuals, insurance companies, mutual funds, publicly managed investment funds and pension funds”—and did not explicitly prohibit participation by anyone except for some foreign firms (Legacy Loans Program Terms; Financial Crisis Manual). 
+
+## **8. Eligible institutions could sell mortgage loans secured by real estate located in the United States, subject to the approval of such loans by its regulators.** 
+
+This was the only explicit asset eligibility guideline issued by the FDIC. Aside from this, banks were instructed to “work with their primary bank regulators . . . to identify and sell assets with a view to restoring maximum confidence for depositors, creditors, investors, and other counterparties”—suggesting that eligibility determinations would be made in consideration of the circumstances faced by individual banks (Legacy Loans Program Terms). 
+
+## **9. The Treasury originally stated the goal of committing up to $100 billion for PPIP’s implementation, while the FDIC gave no limit for its participation.** 
+
+In announcing PPIP, the Treasury stated the goal of committing up to $100 billion for its implementation, with the hope that—once the program incorporated private capital—it would be able to provide for the purchase of up to $500 billion in troubled mortgage assets. Although the FDIC’s commitment fell in line with this expectation, the agency gave no definitive indication of the amount of debt it was willing to guarantee. 
+
+## **10. No specific timeline was set for the program.** 
+
+No guidance was given as to how many auctions the FDIC would hold and over what time frame nor as to how long the PPIFs would have to manage any purchased assets. 
+
+
+## **11. PPIP was just one of several programs introduced as part of the Financial Stability Plan to increase the accessibility and lower the cost of credit.** 
+
+In February 2009, the Obama Treasury announced its Financial Stability Plan. Even though a wide array of financial stability efforts were already underway, the Obama Treasury saw the need for a second wave of crisis-fighting programs—ones specifically designed to “attack the credit crisis on all fronts” (Financial Stability Plan). The plan involved the participation of several government agencies and—in addition to PPIP—included proposals that ultimately became the Supervisory Capital Assessment Program (SCAP), Capital Assistance Program (CAP), expansion of the Term Asset-Backed Securities Loan Facility (TALF), Small Business Administration Section 7(a) Securities Purchase Program, and foreclosure prevention programs, including the Home Affordable Modification Program (HAMP) and Home Affordable Refinance Program (HARP). 
+
+## **III. Evaluation** 
+
+Although the market originally responded favorably to the Legacy Loans Program, it quickly became the subject of criticism by media and scholars. Economist and _New York Times_ columnist Paul Krugman, for example, thought that the design of the program was inherently flawed; while the program offered a clear advantage to private investors, he believed that banks selling these assets would see a minimal increase in the price being offered for them. In his opinion, this misalignment of incentives for buyers and sellers would produce a stalemate between them, rendering the program largely ineffective (Krugman 2009a; Krugman 2009b). 
+
+The program was also the subject of scorn by some in the media and scholarly community who believed that it created a large moral hazard, promising too many benefits for private investors without forcing them to shoulder enough of the risk. _New York Times_ columnist Andrew Ross Sorkin likened the opportunity to “risk-free investing,” suggesting that without any recourse, private investors would be inclined to bid too much for assets, exposing the FDIC to potentially large losses (Sorkin 2009). Jeffrey Sachs, an economist, argued that banks would conspire to enrich themselves through the program. In his view, banks would use the program to synthetically raise the price of their own troubled assets, and by selling them to PPIFs, would be able to transfer most of the losses onto the government (Sachs 2009). 
+
+Former government officials, however, have insisted that most of these concerns were unfounded. Former FDIC Chairwoman Sheila Bair, for instance, rebuked Sorkin’s suggestion that the FDIC would ultimately bear the risk for poor investment performance, pointing out that any losses borne by the FDIC would be paid for by banking industry assessments (Bair 2013). Former Treasury Secretary Timothy Geithner likewise argues that the program “was not nearly as generous to Wall Street as everyone thought”; in his view, critics were downplaying the importance of the private sector having to commit its own capital and ignoring the fact that “financial institutions with troubled assets [were] under no obligation to sell” them (Geithner 2014). 
+
+
+## **IV. References** 
+
+Bair, Sheila. 2013. _Bull by the Horns: Fighting to Save Main Street from Wall Street and Wall Street from Itself_ . New York: Simon & Schuster Paperbacks. https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/media_bull_by_ the_horns.docx. 
+
+Chen, Fannie. 2013. “Structuring Public-Private Partnerships: Implications from the ‘PublicPrivate Investment Program for Legacy Securities.’” _Columbia Journal of Law and Social Problems_ 46 (4): 509-538, 2013. https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/46ColumJLSocProbs509.pdf 
+
+Clark, Andrew. 2008. “Paulson Abandons Plans to Buy Up America’s Toxic Mortgage Assets.” _The Guardian_ , November 13, 2008. https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/media_paulson.docx. Dash, Eric. 2010. “A Big Surprise: Troubled Assets Garner Rewards.” _The New York Times_ . August 27, 2010. https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/media_a_big_surprise.docx. 
+
+Davis Polk & Wardwell. 2009. “A Guide to the Laws, Regulations and Contracts of the Financial Crisis.” (Financial Crisis Manual). September 2009. https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/fcm.pdf. 
+
+Davis Polk & Wardwell. 2009. “The Public-Private Investment Program.” March 25, 2009. https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/polk_wardwell_ppip.pdf. 
+
+Elliott, Douglas J. 2013. “The Public-Private Investment Program: An Assessment.” Initiative on Business and Public Policy at Brookings. Brookings Institution, 2013. https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/ppip_an_assessment.pdf. 
+
+Enrich, David. 2009. “Wary Banks Hobble Toxic-Asset Plan.” _The Wall Street Journal_ , June 29, 2009. 
+
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/media_wary_banks.docx. 
+
+Ettlinger, M., Andrew Jakabovics, and David Min. 2009. “Recommendations for the PublicPrivate Investment Program: Implementing the Treasury Department’s Plan to Clean Up the Toxic Asset Mess.” Center for American Progress, April 2009. https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/recommendations_ppip.pdf. 
+
+Krugman, Paul. 2009a. “Financial Policy Despair.” _The New York Times_ , March 22, 2009. https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/media_financial_policy_desp air.docx. 
+
+Krugman, Paul. 2009b. “Geithner plan arithmetic.” _The New York Times_ , March 23, 2009. https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/media_geithner_plan_arith metic.docx. 
+
+U.S. Department of the Treasury. 2009. “Fact Sheet: Public-Private Investment Program.” https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/ppip_fact_sheet.pdf. 
+
+
+FDIC. 2009. “FDIC Statement on the Status of the Legacy Loans Program.” https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/FDIC_Press Releases.pdf. 
+
+Geithner, Timothy F. 2014. _Stress Test: Reflections on Financial Crises_ . New York: Broadway Books. 
+
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/book_stress_test.docx. 
+
+Laise, Eleanor. 2010. “TCW Pulling Out of PPIP.” _The Wall Street Journal_ , January 6, 2010. https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/media_tcw.docx. 
+
+Sachs, Jeffrey. 2009. “The Geithner-Summers Plan is Even Worse Than We Thought.” _Huffington Post_ , May 7, 2009. https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/media_sachs_geithner.docx. 
+
+Sorkin, Andrew Ross. 2009. “’No-Risk’ Insurance at F.D.I.C.” _The New York Times_ , April 7, 2009. https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/media_no_risk.docx. 
+
+U.S. Department of the Treasury. 2009. “Legacy Loans Program Summary of Terms.” https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/legacy_loans_terms.pdf. 
+
+U.S. Department of the Treasury. 2009. “Legacy Securities Public-Private Investment Program (Legacy Securities PPIP), Additional Frequently Asked Questions.” https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/legacy_securities_faqs.pdf. 
+
+Poirier, John. 2009. “FDIC Tests Toxic Assets Sale Program.” _Reuters_ , July 31, 2009. https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/media_fdic.docx. 
+
+U.S. Department of the Treasury. 2012. “Public-Private Investment Program: Program Purpose & Overview.” https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/program_purpose.pdf. 
+
+U.S. Department of the Treasury. 2013. “Legacy Securities Public-Private Investment Program: Program Update – Quarter Ended September 30, 2013.” https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/legacy_securities_ppip.pdf. 
+
+U.S. Department of the Treasury. 2009. “Public-Private Investment Program: White Paper.” (PPIP White Paper). https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/ppip.pdf. U.S. Department of the Treasury. 2008. “Remarks by Secretary Henry M. Paulson, Jr. on Financial Rescue Package and Economic Update.” https://ypfsresourcelibrary.blob.core.windows.net/fcic/fcic-docs/2008-11-12 Remarks by Secretary Henry M. Paulson, Jr. on Financial Rescue Package and Economic Update (Treasury press release).pdf. 
+
+U.S. Department of the Treasury. 2009. “Treasury Department Releases Details on Public Private Investment Program.” (PPIP Fact Sheet). https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/pr4.pdf. 
+
+U.S. Department of the Treasury. 2009. “Treasury Secretary Timothy Geithner Outlines Comprehensive Financial Stability Plan.” 
+
+
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/2009 2 10 Treasury Secretary Tim Geithner Outlines Comprehensive Financial Stability Plan.pdf. 
+
+U.S. Department of the Treasury Office of Financial Stability. 2010. “Troubled Asset Relief Program: Two Year Retrospective.” https://ypfsresourcelibrary.blob.core.windows.net/fcic/fcic-docs/2010-10-10 TARP Two Year Retrospective.pdf. 
+
+## **V. Key Program Documents** 
+
+## **Summary of Program** 
+
+Fact Sheet: Public-Private Investment Program – _Fact sheet providing detailed information on the framework for PPIP released as part of the Treasury Department’s introduction of the program_ . 
+
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/ppip_fact_sheet.pdf. 
+
+Legacy Loans Program Summary of Terms – _Outline of FDIC-dictated terms of the Legacy Loans Program._ https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/legacy_loans_terms.pdf. 
+
+- Legacy Securities Public Private Investment Program, Additional Frequently Asked Questions – _Treasury document providing frequently asked questions and corresponding responses concerning key features of the Legacy Securities PPIP_ . https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/legacy_securities_faqs.pdf. 
+
+Public-Private Investment Program Legacy Loans Program, Frequently Asked Questions – _Treasury document providing frequently asked questions and corresponding responses concerning key features of the Legacy Loans PPIP._ https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/legacy_loans_faqs.pdf. 
+
+## **Implementation Documents** 
+
+Application for Private Asset Managers – _Application for prequalification as a private asset manager for a Public-Private Investment Fund under the Legacy Securities Program_ . https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/legacy_securities_ppif_app.p df. 
+
+Guidelines for the Legacy Securities Public-Private Investment Program – _Supporting document outlining program goals, application criteria, and terms and conditions tied to Treasury financing._ https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/ProgramGuidelinesSPPIP.pdf. 
+
+Letter of Intent and Terms Sheet – _Agreement outlining the specific terms and conditions of the limited partnership between the Treasury and private sector fund managers._ https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/S-PPIP_LOI_TermSheets.pdf. 
+
+
+Summary of Conflicts of Interest Rules and Ethical Guidelines – _Treasury document summarizing the conflict of interest rules and guidelines developed to ensure private sector firms aligned themselves with the public interest._ https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/PPIP_Conflict-of-InterestRules.pdf. 
+
+## **Press Releases/Announcements** 
+
+FDIC Statement on the Status of the Legacy Loans Program (06/03/2009) – _FDIC formal announcement that a planned pilot sale of loans would be postponed._ https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/FDIC_Press Releases.pdf. 
+
+Public-Private Investment Program Press Releases – _Treasury’s comprehensive list of press releases pertaining to the announcement, design, status, and implementation of the program._ https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/pr6.pdf. 
+
+Secretary Timothy F. Geithner’s Written Testimony Before the Congressional Oversight Panel (12/16/2010) – _Secretary Geithner’s overview of the financial rescue efforts undertaken by the Treasury up to that time, including PPIP_ . https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/pr1.pdf. Treasury Department Announces Initial Closings of Legacy Securities Public-Private Investment Funds (09/30/2009) – _Treasury press release announcing the first two firms to have completed initial raises in capital._ https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/pr2.pdf. - Treasury Department Announces Initial Quarterly Report for the Legacy Securities Public Private Investment Program (01/29/2010) – _Treasury press release linking to first quarterly report on the funds’ progress._ https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/pr3.pdf. 
+
+- Treasury Department Releases Details on Public Private Partnership Investment Program (03/23/2009) – _Treasury press release detailing the design of the Public Private Investment Program._ https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/pr4.pdf. 
+
+Treasury Secretary Tim Geithner Outlines Comprehensive Financial Stability Plan (02/10/2009) – _Treasury press release announcing the new administration’s Financial Stability Plan._ https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/2009 2 10 Treasury Secretary Tim Geithner Outlines Comprehensive Financial Stability Plan.pdf. 
+
+## **Media Stories** 
+
+A Big Surprise: Troubled Assets Garner Rewards ( _The New York Times_ – 08/26/2010) – _Article discussing the profitability of PPIFs up to that date._ https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/media_a_big_surprise.docx. 
+
+Treasury Picks Nine Managers for P.P.I.P. ( _The New York Times_ – 07/08/2009) – _Article discussing the announcement of funds managers and programmatic changes moving forward._ https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/media_treasury_picks.docx. 
+
+
+U.S. Expands Plan to Buy Banks’ Troubled Assets ( _The New York Times_ – 03/23/2009) – _Article pertaining to the announcement of details for PPIP._ https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/media_troubled_assets.docx Wary Banks Hobble Toxic-Assets Plan ( _The Wall Street Journal_ – 06/29/2009) – _Article discussing difficulties with implementation of the program before the Treasury eventually moved on with only the Legacy Securities Program._ https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/media_wary_banks.docx. 
+
+## **Key Academic Papers** 
+
+’ A Binomial Model of Geithner s Toxic Asset Plan (Wilson 2010) – _Paper solving for the clearing price of toxic assets under PPIP according to various financing terms._ https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/SSRN-id1428666_0.pdf. 
+
+– ’ Slicing the Toxic Pizza An Analysis of FDIC s Legacy Loan Program for Receivership Assets (Wilson 2010) – _Paper discussing the structure of the Legacy Loans Program and maximizing the value of toxic asset portfolios put up for auction._ https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/SSRN-id1476333.pdf. 
+
+Structuring Public-Private Partnerships: Implications from the Public-Private Investment Program for Legacy Securities (Chen 2013) – _Paper drawing upon interviews with private sector PPIP participants to better understand successes and failures of PPIP and how to apply them to future public-private partnerships._ https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/46ColumJLSocProbs509.pdf Subsidizing Price Discovery (Camargo et. al 2012) – _Paper illuminating the inefficiencies plaguing the market for mortgage-related assets and how PPIP targeted them, concluding with how to determine the “optimal leverage ratio.”_ https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/SSRN-id2264314.pdf. 
+
+## **Reports/Assessments** 
+
+Public-Private Investment Program Quarterly Reports – _Treasury’s 16 quarterly reports documenting details on the funds, their investments, and returns (last report issued September 2013)._ https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/ra5.pdf. 
+
+- Selecting Fund Managers for the Legacy Securities Public Private Investment Program (Office of the Special Inspector General for the Troubled Asset Relief Program 2010) – _Inspector General’s report on the application and selection process used by Treasury for fund managers._ https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/ra1.pdf. 
+
+Troubled Asset Relief Program (TARP): Implementation and Status (Congressional Research Service 2011) – _Paper providing overview of TARP programs and evaluation of them up to 2011._ https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/ra2.pdf. 
+
+Troubled Asset Relief Program: Status of Programs and Implementation of GAO Recommendations (United States Government Accountability Office 2011) – _GAO evaluation of and recommendations for TARP programs issued prior to January 2011._ https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/ra3.pdf. 
+
+
+Troubled Asset Relief Program: Two Year Retrospective (United States Department of the Treasury Office of Financial Stability 2010) – _Office of Financial Stability overview of the recovery programs employed as part of TARP and evaluation of those programs._ https://ypfsresourcelibrary.blob.core.windows.net/fcic/fcic-docs/2010-10-10 TARP Two Year Retrospective.pdf. 
+
+Copyright 2015, 2016, 2020 © Yale University. All rights reserved. To order copies of this material or to receive permission to reprint any or all of this document, please contact the Yale Program for Financial Stability at ypfs@yale.edu.

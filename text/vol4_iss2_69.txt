@@ -1,0 +1,541 @@
+--- Page 1 ---
+Journal of Financial Crises Journal of Financial Crises 
+Volume 4 Issue 2 
+2022 
+Canada: Government Bond Purchase Program Canada: Government Bond Purchase Program 
+Corey N. Runkel 
+Yale School of Management 
+Follow this and additional works at: https://elischolar.library.yale.edu/journal-of-financial-crises 
+ Part of the Economic Policy Commons, Finance and Financial Management Commons, 
+Macroeconomics Commons, Policy Design, Analysis, and Evaluation Commons, Policy History, Theory, 
+and Methods Commons, and the Public Administration Commons 
+Recommended Citation Recommended Citation 
+Runkel, Corey N. (2022) "Canada: Government Bond Purchase Program," Journal of Financial Crises: Vol. 
+4 : Iss. 2, 1504-1518. 
+DOI: https://doi.org/10.17132/2693-3179.1358 
+Available at: https://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss2/69 
+This Case Study is brought to you for free and open access by the Journal of Financial Crises and 
+EliScholar – A Digital Platform for Scholarly Publishing at Yale. For more information, please contact 
+journalfinancialcrises@yale.edu.
+
+--- Page 2 ---
+READERS TAKE NOTICE: READERS TAKE NOTICE: 
+As of April 2024, the YPFS Resource Library’s site domain has changed 
+to https://elischolar.library.yale.edu/ypfs-financial-crisis-resource-library/. 
+Please be aware that upon clicking any of the URL references to 
+the former Resource Library domains, either https://ypfs.som.yale.edu 
+or https://ypfsresourcelibrary.blob.core.windows.net/, in the 
+"References/Key Program Documents" section of a case study, 
+readers will encounter a "page not found" error. readers will encounter a "page not found" error. 
+Readers can still retrieve a given resource cited within this case study 
+on the new site  by searching by searching here  for the title cited. for the title cited. 
+This case study is available in Journal of Financial Crises: https://elischolar.library.yale.edu/journal-of-financial-
+crises/vol4/iss2/69
+
+--- Page 3 ---
+Canada: Government Bond Purchase Program1 
+Corey N. Runkel2 
+Yale Program on Financial Stability Case Study 
+July 15, 2022 
+Abstract 
+In Canada, the shock of the COVID -19 crisis drove up bid -ask spreads on Government of 
+Canada (GoC) bonds. The Bank of Canada (BoC) announced the Government Bond Purchase 
+Program (GBPP) to support the functioning of its government bond market, support other 
+market liquidity tools, and replace the BoC’s long -standing fiscal agent activities. The GBPP 
+conducted multi-rate reverse auctions with primary dealers to purchase GoC bonds in the 
+secondary market. The GBPP purchased bonds across the yield curve but concentrated on 
+two- and five-year tenors. In June 2020, with CAD 64.7 billion (USD 48 billion) outstanding, 
+the BoC announced that the program’s purpose had shifted to quantitative easing (QE). The 
+GBPP continued well after the GoC market calmed and, in October 2021, the BoC ended QE, 
+leaving the program to conduct regular liquidity management. 
+Keywords: Canada, COVID-19 pandemic, GBPP, GoC bonds, market liquidity, QE 
+  
+ 
+1 This case study is part of the Yale Program on Financial Stability (YPFS) selection of New Bagehot Project 
+modules considering market support programs in response to COVID-19. Cases are available from the Journal 
+of Financial Crises at https://elischolar.library.yale.edu/journal-of-financial-crises/. 
+2 Research Associate, YPFS, Yale School of Management. 
+1504
+
+--- Page 4 ---
+Overview 
+The spread of COVID -19, and public 
+health measures designed to contain it, 
+caused stress in Canada’s financial 
+markets. In response, the Bank of Canada 
+(BoC) intervened to contain and ease 
+stress in several markets (see Runkel 
+2021). On March 12, the BoC expanded its 
+repurchases—termed buybacks—of GoC 
+securities that the BoC had long 
+conducted as the government’s fiscal 
+agent (BoC 2012). Ho wever, bid -ask 
+spreads on GoC securities remained high. 
+Insurers sold government bonds in large 
+quantities to rebalance their portfolios, 
+driving bid -ask spreads on GoC bonds 
+higher (Bédard -Pagé et al. 2021, 11). 
+Moreover, the BoC noticed yields rising in 
+government-guaranteed markets, a sign 
+of liquidity strains rather than asset 
+quality concerns. The BoC worried that 
+liquidity strains could affect the efficacy 
+of its and the GoC’s other measures to 
+generate credit for households and 
+businesses (Poloz and Wilkins 2020). 
+On March 27, the BoC announced it would 
+increase GoC bond purchases further by 
+launching the Government Bond Purchase 
+Program (GBPP). The GBPP conducted 
+reverse auctions with authorized 
+government securities distributors, 
+mostly primary deal ers, to purchase GoC 
+bonds in the secondary market. 
+Distributors could submit up to five bids 
+for themselves and five on behalf of their 
+customers. The auctions were multi -rate, 
+meaning that the BoC satisfied bids 
+offering the lowest prices first, until th e 
+allotment was exhausted. At the start of 
+its operations, the GBPP allotted about  
+ 
+CAD 5 billion (USD 3.7 billion) 3 weekly, 
+which it funded by creating reserves in 
+the accounts of securities distributors 
+(BoC 2020b; BoC 2020d). 
+The GBPP’s mandate shifted after the 
+panic in March calmed. On June 22, 2020, 
+the BoC governor labeled the GBPP as
+ 
+3 USD 1 = CAD 1.40 during March 2020. 
+Key Terms 
+Purpose: “to address strains in the Government of 
+Canada bond market, and to enhance the 
+effectiveness of other actions taken to support core 
+funding markets. More recently, as market 
+conditions improved, the focus of the GBPP has 
+shifted to supporting the resumption of growth in 
+output and employment” (BoC 2020a) 
+Launch Dates Announced: March 27, 
+2020  
+Operational Date April 1, 2020  
+End Date Changed to quantitative 
+easing in June 2020  
+Legal Authority Bank of Canada Act, 
+18(c)  
+Source(s) of Funding Bank of Canada balance 
+sheet 
+Administrators Bank of Canada  
+Overall Size No fixed ceiling 
+Purchased Assets Secondary-market 
+Government of Canada 
+bonds of all tenors  
+Peak Utilization CAD 64.7 billion on June 
+22, 2021  
+1505
+Journal of Financial Crises Vol. 4 Iss. 2
+
+--- Page 5 ---
+quantitative easing (QE) (Macklem 2020). The program had CAD 64.7 billion outstanding, 
+mostly in two-, five- and 10-year tenors, as shown in Figure 1 (BoC 2020–2021). The GBPP 
+continued until October 2021, when the BoC ended QE, leaving the GBPP only as a 
+replacement for its older cash-management operations. 
+Figure 1: Securities Purchased by the GBPP 
+ 
+Source: BoC 2020–2021. 
+Summary Evaluation 
+The bid -ask spreads on GoC  securities had begun falling the week before the GBPP was 
+announced and continued to fall after (Bédard -Pagé et al. 2021, 11). BoC staff research 
+finds that the announcement of the GBPP decreased GoC bond yields by an average of 10  
+basis points ( bps), mos t of which the BoC attributed to signaling. As shown in  Figure 2 , 
+Arora et al. (2021) estimate the effect at about 15 bps for securities with remaining 
+maturities of two or fewer years, less than 10  bps for securities with remaining maturities 
+of more than six years, and negligible for bonds with more than 20 years remaining. As for 
+the effect of continuing purchases on yields, BoC staff estimate small effects —less than 1 
+bp—for most maturities. Moreover, the study finds that this effect faded after several  days. 
+The study does not consider whether the program impacted bid -ask spreads or the depth 
+of the GoC market.   
+1506
+Canada Runkel
+
+--- Page 6 ---
+Context: Canada 2019–2020 
+GDP 
+(SAAR, nominal GDP in LCU  
+converted to USD) 
+$1,778.4 billion in 2019 
+$1,777.1 billion in 2020 
+GDP per capita 
+(SAAR, nominal GDP in LCU  
+converted to USD) 
+$46,327 in 2019 
+$43,258 in 2020 
+Sovereign credit rating  
+(five-year senior debt) 
+Data for 2019: 
+Moody’s: Aaa 
+S&P: AAA 
+Fitch: AAA 
+ 
+Data for 2020: 
+Moody’s: Aaa 
+S&P: AAA 
+Fitch: AA+ 
+Size of banking system Data not available for 2019 
+Data not available for 2020 
+Size of banking system  
+as a percentage of GDP 
+Data not available for 2019 
+Data not available for 2020 
+Size of banking system  
+as a percentage of financial system 
+Data not available for 2019 
+Data not available for 2020 
+Five-bank concentration of banking system 84.2% in 2019 
+84.5% in 2020 
+Foreign involvement in banking system Data not available for 2019 
+Data not available for 2020 
+Government ownership of banking system Data not available for 2019 
+Data not available for 2020 
+Existence of deposit insurance Yes, in 2019 
+Yes, in 2020 
+Sources: Bloomberg; World Bank Global Financial Development Database; World 
+Bank Deposit Insurance Dataset. 
+1507
+Journal of Financial Crises Vol. 4 Iss. 2
+
+--- Page 7 ---
+Key Design Decisions 
+1. Purpose: The GBPP sought to preserve market functioning and supplant the 
+BoC’s fiscal agent activities before it transitioned to a QE program in June 2020. 
+The GBPP started with two purposes: to support the functioning of the GoC bond market 
+and to replace some technical liquidity management operations. Later in 2020, the BoC 
+added a new mandate for quantitative easing. 
+First, the GBPP supported the functioning of the GoC  bond market by narrowing bid -ask 
+spreads on GoC bonds and providing a buyer for less-liquid bond issues. When the program 
+was announced, BoC officials fielded questions from journalists who wondered if the GBPP 
+was a form of quantitative easing. Governor Poloz emphasized that the central bank would 
+label programs as QE if it were implementing a program for such purpose. Poloz 
+acknowledged that GBPP and QE were “closely related” and shared methods. However, he 
+said they had separate ends and stated that mar ket functioning and price clearing were the 
+GBPP’s original objectives (Poloz and Wilkins 2020). 
+Second, the GBPP permanently replaced the BoC’s long -standing bond buyback operations. 
+The first of these operations fell under the BoC’s role as fiscal agent to the GoC, a role that 
+sought to ensure GoC accounts had enough liquidity to meet daily needs (BoC 2020c) . 
+These operations tried to smooth the redemptions of government bonds by purchasing 
+short-dated securities that would mature on dates when many other  securities would also 
+mature (BoC 2012, 1). The BoC said that the GBPP would lend “significant support to the 
+liquidity and efficiency of the government bond market, reducing the need for these fiscal 
+agent operations” (BoC 2020c) . The other buyback opera tions aimed to improve the 
+liquidity of the government  bond market by purchasing bonds from less -liquid issues or 
+swapping those with bonds from more -liquid issues. The BoC had conducted these 
+operations since at least 1998 (Gravelle 1998, 10 –17). The BoC did not signal why it chose 
+to adopt the GBPP in favor of these buybacks. 
+On June 22, 2020, the new BoC governor, Tiff Macklem—appointed June 3, 2020—signaled 
+that the purpose of GoC bond purchases had shifted. His speech referred to the GBPP as 
+macroeconomic stimulus and labeled it as QE. Subsequently, the BoC described the GBPP’s 
+mission as “supporting the resumption of growth in output and employment” (BoC 2020a). 
+On October 27, 2021, the BoC announced that it would stop QE but maintain the GBPP at its 
+current size, then CAD 290 billion, by reinvesting maturing bonds (BoC 2021c). 
+  
+1508
+Canada Runkel
+
+--- Page 8 ---
+Figure 2: Yield Change and Purchase Amounts for GoC Securities of Various 
+Maturities 
+ 
+Sources: Arora et al. 2021; benchmark refers to bonds designated  by financial markets as reference points for 
+performance comparisons (BoC 2021a, 29). 
+2. Part of a Package: The GBPP also supported the BoC’s other programs.  
+The GBPP also lent support to the rest of the Bank’s programs. Starting March 13, the BoC 
+launched programs to purchase corporate debt, provincial debt, and mortgage -backed 
+securities, and to enter term repurchase agreements, while the GoC announced a large 
+package of fiscal measures (see Department of Finance 2020; Runkel 2021). These markets 
+faced much more acute pressure than the GoC bond market. Governor Poloz argued that “a 
+firefighter has never been criticized for using too much water” (Poloz and Wilkins 2020, 
+37:15). BoC officials had explained that closing bid -ask spreads in GoC bonds would relie ve 
+pressure in other markets as investors reallocated their portfolios in search of yield. 
+3. Legal Authority: The Bank of Canada Act explicitly allowed the BoC to purchase 
+Government of Canada securities.  
+Section 18(c) of the Bank of Canada Act (1985) explicitly authorized the BoC to purchase 
+securities issued by the Government of Canada. 
+1509
+Journal of Financial Crises Vol. 4 Iss. 2
+
+--- Page 9 ---
+4. Governance: The Governing Council approved the policy.  
+The BoC Governing Council—composed of the Governor, Senior Deput y Governor, and four 
+Deputy Governors—met virtually each day throughout the crisis. They decided on the path 
+of secondary-market purchases (Poloz and Wilkins 2020). 
+The Bank of Canada Act (1985, vol. c. B -2, sec. 28) also enabled the Minister of Finance to  
+appoint auditors of the BoC and to require that those auditors report on bank affairs to the 
+Minister “from time to time”. The Bank of Canada Act required the BoC to publish its policy 
+allowing outright transactions in the Canada Gazette . It was then requ ired to wait seven 
+days before enacting its policy. 
+5. Administration: The BoC administered the GBPP ; however, it is not clear how it 
+organized its staff to implement the facility.  
+The GBPP purchased securities directly from primary dealers through the CDSX platform. 
+6. Communication: BoC communications were light after a press conference 
+announcing the GBPP.  
+During the press conference in which the BoC announced the GBPP, Governor Stephen 
+Poloz and Deputy Governor Carolyn Wilkins walked through the policy and parsed its 
+objectives. The contents of this press conference, which set out the GBPP’s purpose, are 
+discussed further in Key Design Decision No. 1, Purpose. 
+Following this press conference, the BoC spoke little about the GBPP until Macklem’s June 
+22, 2020, speech announcing that the program would continue as the country’s first -ever 
+attempt at QE. Thereafter, BoC officials and official documents reflected the change by 
+referring to the program as QE (Beaudry 2020, 2; BoC 2020e, 28).  
+7. Disclosure: The BoC pub lished transaction -level data and the GBPP’s aggregate 
+purchases.  
+The BoC was required to publish its balance sheets but not any more granular data (Bank 
+of Canada Act 1985, vol. c. B -2, sec. 29). The BoC exceeded the requirements imposed by 
+Section 29 by publishing details of each purchase on its website, including size, time, and 
+price paid (BoC 2020–2021).  
+8. Use of SPV: The GBPP did not use an SPV. 
+No documents suggest that the BoC used a special-purpose vehicle to administer the GBPP. 
+9. Size: The GBPP’s size was not predetermined.  
+The BoC committed to purchasing CAD 5 billion weekly when it announced the GBPP (BoC 
+2020b). In practice, its weekly purchases averaged CAD 4 billion and varied between 
+CAD 1 billion and CAD 8 billion. This average was an order of magnitude larger than the 
+1510
+Canada Runkel
+
+--- Page 10 ---
+BoC’s previous purchases of government bonds , as shown in Figure 3  (BoC 2020 –2021). 
+Before COVID-19, the BoC averaged purchases in the hundreds of millions of dollars and 
+had never purchased more than CAD 2.2 billion in any single week (BoC 2001 –2020; BoC 
+2002–2020; BoC 2020–2021). The GBPP added substantial size to the BoC’s balance sheet 
+and reflected a change in appetite favoring outright purchases over repurchase 
+agreements. As of October 2021, when the BoC end ed new net purchases of GoC securities, 
+the GBPP had CAD 290 billion outstanding. 
+Figure 3: Size of Weekly GBPP Purchases Compared to Pre-COVID-19 Buyback 
+Programs 
+ 
+Sources: BoC 2001–2020; BoC 2002–2020; BoC 2020–2021. 
+10. Source(s) of Funding: The Bank of Canada funded purchases by expanding its 
+balance sheet. 
+To fund the GBPP, the BoC credited government securities distributors’ settlement 
+balances (BoC 2020b). The GBPP was indemni fied by the GoC: the government agreed to 
+cover losses and, in return, it received any gains (BoC 2021b, 21).  
+1511
+Journal of Financial Crises Vol. 4 Iss. 2
+
+--- Page 11 ---
+11. Eligible Institutions: Authorized government securities distributors and, by 
+proxy, their customers participated in the GBPP.  
+The BoC allowed Ca nadian government securities distributors 4 and their customers to 
+participate in the GBPP (BoC 2020d). Distributors submitted bids on their own behalf and 
+on behalf of their customers (BoC 2020d) . Documents do not suggest which distributors 
+and customers participated in the auctions.  
+12. Auction or Standing Facility: The GBPP conducted reverse multi-rate auctions.  
+A day before each operation, the B oC announced its size, timing, and the eligible GoC 
+securities. On the day of the operation, participants submit ted bids specifying up to five 
+bids for the securities distributor and five bids on behalf of each of their customers. Each 
+bid identified the security to be sold, the yield a bidder was willing to accept, and the 
+amount a bidder would sell in CAD 1,000 in crements above CAD 1 million. The BoC then 
+accepted bids starting with the highest yield rates until the accepted bids exhausted the 
+total allotment. Successful bidders received the rate they offered (BoC 2020d) . Figure 4 
+shows sample results of GBPP auctions on April 1 and 2, 2020.  
+ 
+4 The set of government securities distributors, which are firms authorized to participate in government  
+securities auctions, was slightly larger than the set of primary dealers due to internal divisions between bank 
+affiliates that distribute Treasury bills and marketable bonds, and a few independent distributors not 
+included in the list of primary dealers. The followin g institutions were distributors: Bank of Montreal (BMO); 
+Beacon Securities; Canaccord Genuity; Canadian Imperial Bank of Commerce (CIBC); Casgrain & Company; 
+CTI Capital Securities; Desjardins; HSBC; Laurentian Bank; Merrill Lynch; National Bank of Canada  (NBC); 
+Odlum Brown; Royal Bank of Canada (RBC); Scotiabank/Bank of Nova Scotia (BNS); Sherbrooke Street 
+Capital (SSC); Toronto-Dominion (TD) Bank. 
+1512
+Canada Runkel
+
+--- Page 12 ---
+Figure 4: Sample results of GBPP auctions 
+Auction date ISIN Amount purchased 
+(CAD) 
+Cutoff yield  
+(%) 
+Term 
+4/1/2020 CA135087H987 235 million 0.480 5 years 
+4/1/2020 CA135087J546 192 million 0.500 5 years 
+4/1/2020 CA135087B451 225 million 0.496 5 years 
+4/1/2020 CA135087J967 250 million 0.519 5 years 
+4/1/2020 CA135087D507 0 NA 5 years 
+4/1/2020 CA135087VH40 98 million 0.531 5 years 
+4/2/2020 CA135087E679 37 million 0.510 10 years 
+4/2/2020 CA135087F825 366 million 0.535 10 years 
+4/2/2020 CA135087VW17 171 million 0.553 10 years 
+4/2/2020 CA135087H235 80 million 0.537 10 years 
+4/2/2020 CA135087WL43 131 million 0.611 10 years 
+4/2/2020 CA135087XG49 15 million 0.808 10 years 
+Source: BoC 2020–2021 
+13. Loan or Purchase: The Bank of Canada purchased securities outright from 
+distributors through CDSX.  
+Successful bidders delivered GoC bonds through the CDSX platform, owned and operated 
+by Clearing and Depository Services (CDS). Settlement occurred two days later.  
+14. Eligible Assets: The GBPP purchased GoC bonds.  
+Before each operation, the BoC announced a basket of eligible securities, usually eight to 10 
+bonds per tenor, that it would purchase (BoC 2020d; BoC 2020–2021). Only GoC securities 
+were eligible ; provincial debt was not. Sometimes participants sold the full allotment of 
+these securities, and sometimes they didn’t sell any —rarely did they sell anywhere in 
+between. As shown in Figure 5, the GBPP primarily purchased securiti es in tenors of two 
+years, followed by five -year and 10-year bonds (BoC 2020 –2021). As Figure 1 shows, the 
+GBPP stopped purchasing bonds with tenors less than two years in fall 2020. 
+  
+1513
+Journal of Financial Crises Vol. 4 Iss. 2
+
+--- Page 13 ---
+Figure 5: Outstanding GBPP Purchases by Tenor 
+ 
+Source: (BoC 2020–2021) 
+15. Purchase Price: Bids could be any price. 
+Bidders were not subject to a minimum price or maximum yield.  
+16. Haircuts: The GBPP did not impose haircuts. 
+As a bond  purchase program, the GBPP took no collateral and therefore imposed no 
+haircuts. 
+17. Interest Rates: The GBPP accepted the results of its auctions. 
+Auction data indicate that the GBPP purchased bonds at the price resulting from its 
+auctions. 
+18. Fees: The BoC did not charge any fees. 
+No documents suggest that the BoC charged fees to issuers of securities that it purchased.  
+1514
+Canada Runkel
+
+--- Page 14 ---
+19. Term/Repayment: Assets matured at their scheduled coupon date. 
+The GBPP did not amend the scheduled maturities of assets it purchased.  
+20. Other Restrictions on Eligible Participants: Participants could not collude with 
+each other. 
+The BoC prohibited bidders from colluding, though it did not announce any mechanisms to 
+enforce this rule (BoC 2020d).  
+21. Regulatory Relief: Participants received no regulatory relief when participating 
+in the GBPP. 
+No documents suggest that distributors rec eived relief from capital or liquidity regulations 
+as a result of participating in the GBPP.  
+22. International Coordination: The BoC did not coordinate with other countries for 
+the GBPP. 
+Though several countries launched government bond -buying programs, none were 
+connected to the Canadian market.  
+23. Duration: The GBPP became a QE program in June 2020 and continued solely as a 
+cash-management program in October 2021. 
+On June 22, 2020, the BoC governor labeled the GBPP as quantitative easing (QE) , signaling 
+the end of the GBPP as a tool to provide market liquidity during the March panic  (Macklem 
+2020). The governor cited the economic effects of the COVID -19 crisis as he spoke about 
+the GBPP, rather than its efforts to replenish market liquidity. The GBPP continued as both 
+a QE and cash -management tool until  October 2021, when the BoC ended QE.  
+1515
+Journal of Financial Crises Vol. 4 Iss. 2
+
+--- Page 15 ---
+References and Key Program Documents 
+Program Summaries 
+(BoC 2020a) Bank of Canada (BoC). August 4, 2020. “Government of Canada Bond Purchase 
+Program.” 
+Web page summarizing the GBPP and describing its purpose.  
+https://ypfs.som.yale.edu/node/19512 
+Implementation Documents 
+(BoC 2001 –2020) Bank of Canada (BoC). 2001 –2020. “Cash Management Bond Buyback 
+Results.” Dataset.  
+Data showing the GoC securities purchased and operations conducted under cash 
+management buybacks.  
+https://ypfs.som.yale.edu/node/19475 
+(BoC 2002–2020) Bank of Canada (BoC). 2002 –2020. “Switch Operat ion Results.” Dataset. 
+Data showing the GoC securities purchased and operations conducted under switch 
+operations. 
+https://ypfs.som.yale.edu/node/19474 
+(BoC 2012) Bank of Canada (BoC). April 2, 2012. “Details on Bond Buyback Operations.”  
+Technical document delineating different types of bond buyback operations.  
+https://ypfs.som.yale.edu/node/19513 
+(BoC 2020–2021) Bank of Canada (BoC). 2020 –2021. “Results.” Bank of Canada. Dataset. 
+GBPP. Valet.  
+Data showing the GoC securities purchased and operations conducted under the GBPP.  
+https://ypfs.som.yale.edu/node/19473 
+(BoC 2021a) Bank of Canada. October 6, 2021. “Benchmark Canada Bonds.”  
+Schedule listing benchmark GoC bonds.  
+https://ypfs.som.yale.edu/node/19514 
+Legal/Regulatory Guidance 
+(BoC 2021 b) Bank of Canada (BoC). May 1, 2021. “Government Notices.” Canada Gazette  
+Part I: Vol. 155 (18).  
+Government notice regarding regulatory changes made by Bank of Canada, as of May 2021 . 
+https://ypfs.som.yale.edu/node/18281 
+(Bank of Canada Act 1985)  Bank of Canada Ac t. 1985. Revised Statutes of Canada , 1985, c. 
+B-2, §18.  
+Law establishing the powers of the Bank of Canada.  
+https://ypfs.som.yale.edu/library/bank-canada-act 
+1516
+Canada Runkel
+
+--- Page 16 ---
+Press Releases/Announcements 
+(BoC 2020b) Bank of Canada (BoC). March 27, 2020. “Bank of Canada Lo wers Overnight 
+Rate Target to ¼ Percent.” Press release.  
+Bank of Canada notice announcing an interest rate cut in response to COVID-19.  
+https://ypfs.som.yale.edu/node/18260 
+(BoC 2020c) Bank of Canada (BoC). March 27, 2020. “Operational Details for the Se condary 
+Market Purchases of Government of Canada Securities.” Market notice.  
+Press release elaborating on technical aspects of the GBPP.  
+https://ypfs.som.yale.edu/node/19515 
+(BoC 2020d) Bank of Canada (BoC). July 3, 2020. “Government of Canada Bond Purch ase 
+Program: Terms and Conditions.”  
+Web page detailing technical aspects of the GBPP.  
+https://ypfs.som.yale.edu/node/19516 
+(Beaudry 2020) Beaudry, Paul. August 2020. “Our COVID -19 Response: Large -Scale Asset 
+Purchases.” Bank of Canada. Yale Program on Fi nancial Stability Resource Library.  
+Public-facing summary describing the BoC’s large -scale asset purchase program operations . 
+https://ypfs.som.yale.edu/node/18298 
+(Department of Finance 2020) Department of Finance. March 18, 2020. “Canada’s COVID -
+19 Econom ic Response Plan: Support for Canadians and Businesses.” Backgrounders.  
+Web page detailing Canadian government responses to the COVID-19 crisis.  
+https://ypfs.som.yale.edu/node/19492 
+(Macklem 2020) Macklem, Tiff. June 22, 2020. “Monetary Policy in the Cont ext of COVID -
+19.” Remarks presented at the Canadian clubs and cercles canadiens, Ottawa, June 22.  
+Presentation announcing a shift in the direction of the GBPP and explicitly labeling it as 
+quantitative easing (QE).  
+https://ypfs.som.yale.edu/node/19517 
+(Poloz and Wilkins 2020) Poloz, Stephen S., and Carolyn Wilkins. March 27, 2020. “COVID -
+19 Actions.” Press conference presented at the Bank of Canada, Ottawa, March 27.  
+Press conference announcing the GBPP and answering journalists’ questions.  
+https://ypfs.som.yale.edu/node/19520 
+Reports/Assessments 
+(Arora et al. 2021) Arora, Rohan, Sermin Gungor, Joe Nesrallah , Guillaume Ouellet Leblanc, 
+and Jonathan Witmer. October 15, 2021. “The Impact of the Bank of Canada’s Government 
+Bond Purchase Program.” Bank of Canada Staff Analytical Note 2021–23.  
+Article estimating the announcement and purchasing effects of the GBPP.  
+https://ypfs.som.yale.edu/node/19518 
+1517
+Journal of Financial Crises Vol. 4 Iss. 2
+
+--- Page 17 ---
+(BoC 2020e) Bank of Canada (BoC). July 2020. “Monetary Policy Report - July 2020.” 
+Governing Council of the Bank of Canada.  
+Quarterly report of the Bank of Canada’s Go verning Council presenting the b ank’s base-case 
+projection for inflation and growth in the Canadian economy, and its assessment of risks . 
+https://ypfs.som.yale.edu/node/18290 
+(Bédard-Pagé et al. 2021) Bédard -Pagé, Guillaume, Daniel Bolduc, Annick Demers, Jean -
+Philippe Dion, Manu Pandey, Léanne  Berger-Soucy, and Adrian Walton. May 28, 2021. 
+“COVID-19 Crisis: Liquidity Management at Canada’s Largest Public Pension Funds.” Bank 
+of Canada Staff Analytical Note 2021 –11. Yale Program on Financial Stability Resource 
+Library. 
+BoC Staff Analytical Note regarding Canada’s pension funds and their liquidity management 
+during 2020.  
+https://ypfs.som.yale.edu/node/18256 
+Key Academic Papers 
+(Gravelle 1998) Gravelle, Toni. June 1998. “Buying Back Government Bonds: Mechanics and 
+Other Considerations.” Working Paper 98–9. Ottawa: Bank of Canada.  
+Paper summarizing BoC techniques for buying GoC bonds.  
+https://ypfs.som.yale.edu/library/document/buying-back-government-bonds-mechanics-
+and-other-considerations 
+(Runkel 2021) Runkel, Corey N. 2021. “Bankers’ Acceptance Purchase Facility.” Journal of 
+Financial Crises, Market Liquidity II.  
+YPFS case study reviewing the BAPF.  
+https://elischolar.library.yale.edu/journal-of-financial-crises/ 
+(BoC 2021c) Bank of Canada. October 27, 2021. “Bank of Canada Maintains Policy Rate  and 
+Forward Guidance, Ends Quantitative Easing.” Press release.  
+Press release marking the end of net new purchases under the GBPP.  
+https://ypfs.som.yale.edu/node/19519 
+Copyright 2022 © Yale University. All rights reserved. To order copies of this materi al or to receive 
+permission to reprint any or all of this document, please contact the Yale Program on Financial 
+Stability at ypfs@yale.edu. 
+1518
+Canada Runkel

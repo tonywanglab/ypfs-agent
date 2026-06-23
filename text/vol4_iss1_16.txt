@@ -1,0 +1,183 @@
+--- Page 1 ---
+Journal of Financial Crises Journal of Financial Crises 
+Volume 4 Issue 1 
+2022 
+Lessons Learned: Stephen King Lessons Learned: Stephen King 
+Matthew A. Lieber 
+Steven H. Kasoff 
+Yale School of Management 
+Follow this and additional works at: https://elischolar.library.yale.edu/journal-of-financial-crises 
+ Part of the Economic History Commons, Economic Policy Commons, Finance Commons, Finance and 
+Financial Management Commons, Growth and Development Commons, Policy Design, Analysis, and 
+Evaluation Commons, Public Administration Commons, and the Public Policy Commons 
+Recommended Citation Recommended Citation 
+Lieber, Matthew A. and Kasoff, Steven H. (2022) "Lessons Learned: Stephen King," Journal of Financial 
+Crises: Vol. 4 : Iss. 1, 425-428. 
+DOI: https://doi.org/10.17132/2693-3179.1272 
+Available at: https://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss1/16 
+This Lessons Learned is brought to you for free and open access by the Journal of Financial Crises and 
+EliScholar – A Digital Platform for Scholarly Publishing at Yale. For more information, please contact 
+journalfinancialcrises@yale.edu.
+
+--- Page 2 ---
+READERS TAKE NOTICE: READERS TAKE NOTICE: 
+As of April 2024, the YPFS Resource Library’s site domain has changed 
+to https://elischolar.library.yale.edu/ypfs-financial-crisis-resource-library/. 
+Please be aware that upon clicking any of the URL references to 
+the former Resource Library domains, either https://ypfs.som.yale.edu 
+or https://ypfsresourcelibrary.blob.core.windows.net/, in the 
+"References/Key Program Documents" section of a case study, 
+readers will encounter a "page not found" error. readers will encounter a "page not found" error. 
+Readers can still retrieve a given resource cited within this case study 
+on the new site  by searching by searching here  for the title cited. for the title cited. 
+This lessons learned is available in Journal of Financial Crises: https://elischolar.library.yale.edu/journal-of-financial-
+crises/vol4/iss1/16
+
+--- Page 3 ---
+Yale Program on Financial Stability 
+Lessons Learned 
+ 
+Stephen King 
+By Matthew A. Lieber and Steven H. Kasoff 
+Stephen King started his career in finance at Bankers Trust in 1997 as a computer scientist with 
+a business degree. He worked on structured credit transactions when credit derivatives were 
+just being invented. In 2005, King joined Barclays’ structured credit group, where he managed 
+a CDO (collateralized debt obligation) correlation desk that was different from standard dealer 
+CDO units. In 2009, he launched C12 Capital Management to relieve Barcl ays of distressed 
+subprime positions. Presently, King finances and builds luxury hotels as founder and CEO of 
+Sardis Developments. This Lessons Learned summary is based on an interview with King. 
+The dawn of structured finance was a promising time for fina ncial wizards like King 
+and the institutions that employed them. 
+King brought computer engineering training, high -end quantitative skills, and a creative 
+mindset to Bankers Trust (BT). The 1998 Long-Term Capital Management crisis interrupted 
+his initial assignment to emerging markets. BT reassigned King to its structured credit unit. 
+“It was right at the dawn of structured asset-backed derivatives.” 
+Deutsche Bank acquired BT in 1999 and moved King to its derivatives group in New York. 
+One deal King recalled  was Rhombus, “which involved selling protection on a portfolio of 
+asset-backed securities owned by Bayerische Landesbank, buying protection from insurance 
+companies and other counterparties around the world.” Another named Descartes involved 
+a similar app roach. “We would go and buy a portfolio of securities, fund them in their 
+conduit, buy protection, and find a way to take out the carry as an arbitrage.” 
+For Deutsche and then for Barclays from 2005 through 2008, King’s groups engineered 
+complex credit dea ls that offered profitability across a range of different scenarios. These 
+transactions commonly had many sides. In one deal, they might exchange risk for cash flows, 
+buy swaps to mitigate risk, and use leverage to exploit the difference. 
+We [had] various ways of generating profit for the bank, whether in structured client 
+transactions, proprietary trading, trading book profits, anything and everything that 
+[was] associated with asset-backed securities [ABS]. 
+King’s ABS correlation desk at Barclays went by many names —and brought many 
+ways to profit. 
+There were many names for King’s group, and it had many ways to make money. “It was 
+called a principal mortgage trading desk in one caucus of people. It was a structured 
+synthetic ABS desk in another, it was a synthetic CDO in another, it was [an ABS] correlation 
+desk in another.” What made it unique beyond the complexity of its transactions was the way 
+the group combined unorthodox, creative deal -making and disciplined attention to risk. 
+Whereas a more convention al CDO structuring group would accumulate risk, structure it, 
+425
+
+--- Page 4 ---
+then sell it, King’s desk “would accumulate risk in one or a number of markets, then create 
+instruments that referenced those risks and place those into another market.” From there, 
+opportunities followed to “take a mixture of profits from basis, carry, or directional 
+positions,” depending on different market scenarios and volatilities. 
+The name “ABS correlation desk” referred to a strategy distinct from standard dealer CDO 
+structuring groups. Si milar to corporate correlation desks, King’s group at Barclays was 
+accumulating risk, then creating derivatives linked to that risk in the form of protection from 
+other investors. Customizing these new derivatives to fit investor appetites and acquiring 
+ratings on them permitted King and Barclays to charge a premium price. However, these 
+trades provided only a partial and imperfect hedge, which then had to be risk -managed and 
+further hedged. This approach is often referred to as delta hedging.1 
+Correlation had at least two aspects, spurring King’s group to assess risk based on (1) 
+industry standards and (2) “market -implied numbers” derived from a multiplicity of 
+factors. 
+Delta hedging forced King’s group to think seriously about correlation, which took on at least 
+two meanings in the case of the Barclays group: the correlation of risk (of loss or default) 
+among mortgages within a mortgage -backed security and the correlation of risk between 
+different CDO tranches or mortgage -backed securities. In a typical tr ansaction, an investor 
+approached them seeking to acquire $100 million of exposure to a AAA -rated tranche that 
+referenced a portfolio of subprime mortgage -backed securities. King’s group identified the 
+particular subprime bonds (but did not need to actually acquire them), get the AAA rating on 
+the tranche, and make an offer to the investor. Offer accepted, they had a synthetic short risk 
+position in the mortgage bonds; “we needed to hedge” by buying the ABX Index or other 
+derivatives linked to a similar por tfolio of mortgage bonds. They had to make sense of two 
+different probability distributions, King said: the rating agency modeling based on historical 
+asset value and defaults versus market-implied numbers. 
+You carried two separate views of the world: (1) a real -world view affecting how 
+we’re putting portfolios together for investors and rating agencies; and (2) what 
+models are we using to extract that same info from the market? 
+Deriving market-implied distributions for CDO tranches was challenging given the illiquidity 
+and complexity of the security. In the corporate market, King explained, “specific names were 
+quoted at specific maturities on homogeneous contracts. The ABS world wasn’t like that.” 
+Valuations of single names were not informative. King’s gro up had to assess the likelihood 
+and correlation of losses within and between the tranches. 
+ 
+1 James Chen, “Delta Hedging,” Investopedia, updated January 28, 2021, 
+https://www.investopedia.com/terms/d/deltahedging.asp. 
+426
+Journal of Financial Crises Vol. 4 Iss. 1
+
+--- Page 5 ---
+King’s strategy meant that running the desk was a high -maintenance affair with 
+multiple keys required for success: hedging to limit risk , constantly updating the 
+assumptions, stress-testing pre-crisis. 
+King recognized a proliferation of models, each with its own assumption and flaws, and 
+favored an internally developed tool called Matrix Price. “It took in every bit of information 
+we could gather every day on every bo nd.” King worked at length with statistician David Li 
+but said that their math exercises were ultimately not elucidating. Rather, determining the 
+correlation values required making assumptions and constantly updating them whenever 
+prices moved. 
+Delta hedging forced King’s group to approximate a marked-to-market position when 
+market prices were not available. 
+In early 2007, after receiving kudos for his profits in 2006, King stress -tested his portfolio 
+using high correlation values of 60% to 70%. The results  were alarming enough for him to 
+act early in 2007 to increase his hedging across the portfolio. 
+If I’d have sat and just taken price testing, or just said, “Don’t worry, it’s in a non-mark-
+to-market book” —just wait for the steam roller to ride over me. Th at’s why we’re 
+here today. We wired ourselves up to those Matrix Prices and had marked-to-market 
+“super senior.” We had to react because we were marked to market. And if we weren’t 
+marked to market, it was tough. 
+With sufficient vision, technical expertise, and discipline, you could profit and survive 
+in subprime CDOs—though such a combination was uncommon. 
+Noteworthy in this case, delta hedging was effective in its market acuity and its execution. 
+King’s group deployed a combination of computer skills and engineering, independent -
+mindedness, and discipline. They questioned market wisdom without dismissing it, aware of 
+the Barclays mandate that allowed somewhat freewheeling methods within clear limits. 
+The institutional investors who bought subprime CDOs wer e not stupid; rather, they 
+reacted to market pressures and went after what they saw was working. 
+As the housing market turned bad and mortgage lenders failed in 2006–07, spreads on CDO 
+tranches were slow to respond. “They did not widen as they should have, ” King explained, 
+“because of tremendous amounts of demand from investment banks and structured 
+investment vehicles [SIVs].” His counterparties were non-US banks and SIVs attracted to the 
+CDOs’ substantial yields. The buyers were not naive or stupid, he said, but driven to operate 
+in a very competitive setting. The higher yields helped subsidize their core lending 
+businesses, which were far less profitable. He described a herd effect as the CDO bubble 
+expanded: 
+A little portfolio emerges in one or more of the more aggressive corporate banks. And 
+then the other corporate banks that are near the corporate banks say, “Hold on. How 
+427
+Lessons Learned: Stephen King Lieber and Kasoff
+
+--- Page 6 ---
+are they managing to price their middle -market lending 2 basis points inside what 
+we’re doing?” 
+The credit investors followed each other as they were trying to maintain a commercially 
+viable and competitive bank lending business amidst low rates. They realized, “I can get 350 
+to 400 [basis point spread] on this synthetic tranche. Well, I do n’t even need to do much of 
+that now to offset a huge amount. So, let’s allocate some more capital to that. Well, now we’re 
+even more successful.” The bullish sentiment favoring CDOs persisted into 2007, even with 
+housing prices deteriorating, limiting any short positions in King’s hedged book. 
+Many CDO investors anticipated having to ride out a housing slump —the distressed 
+assets would recover—but the dash for cash forced them to sell at huge losses. 
+The fire sale came in 2008 and escalated with a vengeanc e. Thanks to disciplined hedging, 
+King’s group survived with profits, but it was tough going. For many CDO investors, the 
+thinking had been, “We are golden, as long as we don’t have to mark to market.” Then came 
+the realization that, “Oh, ----. If the borr owers can’t refinance, then those historic numbers 
+are garbage.” Next, a tap on the shoulder: “Can you get rid of that portfolio?” Now, the loss is 
+crystallized. King had long been bearish, but “I’m not even sure we considered quite the way 
+it would have gone from the mortgage market to the banking to the sovereigns.” 
+_____________________________________ 
+Dated: April 2022 
+YPFS Lessons Learned No. 2021-11 
+ 
+428
+Journal of Financial Crises Vol. 4 Iss. 1

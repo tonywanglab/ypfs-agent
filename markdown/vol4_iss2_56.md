@@ -1,0 +1,451 @@
+## United States: New York Clearing House Association, the Crisis of 1893[1] 
+
+## _Natalie Leonard[2]_ 
+
+Yale Program on Financial Stability Case Study June 15, 2022 
+
+## **Abstract** 
+
+The Panic of 1893 was one of the deepest economic depressions before the Great Depression of 1931. As a precautionary measure to stem the fall in reserves caused by country bank withdrawals, the New York Clearing House (NYCH), a private clearinghouse that operated as a de facto lender of last resort for its members, issued clearinghouse loan certificates (CLCs), as had been done in the prior crises of 1873, 1884, and 1890. CLCs functioned as a means of settlement between NYCH member banks and freed up coin and currency at a time of high demand. Member banks were required to accept CLCs in daily settlement, as a condition for membership in the association. The first CLCs were issued on June 17, 1893. CLCs bore an interest rate of 6%, paid to the accepting bank, and the NHCH accepted collateral of stocks, bonds, and bills receivable. The final round of CLCs was issued on September 6, 1893, and all certificates had been redeemed by November 1, 1893. Issuance in 1893 far outstripped issuance in prior crises; outstanding CLCs peaked at $38.3 million in August 1893. At peak, outstanding CLCs constituted 10.2% of NYCH banks’ deposits. The 1893 crisis contrasted with earlier crises in that: (1) stress emanated from interior, country banks; (2) the NYCH acted early in the crisis; (3) the NYCH suspended cash payments as in 1873, though did so later in the crisis; and (4) the NYCH did not pool cash reserves as had been done in 1873. The issuance of CLCs enabled banks to maintain credit even as the volume of deposits sharply contracted. 
+
+**Keywords:** clearinghouse loan certificates, New York Clearing House, Panic of 1893 
+
+> 1 This case study is part of the Yale Program on Financial Stability (YPFS) selection of New Bagehot Project modules considering broad-based emergency lending programs. Cases are available from the _Journal of Financial Crises_ at https://elischolar.library.yale.edu/journal-of-financial-crises/. 
+
+> 2 Research Associate, YPFS, Yale School of Management. 
+
+
+## **Overview** 
+
+The Panic of 1893 was one of the deepest economic depressions before the Great Depression of 1931 (Whitten 2001). Following a period of economic expansion and high investment throughout the 1880s, tenuous railroad investments and broad railroad overinvestment caused a series of railroad failures. High agricultural yields in 1891 and 1892 depressed crop prices, but farmland values had exploded in value: between 1870 and 1890, farm property values increased 75%. Beginning in 1889, economic depressions in England and France decreased foreign investment in the US and increased foreign demand for currency. Foreign investors began selling American stocks in favor of gold-backed bonds (Whitten 2001). 
+
+Developments in the banking system and the monetary system exacerbated the buildup in debt and the risk of financial crisis (Noyes 1894, 13). In the decades prior to the crisis, the ratio of bank capital to liabilities decreased substantially. In 1870, national bank capital, surplus and undivided profits, was 37% of total liabilities, while in 1892, it had fallen to 29%. In 1870, deposits made up one-third of total liabilities, and by 1892, deposits were more than half of bank liabilities (Noyes 1894, 13). 
+
+As the fear of contagion spread, depositors ran on banks throughout the United States, though banks in the West experienced the brunt of the panic. In the ensuing financial turmoil, more than 500 banks suspended operations, and the unemployment rate exceeded 12% (Whitten 2001; Wicker 2000, 55). 
+
+## **Key Terms** 
+
+Purpose: “to prevent contraction of loans if this drain goes on, at the same time showing the confidence the banks have in one another. More than this, it will be useful in inducing the clearinghouse associations of other cities to take some similar course of united action” (Commercial and Financial Chronicle 1893, 1000) 
+
+||Launch Dates|Announcement:<br>June 15, 1893|
+|---|---|---|
+|||First issue:|
+||Expiration Dates|June 17, 1893<br>Last issuance:<br>September 6, 1893|
+|||Last redemption:|
+|||November 1, 1893|
+||Legal Authority<br>Peak Outstanding|Complicated<br>$38.28 million on<br>August 29, 1893|
+||Participants|NYCH member banks|
+|||(65 member banks in|
+|||1893)|
+||Rate<br>Collateral|6%, set by NYCH<br>Bills receivable, stocks,<br>bonds, and other|
+|||securities; 25% haircut|
+||Loan Duration|No set maturity|
+||Notable Features|Contagion from the<br>western banks;<br>suspension of<br>convertibility|
+||Outcomes|Banking crisis|
+|||contained, all CLCs|
+|||retired within 5 months|
+
+
+
+The panic of 1893 differed from the previous 
+
+banking panics of 1873, 1884, and 1890 in that the origin of the panic was in the interior— especially affecting smaller western banks exposed to the railroad industry (Wicker 2000, 
+
+
+52). Figure 1 shows the regional distribution of bank suspensions at the height of the crisis, revealing the extent to which the crisis was contained in the interior and the west (Wicker 2000, 55). Previous crises as well as the crisis of 1907 evolved from turmoil in New York City; according to Wicker, “central money market banks were less responsive to disturbances originating in the interior than they had been to shocks originating in the central money market” (2000, 52). 
+
+[FIGURE id=vol4_iss2_56_f1 type=figure label="Figure 1" file=figure_1.png caption="Number and Total Liabilities of Suspended Banks by Region, May–August 1893"]
+### **Figure 1: Number and Total Liabilities of Suspended Banks by Region, May–August 1893**
+
+|**1893**|||||
+|---|---|---|---|---|
+||**Number of**<br>**suspended banks**|**Percent of**<br>**total**|**Liabilities of**<br>**suspended banks**|**Percent**<br>**of total**|
+|New England|12|2|$10,000,000|7|
+|Middle|22|4|$7,000,000|5|
+|Western|188|37|$45,000,000|30|
+|Northwestern|137|27|$42,000,000|28|
+|Southern|67|13|$17,000,000|11|
+|Pacific|68|14|$27,000,000|18|
+|Territories|9|2|$1,000,000|1|
+|Total|503|—|$149,000,000|—|
+
+
+
+_Source: Wicker 2000, 55._ 
+
+The banking system experienced the sharpest contraction between May 4 and October 3, 1893 (OCC 1893, 5). In this period, $378 million was withdrawn from the banks by individual depositors and banks. To meet demand, banks decreased the volume of outstanding loans by $318 million, sold stock and securities, and took out loans to increase cash reserves. By October 3, cash held by banks stood at its highest ever at $369 million (OCC 1893, 5). 
+
+As banks in the interior continued to experience high withdrawals and some failures, New York banks sent “large shipments of currency to the interior, [raising] rates for call money in New York . . . [By June 1893, dealers] in almost every branch of trade are pursuing a conservative course and are disposed to confine their operations closely until the currency question is settled” (Commercial and Financial Chronicle 1893, 1000). 
+
+In an attempt to stem the bank run, clearinghouse associations in New York, Boston, Philadelphia, Baltimore, and other cities issued clearinghouse loan certificates (CLCs), as had been done in some cities in the prior crises of 1873, 1884, and 1890 (OCC 1893, 15). 
+
+The New York Clearing House (NYCH), established in 1854, was created to settle balances between banks, simplifying interbank transactions (Fulmer 2022b). However, throughout the 19[th] century, its role expanded. In the absence of a public, central bank, the NYCH took on a lender-of-last-resort role, helping its members in times of panic (Gorton and Tallman 2016). The key tool of the NYCH was the clearinghouse loan certificate, which functioned as a means of settlement between NYCH member banks, freeing up coin and currency at a time 
+
+
+of high demand. Member banks were required to accept CLCs in daily settlement, as a condition for membership in the association (see, for example, Cannon 1910, 79). 
+
+NYCH loan certificates were notes issued by the New York Clearing House, bearing an interest rate of 6%, that circulated within the NYCH system for purposes of settlement between member banks; notably, CLCs were not for use to settle public debts with parties that were not members of the NYCH Association; however, their usage increased liquidity by freeing up reserves to be used to provide other loans. CLCs were collateralized by borrowing banks by bills receivable, stocks, bonds, and other securities, and the NYCH imposed minimum haircuts of 25% (Sprague 1910, 410). For a detailed discussion of the history of the NYCH, see (Fulmer 2022b). 
+
+The first CLCs were issued June 17, 1893 (Sprague 1910, 410). The final round of CLCs was issued on September 6, 1893, and all certificates had been redeemed by November 1, 1893 (Cannon 1910, 98). Issuance of CLCs in 1893 far outstripped issuance in prior crises. In the crises of 1873 and 1884, the NYCH issued CLCs totaling $26.6 million and $24.9 million respectively, while in 1893, NYCH issued $41.9 million (OCC 1893, 16). At peak, outstanding CLCs constituted $38.3 million or 10.2% of NYCH banks’ deposits (Sprague 1910, 411). The smallest issuance a single bank borrowed was $100,000, and the average borrowing bank took out $1.1 million. In total, 38 banks borrowed CLCs and 27 did not (OCC 1908, 65). 
+
+The 1893 crisis differed from previous crises in a few ways. First, it was the only case in the National Banking Era (1863-1913) in which the stress emanated from country banks (Wicker 2000, 52). Second, the NYCH issued CLCs early in the crisis, before panic hit New York (OCC 1893, 16). Third, the NYCH suspended cash withdrawals for the first time since 1873, alongside issuance of certified checks backed by the NYCH, though this suspension came after CLC issuance, unlike in 1873 (Wicker 2000, 53). Fourth, the 1893 crisis was the first time that clearinghouses outside New York issued small-denomination CLCs that could circulate (Cannon 1910, 112). Fifth, the NYCH decided not to pool cash reserves, as had been done in 1873, because there was less pressure on NY banks (Sprague 1910, 183). 
+
+Although in the crisis of 1873 bank distress caused stock market distress, this feedback was limited in 1893. Sprague 1910 identifies two reasons: (1) legislation in 1882 addressed extreme intraday overleveraging of brokers loans; and (2) the New York Stock Exchange created its own clearinghouse in 1892, which allowed the stock exchange to remain open throughout the crisis (Sprague 1910, 38, 104, 152). 
+
+## **Summary Evaluation** 
+
+The Office of the Comptroller of the Currency described the function and importance of CLCs in its annual report of 1893: 
+
+At a time when vast sums of coin and currency were being withdrawn from the banks, to be hoarded, these loan certificates, by performing the functions of the currency or coin customarily required for settling daily balances at the clearing house, released so much currency or coin to the legitimate and current demands of business and unquestionably placed it within the power of the banks in the cities named to extend to outside banks the 
+
+
+aid needed on the one hand and liberally granted on the other. (OCC 1893, 16) 
+
+The CLCs, by freeing the banks from needing coin and currency for settlement purposes, effectively put more coin and currency in circulation, at a time of high demand. In this sense, the NYCH behaved as a private lender of last resort, before the creation of the Federal Reserve System in 1913 (Fulmer 2022b). 
+
+The OCC also stated that the clearinghouses intervened by issuing CLCs early in the crisis, which had inherent positive effects: 
+
+Their issuance at so early a date in the financial derangement of the country was most opportune in not only preventing an acute panic, but in tending to restore public confidence, such action demonstrating that by mutual agreement of all, the weak banks of the association would be, so far as depositors and other creditors were concerned, as strong as the strongest. (OCC 1893, 16) 
+
+Noyes argues that through the issuance of CLCs, “solvent borrowers were protected by the courageous advance of banking credits at the very worst hour of panic” (Noyes 1894, 21). Noyes compares the reduction in outstanding loans in cities that issued CLCs and in Chicago, where CLCs were not used.[3] While in New York the amount of outstanding loans _increased_ between May 4 and July 12, in Chicago, outstanding loans contracted 15% (Noyes 1894, 22) (see Figure 2). CLC issuance allowed New York banks to maintain outstanding loans, despite significant decreases in deposits and specie reserves. 
+
+[FIGURE id=vol4_iss2_56_f2 type=figure label="Figure 2" file=figure_2.png caption="Aggregated Decrease in Loans, Specie, Deposits, and Loans to Other Banks (in Millions)"]
+### **Figure 2: Aggregated Decrease in Loans, Specie, Deposits, and Loans to Other Banks (in Millions)**
+
+|**(in Millions)**|||||
+|---|---|---|---|---|
+||**New York**||**Chicago**||
+||**May 4**|**July 12**|**May 4**|**July 12**|
+|Loans|$307.4|$308.6<br>(+0.3%)|$96.8|$82.4<br>(–15%)|
+|Specie and legal tender|$98.1|$76.7<br>(–22%)|$29.3|$24.9<br>(–15%)|
+|Deposits|$287.0|$246.7<br>(–14%)|$75.8|$66.4<br>(–12%)|
+|Due other banks|$168.5|$155.5<br>(–8%)|$48.9|$36.9<br>(–25%)|
+
+
+
+_Source: Noyes 1894, 22._ 
+
+> 3 While the Chicago clearinghouse authorized CLCs, the banks did not take out any CLCs, likely due to stigma, which might have contributed to the deeper loan contraction there (Sprague 1910, 209). Sprague asserts “that the banks in many parts of the country caused needless damage to their customers by a ruthless policy of loan contraction. Nowhere is this more clearly evident than in Chicago” (Sprague 1910, 209). 
+
+
+|**Context: NYCH 1893–1894**|**Context: NYCH 1893–1894**|
+|---|---|
+|**Net deposits of NYCH membership**<br>**(average of weekly data)**|$433.4 million in 1893<br>$568.9 million in 1894|
+|**Loans held by NYCH membership**<br>**(average of weekly data)**|$419.4 million in 1893<br>$470.9million in 1894|
+|**Capital and surplus of NYCH membership**<br>**(average of weekly data)**|$131.2 million in 1893<br>$132.2 million in 1894|
+|**Required reserves held by NYCH membership**<br>**(average of weekly data)**|$108.3 million in 1893<br>$138.3 million in 1894|
+|**Number of members in the NYCH**|65 in 1893<br>66in 1894|
+|**NYCH clearing transactions (annual)**|$31.3 billion in 1893<br>$24.4 billion in 1894|
+|**Number of commercial failures**|15,242 failures in 1893<br>13,885 failures in 1894|
+|**Total liabilities of commercial failures**|$346.8 million in 1893<br>$173.0million in 1894|
+|**Total individual deposits for the United States**<br>**(excluding savings banks)**|$2,819 million in 1893<br>$2,873 million in 1894|
+|**Ratio of aggregate CLC issuance to net deposits of NYCH**<br>**membership**|9.6% in 1893|
+|_Source: Andrew 1910._||
+
+
+
+
+## **Key Design Decisions** 
+
+**1. Purpose: In a statement to the** _**Commercial & Financial Chronicle**_ **, the NYCH described the issuance of CLCs as a precautionary measure intended to prevent the contraction of loans and restore confidence in banks.** 
+
+The crisis of 1893, unlike previous crises, began in the interior of the country—with smaller western banks exposed to the railroad industry (Wicker 2000, 52). In the weeks leading up to June 17, 1893, New York banks’ reserves contracted sharply from $134 million to $110 million; surplus reserves—reserves held in excess of the reserve requirement—fell from $24.6 million to $8.7 million (Sprague 1910, 168). Sprague attributes the fall in reserves to the “failure and suspension of large numbers of banks, both state and national, and of private bankers in the West and South” (1910, 168). 
+
+By June 14, 1893, the NYCH began putting in place the infrastructure to issue CLCs, at a far earlier stage of the crisis than in previous crises; on June 14, the Clearing House Committee met and called a meeting of the association for June 15 (Sprague 1910, 409). On June 15, the NYCH Association met, and with 58 of 65 banks present, adopted a resolution to appoint a Loan Committee to begin issuing the first CLCs on June 17 (Sprague 1910, 410). See Key Design Decision 2 “Legal Authority” for a description of these committees. 
+
+On June 16, the NYCH said that the purpose of issuing CLCs was a: 
+
+Precautionary measure, which will tend to prevent contraction of loans if this drain goes on, at the same time showing the confidence the banks have in one another. More than this, it will be useful in inducing the clearing-house associations of other cities to take some similar course of united action. (Commercial and Financial Chronicle 1893, 1000) 
+
+**2. Legal Authority: The authority to issue CLCs during the crisis derived from the NYCH’s internal mandate, and it faced no explicit legal restrictions against issuing CLCs.** 
+
+The NYCH was a private institution, and its emergency liquidity operations developed from its original operations as a place for settlement between banks. The NYCH had an internal process for authorizing CLC issuance. In a time of stress or panic, the NYCH would appoint a Loan Committee, which would take in collateral and issue CLCs to member banks (Gilpin and Wallace 1904, 18). 
+
+The National Bank Act of 1864 sought to discourage state-chartered banks from issuing bank notes and charged a tax of 10% of the value of any such notes each year (Timberlake 1984, 6). Contemporary sources and scholars have argued that some of the forms of debt issued to replace currency during crises of the National Banking Era—including “certified checks, certificates of deposit, cashier’s checks in round amount”—should have been subject to the 10% tax (Hepburn 1903, 374). 
+
+However, contemporary sources and scholars tend to agree that CLCs used entirely for interbank transactions did not break this law because they circulated only among the NYCH 
+
+
+members. William J. Gilpin, assistant manager of the NYCH during the 1893 crisis, stresses in his book on the NYCH that “the certificates were in no sense a circulating medium, being confined to Clearing House uses” (Gilpin and Wallace 1904, 18). 
+
+In the 1893 and 1907 banking crises, some clearinghouses outside New York issued CLCs in smaller denominations and encouraged their use as currency, raising more directly the question of their legality under the National Banking Act. Cannon, in his report to the National Monetary Commission, defends the use of CLCs in general but hints that their use in some states could have subjected them to the 10% tax: 
+
+. . . their sole function consisted in discharging the single obligation of the clearing house. An attempt on the part of a bank to use them otherwise would have incurred a fine and other penalties, provided in the rule governing such associations. In no instance, except those mentioned in the South, were they designated to serve as money, and nowhere else did they circulate as money. (Cannon 1910, 116) 
+
+Banks also typically used certified checks in place of currency during crises when they had partially suspended the cash convertibility of deposits. Starting in 1873, the NYCH guaranteed certified checks issued by its members during crises. Such checks were “quasicurrency” and circulated at a discount to currency (Timberlake 1984, 5). This “currency premium” became a measure of market confidence in banks during crises. Gorton and Tallman (2016) says that certified checks were not considered “money” and were not subject to the 10% tax, but that this was “essentially a fiction” (Gorton and Tallman 2016, 27). 
+
+Suspension of deposit convertibility into cash was also effectively illegal because demand deposit contracts gave depositors the right to withdraw cash any time a bank was open. However, those contracts were never legally enforced, as suspension was seen as a necessary tool to calm banking panics at the time (Gorton and Tallman 2018, 181). 
+
+For a broader discussion of the legality of CLC issuance, see (Fulmer 2022b). 
+
+**3. Part of a Package: The NYCH suspended cash payments as in earlier crises but waited for six weeks after it had approved CLCs.** 
+
+In other panics, the NYCH deployed a number of tools to quell the panic: (1) anonymous temporary lending, (2) suspending publication of weekly bank balance sheet data, (3) examining member banks (like stress testing), (4) depositor bail-ins of member banks, and (5) suspending cash convertibility for member banks (Gorton and Tallman 2018, 7). Although during the Panic of 1873 and the Panic of 1907, the NYCH suspended cash payments when CLCs were first issued, during the Panic of 1893, the NYCH did not suspend cash payments until August 3, 1893, six weeks after approving CLC issuance (Wicker 2000, 53). The burden of the suspension of cash payments fell heavily on interior banks, while in the Panic of 1873, the NY banks were able to maintain convertibility requests from interior banks, in part due to reserve pooling (Wicker 2000, 77–78). 
+
+The NYCH examined two banks during the panic, Madison Square Bank and National Bank of Deposit, neither of which was a member of the clearinghouse (Gorton and Tallman 2016, 
+
+
+72). Madison Square Bank approached the NYCH with its books in an attempt to prove its soundness. National Bank of Deposit was examined after an NYCH member bank refused to act as a clearinghouse agent on its behalf. After examining, the NYCH recommended liquidation (Gorton and Tallman 2016, 72). 
+
+Throughout the crisis, the NYCH changed its disclosure guidelines, suppressing the publication of weekly member bank statements and publishing only aggregate statistics (NYCH 1890, 41). 
+
+US Department of the Treasury actions during the crisis to expand the supply of money helped to alleviate the contraction. Excess Treasury payments expanded the supply of money by $9 million in August. Combined with gold imports and silver purchases, money in circulation increased by $17 million in July and nearly $70 million in August (Sprague 1910, 184). 
+
+## **4. Management: CLCs were issued and managed by the Loan Committee.** 
+
+The NYCH’s administration comprised a president, secretary, manager, assistant manager, and five standing committees (Paton 1895, 600).[4] In times of stress or pressure, the association would meet and appoint a Loan Committee, containing five bank officer members and the president of the NYCH as an ex officio member (Paton 1895, 608). The association itself created the committee, authorized CLC issuance, and specified the interest rate and accepted collateral. The Loan Committee took in and valued collateral, issued CLCs, collected and disbursed interest payments, and, upon initiation by a borrowing bank, processed CLC redemption (Paton 1895, 608). 
+
+## **5. Administration: The Loan committee met every day during the crisis.** 
+
+The CLC committee met daily throughout the crisis, beginning June 15 (Sprague 1910, 410). Gilpin, who was appointed to the role of assistant manager of the NYCH in 1892, supervised bank withdrawal of gold coin deposits and the issuance of CLCs (Gilpin and Wallace 1904, 35). The chairman (later called the president) of the NYCH during the crisis was George G. Williams, president of the Chemical National Bank (Gilpin and Wallace 1904, 47). 
+
+On June 15, the NYCH Association met, authorized the issuance of CLCs, and appointed the Loan committee to value collateral and oversee issuance (Sprague 1910, 410). 
+
+To receive a CLC, a borrowing member bank would approach the loan committee with suitable collateral, and after applying a 25% haircut, would receive a certificate (OCC 1893, 16; Paton 1895, 608). The CLC could be used in settlement of payments with any other NYCH member bank; the accepting bank was paid 6% interest on the CLC as long as the CLC was outstanding (Sprague 1910, 410). Interest was paid by the borrowing bank to the Loan Committee, which then disbursed interest payments to accepting banks (Hoag 2016, 310). 
+
+> 4 The five standing committees were: the Clearing House Committee, the Conference Committee, the Nominating Committee, the Committee on Admissions, and the Arbitration Committee. Each was staffed with five members, each an officer of a NYCH member bank (Paton 1895, 600). 
+
+
+Collateral was held in the vaults of Chase National Bank and First National Bank, as the NYCH itself lacked the capacity to secure the collateral (Sprague 1910, 412). Should a bank default on a CLC, the Loan Committee was authorized to liquidate securities deposited as collateral to satisfy the loan (Gilpin and Wallace 1904, 18). 
+
+For more on the function of CLCs, see (Fulmer 2022b). 
+
+## **6. Eligible Participants: Eligible participants were members of the NYCH.** 
+
+CLCs were issued only to member banks of the clearinghouse for temporarily settling balances with other member banks (Paton 1895, 602). By 1893, the NYCH had 65 members (Gilpin and Wallace 1904, 33). In total, 38 banks took out CLCs; 27 did not (OCC 1908, 65). 
+
+## **7. Funding Source: CLCs were the liabilities of borrowing banks, though they were guaranteed by the NYCH Association.** 
+
+CLCs, as Sprague says in his report to the National Monetary Commission, were “temporary loans made by the banks associated together as a clearing-house association to the members of such association” (Sprague 1910, 406). Moreover, “their sole function consisted in discharging the single obligation at the clearing house” (Sprague 1910, 407). Should a bank default on a CLC, the Loan Committee was authorized to liquidate securities deposited as collateral to satisfy the loan (Gilpin and Wallace 1904, 18). 
+
+While the CLCs were, in one sense, the obligation of the borrowing banks, they were also jointly guaranteed by the association as a whole. Cannon describes CLCs as the nonborrowing member banks taking on the “joint risk of the [borrowing] bank in proportion to the amounts of their respective capitals” (1910, 241). Therefore, if liquidated collateral could not fully redeem a CLC, members jointly shared the remaining loss. See (Fulmer 2022b) for a more complete discussion of the joint nature of CLCs. 
+
+## **8. Program Size: The NYCH issued as many certificates as were demanded by member banks. In total, the NYCH issued $41.9 million in CLCs.** 
+
+NYCH member banks approached the Loan Committee when they needed certificates for settlement; thus, the overall size of the CLC issuance was limited only by member bank demand. 
+
+The first round of CLCs was issued on June 17,[5] with a value totaling $2.6 million (Sprague 1910, 410). The last CLCs were issued on September 6 (Cannon 1910, 98). In total, $41.9 million CLCs were issued; the greatest amount outstanding was on August 29, at $38.3 million (Sprague 1910, 411). At peak, outstanding CLCs constituted 10.2% of NYCH banks’ deposits (Sprague 1910, 411). 
+
+> 5 There is some disagreement: Cannon states that the first round of CLCs was issued on June 21, 1893 (1910, 98). 
+
+
+By July 1893, 78% of balances were settled with CLCs; in August, this value increased to 95% (Sprague 1910, 182) (see Figure 3). By October, certificates were no longer used in settlement balances, and by November 1, all CLCs had been redeemed (Cannon 1910, 98). This high percentage indicates wide usage among member banks; in other panics, only a few banks used CLCs (Hoffner 2022). 
+
+[FIGURE id=vol4_iss2_56_f3 type=chart label="Figure 3" file=figure_3.png caption="Percent of Balances Paid with CLCs, 1893"]
+### **Figure 3: Percent of Balances Paid with CLCs, 1893**
+![Figure 3](assets/vol4_iss2_56/figure_3.png)
+
+
+_Source: Sprague 1910, 411._ 
+
+## **9. Individual Participation Limits: Research did not reveal individual participation limits.** 
+
+Research did not reveal individual participation limits. Individual issuance was naturally limited by the eligible collateral each bank had on hand. 
+
+## **10. Rate Charged: CLCs bore an interest rate of 6%.** 
+
+The CLCs bore interest at a rate of 6% (Sprague 1910, 410). In total, $535,513 was paid as interest on issued CLCs (Sprague 1910, 412). Although in other panics the NYCH charged administration fees, there is no indication that the NYCH charged fees in the panic of 1893 
+
+
+(Fulmer 2022a). In a 1910 report to the National Monetary Commission, James Graham Cannon[6] explained that the interest rate on CLCs encouraged timely repayment: 
+
+The aim is to fix the rates sufficiently high to ensure the retirement of the certificates as soon as the emergency which called them forth has passed by. As a rule they are retired by the banks, which take them out as soon as they have obtained sufficient cash to meet their daily obligations (Cannon 1910, 79). 
+
+## **11. Eligible Collateral: Borrowing banks deposited collateral of “its bills receivable, or other securities” to secure the CLCs. The NYCH imposed haircuts set at a minimum of 25%.** 
+
+To receive CLCs, a bank was required to deposit collateral of “its bills receivable, or other securities”—including stocks and bonds, at which point the NYCH Loan Committee issued CLCs (OCC 1893, 16; Paton 1895, 608).[7] A bank could borrow at most 75% the value of its posted collateral (OCC 1893, 16). 
+
+In total, the NYCH received $56 million of collateral—$40 million in bills receivable and $16 million in stocks and bonds (Sprague 1910, 411).[8] 
+
+Collateral was held in the vaults of Chase National Bank and First National Bank, as the NYCH itself lacked the capacity to secure the collateral (Sprague 1910, 412). 
+
+## **12. Loan Duration: CLCs did not carry a maturity date and circulated freely between NYCH members until cancellation.** 
+
+CLCs were issued without a maturity date and, for purposes of settlement between banks, could circulate freely between NYCH members until redemption. The first cancellation of a CLC occurred on July 6, 1893 (Sprague 1910, 410). 
+
+In the case of the Panic of 1893, the last of the CLCs were redeemed on November 1, more than four months after the first issuance (Cannon 1910, 98). 
+
+## **13. Other Conditions: All NYCH member banks were required to accept CLCs for settlement, whether or not they approached the Loan Committee as borrowers.** 
+
+Member banks were required to accept CLCs in daily settlement, as a condition for membership in the association (see, for example, Cannon 1910, 79). See (Fulmer 2022b) for a more complete discussion of the NYCH membership requirements. 
+
+> 6 James Graham Cannon was vice president of the Fourth National Bank and an administrator of the NYCH (Gilpin and Wallace 1904, 40). 
+
+> 7 In prior crises, the NYCH accepted a different range of collateral; the range of eligible collateral expanded over time. See Paton (1895, 608) for more. 
+
+> 8 Given the total sum of CLCs issued the implied haircut is 74.1%. 
+
+
+## **14. Impact on Monetary Policy Transmission: The NYCH did not consider monetary policy in its issuance of CLCs.** 
+
+As a private organization, the NYCH did not consider monetary policy impact in its issuance of CLCs, as the clearinghouse was a private association of banks. However, Cannon describes how CLC issuance increased the money supply in periods of high demand: 
+
+Under our present currency system no adequate method is provided for expanding the money volume as occasion demands, whereby the banks can continue their usual loans and discounts. . . . Hence it is left in a large measure to the financiers of each community to work out their own remedy. (Cannon 1910, 76) 
+
+## **15. Other Options: Although in 1873 the NYCH resorted to reserve pooling, it did not do so in 1893.** 
+
+In 1873, the NYCH took the extra step of pooling reserves—essentially jointly sharing reserves to shore up weaker banks (Fulmer 2022a). However, in 1893, banks were less willing to use this extraordinary measure: 
+
+New York bankers were less willing in 1893 to relinquish individual bank discretion over cash reserves for the purpose of shoring up weaker interior banks. (Wicker 2000, 53) 
+
+Sprague indicates that reserve pooling would have prevented the crisis from deepening to a point that necessitated the suspension of cash convertibility: 
+
+That the arrangement for equalizing the reserves adopted in 1873 would in this instance have availed to prevent suspension is highly probable, indeed, a practical certainty. (Sprague 1910, 183) 
+
+Sprague notes that New York banks were reluctant to employ reserve pooling in the crisis of 1893 partly because some New York banks were more exposed to interior banks than others; unexposed banks were unsympathetic to the suffering of exposed banks (Sprague 1910, 185–86). 
+
+## **16. Similar Programs in Other Countries: Other cities’ clearinghouses also issued CLCs.** 
+
+Other cities’ clearinghouses issued CLCs in response to the crisis. These cities included Philadelphia, Boston, Baltimore, Pittsburgh, New Orleans, Cincinnati, Buffalo, Detroit, Atlanta, Birmingham, and Richmond (Cannon 1910, 98–112). Many of these cities issued small-denomination CLCs that to some extent circulated outside the clearinghouses as currency (see Cannon 1910, 112). Issuance was far more widespread than in previous crises: in the 1873 crisis, New York and Philadelphia clearinghouses issued CLCs, while in the 1890– 91 crisis, New York, Boston, and Philadelphia issued CLCs (OCC 1893, 16). While the Chicago clearinghouse authorized CLCs, the banks did not take out any CLCs, likely due to stigma, 
+
+
+which might have contributed to the deeper loan contraction there (Sprague 1910, 209). See Figure 4. 
+
+[FIGURE id=vol4_iss2_56_f4 type=figure label="Figure 4" file=figure_4.png caption="Issuance of CLCs"]
+### **Figure 4: Issuance of CLCs**
+
+||**Date of**<br>**first**<br>**issuance**|**Date of largest**<br>**amount**<br>**outstanding**|**Largest**<br>**amount**<br>**outstanding**|**End date (date**<br>**of surrender**<br>**of last**<br>**certificate)**|**Amount**<br>**outstanding**<br>**October 31,**<br>**1893**|
+|---|---|---|---|---|---|
+|Baltimore|June 27|August 24–<br>September 9|$1,475,000|—|$845,000|
+|Boston|June 27|August 23–<br>September 1|$11,445,000|October 20|—|
+|New York|June 219|August 29–<br>September 6|$38,280,000|November 1|—|
+|Philadelphia|June 16|August 15|$10,965,000|—|$3,835,000|
+|Pittsburgh|August 11|September 15|$987,000|—|$332,000|
+|Total||—|$63,152,000|—|—|
+
+
+
+_Source: OCC 1893, 16._ 
+
+## **17. Communication: On June 17, 1893, the** _**Commercial & Financial Chronicle**_ **announced that the NYCH had begun offering CLCs to member banks.** 
+
+On June 15, 1893, the _New York Times_ reported that the NYCH Clearing House Committee had met to discuss the issuance of CLCs, and though the NYCH hadn’t issued a formal statement, “it is understood, however, that the committeemen are in favor of an issue of certificates” (NYT 1893b). The article further stated that the NYCH Association would meet the following day, June 16, likely to authorize CLC issuance (NYT 1893b). The June 17, 1893, issue of the _Commercial & Financial Chronicle_ included a discussion of the NYCH’s decision to begin offering CLCs (Commercial and Financial Chronicle 1893, 1000). On November 3, 1893, the _New York Times_ reported that the last of the CLCs had been redeemed and that the NYCH Association published a report on CLC issuance on November 2, 1893, detailing its operations throughout the crisis (NYT 1893a). 
+
+## **18. Disclosure: On October 31, 1893, the Loan Committee submitted a report to the association including “full and complete statistics of the transactions with each bank.”** 
+
+On October 31, 1893, the Loan Committee submitted a report to the association, including aggregate statistics on the operations of the committee (Sprague 1910, 409). The text of this report was published in the _New York Times_ on November 3, 1893 (NYT 1893a). Attached to 
+
+> 9 See footnote 5: There is some disagreement: Cannon states that the first round of CLCs was issued on June 21, 1893 (1910, 98). 
+
+
+the report, the committee included “full and complete statistics of the transactions with each bank” (Sprague 1910, 412). 
+
+However, throughout the crisis, the NYCH changed its disclosure guidelines, suppressing the publication of weekly member bank statements and publishing only aggregate statistics (NYCH 1890, 41). 
+
+**19. Stigma Strategy: To some banks, usage of CLCs carried stigma. The NYCH suspended the publication of weekly member bank statements, as it had done in previous crises, but it also published individual bank CLC usage immediately after the crisis, which might have had a stigma effect.** 
+
+In Cannon’s report to the National Monetary Commission, he describes the stigma associated with the CLCs: “Some banks regard their use of clearing-house loan certificates as a reflection upon their standing, and hence refuse to apply for them unless driven to it by sheer necessity” (Cannon 1910, 79). 
+
+However, in general, prior to the Panic of 1907, NYCH member banks viewed the use of CLCs as a “patriotic movement in which all the banks should engage, both for the purpose of assisting their fellow-members and for the welfare of the community as a whole” (Cannon 1910, 79). High usage of CLCs throughout the crisis indicates wide subscription by member banks, unlike in other crises. By comparison, in the Panic of 1907, only 60% of members took out CLCs, indicating that their usage might have become stigmatized (see Runkel 2022). 
+
+On June 14, 1893, as in previous crises, the NYCH suspended publication of weekly member bank statements and opted to “furnish the public with the totals and changes only” (NYCH 1890, 41). Delaying or suspending publication of bank statements prevented bank runs from worsening and prevented the public from identifying weak banks (Gorton and Tallman 2018, 44). On November 3, 1893, _the New York Times_ published a Loan Committee report on CLC issuance throughout the crisis (NYT 1893a). Attached to the report, the committee included “full and complete statistics of the transactions with each bank” (Sprague 1910, 412). On November 4, 1893, the NYCH resumed the publication of weekly bank statements (NYCH 1890, 154). 
+
+## **20. Exit Strategy: The last CLCs were issued on September 6, 1893, and all CLCs were redeemed by November 1, 1893.** 
+
+The last CLCs were issued on September 6 (Cannon 1910, 98). By October, certificates were no longer used in settlement balances, and by November 1, all CLCs had been redeemed (Cannon 1910, 98). Interest rates were set high enough to encourage timely repayment; See Key Design Decision No. 12, Loan Duration, for a more detailed discussion. 
+
+
+## **References and Key Program Documents** 
+
+Documents cited in the text are introduced with a parenthetical author-date citation. Documents that are relevant to this case but have not been cited in text do not include this parenthetical reference. 
+
+## **Program Summaries** 
+
+(Wicker 2000) Wicker, Elmus. 2000. _Banking Panics of the Gilded Age_ . Cambridge: Cambridge University Press. 
+
+_A study of the banking panics during the National Banking Era, with specific focus on bank closures and causes_ . 
+
+https://ypfs.som.yale.edu/library/document/banking-panics-gilded-age 
+
+## **Media Stories** 
+
+(NYT 1893b) New York Times (NYT). 1893b. “Certificates May Be Issued,” June 15, 1893. _Article discussing the New York Clearing House’s decision whether to issue clearinghouse loan certificates during the Panic of 1893_ . 
+
+https://ypfs.som.yale.edu/node/20204 
+
+(NYT 1893a) New York Times (NYT). 1893a. “Loan Committee’s Work Done,” November 3, 1893. 
+
+_Article discussing the final clearinghouse loan certificate issues of the New York Clearing House’s Loan Committee in the Panic of 1893_ . 
+
+https://ypfs.som.yale.edu/node/20203 
+
+(Commercial and Financial Chronicle 1893) “The Commercial and Financial Chronicle - June 17, 1893.” 1893. In _Commercial and Financial Chronicle_ . _Article describing the NYCH’s activity during the crisis_ . https://ypfs.som.yale.edu/node/20595 
+
+## **Press Releases/Announcements** 
+
+(NYCH 1890) New York Clearing House Association (NYCH). 1890. “Committee Minutes of the New York Clearing House Association, 1890-1912.” Series I: Associations and Committees, 1853-2004. 
+
+_Minutes of the NYCH association_ . https://ypfs.som.yale.edu/node/20586 
+
+## **Reports/Assessments** 
+
+(OCC 1893) Office of the Comptroller of the Currency (OCC). 1893. “Annual Report of the Comptroller of the Currency,” December 4, 1893. 
+
+_1893 annual OCC report_ . 
+
+https://ypfs.som.yale.edu/library/document/annual-report-comptroller-currency-1893 
+
+
+(OCC 1908) Office of the Comptroller of the Currency (OCC). 1908. “Annual Report of the Comptroller of the Currency,” December 7, 1908. 
+
+_Report by the OCC containing information on the Panic of 1907, as well as data on the previous NYCH interventions_ . 
+
+https://ypfs.som.yale.edu/library/document/annual-report-comptroller-currency-1908 
+
+(Whitten 2001) Whitten, David. 2001. “The Depression of 1893.” Economic History Association. 
+
+_Blog post covering the causes of the 1893 depression_ . https://ypfs.som.yale.edu/node/20221 
+
+## **Key Academic Papers** 
+
+(Cannon 1910) Cannon, James Graham. 1910. “Clearing House Methods and Practices.” 61st Senate Doc. 491. Publications of the National Monetary Commission. Washington, D.C.: Government Printing Office. 
+
+_Report for the National Monetary Commission by an individual connected to the clearinghouses that provides detail on their operations and structure_ . 
+
+https://ypfs.som.yale.edu/library/document/clearing-house-methods-and-practices 
+
+(Fulmer 2022a) Fulmer, Sean. 2022a. “United States: New York Clearing House Association, the Panic of 1873.” _Journal of Financial Crises_ 4, no. 2. _Case study on the NYCH’s issuance of CLCs during the Panic of 1873_ . https://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss2/58 
+
+(Fulmer 2022b) Fulmer, Sean. 2022b. “New York Clearing House Association: Overview.” _Journal of Financial Crises_ 4, no. 2. 
+
+_Overview document that details the New York Clearing House Association_ . https://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss2/32 
+
+(Gilpin and Wallace 1904) Gilpin, William Jay, and Henry E. Wallace. 1904. _Clearing House of New York City: New York Clearing House Association, 1854-1905_ . M. King. _Book on the history of the NYCH during the free banking era_ . https://ypfs.som.yale.edu/node/20596 
+
+(Gorton and Tallman 2016) Gorton, Gary, and Ellis W. Tallman. 2016. “How Did Pre-Fed Banking Panics End?” _NBER Working Paper_ . 
+
+_Working paper on the actions committed by the NYCH in response to banking panics in the absence of a central bank_ . 
+
+https://ypfs.som.yale.edu/library/document/how-did-pre-fed-banking-panics-end 
+
+(Gorton and Tallman 2018) Gorton, Gary, and Ellis Tallman. 2018. _Fighting Financial Crises: Learning from the Past_ . _Fighting Financial Crises_ . Chicago: University of Chicago Press. _Book documenting how the New York Clearing House Association responded to several banking panics in the National Banking Era_ . 
+
+https://ypfs.som.yale.edu/library/document/fighting-financial-crises-learning-past 
+
+
+(Hepburn 1903) Hepburn, A. Barton. 1903. _History of the Coinage and Currency in the United States and the Perennial Contest for Sound Money_ . The Macmillan Company. _Book that delves into the legality of CLCs_ . https://ypfs.som.yale.edu/node/19139 
+
+(Hoag 2016) Hoag, Christopher. 2016. “Clearinghouse Loan Certificates as Interbank Loans in the United States, 1860–1913.” _Financial History Review_ 23, no. 3: 303–24. _Article discussing the role and status of CLCs during banking panics in the National Banking Era_ . 
+
+https://ypfs.som.yale.edu/library/clearinghouse-loan-certificates-interbank-loans-unitedstates-1860-1913 
+
+(Hoffner 2022) Hoffner, Benjamin. 2022. “United States: New York Clearing House Association, the Panic of 1884.” _Journal of Financial Crises_ 4, no. 2. _Case study on the NYCH’s issuance of CLCs during the Panic of 1884_ . https://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss2/59 
+
+(Noyes 1894) Noyes, Alexander D. 1894. “The Banks and the Panic of 1893.” _Political Science Quarterly_ 9, no. 1: 12–30. _Article surveying the NY banks and the 1893 crisis_ . https://ypfs.som.yale.edu/node/20200 
+
+(Paton 1895) Paton, T. B. 1895. “New York Clearing House and the Associated Banks.” _The Banking Law Journal_ 12, no. 11: 593–621. 
+
+_Law article on the NYCH_ . https://ypfs.som.yale.edu/node/20201 
+
+(Runkel 2022) Runkel, Corey N. 2022. “United States: New York Clearing House Association, the Panic of 1907.” _Journal of Financial Crises_ 4, no. 2. _YPFS case examining clearinghouse loan certificates issued during the Panic of 1907_ . https://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss2/61 
+
+(Sprague 1910) Sprague, Oliver Mitchell Wentworth. 1910. _History of Crises under the National Banking System_ . National Monetary Commission. 2nd 61st Congress: 538. Washington, DC: US Government Printing Office. 
+
+_Definitive account of the NYCH crises, leading to the creation of the Federal Reserve_ . https://ypfs.som.yale.edu/library/document/history-crises-under-national-bankingsystem 
+
+(Timberlake 1984) Timberlake, Richard H. 1984. “The Central Banking Role of Clearinghouse Associations.” _Journal of Money, Credit and Banking_ 16, no. 1: 1–15. _Journal article on the role of the NYCH as a private lender of last resort without a central bank in existence_ . 
+
+https://ypfs.som.yale.edu/library/document/central-banking-role-clearinghouseassociations 
+
+
+Copyright 2022 © Yale University. All rights reserved. To order copies of this material or to receive permission to reprint any or all of this document, please contact the Yale Program on Financial Stability at ypfs@yale.edu.

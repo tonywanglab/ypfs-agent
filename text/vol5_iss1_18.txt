@@ -1,0 +1,582 @@
+--- Page 1 ---
+Journal of Financial Crises Journal of Financial Crises 
+Volume 5 Issue 1 
+2023 
+United States: Central Bank Swaps to the Eurozone, UK, and United States: Central Bank Swaps to the Eurozone, UK, and 
+Canada, 2001 Canada, 2001 
+Jack French 
+YPFS, Yale School of Management 
+Follow this and additional works at: https://elischolar.library.yale.edu/journal-of-financial-crises 
+Recommended Citation Recommended Citation 
+French, Jack (2023) "United States: Central Bank Swaps to the Eurozone, UK, and Canada, 2001," Journal 
+of Financial Crises: Vol. 5 : Iss. 1, 449-461. 
+DOI: https://doi.org/10.17132/2693-3179.1496 
+Available at: https://elischolar.library.yale.edu/journal-of-financial-crises/vol5/iss1/18 
+This Case Study is brought to you for free and open access by the Journal of Financial Crises and 
+EliScholar – A Digital Platform for Scholarly Publishing at Yale. For more information, please contact 
+journalfinancialcrises@yale.edu.
+
+--- Page 2 ---
+READERS TAKE NOTICE: READERS TAKE NOTICE: 
+As of April 2024, the YPFS Resource Library’s site domain has changed 
+to https://elischolar.library.yale.edu/ypfs-financial-crisis-resource-library/. 
+Please be aware that upon clicking any of the URL references to 
+the former Resource Library domains, either https://ypfs.som.yale.edu 
+or https://ypfsresourcelibrary.blob.core.windows.net/, in the 
+"References/Key Program Documents" section of a case study, 
+readers will encounter a "page not found" error. readers will encounter a "page not found" error. 
+Readers can still retrieve a given resource cited within this case study 
+on the new site  by searching by searching here  for the title cited. for the title cited. 
+This case study is available in Journal of Financial Crises: https://elischolar.library.yale.edu/journal-of-financial-
+crises/vol5/iss1/18
+
+--- Page 3 ---
+United States: Central Bank Swaps to  
+the Eurozone, UK, and Canada, 20011 
+Jack French2 
+Yale Program on Financial Stability Case Study 
+July 21, 2023 
+Abstract 
+The September 11, 2001, attacks on New York City damaged much of the infrastructure that 
+powered US bank payments systems and the government securities market . The Federal 
+Reserve responded quickly with several measures to inject liquidity and promote confidence 
+in the domestic financial system. It also created or expanded swap lines with foreign central 
+banks between September 12 and 14 to provide dollar liquidity to financial institutions with 
+US dollar funding needs. The swap agreements allowed the European Central Bank (ECB) to 
+draw up to USD 50 billion , the Bank of England (BoE) up to USD 30 billion , and the Bank of 
+Canada (BoC) up to  USD 10 billion  in exchange for an equivalent value of their domestic 
+currency. The central banks could then lend US dollars to institutions in their jurisdictions. 
+After 30 days, the ECB and BoE agreements expired, and the BoC agreement reverted to its 
+prior level of USD 2 billion. Ultimately, the ECB was the only institution to draw on the lines, 
+but the Fed’s timely response was praised for mitigating the immediate economic impacts of 
+the attacks. 
+Keywords: currency swap lines, liquidity, crisis response 
+  
+ 
+1 This case study is part of the Yale Program on Financial Stability (YPFS) selection of New Bagehot Project 
+modules considering central bank swap line programs. Cases are available from the Journal of Financial Crises 
+at https://elischolar.library.yale.edu/journal-of-financial-crises/. 
+2 Research Associate, YPFS, Yale School of Management. 
+449
+
+--- Page 4 ---
+Overview 
+The September 11, 2001 , terrorist 
+attacks on New York City destroyed part 
+of the physical infrastructure of the US 
+financial system and led major central 
+banks across the world to prepare to 
+provide liquidity as needed. The national 
+central banks in the Eurosystem quickly 
+provided domestic access to euros , but 
+their banks faced a need for US dollar 
+liquidity as well (ECB 2002). Within the 
+US, the re was  a loss of operational 
+capability stemming from  damaged 
+infrastructure and tragic loss of life at 
+New York financial firms. The result was 
+issues with trading, clearing, and settling 
+a range of financial  instruments, 
+particularly government securities,  and 
+dysfunction in the interbank lending 
+market (Lacker 2003). Some banks had 
+excess reserves but were unable to find 
+borrowers, while other banks awaiting 
+funds were forced to borrow by taking 
+overdraft positions with the Fed eral 
+Reserve. The net effect was an  increase 
+in effective demand for reserves from 
+the Fed. The Fed announced 
+immediately on Tuesday morning that 
+its discount window was available, but 
+some foreign institutions with dollar 
+funding needs were unable to access the 
+window (Fed 2002b). 
+To indirectly get dollars to those foreign 
+institutions, the Federal Reserve set up 
+bilateral, unidirectional swap lines wi th 
+the European Central Bank (ECB) for 
+USD 50 billion, the Bank of England 
+(BoE) for USD 30 billion, and the Bank of 
+Canada (BoC) for USD 10 billion. The 
+ECB line was established on September 
+12, the BoC line on September 13, and 
+the BoE line on September 14 (Fed 
+2002b). Canada’s agreement 
+represented an increase of USD 8 billion  
+Key Terms 
+Purpose: To “facilitate the functioning of financial 
+markets and provide liquidity in US dollars” to 
+foreign banks whose US operations had been 
+disrupted by disturbances in the US (Fed 2002b) 
+Participating 
+Parties 
+Federal Reserve, ECB, BoE, 
+BoC  
+Type of Swap Series of bilateral, 
+unidirectional currency swap 
+lines  
+Currencies 
+Involved 
+The three non-US central 
+banks could borrow USD in 
+exchange for: EUR for the ECB, 
+GBP for the BoE, and CAD for 
+the BoC  
+Launch Date ECB: Sept. 12, 2001; 
+BoE: Sept. 14, 2001; 
+BoC: Sept. 13, 2001 
+End Date Each agreement ended 30 days 
+after initiation  
+Date of First Usage Only the ECB drew funds 
+during the program; it did so 
+on Sept. 12, 13, and 14 
+Interest Rate and 
+Fees 
+Interest payable from the ECB 
+to the FRBNY would be agreed 
+to by the parties at the time 
+they entered into the 
+transaction, and no interest 
+would be paid by the FRBNY to 
+the ECB. No info was found on 
+the other agreements 
+Amount 
+Authorized 
+ECB: USD 50 billion;  
+BoE: USD 30 billion;  
+BoC: USD 10 billion 
+Peak Usage 
+Amount and Date 
+ECB: peak drawing of USD 14.1 
+billion on Sept. 13, 2001; peak 
+amount outstanding of USD 
+19.5 billion on Sept. 14, 2001; 
+BoE and BoC: no usage 
+ 
+(continued) 
+450
+Journal of Financial Crises Vol. 5 Iss. 1
+
+--- Page 5 ---
+over its existing USD 2 billion swap line. 
+Each of the lines allowed the borrowing 
+central bank to draw US dollars in exchange 
+for an equ ivalent value of  its respective 
+currency (Fed 2001d; Fed 2001b; Fed 
+2001c). The Fed deposited dollars drawn 
+through the swap into the account of the 
+borrowing central bank at the Federal 
+Reserve Bank of New York (FRBNY). The 
+borrowing central bank could th en lend 
+dollars to its domestic financial institutions. 
+At the same time, the corresponding foreign 
+currency was deposited into and held in an 
+FRBNY account at the borrowing central bank and was held there as collateral. At the 
+expiration of the swap, the transaction was unwound and the currencies were returned 
+(FRBNY 2001). 
+The ECB was the only institution to draw on its swap line. The ECB made draws  on 
+September 12, 13, and 14, with a peak amount outstanding of USD 19.5 billion on September 
+13 (FRBNY 2001). The ECB made the dollars it acquired available to national central banks 
+(NCBs) within the Eurosystem . The NCBs could then provide dollar liquidity  to their 
+domestic banks . The ECB’s amount outstanding under the swap line returned to zero by 
+September 17, and it made no further draws (ECB 2002). 
+The ECB and BoE  swap lines and the temporary augmentation of the BoC line expired 30 
+days after initiation (FRBNY 2001).  
+Summary Evaluation 
+The Fed faced many challenges in the days following  September 11 . The chairman of the 
+Federal Reserve , president of the New York Fed,  and Secretary of the Treasury were all 
+overseas at the time of the attack (Broaddus 2003; Ip et al. 2001). Nonetheless, the Fed acted 
+quickly. At 9:44 am EST on September 11, less than an hour after the first plane hit the North 
+Tower, the Fed put out a message via the Fedwire system to assure banks that the system 
+was fully operational ; it followed with a press release at around noon  (Lacker 2003). Fed 
+officials have argued that t he quick response successfully protected the financial system by 
+facilitating payments and helping smooth the uneven distribution of bank balances. 
+McAndrews and Potter said that the Federal Reserve System’s use of discount window and 
+intraday lending , and later open market operations , restored payments coordination and 
+met liquidity needs (McAndrews and Potter 2002). By the end of September, trading volumes 
+in the interbank market and elsewhere were close to normal, and the federal funds rate was 
+trading around the target (Fed 2002b). A report to Congress took the view  that the timely 
+action in the days after the event helped contain the short -run economic effects of 9/11 on 
+the overall economy (Makinen 2002).  
+Downstream 
+Use/Application 
+of Swap Funds 
+Funds borrowed by the ECB 
+were offered to national 
+central banks in the 
+Eurosystem and used to meet 
+the dollar liquidity needs of 
+euro area banks  
+Outcomes The ECB repaid its full 
+borrowing on Sept. 17, 2001; 
+after 30 days, the augmented 
+swap line for Canada reverted 
+to USD 2 billion, and the two 
+newly created lines expired  
+451
+United States: Central Bank Swaps to the Eurozone, UK, and Canada French
+
+--- Page 6 ---
+452
+Journal of Financial Crises Vol. 5 Iss. 1
+
+--- Page 7 ---
+Key Design Decisions 
+1. Purpose and Type: The US Federal Reserve entered into bilateral, unidirectional 
+swaps with the European Central Bank, the Bank of England, and the Bank of 
+Canada to provide US dollar liquidity to those countries’ banks. 
+The Fed set up or expanded the three swap lines to make dollar liquidity available to foreign 
+banks whose US operations had bee n disrupted.  Since many of these banks did not have 
+sufficient collateral prepositioned at the Fed’s discount window, the swap lines allowed them 
+to borrow dollars from their home central banks instead (Fed 2002b). 
+The Fed ’s swap line with the ECB allowed the ECB to make dollars available to national 
+central banks within the Eurosystem. Those central banks could then lend dollars to the US 
+branches of European banks. The Fed also created a swap line with the Bank of England and 
+augmented the existing swap line with the Bank of Canada to help facilitate the settlement 
+of US dollar transactions (Fed 2001c ; Fed 2001d ). These agreements were bilateral and 
+unidirectional in that the purpose was to provide US dollars to foreign central banks, not to 
+provide foreign currencies to the Fed (Fed 2002b). 
+2. Part of a Package: The swaps were part of the Fed’s broad response to the terrorist 
+attacks. The Fed cut rates , opened the discount window, expanded open market 
+operations, eliminated most fees and penalties on overdrafts, extended operating 
+hours, and allowed check float to increase considerably.  
+Demand for reserves rose among depository institutions immediately after the September 
+11 attacks, and various issues with payment networks restricted supply (Fed 2002a). 
+At around noon on  September 11, just a few hours after the attack, the Fed put out a press 
+release reassuring the market that the discount window was available to help banks with 
+liquidity issues (Fed 2001a; Lacker 2003). While that source of funds was used extensively 
+by depository institutions, some US branches of foreign financial insti tutions faced 
+challenges positioning collateral to secure credit at the discount window, which led to the 
+opening of the swap lines (Fed 2002a).  
+In normal times, the Fed credits banks that deposit checks according to the normal schedule 
+on which they collect funds from other banks, meaning the amount of credits in excess of 
+collected funds is close to zero for an average period. Positive check float effectively creates 
+a loan to the banking system, and in the days after September 11, the Fed chose to continue 
+crediting checks on the normal schedule despite large delays in the collection of funds. This 
+resulted in a net injection of  funds into the banking system of USD 47 billion on Thursday, 
+September 13, after averaging less than USD 1 billion per day during the first eight months 
+of 2001 (Lacker 2003).  
+Along with extending operating hours, the Fed reduced or eliminated penalties on overnight 
+overdrafts (Fed 2002b). From September 11 through September 21, the Fed waived daylight 
+453
+United States: Central Bank Swaps to the Eurozone, UK, and Canada French
+
+--- Page 8 ---
+overdraft fees for acco unt holders and eliminated penalties on overnight overdrafts for 
+depository institutions. The Fed charged depository institutions the effective federal funds 
+rate on their overnight overdrafts, while non-depositories were charged the extended credit 
+rate, 4% at the time, plus 55 basis points (bps) (Lacker 2003).  
+The Fed also allowed flexibility around bank capital ratios since some banks experienced 
+temporary balance sheet growth as they lent to corporations that drew on credit lines to 
+replace temporarily suspended commercial paper  or had difficulty settling transactions . 
+Settlement issues led the Fed to increase the security lending program limit from 45 % of 
+each issue to 75% starting on September 27 and continuing into October (Lacker 2003). This 
+let primary dealers access collateral more easily. 
+During the week of September 11, the Fed used open market operations to provide reserves, 
+with a peak injection of USD 81 billion on Friday September 14 (Fed 2002a). On Monday, 
+September 17, the FOMC l owered the federal funds rate by 50 bps , to 3% , and cut the 
+discount rate by 50 bps, down to 2.5% (Fed 2001e). 
+3. Legal Authority: The Fed has authority to enter into swap lines under section 14 
+of the Federal Reserve Act. 
+The Fed’s s wap lines are authorized under section 14 of the Federal Reserve Act and are 
+overseen by the Federal Open Market Committee (FOMC). The swap line with the Bank of 
+Canada was an expansion of the ongoing bilateral swap line created in 1994 as part of the 
+North American Fra mework Agreement (NAFA) (Fed n.d.). NAFA was established in 1994 
+between the US, Canada, and Mexico alongside the North American Free Trade Agreement 
+(Fed 1994; Henning 2002). 
+The FOMC’s 2001 Authorization for Foreign Currency Operations , which it reaffirmed on 
+January 30, 2001 , authorized and direct ed the FRBNY to carry out the FOMC’s foreign 
+currency directives and authorizations. Paragraph 2 of the 2001 Foreign Currency Directive 
+expressly directed the FRBNY to maintain a unidirectional currency swap arrangement with 
+the Bank of Canada for up to USD 2 billion. It also stated that any changes to such an 
+agreement or any terms of a proposed new agreement “shall be referred for review and 
+approval” to the FOMC  (Fed 2001f). The FOMC met on Se ptember 12, 13, and 14 , 2001, to 
+establish the ECB, BoC, and BoE swap lines, respectively (Fed 2002b).  
+The FOMC’s 2001 Foreign Currency Directive, which it also reaffirmed on January 30, 2001, 
+states in paragraph 2 , part B , that the Federal Reserve System shall achieve its foreign 
+currency goal of countering disorderly market conditions in part by maintaining 
+unidirectional swap arrangements with certain foreign central banks (Fed 2001f).  
+4. Governance: Drawings under the arrangements w ere subject to approval by the 
+Federal Open Market Committee  (FOMC) if possible and the Foreign Currency 
+Subcommittee or Chairman of the Committee if necessary. 
+The FOMC’s 2001 Procedural Instructions with Respect to Foreign Currency Operations , 
+which it reaffirmed on January 30, 2001, outlined the FRBNY’s responsibility to clear foreign 
+454
+Journal of Financial Crises Vol. 5 Iss. 1
+
+--- Page 9 ---
+currency operations with the FOMC, the FOMC’s Foreign Currency Subcommittee, and  the 
+Chairman of the Committee, who is also the chair of the Federal Reserve Board. The FRBNY’s 
+general practice  is to  clear any swap drawings proposed by a foreign bank with th at 
+Subcommittee or the FOMC chairman if they are below the larger of USD 200 million or 15% 
+of the overall swap arrangement size. Drawings exceeding that amount are generally cleared 
+with the full Committee. The FOMC chair may approve a draw of any size if he or she believes 
+that consultation with the full Committee or its subcommittee is not feasible  in the time 
+available (Fed 2001f). The FRBNY and ECB agreement specifically states that all draws must 
+have prior approval of the FOMC or an authorized delegate (ECB 2001). 
+The Board of Governors reported in its 2001 Annual Report that, w ith the exception of an 
+initial drawing by the ECB on September 12 of up to USD 12 billion, USD 5.4 billion of which 
+was actually drawn, individual drawings were subject to approval by the FOMC’s Foreign 
+Currency Subcommittee. The report provides no further explanation for why the September 
+12 draw was not approved by the Subcommittee (Fed 2002b). 
+Details of the swaps were i ncluded in the Fed’s annual report and report to Congress (Fed 
+2002a; Fed 2002b). 
+5. Administration: To facilitate a draw on the swap lines, the Federal Reserve Bank 
+of New York made dollar deposits available in an ECB, BoE, or BoC account at the 
+FRBNY in exchange for an equivalent value of foreign currency deposited at an 
+FRBNY account at the respective central bank. 
+The ECB could request up t o USD 50 billion, which the Fed would then make available as 
+dollar deposits in an ECB account at the FRBNY in exchange for euro deposits of an 
+equivalent value held in a n FRBNY account at the ECB (Fed 2001b) . At the end of the 
+transaction, drawn US  dollars, along with any interest, would be repaid to the FRBNY 
+through the ECB account at the FRBNY. In the event that the US  dollars were not repaid at 
+the end of the transaction, the FRBNY could retain all or a portion of the euros in its account 
+at the ECB (ECB 2001). 
+The BoE and BoC had similar arrangements but did not use them (Fed 2001c; Fed 2001d ; 
+FRBNY 2001). 
+6. Communication: The Fed and each borrowing central bank announced the swaps 
+via press releases.  
+The Fed issued press releases on September 13 (ECB) and 14 (BoE and BoC) announcing the 
+newly established swap lines and the temporary augmentation of the BoC line. In each case, 
+the stated goal was to “facilitate the functioning of financial markets and provide liquidity in 
+US dollars” (Fed 2001b; Fed 2001c; Fed 2001d). The ECB, BoE, and BoC each announced their 
+swaps on the same date as the Fed. 
+The ECB described its use of funds as making dollar deposits available to central banks 
+within the Eurosystem that could then use the funds to meet the liquidity needs of banks in 
+the region (ECB 2002). 
+455
+United States: Central Bank Swaps to the Eurozone, UK, and Canada French
+
+--- Page 10 ---
+7. Eligible Institutions: The Fed made separate bilateral, unidirectional agreements 
+with the ECB, BoE, and BoC. 
+The Fed entered into temporary swap agreements for up to USD 50 billion with the ECB and 
+up to USD 30 billion with the BoE  and increased the authorized amount of its existing swap 
+agreement with the BoC from USD 2 billion to USD 10 billion (FRBNY 2001) . The B oC’s 
+preexisting swap agreement was part of the Fed’s participation in the North American 
+Framework Agreement (Fed n.d.; Fed 1994; Fed 2002b). 
+The downstream purpose of the three agreements was to stabilize US financial markets by 
+providing dollar liquidity to European, British, and Canadian banks with US dollar funding 
+that had been disrupted by the attack (Fed 2002b).  
+While research hasn’t yielded any  information on swap lines being considered  with other 
+central banks during the crisis , the FRBNY was authorized to transact in Canadian dollars, 
+pounds sterling, euro, Danish kroner, Japanese yen, Mexican pesos, Norwe gian kroner, 
+Swedish kronor, and Swiss francs with foreign monetary authorities, the US Treasury, the US 
+Exchange Stabilization Fund, the Bank for International Settlements, and other international 
+financial institutions (Fed 2001f). At the time, the Fed also had an existing USD 3 billion swap 
+line, which it did not choose to augment,  with the Bank of Mexico  as part of the Fed’s 
+participation in the North American Framework Agreement (NAFA) (Fed n.d.; FRBNY 2001).  
+8. Size: The maximum draws under the agreements were USD 50 billion for the ECB, 
+USD 30 billion for the BoE, and USD 10 billion for the BoC. 
+The ECB was eligible to draw up to USD 50 billion, the BoE could draw up to USD 30 billion, 
+and the BoC could draw up to USD 10 billion (Fed 2001b; Fed 2001c; Fed 2001d). The BoC’s 
+USD 10 billion swap line was a temporary expansion of USD 8 billion over the existing USD 
+2 billion line created in 1994 as part of the NAFA (Fed n.d.; Fed 2002a). 
+9. Process for Utilizing the Swap Agreement : Either party could desire to enter a 
+swap transact ion, at which point the two parties would  agree on the necessary 
+terms. 
+In the Fed  and ECB swap agreement, either party could  request to  enter into a swap 
+transaction, at which point the two would agree to the amount, the value date, the exchange 
+rate, the maturity date, and the interest rate. T he value date refers to the date on which the 
+USD would be credited to the ECB’s account at the FRBNY and the euro amount would be 
+credited to the FRBNY account at the ECB (ECB 2001). 
+10. Downstream Use of Borro wed Funds:  Funds were offered to national central 
+banks in the Eurosystem that could offer them to euro area banks. 
+The ECB was the only one of the Fed’s three counterparties to draw on its swap line. Funds 
+borrowed were offered to national central banks of the Eurosystem and used to meet dollar 
+liquidity needs of euro area banks (ECB 2002) . The ECB’s draws were fully repaid by 
+456
+Journal of Financial Crises Vol. 5 Iss. 1
+
+--- Page 11 ---
+September 17, 2001 (FRBNY 2001). The parties have not released further information about 
+which national central banks of the Eurosystem borrowed dollars under the arrangement.  
+11. Duration: The parties to the swaps did not specify the duration of swap 
+transactions conducted under the swap agreements; the ECB repaid all drawings 
+within three business days. 
+The parties did not reveal the maximum duration of swap transactions conducted under the 
+swap agreements. The ECB was the only counterparty to draw on its line. It unwound all of 
+its transactions within three business days, with a peak amount outstanding o f USD 19.5 
+billion on September 13, 2001 (FRBNY 2001). 
+See Figure 1 for details of the ECB’s swap usage. 
+Figure 1: Dollar Liquidity Swap with the ECB 
+ 
+Note: The BoE and BoC did not draw on their lines prior to expiration.  
+Source: FRBNY.  
+12. Rates and Fees: FRBNY transactions took place at market rates. 
+Unless otherwise authorized by the FOMC, FRBNY transactions in authorized currencies 
+took place at market rates (Fed 2001f) . In the ECB swap  agreement, the US  dollar/euro 
+exchange rate for a draw would be based on the prevailing spot exchange rate, and that same 
+rate would apply to the spot and forward legs of the transactions (ECB 2001). 
+Any interest paid by the ECB to the FRBNY would be agreed on when each swap transaction 
+was entered into and would be calculated on a 360 -day basis from, and including, th e date 
+on which the ECB and FRBNY enter ed the spot leg of the swap up to, but excluding, the 
+maturity date. The FRBNY would not pay interest on the euro portion of any swap as long as 
+the FRBNY held the euros in the FRBNY account at the ECB (ECB 2001). 
+Daily	ECB	Swap	Facility	Activity	(USD	bln)
+Date Drawings Repayments Amount	Outstanding
+9/12/2001	(Wed) 5.4 0 5.4
+9/13/2001	(Thu) 14.147 0 19.547
+9/14/2001	(Fri) 3.915 14.147 9.315
+9/17/2001	(Mon) 0 9.315 0
+457
+United States: Central Bank Swaps to the Eurozone, UK, and Canada French
+
+--- Page 12 ---
+13. Balance Sheet Protection : The structure of the swaps reduce d risk by using the 
+same exchange rate for each leg of the transaction and by holding the borrowing 
+central bank’s currency as collateral. 
+The borrowing central banks had to provide their own currencies as collateral when drawing 
+dollars (Fed 2001b; Fed 2001c; Fed 2001d). The foreign central bank’s promise to repay the 
+draw acted as the main protection against changes in the value of the collateral, which only 
+mattered in the event of a default. Short of a default, the dollars drawn under the swap would 
+be repaid at the same exchange rate as the initial transaction, meaning the same amount of 
+dollars were returned to the Fed, just with some interest or fee added on to it (ECB 2001). 
+14. Other Restrictions: Swap draws required Fed approval. 
+The parties did not des cribe other restrictions. T he intention of the swaps was to allow 
+foreign central banks to lend the dollar proceeds to local banks (FRBNY 2001). Each swap 
+draw had to be approved by the FOMC or an authorized delegate, meaning the Fed had some 
+control over the funds (ECB 2001). 
+15. Other Options:  The Bank for International Settlements considered a series of 
+dollar-denominated loans from US commercial banks that they  would lend to 
+European central banks. 
+During the brief period between the attack and the Fed’s September 13 announcement of an 
+ECB swap line, the Bank for International Settlements (BIS) worked on arranging unsecured 
+dollar-denominated loans from US commercial banks that the BIS would then lend to 
+European central banks, but this was not needed once the ECB swap line was activated (Fed 
+2001b; Ip et al. 2001). According to then-Vice Chairman of the Fed Roger Ferguson, the Fed 
+also considered an arrangement in which the Fed would deposit dollars with the BIS, and the 
+BIS would then lend the dollars out  to central banks, but officials thought the idea was too 
+complicated (Fed 2006). 
+16. Exit Strategy: After 30 days, the ECB and BoE swaps expired, by which time market 
+conditions were returning to normal. The BoC swap reverted back to an available 
+amount of USD 2 billion. 
+The ECB and BoE swap agreements, and the temporary expansion of the BoC swap,  expired 
+after 30 days (Fed 2001b; Fed 2001c; Fed 2001d; Fleming and Klagge 2010) . Market 
+conditions had largely normalized by the end of September , with trading volumes in the 
+interbank market and elsewhere close to normal, and the federal funds rate was trading 
+around target. The BoC swap reverted to an available amount of USD 2 billion  (Fed 2002b). 
+As of September 1, 2022, the Federal Reserve has standing swap lines in place with the ECB, 
+BoE, and BoC as well as the Bank of Japan and the Swiss National Bank (FRBNY n.d.). These 
+swap lines allow each of the six central banks to access the currency of any of the other five 
+central banks and are unlimited in size. 
+  
+458
+Journal of Financial Crises Vol. 5 Iss. 1
+
+--- Page 13 ---
+References and Key Program Documents 
+Implementation Documents. 
+(ECB 2001) European Central Bank (ECB). 2001. “Dollar-Euro Swap Agreement.” 
+September 13, 2001. 
+Agreement detailing the swap between the Fed and the ECB. 
+https://ypfs.som.yale.edu/node/21573 
+(Fed 1994) Federal Reserve Board (Fed). 1994. “FRB: FOMC Minutes—March 22, 1994.” 
+March 22, 1994. 
+Federal Open Market Committee meetings describing the NAFA agreement between the US, 
+Canada, and Mexico. 
+https://ypfs.som.yale.edu/node/21634 
+Media Stories. 
+(Broaddus 2003) Broaddus, J. Alfred. 2003. “Attack at the Economic Heart of America: 
+What 9/11 Taught the United States about Its Economic Security.” Speech given at the 
+Homeland Security Conference, Lexington, VA, October 29, 2003. 
+Speech covering the economic consequences of 9/11. 
+https://ypfs.som.yale.edu/node/21496 
+(Fed 2006) Federal Reserve Board (Fed). 2006. “Federal Reserve Board Oral History 
+Project: Interview with Roger W. Ferguson, Jr.” April 14, 2006. 
+Interview with former Vice Chairman Roger W Ferguson, Jr. 
+https://ypfs.som.yale.edu/node/22302 
+(FRBNY n.d.) Federal Reserve Bank of New York (FRBNY). n.d. “Central Bank Swap 
+Arrangements.” Accessed August 19, 2022. 
+Web page outlining central bank swap arrangements. 
+https://ypfs.som.yale.edu/node/21539 
+(Ip et al. 2001) Ip, Greg, Jacob M. Schlesinger, Jim VandeHei, and David Wessel. 2001. 
+“Attack on America: The Consequences— Y2K Blueprint Helps Banks Coordinate 
+Intervention.” Wall Street Journal Europe, September 18, 2001. 
+Newspaper article describing the Fed’s response to the September 11 attacks. 
+https://ypfs.som.yale.edu/node/21511 
+Press Releases/Announcements. 
+(Fed 2001a) Federal Reserve Board (Fed). 2001a. “The Federal Reserve System Is Open 
+and Operating.” Press release, September 11, 2001. 
+Press release announcing availability of the discount window. 
+https://ypfs.som.yale.edu/node/21502 
+459
+United States: Central Bank Swaps to the Eurozone, UK, and Canada French
+
+--- Page 14 ---
+(Fed 2001b) Federal Reserve Board (Fed). 2001b. “Swap Agreement with the ECB.” Press 
+release, September 13, 2001. 
+Press release announcing Federal Reserve and ECB swaps. 
+https://ypfs.som.yale.edu/node/2448 
+(Fed 2001c) Federal Reserve Board (Fed). 2001c. “Swap Agreement with the Bank of 
+Canada.” Press release, September 14, 2001. 
+Press release announcing Federal Reserve and Bank of Canada swaps. 
+https://ypfs.som.yale.edu/node/21503 
+(Fed 2001d) Federal Reserve Board (Fed). 2001d. “Swap Agreement with the Bank of 
+England.” Press release, September 14, 2001. 
+Press release announcing Federal Reserve and Bank of England swaps. 
+https://ypfs.som.yale.edu/node/2704 
+(Fed 2001e) Federal Reserve Board (Fed). 2001e. “FOMC Statement and Board Discount 
+Rate Action.” Press release, September 17, 2001. 
+Press release describing FOMC action the week after 9/11. 
+https://ypfs.som.yale.edu/node/21504 
+Reports/Assessments. 
+(ECB 2002) European Central Bank (ECB). 2002. “European Central Bank Annual Report 
+2001.” March 5, 2002. 
+Annual report describing ECB activities during 2001. 
+https://ypfs.som.yale.edu/node/21498 
+(Fed n.d.) Federal Reserve Board (Fed). n.d. “Central Bank Liquidity Swaps.” Accessed July 
+27, 2022. 
+Federal Reserve Board web page describing central bank swap lines. 
+https://ypfs.som.yale.edu/node/21501 
+(Fed 2002a) Federal Reserve Board (Fed). 2002a. “Monetary Policy Report to the 
+Congress.” February 27, 2002. 
+Report to congress describing current Fed policy and economic outlook. 
+https://ypfs.som.yale.edu/node/21505 
+(Fed 2002b) Federal Reserve Board (Fed). 2002b. “Eighty-Eighth Annual Report of the 
+Board of Governors of the Federal Reserve System 2001.” April 1, 2002. 
+Annual report mentioning 9/11 response. 
+https://ypfs.som.yale.edu/node/21506 
+(Fed 2001f) Federal Reserve Board (Fed). 2001f. “Minutes of the Federal Open Market 
+Committee, January 30-31, 2001.” January 31, 2001. 
+Minutes from the January 30-31, 2001, FOMC meeting. 
+https://ypfs.som.yale.edu/node/21500 
+460
+Journal of Financial Crises Vol. 5 Iss. 1
+
+--- Page 15 ---
+(FRBNY 2001) Federal Reserve Bank of New York (FRBNY). 2001. “Treasury and Federal 
+Reserve Foreign Exchange Operations.” November 1, 2001. 
+Report describing Treasury and Federal Reserve activity during July-September 2001. 
+https://ypfs.som.yale.edu/node/21499 
+(Makinen 2002) Makinen, Gail. 2002. “The Economic Effects of 9/11:  A Retrospective 
+Assessment.” September 27, 2002. 
+Report for Congress describing the impact of 9/11 on the US economy. 
+https://ypfs.som.yale.edu/node/21513 
+Key Academic Papers. 
+(Fleming and Klagge 2010) Fleming, Michael J., and Nicholas Klagge. 2010. “The Federal 
+Reserve’s Foreign Exchange Swap Lines.” Federal Reserve Bank of New York, Current Issues 
+in Economics and Finance 16, no. 4 (April). 
+Journal article discussing the Fed’s central bank swap lines. 
+https://ypfs.som.yale.edu/node/21508 
+(Henning 2002) Henning, C. Randall. 2002. “Chapter 5: Comparison of Other Regional 
+Financial Arrangements with the CMI.” In East Asian Financial Cooperation, 49–62. 
+Peterson Institute for International Economics. 
+Chapter containing background for the North American Framework Agreement. 
+https://ypfs.som.yale.edu/node/21559 
+(Lacker 2003) Lacker, Jeffrey M. 2003. “Payment System Disruptions and the Federal 
+Reserve Following September 11, 2001.” Working Paper 03-16, December 23, 2003. 
+Working paper describing payment system disruptions and Fed action following 9/11. 
+https://ypfs.som.yale.edu/node/21512 
+(McAndrews and Potter 2002) McAndrews, James J, and Simon M Potter. 2002. “Liquidity 
+Effects of the Events of September 11, 2001.” FRBNY Economic Policy Review, November. 
+Journal article describing the impact of September 11 on the banking system. 
+https://ypfs.som.yale.edu/node/21514 
+ 
+ 
+Copyright 2023 © Yale University. All rights reserved. To order copies of this material or to receive 
+permission to reprint any or all of this document, please contact the Yale Program on Financial 
+Stability at ypfs@yale.edu. 
+461
+United States: Central Bank Swaps to the Eurozone, UK, and Canada French

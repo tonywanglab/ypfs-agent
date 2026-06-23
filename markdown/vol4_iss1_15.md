@@ -1,0 +1,99 @@
+## Yale Program on Financial Stability Lessons Learned 
+
+## Sohail Khan 
+
+By Matthew A. Lieber and Steven H. Kasoff 
+
+_Sohail Khan was managing director of fixed-income sales at Citigroup from 2005–09. Khan started his finance career in 1996, after completing his MBA at Lahore University of Management Sciences (LUMS). Khan gained broad experience in product structuring and sales of credit derivatives at Citigroup. As managing director during the subprime securitization boom and bust, he was involved with institutional sales of asset-backed securities (ABS) including collateralized debt obligations (CDOs); his clients were hedge funds, structured vehicles, and institutional buyers. In 2009, Khan left Citigroup to co-found StormHarbour Securities, a boutique investment bank he has headed since as managing principal. This Lessons Learned summary is based on an interview with Khan._ 
+
+## **Three “fundamental truths” defined the bullish mindset of the mortgage-backed credit industry in the years before the financial crisis.** 
+
+When Sohail Khan started his career at Citigroup in the mid-1990s, the structured credit area he entered was in a nascent growth phase. At the start, Khan said, Citigroup was doing just two trades a month, frequently involving credit default swaps or total return swaps. Residential mortgage-backed securities (RMBS), including those backed by subprime loans, had existed since the 1980s. But CDOs made up of subprime RMBS tranches did not exist and would not be introduced until the early 2000s. 
+
+A decade later as a managing director, Khan managed institutional sales of structured credit products including CDOs for hedge funds, banks, and insurance companies. Because of his early experience structuring credit derivatives deals, he was assigned an uncommonly wideranging set of clients. Khan was able to soak up a broad sense of the mindset driving investors’ enthusiasm for subprime CDOs, which we asked him about. 
+
+According to Khan, participants in the CDO bull market shared a common set of assumptions. In particular, Khan highlighted “three fundamental truths” that he said defined the environment: 
+
+1. Housing prices nationally will never go down; 
+
+2. Losses will be normally distributed, to the extent losses do occur; and 
+
+3. Silos don’t really matter much—you can break products up. 
+
+Everyone participating in the market, according to Khan, had either formally signed off on “these three bits of received wisdom or just took them to be the state of the world.” 
+
+To illustrate the powerful hold of the shared mindset, Khan recounted a telling exchange from a 2006 internal meeting. Citigroup’s research group presented an extensive briefing on 
+
+
+mortgage-backed securities to his institutional sales team, in which the head of research extolled the robustness of the securities. Curious about a graph from the presentation on home price appreciation (HPA), Khan queried the research director. 
+
+Khan: What happens if HPA is negative? Research director: That doesn’t happen. Khan: But if it were to go down, what would happen to those tranches? Research director: [No response] 
+
+“It became slightly awkward in the room,” Khan told us. One of Khan’s colleagues joined in, pushing the research director a few times on the question. _But there was no answer._ It was not that the presenter was trying to skirt the issue or be insincere, Khan explained; rather, the possibility of the scenario “just hadn’t crossed his mind”: 
+
+He hadn’t done the math on what would happen if that happened. It was just such an unseen sort of a situation: It just couldn’t happen. 
+
+## **Rating agencies incorporated “fundamental truths” to create flawed models of CDOs.** 
+
+Belief in the “fundamental truths” was widespread, according to Khan. The rating agencies fully incorporated these three assumptions into the models that they used to rate CDOs. The key assumption of the models, said Khan, was that losses in the underlying securities would be normally distributed. 
+
+The whole thesis behind it was, “How do I change something correlated into something uncorrelated?” Because that’s when I run the math on it and make it into a normal distribution and then truncate the risk. 
+
+To use their desired model and assume that losses on a portfolio of assets were normally distributed, the credit risk on the underlying securities had to be uncorrelated. The rating agencies’ approach to residential mortgage-backed CDOs followed directly from their approach to rating CLOs (collateralized loan obligations). The risks on the corporate loans that went into the CLOs showed relatively low levels of historical correlation with each other. But with CDOs composed of residential mortgage-backed bonds, Khan recognized and advised his clients, “there’s a single point of correlation there, which is housing.” 
+
+## **CDO groups were springing up in the investment banks—in different places.** 
+
+In 2005, as the market for subprime CDOs emerged, investment banks were formally building out their CDO structuring groups. Khan discussed this growth, characterizing it as organic and somewhat haphazard, since the development of the CDO division varied from firm to firm. At each institution, Khan pointed out, the location and the business strategy of the CDO group varied depending on circumstances unique to its creation. 
+
+
+## **Organizational structure mattered. The provenance of the CDO group—where it was situated in the organization—shaped the firm’s approach to risk management and how the CDO group operated.** 
+
+What Khan called the historical “provenance” of each group—where it sat within the institutional hierarchy—shaped in particular its approach to risk management. 
+
+A lot of what happened [was] a function of where you came from . . . The reason that Goldman did better than others in the crisis is because they had a much more intensive mark-to-market approach and much more intensive risk management approach in the part of the business where their CDO business sat compared to some other firms. 
+
+Khan said that the worst malpractice occurred at certain firms when they made risk management separate and distant from the CDO groups. 
+
+A lot of firms had a culture where risk management was risk management and not [a driver] of business. And so, I think that’s the other big difference in Goldman and a lot of other firms. I think Goldman risk management was really empowered. And at other firms, they weren’t as empowered. 
+
+When risk management was not as empowered, Khan said, “people were not marking to market.” CDOs were not being marked to market based upon where the TABX index was trading. The lack of discipline allowed the losses in certain well-known instances to grow through 2007. 
+
+## **The CDO manager industry was a creation of the subprime CDO machine. With no history or common practice, the most influential factor was a business model that stressed rapid growth of assets under management.** 
+
+In 2004, a new kind of firm—a CDO manager—emerged as a short-lived cottage industry, rising with the subprime boom and falling in 2007. “The whole industry was only around two or three years,” Khan told us. “Most ABS CDOs went into some form of default by 2009,” he added. Larger managers were part of insurance companies, and then there were smaller independent firms. 
+
+CDO managers stood between the sell-side investment bank that structured the CDO and the institutional investors on the buy side. A key factor in a CDO manager’s ability to win business was its ability to bring equity investment to the table. Equity buyers came in the form of ultra-high-net-worth individuals, hedge funds, and offshore accounts. 
+
+The economics of the CDO management business revolved around a strong incentive to boost assets under management (AUM), as Khan explained in detail. 
+
+The basic math was that a high-grade CDO would make 8 to 12 basis points in fees. The typical deal size was about $1 billion. So, that meant your fees were a million a year on a high-grade CDO. On a mezzanine CDO, the fees were anywhere from 25 to 35, maybe 45, basis points. But the deal size was more like $300 [million] until 
+
+
+synthetics started to happen. Initially it was about $300 [million] up to $500 million. The teams: For an independent shop, you needed about five to seven people in the team. So, leaving out the senior guy, the total cost structure was probably about $3 [million] to $4 million. 
+
+The fixed cost structure and fee basis meant that CDO managing—while it lasted—was a business of accumulation of assets, with a strong incentive to grow. 
+
+## **The industry manufactured derivatives across silos that passed the product along— increasing risk while stripping away information.** 
+
+As Khan explained, CDOs added a further level of securitization beyond the RMBS level, one more step of separation between the initial home buyer/borrower and true economic owner of the mortgage risk. The extensive securitization, Khan explained, reduced understanding of the underlying housing assets on the part of investors and sellers at every step in the process. Khan called this “a problem of silos.” 
+
+As someone who was marketing CDOs and the derivatives related to them, Khan said he never talked to anyone who actually originated a mortgage: “I didn’t ever talk to a mortgagebacked security banker. I had no idea what was going on at that level. And yet, I’m selling the third and fourth derivative of that risk.” 
+
+The industry was found to be populated by such troubling conventions. Another instance Kahn described was the development of synthetic CDOs during the late phase of the boom, enabled by the standardization of the subprime credit default swap in 2005. Synthetic CDOs, he explained, allowed managers to assemble a CDO very quickly, escaping the months-long process of ramp-up. With a standard RMBS CDO, the investment bank structuring the deal would obtain the different securities, warehouse the contents on its trading book, and market the CDO to investors until the whole thing was ready to go, a process that often took several months. But with synthetics, the banks combined tranches of CDOs that it already owned, a process that could be done in only days. The industry created a new product, Kahn reflected, but it also inserted another layer between the original home buyer and the synthetic CDO investor. 
+
+Between 2005 and 2007, the perverse logic of a full-fledged asset bubble took effect, transforming what began as financial innovation into rationalization of reckless risk-taking. Khan shared a recollection of an interaction with a CDO industry insider that is characteristic of the attending exuberance: 
+
+One thing that I found in one of the deal pitch books out of the blue was something called “mid-prime.” So, I go to the person structuring the CDO—somebody who should know this stuff really, really well, who was not a salesman—and I said, “What’s ‘mid-prime’”? And he had no idea. 
+
+“Mid-prime,” Khan explained, was a nonsensical term invented out of nowhere one day because it implied more diversification. 
+
+
+## **The cycle is repeating itself.** 
+
+Asked to assess the reforms and safeguards instituted after the financial crisis, Khan said, “I don’t think there are any lessons learned” from the financial crisis. Referring to the growth of unsecured debt, the SPAC (special purpose acquisition company) trend, and surging public sector debt, he expressed fear that “a very fat tail is going to come from sovereigns.” 
+
+_____________________________________ 
+
+Dated: April 2022 
+
+YPFS Lessons Learned No. 2020-45

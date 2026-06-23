@@ -1,0 +1,456 @@
+## United States: Paycheck Protection Program Liquidity Facility[1] 
+
+_Steven Kelly[2]_ 
+
+Yale Program on Financial Stability Case Study July 15, 2022 
+
+## **Abstract** 
+
+In the early days of the COVID-19 pandemic, the US Congress passed and funded the Paycheck Protection Program (PPP) to help small businesses facing business disruptions keep workers on their payrolls and meet other expenses. The PPP, signed into law on March 27, 2020, provided a mechanism for authorized lenders to extend concessionary, forgivable loans guaranteed by the Small Business Administration (SBA). Lenders ultimately extended approximately $800 billion in PPP loans. The SBA distributed the funds when the loan either defaulted or met the law’s terms for SBA forgiveness. To buttress lenders’ ability to fund PPP loans, the Federal Reserve created the Paycheck Protection Program Liquidity Facility (PPPLF) under its emergency lending authority provided by Section 13(3) of the Federal Reserve Act.[3] This emergency facility provided liquidity against PPP loan collateral at 100% of face value, on a nonrecourse basis, and was available to all PPP lenders, including nonbanks. The PPPLF proved effective both as a direct source of funds and as a backstop facility, particularly for smaller banks. The PPPLF peaked at $90.6 billion in outstanding credit on June 30, 2021. The PPPLF was the longest-running Federal Reserve 13(3) facility of the COVID-19 pandemic, opening on April 16, 2020, and closing on July 30, 2021. 
+
+**Keywords:** Federal Reserve, market liquidity, Paycheck Protection Program, Section 13(3), Small Business Administration 
+
+> 1 This case study is part of the Yale Program on Financial Stability (YPFS) selection of New Bagehot Project modules considering market support programs in response to COVID-19. Cases are available from the _Journal of Financial Crises_ at https://elischolar.library.yale.edu/journal-of-financial-crises/. 
+
+> 2 Research Associate, YPFS, Yale School of Management. 
+
+> 3 As introduced, the facility was named the Paycheck Protection Program Lending Facility; on April 30, 2020, the Fed renamed it the Paycheck Protection Program Liquidity Facility (FRB 2020j). 
+
+
+## **Overview** 
+
+## **Key Terms** 
+
+In the early days of the COVID-19 pandemic, the US Congress passed and funded the Paycheck Protection Program (PPP) to help small businesses facing business disruptions keep workers on their payroll and meet other expenses (CARES Act 2020, sec. 1102). The PPP, signed into law on March 27, 2020, provided for concessionary, forgivable loans guaranteed by the Small Business Administration (SBA). This iteration of the PPP opened on April 3 and closed on August 8, 2020; following the Consolidated Appropriations Act, 2021, the PPP reopened on January 11, 2021, and closed to new applications on May 31, 2021 (Consolidated Appropriations Act 2021, sec. 311; FRB 2021d, 32; PPP Extension Act 2021). The PPP operated through private lenders, which ultimately extended approximately $800 billion in PPP loans (CARES Act 2020; SBA 2021). The SBA distributed the funds only when the loan either defaulted or met the law’s terms for SBA forgiveness (CARES Act 2020, sec. 1102; FRB 2021a, 10). To buttress lenders’ ability to fund PPP loans, on April 8, 2020, the Federal Reserve created the Paycheck Protection Program Liquidity Facility (PPPLF) under its emergency lending authority provided by Section 13(3) of the Federal Reserve Act (FRB 2020i). This emergency facility provided liquidity against PPP loan collateral at 100% of face value on a nonrecourse basis (FRB 2020a). It was available to all PPP lenders, including nonbanks (FRB 2020b). Usage of the PPPLF was driven primarily by depository institutions in 2020. As PPPLF usage picked up 
+
+Purpose: To buttress the Small Business Administration’s Paycheck Protection Program (PPP) by providing liquidity to PPP lenders “so that they can lend to small businesses, enabling them better to manage the economic dislocations related to the pandemic” (FRB 2020i) 
+
+||Launch Dates|Authorized: April 8,<br>2020<br>Announced: April 9,<br>2020|
+|---|---|---|
+||Operational Date|April 16, 2020|
+||End Date<br>Legal Authority|July 30, 2021<br>Section 13(3) of the<br>Federal Reserve Act|
+||Administrators|All 12 regional Federal<br>Reserve Banks; Federal|
+|||Reserve Bank of|
+|||Minneapolis|
+||Overall Size|No maximum|
+||Term|Either two or five years,<br>unless the loan was|
+|||forgiven or reimbursed|
+||Interest Rate<br>Eligible Collateral|earlier by the SBA<br>35 basis points<br>SBA-guaranteed<br>Paycheck Protection<br>Program small business|
+|||loans|
+||Peak Utilization|$90.6 billion in PPPLF<br>loans on June 30, 2021|
+
+
+
+following the PPP’s 2021 reopening, nonbanks—Community Development Financial Institutions, members of the Farm Credit System, small business lending companies licensed by the SBA, and some financial technology firms—almost exclusively drove net growth in PPPLF usage (FRBM 2021; FRB 2021d, 34). PPPLF advances peaked at $90.6 billion on June 30, 2021 (FRB 2022a). As of February 28, 2022, the facility had reported revenue of approximately $380 million and the Federal Reserve continued to expect to experience no losses (FRB 2022b). 
+
+
+Approximately one in six PPP lenders participated in the PPPLF—more than 850 lenders, including approximately 70 nonbanks and a preponderance of small, community banks (FRB 2021d, 32–33; FRBNY 2021, 31; Labonte 2021, 8). 
+
+## **Summary Evaluation** 
+
+Researchers at the Federal Reserve Bank of San Francisco find a positive effect on small business lending by small- and medium-sized banks that participated in the PPPLF; they also find that the PPPLF led to improvements in banks’ risk-based capital ratios (Lopez and Spiegel 2021). Fed Board of Governors researchers find the PPPLF boosted PPP lending directly and also indirectly, by providing a backup source of bank funding (Anbil, Carlson, and Styczynski 2021). While utilization is an imperfect measure of a lending facility’s effectiveness as the presence of the lending backstop can itself encourage the target market’s functioning, the PPPLF consistently had the largest outstanding volume of the Fed’s suite of Section 13(3) facilities (FRB 2021d, 32; FRBNY 2021, 27; Powell 2021); see Figure 1. 
+
+[FIGURE id=vol4_iss2_88_f1 type=figure label="Figure 1" file=figure_1.png caption="Usage of Primary Credit and Emergency Lending Facilities"]
+### **Figure 1: Usage of Primary Credit and Emergency Lending Facilities**
+![Figure 1](assets/vol4_iss2_88/figure_1.png)
+
+
+_Source: FRBNY 2021, 28._ 
+
+In its September 2020 Senior Financial Officer Survey (SFOS) surveying 80 large banks, the Fed finds that many of the PPP lender banks that financed their PPP loans through the PPPLF were encouraged to do so by the PPPLF’s favorable regulatory treatment (see Key Design Decision No. 21, Regulatory Relief) and the matched duration funding that it provided (FRB 2021f; FRB 2020l). The survey also notes, however, that the majority of the PPP lenders 
+
+
+surveyed did not use the PPPLF; these lenders cited lower-cost alternatives, such as core deposit funding, and concerns over PPPLF borrower certification requirements (FRB 2020l). The Fed notes that banks experienced “significant deposit growth starting in spring 2020, resulting in an increase in low-cost funding” as well as a general fall in term funding costs relative to the early days of the pandemic. Nonbanks, by contrast, lacked this funding base; the Fed suggests this as a likely explanation for the nonbanks’ expanded use of the PPPLF in 2021, while banks’ PPPLF borrowing had fallen from its 2020 peak (FRB 2021d, 34–35); see Figure 2. The Fed’s March 2021 SFOS reveals that the availability of funding from the PPPLF had “increased the willingness or ability of [some banks]—including some banks that have not participated in the PPPLF—to make Paycheck Protection Program (PPP) loans” (FRB 2021e). 
+
+[FIGURE id=vol4_iss2_88_f2 type=figure label="Figure 2" file=figure_2.png caption="PPPLF Advances Outstanding, by Institution Type"]
+### **Figure 2: PPPLF Advances Outstanding, by Institution Type**
+![Figure 2](assets/vol4_iss2_88/figure_2.png)
+
+
+_Source: FRB 2021d, 34._ 
+
+
+|**Context: United States 2019–2020**|**Context: United States 2019–2020**|
+|---|---|
+|**GDP**<br>**(SAAR, nominal GDP in LCU**<br>**converted to USD)**|$21.694 trillion in 2019<br>$21.477 trillion in 2020|
+|**GDP per capita**<br>**(SAAR, nominal GDP in LCU**<br>**converted to USD)**|$65,280 in 2019<br>$63,414 in 2020|
+|**Sovereign credit rating**<br>**(five-year senior debt)**|Data for 2019:<br>Moody’s: Aaa<br>S&P: AA+u<br>Fitch: AAA<br>Data for 2020:<br>Moody’s: Aaa<br>S&P: AA+u<br>Fitch: AAA|
+|**Size of banking system**|$13.825 trillion in 2019<br>$15.882trillion in 2020|
+|**Size of banking system**<br>**as a percentage of GDP**|63.73% in 2019<br>73.95% in 2020|
+|**Size of banking system**<br>**as a percentage of financial system **|27.14% in 2019<br>27.30%in 2020|
+|**Five-bank concentration of banking system**|45.74% in 2019<br>46.24% in 2020|
+|**Foreign involvement in banking system**|Data not available for 2019<br>Data not available for 2020|
+|**Government ownership of banking system**|Data not available for 2019<br>Data not available for 2020|
+|**Existence of deposit insurance**|Yes, in 2019<br>Yes,in 2020|
+|_Sources: Bloomberg; World Bank Global Financial Development Database; World_<br>_Bank Deposit Insurance Dataset._||
+
+
+
+
+## **Key Design Decisions** 
+
+**1. Purpose: The Fed created the PPPLF to buttress lending by eligible borrowers to small businesses under the terms of the Paycheck Protection Program.** 
+
+The PPP, signed into law on March 27, 2020, provided a mechanism for authorized lenders to extend concessionary, forgivable loans to small businesses to keep their workers on their payrolls (CARES Act 2020, sec. 1102). The Fed created the PPPLF to provide financing for PPP lenders. In the Fed’s first report to Congress on the facility, explaining its creation and terms, the Fed notes, “the availability of credit has contracted for small businesses while, at the same time, the disruptions to economic activity have heightened the needs for small businesses to obtain credit in order to sustain themselves and meet their payroll and other expenses until economic conditions normalize” (FRB 2020i). The Fed established the PPPLF “to help facilitate access to credit by PPP lenders so that they can lend to small businesses, enabling them better to manage the economic dislocations related to the pandemic” (FRB 2020i). 
+
+**2. Part of a Package: The Fed introduced the PPPLF on April 9, 2020, alongside the rollout of several other emergency lending measures in response to the pandemic.** 
+
+The Fed introduced the PPPLF on April 9, 2020, alongside the rollout or expansion of several other emergency lending measures in response to the pandemic. These parallel measures responded to disruptions in other pockets of financial markets—those for corporate and municipal bonds, midsize business lending, and structured finance (FRB 2020e). 
+
+**3. Legal Authority: The Federal Reserve used its authority under Section 13(3) of the Federal Reserve Act to establish the PPPLF.** 
+
+The Federal Reserve Board authorized the PPPLF by invoking its authority under Section 13(3) of the Federal Reserve Act (FRB 2020i). Section 13(3) permits the Fed, “in unusual and exigent circumstances,” to “discount for any participant in any program or facility with broad-based eligibility” (FRA n.d.a). The invocation of Section 13(3) allows the Fed to provide liquidity more broadly than its monetary policy and discount window authorities allow. This authority also requires the approval of the secretary of the Treasury (FRA n.d.a). Each extension of the facility required a new FRB vote and renewed approval from the Treasury secretary; see Key Design Decision No. 23, Duration. 
+
+While PPP loans were eligible collateral under the Fed’s standing discount window, the Section 13(3) invocation allowed the Fed to lend to nonbanks, and the facility also carried terms distinct from the discount window (FRB 2021a). 
+
+**4. Administration: Each of the 12 Federal Reserve Banks extended credit under the PPPLF to depository institutions in its respective region. The Fed directed** 
+
+
+## **nonbank, non-credit-union borrowers to the Cleveland, Minneapolis, or San Francisco reserve bank, depending on the type of firm.** 
+
+The Federal Reserve Bank of Minneapolis led the administration of the PPPLF, but depository institutions accessed PPPLF loans from the reserve bank that served as their usual discount window lender (FRB 2020b; FRBM 2021). When the Fed expanded PPPLF eligibility to borrowers without access to the discount window, it assigned these borrowers to specific reserve banks. Figure 3 outlines where each type of firm was to access the PPPLF. 
+
+[FIGURE id=vol4_iss2_88_f3 type=figure label="Figure 3" file=figure_3.png caption="Eligible Borrower Types and Assigned Reserve Banks"]
+### **Figure 3: Eligible Borrower Types and Assigned Reserve Banks**
+![Figure 3](assets/vol4_iss2_88/figure_3.png)
+
+
+_Source: FRB 2020b._ 
+
+## **5. Use of SPV: The Fed did not use a special purpose vehicle to operate the PPPLF.** 
+
+The PPPLF operated out of each of the 12 Federal Reserve Banks, alongside their respective discount window operations (FRB 2020b). 
+
+## **6. Governance: The PPPLF was subject to oversight and audit from committees in both houses of Congress, as well as the Government Accountability Office and the Fed’s Inspector General.** 
+
+As the PPPLF was a facility authorized under Section 13(3) of the Federal Reserve Act, the Fed was required to submit a report to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives within seven days of authorizing 13(3) assistance. The report needed to describe “the justification for the exercise of authority to provide such assistance; the 
+
+
+identity of the recipients of such assistance; the date and amount of the assistance, and form in which the assistance was provided; and the material terms of the assistance” (FRA n.d.a). 
+
+Furthermore, the Section 13(3) statute requires the Fed submit an updated report every 30 days on the details of any outstanding credit under 13(3) lending facilities. The law calls for such reports to contain updates on “the value of collateral; the amount of interest, fees, and other revenue or items of value received in exchange for the assistance; and the expected or final cost to the taxpayers of such assistance” (FRA n.d.a). 
+
+In addition to direct congressional oversight, the PPPLF was subject to review by the Fed board’s Office of Inspector General and the Government Accountability Office (GAO 2020; OIG 2021, 10). 
+
+## **7. Disclosure: Section 13(3) of the Federal Reserve Act required the Fed Board to provide congressional committees with regular reports regarding outstanding PPPLF credit, and the Fed elected to publish these reports.** 
+
+The reports to the congressional committees required of the Fed disclosed “the name of each participant . . .; the amounts borrowed, interest rate charged, and value of pledged collateral; and the overall costs, revenues, and fees” of PPPLF loans (FRB 2020h). The Coronavirus Aid, Relief, and Economic Security (CARES) Act stipulated that the Fed make its monthly reports to the congressional committees available on its website within seven days of submitting them (CARES Act 2020, sec. 4026(b)(2)(B)). While this statute applied only to 13(3) facilities that used CARES Act funding, which the PPPLF did not (see Key Design Decision No. 10, Source of Funding), the Fed elected to similarly publish the reports for the PPPLF (FRB n.d.a; FRB 2020h; GAO 2020, 19–20). 
+
+The Fed chair could elect to keep identifying details of individual liquidity recipients confidential in its reports to the committees[4] and only release them publicly up to one year after the closure of the lending program—the maximum delay permissible under Section 11(s) of the Federal Reserve Act (FRA n.d.b, sec. 11(s)(2)(A); FRA n.d.a, sec. 13(3)(D)). However, the Fed elected not to take this option in the case of the PPPLF (FRB 2020h). This contrasted with some of its other COVID-19 Section 13(3) facilities, where the Fed thought disclosing participant identities would increase financial stress for the intended beneficiaries (GAO 2020, 19–20; Guida 2020). The monthly transaction-specific disclosures thus shared all the information that will ultimately be revealed by the Section 11(s) report (FRB n.d.a; FRB 2021i). 
+
+The Fed also publicly reported aggregate PPPLF lending data on a weekly basis as part of the usual publication of its overall balance sheet (FRB 2021a, 11). 
+
+> 4 If the Fed chair elects to keep borrowers’ identifying details confidential, Section 13(3) stipulates that “such information shall be made available only to the Chairpersons or Ranking Members of the” Senate Banking Committee and House Financial Services Committee. 
+
+
+## **8. Communication: The Fed provided regular press releases announcing the introduction of and changes to the PPPLF.** 
+
+The Fed made regular press releases accompanying decisions on the terms and regulatory rules surrounding the PPPLF. 
+
+## **9. Size: The Fed did not cap the amount of lending it would do under the PPPLF.** 
+
+The amount of Fed lending available was limited only by the supply of PPP loans, which ultimately reached approximately $800 billion (FRB 2021a, 9; SBA 2021). The PPPLF reached $70.8 billion on July 29, 2020, fell to $46.7 billion in January 2021, and ultimately peaked at $90.6 billion on June 30, 2021 (FRB 2022a). See Figure 4. 
+
+[FIGURE id=vol4_iss2_88_f4 type=figure label="Figure 4" file=figure_4.png caption="PPPLF Advances Outstanding"]
+### **Figure 4: PPPLF Advances Outstanding**
+![Figure 4](assets/vol4_iss2_88/figure_4.png)
+
+
+_Source: FRB 2022a._ 
+
+## **10. Source of Funding: The Federal Reserve funded the PPPLF through the creation of reserves, expanding its balance sheet.** 
+
+The Fed used the creation of central bank reserves to fund its PPPLF loans. Given regulatory exemptions implemented by the Fed and other federal bank regulators, these reserves did not interact negatively with bank borrowers’ leverage ratios; see Key Design Decision No. 21, Regulatory Relief. As PPP loans were repaid (by either the borrower or the SBA), the Fed extinguished the reserves (FRB 2021d, 33–34). In contrast to many of the Fed’s other Section 13(3) facilities set up in response to the pandemic, the PPPLF did not utilize Treasury funds as additional credit support (Clarida, Duygan-Bump, and Scotti 2021, 12, 16). 
+
+## **11. Eligible Institutions: All Paycheck Protection Program lenders were eligible for the PPPLF. This included both bank and nonbank lenders.** 
+
+As announced on April 9, 2020, the PPPLF was available only to depository institutions— banks, savings associations, and credit unions—that originated PPP loans, but the Fed said 
+
+
+it was “working to expand eligibility to other lenders that originate PPP Loans in the near future” (FRB 2020a; FRBM 2021). 
+
+On April 30, two weeks after the facility became operational, the Fed announced it had expanded PPPLF eligibility to all lenders that were eligible to lend under the PPP. It also expanded the collateral eligibility to include PPP loans purchased, rather than just those originated by the PPPLF borrower. Eligible lenders included banks, credit unions, Community Development Financial Institutions, members of the Farm Credit System, small business lending companies licensed by the SBA, and some financial technology firms (FRB 2020g). 
+
+## **12. Auction or Standing Facility: Like the Fed’s standard discount window, the PPPLF was a standing facility, continuously accessible at the borrower’s election.** 
+
+Like the Fed’s standard discount window, the PPPLF was continuously accessible, at the borrower’s election (FRB 2021a). 
+
+## **13. Loans or Purchase: For a PPPLF loan, the lending reserve bank lent on a nonrecourse basis against the PPP loan as collateral.** 
+
+For a PPPLF loan, the lending reserve bank lent on a nonrecourse basis against the PPP loan as collateral (FRB 2020b). This contrasts with standard discount window lending, which is done on a recourse basis (FRB 2021a, 4). 
+
+## **14. Eligible Collateral: The PPPLF lent exclusively against SBA-guaranteed PPP loans.** 
+
+The PPPLF lent exclusively against SBA-guaranteed PPP loans. PPPLF borrowers could pledge any PPP loan, whether they had originated or purchased it (FRB 2020b). 
+
+## **15. Loan Amounts: There were no individual borrower participation limits.** 
+
+The loan amounts were determined exclusively by the amount of collateral of the borrower; there were no individual borrower limits (FRB 2020b). 
+
+## **16. Haircuts: The Fed did not apply any haircuts to the PPP loans taken as collateral for PPPLF loans.** 
+
+The PPPLF lent against the full principal amount of the PPP loan pledged as collateral (FRB 2020b). This was slightly favorable to the 1%–2% haircut applied to Treasuries and other government-guaranteed debt at the discount window (FRB 2021b). 
+
+## **17. Interest Rates: The Fed charged 35 basis points (bps) for PPPLF loans.** 
+
+The Fed charged borrowers an interest rate of 35 bps for PPPLF loans (FRB 2020b). Throughout the life of the facilities, this was 10 bps above the prevailing primary credit 
+
+
+(discount window) rate (FRB 2020d). PPP borrowers paid lenders an interest rate of 100 bps, and the loans were SBA guaranteed (SBA n.d.).[5] 
+
+## **18. Fees: There were no fees associated with use of the PPPLF facility.** 
+
+There were no fees associated with use of the PPPLF facility (FRB 2020b). 
+
+## **19. Term/Repayment: PPPLF loan maturities were set to match the maturity of the underlying PPP loan collateral.** 
+
+PPPLF loan maturities were set to match the maturity of the underlying PPP loan collateral (FRB 2020b). PPP loans had maturities of either two or five years (SBA 2020). This maturity was accelerated if the PPP lender received reimbursement from the SBA because the loan either entered forgiveness or went into default (FRB 2020b). 
+
+## **20. Other Restrictions on Eligible Participants: PPPLF borrowers had to certify that they were not insolvent and that they lacked adequate credit accommodations from other banking institutions.** 
+
+Section 13(3) of the Federal Reserve Act stipulates that borrowers under such lending programs cannot be insolvent (FRA n.d.a). The Fed required borrowers to attest to such, and said the borrower could comply with the solvency requirement by certifying “that it [was] not (1) in bankruptcy, resolution under Title II of the Dodd-Frank Wall Street Reform and Consumer Protection Act, or any other Federal or State insolvency proceeding, and that it [was] not (2) generally failing to pay undisputed debts as they become due during the 90 days preceding the date of borrowing under the PPPLF” (FRB 2021a, 12). The first standard is stipulated by Section 13(3), and the second is prescribed by regulation (FRA n.d.a; Availability and Terms of Credit n.d.). 
+
+Prior to engaging in Section 13(3) lending, the Fed must also “obtain evidence” that a borrower “is unable to secure adequate credit accommodations from other banking institutions” (FRA n.d.a). The Fed required each borrower to certify that it lacked such credit. As the Fed noted, the borrower did not need to lack credit access altogether. The Fed also noted several things that a borrower could cite to certify that its credit access was less than adequate: 
+
+- Economic or market conditions, including cost and availability of credit to small businesses; 
+
+- The fact that the Fed created PPPLF “to improve the ability of PPP lenders to obtain reasonably priced long-term financing for PPP Loans”; and 
+
+- Terms of the PPPLF that made it more “adequate” than alternative sources of funding, “including, for example, beneficial capital treatment for PPP loans pledged 
+
+> 5 Lenders also received fees from the SBA for 1%–5% of the face value of the loan, inversely related to the loan size (CARES Act 2020, sec. 1102(a)(2)(P)(i)(I)). 
+
+
+to the PPPLF.” (FRB 2021a, 12–13) 
+
+## **21. Regulatory Relief: New rules ensured that PPP lending backed by PPPLF funding did not impact a bank’s liquidity coverage ratio or its leverage ratios.** 
+
+Section 1102 of the CARES Act provided that, under banks’ risk-based capital requirements, PPP loans would “receive a risk weight of zero percent” (CARES Act 2020, sec. 1102(a)(2)). On April 9, 2020, the federal banking agencies—the Fed, the Federal Deposit Insurance Corporation, and the Office of the Comptroller of the Currency—further provided that PPP loans that were pledged to the PPPLF facility would have no impact on any bank capital ratios “because there is no credit or market risk in association with PPP loans pledged to the facility” (OCC, FRB, and FDIC 2020a; OCC, FRB, and FDIC 2020c). 
+
+On May 5, 2020, the federal banking agencies issued a rule to also alleviate the impact of the PPPLF on banks’ liquidity coverage ratio (LCR). The LCR requires some banks (particularly larger ones) to maintain sufficient high-quality liquid assets to protect against liquidity outflows over a 30-day stress period. The agencies issued the rule for the purpose of “neutralizing the LCR impact associated with the non-recourse funding provided by” the PPPLF (OCC, FRB, and FDIC 2020b; OCC, FRB, and FDIC 2020d). 
+
+## **22. International Coordination: The Fed and Treasury did not appear to engage in any international coordination with respect to the PPPLF.** 
+
+The Fed and Treasury did not appear to engage in any international coordination with respect to the PPPLF. 
+
+## **23. Duration: The PPPLF expired July 30, 2021, after four extensions of its end date.** 
+
+When the Fed introduced the PPPLF on April 9, 2020, it stated, “No new extensions of credit will be made under the Facility after September 30, 2020, unless the Board and the Department of the Treasury determine to extend the Facility” (FRB 2020a). On July 27, 2020, November 28, 2020, and March 8, 2021, the Fed board and the Treasury secretary voted to extend the facility an additional quarter. These extensions cited “the price and availability of credit . . . as compared to normal market conditions” and “the effects of the pandemic on economic activity generally, including unemployment claims and on . . . revenues and expenses” (FRB 2020k; FRB 2020m; FRB 2021c). The Fed noted that these conditions existed even though “financial markets have stabilized significantly” (FRB 2020k; FRB 2020m; FRB 2021c). 
+
+In its report to Congress on its March 2021 extension, when the Fed and Treasury extended only the PPPLF and no other active Section 13(3) facilities, the Fed said, “the availability of credit for small businesses served by the Paycheck Protection Program remains limited, and there is substantial continued uncertainty” due to the pandemic (FRB 2021c). 
+
+On June 25, 2021, the Fed and Treasury approved a final extension to July 30, 2021 (FRB 2021g). The PPP closed to new applications May 31, 2021, and the SBA could process applications until June 30, 2021 (PPP Extension Act). In its final extension of the PPPLF, the 
+
+
+board noted that “although financial markets have stabilized significantly, some PPP lenders have indicated that they continue to face liquidity challenges to support PPP lending.” The board also cited loan processing delays, saying the PPPLF extension “facilitates PPP lending that will be originated through the expiration of the PPP program on June 30, 2021” by giving PPP lenders additional time to pledge those loans to the PPPLF (FRB 2021g). 
+
+
+## **References and Key Program Documents** 
+
+## **Program Summaries** 
+
+(FRB n.d.a) Federal Reserve Board of Governors (FRB). No date. “Paycheck Protection Program Liquidity Facility (PPPLF).” Federal Reserve Board of Governors. Accessed December 24, 2021. 
+
+_Landing page for PPPLF documents and disclosures_ . https://ypfs.som.yale.edu/node/19546 
+
+(FRB 2020a) Federal Reserve Board of Governors (FRB). April 9, 2020. “Paycheck Protection Program Lending Facility Term Sheet.” Federal Reserve Board. _PPPLF term sheet describing April 9, 2020, terms_ . https://ypfs.som.yale.edu/node/19558 
+
+(FRB 2020b) Federal Reserve Board of Governors (FRB). April 30, 2020. “Paycheck Protection Program Liquidity Facility Term Sheet.” FRB. 
+
+_Term sheet updated April 30, 2020_ . 
+
+https://ypfs.som.yale.edu/library/paycheck-protection-program-liquidity-facility-termsheet 
+
+(FRB 2021a) Federal Reserve Board of Governors (FRB). 2021. “Frequently Asked Questions.” Federal Reserve Board of Governors. 
+
+_FRB website sharing PPPLF FAQs_ . https://ypfs.som.yale.edu/node/18230 
+
+(FRB 2022a) Federal Reserve Board of Governors (FRB). March 30, 2022. “Payroll Protection Program Liquidity Facility: Wednesday Level: Assets Data.” Federal Reserve Bank of St. Louis. 
+
+_Weekly balance sheet data on the PPPLF_ . 
+
+https://ypfs.som.yale.edu/library/document/payroll-protection-program-liquidityfacility-wednesday-level-assets-data 
+
+(SBA n.d.) Small Business Administration (SBA). No date. “First Draw PPP Loan.” Small Business Administration. 
+
+_SBA site describing the PPP_ . https://ypfs.som.yale.edu/node/19540 
+
+## **Legal/Regulatory Guidance** 
+
+(Availability and Terms of Credit n.d.) Availability and Terms of Credit. n.d. 12 C.F.R. § 201.4. Cornell Law School. Accessed August 9, 2021. 
+
+_Code of Federal Regulations section describing regulations for emergency lending_ . https://ypfs.som.yale.edu/library/12-cfr-ss-2014-availability-and-terms-credit 
+
+(CARES Act 2020) US Congress (CARES Act). March 27, 2020. “Coronavirus Aid, Relief, and Economic Security Act (CARES Act).” Government Printing Office. 
+
+
+_Passed legislation providing for the third wave of US federal coronavirus relief_ . https://ypfs.som.yale.edu/node/18114 
+
+(Consolidated Appropriations Act 2021) US Congress (Consolidated Appropriations Act). December 27, 2020. “Consolidated Appropriations Act of 2021.” Government Publishing Office. 
+
+_Passed legislation authorizing the reopening of the PPP_ . 
+
+https://ypfs.som.yale.edu/library/hr-133-consolidated-appropriations-act-2021 
+
+(FRA n.d.a) Federal Reserve Act (FRA). No date. “Section 13 of the Federal Reserve Act.” Federal Reserve Board of Governors. Accessed July 14, 2021. 
+
+_Section of the Federal Reserve Act describing the authorities of reserve banks_ . https://ypfs.som.yale.edu/library/federal-reserve-act-section-13-power-federal-reservebanks 
+
+(FRA n.d.b) Federal Reserve Act (FRA). No date. “Section 11 of the Federal Reserve Act.” Federal Reserve Board of Governors. 
+
+_Section of the Federal Reserve Act including disclosure requirements_ . https://ypfs.som.yale.edu/library/document/federal-reserve-act-section-11-powerfederal-reserve-banks 
+
+(FRB 2020c) Federal Reserve Board of Governors (FRB). January 19, 2020. “Federal Reserve Board - Board Votes 2020.” Federal Reserve Board of Governors. 
+
+_Website showing Federal Reserve Board votes in 2020_ . 
+
+https://ypfs.som.yale.edu/library/document/federal-reserve-board-board-votes-2020 
+
+(OCC, FRB, and FDIC 2020a) Office of the Comptroller of the Currency, Federal Reserve Board, and Federal Deposit Insurance Corporation (OCC, FRB, and FDIC). April 13, 2020. “Regulatory Capital Rule: Paycheck Protection Program Lending Facility and Paycheck Protection Program Loans.” Federal Register. 
+
+_Regulatory rule describing the leverage ratios exemptions of PPPLF-backed PPP loans_ . https://ypfs.som.yale.edu/node/19559 
+
+(OCC, FRB, and FDIC 2020b) Office of the Comptroller of the Currency, Federal Reserve Board, and Federal Deposit Insurance Corporation (OCC, FRB, and FDIC). May 6, 2020. Liquidity Coverage Ratio Rule: Treatment of Certain Emergency Facilities. Federal Register. _Rule describing LCR exemption for PPPLF lending_ . 
+
+https://ypfs.som.yale.edu/library/liquidity-coverage-ratio-rule-treatment-certainemergency-facilities 
+
+(PPP Extension Act 2021) US Congress. March 30, 2021. “PPP Extension Act of 2021.” Government Publishing Office. _Legislation extending the PPP_ . https://ypfs.som.yale.edu/node/19539 
+
+
+## **Media Stories** 
+
+(Guida 2020) Guida, Victoria. April 23, 2020. “Fed, Facing Pressure, Commits to Disclose Monthly Who’s Getting Bailouts.” Politico. 
+
+_Article discussing Fed disclosures_ . 
+
+https://ypfs.som.yale.edu/library/document/fed-facing-pressure-commits-disclosemonthly-whos-getting-bailouts 
+
+## **Press Releases/Announcements** 
+
+(FRB 2020d) Federal Reserve Board of Governors (FRB). March 15, 2020. “Federal Reserve Actions to Support the Flow of Credit to Households and Businesses.” Federal Reserve Board. _Press release describing Federal Reserve actions in response to the COVID-19 pandemic_ . https://ypfs.som.yale.edu/library/document/federal-reserve-actions-support-flow-credithouseholds-and-businesses 
+
+(FRB 2020e) Federal Reserve Board of Governors (FRB). April 9, 2020. “Federal Reserve Takes Additional Actions to Provide up to $2.3 Trillion in Loans to Support the Economy.” Federal Reserve Board of Governors. 
+
+_Press release describing a suite of Federal Reserve lending facilities_ . https://ypfs.som.yale.edu/library/federal-reserve-takes-additional-actions-provide-23trillion-loans-support-economy 
+
+(FRB 2020f) Federal Reserve Board of Governors (FRB). April 16, 2020. “Federal Reserve Announces Its Paycheck Protection Program Liquidity Facility Is Fully Operational and Available to Provide Liquidity to Eligible Financial Institutions.” Federal Reserve Board of Governors. 
+
+_Press release announcing the PPPLF’s operational readiness_ . https://ypfs.som.yale.edu/node/19557 
+
+(FRB 2020g) Federal Reserve Board of Governors (FRB). April 30, 2020. “Federal Reserve Expands Access to Its Paycheck Protection Program Liquidity Facility (PPPLF) to Additional Lenders, and Expands the Collateral That Can Be Pledged.” Federal Reserve Board. _Press release announcing expanded eligibility for PPPLF collateral and borrowers_ . https://ypfs.som.yale.edu/node/19563 
+
+(FRB 2020h) Federal Reserve Board of Governors (FRB). May 12, 2020. “Federal Reserve Publishes Updates to the Term Sheet for the Term Asset-Backed Securities Loan Facility (TALF) and Announces Information to Be Disclosed Monthly for the TALF and the Paycheck Protection Program Liquidity Facility.” Federal Reserve Board of Governors. _Press release describing disclosure details of the PPPLF_ . 
+
+https://ypfs.som.yale.edu/library/federal-reserve-publishes-updates-term-sheet-termasset-backed-securities-loan-facility 
+
+(OCC, FRB, and FDIC 2020c) Office of the Comptroller of the Currency, Federal Reserve Board, and Federal Deposit Insurance Corporation (OCC, FRB, and FDIC). April 9, 2020. “Federal Bank Regulators Issue Interim Final Rule for Paycheck Protection Program Facility.” 
+
+
+Federal Register. 
+
+_Press release from the federal banking agencies announcing leverage ratios exemption_ . https://ypfs.som.yale.edu/node/19560 
+
+(OCC, FRB, and FDIC 2020d) Office of the Comptroller of the Currency, Federal Reserve Board, and Federal Deposit Insurance Corporation (OCC, FRB, and FDIC). May 5, 2020. “Federal Bank Regulatory Agencies Modify Liquidity Coverage Ratio for Banks Participating in Money Market Mutual Fund Liquidity Facility and Paycheck Protection Program Liquidity Facility.” Federal Reserve Board of Governors. 
+
+_Press release announcing LCR relief for PPPLF lending_ . https://ypfs.som.yale.edu/library/federal-bank-regulatory-agencies-modify-liquiditycoverage-ratio-banks-participating-money 
+
+(SBA 2020) Small Business Administration (SBA). June 25, 2020. “Paycheck Protection Program Loans Frequently Asked Questions.” Small Business Administration. _Document listing PPP FAQs_ . https://ypfs.som.yale.edu/node/19544 
+
+## **Reports/Assessments** 
+
+(FRB 2020i) Federal Reserve Board of Governors (FRB). April 16, 2020. “Report to Congress Pursuant to Section 13(3) of the Federal Reserve Act: Paycheck Protection Program Lending Facility.” 
+
+_Federal Reserve report to Congress describing the creation of the PPPLF_ . https://ypfs.som.yale.edu/node/19555 
+
+(FRB 2020j) Federal Reserve Board of Governors (FRB). May 15, 2020. “Periodic Report: Update on Outstanding Lending Facilities Authorized by the Board under Section 13(3) of the Federal Reserve Act - May 15, 2020.” 
+
+_Federal Reserve report to Congress describing emergency lending facilities_ . 
+
+https://ypfs.som.yale.edu/library/document/periodic-report-update-outstanding-lendingfacilities-authorized-board-under-7 
+
+(FRB 2020k) Federal Reserve Board of Governors (FRB). July 31, 2020. “Report on Outstanding Lending Facilities Authorized by the Board under Section 13(3) of the Federal Reserve Act.” 
+
+_Federal Reserve report to Congress describing PPPLF extension_ . https://ypfs.som.yale.edu/node/19554 
+
+(FRB 2020l) Federal Reserve Board of Governors (FRB). November 30, 2020. “September 2020 Senior Financial Officer Survey.” Federal Reserve Board of Governors. _Fed survey detailing bank responses to questions on the PPPLF_ . https://ypfs.som.yale.edu/node/19553 
+
+(FRB 2020m) Federal Reserve Board of Governors (FRB). December 3, 2020. “Report on Certain Lending Facilities, Authorized by the Board under Section 13(3) of the Federal Reserve Act, December 3, 2020.” 
+
+
+_Federal Reserve report to Congress describing PPPLF extension_ . https://ypfs.som.yale.edu/node/19066 
+
+(FRB 2021b) Federal Reserve Board of Governors (FRB). July 1, 2021. “Discount Window Margins and Collateral Guidelines.” 
+
+_Federal Reserve website listing discount window collateral information_ . https://ypfs.som.yale.edu/library/document/discount-window-margins-and-collateralguidelines 
+
+(FRB 2021c) Federal Reserve Board of Governors (FRB). March 10, 2021. “Periodic Report: Update on Outstanding Lending Facilities Authorized by the Board under Section 13(3) of the Federal Reserve Act.” 
+
+_Federal Reserve report to Congress describing PPPLF extension_ . https://ypfs.som.yale.edu/node/17185 
+
+(FRB 2021d) Federal Reserve Board of Governors (FRB). May 13, 2021. “Financial Stability Report (May 2021).” Financial Stability Report. _Semiannual Federal Reserve report discussing financial stability matters_ . https://ypfs.som.yale.edu/library/financial-stability-report-may-2021 
+
+(FRB 2021e) Federal Reserve Board of Governors (FRB). May 20, 2021. “March 2021 Senior Financial Officer Survey.” Federal Reserve Board of Governors. _Fed survey detailing bank responses to questions on the PPPLF_ . https://ypfs.som.yale.edu/node/19552 
+
+(FRB 2021f) Federal Reserve Board of Governors (FRB). May 20, 2021. “Senior Financial Officer Survey.” Federal Reserve Board of Governors. _Fed web page describing its Senior Financial Officer Survey_ . https://ypfs.som.yale.edu/node/19551 
+
+(FRB 2021g) Federal Reserve Board of Governors (FRB). June 28, 2021. “Report on the Paycheck Protection Program Liquidity Facility.” 
+
+_Federal Reserve report to Congress describing final PPPLF extension_ . https://ypfs.som.yale.edu/node/19548 
+
+(FRB 2021h) Federal Reserve Board of Governors (FRB). July 12, 2021. “Periodic Report: Update on Outstanding Lending Facilities Authorized by the Board under Section 13(3) of the Federal Reserve Act - July 12, 2021.” 
+
+_Federal Reserve report to Congress updating emergency lending facilities data_ . https://ypfs.som.yale.edu/library/document/periodic-report-update-outstanding-lendingfacilities-authorized-board-under-1 
+
+(FRB 2021i) Federal Reserve Board of Governors (FRB). August 11, 2021. “PPPLF Transaction-Specific Disclosures - 8/11/2021.” Federal Reserve Board of Governors. _Report detailing outstanding PPPLF transactions as of 7/31/21_ . 
+
+https://ypfs.som.yale.edu/library/document/ppplf-transaction-specific-disclosures-81121 
+
+
+(FRB 2022b) Federal Reserve Board of Governors (FRB). March 10, 2022. “Periodic Report: Update on Outstanding Lending Facilities Authorized by the Board under Section 13(3) of the Federal Reserve Act - March 10, 2021.” 
+
+_Federal Reserve report to Congress updating emergency lending facilities data_ . https://ypfs.som.yale.edu/library/periodic-report-update-outstanding-lending-facilitiesauthorized-board-under-section-133-14 
+
+(FRBM 2021) Aschenbrenner, Stefanie, Dan Hartzeim, Richard Jamieson, Rene Pederson, and Anna Stagg (FRBM). August 2, 2021. “The Fed’s Emergency Lending Supports the Paycheck Protection Program.” Federal Reserve Bank of Minneapolis. _Article from the Minneapolis Fed discussing the PPPLF_ . https://ypfs.som.yale.edu/node/19561 
+
+(FRBNY 2021) Federal Reserve Bank of New York (FRBNY). May 24, 2021. “Statement Regarding the Annual Report on Open Market Operations during 2020.” Federal Reserve Bank of New York. 
+
+_Annual FRBNY report describing the Fed’s market activity_ . 
+
+https://ypfs.som.yale.edu/library/document/open-market-operations-during-2020 
+
+(GAO 2020) Government Accountability Office (GAO). December 10, 2020. “Use of CARES Act-Supported Programs Has Been Limited and Flow of Credit Has Generally Improved.” Federal Reserve Lending Programs GAO-21-180. Report to Congressional Committees. _Government oversight report discussing Federal Reserve emergency lending facilities_ . https://ypfs.som.yale.edu/library/federal-reserve-lending-programs-use-cares-actsupported-programs-has-been-limited-and-flow 
+
+(Labonte 2021) Labonte, Marc. February 8, 2021. “The Federal Reserve’s Response to COVID-19: Policy Issues.” 
+
+_Report evaluating the Fed’s policy actions in response to COVID-19_ . https://ypfs.som.yale.edu/node/18518 
+
+(OIG 2021) Office of Inspector General of the Board of Governors of the Federal Reserve System and Consumer Financial Protection Bureau (OIG). October 29, 2021. “OIG: Semiannual Report to Congress.” 
+
+_Semiannual report to Congress describing the work of the inspector general of the Fed Board and CFPB_ . 
+
+https://ypfs.som.yale.edu/library/document/oig-semiannual-report-congress 
+
+(Powell 2021) Powell, Jerome H. June 22, 2021. “The Federal Reserve’s Response to the Coronavirus Pandemic.” Federal Reserve Board of Governors. 
+
+_Fed Chair Powell testimony discussing the Fed’s COVID-19 response._ 
+
+https://ypfs.som.yale.edu/library/federal-reserves-response-coronavirus-pandemic 
+
+(SBA 2021) Small Business Administration (SBA). May 31, 2021. “Paycheck Protection Program (PPP) Report: Approvals through 05/31/2021.” _SBA report detailing PPP lending totals_ . https://ypfs.som.yale.edu/node/19542 
+
+
+## **Key Academic Papers** 
+
+(Anbil, Carlson, and Styczynski 2021) Anbil, Sriya, Mark Carlson, and Mary-Frances Styczynski. May 5, 2021. “The Effect of the PPPLF on PPP Lending by Commercial Banks.” Finance and Economics Discussion Series (FEDS), May. 
+
+_Fed Board study on the lending boost provided by PPPLF participation_ . https://ypfs.som.yale.edu/node/19562 
+
+(Clarida, Duygan-Bump, and Scotti 2021) Clarida, Richard H., Burcu Duygan-Bump, and Chiara Scotti. June 3, 2021. “The COVID-19 Crisis and the Federal Reserve’s Policy Response.” Finance and Economics Discussion Series 2021-035. Washington: Board of Governors of the Federal Reserve System 
+
+_Paper surveying the Fed’s emergency response to the COVID-19 crisis_ . https://ypfs.som.yale.edu/node/18517 
+
+(Lopez and Spiegel 2021) Lopez, Jose A., and Mark M. Spiegel. April 1, 2021. “Small Business Lending Under the PPP and PPPLF Programs.” Federal Reserve Bank of San Francisco Working Paper 2021–10. 
+
+_San Francisco Fed research describing lending and balance sheet outcomes of PPPLF participation_ . https://ypfs.som.yale.edu/node/19545 
+
+Copyright 2022 © Yale University. All rights reserved. To order copies of this material or to receive permission to reprint any or all of this document, please contact the Yale Program on Financial Stability at ypfs@yale.edu.

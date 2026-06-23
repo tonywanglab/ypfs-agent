@@ -1,0 +1,784 @@
+## The Thai Asset Management Company (TAMC)[1] 
+
+_Mallory Dreyer_[2] 
+
+Yale Program on Financial Stability Case Study June 23, 2021 
+
+## **Abstract** 
+
+The combination of the collapse of a midsize bank due to fraud and the failure to meet projected exports exposed weakness in the Thai economy in 1996. Pressure on the baht grew in 1997, and the Thai government attempted to defend its currency by depleting foreign reserves. Thailand floated the baht in July 1997, which triggered a financial crisis. The government encouraged financial institutions to establish institution-specific asset management companies to address nonperforming loans (NPLs), which peaked in 1999 at 47.7% of total loans. Despite those efforts, NPL levels remained high. In 2001, the government created the Thai Asset Management Company (TAMC) to purchase and restructure NPLs. The focus was on reviving debtor companies to enable them to repay their debts. State-owned banks and state-led AMCs were required to transfer most of their NPLs to the TAMC; private banks and AMCs were required to transfer relatively large, multicreditor loans. The TAMC could restructure debt, reorganize businesses, and foreclose and dispose of property. Transferring institutions were jointly liable with the TAMC for the profit or loss on the management of the transferred assets; the TAMC had a predefined profit/losssharing arrangement to be calculated at the fifth and 10th years of operations. The TAMC was required to cease operations in June 2011 and complete liquidation by June 2013. Over its 10-year lifespan, TAMC acquired assets with a book value of 780 billion baht (approximately $17.3 billion) for an approximate total purchase price of 265 billion baht. 
+
+**Keywords:** Thailand, TAMC, asset management company, AMC, NPLs, debt restructuring 
+
+> 1 This case study is part of the Yale Program on Financial Stability (YPFS) selection of New Bagehot Project modules considering broad-based asset management company programs. 
+
+> Cases are available from the _Journal of Financial Crises_ at https://elischolar.library.yale.edu/journal-offinancial-crises/. 
+
+> 2 Research Associate, YPFS, Yale School of Management. 
+
+
+## The Thai Asset Management Company (TAMC) 
+
+## **At a Glance** 
+
+Pressure on the Thai currency (the baht) grew in 1996 and 1997 after the failure of a midsize bank exposed weaknesses in lending practices and export growth failed to meet projections. The Thai government attempted to defend its currency using reserves but ultimately floated the baht on July 2, 1997, which led to a swift currency devaluation. In the immediate aftermath of the crisis, the government adopted various measures, including encouraging stateowned and private banks to establish asset management companies (AMCs). In the 2001 election for prime minister, Thaksin Shinawatra campaigned on a platform that included the establishment of a centralized AMC to address the nonperforming loan (NPL) problem and aid economic recovery. 
+
+The government established the TAMC by a royal decree in 2001. State-owned institutions were required to transfer all assets classified as NPLs as of December 31, 2000; privately owned institutions were required to transfer relatively large, multi-creditor loans. In general, the purchase price was equal to the underlying collateral value, excluding additional guarantees. The TAMC had special legal authority and immunity, and it utilized debt restructuring, business restructuring, and foreclosure and sale of collateral to manage and dispose of impaired assets. The transferring institution was jointly liable with the TAMC on 
+
+||Summary|of Key Terms|
+|---|---|---|
+||Purpose: The TAMC was established to||
+||manage “non-performing loans to facilitate<br>the continued business operations of honest<br>debtors while solving the problems caused by<br>impaired assets of the financial institutions”||
+||(TAMC2005c).||
+||Launch|Announcement: June 9, 2001|
+||Dates<br>Wind-<br>Down|Operational: October 2001<br>First transfer:October 15,2001<br>Expiration date for transfers:<br>Unclear|
+||Dates|Ceased operations: June 8, 2011|
+|||Liquidated:June2013|
+||Size and<br>Type of|Peak NPL ratio of 47.7% in 1999|
+||NPL<br>Problem|Corporate and real estate loans|
+||Program|Expected to purchase up to 1.35|
+||Size|trillionbaht of NPLs|
+||Eligible|Public and private financial|
+||Institutions|<br>institutions<br>and<br>public<br>and|
+||Usage|private institution-specific AMCs<br>Open-bankonly<br>Acquired 780 billion baht ($17.3<br>billion)<br>(book<br>value)<br>for<br>approximately 265 billion baht|
+|||($5.9 billion) (transferprice)|
+||Outcomes|Not disclosed|
+||Ownership<br>Structure<br>Notable<br>Features|Government-owned<br>Profit/loss-sharing<br>agreement<br>with the transferring financial|
+|||institution; AMC included as part|
+|||ofpolitical campaign|
+
+
+
+profits or losses from the management of the transferred assets; the TAMC had a predefined profit/loss-sharing arrangement with transferring institutions that was calculated at the end of the fifth and 10th years. In total, 780 billion baht ($17.3 billion) was transferred to the TAMC over its lifespan, for a purchase price of approximately 265 billion baht. The TAMC was required to cease operations in June 2011 and complete liquidation by June 2013. 
+
+
+## **Summary Evaluation** 
+
+The TAMC faced criticism for focusing on state-owned institutions and AMCs that were already restructuring NPLs. Others were concerned that the TAMC would delay the resolution of assets and called for more transparency about cash recoveries. While the TAMC provided information about the assets it purchased, it never disclosed information about the amount it ultimately recovered from liquidations and other resolution strategies. The World Bank reported in 2006 that cash recoveries to date had been only 2.5% of “resolved” cases. However, there were supporters of the TAMC. Two scholars concluded that the TAMC’s stricter approach to pricing assets and its profit/loss-sharing arrangement successfully reduced moral hazard behaviors in state-owned banks compared to the earlier regime, under which state-owned banks could transfer NPLs at “inflated prices” in order to improve their capital positions. Critics argue the TAMC was less successful with private banks because it set excessively stringent conditions on the assets it could acquire from them. Other postcrisis analysis suggests that TAMC contributed to the decline in NPLs in Thailand. 
+
+
+|**The Thai Asset Management Company (TAMC): Thailand Context**|**The Thai Asset Management Company (TAMC): Thailand Context**|
+|---|---|
+|**GDP**<br>**(SAAR, nominal GDP in LCU converted to**<br>**USD)**|$126.4 billion in 2000<br>$120.2 billion in 2001|
+|**GDP per capita**<br>**(SAAR, nominal GDP in LCU converted to**<br>**USD)**|$2,008 in 2000<br>$1,893 in 2001|
+|**Sovereign credit rating (5-year senior debt)**|Data for Q4 2000:<br>Moody’s: Baa1<br>S&P: A-<br>Fitch: BBB+<br>Data for Q4 2001:<br>Moody’s: Baa1<br>S&P: A-<br>Fitch: BBB+|
+|**Size of banking system**|$161.5 billion in 2000<br>$135.5 billion in 2001|
+|**Size of banking system as a percentage of**<br>**GDP**|127.8% in 2000<br>112.7% in 2001|
+|**Size of banking system as a percentage of**<br>**financial system**|100% in 2000<br>100% in 2001|
+|**5-bank concentration of banking system**|68.6% in 2000<br>67.1% in 2001|
+|**Foreign involvement inbanking system **|7%in 1991and2001|
+|**Government ownership of banking system**|31% in 1991 and 2001|
+|**Existence of deposit insurance**|Temporary blanket guarantee of<br>depositors startingin 1997|
+|Sources:_Bloomberg; World Bank Global Financial Development Database; World Bank_<br>_Deposit Insurance Dataset; Cull, Martinez Peria, and Verrier 2018._||
+
+
+
+
+## **I. Overview** 
+
+## **Background** 
+
+Leading up to 1997, Thailand experienced an extended period of strong growth. Between 1980 and 1995, average economic growth was 8.2% per year (BOT 1997a). However, warning signs began to appear in 1996 when the Bangkok Bank of Commerce (BBC) “collapsed under the weight of nonperforming property loans that amounted to nearly half of its US $7.2 billion of assets” after fraudulent activities were exposed (Leightner 1999). The Bank of Thailand (BOT) seized control of the BBC in May 1996, and the authorities pursued legal action against the bank (BOT 1997a). The BOT governor resigned soon after the scandal (Pura 1997). At the same time, export growth, which had averaged 19% per year between 1990 and 1995, declined to zero (BOT 1997a). The combination of the BBC scandal and the contraction in exports led to foreign pressure on the baht. 
+
+Short-term foreign capital inflows rose rapidly in the mid-1990s in response to market liberalization and relatively high domestic interest rates (Leightner 1999). Those capital inflows helped spur 25% annual growth in commercial bank lending between 1990 and 1995, particularly for real estate projects (BOT 1997a). A property bubble ensued but began to show signs of weakening in 1996, when a major property developer was unable to meet a foreign debt payment (Devakula 2002b). On March 9, 1997, the Bank of Thailand established the Property Loan Management Organization (PLMO) to buy nonperforming property loans from financial institutions (FIs) and work with debtors to restructure loan terms (BOT 1997a; 1997b; Nabi and Shivakumar 2001). This organization was not considered successful and did not address the growing nonperforming loan (NPL) problem (Kawai and Takayasu 1999). Turmoil in the Thai economy continued. There was a run by depositors of finance companies (FCs)[3] in late April and early May; in June, the Thai authorities suspended[4] the operations of 16 FCs (Sharma 2003; World Bank 2006). 
+
+Thailand’s current account deficit grew in early 1997 as pressure on the baht mounted (Leightner 1999). The International Monetary Fund (IMF) recommended that the Thai government allow more exchange rate flexibility or devalue the baht.[5] Officials disregarded the advice and attempted to contain the foreign exchange crisis. According to the World Bank, the BOT “intervened, massively and secretly, in the foreign exchange market to support the baht,” but in doing so, the BOT depleted its foreign exchange reserves (World Bank 2006). On July 2, Thailand floated the baht, and the value dropped from 25 baht per dollar to 30.32 baht per dollar the same day (Nabi and Shivakumar 2001). The decline in the 
+
+> 3 Finance companies (FCs) were nonbank financial institutions that raised funds through public issuances of promissory notes, negotiable certificates of deposit, and bills of exchange, and through loans and overdrafts from banks. Finance companies often engaged in riskier lending than commercial banks (Kawai and Takayasu 1999), as their borrowers often had been turned down by banks (Leightner 1999). 
+
+> 4 Suspensions differed from closure, as a suspension was temporary and the resumption of operations was contingent on an acceptable recapitalization plan. Closure was permanent and involved liquidation. 
+
+> 5 Thailand had been under a pegged exchange rate regime since World War II (BOT 2015). 
+
+
+value of the baht significantly impacted Thai corporations, especially those that borrowed “freely and imprudently” from abroad without hedging for currency risk (Devakula 2002b). 
+
+On August 5, 1997, the BOT suspended an additional 42 FCs. After requesting assistance from the IMF, Thailand and the IMF reached an agreement in August 1997 (World Bank 2006). The financing package was worth $17.2 billion (Nabi and Shivakumar 2001, 20). The package had three pillars: financial sector restructuring, fiscal policy, and monetary and exchange rate policy. Financial sector restructuring included deposit guarantees, conditional liquidity support, steps to minimize moral hazard, closure of insolvent financial institutions, and structural reform (Nabi and Shivakumar 2001). 
+
+To manage the 58 suspended FCs, the government established the Financial Sector Restructuring Authority (FRA) and the Asset Management Corporation (AMC). The suspended FCs were required to submit restructuring plans to the FRA by the end of 1997; the FRA approved rehabilitation plans for only two of the companies. The remaining 56 FCs were placed under the control and supervision of the FRA for liquidation and wind-down (BOT 2000a). These FCs represented approximately 14% of the assets in the financial sector (World Bank 2006). The FRA began auctioning the assets in February 1998. The AMC was tasked with the purchase, management, restructuring, or sale of assets from the failed FCs, and it was the “bidder of last resort” at the FRA auctions (BOT 2000a).[6] 
+
+The government also established the Corporate Debt Restructuring Advisory Committee (CDRAC) in June 1998 to address the NPL problem by facilitating debt restructuring negotiations (BOT 2002). The CDRAC initially focused on the largest NPL borrowers (World Bank 2006). By the end of 2002, the CDRAC supported the restructuring of 2.8 trillion baht in NPLs (IMF 2004). In most cases, the CDRAC did not reduce the total debt owed by the borrower to the lender. Rather, CDRAC efforts typically involved “cosmetic restructuring” through methods such as maturity extensions, grace periods, or reduced interest rates (World Bank 2006).[7] As a result, an estimated 15% of restructured loans became nonperforming again during the early years of the program (IMF 2000). 
+
+The Thai government also encouraged private and public financial institutions to establish their own asset management companies to address the high volume of NPLs. Between 1998 and 2002, four state-led AMCs were established for the transfer of nonperforming assets (NPAs) from five state-owned banks.[8] In the private sector, 12 AMCs were established between 1998 and 2001; 10 of the AMCs had the purpose of purchasing NPLs solely from their parent institutions while the other two AMCs could also purchase from other financial institutions. Because the loans transferred to a private bank’s AMC were still reflected on the 
+
+> 6 At the end of the FRA’s operations, in 2002, the FRA had recovered 271 billion baht or 36% of the assets from the closed finance companies (BOT 2002). 
+
+> 7 The CDRAC ceased operations on October 1, 2006; over the course of its operations, it addressed 11,655 cases for a total of 1.5 trillion baht in book value of restructured debt (BOT 2006). 
+
+> 8 The five state-owned banks were Bangkok Bank of Commerce (BBC), United Overseas Bank (UOBR), Krung Thai Bank (KTB), Bangkok Metropolitan Bank (BMB), and Siam City Bank (SCIB). The four decentralized and state-owned AMCs were the Bangkok Commercial Asset Management Company (BAM), Petchburi Asset Management Company (PAM), Sukumvit Asset Management Company (SAM), and Radhanasin AMC (TeradaHagiwara and Pasadilla 2004). 
+
+
+bank’s consolidated financial statements, private banks did not transfer a large portion of their NPLs to the AMCs (Terada-Hagiwara and Pasadilla 2004). As of 2003, only four of the private AMCs had purchased NPLs exceeding 30,000 baht (Santiprabhob 2003; TeradaHagiwara and Pasadilla 2004). Despite the establishment of the decentralized AMCs, NPL growth continued through the first quarter of 1999. NPLs peaked in May 1999, with 47.7% of total loans classified as NPLs (BOT 1999). The pace of debt restructuring slowed around the end of 2000, and the NPL ratio in Thailand remained high (Santiprabhob 2003). 
+
+## **Program Description** 
+
+The Thai Asset Management Company (TAMC) was established in 2001 to resolve the ongoing NPL problem in Thailand (Royal Proclamation 2001).[9] It had no relationship with the previously established Asset Management Corporation, which purchased impaired assets from the failed finance companies. The TAMC was a centralized AMC with the purpose of “managing non-performing loans to facilitate the continued business operations of honest debtors while solving the problems caused by impaired assets of the financial institutions.” Though there were previous efforts to resolve the NPL problem between 1997 and 2001, the NPL problem persisted, as 1.35 trillion baht of NPLs remained, an amount equal to 176.8% of loans from financial institutions (TAMC 2005b).[10] The reentry of previously restructured NPLs contributed to the persistence of the high NPL ratio (TAMC 2005b; World Bank 2006). 
+
+Leading up to the January 2001 election for prime minister, Thaksin Shinawatra campaigned on a platform that included the establishment of a centralized, state-backed AMC. The general public viewed the large quantity of NPLs as an impediment to economic growth. NPLs prevented private financial institutions from extending new credit, as these institutions had to focus on resolving NPLs instead of new business activity. In addition, debt restructuring prevented borrowers from engaging in new business or investing in new projects. Thus, “effective NPL resolution was deemed crucial for the economic recovery to take place, and therefore, became a major policy issue in the general election that took place in January 2001” (Santiprabhob 2003). 
+
+The cabinet formally approved the plan to establish the TAMC on June 5, 2001 (Amorn 2001). The TAMC was established by the Royal Proclamation on Thai Asset Management Company B.E. 2544 (2001), which was enacted by King Bhumibol Adulyadej per the recommendation of the cabinet. The rationale for using a royal decree—which is similar to an executive order—to establish the TAMC was to expedite its establishment to prevent further economic damage or instability (Royal Proclamation 2001).[11] When the program was announced, government officials reported that they expected the TAMC to buy up to 1.35 trillion baht of 
+
+> 9 Translation of the royal decree provided by Cynthia Pornavalai. The decree was translated by the Bangkok Business and Secretarial Office. All references to the decree are references to the English language translation. 10 The exchange rate in Thailand in 2001 was approximately 45 baht per $1 USD (Monetary Policy Group of the Bank of Thailand 2001, 2.14.1). 
+
+> 11 In Thailand, an emergency decree or royal proclamation is a law that is enacted by the king upon the advice of the cabinet and subject to parliamentary approval as soon as possible. 
+
+
+nonperforming loans from banks, of which 1.1 trillion baht would come from state-owned banks (Amorn 2001). 
+
+Operational concerns led to a revision of the process set forth in the royal decree for valuing the property collateral of assets transferred by private financial institutions and AMCs (Santiprabhob 2003). Under the royal decree, the TAMC would have valued land collateral based on the reference prices used by the Land Department in the calculation of land transfer fees (Pornavalai 2002). The government amended the decree in September to use valuation methods approved by the Bank of Thailand instead (Amendment 2001; Santiprabhob 2003). The amendment was established on September 25, 2001 (Amendment 2001). The TAMC accepted the first tranche of assets on October 15, 2001 (TAMC 2001a). 
+
+The TAMC had five missions: (1) rapid, transparent, and efficient management of impaired assets; (2) management of impaired assets in a manner that brought maximum public benefit; (3) minimization of government and taxpayer losses; (4) facilitation of business rehabilitation to enable borrowers to continue business; and (5) equal and fair treatment to all parties in the management of assets (TAMC 2005c). 
+
+The TAMC’s initial funding was from the Financial Institution Development Fund (FIDF) (Pornavalai 2002). The FIDF, a subsidiary of the BOT, had the authority to provide assistance to troubled financial institutions through liquidity injections, the purchase of capital shares, and the guaranteeing of deposits (BOT 2000b).[12] The TAMC issued 10-year bonds to the selling institutions in exchange for assets; these bonds were nontransferable and guaranteed by the FIDF (Santiprabhob 2003). The initial capital for the TAMC was 1 billion baht, and capital increases were allowed after approval from the cabinet (Royal Proclamation 2001). The Ministry of Finance (MOF) had direct oversight over the TAMC. The TAMC board of directors included government officials and industry representatives. It was responsible for setting the policies and for general supervision of the TAMC’s activities (TAMC 2005c). The TAMC also had an executive committee, which was responsible for overseeing the management of impaired assets and approving restructuring plans (Royal Proclamation 2001; TAMC 2005c). 
+
+State-owned financial institutions and AMCs were required to transfer all loans classified as substandard or below as of December 31, 2000, to the TAMC. Private financial institutions and AMCs were required to transfer NPLs to the TAMC for relatively large, multi-creditor loans (Royal Proclamation 2001). For the state-owned banks and AMCs, the purchase price was the value of the collateral excluding personal guarantees. The TAMC board was responsible for determining the pricing methodology for assets without collateral. For private banks and AMCs, the purchase price was the lesser of either the value of the collateral excluding personal guarantees or the book value of the NPLs less the applicable reserves (Pornavalai 2002). 
+
+> 12 The FIDF was established as an independent entity in 1985 (BOT 2000b). The FIDF was managed by the fund management committee, which comprised the BOT governor as the chairman, the secretary of the finance ministry as the deputy chairman, and nine committee members (BOT 2000b). 
+
+
+The TAMC had explicit rules for profit and loss sharing with the transferring institution, as transferring institutions were jointly liable with the TAMC for profits or losses on the impaired assets transferred. At the end of the fifth and 10th years of operation, the TAMC calculated the profit or loss on assets transferred by individual financial institutions, based on a predefined methodology in the royal decree (Royal Proclamation 2001). Profits for the transferring institution were capped at the difference between the book value and transfer price, and losses were capped at 30% of the transfer price (Terada-Hagiwara and Pasadilla 2004). In the case of a loss, the transferring institution could offset its loss through the FIDFguaranteed bonds or by issuing ordinary shares to the TAMC (Royal Proclamation 2001). 
+
+The TAMC had broad authority, as it had a “flexible and powerful framework for the management and resolution of distressed loans” (IMF 2001). To manage and dispose of its portfolio, the TAMC could restructure debt, coordinate business restructuring, or ultimately sell the underlying collateral. The TAMC established eligibility criteria for borrowers to be candidates for debt restructuring and business restructuring, which emphasized business continuity and viability. If business restructuring or debt restructuring failed or if the borrower was deemed nonviable, the TAMC could utilize foreclosure and the sale of collateral assets as a “final resort” (TAMC 2005c). Unlike those of other state agencies, the actions and decisions of the TAMC could not be challenged in court, and the TAMC staff had immunity against criminal liability (Santiprabhob 2003). 
+
+The royal decree included provisions for the wind-down of the TAMC. After seven years of operations, the TAMC was required to begin planning to discontinue operations and liquidate. The royal decree specified that the TAMC was to cease operations 10 years after it was established, in June 2011. The TAMC was to complete liquidation by 2013 (Royal Proclamation 2001). 
+
+## **Outcomes** 
+
+In 2001, there was some initial resistance to the establishment of the TAMC and its broad authority within the Thai legislature. A group of 100 senators petitioned the Constitutional Court, arguing that the TAMC was granted too much power to prevent debtors from appealing restructuring plans from the TAMC (Kazmin 2001). In addition, there were concerns about the method for valuing collateral, which led to an amendment of the royal decree in September 2001 (Amendment 2001). 
+
+The TAMC cleared “the constitutional hurdles” and began accepting asset transfers in October 2001 (Pornavalai 2002). The TAMC accepted its first transfer of impaired assets on October 15, 2001, a total of 264 billion baht in book value of assets from nine state-owned institutions (TAMC 2001a). In its first year of operations, the TAMC accepted three tranches of assets worth approximately 700 billion baht in book value (TAMC 2001c). After the first year of operations, the managing director of the TAMC was replaced, as the prime minister expressed disappointment with the performance of the TAMC (Tang 2002). 
+
+
+Over the course of its operations, approximately 780 billion baht in assets were transferred from financial institutions and AMCs to the TAMC (BOT 2003; 2006).[13] The TAMC acquired most of its assets in the early months of its operations, with approximately 760 billion baht (of 780 billion baht) transferred by the end of 2002 (BOT 2002). The average transfer price was 34% of book value as of December 2003; thus, the TAMC spent approximately 265 billion baht to acquire 780 billion baht in book value of impaired assets (BOT 2003).[14] 
+
+State-owned financial institutions and AMCs accounted for the majority of assets transferred to the TAMC. As of December 2003, 81% of the book value of transferred assets came from state-owned institutions. Loans tied to the manufacturing or real estate sectors accounted for more than 62% of the total book value of assets transferred to the TAMC (BOT 2003). 
+
+To manage its portfolio of impaired assets, the TAMC first attempted debt restructuring or business restructuring. By 2004, approximately 69% of assets had been addressed via debt restructuring or business restructuring (BOT 2004). Installment payments, debt-to-equity conversions, and the transfer of assets to repay debt were the most utilized methods. As of 2003, the average haircut for debt restructuring was 38% of book value. The expected recovery rate for debt restructuring and business restructuring cases was 47%. In certain occasions, the TAMC outsourced the management of loans to other banks or AMCs, such as Krung Thai Bank (KTB) or Bangkok Commercial Asset Management Company (BAM), as these institutions “[had] the nationwide networks and resources to manage [the] small debtors scattered throughout the country” (BOT 2003). 
+
+In its last year of operations, the TAMC sought to accelerate the disposal of assets. Though the agency’s president, Churairat Panyarachun, said that the last year of operations would “be quite difficult, as the remaining assets [were] not that attractive,” the TAMC attempted to expedite the sale of remaining assets. The TAMC coordinated monthly auctions and road shows across Thailand to meet its sales target (Katharangsiporn 2010). In its final year, the TAMC launched a special price campaign (the “Last Price” campaign) to accelerate the disposal of assets (Chantanusornsiri 2011; Prachyakorn 2010). Between January and May 2011, the TAMC sold 13 billion baht, compared to 19.5 billion baht in all of 2010 (Katharangsiporn 2011). Additionally, the TAMC traveled to meet with debtors outside the Bangkok region to renegotiate debt repayment schedules or interest rates to expedite debt repayment before the TAMC ceased operations (TAMC 2011). The TAMC ceased operations on June 8, 2011 (Katharangsiporn 2011). 
+
+The royal decree establishing the TAMC required that the TAMC submit a liquidation plan to the cabinet in its seventh year of operations (Royal Proclamation 2001). The TAMC presented its dissolution preparation plan to the Ministry of Finance in June 2008 and held 
+
+> 13 The BOT did not disclose the TAMC’s activities in its annual Supervision Report after 2006. Therefore, the estimates for the total assets transferred are based on the totals reported in 2003 (781 billion baht), 2004 (777 billion baht), 2005 (777 billion baht), and 2006 (775 billion baht). See BOT Supervision Reports for the annual disclosures. 
+
+> 14 The BOT did not disclose the total amount spent by the TAMC on the acquisition of assets, but the average transfer price was 34% of book value. Therefore, it can be estimated that the total amount spent on 780 billion baht in book value of assets was 265 billion baht (BOT 2003). 
+
+
+meetings with 23 transferring institutions regarding the profit- and loss-sharing arrangement (TAMC 2010). The original transferring institution had the first right to repurchase assets remaining on the TAMC’s balance sheet; anything remaining was then purchased by the BAM or Sukhumvit Asset Management Company (SAM), two state-owned AMCs (TAMC 2010; USDC 2011). However, it does not appear that the MOF disclosed detailed information about the repurchase of assets by transferring institutions or other activities related to the liquidation of the TAMC.[15] 
+
+## **II. Key Design Decisions** 
+
+**1. Part of a Package: The TAMC was not a part of the government’s initial response to the financial crisis in 1997, as it was established in 2001 as a measure to address the high remaining volume of NPLs that had not been resolved by decentralized AMCs and other interventions.** 
+
+The TAMC was established in 2001, four years after the onset of the financial crisis in Thailand (TAMC 2005b). In 1997, the Thai government suspended the operations of 58 finance companies and required them to submit rehabilitation plans by year’s end (Lindgren et al. 1999). Only two companies were allowed to continue operations; the remaining 56 FCs were liquidated by the Financial Sector Restructuring Authority (BOT 2000a). The stateowned Asset Management Corporation was established to be the “bidder of last resort” for the FRA (BOT 2000a). 
+
+The Thai government established the Corporate Debt Restructuring Advisory Committee in June 1998 to “facilitate and expedite private debt restructuring negotiations” (BOT 2002). In addition, the Thai government committed public funds to recapitalize viable banks and finance companies by establishing two schemes to provide capital support to viable financial institutions (Lindgren et al. 1999). Amendments to the bankruptcy law were passed in April 1998 and May 1999 to further promote effective corporate restructuring (IMF 2000). In addition, the Thai government encouraged private and state-owned financial institutions to establish AMCs in the years following the crisis; overall, four state-owned AMCs and 12 private AMCs were established (Terada-Hagiwara and Pasadilla 2004). 
+
+The Thai authorities opted for the initial decentralized approach to resolving NPLs— primarily through the establishment of individual AMCs and the CDRAC—because of concerns about operational difficulties and “potential political interference” in the operations of a centralized AMC. But the decentralized approach was unsuccessful for a variety of reasons. Decentralized AMCs didn’t have the authority to bypass court procedures, limiting their ability to improve collections. Some state-bank AMCs overpaid for assets because the government’s goal was to recapitalize them. At the same time, private banks had 
+
+> 15 According to BAM’s 2012 Annual Report, it purchased 135.4 billion baht in NPLs and NPAs from the TAMC in 2012, and 33.6% of its portfolio of distressed assets came from the TAMC by December 2012 (BAM 2012; BAM 2013). Though SAM does not appear to have a public annual report, it reported an asset transfer worth 352 billion baht from the TAMC in 2012; this transfer included 330 billion baht in NPLs and 22 billion baht in NPAs (Chudasri 2012). 
+
+
+little incentive to transfer NPLs to AMCs that they still had to consolidate. Under guidelines on the transfer of financial assets, a financial institution was required to hold capital against the NPLs and the AMC bonds used to purchase the bonds, which resulted in a “double counting of required capital” (Santiprabhob 2003). By 2001, NPLs in the Thai financial system remained high at 1.35 trillion baht. The government established the TAMC as a centralized AMC to replace the decentralized approach with a more aggressive strategy to address the persistence of the NPL problem (TAMC 2005b). 
+
+## **2. Legal Authority: The Thai government established the TAMC via a royal decree in order to expedite its establishment.** 
+
+The Thai cabinet established the TAMC by the Royal Proclamation on Thai Asset Management Company B.E.2544 (2001), which was published in the _Royal Thai Government Gazette_ . The king, Bhumibol Adulyadej, signed the decree into law, and the minister of finance was given “the charge and control of the execution of the royal decree” (Royal Proclamation 2001). The decree became effective on June 9, 2001 (Amorn 2001; Royal Proclamation 2001; TAMC 2005b). The TAMC was established by a royal decree in order to expedite its establishment, as the decree allowed it to bypass debate and discussion in the parliament ( _Thai News Service_ 2001b). Prior to the passage of the royal decree, the prime minister convened a conference with representatives from the Ministry of Finance, the Bank of Thailand, state-owned and private institutions, and academics (TAMC 2005b). A working committee and four task forces were established after the conference in order to oversee and design the framework for the TAMC ( _Thai News Service_ 2001a). The task forces included authorities from the Bank of Thailand, the Financial Institution Development Fund, the Thai Bankers’ Association (representing commercial banks), the Bank of Asia (a commercial bank), and the MOF. The taskforces were responsible for planning the general administration, asset management, debt repayment, and pricing frameworks ( _Thai News Service_ 2001a). 
+
+**3. Special Powers: The TAMC was granted special legal powers and immunity in its operations: staff were granted immunity from criminal liability; its decisions could not be challenged in court; it could place a debtor into permanent receivership if the debtor attempted to mislead or failed to comply with the TAMC; and it could make decisions without shareholder or creditor approval.** 
+
+The royal decree establishing the TAMC provided it with special legal authority and powers to achieve its objectives. The TAMC had “extraordinary powers to liquidate, restructure and dispose of assets” (Kazmin 2001). The actions and decisions of the TAMC could not be challenged in the Central Administration Court. TAMC staff were granted immunity against criminal liability if they acted within the mandate of the royal decree. The TAMC could withdraw cases from the court and proceed with a different restructuring method. The TAMC could put debtors into permanent receivership without investigation if the debtor attempted to hide assets or failed to cooperate with the TAMC. The TAMC’s plans for business restructuring could be approved by the Bankruptcy Court without the approval of debtors. The TAMC could make decisions in lieu of a company’s shareholders and could bypass procedures set forth in the public company law (Santiprabhob 2003). 
+
+
+## **4. Mandates: The TAMC was established to manage impaired assets, restructure debt, and assist with business reorganization.** 
+
+Despite the establishment of individual AMCs for state-owned and private financial institutions, NPL levels remained high at the end of 2001 (Santiprabhob 2003). The TAMC was established to address the high NPL ratio with the specific mandate to manage impaired assets from financial institutions and AMCs. Debt restructuring and business reorganization were further objectives of the TAMC to advance the economic recovery in Thailand (Royal Proclamation 2001). 
+
+Specifically, the TAMC had five stated objectives: (1) rapid, transparent, and efficient management of impaired assets; (2) management of impaired assets in a manner that brought maximum public benefit; (3) minimization of government and taxpayer losses; (4) facilitation of business rehabilitation to enable borrowers to continue business; and (5) equal and fair treatment to all parties in the management of assets (TAMC 2005c). 
+
+**5. Communications: The TAMC was a key component of Prime Minister Thaksin Shinawatra’s electoral campaign and was framed as a necessary agency to addressing the NPL crisis to accelerate economic recovery.** 
+
+In the 2001 prime minister election, Thaksin Shinawatra ran on a platform that included the establishment of a centralized, state-backed asset management company (Government of Thailand 2001; Kazmin 2001; Santiprabhob 2003). The TAMC was considered a key component of Shinawatra’s campaign and a contributing factor to his victory (AFP 2001; Kazmin 2001). The electorate viewed the quantity of NPLs as an obstruction to economic growth as those loans prevented new credit and business investment, delaying economic recovery in Thailand (Santiprabhob 2003). After taking office, Shinawatra outlined his key policy priorities, which included the establishment of a national AMC in order to “comprehensively solve the problem of Non-Performing Loans (NPLs) in the commercial banking system swiftly, systematically, [and] comprehensively and to enable the financial system to resume their normal credit functions” (Government of Thailand 2001). The TAMC was framed as a “last chance” to resolve the NPL crisis in Thailand, as other measures had already been attempted (Pornavalai 2002). 
+
+The BOT governor in 2001 stated that the TAMC would enable more effective management and disposal of distressed assets, though it had the potential to increase fiscal costs; however, the costs would be “manageable” and “not abnormal in terms of international comparison” (Sonakul 2001). His successor framed the TAMC as a body able to “deal effectively and speedily with the unresolved debts that involve[d] multiple creditors.” He stated that the TAMC had “vast executive powers” that allowed it “to take a comprehensive approach to debt restructuring and have the ability to deal with cases that might warrant corporate restructuring and change of management” (Devakula 2001). In addition to statements from government officials, the TAMC prepared promotional materials in which it framed its operations as benefiting the Thai economy; these materials included a manual, which stated that the “TAMC provides real and tangible benefits to debtors, financial institutions, and asset management companies, [and] to Thai society and the overall national 
+
+
+economy.” The TAMC emphasized that its activities would allow banks to return to normal lending practices, “providing the necessary engine for growth and national development as well as economic recovery” (TAMC 2005c). 
+
+In addition to public statements from government officials and promotional materials, the TAMC issued press releases and announcements, annual reports, and other financial statements. 
+
+## **6. Ownership Structure: The TAMC was owned by the Financial Institution Development Fund, a separate legal entity that was part of the BOT.** 
+
+The TAMC was fully owned by the Financial Institution Development Fund (Pornavalai 2002). The FIDF was established in 1985 as a subsidiary of the BOT “to rehabilitate financial institutions to maintain stability in the financial system” (BOT 2000b). The FIDF purchased the initial 1 billion baht in share capital of the TAMC. The TAMC issued 10-year bonds that were used as consideration for the transfer of assets; these bonds were nontransferable and guaranteed by the FIDF. To increase capital, the TAMC could issue new shares, which required cabinet approval; any unsold shares were to be purchased by the FIDF (Royal Proclamation 2001; Fung et al. 2004). 
+
+**7. Governance/Administration (1): The TAMC had a board of directors responsible for setting policies and an executive committee responsible for the processes related to the management of impaired assets; the MOF had oversight authority over the TAMC.** 
+
+The minister of finance had the “charge and control of the execution” of the TAMC. The minister of finance was responsible for appointing up to 11 board members, who were approved by the cabinet. The board was required to have a representative from the Thai Bankers’ Association, the Chamber of Commerce, and the Federation of Thai Industries. The board set the policies, regulations, guidelines, and framework for the TAMC (Royal Proclamation 2001). The board was required to review plans and provide recommendations and comments for cases with a book value of more than 1 billion baht, as “these cases [were] usually sensitive and [had] significant impact on the economy” (BOT 2002). 
+
+The TAMC also had an executive committee, which was responsible for the management of impaired assets. The executive committee was composed of a CEO and three executive directors. The MOF, BOT, FIDF, Federation of Thai Industries, Chamber of Commerce, and private institutions nominated individuals to serve on the executive committee; the board appointed executive directors from the list of nominees. The board elected the managing director, who oversaw the administration of the TAMC. The executive committee reviewed and approved plans for debt restructuring, business reorganization, and asset sales. The executive committee monitored the TAMC’s progress, appointed and hired staff, secured capital sources and reorganization partners for the debtors, and reported the results of operations to the board (Royal Proclamation 2001). In 2002, the TAMC board approved an additional 130 staff roles, for a total of 330 staff (TAMC 2002). At the end of its operations, the TAMC had 400 staff (Katharangsiporn 2011). 
+
+
+## **8. Governance/Administration (2): The TAMC established risk management procedures and regular audits and posted information about its performance and auctions on its website.** 
+
+The minister of finance was able to “assign the Bank of Thailand to examine the business, the assets and the liabilities of the TAMC” (Royal Proclamation 2001). However, the BOT was not able to take supervisory action against the TAMC (Fung et al. 2004). The TAMC followed accounting standards and established internal controls and an auditing system. The TAMC was required to prepare financial statements every six months. The state auditor of Thailand was to audit the TAMC every six months and provide the results to the minister of finance (Royal Proclamation 2001). The TAMC was evaluated annually by an international accounting firm (Fung et al. 2004). In 2004, the TAMC board of directors established a risk management subcommittee to develop “a risk management system that [could] identify, measure, control and monitor risks in accordance with corporate governance principles” (TAMC 2005a). 
+
+The TAMC was required to act in a transparent way and ensure availability of its reports and progress (Royal Proclamation 2001). The TAMC had a website where annual reports, press releases, FAQs, and other resources were available; in addition, the website had a platform that allowed for the user to search for property (TAMC 2005b). Before an auction, the TAMC was required to post information in the press and on its website. Despite these measures, analysis of the TAMC’s operations noted that the TAMC had not disclosed detailed information on its operations (Santiprabhob 2003). 
+
+**9. Size: There was no predefined size for the TAMC, though it was initially estimated that it would acquire 1.3 trillion baht of bad debt.** 
+
+The royal decree establishing the TAMC did not explicitly state a predefined size or limit to the TAMC’s purchasing (Royal Proclamation 2001). The initial expectation for the TAMC’s scope was 1.35 trillion baht of bad debt, with the majority coming from state-owned banks (Kazmin 2001; TAMC 2005b). In total, the TAMC acquired 780 billion baht) in assets at book value for a transfer price of approximately 265 billion baht. 
+
+**10. Funding Source: The TAMC received its initial capital of 1 billion baht from the FIDF, which also guaranteed the bonds issued as consideration for transferred assets, but there was a profit- and loss-sharing mechanism that limited the government’s exposure to losses.** 
+
+The FIDF provided the TAMC with initial capital of 1 billion baht (Santiprabhob 2003). In exchange for assets, the TAMC issued 10-year bonds that were nontransferable and fully guaranteed by the FIDF. These bonds paid yearly interest at a rate no higher than the average interest rate paid by a selection of five large commercial banks (Royal Proclamation 2001). Under the Royal Proclamation, there was also a detailed profit- and loss-sharing arrangement that shared the prospective losses and profits on the management and disposal of transferred assets with the transferring financial institution. 
+
+
+## **11. Eligible Institutions: Both private and state-owned financial institutions and asset management companies were eligible to transfer NPLs to the TAMC.** 
+
+Institutions eligible to transfer assets to the TAMC included financial institutions and asset management companies. Eligible financial institutions included commercial banks, finance companies (including those operating a securities business), credit foncier companies (mortgage loan companies), and others determined by the MOF. The private and stateowned AMCs established after the financial crisis in 1997 were also eligible to transfer assets. Financial institutions or AMCs in which a state agency (i.e., FIDF) had more than 50% ownership were required to transfer all assets that were classified as substandard and below as of December 31, 2000, to the TAMC (Royal Proclamation 2001). In 2002, the MOF announced that the Industrial Finance Corporation in Thailand was eligible to transfer assets (BOT 2002). Trade creditors and non-Thai banks were ineligible to transfer assets to the TAMC (Pornavalai 2002). 
+
+**12. Eligible Assets: State-owned financial institutions and AMCs were required to transfer all assets classified as substandard and below as of December 31, 2000, to the TAMC. Privately owned financial institutions were required to transfer assets meeting a more stringent set of criteria.** 
+
+All state-owned financial institutions and AMCs were required to transfer all assets classified as impaired as of December 31, 2000, to the TAMC. The impaired assets included those that were classified as bad, possibly bad, doubtful or substandard (Royal Proclamation 2001). Substandard assets were those more than three months past due (Santiprabhob 2003). 
+
+Private financial institutions and asset management companies were required to transfer NPLs to the TAMC if they met the following criteria: 
+
+- The loans were secured by property; 
+
+- The borrower was indebted to two or more Thai financial institutions; 
+
+- The borrower had 5 million baht or more in NPLs; 
+
+- The borrower and financial institution did not have a finalized debt restructuring agreement in writing by July 2001; and 
+
+- The Bankruptcy Court had not approved a rehabilitation plan (Pornavalai 2002; Royal Proclamation 2001; Santiprabhob 2003). 
+
+Ineligible assets included those related to the FRA’s activities or from companies the MOF suspended. Assets that became nonperforming after December 31, 2000, were not eligible for transfer to the TAMC (TAMC 2005c). 
+
+Institutions that did not transfer eligible assets to the TAMC faced a penalty (Royal Proclamation 2001; Santiprabhob 2003). If a financial institution failed to transfer the assets as directed by the TAMC, the institution was subject to a daily fine of 500,000 baht. Furthermore, private institutions that did not transfer assets were required by the Bank of Thailand to reappraise the collateral backing NPLs within 120 days (Royal Proclamation 2001). As an additional incentive to transfer, the institutions were required to provision for 
+
+
+all loans classified as substandard and below 90 days after the appraisal up to their uncollateralized portion; this provisioning was more stringent than the standard provisioning requirement by the BOT. Despite these penalties, by the end of 2001, the TAMC’s purchases of NPLs from private financial institutions comprised only 15% of their total outstanding NPLs (Santiprabhob 2003). 
+
+**13. Acquisition – Mechanics: To initiate a sale, the transferring institution submitted a request to the TAMC. Assets were sorted into tranches, based on the number of creditors, institution type, and amount of outstanding debt, and the TAMC issued FIDF-guaranteed bonds as consideration for the impaired assets.** 
+
+As a part of the process to transfer NPLs to the TAMC, an institution was required to provide written notice to the TAMC and complete the transfer in the timeframe specified by the TAMC. Asset transfers were irrevocable. The TAMC was required to issue evidence of the transfer of the impaired assets to the transferring institution; the transfer was considered effective on the date the TAMC issued evidence to the transferring institution (Royal Proclamation 2001). 
+
+The TAMC issued FIDF-guaranteed bonds in exchange for the impaired assets. These bonds had a 10-year maturity and carried an interest rate that was no greater than the average interest rate paid by a select group of five large commercial banks. The interest on these bonds was paid yearly (Royal Proclamation 2001). The BOT allowed the transferring institution to record these instruments “as eligible liquid assets as of the date of receipt of these notes” (BOT 2001). 
+
+The TAMC accepted asset transfers in tranches (Fung et al. 2004). The TAMC announced that the first transfer of assets occurred on October 15, 2001; this tranche consisted of assets that had a borrower with at least 50 million baht in outstanding debt and with a state-owned institution as the single creditor (TAMC 2001a). The second tranche of assets was transferred on October 31, 2001, and included debt from borrowers with more than two creditors and assets from both state-owned and privately owned financial institutions (TAMC 2001b). The third tranche of assets was transferred on November 30, 2001, and included the rest of the assets with two or more creditors. The total book value of assets transferred at the end of the first year was approximately 700 billion baht (TAMC 2001c). The majority of assets transferred to the TAMC were transferred in 2001 in one of the first three tranches, and the TAMC had executed the transfer of five tranches of assets by 2003 (Fung et al. 2004; TAMC 2001c). 
+
+**14. Acquisition – Pricing (1): The purchase price for assets from state-owned institutions was equal to the collateral value, while the purchase price for assets from private institutions was the lesser of either the collateral value or the book value of the NPLs less the applicable reserves.** 
+
+For the purchase of assets from state-owned institutions, the purchase price was “equivalent to the value of assets that is the security of the said impaired assets, excluding personal guaranty. In case there is no property held as security, the price shall be according to the 
+
+
+bases laid down by the Board” (Royal Proclamation 2001). For the purchase of assets from private institutions, the purchase price was the lesser of either the collateral value excluding personal guarantees or the book value of the NPLs less applicable reserves. The book value was defined as the “principal amount of the loan as at the date of transfer, together with accrued interest for the three-month period prior to the transfer date” (Pornavalai 2002). For the assets backed by real estate collateral, the pricing amendment enacted in September 2001 required that the property valuation be in accordance with the methodology used by the Bank of Thailand (see the Key Design Decision No. 15, below) (Amendment 2001). 
+
+At the time of a transfer, the TAMC provided an initial price estimate but evaluated the information accuracy to ensure proper pricing. The TAMC was required to notify the transferring institution that it accepted the transfer or of any amendments to pricing within 180 days. At the end of 2001, the average transfer price for assets from private institutions was 53% of book value and 29% for state-owned institutions (TAMC 2001c). 
+
+## **15. Acquisition – Pricing (2): The initial valuation method for real estate collateral was amended before the TAMC began operations.** 
+
+The government amended the valuation method for real estate collateral from private institutions in September 2001 and published the amendment in the _Royal Thai Government Gazette_ . In the original version of the royal decree, the valuation for the land was equal to the price determined by the Land Department in its assessment for tax purposes. However, the Land Department did “not have the assessed price according to market price principle for all plots of land.” There was concern that submitting appraisal requests for the collateral property would add time to the transfer process, significantly delaying the timeframe of the TAMC and hindering economic recovery (Amendment 2001). Furthermore, the original pricing principle “reflected the authorities’ limited knowledge about asset valuation and on the capability of the Land Department” (Santiprabhob 2003). Thus, the pricing method for the purchase of assets from private institutions was amended to conform to the BOT’s standards (Amendment 2001). 
+
+## **16. Acquisition – Pricing (3): The TAMC and the transferring financial institutions entered into profit- and loss-sharing agreements on the portfolio of transferred assets.** 
+
+The Royal Proclamation establishing the TAMC outlined the profit- and loss-sharing arrangement between the TAMC and the transferring institutions, specifying that the transferring institution and the TAMC would be jointly liable for the profits or losses on the management of transferred assets. The TAMC took operating expenses into account when calculating the profits or losses (Royal Proclamation 2001). 
+
+In the case of a profit, the profit was allocated between the TAMC and the transferring institution as outlined in Figure 1 below. 
+
+
+[FIGURE id=vol3_iss2_25_f1 type=figure label="Figure 1" file=figure_1.png caption="Distribution of profits between TAMC and transferring financial institutions"]
+### **Figure 1: Distribution of profits between TAMC and transferring financial institutions**
+
+||**Amount of Profit**|**Profit Distribution**|
+|---|---|---|
+|1|Equal to first 20% of transfer price or less|Equal sharing between TAMC (10%) and<br>transferring institution (10%)|
+|2|Difference between book value and<br>transfer price less the profit allocated to<br>the transferringinstitution from(1)|100% allocation to the transferring<br>institution|
+|3|Any remaining profit|100% allocation to the TAMC|
+
+
+
+_Source: Royal Proclamation 2001._ 
+
+If there was a loss on the disposal of an asset, the loss was shared between the TAMC and the transferring financial institution as outlined in Figure 2 below. 
+
+[FIGURE id=vol3_iss2_25_f2 type=figure label="Figure 2" file=figure_2.png caption="Distribution of losses between TAMC and transferring financial institutions"]
+### **Figure 2: Distribution of losses between TAMC and transferring financial institutions**
+
+||**Amount of Loss**|**Loss Distribution**|
+|---|---|---|
+|1|Equal to first 20% of transfer price or less|100% allocation to the transferring<br>institution|
+|2|Equal to or less than the second 20%<br>portion of the transfer price|Equal<br>sharing<br>between<br>TAMC<br>and<br>transferring institution|
+|3|Any remaining loss|100% allocation to the TAMC|
+
+
+
+_Source: Royal Proclamation 2001._ 
+
+Therefore, a transferring institution’s profits were capped at the difference between book value and transfer price, and its losses were capped at 30% of the transfer price. The TAMC and the transferring institutions calculated and recognized the profits on the management of assets at the end of the fifth and 10th years of the TAMC’s operations (Royal Proclamation 2001). 
+
+## **17. Management and Disposal (1): The TAMC had broad authority to use debt restructuring as a method to address the NPLs of viable borrowers.** 
+
+Debt restructuring was a primary tool for the TAMC to resolve its portfolio of impaired assets. The TAMC emphasized debt restructuring as a resolution method because “[t]he main objective of the process is to maintain the viability of the debtor’s business” while still allowing the TAMC to recover “an appropriate amount of debt within a reasonable period”. The TAMC had “broad authority to achieve its objective” in debt restructuring. Laws related to debt restructuring were waived for the TAMC. In order to be eligible for debt restructuring, the borrower had to be able to demonstrate the ability to repay, business viability, or benefit to the economic recovery of Thailand (TAMC 2005c). 
+
+
+The TAMC had the flexibility to determine the method or combination of methods based on the debtor’s circumstances and the complexity of the case (TAMC 2005c). The methods available to the TAMC for debt restructuring included the following: 
+
+- Reduction in principal, interest, interest rate, and time period for interest computation; 
+
+- Extension of debt repayment period; 
+
+- Debt-to-equity conversion; 
+
+- Acceptance of the transfer of noncollateral assets (from the debtor or a third party) to settle a debt; 
+
+- Debt repayment via a leaseback arrangement with the debtor; 
+
+- Acceptance of shares or purchase of capital to increase shares of the debtor; 
+
+- Release from or termination of the liability; or 
+
+- Any other methods that the board approved (Royal Proclamation 2001; TAMC 2005c). 
+
+The Royal Proclamation granted the TAMC additional special powers to release debtors from indebtedness. “If the debtor pledge[d] additional unencumbered assets with at least the same value as the outstanding debts, [the TAMC could] remove any remaining obligation from the debtor’s guarantor.” The TAMC could also release the debtors from their liability if the guarantor agreed to transfer assets with an appraised value of at least two-thirds of the value of the debtor’s total outstanding debts after the debt restructuring process (TAMC 2005c). 
+
+The BOT reported that “[t]he installment payment method was utilized the most [by the TAMC] as it offered more flexibility to debtors.” The TAMC also frequently utilized debt-toequity conversions and accepted the transfer of assets as a form of debt repayment. The average haircut for debt restructuring cases was 38% as of December 2003 (BOT 2003). 
+
+## **18. Management and Disposal (2): The TAMC facilitated business restructuring for viable debtors to manage its portfolio of nonperforming loans.** 
+
+Business reorganization was a tool available to the TAMC to manage its portfolio of impaired assets. Business reorganization could improve a borrower’s viability through “more efficient management and a streamlining of its organization structure” (TAMC 2005c). 
+
+In order to be eligible for business reorganization, the borrower had to meet the following criteria: 
+
+- The borrower was a limited company, a public limited company, or a juristic partnership; 
+
+- The TAMC held at least 50% of the total outstanding debt of the borrower; 
+
+- The borrower had preliminary evidence to support business continuation and viability; and 
+
+
+- The borrower expressed written intent and consent to the obligations and plan specified by the TAMC and the royal decree (Royal Proclamation 2001). 
+
+The TAMC could facilitate business reorganization independently or in tandem with debt restructuring. The original creditors and asset managers were involved in the restructuring process (BOT 2002). The executive committee appointed a planner who began to arrange and organize a business reorganization plan for the borrower. The plan was required to include “the particulars, methods and targets, period of plan administration, and other details.” Business reorganization plans were limited to five years (Royal Proclamation 2001). 
+
+The TAMC had broad powers to facilitate business reorganization and could organize mergers, consolidations, dissolution of a part of the business, capital increases or reductions, rehabilitation by a third party, and change of management (Royal Proclamation 2001; Santiprabhob 2003; TAMC 2005c). The TAMC could also enter into joint ventures and hold shares in companies, as long as the arrangement had both “clear objectives” and enabled the TAMC to “add value to and facilitate the management of assets for sale by TAMC” (TAMC 2005c). If a business restructuring plan continued to the end of its term, “the debtor and guarantor [would] be released from any remaining loan obligations” (Santiprabhob 2003). 
+
+## **19. Management and Disposal (3): The TAMC had the authority to foreclose on collateral for nonviable borrowers, but for viable borrowers, the TAMC first attempted debt restructuring or business restructuring.** 
+
+For viable debtors, the TAMC first attempted debt restructuring or business reorganization. However, if it was determined that the borrower was unable to repay the debt or that the borrower’s business was not sustainable, the TAMC was able to, “as a final resort,” sell the assets. The TAMC had the authority to collect and enforce loans with property as collateral (TAMC 2005c). 
+
+The TAMC hired four independent asset managers to support debtors whose cases were under foreclosure or final receivership. The TAMC managed assets received through foreclosure, final receivership, or debt repayment through the transfer of assets by adopting an asset-type-based strategy. For “complete and saleable projects,” the TAMC sold the assets through its website, public auctions, or in partnership with other institutions. For unfinished real estate projects with high potential, the projects were developed in cooperation with the private sector through joint ventures, property funds, or special purpose vehicles that enhanced the value of the property For low-income housing projects, the development was to be completed in coordination with government agencies like the National Housing Authority (BOT 2003). 
+
+In order to enforce the sale of collateral, the TAMC was required to send a notice to the borrower notifying them of the decision to enforce the debt and requiring full repayment within one month (TAMC 2005c). The TAMC was required to inform the borrower that the failure to repay allowed the TAMC to dispose of the property (Royal Proclamation 2001). If the debt was not repaid, the TAMC then determined the liquidation method. If the assets were to be transferred to the TAMC, the TAMC had an appraisal done on the property to 
+
+
+determine the amount to be credited against the borrower’s outstanding debt (TAMC 2005c). If the TAMC decided to proceed with the sale of the asset, the TAMC organized a public auction to sell the property; the TAMC was required to provide advance notice to the public regarding the auction. If the TAMC determined that an alternate method “would be more beneficial to TAMC and the debtor, it [could] choose to dispose of the property by other method, or it [could] accept the transfer of the said property at a price not lower than the price receivable from the sale by public auction in lieu of the disposal” (Royal Proclamation 2001). 
+
+## **20. Timeframe: The TAMC was required to cease operating after 10 years and fully liquidate after 12 years.** 
+
+The decree that established the TAMC required it to be wound down 10 years after its establishment and fully liquidated 12 years after its establishment (Royal Proclamation 2001). Seven years after it began operations, the TAMC proposed a liquidation plan to the MOF and discussed profit- and loss-sharing arrangements with transferring financial institutions (TAMC 2010). A liquidation committee was appointed upon the decision to dissolve and liquidate the TAMC (Royal Proclamation 2001). 
+
+To liquidate the remaining portfolio of the TAMC, the original transferring institution had the first right to purchase the assets it transferred (USDC 2011). Any remaining assets were purchased by the Sukhumvit Asset Management Company or the Bangkok Commercial Asset Management Company (USDC 2011). SAM and BAM were two state-owned AMCs that were established in the aftermath of the 1997 financial crisis (Santiprabhob 2003). BAM purchased 135.4 billion baht in impaired assets from the TAMC in 2012 (BAM 2012). In 2012, SAM reported asset transfers worth 330 billion baht in bad loans and 22 billion baht in NPAs from the TAMC (Chudasri 2012). 
+
+## **III. Evaluation** 
+
+When the TAMC was established, there were a few vocal critics who raised concerns in the press. The former finance minister, Tarrin Nimmanahaeminda, who “strongly opposed setting up a consolidated asset management company during his own tenure,” argued that the TAMC would become “a house for an inventory of things to be kicked around” (Kazmin 2001). Some worried that the TAMC would be “a bailout for the rich at the expense of ordinary taxpayers” (Pura 1997). Others worried that the TAMC had “excessive and arbitrary” powers and were concerned that the borrowers did not have the ability to appeal the restructuring plans from the TAMC. Another critique reported in press coverage at the time was the “worry that the TAMC [would] end up as a means for powerful debt defaulters to be restructured at public expense” (Kazmin 2001). A senator was concerned that “the ‘rotten debts’ to be transferred to the TAMC would come mainly from companies run by people connected with incumbent politicians, including Prime Minister Thaksin Shinawatra” ( _Business Day_ 2001). An economist from the Standard Chartered Bank in Singapore was concerned that the TAMC would encourage Thai banks to “lend largely irrespective of the 
+
+
+credit-worthiness of the debtors,” meaning that the banks “might fall back on former habits” (Chen 2001). 
+
+However, media coverage also included positive outlooks for the TAMC. The establishment of the TAMC “was applauded by the investment community, with brokers, fund managers and rating agencies all saying that the formation of the asset-management corporation may speed up the corporate debt restructuring and may provide the basis for a long-term recovery in ratings of Thai banks” (Pandey 2001). The economic adviser to the prime minister claimed that the TAMC was “off to a good start” and that the TAMC had accepted more than half of the NPLs in the banking system as of 2002 (Khanna 2002.). 
+
+During the first year of operations, the TAMC was “under political pressure to restructure a large amount of NPLs in no time” as the TAMC set the goal to resolve 500 billion baht in loans by the end of 2002. Given the short timeframe to resolve a large volume of loans, some were concerned that the TAMC would “incur substantial public costs” and would unfairly benefit certain debtors (Santiprabhob 2003). 
+
+The IMF evaluated the TAMC’s operations as of 2004 and found that the progress of the TAMC and its impact on the resolution of NPLs and economic recovery were unclear. The IMF team recognized that “the restructuring progress by the AMC has been impressive. Of the [761 billion baht] transferred to the TAMC, resolution of [535 billion baht] worth of assets (or 70% of total) have been approved by the Executive Committee.” However, the IMF team continued that “[t]he initial picture of substantial progress is less clear once more detailed information about the resolution process is analyzed. Of the 795 debt restructuring cases, only 294 cases have been signed by the debtors, and almost two thirds of the cases under this heading still have some way to go before a final agreement can be reached.” The IMF team argued that “[i]n order to evaluate the progress of the TAMC, more information will have to be disclosed on a frequent basis.” The authors also evaluated the success of the TAMC by examining the cash recoveries, which amounted “to around [8 billion baht] or 1.5% of the [535 billion baht] book value of all the ‘resolved’ cases” (IMF 2004). 
+
+Another criticism of the TAMC’s structure was its inability to purchase more broadly from private institutions, which decreased its effectiveness in addressing the NPL problem. Of the NPLs transferred to the TAMC, approximately 81% were from state-owned institutions, primarily SAM and PAM. The TAMC had purchased a total of 137 billion baht from private institutions by the end of June 2002 (Santiprabhob 2003. The “[s]tricter than expected conditions for private commercial banks to transfer their loans to the TAMC” prevented the TAMC from being effective at addressing the bad loan problems in private banks (Kazmin 2001). The TAMC could not purchase NPLs with a previous court ruling or restructuring agreements; because the TAMC was set up four years after the onset of the crisis, “the majority of NPLs on the balance sheets of private FIs had either been restructured or achieved a court ruling,” which meant that the structure of the TAMC limited its effectiveness in addressing NPLs in private banks (Santiprabhob 2003). In 2001, the IMF predicted that the TAMC would not have a significant impact on private banks, given that private banks had a “fairly small share of the total loans eligible for transfer” (IMF 2001). The governor of the BOT recognized that “a substantial share of distressed assets remain[ed] outside the purview 
+
+
+of the TAMC” and called for additional action to expedite debt restructuring through reformations to the bankruptcy law (Devakula 2002a). Furthermore, it was argued that “[t]he lack of success with private banks is mainly due to the fact that the TAMC’s offer price is generally below what is acceptable to private banks” (Sharma 2003). 
+
+Others worried that the TAMC prolonged NPL resolution, as it accepted assets from stateowned AMCs that were already established and working to resolve the NPLs. Veerathai Santiprabhob, who later became governor of the BOT, argued that the “TAMC not only failed to assist private FIs in eliminating their NPL burden, but also contributed to the delay in the restructuring of NPLs that had already been transferred to PAM and SAM” (2003). The resolution of NPLs from state-owned banks was fragmented, as the establishment of the TAMC “severely disrupted” resolution procedures due to the uncertainty of the timeline and procedures surrounding the TAMC, which led to “further asset deterioration.” Santiprabhob also argued that the TAMC “increased FIs’ workload markedly, especially during the initial stage.” 
+
+Another problem facing the TAMC was its staffing and reliance on the transferring financial institutions for addressing restructuring tasks. The TAMC had a limited staff composed of former BOT officials, which led to “severely limited” asset management capabilities. Furthermore, the TAMC appointed the institution that had the largest loan outstanding to a debtor as the lead asset manager for that debtor, and they often relied on these lead asset managers for restructuring. The responsibilities of lead asset managers were initially ambiguous and only agreed upon in March 2002. The TAMC also failed to sufficiently incentivize the lead asset managers to maximize the recovery of assets. The TAMC was explicitly prohibited from paying fees or reimbursing private financial institutions for asset management activities. Therefore, for many of the lead asset managers, their only incentive was to minimize their expected losses under the loss-sharing arrangement (Santiprabhob 2003). 
+
+The World Bank released a “Project Performance Assessment Report” in 2006 that evaluated the effectiveness of the loans made to Thailand in response to the 1997 financial crisis. In the evaluation, the World Bank authors expressed concern about the lack of transparency in the TAMC’s resolution operations, and specifically addressed “the need for more information about actual and projected cash recoveries from all types of resolution procedures.” At the time of the evaluation, the TAMC had projected a 46.28% recovery rate of the book value, but the cash recoveries had thus far been 2.5% of the “resolved” cases. In order to decrease the burden transferred to the public, the World Bank called for “more careful monitoring” of cash flows (World Bank 2006). 
+
+In a 2004 analysis of the experience of Asian AMCs, Akiko Terada-Hagiwara and Gloria Pasadilla evaluated the moral hazard effects of AMCs on the lending behavior of Thai banks. The authors evaluated Thailand because it adopted various AMC regimes, specifically decentralized privately owned, decentralized state-owned, and centralized state-owned AMCs. They found that the effect of the TAMC was significant, implying that fewer NPLs were created under the TAMC as the economy improved. The authors concluded that the TAMC “work[ed] to decrease the new NPL ratio, presumably due to better control measures 
+
+
+addressing potential moral hazard effects on banks” in comparison to the decentralized AMC structures (Terada-Hagiwara and Pasadilla 2004). 
+
+In 2016, Masahiro Inoguchi from Ritsumeikan University evaluated the performance of the TAMC and estimated its effectiveness at reducing the number of NPLs in Thailand. He compared the effectiveness of Danaharta in Malaysia with the TAMC in Thailand and concluded that “selling loans to public asset management companies was effective in reducing NPL, especially in Thailand.” The author found that the TAMC had a significant negative effect on the number of NPLs and concludes that “the purchase of loans by TAMC may [have reduced] the NPL ratio of Thai commercial banks” because the TAMC had a greater impact on the number of NPLs than on the total number of loans. Inoguchi recognized that the improvement in macroeconomic conditions also improved the NPL ratio in Thailand. Without the TAMC, “solving the NPL problem would have largely depended on the general improvement in macroeconomic conditions,” which implies that the macroeconomic policy “may have played an important role in resolving the NPL problem” (Inoguchi 2016). 
+
+## **IV. References** 
+
+Act Amending Royal Proclamation on Thai Asset Management Company B.E. 2544 (Amendment). 2001. Thai Ministerial Information Bulletin No. 9245. November 1, 2001. https://ypfs.som.yale.edu/library/act-amending-royal-proclamation-thai-assetmanagement-company-be-2544-2001. 
+
+Agence France-Presse (AFP). 2001. “Thai Asset Management Company to Begin Debt Transfer in July.” June 25, 2001. https://ypfs.som.yale.edu/library/thai-asset-management-company-begin-debt-transferjuly. 
+
+Amorn, Vithoon. 2001. “Thai Asset Management Company Plan Approved.” _Reuters News_ . June 5, 2001. https://ypfs.som.yale.edu/library/thai-asset-management-company-plan-approved. 
+
+Bangkok Commercial Asset Management Company (BAM). 2012. “Annual Report 2012.” December 31, 2012. 
+
+https://ypfs.som.yale.edu/library/bam-annual-report-2012. 
+
+———. 2013. “Annual Report 2013.” December 31, 2013. https://ypfs.som.yale.edu/library/bam-annual-report-2013 
+
+Bank of Thailand (BOT). 1997a. “Supervision Report 1996/7.” https://ypfs.som.yale.edu/library/supervision-report-19967. 
+
+———. 1997b. “Thai Authorities Take a Major Step to Resolve Property Loan Problems.” Report No. 13/1997. March 11, 1997. https://ypfs.som.yale.edu/library/thai-authorities-take-major-step-resolve-property-loanproblems. 
+
+———. 1999. _Annual Economic Report 1999_ . Bangkok: Bank of Thailand https://ypfs.som.yale.edu/library/annual-economic-report-1999. 
+
+
+———. 2000a. “Supervision Report 2000.” Bangkok: Bank of Thailand. https://ypfs.som.yale.edu/library/supervision-report-2000. 
+
+———. 2000b. “Announcement of FIDF’s History and Financial Position.” May 12, 2000. https://ypfs.som.yale.edu/library/announcement-fidfs-history-and-financial-position. 
+
+———. 2001. _Annual Economic Report 2001_ . Bangkok: Bank of Thailand. https://ypfs.som.yale.edu/library/bot-annual-economic-report. 
+
+———. 2002. “Supervision Report 2001-2002.” Bangkok: Bank of Thailand. https://ypfs.som.yale.edu/library/supervision-report-2002. 
+
+———. 2003. “Supervision Report 2003.” Bangkok: Bank of Thailand. https://ypfs.som.yale.edu/library/supervision-report-2003. 
+
+———. 2004. “Supervision Report 2004.” Bangkok: Bank of Thailand. https://ypfs.som.yale.edu/library/supervision-report-2004. 
+
+———. 2006. “Supervision Report 2006.” Bangkok: Bank of Thailand. https://ypfs.som.yale.edu/library/supervision-report-2006. 
+
+———. 2006. “Development of the Monetary Policy Framework in Thailand.” Bangkok: Bank of Thailand. https://ypfs.som.yale.edu/library/development-monetary-policy-frameworkthailand. 
+
+_Business Day_ . 2001. “TAMC Must Not Be Used as a Tool for the Politically Connected.” October 4, 2001. https://ypfs.som.yale.edu/library/tamc-must-not-be-used-tool-politically-connected. 
+
+Chantanusornsiri, Wichit (2011). “Everything Must Go.” _Bangkok Post_ , January 26, 2011. https://ypfs.som.yale.edu/library/everything-must-go 
+
+Chen, Jennifer. 2001. “Southeast Asia Spends Today, Worries Tomorrow.” _Reuters News_ , August 3, 2001. https://ypfs.som.yale.edu/library/southeast-asia-spends-today-worries-tomorrow. 
+
+Chudasri, Darana. 2012. “SAM Allots B3bn for Dud Finances.” _Bangkok Post_ , April 6, 2012. https://ypfs.som.yale.edu/library/clone-southeast-asia-spends-today-worries-tomorrow. 
+
+Cull, Robert, Maria Soledad Martinez Peria, and Jeanne Verrier. 2018. “Bank Ownership: Trends and Implications.” World Bank Policy Research Working Paper No. 8297, January 2018. 
+
+https://ypfs.som.yale.edu/library/bank-ownership-trends-and-implications. 
+
+Devakula, Pridiyathorn. 2001. “Monetary Policy in Thailand: Current Challenges and Prospects.” Speech delivered at the 2001 Asia Pacific Finance Association annual conference, Bangkok, July 24, 2001. https://ypfs.som.yale.edu/library/monetary-policy-thailand-current-challenges-andprospects. 
+
+———. 2002a. “Outlook for 2002 and the Road Ahead.” Speech delivered to the Foreign Banks Association, Bangkok, March 6, 2002. https://ypfs.som.yale.edu/library/outlook-2002-and-road-ahead. 
+
+
+———. 2002b. “Thailand’s Emergence from the Crisis – New Paradigm for Sustainable Growth.” Speech delivered at the International Conference on Economic Recovery and Reforms, Bangkok, October 28, 2002. 
+
+https://ypfs.som.yale.edu/library/thailands-emergence-crisis-new-paradigm-sustainablegrowth. 
+
+Fung, Ben, Jason George, Stefan Hohl, and Guonan Ma. 2004. “Public Asset Management Companies in East Asia: A Comparative Study.” Bank for International Settlements, Financial Stability Institute Occasional Paper No. 3, February 2004. 
+
+https://ypfs.som.yale.edu/library/public-asset-management-companies-east-asia. 
+
+Government of Thailand. 2001. “Policy of the Government of H.E. Prime Minister Thaksin Shinawatra.” Speech delivered to the National Assembly, Bangkok, February 26, 2001. https://ypfs.som.yale.edu/library/policy-government-he-prime-minister-thaksinshinawatra-delivered-national-assembly-monday. 
+
+Inoguchi, Masahiro. 2016. “Nonperforming Loans and Purchase of Loans by Public Asset Management Companies in Malaysia and Thailand.” _Pacific Economic Review_ 21, no. 5: 603– 31. 
+
+https://ypfs.som.yale.edu/library/nonperforming-loans-and-purchase-loans-public-assetmanagement-companies-malaysia-and. 
+
+International Monetary Fund (IMF). 2000. “Thailand: Selected Issues.” IMF Staff Country Report No. 00/21, March 3, 2000. https://ypfs.som.yale.edu/library/thailand-selected-issues-0. 
+
+———. 2001. “Thailand: Selected Issues.” IMF Staff Country Report No. 01/147, August 20, 2001. 
+
+https://ypfs.som.yale.edu/library/thailand-selected-issues-2. 
+
+———. 2004. “Thailand: Selected Issues.” IMF Staff Country Report No. 04/1, January 9, 2004. https://ypfs.som.yale.edu/library/thailand-selected-issues-1. 
+
+Katharangsiporn, Kanana. 2010. “TAMC Sets Revenue Target at B32bn.” _Bangkok Post_ , February 2, 2010. https://ypfs.som.yale.edu/library/tamc-sets-revenue-target-b32bn. 
+
+———. 2011. “TAMC Closes Doors with B10bn Profit.” _Bangkok Post_ , June 9, 2011. https://ypfs.som.yale.edu/library/tamc-closes-doors-b10bn-profit. 
+
+Kawai, Masahiro and Ken-ichi Takayasu. 1999. “The Economic Crisis and Financial Sector Restructuring in Thailand.” In _Rising to the Challenge in Asia: A Study of Financial Markets Volume 11–Thailand_ , 37–103. Manila: Asian Development Bank. https://ypfs.som.yale.edu/library/economic-crisis-and-financial-sector-restructuringthailand. 
+
+Kazmin, Amy. 2001. “Thai Banks Ready to Hand Over Burden of Bad Loans.” _Financial Times_ , September 26, 2001. https://ypfs.som.yale.edu/library/thai-banks-ready-hand-over-burden-bad-loans. 
+
+Khanna, Vikram. 2002. “Thai Bad Debt Agency off to Good Start – PM’s Adviser.” _Business Times Singapore_ , June 14, 2002. https://ypfs.som.yale.edu/library/thai-bad-debt-agency-good-start-pms-adviser. 
+
+
+Leightner, Jonathan E. 1999. “Globalization and Thailand’s Financial Crisis.” _Journal of Economic Issues_ 33, no. 2 (June): 367–73. https://ypfs.som.yale.edu/library/globalization-and-thailands-financial-crisis. 
+
+Lindgren, Carl-Johan, Tomás J.T. Baliño, Charles Enoch, Anne-Marie Gulde, Marc Quintyn, and Leslie Teo. 1999. _Financial Sector Crisis and Restructuring: Lessons from Asia_ . Washington, DC: International Monetary Fund. 
+
+https://ypfs.som.yale.edu/library/financial-sector-crisis-and-restructuring-lessons-asia-0. 
+
+Monetary Policy Group of the Bank of Thailand. 2001. _Thailand’s Economic and Monetary Conditions in 2001._ Bangkok: Bank of Thailand. https://ypfs.som.yale.edu/library/thailandseconomic-and-monetary-conditions-2001 
+
+Nabi, Ijaz, and Jayasankar Shivakumar. 2001. _Back from the Brink: Thailand’s Response to the 1997 Economic Crisis_ . Washington, DC: World Bank. https://ypfs.som.yale.edu/library/back-brink-thailands-response-1997-economic-crisis. 
+
+Pandey, Umesh. 2001. “Thai Government Sets Up Asset Manager to Absorb $31.02 Billion in Bad Loans.” _Wall Street Journal_ , March 12, 2001. 
+
+https://ypfs.som.yale.edu/library/thai-government-sets-asset-manager-absorb-3102billion-bad-loans. 
+
+Pornavalai, Cynthia M. 2002. “Thai Asset Management Corporation: Objectives and Powers.” _International Business Lawyer_ 30, no. 4 (April 2002): 174–85. https://ypfs.som.yale.edu/library/thai-asset-management-corporation-objectives-andpowers. 
+
+Prachyakorn, Pornnalat. 2010. “TAMC Near Full-Year Target.” _Bangkok Post,_ July 3, 2010. https://ypfs.som.yale.edu/library/tamc-near-full-year-target. 
+
+Pura, Raphael. 1997. “Thailand Considers Overhaul of Bangkok Bank of Commerce.” _Wall Street Journal_ , March 27, 1997. https://ypfs.som.yale.edu/library/thailand-considers-overhaul-bangkok-bank-commerce. 
+
+Royal Proclamation on Thai Asset Management Corporation B.E. 2544 (2001). 2001. Ministerial Information Bulletin No. 9223. August 6, 2001. https://ypfs.som.yale.edu/library/royal-proclamation-thai-asset-managementcorporation-be-2544-2001. 
+
+Santiprabhob, Veerathai. 2003. _Lessons Learned from Thailand’s Experience with Financial Sector Restructuring_ . Bangkok: Thailand Development Research Institute. https://ypfs.som.yale.edu/library/lessons-learned-thailands-experience-financial-sectorrestructuring. 
+
+Sharma, Shalendra D. 2003. “Thailand: Crisis, Reform, and Recovery.” In _The Asian Financial Crisis_ , 66–122. Manchester: Manchester University Press. https://ypfs.som.yale.edu/node/20508. 
+
+Sonakul, M.R. Chatu Mongol. 2001. “Trends and Prospects of Thailand’s Banking and Financial Sector and Its Impacts on the Thai Economy.” Speech delivered at the seminar on Thailand’s Special Industrial Development Zone, Berlin, May 4, 2001. 
+
+https://ypfs.som.yale.edu/library/trends-and-prospects-thailands-banking-and-financialsector-and-its-impacts-thai-economy. 
+
+
+Tang, Edward. 2002. “Job of Reducing Thai Debt Goes to Investment Banker.” _Straits Times_ , September 6, 2001. 
+
+https://ypfs.som.yale.edu/library/job-reducing-thai-debt-goes-investment-banker. 
+
+Terada‐Hagiwara, Akiko, and Gloria Pasadilla. 2004. “Experience of Asian Asset Management Companies: Do They Increase Moral Hazard?—Evidence from Thailand.” Asian Development Bank, Economics and Research Department Working Paper No. 55. September 2004. https://ypfs.som.yale.edu/library/experience-asian-asset-management-companies-dothey-increase-moral-hazard-evidence-thailand. 
+
+Thai Asset Management Company (TAMC). 2001a. “Press Release.” October 16, 2001. https://ypfs.som.yale.edu/library/thai-asset-management-company-press-release. 
+
+———. 2001b. “Press Release.” November 1, 2001. https://ypfs.som.yale.edu/library/thai-asset-management-company-press-release-0. 
+
+———. 2001c. “Press Release.” December 3, 2001. https://ypfs.som.yale.edu/library/thai-asset-management-company-press-release-1. 
+
+———. 2002. “Press Release.” May 8, 2002. https://ypfs.som.yale.edu/library/thai-asset-management-company-press-release-2. 
+
+———. 2005a. Website: “Risk Management Principles and Reports.” https://ypfs.som.yale.edu/library/risk-management-principles-and-reports. 
+
+———. 2005b. Website: “TAMC History.” https://ypfs.som.yale.edu/library/tamc-history. 
+
+———. 2005c. Website: “TAMC Manual.” https://ypfs.som.yale.edu/library/tamc-manual. 
+
+———. 2010. “Press Release.” February 1, 2010. https://ypfs.som.yale.edu/library/thai-asset-management-company-press-release-3. 
+
+———. 2011. “Press Release.” March 3, 2011. https://ypfs.som.yale.edu/library/thai-asset-management-company-press-release-4. 
+
+_Thai News Service_ . 2001a. “Four Taskforces Set Up to Study Details on TAMC.” March 21, 2001. 
+
+https://ypfs.som.yale.edu/library/four-taskforces-set-study-details-tamc. 
+
+———. 2001b. “Government Puts Establishment of TAMC on Fast Track.” April 21, 2001. https://ypfs.som.yale.edu/library/government-puts-establishment-tamc-fast-track. 
+
+US Department of Commerce (USDC). 2011. _Doing Business in Thailand: 2011 Commercial Guide for US Companies_ . Washington, DC: Department of Commerce, International Trade Administration. 
+
+https://ypfs.som.yale.edu/library/doing-business-thailand-2011-country-commercialguide-us-companies. 
+
+World Bank. 2006. “Project Performance Assessment Report.” World Bank Report No. 35051. January 31, 2006. https://ypfs.som.yale.edu/library/project-performance-assessment-report. 
+
+
+## **V. Key Program Documents** 
+
+## **Summary of Program** 
+
+Thai Asset Management Corporation: Objectives and Powers (Pornavalai 2002) _An article in a law journal about the TAMC’s legal authority and powers._ https://ypfs.som.yale.edu/library/thai-asset-management-corporation-objectives-andpowers. 
+
+## **Legal/Regulatory Guidance** 
+
+Act Amending Royal Proclamation on Thai Asset Management Company B.E. 2544 (Amendment 2001) 
+
+_The amendment to the TAMC Act that modified the valuation method for real estate collateral_ . https://ypfs.som.yale.edu/library/act-amending-royal-proclamation-thai-assetmanagement-company-be-2544-2001. 
+
+Doing Business in Thailand: 2011 Commercial Guide for US Companies (USDC 2011) _A report from the US Department of Commerce for US businesses on navigating the Thai legal environment._ 
+
+https://ypfs.som.yale.edu/library/doing-business-thailand-2011-country-commercialguide-us-companies. 
+
+Policy of the Government of H.E. Prime Minister Thaksin Shinawatra (Government of Thailand 2001) 
+
+_An outline of the major economic policy pillars of the prime minister._ https://ypfs.som.yale.edu/library/policy-government-he-prime-minister-thaksinshinawatra-delivered-national-assembly-monday. 
+
+Royal Proclamation on Thai Asset Management Corporation B.E. 2544 (Royal Proclamation 2001) 
+
+_The royal decree that established the TAMC_ . https://ypfs.som.yale.edu/library/royal-proclamation-thai-asset-managementcorporation-be-2544-2001 _._ 
+
+## **Press Releases/Announcements** 
+
+Announcement of FIDF’s History and Financial Position (BOT 2000b) 
+
+_A document that overviews the creation and history of the FIDF._ https://ypfs.som.yale.edu/library/announcement-fidfs-history-and-financial-position. 
+
+Monetary Policy in Thailand: Current Challenges and Prospects (Devakula 2001) 
+
+_A speech from the BOT governor on the challenges and opportunities in the Thai economy_ . https://ypfs.som.yale.edu/library/monetary-policy-thailand-current-challenges-andprospects. 
+
+Outlook for 2002 and the Road Ahead (Devakula 2002a) 
+
+_A speech from the BOT governor on the challenges and opportunities in the Thai economy in 2002 and beyond_ . 
+
+https://ypfs.som.yale.edu/library/monetary-policy-thailand-current-challenges-andprospects. 
+
+
+Thai Authorities Take a Major Step to Resolve Property Loan Problems (BOT 1997b) 
+
+_A press release from the BOT announcing an organization to address the problem property loans._ 
+
+https://ypfs.som.yale.edu/library/thai-authorities-take-major-step-resolve-property-loanproblems. 
+
+Thailand’s Emergence from the Crisis – New Paradigm for Sustainable Growth (Devakula 2002b) 
+
+_A speech from the BOT governor on the challenges and opportunities in the Thai economy in 2002 and beyond_ . https://ypfs.som.yale.edu/library/thailands-emergence-crisis-new-paradigm-sustainablegrowth. 
+
+Trends and Prospects of Thailand’s Banking and Financial Sector and Its Impacts on the Thai Economy (Sonakul 2001) 
+
+_A speech from an economic policymaker on the Thai financial system and its connection to the real economy._ 
+
+https://ypfs.som.yale.edu/library/trends-and-prospects-thailands-banking-and-financialsector-and-its-impacts-thai-economy. 
+
+## **Media Stories** 
+
+Four Taskforces Set Up to Study Details on TAMC ( _Thai News Service_ 2001a) _An article announcing the government’s establishment of taskforces for the TAMC_ . https://ypfs.som.yale.edu/library/four-taskforces-set-study-details-tamc. 
+
+Government Puts Establishment of TAMC on Fast Track ( _Thai News Service_ 2001b) 
+
+_An article announcing the government’s plan to expedite the establishment of the TAMC_ . https://ypfs.som.yale.edu/library/four-taskforces-set-study-details-tamc. 
+
+Job of Reducing Thai Debt Goes to Investment Banker (Tang 2002) 
+
+_An article from the_ Straits Times _about the leadership of the TAMC_ . https://ypfs.som.yale.edu/library/job-reducing-thai-debt-goes-investment-banker. 
+
+SAM Allots B3bn for Dud Finances (Chudasri 2012) 
+
+_An article from the_ Bangkok Post _about an AMC that acquired residual assets from the TAMC_ . https://ypfs.som.yale.edu/library/clone-southeast-asia-spends-today-worries-tomorrow. 
+
+Southeast Asia Spends Today, Worries Tomorrow (Chen 2001) 
+
+_A Reuters News article about the financial crisis responses in multiple Asian Financial Crisis countries._ 
+
+https://ypfs.som.yale.edu/library/southeast-asia-spends-today-worries-tomorrow. 
+
+## TAMC Closes Doors with B10bn Profit (Katharangsiporn 2011) 
+
+_An article in the_ Bangkok Post _describing the TAMC’s goals for its last year of operations._ https://ypfs.som.yale.edu/library/tamc-sets-revenue-target-b32bn. 
+
+TAMC Must Not Be Used as a Tool for the Politically Connected ( _Business Day_ 2001) 
+
+_An article from_ Business Day _arguing that the TAMC should not be used only for the politically connected._ 
+
+https://ypfs.som.yale.edu/library/tamc-must-not-be-used-tool-politically-connected. 
+
+
+TAMC Near Full-Year Target (Prachyakorn 2010) 
+
+_An article from the_ Bangkok Post _about the TAMC’s progress toward its goals in its last years of operations._ 
+
+https://ypfs.som.yale.edu/library/tamc-near-full-year-target. 
+
+TAMC Sets Revenue Target at B32bn (Katharangsiporn 2010) 
+
+_An article in the_ Bangkok Post _describing the TAMC’s goals for its last year of operations._ https://ypfs.som.yale.edu/library/tamc-sets-revenue-target-b32bn. 
+
+Thai Asset Management Company Plan Approved (Amorn 2001) 
+
+_A Reuters News article announcing the approval of the TAMC_ . https://ypfs.som.yale.edu/library/thai-asset-management-company-plan-approved. 
+
+Thai Asset Management Company to Begin Debt Transfer in July (AFP 2001) 
+
+_An article from the Agence France-Presse announcing the launch of the TAMC._ https://ypfs.som.yale.edu/library/thai-asset-management-company-begin-debt-transferjuly. 
+
+Thai Bad Debt Agency off to Good Start – PM’s Adviser (Khanna 2002) 
+
+_An article from the_ Business Times Singapore _with a statement from a top economic policymaker about the progress of the TAMC_ . https://ypfs.som.yale.edu/library/thai-bad-debt-agency-good-start-pms-adviser. 
+
+Thai Banks Ready to Hand Over Burden of Bad Loans (Kazmin 2001) 
+
+_An article from the_ Financial Times _about the launch of the TAMC._ https://ypfs.som.yale.edu/library/thai-banks-ready-hand-over-burden-bad-loans. 
+
+Thai Government Sets Up Asset Manager to Absorb $31.02 Billion in Bad Loans (Pandey 2001) 
+
+_An article from the_ Wall Street Journal _outlining the TAMC and its expected impact on the economy_ . https://ypfs.som.yale.edu/library/thai-government-sets-asset-manager-absorb-3102billion-bad-loans. 
+
+Thailand Considers Overhaul of Bangkok Bank of Commerce (Pura 1997) 
+
+_An article from the_ Wall Street Journal _on the turmoil in the Bangkok Bank of Commerce_ . https://ypfs.som.yale.edu/library/thailand-considers-overhaul-bangkok-bank-commerce. 
+
+## **Key Academic Papers** 
+
+— Experience of Asian Asset Management Companies: Do They Increase Moral Hazard? - Evidence from Thailand (Terada Hagiwara and Pasadilla 2004) 
+
+_An academic paper evaluating the impact of the TAMC on moral hazard behavior of banks in Thailand_ . 
+
+https://ypfs.som.yale.edu/library/experience-asian-asset-management-companies-dothey-increase-moral-hazard-evidence-thailand. 
+
+Financial Sector Crisis and Restructuring: Lessons from Asia (Lindgren et al. 1999) _An IMF report on the Asian Financial Crisis and the various government responses to the crisis._ https://ypfs.som.yale.edu/library/financial-sector-crisis-and-restructuring-lessons-asia-0. 
+
+
+Lessons Learned from Thailand’s Experience with Financial Sector Restructuring (Santiprabhob 2003) 
+
+_A research book on the Thai government’s response to the Asian Financial Crisis, with a chapter devoted to the TAMC._ https://ypfs.som.yale.edu/library/lessons-learned-thailands-experience-financial-sectorrestructuring. 
+
+Nonperforming Loans and Purchase of Loans by Public Asset Management Companies in Malaysia and Thailand (Inoguchi 2016) 
+
+_An academic study on the impact of AMCs on the performance of the Thai and Malaysian economic recoveries and the impact on bank lending_ . https://ypfs.som.yale.edu/library/nonperforming-loans-and-purchase-loans-public-assetmanagement-companies-malaysia-and. 
+
+Public Asset Management Companies in East Asia (Fung et al. 2004) 
+
+_A research paper describing different AMC approaches to the Asian Financial Crisis by East Asian countries._ 
+
+https://ypfs.som.yale.edu/library/public-asset-management-companies-east-asia. 
+
+Thailand: Crisis, Reform, and Recovery (Sharma 2003) 
+
+_A book chapter about the Thai government’s response to the Asian Financial Crisis and the progress through 2003._ https://ypfs.som.yale.edu/library/thailand-crisis-reform-and-recovery. 
+
+The Economic Crisis and Financial Sector Restructuring in Thailand (Kawai and Takayasu 1999) _A book chapter about the restructuring of the Thai financial system in the wake of the Asian Financial Crisis._ https://ypfs.som.yale.edu/library/economic-crisis-and-financial-sector-restructuringthailand. 
+
+## **Reports/Assessments** 
+
+Annual Economic Report 1998 (BOT 1998) 
+
+_The annual report from the BOT describing the Thai economy in 1998 and addressing the government’s response to the Asian Financial Crisis._ https://ypfs.som.yale.edu/library/annual-economic-report-1998. 
+
+Annual Economic Report 1999 (BOT 1999) 
+
+_The annual report from the BOT describing the Thai economy in 1999 and addressing the government’s response to the Asian Financial Crisis._ https://ypfs.som.yale.edu/library/annual-economic-report-1999. 
+
+Annual Economic Report (BOT 2001) 
+
+_The annual report from the BOT outlining economic conditions and central bank and economic policy actions._ https://ypfs.som.yale.edu/library/bot-annual-economic-report. 
+
+Annual Report 2012 (BAM 2012) 
+
+_The annual report from one of the Thai asset management companies that acquired remaining assets after the TAMC ceased operations_ . https://ypfs.som.yale.edu/library/bam-annual-report-2012. 
+
+
+Project Performance Assessment Report (World Bank 2006) 
+
+_An evaluation of the World Bank–supported interventions in Thailand after the Asian Financial Crisis._ https://ypfs.som.yale.edu/library/project-performance-assessment-report. 
+
+Supervision Report 1996/7 (BOT 1997a) 
+
+_The annual report from the BOT that describes the macroeconomic conditions, financial crisis, and government’s initial response to the Asian Financial Crisis_ . https://ypfs.som.yale.edu/library/supervision-report-19967. 
+
+Supervision Report 2000 (BOT 2000a) 
+
+_The annual supervision report from the BOT outlining economic conditions and central bank and economic policy actions_ . https://ypfs.som.yale.edu/library/supervision-report-2000. 
+
+- Supervision Report 2001 2002 (BOT 2002) 
+
+_The annual supervision report from the BOT outlining economic conditions and central bank and economic policy actions._ https://ypfs.som.yale.edu/library/supervision-report-2002. 
+
+Supervision Report 2003 (BOT 2003) 
+
+_The annual supervision report from the BOT outlining economic conditions and central bank and economic policy actions._ https://ypfs.som.yale.edu/library/supervision-report-2003. 
+
+Supervision Report 2004 (BOT 2004) 
+
+_The annual supervision report from the BOT outlining economic conditions and central bank and economic policy actions._ https://ypfs.som.yale.edu/library/supervision-report-2004. 
+
+Supervision Report 2006 (BOT 2006) 
+
+_The annual supervision report from the BOT outlining economic conditions and central bank and economic policy actions_ . https://ypfs.som.yale.edu/library/supervision-report-2006 
+
+Thailand: Selected Issues (IMF 2000) 
+
+_The IMF report on selected economic issues in Thailand in 2000_ . https://ypfs.som.yale.edu/library/thailand-selected-issues-0. 
+
+Thailand: Selected Issues (IMF 2001) 
+
+_The IMF report on selected economic issues in Thailand in 2001_ . https://ypfs.som.yale.edu/library/thailand-selected-issues-2. 
+
+Thailand: Selected Issues (IMF 2004) 
+
+_The IMF report on selected economic issues in Thailand in 2004_ . https://ypfs.som.yale.edu/library/thailand-selected-issues-1. 
+
+Copyright 2021 © Yale University. All rights reserved. To order copies of this material or to receive permission to reprint any or all of this document, please contact the Yale Program on Financial Stability at ypfs@yale.edu.

@@ -1,0 +1,710 @@
+--- Page 1 ---
+Journal of Financial Crises Journal of Financial Crises 
+Volume 2 Issue 3 
+2020 
+The Australian Government Guarantee Scheme for Large Deposits The Australian Government Guarantee Scheme for Large Deposits 
+and Wholesale Funding (Australia GFC) and Wholesale Funding (Australia GFC) 
+Ariel Smith 
+Yale School of Management 
+Follow this and additional works at: https://elischolar.library.yale.edu/journal-of-financial-crises 
+ Part of the Economic History Commons, Finance Commons, and the Macroeconomics Commons 
+Recommended Citation Recommended Citation 
+Smith, Ariel (2020) "The Australian Government Guarantee Scheme for Large Deposits and Wholesale 
+Funding (Australia GFC)," Journal of Financial Crises: Vol. 2 : Iss. 3, 576-592. 
+DOI: https://doi.org/10.17132/2693-3179.1101 
+Available at: https://elischolar.library.yale.edu/journal-of-financial-crises/vol2/iss3/28 
+This Case Study is brought to you for free and open access by the Journal of Financial Crises and 
+EliScholar – A Digital Platform for Scholarly Publishing at Yale. For more information, please contact 
+journalfinancialcrises@yale.edu.
+
+--- Page 2 ---
+READERS TAKE NOTICE: READERS TAKE NOTICE: 
+As of April 2024, the YPFS Resource Library’s site domain has changed 
+to https://elischolar.library.yale.edu/ypfs-financial-crisis-resource-library/. 
+Please be aware that upon clicking any of the URL references to 
+the former Resource Library domains, either https://ypfs.som.yale.edu 
+or https://ypfsresourcelibrary.blob.core.windows.net/, in the 
+"References/Key Program Documents" section of a case study, 
+readers will encounter a "page not found" error. readers will encounter a "page not found" error. 
+Readers can still retrieve a given resource cited within this case study 
+on the new site  by searching by searching here  for the title cited. for the title cited. 
+This case study is available in Journal of Financial Crises: https://elischolar.library.yale.edu/journal-of-financial-
+crises/vol2/iss3/28
+
+--- Page 3 ---
+Australian Government Guarantee Scheme  
+for Large Deposits and Wholesale Funding1 
+ 
+Ariel Smith2 
+Yale Program on Financial Stability Case Study 
+January 16, 2019, revised: October 10, 2020 
+ 
+Abstract 
+The Australian Guarantee Scheme for Large Deposits and Wholesale Funding was developed 
+in 2008 shortly  after the failure of Lehman Brothers. It was designed to foster financial -
+system stability and confidence and to help depository institutions  continue to access 
+funding during a period of volatility. In addition to a guarantee for large deposits, the scheme 
+allowed institution s to apply for a government guarantee for newly issued wholesale 
+liabilities with maturities of up to five years; in return, the institutions paid the government 
+a monthly fee based on their credit rating and the value of the debt guaranteed.  The entire 
+Guarantee Scheme  became operational in November 2008 and closed to new issuance in 
+March 2010 , by  which time 16 institutions had issued about  
+A$166 billion ($108.7 billion) of guaranteed securities. The Guarantee Scheme’s wholesale 
+funding component formally ended in October 2015, a few months after the final guaranteed 
+instrument matured. It incurred no losses, no claims were made against it, and it earned  
+A$4.5 billion ($2.95 billion) in fees for the support provided. 
+Keywords: wholesale funding, government guarantee, ADIs, guaranteed instruments, 
+Australia
+_____________________________________________________________________ 
+1 This case study is part of  the Yale Program on F inancial Stability (YPFS) selection of New Bagehot Project 
+modules considering the responses to the global financial crisis that pertain to  credit guarantee programs. 
+Cases are available from the Journal of Financial Crises  at https://elischolar.library.ya le.edu/journal-of-
+financial-crises/. 
+2Ariel Smith — Research Associate, YPFS, Yale School of Management. 
+576
+
+--- Page 4 ---
+At a Glance  
+In October 2008, the adverse effects of the burgeoning global financial crisis  were limiting 
+the ability of Australian depository 
+institutions to access global long -term 
+wholesale markets, “and what funding  
+occurred was at spreads that were 
+significantly wider than normal,” according 
+to a later analysis by Australian central 
+bank officials (Schwartz and Tan 2016). 
+On Oc tober 12, 2008, the Australian 
+government announced the creation of a  
+scheme that  included guarantee 
+arrangements for depository institution 
+funding: the Australian Guarantee Scheme 
+for Large Deposits and Wholesale Funding. 
+It became operational on November 28, 
+2008. Eligible i nstitutions could access a 
+government guarantee for their wholesale 
+liabilities with maturities of up to five years 
+(less in the case of foreign bank branches). 
+In exchange for the government guarantee, 
+institutions paid the government a monthly 
+fee based on their credit rating and the 
+value of the debt guaranteed (Reserve Bank 
+of Australia 2013 ; Schwartz 2010 ; 
+Schwartz and Tan 2016). 
+As similar schemes were simultaneously being implemented worldwide, th e Guarantee 
+Scheme was designed as a response to ensure that Australian institutions remained on equal 
+footing with other institutions that had access to similar programs (Schwartz and Tan 2016). 
+The Guarantee Scheme was designed to support confidence in institutions and “ensure that 
+an otherwise sound institution would not experience financial distress due to a shortage of 
+funding.”  
+The Guarantee Scheme’s wholesale funding component closed to new issuance on March 31, 
+2010, by which time beneficiaries had issued approximately A$166 billion ($108.7 billion) 
+of guaranteed securities, the majority of which was long -term wholesale funding. The final 
+guaranteed security matured in March 2015, and the scheme formally closed on October 24, 
+2015 (Reserve Bank of Australia 2013, Schwartz 2010).  It incurred no losses and earned 
+A$4.5 billion ($3.0 billion) in fees in return for the support provided (Schwartz and Tan 
+2016). 
+Summary Evaluation 
+The Guarantee Scheme is seen as successful, given that it allowed institutions to continue to 
+access funding markets and effectively supported the Australian financial system and 
+economy through the crisis.  
+Summary of Key Terms 
+Purpose: Promote financial system stability by 
+supporting confidence and assisting institutions in 
+accessing funding during a period of extreme market 
+stress 
+Announcement Date  October 12, 2008 
+Operational Date November 28, 2008 
+Date of First Guaranteed 
+Loan Issuance 
+November 28, 2008 
+Issuance Window 
+Expiration Date  
+Closed to new issuances 
+March 31, 2010 
+Program Size No explicit cap 
+Usage A$166 billion AUD 
+($108.7 billion) 
+Outcomes No defaults; A$4.5 billion 
+($3.0 billion) in fees 
+generated 
+Notable Features Open-ended issuance 
+window and no cap on 
+program size or 
+institutions’ participation 
+Australian Government Guarantee Scheme 
+for Large Deposits and Wholesale Funding 
+577
+Journal of Financial Crises Vol. 2 Iss. 3
+
+--- Page 5 ---
+Guarantee Scheme for Large Deposits and Wholesale Funding:  Australia Context 
+ 
+GDP 
+(SAAR, Nominal GDP in LCU 
+converted to USD) 
+$948.6 billion in 2007  
+$1,050.1 billion in 2008 
+ 
+Source: Bloomberg 
+ 
+GDP per capita 
+(SAAR, Nominal GDP in LCU 
+converted to USD) 
+$40,960 in 2007 
+$49,602 in 2008 
+Source: Bloomberg 
+ 
+Sovereign credit rating (5-
+year senior debt)  
+As of Q4, 2007: 
+Fitch: AAA 
+Moody’s: Aaa 
+S&P: AAA 
+ 
+As of Q4, 2008: 
+Fitch: AAA 
+Moody’s: Aaa 
+S&P: AAA 
+ 
+Source: Bloomberg 
+ 
+Size of banking system  
+$1,042.2 billion in total assets in 2007 
+$1,224.1 billion in total assets in 2008 
+ 
+Source: Bloomberg 
+ 
+Size of banking system as a 
+percentage of GDP  
+109.9% in 2007 
+116.7% in 2008 
+ 
+Source: Bloomberg 
+ 
+Size of banking system as a 
+percentage of financial 
+system  
+Banking system assets equal to 90% of financial 
+system in 2007 
+Banking system assets equal to 91% of financial 
+system in 2008 
+ 
+Source: World Bank Global Financial Development 
+Database 
+ 
+5-bank concentration of 
+banking system  
+83.6% of total banking assets in 2007 
+85.9% of total banking assets in 2008 
+ 
+Source: World Bank Global Financial Development 
+Database 
+ 
+Foreign involvement in 
+banking system 
+7% of total banking assets in 2007 
+5% of total banking assets in 2008 
+ 
+Source: World Bank Global Financial Development 
+Database 
+578
+Australian Government Guarantee Scheme Smith
+
+--- Page 6 ---
+Government ownership of 
+banking system  
+0% of banks owned by the state in 2007 
+0% of banks owned by the state in 2008 
+ 
+Source: World Bank, Bank Regulation and Supervision 
+Survey 
+Existence of deposit 
+insurance 
+0% insurance on deposits up to $0 (depositor 
+preference system) in 2007 
+100% insurance on deposits up to $704,225.35 by the 
+end of 2008 (temporary measure due to the policy 
+detailed in this document) 
+ 
+Source: World Bank Deposit Insurance Dataset 
+ 
+  
+579
+Journal of Financial Crises Vol. 2 Iss. 3
+
+--- Page 7 ---
+I. Overview 
+Background 
+One of the international effects of the global financial crisis was a dearth of liquidity at the 
+end of 2008 and an enormous perceived risk for large banks. As a result, “international long-
+term wholesale funding markets essentially closed to non -sovereign borrowers,” according 
+to Australian authorities (Schwartz 2010). Australia’s banking system was robust at the time 
+of the global financial crisis ; however, as institutions experienced restricted access to 
+funding, especially in international long-term wholesale funding markets, investors became 
+reluctant to buy long -term bank debt, and the lack of access had “potentially serious 
+implications for liquidity and lending activity” (Reserve Bank of Australia 2012 ; Schwartz 
+2010). 
+It was against this backdrop and coupled with similar announcements in a number of other 
+countries that the  Australian government created the Government Guarantee Scheme for 
+Large Deposits and Wholesale Funding as part of its other measures created in response to 
+the global financial crisis (Reserve Bank of Australia 2013). 
+Program Description 
+The Australian Government Guarantee Scheme for Large Deposits and Wholesale Funding, 
+also known as the Guarantee Scheme, was announced by the government on October 12, 
+2008, and began on November 28, 2008  (Reserve Bank of Australia 2012) . It was 
+administered by the Reserve Bank of Australia on behalf of the Australian government 
+(Reserve Bank of Australia 2013).  The government announced that the Guarantee Scheme 
+would remain open until markets normalized, rather than establishing a set expiration date 
+(Schwartz 2010).  This case will deal only with the wholesale funding component of the 
+scheme.3 
+The wholesale funding component of the Guarantee Scheme allowed Australian depository 
+institutions (known in Australia as authori zed deposit-taking institutions, or ADIs) to issue 
+securities with maturities of up to five years (less in the case of foreign bank branches)4 that 
+were fully guaranteed by the Australian government (Reserve Bank of Australia 2013 ; 
+Schwartz 2010 ). The government did not establish  minimum maturity requirements for 
+eligible debt or place a limit on the total value of liabilities it would cover (Schwartz and Tan 
+2016). 
+There were two processes for institutions issuing se curities based on maturity : one for 
+short-term liabilities (with maturities of less than 15 months)5 and the second for long-term 
+liabilities (with maturities of 15 to 60 months)6 (Australian Government 2012). Institutions 
+eligible for the scheme included banks, building societies, and credit unions. To apply for the 
+_____________________________________________________________________ 
+3 The Guarantee Scheme had two components: a wholesale funding guarantee and a deposit guarantee . The 
+deposit guarantee covered deposits up to A$1 million  at no cost  and amounts above that for a fee. It was 
+replaced in 2012 with a cap of A$250,000 (Reserve Bank of Australia 2012). 
+4 Foreign branches had restricted access to the Guarantee Scheme  (Schwartz 2010).  
+5 For specific information on this process, refer to the Guarantee Scheme Rules (Australian Government 2012). 
+6 Australian Government 2012. 
+580
+Australian Government Guarantee Scheme Smith
+
+--- Page 8 ---
+scheme, an institution had to complete an eligibility certificate provided by the Reserve Bank 
+of Australia (acting as the program’s “ scheme administrator”). Further, after an institution 
+had been approved for a guarantee, it had to provide a separate certificate for each type of 
+liability (Schwartz 2010). 
+Eligible short -term liabilit ies took the form  of senior unsecured debt instruments in any 
+currency with maturities of less than 15 months. The instruments could be issued in bearer, 
+registered, or dematerialized form. They could not be complex and had to fall in the 
+categories of bank bills , certificates of deposit /transferable deposit s, debentures, or 
+commercial paper, and applications could be made for issuance programs (Australian 
+Government 2012). 
+Eligible long -term liabilities took the form of senior unsecured debt i nstruments in any 
+currency with maturities of 15 to  60 months. T he instruments c ould be issued in bearer, 
+registered or dematerialized form. They could not be complex and had to fall in the 
+categories of bonds , notes, or debentures, and applications could be made for issuance 
+programs (Australian Government 2012). 
+All guaranteed liabilities were subject to a monthly fee  for eligible debt issued on or after 
+November 28, 2008. The issuing institution was required to pay this fee within seven 
+business days of the last calendar day of each month  in arrears  (Australian Gover nment 
+2012; Reserve Bank of Australia 2012) . The amount of the fee depended on both the credit 
+rating of the institution (lower-rated institutions had to pay a higher fee to access the 
+guarantee) and the value of the guaranteed liabilities. The same fee applied regardless of the 
+term of the d ebt (Reserve Bank of Australia 2012).  The fee ranged from 70 to 150 basis 
+points (bps) per annum depending on the credit rating of the institution.7 
+Last, “all Australian institutions were required to have systems in place to identify separately 
+guaranteed liabilities and other liabilities. For wholesale liabilities, systems had to be in place 
+before the guaranteed liabilities were issued” (Australian Government 2012). 
+There were several saf eguards built into the Guarantee Scheme. Any institution seeking 
+involvement had to have approval from the Australian Prudential Regulation Authority 
+(APRA), Australia’s bank regulator . Foreign bank branches, which were subject to less 
+Australian superviso ry oversight, had multiple additional restrictions for participation , 
+including shorter maturity limits and caps on the amount that could be issued . Last, the 
+Council of Financial Regulators , an agency that served in an advisory capacity during the 
+Guarantee Scheme’s creation and operation , required monitoring of exposures and regular 
+reports on both individual bank exposures and foreign branch activities  (Schwartz and Tan 
+2016). 
+Outcomes 
+The Guarantee Scheme ’s wholesale funding component  had an immediate effect on 
+Australian institutions. They had only issued bonds worth A$2 billion ($1.31 billion)8 in the 
+three months before the Guarantee Scheme’s introduction, but in the program’s first three 
+months, they issued A$73 billion of bonds, of which A$70 billion was guaranteed through the 
+program (Schwartz and Tan 2016). 
+_____________________________________________________________________ 
+7 For short -term liabilities only, the following applied: in calculating the value of these liabilities, the gross 
+proceeds of the fund raising were to be used (Australian Government 2012). 
+8 The monthly average spot rate in November 2008 was $1 = A$1.5266.  
+581
+Journal of Financial Crises Vol. 2 Iss. 3
+
+--- Page 9 ---
+The Guarantee Scheme’s peak use came during its initial period of operation, “when risk 
+aversion among investors was highest” (Schwartz and Tan 2016, Schwartz 2010).  
+As markets began to reopen, use of the Guarantee Scheme eased (see Figure 1). In late 2008, 
+guaranteed bonds represented 100 percent of total bond issuance; by late 2009, they only 
+represented about 30 percent. Guaranteed short -term wholesale funding peaked in 
+February 2009 at A$22.4 billion, but quickly fell to around A$17.1 billion by January of the 
+next year (Schwartz 2010; Schwartz and Tan 2016).  
+Australia’s four main banks—Commonwealth Bank, Westpac Banking Corporation, National 
+Australia Bank, and Australia and New Zealand Banking Group—represented the Guarantee 
+Scheme’s lar gest users , accounting for about two -thirds of total guaranteed issuance . 
+However, issuance as a share of liabilities was higher am ong non-major Australian banks.  
+Before the crisis, these non-major banks chose not to issue many bonds and instead operated 
+in residential mortgage -backed securities markets . When the crisis made these markets 
+unpalatable, the non -major banks responded by making significant use of the Guarantee 
+Scheme and issuing large amounts of guaranteed bonds (Schwartz and Tan 2016). This 
+pattern can be seen in Figure 2. 
+Figure 1: Guarantee Scheme Usage 
+ 
+ 
+ 
+ 
+ 
+Source: Schwartz and Tan 2016. 
+ 
+  
+582
+Australian Government Guarantee Scheme Smith
+
+--- Page 10 ---
+Figure 2: Bank-Issued Government-Guaranteed Debt, March 2010 
+ 
+ 
+ 
+ 
+Source: Schwartz and Tan 2016. 
+ 
+Institutions predominantly used the Guarantee Scheme ’s wholesale funding component for 
+long-term liabilities. The majority of short -term debt issuance came from non -major 
+institutions, which is partly explained by the fact that, as part of the Guarantee Scheme’s slew 
+of safeguards,  foreign-owned branches  were not allowed to issue guaranteed debt with 
+maturities of greater than 15 months (Schwartz and Tan 2016). 
+By June 2009, as global markets became healthier, banks began issuing unguaranteed bonds. 
+Issuance of guaranteed bonds, which had accounted for almost all bond issuance following 
+the Guarantee Scheme’s implementation, fell to close to zero in early 2010. “ This reflected 
+that the sharp compression in bank bond spreads over 2009 was more pronounced for 
+unguaranteed bonds than for guaranteed bonds, particularly for higher -rated issuers. As a 
+result, it was generally advantageous for the double-A-rated banks to  issue unguaranteed 
+rather than issuing guaranteed and incurring the associated fee” (Schwartz 2010).  
+On February 7, 2010, the government announced that the Guarantee Scheme ’s wholesale 
+funding component  would close to new issuance on March 31, 2010. Any institution that 
+wished to apply for the program had until March 24, 2010, to do so, and institutions could 
+issue guaranteed liabilities up to and including March 31, 2010. After March 31, any liabilities 
+already covered under the Guarantee Scheme “would r emain guaranteed until either they 
+matured or were bought back and extinguished by the issuer,” and institutions were 
+required to keep paying monthly fees on these guaranteed liabilities (Schwart z 2010, 
+Schwartz and Tan 2016). 
+By the time the Guarantee Sch eme’s wholesale funding component  closed to new issuance 
+on March 31 , the beneficiaries  had issued about A$166 billion of guaranteed liabilities. At 
+that time, the amount of guaranteed wholesale funding represented about 15 percent of all 
+wholesale liabili ties. Ultimately, the monthly fees generated by the Guarantee Scheme  
+totaled A$4.5 billion in government revenue (Reserve Bank of Australia 2013, Schwartz 
+2010, Schwartz and Tan 2016). 
+After the closure of the Guarantee Scheme, previously issued guaranteed bonds matured and 
+the amount of guaranteed bonds began to fall . This fall in supply was compounded by 
+buybacks: as the markets improved, and the maturity profiles of  the remaining guaranteed 
+debt shortened  (approximately 12 and 18 months remaini ng to maturity), the cos t of 
+maintaining government-guaranteed debt became more expensive than issuing 
+583
+Journal of Financial Crises Vol. 2 Iss. 3
+
+--- Page 11 ---
+unguaranteed debt. Thus, institutions began repurchasing their debt, at first in small  
+amounts, but increasing as conditions improved9 (Schwartz 2010, Schwartz and Tan 2016). 
+Institutions repurchased about A$16 billion of guaranteed bonds by mid -2012. Some of the 
+biggest issuers of guaranteed bonds began large -scale repurchases in late 2012 and early 
+2013, during which time they bought back about A$15 billion of guaranteed bonds. These 
+buybacks contributed to a decline in the supply of guaranteed bonds to about A$57 billion, 
+as seen in Figure 3 (Reserve Bank of Australia 2013). 
+Figure 3: Australian Government-Guaranteed Debt 
+ 
+ 
+ 
+ 
+ 
+Source: Reserve Bank of Australia 2013. 
+ 
+Non-major institutions bought back a larger share of their guaranteed debt than did major 
+institutions, even though major institutions accounted for more than half of total buybacks 
+in absolute terms . While major institutions bought back A$33 billion (about 33 percent of 
+their issuance under the Guarantee Scheme), non-major institutions bought back about A$25 
+billion of guaranteed debt, which represented slightly more than 50 percent of their issuance 
+(Schwartz 2010, Schwartz and Tan 2016). 
+The scheme’s final bond matured in early 2015, and the scheme formally ended in October 
+2015 (Reserve Bank of Australia 2012). 
+II. Key Design Decisions 
+1. The Guarantee Scheme represented one piece in a comprehensive response to the 
+global financial crisis. 
+_____________________________________________________________________ 
+9 The first buyback of guaranteed debt occurred early in mid -2009, but buyback activity was not prominent  
+until 2011 (Schwartz and Tan 2016). 
+584
+Australian Government Guarantee Scheme Smith
+
+--- Page 12 ---
+This included a cut in interest rates and multiple stimulus packages (Kennedy 2009). 
+2. The Guarantee Scheme derived its legal authority fr om the Financial Claims 
+Scheme. 
+This authority allowed for the establishment of the Guarantee Scheme without the need for 
+additional legislation.  
+3. There was no cap on the program’s size. 
+Australian authorities intended the lack of a cap to demonstrate their commitment to offer 
+as much support as necessary to the banking system. 
+4. Only authorized deposit-taking institutions were eligible to have their liabilities 
+guaranteed by the Guarantee Scheme’s wholesale funding component. 
+The Reserve Bank  of Australia supplied a list of eligible institutions, and these included: 
+Australian-owned banks; Australian -incorporated institutions that were subsidiaries of 
+foreign banks; branches of foreign banks; building societies; credit unions; and a small 
+category for four “other” institutions. For a complete list of eligible institutions by name, see 
+“Eligible Institutions” in Key Program Documents. 
+Any institution seeking involvement in the scheme had to have approval from the Australian 
+Prudential Regulation Authority. 
+Foreign bank branches, “which were subject to less Australian supervisory oversight,” had 
+multiple additional restrictions for participation. The liabilities guaranteed by foreign 
+branches had shorter maturity limits (initially set until Decemb er 31, 2009, and later 
+extended to a rolling 15-month maturity); “total guaranteed liabilities could not exceed 110 
+percent of the average daily value of short -term liabilities and deposits in the 30 days prior 
+to the announcement of the scheme; and their guaranteed liabilities could not be used to 
+directly support the foreign branch outside Australia or the obligations of its parent or any 
+related entity” (Schwartz and Tan 2016). 
+This restricted access reflected that, “unlike the foreign bank subsidiaries,  foreign bank 
+branches were not separate entities incorporated and independently capitalized in 
+Australia—they were part of a foreign bank incorporated overseas” (Schwartz 2010). 
+5. Eligible debt took the form of senior unsecured debt instruments. 
+Subordinated debt was not eligible for the program. 
+6. The scheme’s wholesale funding component allowed for the issuance of debt with 
+maturities of up to five years. 
+Australian institutions could issue securities with maturities of up to five years (foreign bank 
+branches were limited to 15 months ) that were guaranteed in full by the Australian 
+government (Reserve Bank of Australia 2013, Schwartz 2010). 
+This maximum maturity “allowed ADIs more flexibility to lengthen maturities and avoid 
+bunching of r efinancing risk” (Schwartz and Tan 2016).  The government did not establish  
+minimum maturity requirements for eligible debt. 
+585
+Journal of Financial Crises Vol. 2 Iss. 3
+
+--- Page 13 ---
+The Guarantee Scheme employed two different participation processes based on the 
+maturity of the issued debt. The processes were ide ntical except for differences in the long-
+term liability process. For a complete breakdown of these differences, refer to the 
+government guarantee scheme rules in “Implementation Documents ” section of the “Key 
+Documents.” 
+All currencies were eligible for the scheme’s wholesale funding component. 
+7. For the most part, t here does not appear to have been a cap on an y individual  
+institution’s participation in the scheme’s wholesale funding component. 
+Foreign branches were limited to 110% of the average daily value of their short -term 
+liabilities and deposits in the 30 days prior to the Scheme’s announcement 
+8. A monthly fee was payable to the government based on the credit rating of the 
+issuer. 
+All guaranteed liabilities were subject to a monthly fee, which appli ed to eligible liabilities 
+issued on or after  November 28, 2008. The institution was required to pay this fee within 
+seven business days of the last calendar day of each month in arrears ( Reserve Bank of 
+Australia 2012, Australian Government 2012). The amount of the fee depended on both the 
+credit rating of the institution (lower-rated institutions had to pay a higher fee to access the 
+guarantee) and the value of the guaranteed liabilities. The same fee applied regardless of the 
+term of the debt (Reserve Bank of Australia 2012). 
+The fee was calculated by using the following formula10: 
+Fee payable = Guaranteed liabilities x relevant fee x number of calendar days in month/365. 
+The relevant fee was prescribed as follows: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The guarantee fees were designed around multiple variables. These variables included fees 
+charged by other countries with guarantee schemes, the appropriate pricing of risk, and a 
+desire for institutions to return to non -guaranteed issuance once conditions improved. The 
+fees were due monthly rather than up  front to avoid putting additional pressure on 
+_____________________________________________________________________ 
+10 For short-term liabilities only, the following applied: in calculating the value of these liabilities, the gross 
+proceeds of the fund raising were to be used (Australian Government 2012). 
+Long-Term Credit Rating of ADI Fee (in basis points per 
+annum) 
+AAA to AA-   70 
+A+ to A– 100  
+BBB+ and below and Unrated 150 
+586
+Australian Government Guarantee Scheme Smith
+
+--- Page 14 ---
+institutions that were already experiencing liquidity issues (Schwartz 2010 ; Schwartz and 
+Tan 2016). 
+The fees were set between the risk spreads at the time of the Guarantee Scheme’s creation 
+(a time of extreme market stress) and spreads seen to be likely during normal market 
+conditions. The fee structure was “designed to act as a natural exit mechanism, so that when 
+pricing of risk improved, the yield spread between unguaranteed and guaranteed debt would 
+narrow to below the guarantee fee and it would become cost -effective for issuers to return 
+to unguaranteed issuance,” thus also reducing the government’s liability (Schwartz 2010 ; 
+Schwartz and Tan 2016).  
+As such, the fee encouraged institutions to buy back their debt. As markets improved, and 
+the maturity profiles of the remaining guaranteed debt shortened (approximately 12 and 18 
+months remaining to maturity), the cost of issuing government -guaranteed de bt became 
+more expensive than issuing unguaranteed debt. Thus, institutions began repurchasing their 
+debt, at first in small amounts, but increasing as conditions improved (Schwartz 2010 ; 
+Schwartz and Tan 2016). 
+9.  The Council of Financial Regulators required participants to regularly report their 
+exposures and activities. 
+The Council of Financial Regulators, an agency that served in an advisory capacity during the 
+Guarantee Scheme’s creation and operation , required monitoring of exposures and regular 
+reports on both individual bank exposures and foreign branch activities. This was a 
+safeguard (Schwartz and Tan 2016). 
+10.  No deadline for issuing guaranteed debt was established at the outset of the 
+program, and authorities ultima tely closed the issuance window on March 31,  
+2010. 
+The government announced that the Guarantee Scheme would remain open until markets 
+normalized. In making this decision, the government and the Council of Financial Regulators 
+considered w hether to risk premature closure or “the longer -term costs of an extended 
+period of government support.” Eventually, when the Council of Financial Regulators 
+recommended the government close the program at the end of  March 2010, it was because 
+market conditions had improved, and the Guarantee Scheme no longer appeared necessary. 
+The institutions’ use of the Guarantee Scheme “began to appear to be largely a response to 
+small pricing advantages rather than a reflection of problems of market access” (Schwartz 
+2010). 
+III. Evaluation 
+Reviews of the  effectiveness of the Guarantee Scheme’s wholesale funding component by 
+Australian authorities conclude that it was a successful program. Schwartz (2010) at  the 
+Reserve Bank of Australia concluded that it made “a positive and important contribution to 
+the stability of the Australian financial system by ensuring that institutions continued to have 
+access to capital markets during the most intense phase of the crisis. It also ensured that the 
+overall availability of funding was not a material constraint on the capacity of Australian 
+banks to lend and, for a time, served to mitigate the large increase in the cost of issuing debt.” 
+According to Schwartz and Tan (2 016), there are strong grounds for concluding that the 
+Guarantee Scheme ’s wholesale funding component  was successful. It was able to help 
+587
+Journal of Financial Crises Vol. 2 Iss. 3
+
+--- Page 15 ---
+stabilize the Australian financial system and  allowed Australian institutions to remain on 
+equal footing with their international peers who had access to similar schemes. It was heavily 
+used by both major and non-major institutions and provided large amounts of funding to the 
+financial sector and thus credit provision to the economy.  
+Further, Australian central bank officials argue that the Guarantee Scheme ’s wholesale 
+funding component opened and closed at appropriate times, within a defined period of need. 
+It opened quickly in response to a dire turn in global financial markets, and it closed  about 
+the time other similar international schemes had started to close and the  Australian 
+government believed market conditions had normalized. This “ judgment-based closure of 
+the Guarantee S cheme, as opposed to using a pre -announced closure date,  successfully 
+avoided potential market uncertainty over whether arrangements would be extended in the 
+lead-up to the pre-announced closure dates” (Schwartz and Tan 2016). As discussed above, 
+the design of th e scheme’s wholesale funding component  encouraged institutions to 
+repurchase their debt as market conditions normalized, and this feature “allowed for a faster 
+return to standalone market -based funding and reduction in government contingent 
+liabilities than would otherwise have been the case” (Schwartz 2010 ; Schwartz and Tan 
+2016). 
+No claims were made against the Guarantee Scheme, and it incurred no losses —partly 
+reflected by the consideration given to risk during the design process. “It was judged 
+preferable to err on the side of supporting the financial system  with simple, easy to 
+understand arrangements, than to impose greater control over exposures through features 
+such as limits or institution-specific pricing” (Schwartz and Tan 2016).  
+At the time of the Guarantee Scheme’s closure, banks had returned to mor e normal and 
+stable measures of funding, such as increasing deposit and long -term funding and reducing 
+the use of short-term wholesale funding. (Schwartz and Tan 2016). 
+IV. References 
+Australian Government. 2012. Australian Government Guarantee Scheme for Large Deposits 
+and Wholesale Funding Rules. Australia: Reserve Bank of Australia.  
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/scheme-rules-
+20042011%20(1).pdf 
+Australian Prudential Regulation Author ity. n.d. “About the Financial Claims Scheme.” 
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/_%20APRA.pdf 
+Kennedy, Steven. 2009. “Australia’s Response to the Global Financial Crisis.” Speech, June 24, 
+2009.  
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Australia's%20response%2
+0to%20the%20global%20financial%20crisis%20_%20Treasury.gov_.au_.pdf 
+Reserve Bank of Australia. n.d. “Historical Data: Exchange Rates, Daily, 2007 to 2009.” 
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Historical%20Data%20_%2
+0RBA.pdf 
+Reserve Bank of Australia. 2012. “Australian Government Guarantee Scheme for Large  
+Deposits and Wholesale Funding.”  
+588
+Australian Government Guarantee Scheme Smith
+
+--- Page 16 ---
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Australian%20Government
+%20Guarantee%20Scheme_%20About%20the%20Scheme.pdf 
+Reserve Bank of Australia. 2013. “Box D: Buybacks of Government Guaranteed Securities .” 
+Statement on Monetary Policy . February 2013.  
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Box%20D_%20Buybacks%
+20of%20Government%20Guaranteed%20Securities%20_%20Statement%20on%20Monet
+ary%20Policy%20%E2%80%93%20February%202013%20_%20RBA.pdf 
+Schwartz, Carl. 2010. “The Australian Government Guarantee Scheme.” Reserve Bank of 
+Australia Bulletin, March 2010: 19-26. 
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Schwartz_Bulletin%20Marc
+h%20Quarter%202010.pdf 
+Schwartz, Carl, and Nicholas Tan. 2016. “The Australian Government Guarantee Scheme: 
+2008-15.” Reserve Bank of Australia Bulletin , March 2016: 39 -46.  
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/bu-0316-5.pdf 
+V. Key Program Documents 
+Summary of Program 
+Box A: Government guarantees on deposits and wholesale funding (Financial Stability 
+Review, March 2009) – Publication by the Reserve Bank o f Australia detailing the Guarantee 
+Scheme.  
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/box-a.pdf 
+Implementation Documents 
+Australian Government Guarantee Scheme for Large Deposits and Wholesale Funding Rules 
+– Formal document issued by the Reserve Bank of Australia detailing the scheme’s operation 
+and regulation.  
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/scheme-rules-
+20042011%20(1).pdf 
+Eligible Institutions  – List of eligible institutions included in the formal  implementation 
+document; names all ADIs considered eligible to apply for the Guarantee Scheme . 
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/schedule-1.pdf 
+Notice of Final Application Date and Final Issuance Date (February 23, 2010) – Formal notice 
+of the closure of the Guarantee Scheme sent to eligible institutions . 
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/notice-fad-fid.pdf 
+Legal/Regulatory Guidance 
+Financial Claims Scheme  – Overview from the Council of Financial Regulators detai ling the 
+Financial Claims Scheme, which was the legal authority under which the Guarantee Scheme 
+took place.  
+589
+Journal of Financial Crises Vol. 2 Iss. 3
+
+--- Page 17 ---
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/CFR_%20Financial%20Clai
+ms%20Scheme.pdf 
+Press Releases/Announcements 
+Global Financial Crisis (October 12, 2008) – Media release of the Prime Minister of Australia’s 
+public announcement of the Guarantee Scheme .  
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Release-Trove.pdf 
+Government Announces Details of Deposit and Wholesale Funding Guarantees (Wayne 
+Swan, October 24, 2008)  – Media r elease from the Treasury; an  announcement of further 
+details of t he scheme’s  design and operational parameters . 
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Funding%20Guarantees%2
+0_%20Treasury%20Ministers.pdf 
+Guarantee Scheme for Large Deposits and Wholesale Funding of Deposit-Taking Institutions 
+(Wayne S wan, November 28, 2008)  – Media release from the Treasury announcing the 
+commencement of the Guarantee Scheme. 
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Press%20Release%20-
+%20Guarantee%20Scheme.pdf 
+Government Withdraws Bank Funding Guaran tee and State Guarantee (Wayne Swan, 
+February 7, 2010) – Media release from the Treasury announcing the government’s intention 
+to close the Guarantee Scheme to new liabilities . 
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Press%20Release%20-
+%20Government%20Withdraws.pdf 
+Key Academic Papers 
+The Design of Government Guarantees for Bank Bonds: Lessons from the Recent Financial 
+Crisis (Levy and Schich 2010) – OECD document examining government guarantee programs 
+during the GFC. 
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Levy_and_Schich_2010_0.pd
+f 
+Banks’ Funding Costs and Lending Rates (Deans and Stewart 2012)  – Reserve Bank of 
+Australia publication examining lending rates and funding costs surrounding the financi al 
+crisis. https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/bu-0312-5.pdf 
+Recent Developments in Banks’ Funding Costs and Lending Rates (Brown et al. 2010)  – 
+Reserve Bank of Australia publication examining the effects of the global financial crisis on the 
+cost and composition of Australian banks’ funding . 
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/bu-0310-6.pdf 
+The Impact of the Financial Crisis on the Bond Market (Black , Brassil, and Hack 2010) – 
+Reserve Bank of Australia publication examining the functioning of the Australian bond market 
+during the financial crisis. 
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/bu-0610-8.pdf  
+590
+Australian Government Guarantee Scheme Smith
+
+--- Page 18 ---
+Depositor Protection in Australia (Turner 2011)  – Reserve Bank of Australia publication 
+reviewing depositor protection in Australia with a focus on the Guarantee Scheme . 
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/10.1.1.395.5209.pdf  
+The Australian Financial System in the 2000s: Dodging the Bullet (Davis 2011)  – Reserve 
+Bank of Australia publication examining the ability of Australia to cope with the global 
+financial crisis. https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/davis.pdf 
+Reports/Assessments 
+Reserve Bank of Australia Annual R eport 2009  – Annual Report that mentions the setup 
+required for the Guarantee Scheme.  
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/2009-report.pdf 
+Copyright 2015, 2016, 2020 © Yale University. All rights reserved. To order copies of this 
+material or to receive permission to reprint any or all of this document, please contact the 
+Yale Program for Financial Stability at ypfs@yale.edu.  
+591
+Journal of Financial Crises Vol. 2 Iss. 3

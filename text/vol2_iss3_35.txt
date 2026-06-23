@@ -1,0 +1,785 @@
+--- Page 1 ---
+Journal of Financial Crises Journal of Financial Crises 
+Volume 2 Issue 3 
+2020 
+French Liquidity Support through the Société de Financement de French Liquidity Support through the Société de Financement de 
+l’Economie (SFEF) (France GFC) l’Economie (SFEF) (France GFC) 
+Everest Fang 
+Yale School of Management 
+Follow this and additional works at: https://elischolar.library.yale.edu/journal-of-financial-crises 
+ Part of the Finance Commons, Policy Design, Analysis, and Evaluation Commons, and the Political 
+Economy Commons 
+Recommended Citation Recommended Citation 
+Fang, Everest (2020) "French Liquidity Support through the Société de Financement de l’Economie (SFEF) 
+(France GFC)," Journal of Financial Crises: Vol. 2 : Iss. 3, 681-698. 
+DOI: https://doi.org/10.17132/2693-3179.1111 
+Available at: https://elischolar.library.yale.edu/journal-of-financial-crises/vol2/iss3/35 
+This Case Study is brought to you for free and open access by the Journal of Financial Crises and 
+EliScholar – A Digital Platform for Scholarly Publishing at Yale. For more information, please contact 
+journalfinancialcrises@yale.edu.
+
+--- Page 2 ---
+READERS TAKE NOTICE: READERS TAKE NOTICE: 
+As of April 2024, the YPFS Resource Library’s site domain has changed 
+to https://elischolar.library.yale.edu/ypfs-financial-crisis-resource-library/. 
+Please be aware that upon clicking any of the URL references to 
+the former Resource Library domains, either https://ypfs.som.yale.edu 
+or https://ypfsresourcelibrary.blob.core.windows.net/, in the 
+"References/Key Program Documents" section of a case study, 
+readers will encounter a "page not found" error. readers will encounter a "page not found" error. 
+Readers can still retrieve a given resource cited within this case study 
+on the new site  by searching by searching here  for the title cited. for the title cited. 
+This case study is available in Journal of Financial Crises: https://elischolar.library.yale.edu/journal-of-financial-
+crises/vol2/iss3/35
+
+--- Page 3 ---
+French Liquidity Support through the SFEF1 
+ 
+Everest Fang2 
+Yale Program on Financial Stability Case Study 
+January 16, 2019, revised: October 10, 2020 
+ 
+Abstract 
+After the collapse of the Lehman Brothers  in September 2008 , financial panic and 
+uncertainty intensified in  Europe. In France,  banks faced a widespread confidence crisis 
+driven by fear that they were exposed to the US subprime market. In response , on October 
+13, 2008 , the French government passed the “loi de finan ces rectificative po ur le 
+financement de I'économie.” This provided for the establishment of the Société de 
+Financement de l’Economie Française (SFEF), a special purpose vehicle (SPV) jointly owned 
+by the State and a group of banks and  responsible for refinancing major French credit 
+institutions. The SFEF raised funds on the international market and used the proceeds to 
+provide collateralized loans to major credit institutions. SFEF debt was guaranteed by the 
+French government . The SFEF  was active from October 2008 to September 2009 and 
+provided approximately €77 billion in  funding to a group of institutions that included the 
+vast majority of the  major French banks. In September 2009, the Caisse de Refinancement 
+de l’Habitat, a French credit institution specifically focused on housing finance, took over the 
+SFEF’s outstanding debt management.  
+Keywords: Société de Financement de l’Economie Française (SFEF), State Guarantee
+ 
+1 This case study is part of the Yale Program on Financial Stability (YPFS) selection of New Bagehot Project 
+modules considering the responses to the global financial crisis that pertain to bank debt guarantee programs 
+Cases are available from the Journal of Financial Crises at https://el ischolar.library.yale.edu/journal-of-
+financial-crises/. 
+2 Everest Fang – Research intern, YPFS, Yale School of Management. 
+681
+
+--- Page 4 ---
+At a Glance  
+The collapse of Lehman Brothers on 
+September 15, 2008 , sparked an 
+international financial panic. French banks 
+experienced significant drops in earnings 
+and rising defaults. The financial system 
+was strained by a confidence crisis caused 
+by fear that French banks were exposed to 
+the US subprime mortgage market. French 
+credit institutions  stopped lending to one 
+another. The result was a s evere liquidity 
+freeze and a deep recession.    
+To inject liquidity into the financial system 
+and ensure access to financing for French 
+households and businesses  on October 17, 
+2008, the French government established 
+the Société de Financement de l’Economie 
+Française (SFEF), a special purpose vehicle 
+(SPV) responsible for the refinancing of 
+major credit institutions. The state owned 
+34% of SFEF’s shares , while major credit institutio ns owned the remaining 66%. The SFEF 
+would raise funds by issuing debt instruments on the global market. These securities were 
+fully backed by the French state for up to €265 billion. The SFEF would use the funds raised 
+on the market to provide loans for eligible institutions. The loans had a maximum maturity 
+of five years, as did the securities issued by the SFEF. To participate, credit institutions were 
+required to commit to a number of ethical and economic requirements , most significantly, 
+pledging to the financing of the real economy. 
+By May 2009, the SFEF had raised €49 billion and 13 major credit institutions had benefited 
+from SFEF funding.  The SFEF raised €77 billion in total by the end of its operation. In 
+September 2009, the Caisse de Refinancement de l’Habitat, a credit institution created by the 
+French state in 1985 to focus on housing  finance, took over the SFEF’s outstanding debt 
+management.  
+Summary Evaluation 
+The SFEF is generally se en as having been successful in both its effort to raise funds from 
+investors as well as its goal of injecting liquidity into the economy. The State’s guarantee on 
+debt instruments issued by the SFEF made them a popular  investment opportunity. 
+Furthermore, the credit institutions benefiting from SFEF funding represented the vast 
+majority of total loans to the economy and experienced a substantial increase in loans. 
+Summary of Key Terms 
+Purpose: To ensure the continued financing of 
+households and businesses and inject liquidity into 
+the banking system. 
+Announcement Date  October 12, 2008 
+Operational Date October 17, 2008 
+Date of First Guaranteed 
+Loan Issuance  
+November 12, 2008 
+Issuance Window 
+Expiration Date 
+Closed to new issuances 
+December 31, 2009. 
+Officially ended October 
+9, 2009 
+Program Size  €265 billion 
+Usage €77 billion 
+Outcomes No defaults;  more than 
+€1 billion in fees 
+Notable Features Guaranteed debt issued 
+by SPV 
+French Liquidity Support through the SFEF 
+682
+Journal of Financial Crises Vol. 2 Iss. 3
+
+--- Page 5 ---
+French Liquidity Support through the SFEF: France Context 
+ 
+GDP 
+(SAAR, Nominal GDP 
+in LCU converted to 
+USD) 
+ 
+$2,664.5 billion in 2007 
+$2,930.2 billion in 2008 
+ 
+Source: Bloomberg 
+ 
+GDP per capita 
+(SAAR, Nominal GDP 
+in LCU converted to 
+USD) 
+ 
+$41,508 in 2007 
+$45,334 in 2008 
+ 
+Source: Bloomberg 
+ 
+Sovereign credit 
+rating (5-year senior 
+debt) 
+ 
+As of Q4, 2007: 
+ 
+Fitch: AAA 
+Moody’s: Aaa 
+S&P: AAA 
+ 
+As of Q4, 2008: 
+ 
+Fitch: AAA 
+Moody’s: Aaa 
+S&P: AAA 
+ 
+Source: Bloomberg 
+ 
+Size of banking 
+system 
+ 
+$2,672.8 billion in total assets in 2007 
+$3,118.1 billion in total assets in 2008 
+ 
+Source: Bloomberg 
+ 
+Size of banking 
+system as a 
+percentage of GDP 
+ 
+100.4% in 2007 
+106.4% in 2008 
+ 
+Source: Bloomberg 
+ 
+Size of banking 
+system as a 
+percentage of 
+financial system 
+ 
+Data not available. 
+ 
+Source: World Bank Global Financial 
+Development Database 
+ 
+5-bank concentration 
+of banking system 
+ 
+74.2% of total banking assets in 2007 
+73.3% of total banking assets in 2008 
+ 
+Source: World Bank Global Financial 
+Development Database 
+683
+French Liquidity Support through the SFEF Fang
+
+--- Page 6 ---
+Foreign involvement 
+in banking system 
+6.0% of total banking assets in 2007 
+6.0% of total banking assets in 2008 
+ 
+ 
+Source: World Bank Global Financial 
+Development Database 
+ 
+Government 
+ownership of banking 
+system 
+ 
+Data not available. 
+ 
+Source: World Bank Global Financial 
+Development Database 
+ 
+Existence of deposit 
+insurance 
+Limits to full coverage: 
+ 
+$100,000 in early December 2008  
+ 
+Source: Fonds de Garantie des Dépôts et de 
+Résolution, OECD 
+684
+Journal of Financial Crises Vol. 2 Iss. 3
+
+--- Page 7 ---
+I. Overview 
+Background 
+In 2008, the financial crisis originating in the US subprime lending market severely damaged 
+many European banks. Shortly after Lehman Brothers collapsed in September, European 
+financial markets were dominated by panic and uncertainty. The French financial  system 
+was under maximum strain and vulnerable to further damage (IMF 2009). French banks, 
+hurt by a general crisis in confidence and widespread fear that European banks might be 
+exposed to the US subprime market, saw a significant drop in earnings and rise in defaults. 
+Restricted liquidity caused mistrust among credit institutions. Banks stopped lending to one 
+another out of fear that they were exposed to the crisis (Detzer 2014). Sources of financing 
+became increasingly rare as the flow of funds through the economy ground to a halt. 
+Unemployment in France rose steeply as did the government’s budget deficit. The nation 
+experienced a deep recession. Despite all these problems, France was not hit as hard by the 
+crisis as many other European countries (Conac 2010).  
+Program Description 
+Against this backdrop, t he “loi de finances rectificative pour le financement de I'économie ” 
+was passed on October 13, 2008 , and adopted on October 17, four days later. It established 
+the Société de Financement de l’Economie Fra nçaise (SFEF) for the refinancing of French 
+credit institutions, as well as the Société de Prise de Participations de l’Etat (SPPE) for the 
+recapitalization of French credit institutions.  The SFEF took the form of a special purpose 
+vehicle (SPV) jointly owned by a group of seven banks representing 80% of the balance sheet 
+of the French banking industry.3 The banks took a 66% ownership stake and the French state 
+34% ownership. SFEF did not  possess a banking license and was thus not subject to such 
+regulations as the Basel capital requirements , but it was overseen by the French Banking 
+Commission. Although majority owned by French banks, SFEF had a board of directors 
+chaired by the French st ate and over which the government exercised a veto. Additionally, 
+the bank shareholders of the SFEF could earn a profit only on its invested capital equivalent 
+to the rate of return on a government bond.   
+The SFEF raised money by issuing debt instruments on the international market guaranteed 
+by the French government. The organizatio n was given a state guarantee for  up to €265 
+billion. Securities issued by the SFEF had a maximum maturity of five  years, and t he state 
+guarantee only applied to bonds issued before December 31, 2009. The SFEF used the funds 
+raised on the market to issue collateralized loans to eligible credit insti tutions for 
+refinancing. Loans made by the SFEF also had a maximum maturity of five years , with a cap 
+of 30% of total loans on loans of more than 3 years. The government does not appear to have 
+established minimum maturity requirements for eligible loans or securities issued by SFEF. 
+ 
+3 BNP Paribas, Crédit Agricole, Société Générale, Groupe Caisse d’Epargne, Banque Fédérative du Crédit Mutuel, 
+Groupe Banque Populaire, and HSBC France. 
+685
+French Liquidity Support through the SFEF Fang
+
+--- Page 8 ---
+The total amount of refinancing a bank could receive could not exceed 5% of its balance sheet 
+total, or €500 million, whichever value was greater. 
+To qualify for SFEF funding, a credit institution had to be licensed in France and meet certain 
+capital requirements. Funds were to be allocated to eligible institutions based on a formula 
+tied to the size of an institution’ s balance sheet in France and the amount of French loans it 
+had outstanding. Beneficiary credit institutions wer e required to enter into an agreement 
+with the French state laying out a number of economic and ethical obligations. These 
+included providing credit to small and medium -size companies and households, and 
+following ethical rules on executive compensation and severance arrangements. Credit 
+institutions borrowing from the SFEF were also required to deposit the funds they owed in 
+special accounts at the Banque de France pledged to the SFEF several days before payments 
+were due. This would give the SFEF time to notify the government of a failure to pay in 
+advance and thus acquire funds from the guarantee. Through this process, the SFEF ensured 
+its debt holders were repaid in a timely manner.   
+The SFEF only granted loans collateralized by eligible receivables. Collateral requirements 
+were strict enough to provide the SFEF with the benefit of over-collateralization. In the event 
+of a default by the beneficiary credit institution, the SFEF was given “a direct right over any 
+sums paid with respect to the underlying receivables and the enforcement proceeds of any 
+security righ ts attached to those receivables”  (de Kergommeaux et al. 2008). The SFEF 
+charged an interest rate on loans that was set to incorporate the refunding of the SFEF plus 
+a fee for the state guarantee based on the maturity of the loan and the credit profile of the 
+borrower. 
+Outcomes 
+In October 2008, the SFEF grante d a loan of €5 billion to various banks. This loan was 
+financed by a loan to SFEF from the Caisse des Depots et Consignations, France’s state-owned 
+financial institution. The state had to cover this first SFEF loan, as efforts to issue bonds were 
+still underway. The €5 billion was allocated as follows: 25% to Credit Agricole, 15% to BNP 
+Paribas, Société Générale, Crédit Mutuel, and Caisse d'Epargne, 10% to Banques Populaires, 
+and 5% to RCI Banque. 
+In November 2008, the SFEF announced its first bond issue at a rate of 3.5% for three years, 
+maturing in November 2011. Investor interest was strong with orders exceeding €5 billion 
+within the first hour of operation. By November 12, orders totaled €12 billion. The proceeds 
+of this issuance were used to provide nine loans for various credit institutions. In December 
+2008, the SFEF launched another public issuance, this one totaling €6 billion, again using the 
+proceeds to advance loans to credit institutions . The SFEF continued to operate in this 
+fashion for the duration of its existence. (Appendix A summarizes its activity up to July 2009.) 
+The identities of the credit institutions receiving each round of loans have not been released, 
+though the primary recipients of SFEF funding are known to be Banque Populaires, Caisse 
+d'Epargne, BNP Paribas, Société Générale, Crédit Agricole, Crédit Mutuel, PSA Finance, and 
+RCI Banque.   
+686
+Journal of Financial Crises Vol. 2 Iss. 3
+
+--- Page 9 ---
+In December 2008, President Nicolas Sarkozy announced that the banking branches of 
+French car manufacturers also had access to SFEF funding. The banking arms of Renault and 
+PSA Peugeot Citroën each had access to a maximum of €500 million. In February 2009,the  
+French government increased the maximum amount of SFEF funding available to the 
+banking arms of French car manufacturers.  
+In early 2009, total outstanding loans from beneficiary banks of the SFEF had already grown 
+by 7.2% in comparison to 2008. This was well over the goal of the refinancing mechanism to 
+increase outstanding loans by 3-4%. By May 2009, the SFEF had issued bonds worth a total 
+of €49 billion, consisting of private and public issues.  By this time, 13 institutions had 
+benefited from loans from the SFEF. The impact of the program was broad. with beneficiary 
+institutions representing 83.5% of total loans to the economy at the time. Also at this time, 
+the French state requested and was granted a six -month extension of the refinancing plan  
+from the European Commission.  
+At the end of its operations, the  SFEF had issued a total of about €77 billion in debt 
+denominated in euros, US dollars, Swiss francs and pounds sterling, with maturities ranging 
+from 15 months to 5 years . The SFEF attracted a wide variety of investors, receiving funds 
+from some 900 different sources. SFEF bonds carried triple-A ratings and the SFEF became 
+one of the most sought-after issuers on the global market (GlobalCapital 2009). In September 
+2009, the board of directors decided to stop the SFEF’s operations due to the market 
+improvement, and the Caisse de Refinancement de l’Habitat (CRH) , a bank created by the 
+French state in 1985 to issue bonds for refinancing residential mortgage home loans , took 
+over the operation’s outstanding-debt management. The CRH was appointed to manage the 
+SFEF’s debt services and collateral management from Januar y 1, 2010 , to December 31, 
+2014. Ultimately, none of the loans  made by SFEF defaulted and it generated more than €1 
+billion n fees. 
+II. Key Design Decisions 
+1. SFEF was launched alongside a recapitalization program  as part of a two-pronged 
+approach to the crisis. 
+Following a meeting of Group of Seven (G -7) industrialized nations on October 10, 2008, 
+which focused on guiding principles for action during the financial crisis, the French 
+government pursued a dual approach to aid their banking system that included the SFEF and 
+Société de Prise de Participation de l’Etat (SPPE). The French government created the SPPE 
+in October 2008 as a limited liability company to perform recapitalizations. Its first injection 
+was €1 billion toward the international bailout of Dexia SA, a troubled Belgium -based bank 
+with operations across Europe, in return for a 5.7% stake in the company. In December 2008, 
+SPPE began a broad recapitalization scheme for French banks to ensure they continued 
+lending to the economy. 
+2. Legal Authority came from the “loi de finances rectificative pour le financement de 
+I'économie, adopted on October 17, 2008 
+687
+French Liquidity Support through the SFEF Fang
+
+--- Page 10 ---
+The “loi de finances rectificative pour le financement de I’économie” was passed on October 
+13, 2008, and adopted on October 17, four days later.  SFEF itself had actually existed as a 
+company called Doumer Hyperion since 2003, but was given new guidelines for its future 
+operations. The use of Doumer Hyperion was a convenience intended to avoid the delay 
+involved in establishing a new entity.   
+3. European Commission approval was required for the SFEF. 
+On October 28, 2008, French authorities notified the European Commission (EC) of the SFEF. 
+On October 30, 2008 the EC determined that the SFEF was compatible with State aid 
+requirements. The EC also approved a six-month extension of the program in May 2009. As 
+discussed in more detail below, the need to structure the SFEF in such a way as to ensure EC 
+approval significantly influenced the design of certain program features. 
+4. Up to €265 billion of debt issued by the SFEF could be guaranteed. 
+Documents establishing the SFEF did not disclose the specific motivation for this figure. 
+5. The SFEF issued g uaranteed debt, using the proceeds to provide loans to credit 
+institutions in France (including subsidiaries of foreign banks) that met capital 
+requirements established by French law. 
+The creation of the SFEF was a unique aspect of the French rescue plan. Most European states 
+decided to directly guarantee the issuances of their major banks. France chose to consolidate 
+issuances and refinancing responsibility with the SFEF, creating a much more indirect form 
+of intervention. Through the SFEF, French authorities were able to exer cise control of the 
+allocation of credit to eligible institutions, based on a formula tied to the size of an 
+institution’s balance sheet in France and the amount of French loans it had outstanding. 
+Moreover, with a single entity issuing bonds on the market , France was also able to avoid 
+coordination problems when timing issuances (de Kergommeaux et al. 2008). If many banks 
+are attempting to raise funds, their interactions on the market may result in less total funds 
+being raised.  Last, because investors would be buying guaranteed debt issued by an SPV 
+making collateralized loans to a range of institutions rather than guaranteed debt issued by 
+a single such institution, SFEF may have enabled banks to access funds at a lower rate  than 
+they would have through a direct guarantee (Cavalier 2010). 
+The SFEF had initial capital of €50 million and was jointly owned by a group of seven banks 
+representing 80% of the balance sheet total of the French banking industry . The banks held 
+a 66% ownership stake and the French state 34%. This ownership structure was driven by 
+French authorities’ desire to exclude SFEF liabilities from the state’s public debt. A decision 
+by Eurostat, the body responsible for harmonizing economic statistics across the EU, during 
+the crisis held that the guaranteed liabilities of special purpose entities established on a 
+temporary basis to address the crisis could be excluded from public debt if they were 
+majority privately owned.   
+Despite this private ownership, the French state bore the risk of the guarantee, and thus had 
+significant control over the SFEF , which was governed by a board of directors composed of 
+688
+Journal of Financial Crises Vol. 2 Iss. 3
+
+--- Page 11 ---
+10 members. The board included two representatives of the state, one of which acted as 
+chairman of the board . The members of the board could execute duties only with the 
+permission of the Minister of the Economy, bringing their actions under direct scrutiny of 
+the government. Furthermore, board meetings were attended by a state commissioner with 
+full veto power on decisions that could influence the French state’s interests in relation to its 
+guarantee. These meetings were also attended by the governor of the Banque de France who 
+was responsible for the smooth conduct of the SFEF’s affairs. On top of this, the SFE F, while 
+not a credit institution, was supervised by the French Banking Commission. Thus, in spite of 
+being a separate vehicle, the SFEF was tightly supervised by the state and its actions closely 
+monitored (de Kergommeaux et al. 2008). 
+The bank shareholde rs of the SFEF could only earn a profit on their invested capital 
+equivalent to the rate of return on a government bond . This was consistent with the 
+shareholders’ being compensated for having their capital tied up rather than fully put at risk. 
+6. The SFEF o nly granted financing collateralized by eligible receivables and set 
+conditions to benefit from over-collateralization 
+This was intended to limit the exposure of the SFEF. Eligible collateral included: 
+i) First-rate mortgages and real estate loans of equivalent security  
+ii) Loans made for the financing of a real estate asset in France (in the form of a lease 
+or guaranteed by some credit institution) 
+iii) Loans to highly rated corporations 
+iv) Loans to particular public entities 
+v) Credit export loans confirmed by particular credit export agencies 
+Collateral was subject to haircuts ranging from 10% to 40% , depending on the category 
+of pledged assets. 
+According to the legislation establishing SFEF , beneficiary credit institutions owed the 
+SFEF a claim for an amount equal to principal, interest , and ancillary rights of the loan 
+granted by SFEF to such credit institution; in case of default, a direct right over any sums 
+paid with respect to the underlying receivables together with the enforcement proceeds 
+of any security rights attached to such receivables. Loans made by the SFEF were, thus, 
+highly secure and the SFEF’s exposure very limited (de Kergommeaux 2008). 
+7. The maximum maturity for debt issued by the SFEF  and for the loans that it then 
+made with the proceeds was five years. 
+No more than 30% of guaranteed debt could have a maturity of greater than three years. 
+689
+French Liquidity Support through the SFEF Fang
+
+--- Page 12 ---
+The government does not appear to have established minimum maturity requirements for 
+debt issued by the SFEF or the loans it made with the proceeds. 
+8. All currencies appear to be eligible. 
+Program documents do not appear to contain any restrictions on the cu rrencies eligible to 
+be used under the SFEF. 
+9. Institutions were capped on refinancing by the greater of 5% of their balance sheet 
+total or €500 million. 
+In allocating loans among eligible institutions, French used a formula tied to the size of an 
+institution’s balance sheet in France and the amount of French loans it had outstanding. 
+10.  SFEF made loans at a n interest rate that included a guarantee fee based on the 
+maturity of the loan and the risk profile of the borrower. 
+The interest rate charged on loans from the SFEF was intended to cover SFEF’s financing 
+costs plus an additional  fee for the state guarante e. French authorities followed October 
+2008 guidance from the European Central Bank  (ECB) in developing their approach to the 
+guarantee fee. For loans of greater than one year, the guarantee fee was equal to the bank’s 
+median value 5-year credit default swap (CDS) spread over the period from January 1, 2007, 
+to August 31, 2008, plus an add-on fee. Banks without CDS spreads would use representative 
+CDS spreads based on their credit ratings. For loans of one year or less, only the add-on fee 
+would be charged.   
+Under the ECB’s guidance, the add-on fee was set at 50  basis points (bps).  However, given 
+the collateralized nature of the loans made by SFEF, the European Commission approved a 
+lower add-on fee of 20 bps. 
+These fees were required to be paid up front. 
+11. Beneficiary credit institutions were required to enter into an agreement with the 
+French state that set out a number of ethical and economic commitments , 
+particularly with regard to lending to the real economy.  
+Guidance issued by the European Commission in October 2008 on the creation of credit 
+guarantee programs called for the inclusion i n such programs of a set of safeguards  to 
+minimize distortions and avoid moral hazard. This guidance did not specify exactly what 
+safeguards a program should include, but required “an adequate combination” of elements , 
+including restrictions on advertising based on the guarantee, balance sheet growth, share 
+buybacks, and executive compensation, some of which France adopted. 
+The specific commitments required of the institutions  accessing funding from the SFEF  
+included providing credit to individuals, households, small and medium-size companies, and 
+local authorities. In particular, institutions  had to maintain annual growth in loans to the 
+French economy of 3 % to 4% until December 31, 2009.  Participating institutions had to 
+690
+Journal of Financial Crises Vol. 2 Iss. 3
+
+--- Page 13 ---
+submit monthly reports on loan volumes and could be excluded from the program for failure 
+to meet targets. In addition, they agreed to seek ad hoc solutions for customers experiencing 
+payment difficulties.  
+Banks also had to commit to following certain rules on executive compensation, severance 
+arrangements, balance sheet growth, and advertising.  
+12. Beneficiaries were required to show possession of owed funds several days before 
+payments were due.  
+Credit institutions were required to deposit funds owed to the SFEF in special accounts at 
+the Banque de France pledged to the SFEF several days before payments were actually due. 
+This requirement ensured that beneficiary credit institutions were prepared to repay 
+borrowed funds on time or else provide the SFEF with advanced warning of inability to pay. 
+If an institution was unable to deposit owed funds ahead of time, the SFEF would notify the 
+government of an inability to pay. This would give the SFEF time  to acquire funds from the 
+state guarantee, and then repay its own debt holders on time. Through this strategy, the SFEF 
+ensured its debt holders were repaid in a timely manner and thus maintained a positive 
+reputation for the SFEF as a solid investment opportunity.    
+13. The guarantee was applied only to bonds issued before December 31, 2009. 
+The plan was intended to be only a temporary measure. The SFEF was to issue bonds only 
+until the end of 2009. Like many other design decisions, this measure may have bee n 
+intended to ensure the banks were not excessively dependent on state assistance. The goal 
+was to provide some aid to the institutions until market conditions improved. Also like many 
+design decisions, this provision may have been possible only due to the subdued nature of 
+the crisis in France.  
+III. Evaluation 
+The French state’s intervention in the financial crisis is generally considered relatively 
+successful. Their actions resulted in substantial drops in the credit risk of French banks and 
+an increase in their debt valuation. The gross impact on bank equity was an increase of 2 % 
+to 7% (Xiao 2009). These estimates, however, describe the impact of the full range of the 
+French state’s interventions, not just the SFEF’s operations.  
+The SFEF is generally considered a successful intervention. It managed to raise €77 billion 
+by the end of its operations and establish a reputation as a fruitful investment opportunity. 
+The organization received funds from about 900 different sources during the relatively short 
+span of its operations. The state guarantee played a notable role in the SFEF’s success , 
+assuring investors that it was a very secure investment (GlobalCapital 2009).  
+The impact of SFEF funding was broad, providing loans for 13 major credit institutions  by 
+May 2009. These institutions represented 83.5% of total l oans to the economy at the time , 
+691
+French Liquidity Support through the SFEF Fang
+
+--- Page 14 ---
+and so were very influential in the financial markets. Additionally, the financing appears to 
+have served its purpose well. In early 2009, total  loans from beneficiary banks of the SFEF 
+had grown by 7.2% from 2008, well exceeding the target of 3 % to 4%. Thus, the actions of 
+the SFEF were indeed  benefiting the banks and effectively contributing to the continu ed 
+financing of the French real economy (European Commission 2009) . The plan effectively 
+mitigated the liquidity problem it was designed to address and achieved its goals of aiding 
+the French economy.  
+IV. References 
+Cavalier, Georges A. “On French Interventions in the Financial Crisis.” Brooklyn Journal of 
+International Law . Vol. 35, iss. 3 (2010).  
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/On%20French%20Interven
+tions%20in%20the%20Financial%20Crisis.pdf. 
+Conac, Pierre -Henri. 2010. “ Mastering the Financial Crisis—The French Approach 
+Discussion Report.” European Company and Financial Law Review 7.2 (January 2010): 297-
+339. 
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/European%20Company%2
+0and%20Financial%20Law%20Review.pdf. 
+De Kergommeaux, Xavier, et al. 2008. “A Modern and Secure Solution.”  International 
+Financial Law Review. 28 (2008): 42. 
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/iflr.pdf. 
+Detzer, Daniel, Jerome Creel, Fabien Labondance, Sandrine Levasseur, Mimoza Shabani, Jan 
+Toporowski, Judith Tyson, et al. 2014. “Financial Systems in Financial Crisis—An Analysis of 
+Banking Systems in the EU. ” Intereconomics 49, no. 2 (2014): 56 -87. 
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/financial-systems-in-
+financial-crisis-an-analysis-of-banking-systems-in-the-eu.pdf.  
+GlobalCapital. 2009. “SFEF Closes Doors as French Banks Go It Alone.” October 8, 2009. 
+Accessed May 18, 2017.  
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/SFEF%20closes%20doors%
+20as%20French%20banks%20go%20it%20alone%20_%20GlobalCapital.pdf.  
+International Monetary Fund. 2009. France: 2009 Article IV Consultation: Staff Report; Public 
+Information Notice on the Executive Board Discussion; and Statement by the Executive Director 
+for France. International Monetary Fund, Country Report No. 09/232. July 31, 2009. 
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/_cr09232.pdf. 
+Xiao, Yingbin. 2009. French Banks Amid the Global Financial Crisis. No. 9-201. International 
+Monetary Fund, Working Paper No. 09/201. September 1, 2009 .. 
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/_wp09201.pdf. 
+692
+Journal of Financial Crises Vol. 2 Iss. 3
+
+--- Page 15 ---
+V. Key Program Documents 
+Academic Papers 
+A Modern and Secure Solution  (de Kergommeaux 2009)  – Article analyzing the French 
+response to the global financial crisis .  
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/iflr.pdf. 
+Financial systems in financial crisis—An analysis of banking systems in the EU (Detzer et al. 
+2014) – Article analyzing the disparate banking systems in the European Union.   
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/financial-systems-in-
+financial-crisis-an-analysis-of-banking-systems-in-the-eu.pdf.  
+Mastering the Financial Crisis—The French Approach Discussion Report (Conac 2010) -  
+Article focusing on the French response to the global financial crisis. 
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/European%20Company%20an
+d%20Financial%20Law%20Review.pdf. 
+French Banks Amid the Global Financial Crisis (Xiao 2009) – IMF working paper analyzing 
+how French banks responded to the global financial crisis 
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/_wp09201.pdf.  
+On French Interventions in the Financial Crisis (Cavalier 2010) – Article discussing the French 
+responses to the global financial crisis. 
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/On%20French%20Interven
+tions%20in%20the%20Financial%20Crisis.pdf. 
+Analysis of the Current Financial Crisis (Vallageas 2009)  – Article discussing the global 
+financial crisis in France and the interaction with the European Central Bank. 
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Vallageas.pdf. 
+French Capitalism under Stress: How Nicolas Sarkozy Rescued the Banks (Jabko and Massoc 
+2012) – Article discussing the governmental response to the global financial crisis in France.   
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Sarkozy.pdf. 
+France: 2009 Article IV Consultation: Staff Report; Public Information Notice on the 
+Executive Board Discussion; and Statement by the Executive Director for France 
+(07/31/2009) – IMF Country R eport on the French response to the global financial crisis . 
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/_cr09232.pdf. 
+ 
+Implementation Documents 
+State Aid N251/2009 — French Republic: Extension of the refinancing scheme for financial 
+institutions (05/12/2009) – Document released by the European Commission giving approval 
+for the extension of the refinancing scheme . 
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/231105_1014477_22_1.pdf.  
+Opinion of the European Central Bank of 21 October 2008 at the request of the Banque de 
+693
+French Liquidity Support through the SFEF Fang
+
+--- Page 16 ---
+France on a draft amending finance law for the financing of the economy  (10/21/2008) – 
+Document released by the European Central Bank reviewing France’s plan . 
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/CELEX_52008AB0056_EN_T
+XT.pdf.  
+Moody’s Assigns Aaa To Debt Of SRAEC (SFEF) Guaranteed by French Government  
+(10/04/2008) – Moody’s decision to award triple-A rating to SFEF loans . 
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Announcement%20-
+%20Moodys-assigns-Aaa-to-debt-of-SRAEC-SFEF-guaranteed-by-French-government%20-
+%2004Nov08.pdf. 
+Law n ° 2008­1061 of October 16, 2008 of finance rectificative for the financing of t he 
+economy (10/16/2008) – Law passed in the French legislature establishing the intervention . 
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Law%20n%20%C2%B0%2
+02008- https://ypfs.som.yale.edu/library/law-n-deg-2008-1061-october-16-2008-finance-
+rectificative-financing-economy 
+Program Summary 
+Order of 23 October 2008 granting the State guarantee to a debt securities issuance program 
+carried out by the company refinancing  the activities of credit institutions (10/23/2008)  - 
+Addendum to finance law providing f or state guarantee of funds . 
+https://ypfs.som.yale.edu/library/order-23-october-2008-granting-state-guarantee-debt-
+securities-issuance-program-carried-out 
+The French Bank Relief Act  – One-page summary of the policy from Skadden, Arps, Slate, 
+Meagher & Flom LLP and Affiliates Insights Publication . 
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/sites_default_files_publicati
+ons_publications1660_0.pdf.  
+Summary of Government Interventions: France (09/08/09) – Mayer Brown LLP publication 
+detailing the French policy. 
+https://ypfs.som.yale.edu/library/summary-government-interventions-france  
+Media Stories   
+SFEF Closes Doors as French Banks Go It Alone (GlobalCapital 2008) – Article on the closure 
+of the SFEF.  
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/SFEF%20closes%20doors%
+20as%20French%20banks%20go%20it%20alone%20_%20GlobalCapital.pdf.  
+RPT-Fitch Affirms SFEF's Guaranteed Bond Issues at ‘AA+’ (06/26/2014) – News article on 
+the credit rating of SFEF’s bonds.          
+https://ypfs.som.yale.edu/library/rpt-fitch-affirms-sfefs-guaranteed-bond-issues-aa 
+Press Releases/Announcements 
+France’s plan for ensuring the financing of the economy and restoring confidence – Minister 
+of the Economy Christine Lagarde’s state ment to the press on the country’s economic plan .  
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/081013plan_economie_vers
+ion_anglaise.pdf. 
+CRH – Caisse de Refinancement de l’Habitat  – Document prepared by CRH for roadshow 
+694
+Journal of Financial Crises Vol. 2 Iss. 3
+
+--- Page 17 ---
+presentation.  
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/PresentationEn.pdf.  
+Reports/Assessments 
+2009 Annual Report of the Banque de France  – Document released by the Banque de France 
+annually detailing its activities and the state of the French economy.  
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/annual-report-banque-de-
+france_2009.pdf.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+695
+French Liquidity Support through the SFEF Fang
+
+--- Page 18 ---
+VI. Appendix 
+Appendix A: SFEF Activity 
+SFEF Activity 
+Date of  
+Issuance 
+Amount of 
+Issuance 
+Maturation Date Coupon Rate Spread Number of 
+Loans 
+Advanced 
+Nov. 12, 20084 €5 billion  Nov. 24, 2011 3.5% 5 bps over mid-swap 
+rate 
+9 loans 
+Dec. 1, 2008 €6 billion  Dec. 10, 2010 3% 4 bps over mid-swap 
+rate 
+10 loans 
+Dec. 9, 2008  
+(private 
+placement) 
+€2 billion  March 18, 2010 EURIBOR 
+minus 5 bps 
+N/S 9 loans 
+Jan. 7, 2009 €5 billion Jan. 16, 2014 3.25% 15 bps over mid-
+swap rate 
+11 loans 
+Jan. 23, 2009 $6 billion Jan. 30, 2012 2.125% 40 bps over the mid-
+swap rate 
+9 loans 
+Feb. 3, 2009 €6 billion Feb. 10, 2011 2.25% 9 bps over the mid-
+swap rate 
+11 loans 
+Feb. 18, 2009 $5.5 billion Feb. 25, 2011 2% 45 bps over mid-
+swap rate 
+N/A5 
+March 3, 2009 €6 billion March 10, 2012 2.373% 15 bps over mid-
+swap rate 
+N/A 
+March 16, 2009 $4 billion March 26, 2012 2.375% 50 bps over mid-
+swap rate 
+N/A 
+March 30, 2009 €5 billion April 7, 2014 3% 37 bps over mid-
+swap rate 
+N/A 
+ 
+4 This first loan was intended as a test to make sure the SFEF infrastructure worked.  
+5 Per Mayer Brown, N/A indicates that any issuances marked N/A did not have loans advanced  
+(https://www.mayerbrown.com/publications/summary-of-government-interventions-in-financial-markets--
+-france-09-09-2009/). 
+696
+Journal of Financial Crises Vol. 2 Iss. 3
+
+--- Page 19 ---
+April 15, 2009 $3 billion  Oct. 29, 2010 1.5% 30 bps over 
+interpolated one- 
+year, two-year USD 
+mid-swap rate 
+N/A 
+April 22, 2009 $7 billion  May 5, 2014 3.375% 37 bps over mid-
+swap rate 
+N/A 
+May 11, 2009 €5 billion May 20, 2013 2.125% 10 bps over mid-
+swap rate 
+N/A 
+June 2, 2009 $6 billion  June 11, 2012 2.25% 25 bps over mid-
+swap rate 
+N/A 
+June 22, 2009 €5 billion June 30, 2014 3.125% 25 bps over mid-
+swap rate 
+N/A 
+July 1, 2009 CHF 2 billion  July 22, 2011 Floating 3-
+month CHF 
+LIBOR 
+N/A N/A 
+July 8, 2009 €3 billion July 16, 2012 Floating 3-
+month CHF 
+LIBOR plus 5 
+bps 
+N/A N/A 
+July 8, 2009 £750 million  July 16, 2012 Floating 3-
+month CHF 
+LIBOR plus 5 
+bps 
+N/A N/A 
+July 8, 2009 $3 billion  July 16, 2012 Floating 3-
+month USD 
+LIBOR plus 20 
+bps 
+N/A N/A 
+Source: Mayer Brown: Summary of Government Interventions – France, 2009  
+ 
+ 
+ 
+Copyright 2015, 2016, 2020 © Yale University. All rights reserved. To order copies of this 
+material or to receive permission to reprint any or all of this document, please contact the 
+Yale Program for Financial Stability at ypfs@yale.edu.  
+ 
+697
+French Liquidity Support through the SFEF Fang

@@ -1,0 +1,615 @@
+--- Page 1 ---
+Journal of Financial Crises Journal of Financial Crises 
+Volume 3 Issue 3 
+2021 
+Russian Bank Capital Support Program Russian Bank Capital Support Program 
+Sean Fulmer 
+Yale School of Management 
+Follow this and additional works at: https://elischolar.library.yale.edu/journal-of-financial-crises 
+ Part of the Economic History Commons, Economic Policy Commons, Finance and Financial 
+Management Commons, Policy Design, Analysis, and Evaluation Commons, and the Public Policy 
+Commons 
+Recommended Citation Recommended Citation 
+Fulmer, Sean (2021) "Russian Bank Capital Support Program," Journal of Financial Crises: Vol. 3 : Iss. 3, 
+584-597. 
+DOI: https://doi.org/10.17132/2693-3179.1227 
+Available at: https://elischolar.library.yale.edu/journal-of-financial-crises/vol3/iss3/27 
+This Case Study is brought to you for free and open access by the Journal of Financial Crises and 
+EliScholar – A Digital Platform for Scholarly Publishing at Yale. For more information, please contact 
+journalfinancialcrises@yale.edu.
+
+--- Page 2 ---
+READERS TAKE NOTICE: READERS TAKE NOTICE: 
+As of April 2024, the YPFS Resource Library’s site domain has changed 
+to https://elischolar.library.yale.edu/ypfs-financial-crisis-resource-library/. 
+Please be aware that upon clicking any of the URL references to 
+the former Resource Library domains, either https://ypfs.som.yale.edu 
+or https://ypfsresourcelibrary.blob.core.windows.net/, in the 
+"References/Key Program Documents" section of a case study, 
+readers will encounter a "page not found" error. readers will encounter a "page not found" error. 
+Readers can still retrieve a given resource cited within this case study 
+on the new site  by searching by searching here  for the title cited. for the title cited. 
+This case study is available in Journal of Financial Crises: https://elischolar.library.yale.edu/journal-of-financial-
+crises/vol3/iss3/27
+
+--- Page 3 ---
+Russian Bank Capital Support Program1 
+Sean Fulmer2 
+Yale Program on Financial Stability Case Study 
+November 12, 2021 
+Abstract 
+At the start of 2014, the Russian Federation had experienced several years of decelerating 
+growth rates as a result of weak investment, poor governance, and failed structural 
+reforms. During 2014, the dual shocks of rapidly declining oil prices and increasingly 
+stringent international sanctions led to significant financial instability, as Russian firms lost 
+access to international markets and net capital outflows accelerated. As part of the 
+response to this crisis, the Russian government unveiled a RUB 1 trillion (US $17.2 billion) 
+bank capital support program, which it later revised down to RUB 838 billion. The 
+program, operated by the Deposit Insurance Agency (DIA), exchanged government bonds 
+(OFZs) for either preferred shares or subordinated debt from lar ge banks, banks affected 
+by the sanctions, or major regional banks. The DIA required banks to increase lending to 
+certain sectors in the real economy by 1% a month for three years, as well as freezing 
+executive compensation and raising private capital of 50% of the amount of support 
+provided by  the DIA. The DIA concluded agreements with 3 4 banks for the exchange of 
+RUB 838 billion in OFZs, with over RUB 628 billion in OFZs still in place at those 
+institutions as of October 2019 . Government auditors reported that the program 
+transferred RUB 261.3 billion to the federal budget by the end of 2019, as a result of eleven 
+banks ending their participation in th e program, with the four banks merging with others. 
+The Russian government claimed the intervention was a success , noting that lending to the 
+real economy increased by 65%.  
+Keywords: broad-based capital injection;  broad-based, capital injection , Russia, Deposit 
+Insurance Agency, recapitalization  
+  
+ 
+1 This case study is part of the Yale Program on Financial Stability (YPFS) selection of New Bagehot Project 
+modules considering broad-based capital injection programs. 
+Cases are available from the Journal of Financial Crises  at https://elischolar.library.y ale.edu/journal-of-
+financial-crises/. 
+2 Research Associate, YPFS, Yale School of Management. 
+584
+
+--- Page 4 ---
+At a Glance 
+In the second half of 2014, Russia faced 
+two significant shocks to its economic 
+system: an extreme decline in oil prices , 
+and international sanctions in response 
+to Russia’s annexation of Crimea. As a 
+result, the Russian ruble faced serious 
+depreciative pressure, causing net capital 
+outflows of 8% of GDP and declining 
+asset prices which generated liquidity 
+issues for Russian banks. The 
+depreciation of the ruble negatively 
+affected the value of Russian banks’ risk -
+weighted capital, mak ing it harder for 
+Russian banks to operate. The Russian 
+financial sector reported after -tax losses 
+from December 2014 -May 2015 (IMF 
+2015). 
+According to the International Monetary 
+Fund, the sanctions placed on Russia 
+would decrease real GDP by 1 -1.5% in 
+the short term, and possibly cause it to 
+decline by up to 9% in the medium term. 
+Russian companies lost access to 
+international markets —which increased 
+financing costs —and had to turn to 
+Russian banks to finance their external 
+debts—banks which struggled to p rovide 
+the necessary financing (IMF 2015). 
+In response to the worsening economic 
+conditions, the Russian government 
+initiated several measures in fiscal and 
+monetary policy  measures, including a 
+bank capital support program to help 
+ailing banks. The bank c apital support program, announced in December 2014, sought to 
+recapitalize the Russian banking sector with RUB 1 trillion (US  $17.2 billion) set aside for 
+Summary of Key Terms 
+Purpose: The bank capital support program intended to 
+provide capital to systematically important banks 
+affected by declining oil prices and international 
+sanctions, as well as increase lending to select sectors of 
+the real economy. 
+Announcement Date December 2014 
+Operational Date April 27, 2015  
+Sunset Date Not applicable 
+Legal Authority Authorized by Law No. 451-
+FZ 
+Program Size Initially one trillion rubles 
+but revised downwards to 
+838 billion rubles  
+Usage 34 banks received a total of 
+RUB 838 billion in OFZs 
+Outcomes RUB 628.6 billion of 
+preferred shares and 
+subordinated debt remain 
+outstanding with the 
+government as of the end of 
+2020; four banks merged 
+and two lost their banking 
+licenses  
+Key Features Capital injection exchanged 
+for preferred shares in some 
+cases; maturity for 
+subordinated debt 10-20 
+years and in some cases 
+could be greater than 50 
+years 
+Russian Bank Capital Support Program 
+585
+Journal of Financial Crises Vol. 3 Iss. 3
+
+--- Page 5 ---
+the program , later revised down to RUB 838 billion  (IMF 2015).3 The Deposit Insurance 
+Agency (DIA), a state-run corporation, administered the bank capital support program by 
+exchanging government bonds (OFZs) for the preferred shares  and Tier 1 debt  of partly 
+state-owned banks and banks facing international sanctions. Additionally, the DIA swapped 
+OFZs for the Tier 2 subordinated debt of the remaining eligible private banks (IMF 2015). 
+The Russian government allowed large banks (those with at least RUB 25 billion in capital), 
+banks facing international sanctions, and major regional banks to participate in the bank 
+capital support program (IMF 2015). The DIA defined a major regional bank as a bank with 
+at least RUB 5 billion in capital, with only the l argest bank in each constituent entity of the 
+Russian Federation included in this list (DIA 2015). A bank could receive capital support of 
+up to 25% of its capital if it committed to increase lending in specific sectors by one percent 
+a month, froze execut ive compensation  and payroll , and raised its own capital by an 
+additional 50% of the amount of the government’s capital injection (IMF 2015). 
+The Board of Directors of the DIA operated the bank capital support program, dependent 
+on Russian government appro val, while the Accounts Chamber of the Russian Federation  
+(ACRF) provided frequent audits of the program (DIA 2015; ACRF 2020).  
+Summary Evaluation 
+In total, t he DIA purchase d RUB 838 billion rubles of preferred shares and subordinated 
+debt from 34 banks under the bank capital support program, as of December 31, 2019 (DIA 
+2020). That total included: (1) RUB 298 billion in subordinated debt with maturity dates in 
+2025, 2027, 2029, 20 32, and 2034 , from 2 7 private banks; (2) RUB 13 billion in 
+subordinated debt with a maturity of at least 50 years  from three banks; and (3) RUB 527 
+billion in preferred shares from four partly state -owned banks (ACRF 2020) . The DIA 
+funded all of these purchases by issuing OFZs to the supported banks. 
+Twelve banks failed to meet the credit growth target at points during the three -year period 
+and paid RUB 771 million in fines to the DIA as a result. Three banks violated the condition 
+to self -raise funds and p aid RUB 290 million in resultant fines. Two banks exceeded the 
+payroll restrictions and thus remitted RUB 351 million to the federal budget (ACRF 2020). 
+Between the start of the program  and the end of 2019 , 11 banks ended their participation  
+due to various reasons such as reorganizing through merger, exchanging claims for 
+ordinary shares of the banks, and transferring preferred shares to the Treasury of the 
+Russian government (DIA 2020; ACRF 2020). See Figure 1 for the size of the program over  
+time.  
+As of December 31, 2019, over RUB 628.6 billion in  preferred shares and subordinated 
+debt remained outstanding with the Russian government , including the 2.2 billion of 
+subordinated debt to two banks wh ose licenses were revoked in 2017 and 2018 (th ese 
+ 
+3 1 RUB = US$ 0.01723 on December 31, 2014 (Bloomberg).  
+586
+Russian Bank Capital Support Program Fulmer
+
+--- Page 6 ---
+claims will be satisfied through bankruptcy proc eedings) (DIA 2020) . The DIA has 
+transferred RUB 261.3 billion to the federal budget as of October 1, 2019 , as a result of 
+compensation for lost coupon income, dividends on preferred shares, interest on 
+subordinated loans, and fines due to noncompliance with contractual obligations  (ACRF 
+2020). The Accounts Chamber of the Russian Federation, a government auditor, declared 
+that the bank capital support program was successful  because banks made it through th e 
+crisis period, while lending to the real economy  increased by 65% (compared to only 11% 
+for the overall banking sector) (Vilenovich 2019).  
+Figure 1: Assets of Bank Capital Support Program (in RUB billions) 
+ 
+Sources: Deposit Insurance Agency 2016; Deposit Insurance Agency 2017; Deposit Insurance Agency 2018; 
+Deposit Insurance Agency 2019; Deposit Insurance Agency 2020. 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+0
+200
+400
+600
+800
+1000
+1200
+2014 2015 2016 2017 2018 2019
+587
+Journal of Financial Crises Vol. 3 Iss. 3
+
+--- Page 7 ---
+Russian Federation Context 2014 - 2015 
+GDP 
+(SAAR, Nominal GDP in LCU converted to USD) 
+$2.077 trillion in 2014 
+$1.366 trillion in 2015 
+GDP per capita 
+(SAAR, Nominal GDP in LCU converted to USD) 
+$14,096 in 2014 
+$9,313 in 2015 
+Sovereign credit rating (5-year senior debt) 
+ 
+Data for 2014: 
+Moody’s: Baa2 
+S&P: BBB- 
+Fitch: BBB 
+ 
+Data for 2015: 
+Moody’s: Ba1 
+S&P: BBB- 
+Fitch: BBB- 
+Size of banking system 
+ 
+$643 billion in 2014 
+$847 billion in 2015 
+Size of banking system as a percentage of GDP 
+ 
+30.94% in 2014 
+61.96% in 2015 
+Size of banking system as a percentage of financial 
+system 
+ 
+93% in 2014 
+96% in 2015 
+5-bank concentration of banking system 
+ 
+42% in 2014 
+55% in 2015 
+Foreign involvement in banking system 0% in 2014 
+0% in 2015 
+Government ownership of banking system 
+58.5% of assets in state-
+owned banks in 2014 
+58.6% of assets in state-
+owned banks in 2015 
+Existence of deposit insurance 
+100% insurance on 
+deposits up to $21,387 in 
+2013 (exchange rate 
+volatility complicates this 
+estimate) 
+Sources: Bloomberg; World Bank Global Financial Development Database; World Bank 
+Deposit Insurance Dataset. 
+ 
+588
+Russian Bank Capital Support Program Fulmer
+
+--- Page 8 ---
+Key Design Decisions 
+1. Part of a Package: The Russian government provided additional capital support 
+through separate targeted programs; it also provided temporary regulatory 
+forbearance with respect to loan loss provisions and asset valuation.  
+Two additional provisions intended to stabilize the Russian banking sector accompanied 
+the bank capital support progra m. Up to 10% of the assets of the National Wealth Fund 
+(0.5% of GDP) could be used to finance large infrastructure projects through banks (IMF 
+2015). Additionally, the legislation permitted the Central Bank of Russia to inject capital 
+into the largest state -owned bank, Sberbank, which was thus made ineligible for the bank 
+capital support program and held approximately 30% of the system’s assets at the time. 
+The government also replaced subordinated loans it had provided to three state -owned 
+banks during the Global Financial Crisis with preferred shares of up to 0.4% of GDP (IMF 
+2016). 
+The Russian government implemented several temporary regulatory forbearance 
+measures, affecting the valuation of securities and foreign exchange assets. Additionally, 
+there were me asures designed to provide flexibility for loan loss provisioning related to 
+armed conflict and international sanctions (IMF 2016).  
+2. Legal Authority: Law No. 451-FZ authorized the Deposit Insurance Agency to 
+recapitalize the banking sector through the exchange of government bonds for 
+subordinated debt and preferred shares on December 25, 2014.  
+The lower house of the Russian Federal Assembly, the State Duma, passed Law N o. 451-FZ 
+on December 19, 2014, and the upper house, the Federation Council, approved the measure 
+on December 25, 2014. This law allowed the Deposit Insurance Agency (DIA) to 
+recapitalize Russian banks by transferring government bonds (OFZ) for subordinated loans 
+and bonds (Federation Council 2014).  
+3. Communication: The DIA released annual reports, as well as timely 
+announcements of specific recapitalizations.  
+The DIA released annual reports that provided updates on the progress of the bank capital 
+support program. Additionally, the regulation of the DIA required it to publicly announce 
+on its website any transfer of government bonds within five working days. This 
+announcement included the total par value of the transferred government bonds, the term 
+of the subordinated debt, and the interest rate on the subordinated debt (DIA 2015). 
+589
+Journal of Financial Crises Vol. 3 Iss. 3
+
+--- Page 9 ---
+4. Governance/Administration: The DIA required monthly reports from the 
+participating banks to ensure compliance with the conditions in the contracts.  
+The DIA required b anks that received capital support from the DIA to submit monthly 
+reports to the DIA on their required credit growth targets, with quarterly reports on the 
+other conditions included in the capital support agreements (DIA 2015).  
+The Accounts Chamber of the Russian Federation  (ACRF), an audit institution within the 
+Russian government, rele ased quarterly reports on the progress of the bank capital 
+support program (ACRF 2020). The ACRF did not approve of the DIA’s handling of reports, 
+raising concerns of inaccurate or incorrect data in their reports. In response, t he DIA 
+devised a new methodo logy for report preparation in December 2016 (ACRF 2017a) . 
+However, these forms were not approved by the Central Bank of Russia and the ACRF 
+requested that the DIA implement sanctions on banks that provided inaccurate data . 
+Altogether in 2016 -17, the DIA (by its Board’s decisions) implemented financial sanctions 
+(fines) on banks that did not comply with the conditions in the contracts for the total 
+amount of 822.9 million RUB . The fines paid by the banks were transferred by the DIA to 
+the federal budget (DIA 2018).  
+5. Governance/Administration: The Board of Directors of the DIA operated the 
+bank capital support program, subject to government approval.  
+The DIA operated the bank capital support program (IMF 2016). The Board of Direc tors of 
+the DIA determined eligibility of banks to participate in the program, pending approval 
+from the government of the Russian Federation , which consists of the Prime Minister and 
+their deputies  (DIA 2015). It appears that the vast majority of decision s approved by the 
+Board of Directors required governmental authorization. The Board of Directors is 
+comprised of seven representatives from the federal government, five representatives of 
+the Central Bank of Russia, and the director general of the DIA (IMF 2016).  
+6. Size, Timing: The Russian government initially allocated RUB 1 trillion to the 
+bank capital support program, although it later decreased the total to RUB 830 
+billion.  
+At the time of announcement, the Russian government allocated RUB 1 trillion (1 .2% of 
+GDP) to the bank capital support program, although it would later reduce the allocation to 
+RUB 838 billion as a result of lower capital need estimates (IMF 2015). The other RUB 162 
+billion went instead to nonfinancial enterprises (IMF 2016).  
+Eligible banks, excluding regional banks, had until June 1, 20 15, to accept the capital 
+injection offer from the DIA, and the process should have been finalized by November 1, 
+2015. Regional banks had until April 1,  2016, to finalize their participation in the bank 
+capital support program (DIA 2015). Some banks received more than one capital injection 
+throughout the existence of the program.  
+590
+Russian Bank Capital Support Program Fulmer
+
+--- Page 10 ---
+7. Source of the Injections: The Russian government issued new bonds (OFZs) and 
+exchanged them for the securities held by banks.  
+The funding for the bank capital support program came in the form of government bonds 
+(OFZs) included in the 2014 federal budget (IMF 2015). 
+8. Eligible Institutions: The Russian government made large banks, banks affected 
+by international sanctions, and main regional banks eligible for the voluntary 
+bank capital support program, dependent on compliance with certain 
+conditions.  
+There were three main categories of banks eligible to participate in the bank cap ital 
+support program: 
+• Banks with at least RUB 25 billion in capital (27 banks applicable, 43% of system 
+assets) 
+• Banks that were directly or indirectly affected by the economic sanctions ( four 
+banks) 
+• main regional lenders (10 banks), which the DIA defines as having at least RUB 5 
+billion in capital with only the largest bank in each constituent entity of the 
+Russian Federation included in this list (IMF 2015; DIA 2015). 
+Despite Sberbank being technically eligible under the first cate gory, t he bank capital 
+support program excluded  it, since it was majority-owned by the Central Bank of Russia. 
+Partly state-owned banks could participate in the program with eight of the 27 banks in the 
+first category falling under this classification  and holding 64% of the capital in the entire 
+category (IMF 2015).  
+Beyond the categorization of eligible institutions, all banks needed to be in full compliance 
+with the prudential regulations of the Central Bank of Russia at the time of the capital 
+injection. Furthermore, consumer loans had to be  below 40% of total assets, although 
+legislation raised this limit to 50% in July 2015 (IMF 2016).  
+On February 2, 2015, the Russian government approved the 27 banks in the first category 
+for participation in the progr am. The government approved four banks affected by 
+economic sanctions on May 13, 2015. Lastly, the government authorized ten regional banks 
+to participate in the program on August 10, 2015, with RUB 8.47 billion in government 
+bonds allocated to the regional banks (DIA 2016). In total, the DIA preliminarily designated 
+over RUB 856 billion to the banks approved for participation . However, only 34 banks 
+would conclude agreements with the DIA to receive capital support (DIA 2020). 
+591
+Journal of Financial Crises Vol. 3 Iss. 3
+
+--- Page 11 ---
+9. Individual Participation Limits: Banks could not receive more than 25% of their 
+own capital as of January 1, 2015. 
+The capital injection to an individual bank could not exceed 25% of the bank’s own capital 
+as of January 1, 2015 , unless otherwise established by the Bo ard of Directors . In cases 
+when participants of the recapitalization program belonged to the same banking group, the 
+mother bank of the group determined the  amount of funds/bonds that were provided to 
+each, within the limits established by the government for each bank. The DIA regulated that 
+every bank would receive the same percentage of its own capital in support, which the 
+Board of Directors would determine (DIA 2015).  
+The International Monetary Fund (IMF) noted that every bank would be receiving a capi tal 
+injection equal to 25% of the bank’s capital and criticized this condition as not well 
+targeted to individual bank’s needs (IMF 2015). However, the documentation from the DIA 
+stated that the capital support could not exceed 25% of the pre-existing capital, rather than 
+a set 25% injection (DIA 2015).  
+10. Capital Characteristics: The DIA exchanged government bonds for preferred 
+shares (for partly state-owned banks and banks facing international sanctions) 
+and subordinated debt (for other private banks). 
+Initially, the DIA only offered to swap OFZs for subordinated debt of the same maturity. 
+However, most banks did not show interest in participating in the bank capital support 
+program based on that offer  (Vilenovich 2015). In response, the DIA , after the special law 
+amendments, allowed two additional procedures for recapitalization in April 2015: 
+exchanging OFZs for subordinated debt with a maturity of more than 50 years, eligible for 
+extensions, and swapping OFZs for the preferred shares of banks.  While these two options 
+were more attractive to the banks, they posed additional risks to the federal budget  due to 
+irregular receipts and shortfalls in budget revenues compared to what was initially 
+proposed (Vilenovich 2015) . The vast majority of banks e nded up utilizing the original 
+capital injection design. 
+For partly state-owned banks and banks affected by sanctions, the DIA exchanged OFZs for 
+preferred shares (Tier 1  capital), while the remainder of the banks swapped subordinated 
+debt (Tier 2  capital). Over 60% of the funds in the bank capital support program went to 
+partly state-owned banks (IMF 2016).  
+11. Dividends/Interest Rates: The Board of Directors of the DIA determined the 
+interest rate for subordinated debt.  
+The interest rate on the subordinated  debt exchanged for OFZs was set at one percent per 
+year greater than the interest rate on the OFZs themselves (IMF 2016) . For the banks 
+swapping subordinated debt with a maturity of at least 50 years, the Board of Directors of 
+the DIA would determine the interest rate on the subordinated debt within three months of 
+the maturity of the OFZs (DIA 2015). This date has not occurr ed yet for any of the banks 
+participating in the bank capital support program, so the specific process for this rate 
+determination is unclear as of this writing.  
+592
+Russian Bank Capital Support Program Fulmer
+
+--- Page 12 ---
+12. Allocation of losses for existing stakeholders: The bank capital support program 
+did not seem to directly allocate losses to specific stakeholders.  
+Research into the Russian bank capital support program did not find any provisions for the 
+allocation of losses for existing stakeholders , beyond the generally dilutive effects of the 
+government injections.  
+13. Debt Restructuring Plan: The bank capital support program did not require any 
+special debt restructuring plans.  
+The bank capital support program did not include any debt restructuring conditions.  
+14. Fate of Existing Board and Management: Participating banks faced limits on 
+executive compensation and overall wages.  
+A bank could not increase the compensation of its executives or raise its overall wage bill 
+for the first three years after recapitalization.  The DIA Board of Directors decided the size 
+of the fine (DIA 2015). 
+Two banks exceeded the payroll restrictions and thus remitted RUB 351 million to the 
+federal budget (ACRF 2020). 
+15. Other Conditions: The capital support provided by the DIA included required 
+credit growth targets in certain sectors, as well as the bank’s commitment to 
+increase its own capital by 50% of the capital support.  
+The bank capital support program imposed some conditions on re cipients of OFZs. First, 
+banks had to commit to increase the total amount of lending in select sectors by at least one 
+percent per month in the first three years after the recapitalization. These sectors included 
+housing, small - and medium -sized businesses , agriculture, manufacturing, construction, 
+and others (DIA 2015). The IMF criticized this provision, stating that specific credit growth 
+targets would increase credit risks and cause poor credit allocation (IMF 2015). 
+A participating bank also needed to pledge to increase its own capital by at least 50% of the 
+capital injection over the duration of the subordinated loans. The DIA noted that this could 
+be accomplished by issuing new shares and/or by retaining at least 75% of the bank’s 
+profits. This did not  apply to partly state -owned banks. Violations of any conditions of the 
+program could result in an annual fine of up to 2% of the capital support (DIA 2015).  
+Twelve banks failed to meet the credit growth target at points during the three -year period 
+and paid RUB 771 million in fines to the DIA as a result. Three banks violated the condition 
+to privately raise funds and thus paid RUB 290 million in fines (ACRF 2020). 
+593
+Journal of Financial Crises Vol. 3 Iss. 3
+
+--- Page 13 ---
+16. Exit Strategy: The DIA did not announce a predetermined exit strategy for the 
+bank capital support program.  
+The original legislation and announcement of the bank capital support program did not 
+indicate a set deadline or exit strategy. However, the required DIA disclosures  of capital 
+injections did report the maturities of the subordinated debt being purchased. The most 
+recent capital injection took place in May 2017 (DIA 2018).  
+17. Amendments to relevant regulation: The bank capital support program did not 
+appear to include any significant amendments to relevant regulation. 
+Research into the bank capital support program did not find any important amendments to 
+relevant regulation.   
+ 
+References and Key Program Documents 
+Implementation Documents 
+(DIA 2015) Deposit Insurance Agency (DIA). January 13, 2015. “The Procedure and 
+Conditions for Placing the Property Contribution of the Russian Federation to the Property 
+of the State Corporation ‘Deposit Insurance Agency’ in Subordinated Liabilities and 
+Preferred Shares of Banks.”  
+Rules and regulations operating the bank capital supporting program.  
+https://ypfs.som.yale.edu/library/procedure-and-conditions-placing-property-
+contribution-russian-federation-property-state. 
+(Federation Council 2014)  Federation Council. December 25, 2014. “On Amending Article 
+11 of the Federal Law ‘On Insurance of Individual Deposits in Banks of the Russian 
+Federation’ and Article 46 of the Federal Law ‘On the Central Bank of the Russian 
+Federation (Bank of Russia).’”  
+Law establishing the bank capital support program.  
+https://ypfs.som.yale.edu/library/amending-article-11-federal-law-insurance-individual-
+deposits-banks-russian-federation-and. 
+(Ministry of Finance 2015)  Ministry of Finance. May 13, 2015. “On Approval of the Lists of 
+Banks for the Implementation by the Deposit Insurance Agency of Measures to Increase 
+Their Capitalization.”   
+Ministry of Finance approval of the banks eligible for the bank capital support program . 
+https://ypfs.som.yale.edu/library/approval-lists-banks-implementation-deposit-
+insurance-agency-measures-increase-their. 
+594
+Russian Bank Capital Support Program Fulmer
+
+--- Page 14 ---
+Media Stories 
+(Reuters 2015) Reuters. January 23, 2015. “Russia Details Bank Recapitalization Scheme.”  
+Reuters article detailing the initial overview of the bank capital support program.  
+https://ypfs.som.yale.edu/library/russia-details-bank-recapitalization-scheme. 
+Reports/Assessments 
+(ACRF 2015)  Accounts Chamber of the Russian Federation (ACRF). December 24, 2015. 
+“Report on the Interim Results of the Expert and Analytical Event ‘Monitoring and Spot 
+Checks of the Conditions and  Volumes of Placement by the State Corporation’ Deposit 
+Insurance Agency ‘of Federal Loan Bonds in Subordinated Bank Loans and (or) Payment of 
+Such Bonds for Subordinated Bond Loans of Banks’ (for 9 Months of 2015 ).”  
+Report on the bank capital support program for the first nine months of 2015.  
+https://ypfs.som.yale.edu/library/report-interim-results-expert-and-analytical-event-
+monitoring-and-spot-checks-conditions. 
+(ACRF 2017a) Accounts Chamber of the Russian Federation (ACRF). April 6, 2017. “By the 
+End of 2016, the Additionally Capitalized Banks Generated More than 40% of Losses 
+Incurred by the Country’s Banking Sector.”  
+Report on the failures of the bank capital support program and DIA.  
+https://ypfs.som.yale.edu/library/end-2016-additionally-capitalized-banks-generated-
+more-40-losses-incurred-countrys-banking. 
+(ACRF 2017b) Accounts Chamber of the Russian Federation (ACRF). September 7, 2017. 
+“From the Beginning of Additional Capitalization to July 1, 2017, Additional Capitalized 
+Banks Provided the Economy with about 13.7 Trillion Rubles in Credits.”  
+Quarterly report from the Accounts Chamber on the bank capital support program focusing 
+on the 2nd quarter of 2017.  
+https://ypfs.som.yale.edu/library/beginning-additional-capitalization-july-1-2017-
+additional-capitalized-banks-provided. 
+(ACRF 2017c) Accounts Chamber of the Russian Federation (ACRF). December 11, 2017. 
+“The Federal Budget May Lose 85 Billion Rubles. as a  Result of Additional Capitalization of 
+the Banking Sector.”  
+Quarterly report from the Accounts Chamber on the bank capital support program focusing 
+on the 3rd quarter of 2017.  
+https://ypfs.som.yale.edu/library/federal-budget-may-lose-85-billion-rubles-result-
+additional-capitalization-banking-sector. 
+(ACRF 2018)  Accounts Chamber of the Russian Federation (ACRF). April 20, 2018. “Since 
+the Beginning of the Capitalization Program, Banks Have Paid Fines in the Amount of 812.7 
+Million Rubles.”  
+Quarterly report from the Accounts Chamber on the bank capital support program focusing 
+on the 4th quarter of 2017.  
+https://ypfs.som.yale.edu/library/beginning-capitalization-program-banks-have-paid-
+fines-amount-8127-million-rubles. 
+595
+Journal of Financial Crises Vol. 3 Iss. 3
+
+--- Page 15 ---
+(ACRF 2020)  Accounts Chamber of th e Russian Federation (ACRF). February 21, 2020. 
+“Intermediate Results of Monitoring the Implementation of the Program for Additional 
+Capitalization of Banks.”  
+Report evaluating the progress of the bank capital support program.  
+https://ypfs.som.yale.edu/library/intermediate-results-monitoring-implementation-
+program-additional-capitalization-banks. 
+(DIA 2016)  Deposit Insurance Agency (DIA). March 11, 2016. “Annual Report of the State 
+Corporation ‘Deposit Insurance Agency’ for 2015.”  
+Annual Report from the DIA for 2015.  
+https://ypfs.som.yale.edu/library/annual-report-state-corporation-deposit-insurance-
+agency-2015. 
+(DIA 2017)  Deposit Insurance Agency (DIA). March 14, 2017. “Annual Report of the State 
+Corporation ‘Deposit Insurance Agency’ for 2016.”  
+Annual Report from the DIA for 2016.  
+https://ypfs.som.yale.edu/library/annual-report-state-corporation-deposit-insurance-
+agency-2016. 
+(DIA 2018) Deposit Insurance Agency (DIA). March 6, 2018. “Annual Report of the State 
+Corporation ‘Deposit Insurance Agency’ for 2017.”  
+Annual Report from the DIA for 2017.  
+https://ypfs.som.yale.edu/library/annual-report-state-corporation-deposit-insurance-
+agency-2017. 
+(DIA 2019) Deposit Insurance Agency (DIA). March 6, 2019. “Annual Report for 2018 of the 
+State Corporation Deposit Insurance Agency.”  
+Annual Report from the DIA for 2018.  
+https://ypfs.som.yale.edu/library/annual-report-2018-state-corporation-deposit-
+insurance-agency. 
+(DIA 2020) Deposit Insurance Agency (DIA). March 13, 2020. “Annual Report of the State 
+Corporation ‘Deposit Insurance Agency’ for 2019.”  
+Annual Report from the DIA for 2019.  
+https://ypfs.som.yale.edu/library/annual-report-state-corporation-deposit-insurance-
+agency-2019. 
+(IMF 2015) International Monetary Fund (IMF). July 2, 2015. “Rus sian Federation Staff 
+Report for the 2015 Article IV Consultation.”  
+Report from the IMF that provides an overview of the bank capital support program . 
+https://ypfs.som.yale.edu/library/russian-federation-staff-report-2015-article-iv-
+consultation. 
+(IMF 2016) International Monetary Fund (IMF). September 2016. “Technical Note on Bank 
+Resolution and Crisis Management Framework.”  
+Report from the IMF that provides updates to the bank capital support program.  
+596
+Russian Bank Capital Support Program Fulmer
+
+--- Page 16 ---
+https://ypfs.som.yale.edu/library/technical-note-bank-resolution-and-crisis-management-
+framework. 
+(Vilenovich 2015) Vilenovich, Perchyan Andrey. July 30, 2015. “The system of additional 
+capitalization of banks has not yet begun to work in full force.”  
+Report from an auditor with the Accounts Chamber on the  delayed implementation of the 
+bank capital support program.  
+https://ypfs.som.yale.edu/library/system-additional-capitalization-banks-has-not-yet-
+begun-work-full-force. 
+(Vilenovich 2018) Vilenovich, Perchyan  Andrey. October 4, 2018. “The DIA Program 
+Ensured the Growth of Lending to Priority Sectors of the Economy – by 64.5%.”  
+Quarterly report from the Accounts Chamber on the bank capital support program focusing 
+on the 2nd quarter of 2018.  
+https://ypfs.som.yale.edu/library/dia-program-ensured-growth-lending-priority-sectors-
+economy-645. 
+(Vilenovich 2019) Vilenovich, Perchyan Andrey. April 16, 2019. “Additional Capitalization 
+of Banks through the DIA Was Successful.”  
+Report from the Accounts Chamber on the bank capital support program’s success.  
+https://ypfs.som.yale.edu/library/additional-capitalization-banks-through-dia-was-
+successful. 
+Copyright 2021 © Yale University. All rights reserved. To order copies of this material or to receive 
+permission to reprin t any or all of this document, please contact the Yale Program on Financial 
+Stability at ypfs@yale.edu.  
+597
+Journal of Financial Crises Vol. 3 Iss. 3

@@ -1,0 +1,533 @@
+--- Page 1 ---
+Journal of Financial Crises Journal of Financial Crises 
+Volume 4 Issue 2 
+2022 
+Russia: Deposit Insurance Agency (2008–2009) Russia: Deposit Insurance Agency (2008–2009) 
+Ezekiel Vergara 
+Yale School of Management 
+Follow this and additional works at: https://elischolar.library.yale.edu/journal-of-financial-crises 
+ Part of the Economic Policy Commons, Finance and Financial Management Commons, 
+Macroeconomics Commons, Policy Design, Analysis, and Evaluation Commons, Policy History, Theory, 
+and Methods Commons, and the Public Administration Commons 
+Recommended Citation Recommended Citation 
+Vergara, Ezekiel (2022) "Russia: Deposit Insurance Agency (2008–2009)," Journal of Financial Crises: Vol. 
+4 : Iss. 2, 549-561. 
+DOI: https://doi.org/10.17132/2693-3179.1312 
+Available at: https://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss2/23 
+This Case Study is brought to you for free and open access by the Journal of Financial Crises and 
+EliScholar – A Digital Platform for Scholarly Publishing at Yale. For more information, please contact 
+journalfinancialcrises@yale.edu.
+
+--- Page 2 ---
+READERS TAKE NOTICE: READERS TAKE NOTICE: 
+As of April 2024, the YPFS Resource Library’s site domain has changed 
+to https://elischolar.library.yale.edu/ypfs-financial-crisis-resource-library/. 
+Please be aware that upon clicking any of the URL references to 
+the former Resource Library domains, either https://ypfs.som.yale.edu 
+or https://ypfsresourcelibrary.blob.core.windows.net/, in the 
+"References/Key Program Documents" section of a case study, 
+readers will encounter a "page not found" error. readers will encounter a "page not found" error. 
+Readers can still retrieve a given resource cited within this case study 
+on the new site  by searching by searching here  for the title cited. for the title cited. 
+This case study is available in Journal of Financial Crises: https://elischolar.library.yale.edu/journal-of-financial-
+crises/vol4/iss2/23
+
+--- Page 3 ---
+Russia: Deposit Insurance Agency (2008–2009)1 
+Ezekiel Vergara2 
+Yale Program on Financial Stability Case Study 
+July 15, 2022 
+Abstract 
+Russian authorities responded to the Global Financial Crisis (GFC) in September and October 
+2008 with various measures to provide liquidity to the banking sector and restore market 
+confidence. Among these, on October 13, 2008, Russia amended its deposit insurance 
+system. This amendment increased the deposit insurance cap from RUB 400,000 to RUB 
+700,000 ( about USD 15,000 to USD 26,000 ) and abolished co -insurance, increasing the 
+guarantee’s full coverage of deposits from 90% to 100%. The Deposit Insurance Agency 
+(DIA) administered the deposit insurance system. It covered all household deposit accounts 
+and was mandatory for all banks operating in Russia. Banks were required to pay a quarterly 
+premium. In 2008 and 2009, 58 institutions failed. These failures affected 599,000 
+depositors, totaling RUB 22.1 billion. In 2014, the State Duma further increased the deposit 
+insurance cap to RUB 1.4 million. 
+Keywords: account guarantee, co -insurance, Deposit Insurance Agency, Global Financial 
+Crisis, Russia 
+  
+ 
+1 This case study is part of the Yale Program on Financial Stability (YPFS) selection of New Bagehot Project 
+modules considering account guarantee programs. Cases are available from the Journal of Financial Crises at   
+https://elischolar.library.yale.edu/journal-of-financial-crises/. 
+2 Research Associate, YPFS, Yale School of Management. 
+549
+
+--- Page 4 ---
+Overview 
+At the peak of the Global Financial Crisis 
+(GFC) in 2008, Russian authorities adopted a 
+range of policies to maintain financial 
+stability, increasing market liquidity, cutting 
+reserve requirements, and recapitalizing 
+several institutions (World Bank 2008; IMF 
+2011).  
+Russian authorities also altered the 
+country’s deposit insurance system, with the 
+goal of boosting public trust and confidence 
+in the Russian banking system (CBR n.d.; IMF 
+2011). At the time, Russia’s Deposit 
+Insurance Agency (DIA) guaranteed R UB 
+400,000 (about USD 15,000 3) per depositor 
+in every bank (Chernykh and Cole 2011). The 
+mandatory program included a co-insurance 
+feature, in that the DIA guaranteed only 90% 
+of amounts above RUB 100,000, up to the 
+insured cap (Chernykh and Cole 2011) . 
+Banks were required to pay a quarterly 
+premium to the DIA’s Deposit Insurance 
+Fund (DIF) (State Duma 2003, secs. 33 –35). 
+The deposit insurance system covered 
+household deposits in rubles and foreign 
+currencies (State Duma 2003, article 2[2]) . 
+The Central Ba nk of Russia (CBR) assisted 
+the DIA with institutional monitoring (State 
+Duma 2003, article 14; CBR 2009).  
+On October 13, 2008, the State Duma 
+increased the deposit insurance limit from 
+RUB 400,000 to RUB 700,000 for bank 
+failures that occurred after Octo ber 1, 2008 
+(DIA 2009h). The State Duma also abolished 
+co-insurance (Chernykh and Cole 2011) . 
+These changes automatically applied to all 
+banks (DIA 2009h). The DIA also reduced the 
+quarterly premium from 0.13% to 0.1%, “to 
+decrease [the] financial burden o n banks 
+resulting from their participation” (DIA 
+2009h). Under the increased coverage, the 
+ 
+3 On Oct. 15, 2008, USD 1 = RUB 26.31, per Yahoo Finance. 
+Key Terms 
+Purpose: To boost confidence in the banking system  
+Launch Dates Announcement: October 
+13, 2008  
+Authorization: October 
+13, 2008  
+Operation: October 13, 
+2008, covering 
+depositors retroactively 
+from October 1, 2008  
+End Dates Adopted as a permanent 
+change  
+Eligible Institutions All banks in Russia  
+Eligible Account(s) Household deposit 
+accounts, including 
+foreign currency 
+deposit accounts  
+Fees No additional fees other 
+than quarterly 
+premiums; quarterly 
+premium reduced from 
+0.13% to 0.1%  
+Size of Guarantee RUB 700,000  
+Coverage Highest participation in 
+2008, with 937 banks 
+insured; highest total 
+liability in 2009, with 
+RUB 5.4 trillion in 
+deposits  
+Outcomes In 2008 and 2009, 58 
+institutions failed, 
+summing to RUB 22.1 
+billion 
+Notable Features Abolition of co-
+insurance  
+ 
+Reduction of quarterly 
+fees  
+ 
+Partnership with agent 
+banks  
+550
+Journal of Financial Crises Vol. 4 Iss. 2
+
+--- Page 5 ---
+DIA fully insured approximately 99% of accounts by number and 70% by amount (IMF 
+2011). The State Duma made the changes permanent in 2008 (DIA 2009h). 
+By year-end 2008, the DIA reported that 27 insured institutions had failed, affecting 344,000 
+depositors with RUB 16.3 billion in insured deposits (DIA 2009d; DIA 2010) . Another 31 
+insured institutions failed in 2009, comprising 256,000 accounts with RUB 5.8 billion in 
+insured deposits (DIA 2010). 
+In 2014, the State Duma further increased the deposit insurance cap from RUB 700,000 to 
+RUB 1.4 million (FSB 2015; State Duma 2014). 
+Summary Evaluation 
+The DIA wrote that the expanded deposit insurance system “had [a] positive stabilizing 
+influence on [the] household deposit market” (DIA 2009c). Total deposits grew by 14.7% in 
+2008 and by 26.8% in 2009, reaching RUB 7.5 trillion that year (DIA 2009c; DIA 2010). 
+In its 2011 Financial System Stability Assessment on the Russian economy, the International 
+Monetary Fund (IMF) urged Russian authorities, including the CBR, to share more 
+information with the DIA going forward (IMF 2011). It noted that the working group that 
+Russia established in 2010 to monitor financial conditions did not include the DIA (IMF 
+2011).  
+The IMF, though, did praise Russia’s deposit insurance system as “well -structured,” 
+highlighting how payouts were completed within seven to 14 days (IMF 2011). They also 
+highlighted that Russia’s deposit insurance scheme was adequately funded (IMF 2011) . 
+However, the IMF criticized the CBR and the DIA for banning banks that miss certain financial 
+ratios from taking deposits; it said that this policy co uld have unintended consequences for 
+financial stability (IMF 2011). 
+  
+551
+Russia Vergara
+
+--- Page 6 ---
+Context: Russia 2008–2009 
+GDP 
+(SAAR, nominal GDP in LCU  
+converted to USD) 
+$1.664 trillion in 2008 
+$1.232 trillion in 2009 
+GDP per capita 
+(SAAR, nominal GDP in LCU  
+converted to USD) 
+$11,635 in 2008 
+$8,563 in 2009 
+Sovereign credit rating  
+(five-year senior debt) 
+Data for 2008: 
+Moody’s: Baa1 
+S&P: BBB+ 
+Fitch: BBB+ 
+ 
+Data for 2009: 
+Moody’s: Baa1 
+S&P: BBB+ 
+Fitch: BBB 
+Size of banking system $33.62 billion in 2008 
+$34.02 billion in 2009 
+Size of banking system  
+as a percentage of GDP 
+2.02% in 2008 
+2.76% in 2009 
+Size of banking system  
+as a percentage of financial system 
+71.03% in 2008 
+75.62% in 2009 
+Five-bank concentration of banking system 28.97% in 2008 
+36.36% in 2009 
+Foreign involvement in banking system 13% in 2008 
+12% in 2009 
+Government ownership of banking system Data not available for 2008 
+Data not available for 2009 
+Existence of deposit insurance Yes, in 2008 
+Yes, in 2009 
+Sources: Bloomberg, World Bank Global Financial Development Database , World 
+Bank Deposit Insurance Dataset. 
+552
+Journal of Financial Crises Vol. 4 Iss. 2
+
+--- Page 7 ---
+Key Design Decisions 
+1. Purpose: Changes to the Russian deposit insurance system were designed to 
+bolster depositor confidence, given global economic instability. 
+On October 10, 2008, the G -7 in a statement  urged countries to maintain sound deposit 
+insurance schemes (Group of Seven 2008). On October 13, Russia’s State Duma amended the 
+country’s deposit insurance system (DIA 2009h). It increased the insured deposit cap from 
+RUB 400,000 to RUB 700,000 and abolished co -insurance by insuring 100% of deposits up 
+to the cap, replacing the 90% insurance previously available on amounts above RUB 100,000 
+(Chernykh and Cole 2011; DIA 2009h) . These measures wer e meant to boost public 
+confidence in the Russian banking system (CBR n.d.; IMF 2011). 
+2. Part of a Package: Russia adopted a suite of monetary and fiscal policy measures, 
+including cutting reserve requirements and recapitalizations. The DIA also 
+reduced quarterly premiums. Russia also provided the DIA with capital to finance 
+the restructuring of banks with new owners. 
+Russia took several monetary and fiscal measures to restore financial stability during the 
+GFC, which included increasing market liquidity, cut ting reserve requirements, and 
+recapitalizing several institutions (World Bank 2008). In September 2008, the DIA had also 
+reduced quarterly premiums to “decrease [the] financial burden on banks resulting from 
+their participation in [the] DIS [deposit insurance scheme]” (DIA 2009h).  
+At the end of October 2008, the State Duma passed a law that allowed the CBR and the DIA 
+to cooperate to resolve failing banks that posed a systemic risk (State Duma 2008b). The CBR 
+could ask the DIA to intervene in bankruptcy prevention activities for systemically important 
+banks (DIA 2009a). The DIA was allowed to provide such institutions with loans, purchase 
+assets, acquire shares and equity, and administer the failing institution (DIA 2009a). In some 
+instances, the DIA utilized “purchase and assumption transactions,” in which solvent banks 
+purchased some of the failing institution’s assets, while the remaining part of the insolvent 
+bank underwent the standard bankruptcy procedure (DIA 2009f). The DIA argued that this 
+allowed depositors constant access to their funds and required less resources than 
+liquidation (DIA 2009f). By January 1, 2010, the DIA had carried out rehabilitation measures 
+in relation to 14 banks, the majority of its actions occurring in 2008 (DIA 2010). The Russian 
+government injected RUB 200 billion into the DIA to allow it to rehabilitate banks in need of 
+financial support; these funds did not contribute to the DIF (DIA 2009b; DIA 2010). By 2010, 
+the DIA, along with the CBR, had become more involved in bankr uptcy prevention and 
+insolvency proceedings (CBR 2011). 
+3. Legal Authority: The State Duma amended Russia’s existing deposit insurance law 
+to expand Russia’s deposit insurance system. 
+In December 2003, the Russian State Duma passed legislation that established its deposit 
+insurance system, administered by the DIA (State Duma 2003, para. 1) . The State Duma 
+553
+Russia Vergara
+
+--- Page 8 ---
+amended the law in 2006 and 2007, increasing the deposit insurance cap and establishing a 
+co-insurance scheme (State Duma 2003).  
+The State Duma amended the law on October 13, 2008, at the height of the GFC, increasing 
+the deposit insurance limit to RUB 700,000 and abolishing co-insurance (DIA 2009h). 
+4. Administration: The DIA administere d Russia’s deposit insurance system. The 
+CBR assisted the DIA, providing information and helping the DIA with prudential 
+oversight. 
+Pursuant to Russian law, the DIA administered Russia’s deposit insurance system (State 
+Duma 2003, secs. 14–15). As such, the DIA was responsible for paying out depositors, should 
+a bank fail, and managing the DIF (State Duma 2003, secs. 14–15, 33–35). In 2008 and 2009, 
+the DIA also partnered with agent banks, which could make payouts on behalf of the DIA, 
+allowing for the quick reimbursement of depositor funds (DIA 2009d; DIA 2010). 
+The CBR, as the country’s central bank and banking supervisor, aided the DIA by providing 
+information used for prudential oversight and by jointly conducting inspections of banks 
+(FSB 2015; CBR 2009). 
+5. Governance: The DIA was governed by a Board of Directors. It was subject to 
+yearly audits and was required to produce an annual report. 
+A Board of Directors governed the DIA (State Duma 2003, article 18). The Board of Directors 
+had 13 members: seven from the Russian government, five from the CBR, and the DIA’s 
+Director General (State Duma 2003, article 18[1]). The Board of Directors’ powers included 
+the power to set quarterly premium rates, present proposals to fund the DIF if its funds were 
+insufficient, and appoint external auditors to audit the DIA (State Duma 2003, article 19).  
+The DIA was required to publish both an annual report and release its balance sheet in two 
+gazettes (State Duma 2003, article 2 4). The DIA was also required to annually appoint an 
+external auditor to inspect the DIA; under extraordinary circumstances, the Board of 
+Directors could require additional audits (State Duma 2003, article 25). 
+6. Communication: The DIA communicated with depo sitors through various 
+channels throughout the GFC. 
+The DIA sought to communicate the changes in the deposit insurance system quickly and 
+through diverse means (DIA 2009g). The DIA released more than 100 news releases and held 
+11 press conferences (DIA 2009g). The DIA also utilized special brochures, website content, 
+and a hotline to answer depositors’ questions (DIA 2009g). 
+7. Size of Guarantees: The DIA covered 100% of eligible accounts up to RUB 700,000. 
+The DIA insured eligible accounts up to RUB 700,000, pursuant to the State Duma’s 
+amendment (DIA 2009h; Chernykh and Cole 2011) . This amendment also abolished co -
+insurance, meaning that the DIA would pay 100% of any losses up to the deposit cap (DIA 
+554
+Journal of Financial Crises Vol. 4 Iss. 2
+
+--- Page 9 ---
+2009h; Chernykh and Cole 2011) . Under the previous scheme, the DIA paid 90% of losses 
+above RUB 100,000, up to the deposit cap (DIA 2009h; Chernykh and Cole 2011) . In 2009, 
+the DIA insured a total of RUB 5.4 trillion, an increase from RUB 4.2 trillion in 2008 (DIA 
+2010). 
+8. Source(s) and Size of Funding:  The DIA mainly funded its guarantee through 
+quarterly premiums. 
+The deposit insurance system’s primary source of funding was quarterly premiums that 
+banks paid to the DIA (State Duma 2003, secs. 33 –35; DIA 2009e) . T he premiums 
+contributed to the DIF, which was used to pay out depositors in the event of bank failure 
+(State Duma 2003, article 33[2]). The DIA invested some of the DIF’s funds to protect it from 
+inflation (DIA 2010).  
+By year-end 2008, the DIF had grown b y 28.2% to RUB 79.1 billion , meaning its coverage 
+ratio was approximately 1.9%  (DIA 2009e; DIA 2010) . The DIA reported that RUB 67.3 
+billion came from insurance premiums, RUB 6.9 billion came from property contributions 
+from the Russian Federation, and RUB  4.9 billion came from reinvested profit (DIA 2009e). 
+By year-end 2009, the DIA reported that the DIF grew by 19% to RUB 93.7 billion , meaning 
+that the DIF’s coverage ratio was 1.7%  (DIA 2010). The DIA reported that RUB 81.9 billion 
+came from insurance pre miums, RUB 6.9 billion came from the Russian Federation’s 
+property contributions, and RUB 4.9 billion came from reinvested profit (DIA 2010). 
+In 2008, the Russian government injected RUB 200 billion into the DIA to support bank 
+resolution activities, inclu ding purchase and assumption transactions; these funds were 
+separate from the DIF (DIA 2009b; DIA 2010).  
+9. Eligible Institutions: All banks in Russia were required to participate in the 
+deposit insurance scheme. 
+All banks operating in Russia that had the li cense for attracting deposits from individuals 
+were required to participate in its deposit insurance system (State Duma 2003, article 6[1]). 
+As such, all such banks in Russia were insured when the State Duma altered the deposit 
+insurance cap (DIA 2009h).  
+In 2008, the DIA reported that it covered a total of 937 banks (DIA 2009h). In its 2009 annual 
+report, the DIA said that the number of operating banks declined to 925 as of January 1, 2010 
+(DIA 2010).  
+10. Eligible Accounts: All deposit accounts, including foreign currency accounts, were 
+covered by the guarantee. 
+Pursuant to Russian law, the DIA’s deposit insurance system covered all deposits of 
+individuals in institutions operating in Russia (State Duma 2003, article 2[2]) . Notably, it 
+insured principle and interest on all accounts of individuals denominated in rubles and 
+foreign currency (State Duma 2003, article 2[2]).  
+555
+Russia Vergara
+
+--- Page 10 ---
+All deposits made in Russia were revocable, including term deposits (State Duma 2008a, 
+article 837; Chernykh and Cole 2011).  
+11. Fees: The DIA collected quarterly premiums from participating institutions, which 
+the DIA reduced from 0.13% to 0.1%. 
+Pursuant to Russian law, all institutions covered under the Russian deposit insurance system 
+were required to pay q uarterly premiums (State Duma 2003, articles 33 -35). These 
+premiums contributed to the DIF, which was used to pay out depositors in the case of an 
+eligible institution’s failure (State Duma 2003, article 33[2]) . In September 2008, the DIA 
+reduced the quarterly premium rate that participating institutions paid, from 0.13% to 0.1%, 
+to decrease the financial burden on banks during the crisis (DIA 2009h). The DIA estimated 
+that this change would collectively save banks a total of RUB 9 billion (DIA 2009h).  
+12. Process for Exercising Guarantee (A): Once the CBR had revoked a bank’s license 
+or imposed a moratorium on meeting creditor claims, depositors could submit 
+claims to the DIA. The DIA would usually pay out depositors within seven to 14 
+days.  
+Depositors could make claims on the DIA once an “insured event” occurred: meaning that 
+the CBR either revoked a bank’s license or put a moratorium on meeting claims of the bank’s 
+creditors (State Duma 2003, article 8) . Once this insured event occurred, depositors could 
+make claims on the DIA (State Duma 2003, article 10) . Within seven days of the insured 
+event, the DIA was required to provide depositors with the process for making a claim on 
+the DIA (State Duma 2003, article 12) . Moreover, within a month, the DIA needed to notify 
+all depositors o f the insured event ’s occurrence (State Duma 2003, article 12) . Depositors 
+were required to provide proof of their identity and proof of their deposit account (State 
+Duma 2003, article 10[4]). The DIA would then pay out the depositor , usually within seven 
+to 14 days of the insured event (IMF 2011).  
+Process for Exercising Guarantee ( B): The DIA partnered with agent banks to 
+facilitate the payout process.  
+In 2008 and 2009, the DIA partnered with agent banks, which could make payouts on behalf 
+of the DIA (DIA 2009d; DIA 2010) . By working with these agent banks and their extensive 
+branch networks, which were selected on a competitive basis, the DIA was able to reduce the 
+time required for reimbursements (DIA 2009d; DIA 2010). 
+13. Other Restr ictions on Eligible Institutions/Accounts:  No additional restrictions 
+were associated with the deposit guarantee. 
+It seems that there were no additional restrictions associated with Russia’s expanded 
+deposit guarantee scheme. 
+556
+Journal of Financial Crises Vol. 4 Iss. 2
+
+--- Page 11 ---
+14. Duration: The changes to the Russian deposit insurance system were meant to be 
+permanent. 
+Given that the changes to the Russian deposit insurance system resulted from Federal Law, 
+these changes were meant to be permanent changes to the Russian banking system 
+(Chernykh and Cole 201 1; DIA 2009h) . In 2014, the State Duma again amended Russia’s 
+deposit insurance system, increasing the deposit insurance cap from RUB 700,000 to RUB 
+1.4 million (FSB 2015; State Duma 2014).  
+  
+557
+Russia Vergara
+
+--- Page 12 ---
+References and Key Program Documents 
+Documents cited in the tex t are introduced with a parenthetical author -date citation. 
+Documents that are relevant to this case but have not been cited in text do not include this 
+parenthetical reference. 
+Program Summaries 
+(CBR n.d.) Central Bank of Russia (CBR). n.d. “Banking Legislation.” Accessed November 19, 
+2021. 
+Webpage discussing Russian banking legislation. 
+https://ypfs.som.yale.edu/library/document/banking-legislation 
+Legal/Regulatory Guidance 
+(State Duma 2003) State Duma. 2003. Federal Law No. 177-FZ of December 23, 2003 on 
+Insuring Natural Persons’ Deposits Made with Banks of the Russian Federation (with the 
+Amendments and Additions of August 20, December 29, 2004, October 20, 2005, July 27, 
+2006, March 13, 2007). 
+Law establishing Russia’s deposit insurance system. 
+https://ypfs.som.yale.edu/library/document/federal-law-no-177-fz-december-23-2003-
+insuring-natural-persons-deposits-made 
+(State Duma 2008a) State Duma. 2008a. Civil Code. 
+Russian Civil Code, including some regulations about deposits. 
+https://ypfs.som.yale.edu/library/document/civil-code 
+(State Duma 2008b) State Duma. 2008b. Federal Law of the Russian Federation About 
+Additional Measures for Strengthening of Banking System Stability During the Period till 
+December 31, 2014. 
+Law granting additional resolution powers to the Deposit Insurance Agency. 
+https://ypfs.som.yale.edu/library/document/federal-law-russian-federation-about-
+additional-measures-strengthening-banking 
+(State Duma 2014) State Duma. 2014. Federal Law of December 29, 2014 No. 451-FZ “On 
+Amendments to Article 11 of the Federal Law” On Insurance of Individual Deposits in 
+Banks of the Russian Federation and Article 46 of the Federal Law On the Central Bank of 
+the Russian Federation (Bank of Russia). 
+Law further increasing the deposit insurance limit. 
+https://ypfs.som.yale.edu/library/amending-article-11-federal-law-insurance-individual-
+deposits-banks-russian-federation-and 
+Press Releases/Announcements 
+(Group of Seven 2008) Group of Seven. 2008. “G-7 Finance Ministers and Central Bank 
+Governors Plan of Action.” 
+Statement by the Group of Seven countries outlining their response to the GFC. 
+558
+Journal of Financial Crises Vol. 4 Iss. 2
+
+--- Page 13 ---
+https://ypfs.som.yale.edu/library/g-7-finance-ministers-and-central-bank-governors-
+plan-action 
+Reports/Assessments 
+(CBR 2009) Central Bank of Russia (CBR). 2009. Annual Report 2008. Annual Report. 
+Russia: Central Bank of Russia. 
+Annual report discussing the Central Bank of Russia’s activities. 
+https://ypfs.som.yale.edu/library/document/central-bank-russian-federation-annual-
+report-2008 
+(CBR 2011) Central Bank of Russia (CBR). 2011. Annual Report 2010. 
+Annual report highlighting the Central Bank of Russia’s activities. 
+https://ypfs.som.yale.edu/library/document/central-bank-russian-federation-annual-
+report-2010 
+(DIA 2009a) Deposit Insurance Agency (DIA). 2009a. “Agency’s Bank Bankruptcy 
+Prevention Activities.” 
+Section of Deposit Insurance Agency’s 2008 Annual Report discussing bankruptcy prevention. 
+https://ypfs.som.yale.edu/library/document/agencys-bank-bankruptcy-prevention-
+activities 
+(DIA 2009b) Deposit Insurance Agency (DIA). 2009b. “Balance Sheet of the State 
+Corporation ‘Deposit Insurance Agency’ as at December 31, 2008.” 
+Section of Deposit Insurance Agency’s 2008 Annual Report presenting the Agency’s balance 
+sheet. 
+https://ypfs.som.yale.edu/library/document/balance-sheet-state-corporation-deposit-
+insurance-agency-december-31-2008 
+(DIA 2009c) Deposit Insurance Agency (DIA). 2009c. “Deposit Insurance System Impact on 
+Household Deposit Market.” 
+Section of Deposit Insurance Agency’s 2008 Annual Report that speaks to the effect of Russian 
+deposit insurance and its changes. 
+https://ypfs.som.yale.edu/library/document/deposit-insurance-system-impact-
+household-deposit-market 
+(DIA 2009d) Deposit Insurance Agency (DIA). 2009d. “Deposit Reimbursement Payments.” 
+Section of Deposit Insurance Agency’s 2008 Annual Report discussing the deposit payout 
+process. 
+https://ypfs.som.yale.edu/library/document/deposit-reimbursement-payments 
+(DIA 2009e) Deposit Insurance Agency (DIA). 2009e. “Formation of the Mandatory Deposit 
+Insurance Fund.” 
+Section of Deposit Insurance Agency’s 2008 Annual Report listing the Agency’s revenue. 
+https://ypfs.som.yale.edu/library/document/formation-mandatory-deposit-insurance-
+fund 
+559
+Russia Vergara
+
+--- Page 14 ---
+(DIA 2009f) Deposit Insurance Agency (DIA). 2009f. “Implementation of Bank Bankruptcy 
+Prevention Measures.” 
+Section of Deposit Insurance Agency’s 2008 Annual Report noting the Agency’s progress with 
+respect to new bankruptcy powers. 
+https://ypfs.som.yale.edu/library/document/implementation-bank-bankruptcy-
+prevention-measures 
+(DIA 2009g) Deposit Insurance Agency (DIA). 2009g. “Media Coverage of the Agency 
+Activities and International Cooperation.” 
+Section of Deposit Insurance Agency’s 2008 Annual Report highlighting the Agency’s media 
+activities. 
+https://ypfs.som.yale.edu/library/document/media-coverage-agency-activities-and-
+international-cooperation 
+(DIA 2009h) Deposit Insurance Agency (DIA). 2009h. “Operation of the Mandatory Deposit 
+Insurance System.” 
+Section of Deposit Insurance Agency’s 2008 Annual Report discussing the deposit insurance 
+system. 
+https://ypfs.som.yale.edu/library/document/operation-mandatory-deposit-insurance-
+system 
+(DIA 2010) Deposit Insurance Agency (DIA). 2010. Annual Report for 2009. Russia: Deposit 
+Insurance Agency. 
+Annual report discussing the Deposit Insurance Agency’s activities. 
+https://ypfs.som.yale.edu/library/document/annual-report-state-corporation-deposit-
+insurance-agency-2009 
+(FSB 2015) Financial Stability Board (FSB). 2015. “Peer Review of Russia: Review Report.” 
+Financial Stability Board. 
+Review of the Russian financial system, including its deposit insurance scheme. 
+https://ypfs.som.yale.edu/library/document/peer-review-russia-review-report 
+(IMF 2011) International Monetary Fund (IMF). 2011. “Russian Federation: Financial 
+System Stability Assessment.” International Monetary Fund. 
+Report evaluating the Russian financial system. 
+https://ypfs.som.yale.edu/library/document/russian-federation-financial-system-
+stability-assessment 
+(World Bank 2008) World Bank. 2008. “Russian Economic Report.” 17. World Bank. 
+Document reviewing Russia’s economy in 2008. 
+https://ypfs.som.yale.edu/library/document/russian-economic-report 
+Key Academic Papers 
+(Chernykh and Cole 2011) Chernykh, Lucy, and Rebel A. Cole. 2011. “Does Deposit 
+Insurance Improve Financial Intermediation? Evidence from the Russian Experiment.” 
+Journal of Banking & Finance 35, no. 2: 388–402. 
+560
+Journal of Financial Crises Vol. 4 Iss. 2
+
+--- Page 15 ---
+Article discussing how Russia’s deposit guarantee affected financial intermediation. 
+https://ypfs.som.yale.edu/library/document/does-deposit-insurance-improve-financial-
+intermediation-evidence-russian 
+ 
+Copyright 2022 © Yale University. All rights reserved. To order copies of this material or to receive 
+permission to reprint any or all of this document, please contact the Yale Program on Financial 
+Stability at ypfs@yale.edu. 
+561
+Russia Vergara

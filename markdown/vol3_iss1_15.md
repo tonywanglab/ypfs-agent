@@ -1,0 +1,1099 @@
+## The Rescue of Fannie Mae and Freddie Mac – Module Z: Overview[1] 
+
+_Rosalind Z. Wiggins,[2] Benjamin Henken,[3] Adam Kulam,[4] Daniel Thompson,[5] and Andrew Metrick[6,7]_ 
+
+Yale Program on Financial Stability Case Study April 15, 2021 
+
+## **Abstract** 
+
+In September 2008, as the financial crisis that had begun the previous year escalated, the US government appointed a conservator for two government-sponsored enterprises (GSEs), the Federal National Mortgage Association (Fannie Mae) and the Federal Home Loan Mortgage Corporation (Freddie Mac), that dominated the secondary mortgage market and were among the largest participants in the global capital markets. The conservatorships were the hallmark of a multipart rescue plan intended to save the firms from insolvency and a disorderly collapse and required the combined and coordinated efforts of several government agencies and instrumentalities. Ultimately, the government invested $191.5 billion into the firms and deployed a range of tools to stabilize them; this intervention was one of the largest undertaken by the government during the Global Financial Crisis and significant for being one of the few nonbank rescues that occurred. 
+
+This paper looks at the rescue in totality and the reasons underlying the government’s key decisions on a combined basis. The efforts are generally thought to have been successful in that the firms continued to operate with government funding, continued to support the secondary mortgage market, and losses to their many debt and MBS security holders in the US and abroad (which included many banks and other financial institutions) were avoided, although common and preferred shareholders did suffer losses. Yet, there has been substantial criticism of and legal challenge to some of the government’s actions pursuant to the intervention. More than 10 years later, the firms are still in conservatorship and the fundamental question of their troublesome hybrid structure has not been addressed. 
+
+**Keywords:** GSEs, Fannie Mae, Freddie Mac, conservatorship, credit facility, senior preferred stock, asset purchases, debt purchases, solvency, mortgage-backed securities, nonbank 
+
+> 1 This case study is one of seven 2021 Yale Program on Financial Stability (YPFS) case studies that examine in detail the various elements of the government’s rescue of the government-sponsored enterprises. The full list of cases is shown on page 5. Cases are available from the _Journal of Financial Crises_ at https://elischolar.library.yale.edu/journal-of-financial-crises/. 
+
+> 2 Director, the Global Financial Crisis Project and Senior Editor YPFS, Yale School of Management. 3 Benjamin Henken - Research Associate, YPFS, Yale School of Management. 
+
+> 4 Research Associate, YPFS, Yale School of Management. 
+
+> 5 Research Associate, YPFS, Yale School of Management. 
+
+> 6 Janet L. Yellen Professor of Finance and Management and YPFS Program Director, Yale School of Management. 
+
+> 7 The authors thank Greg Feldberg, Yale Program on Financial Stability, for providing insightful comments on this paper. 
+
+
+## **Introductory note: In analyzing the programs that are the focus of this survey, a colorcoded system is used to highlight particularly noteworthy design features. This system is as follows:** 
+
+|**Color**|**Meaning**|
+|---|---|
+|BLUE—INTERESTING|A design feature that is interesting and that<br>policymakers may want to consider.<br>Typically, this determination is based on<br>the observation that the design feature<br>involves a unique way of addressing a<br>challenge common to this type of program.<br>Less commonly, there will be empirical<br>evidence or a widely held consensus that<br>the design feature was effective in this<br>context, in which case we describe that<br>evidence or consensus.|
+|YELLOW—CAUTION INDICATED|A design feature that policymakers should<br>exercise caution in considering. Typically,<br>this determination is based on the<br>observation that the designers of the<br>feature later made significant changes to<br>the feature with the intention of improving<br>the functioning of the program. Less<br>commonly, there will be empirical evidence<br>or a widely held consensus that the design<br>feature was ineffective in this context, in<br>which case we describe that evidence or<br>consensus.|
+|BLUE and YELLOW—INTERESTING BUT<br>CAUTION/SCRUTINY ALSO INDICATED|A design feature that policymakers may<br>want to consider adopting but with care in<br>some circumstances.|
+|||
+|FOOTNOTES|Each highlighted design feature is<br>accompanied by a footnote that explains<br>why we chose to highlight it as we did,<br>supported by available resources, which<br>may include YPFS Lessons Learned Oral<br>History Project interviews._These footnotes_<br>_are italicized for easy identification._|
+
+
+
+
+|**The Rescue of Fannie Mae and Freddie Mac** **2007–08: United States Context**|**The Rescue of Fannie Mae and Freddie Mac** **2007–08: United States Context**|
+|---|---|
+|**GDP**<br>**(SAAR, nominal GDP in LCU converted to**<br>**USD)**|$14,681.5 billion in 2007<br>$14,559.5 billion in 2008<br>$14,628.0 billion in 2009|
+|**GDP per capita**<br>**(SAAR, nominal GDP in LCU converted to**<br>**USD)**|$47,976 in 2007<br>$48,383 in 2008<br>$47,100 in 2009|
+|**Sovereign credit rating (5-year senior**<br>**debt)**|As of Q4 2007/2008/2009:<br>Fitch: AAA<br>Moody’s: Aaa<br>S&P: AAA|
+|**Size of banking system**|$9,231.7 billion in total assets in 2007<br>$9,938.3 billion in total assets in 2008<br>$9,789.1 billion in total assets in 2009|
+|**Size of banking system as a percentage**<br>**of GDP**|62.9% in 2007<br>68.3% in 2008<br>66.9% in 2009|
+|**Size of banking system as a percentage**<br>**of financial system**|29.0% in 2007<br>30.5% in 2008<br>30.2% in 2009|
+|**5-bank concentration of banking system**|43.9% of total banking assets in 2007<br>44.9% of total banking assets in 2008<br>44.3% oftotalbanking assetsin 2009|
+|**Foreign involvement in banking system**|22% of total banking assets in 2007<br>18% of total banking assets in 2008<br>19% of total banking assets in 2009|
+|**Government ownership of banking**<br>**system**|0% of banks owned by the state in 2008<br>0% of banks owned by the state in 2009|
+|**Existence of deposit insurance**|100% insurance on deposits up to<br>$100,000 for 2007<br>100% insurance on deposits up to<br>$250,000 for 2008<br>100% insurance on deposits up to<br>$250,000 in 2009|
+|_Sources:_ _Bloomberg; World Bank Global Financial Development Database; Federal Deposit_<br>_Insurance Corporation._||
+
+
+
+
+## **I. Introduction** 
+
+By September 2008, the downturn in the housing market that had begun in late 2006 had caused significant disturbance; there was widespread substantial concern about securities related to subprime and other mortgages depressing their values (FCIC 2011d, 309). As a result, private securitization of mortgage-backed securities had all but dried up (FCIC 2011d, 310–11). In addition, funding markets were continuing to experience major contractions and escalating costs (FCIC 2011d, 310–11). Given these factors, the role of the two giant government-sponsored enterprises (GSEs), the Federal National Mortgage Association (Fannie Mae) and the Federal Home Loan Mortgage Corporation (Freddie Mac), in the secondary mortgage market had increased. By the fourth quarter 2007, they were purchasing over 75% of new mortgages and wanted to do even more (FCIC 2011d, 310–11). However, the GSEs were operating on very thin capital, reporting billions of dollars in losses, and there was concern that without government intervention they might collapse, destabilizing the entire financial system and disrupting the general economy (FCIC 2011d, 312; Jester et al. 2018, 3). 
+
+Thus, on September 6, the U.S. government appointed a conservator for the two enterprises. The conservatorships were part of a four-part rescue plan intended to save the firms from insolvency and a disorderly collapse (Treasury 2008a). Ultimately, the government invested $191.5 billion in the firms (Jester et al. 2018, 6). This intervention was one of the largest undertaken by the government during the Global Financial Crisis (GFC) and significant for being one of the few nonbank rescues that occurred. Twelve years later, the firms are still in conservatorship (Hurley 2020). 
+
+The Yale Program on Financial Stability (YPFS) has written seven case studies[8] , that examine in detail the various elements of the government’s interventions to assist the GSEs. In this overview case study, we review the government’s actions on a combined basis and analyze how the rescue was conceived and executed in order to better understand how nonbank financial institutions in distress may be addressed. Although the GSEs embody unique characteristics that must be considered, we believe that the lessons learned through this analysis may also apply to other types of nonbanks as well. While this overview case study 
+
+- 8 The seven Yale Program on Financial Stability (YPFS) case studies, all published in 2021, that examine in detail the various elements of the government’s rescue of the government-sponsored enterprises are: 
+
+   - “The Rescue of Fannie Mae and Freddie Mac – Module A:  The Conservatorships” by Daniel Thompson and Rosalind Z. Wiggins. 
+
+   - “The Rescue of Fannie Mae and Freddie Mac – Module B: The Senior Preferred Stock Purchase Agreements (SPSPAs)” by Daniel Thompson. 
+
+   - “The Rescue of Fannie Mae and Freddie Mac – Module C: GSE Credit Facility” by Emily Vergara. 
+
+   - “The Rescue of Fannie Mae and Freddie Mac – Module D: Treasury’s GSE MBS Purchase Program” by Michael Zanger-Tishler and Rosalind Z. Wiggins. 
+
+   - “The Rescue of Fannie Mae and Freddie Mac – Module E: The Housing and Economic Recovery Act of 2008” by Daniel Thompson. 
+
+   - “The Rescue of Fannie Mae and Freddie Mac – Module F: The Federal Reserve’s Large-Scale Asset Purchase (LSAP) Program” by Daniel Thompson and Adam Kulam. 
+
+   - “The Rescue of Fannie Mae and Freddie Mac – Module Z: Overview” by Rosalind Z. Wiggins, Benjamin Henken, Adam Kuman, Daniel Thompson, and Andrew Metrick. 
+
+- Cases are available from the _Journal of Financial Crises_ at https://elischolar.library.yale.edu/journal-offinancial-crises/. 
+
+
+may be read on its own, it is best read in connection with the other YPFS GSE cases, which provide additional detail with respect to each intervention utilized. 
+
+In the first part, we review the background of the GSEs and what led to their weakened position, including the special nature of the GSEs’ status and structure, and the effects of the mortgage crisis. We next consider the early steps taken by the government to support the firms during the spring and summer of 2008, and then address the conservatorships and related actions. Last, we discuss in detail the key design decisions made by the government and highlight unique issues presented by the GSEs. 
+
+## **II. Overview** 
+
+## **Background: The Special Status of Government-Sponsored Enterprises** 
+
+The Federal National Mortgage Association and the Federal Home Loan Mortgage Corporation are large government-sponsored enterprises,[9] public-private corporations specially chartered by Congress to enhance the liquidity of the US secondary mortgage market and thereby promote access to mortgage credit, particularly among low- and moderate-income households and neighborhoods (FCIC 2011b, 38–39). The firms are publicly traded for-profit companies, and their shares are widely held. 
+
+The GSEs pursue their mission by buying mortgages conforming to their underwriting standards, guaranteeing payment of the underlying mortgages, and packaging the mortgages into mortgage-backed securities (MBS) that they sell to investors (FCIC 2011b, 39). They also purchase private-label MBS (PLMBS), which invest in nonconforming mortgages, that they hold in their portfolios (FCIC 2011d, 312). Although not direct components of the US government, the GSEs were often assumed to have the backing of the government due to a number of factors including: their housing mission, their government charter, their favorable treatment in various financial regulations, and the statutory $2.25 billion backup credit line that each had from the US Treasury Department (CBO 2010; FCIC 2010b, 16; Jickling 2007, CRS-1). Additionally, the firms were exempt from state and local corporate income taxes and from registering their securities with the US Securities Exchange Commission (SEC)[10] (FCIC 2010b, 16). Their issuances are referred to as “agency securities and debt,” and enjoy a 
+
+9 The GSEs are publicly traded, privately owned, and governed by their shareholders, but they are required to satisfy certain government housing goals. The enterprises enjoy numerous advantageous because of their hybrid structure. Examples of statutory benefits include: “(1) exemption from state and local taxes, (2) a line of credit with the U.S. Treasury up to $2.25 billion, (3) eligibility of their debt to serve as collateral for public deposits, (4) eligibility of their securities for Federal Reserve open market purchases, (5) eligibility for their corporate securities to be purchased without limit by federally regulated financial institutions, (6) assignment of mortgage-related securities they have issued or guaranteed to the second-lowest credit risk category at depository institutions, and (7) exemption from the registration requirements of the Securities and Exchange Commission” (Jickling 2007, CRS-1n4). 
+
+10 Fannie Mae registered its common stock with the SEC in December 2003, and Freddie Mac registered its own in July 2008 and accordingly began filing periodic financial disclosure documents (for example, Forms 10-K and 10-Q), which are publicly available on the SEC’s website. Prior to submitting to SEC registration, the firms would produce annual and quarterly information statements for investor purposes; however, these statements were not required to meet the same rigorous standards as the SEC reports (Fannie Mae n.d.; Freddie Mac n.d.). 
+
+
+favored status among investors, banks, and even the Federal Reserve (the Fed),[11] similar to debt issued directly by the government (Frame et al. 2015; Jickling 2007, CRS-1). This “implied government guarantee” of their debt and obligations has been very beneficial to the GSEs in a number of ways. 
+
+The GSEs fund their operations by issuing debt, and the “implied federal government guarantee” has helped them enjoy a robust market with their debt being widely held (GAO 1996, 3). This implied guarantee reinforced the market perception that Fannie and Freddie were “too big to fail” and that the government would intervene to prevent their collapse (FCIC 2010b, 16; GAO 1996, 18). A 1996 US General Accounting Office (GAO) report concluded: 
+
+A major factor that enhances the enterprises’ profitability is the financial market’s perception that there exists an implied federal guarantee of their debt and other obligations (i.e., a perception that the federal government would act to ensure that the enterprises will always be able to meet their financial obligations on their debt and MBS guarantees). (GAO 1996, 17) 
+
+As a result, GSE debt and securities enjoyed a wide market; many investors in GSE debt and MBS also used these securities as collateral in the short-term repo funding markets (Fleming, Hrung, and Keane 2010, 592). Because of their perceived safety, the securities traditionally enjoyed rates that averaged only 7 basis points and 8 basis points, respectively, above those on Treasuries (Fleming, Hrung, and Keane 2010, 592). 
+
+Another benefit of the implied government guarantee was the lower cost of funding in terms of interest paid on debt securities and premiums paid on guarantees of GSE MBS (FCIC 2010b, 16). This, and a lax capital regime, contributed to the GSEs’ ability to pursue a highly leveraged business model. They tripled in size between 1995 and 2003, growing from holding in their portfolios or guaranteeing MBS of $1.3 trillion in 1995, to $3.6 trillion by 2003, almost half the residential mortgage market (FCIC 2010b, 17). 
+
+Growth continued, and by the end of 2007, the GSEs held or guaranteed $5.0 trillion in mortgages and MBS, approximately half of the total outstanding residential mortgages (Fannie Mae 2008; FCIC 2011d; Freddie Mac 2008; Geithner 2014, 171). Of this amount, they 
+
+11 The Fed has historically considered GSE-guaranteed MBS and securities issued by the GSEs to be “agency securities” that it would accept as collateral. The Federal Reserve Act (FRA) Section 13(8)(a) (Advances to Member Banks on Promissory Notes) was amended in 1968 to broaden the definition of eligible collateral for advances to include certain securities. The section authorizes the Fed to lend to member banks against various collateral, including “such obligations as are eligible for purchase under Section 14(b) of this Act.” Section 14(2)(b)(2) authorizes the Fed to buy and sell “direct obligations of, and obligations fully guaranteed as to principal and interest by, any agency of the United States.” 
+
+Federal Regulation 12 CFR §202.108 expounds on FRA Section 14(2)(b)(2) and lists the “agency obligations eligible as collateral for advances.” These include Fannie and Freddie “notes, debentures and guaranteed certificates of participation [(i.e., MBS)].” 
+
+FRA Section 13(13) (Advances to Individuals, Partnerships, and Corporations on Direct Obligations of the United States) uses wording almost identical to Section 14(2)(b)(2) with respect to collateral and provides that the Fed may make advances secured by “any obligation which is a direct obligation of, or fully guaranteed as to principal and interest by, any agency of the United States _.”_ 
+
+
+held aggregate assets of $1.5 trillion in their portfolios (including more than $600 billion in nonprime mortgages and PLMBS) (FCIC 2011a, 23; Jickling 2008, CRS-6). The firms also collectively had $1.7 trillion in debt outstanding, and it was widely held (Fannie Mae 2008; FCIC 2011d; Freddie Mac 2008; Geithner 2014; Jester et al. 2018). 
+
+The GSEs’ hybrid public-private structure carried with it certain weaknesses including being subject to very low risk-based capital standards. They were required to maintain only approximately 60% of what banks were required to maintain, and their regulator, the Office of Federal Housing Enterprise Oversight (OFHEO), was limited in its authority to increase the levels, which were set by law (FCIC 2010a, 20; Frame et al. 2015, 5).[12] This enabled the firms to become highly leveraged (FCIC 2010b, 17). In September 2008, the firms were holding or guaranteeing $5.3 trillion of mortgages while holding capital of less than 2% of total assets (Fannie Mae 2008; FCIC 2011d, 309; Freddie Mac 2008; Geithner 2014). These developments caused a resurgence of long-voiced concerns about the firms’ possible risk to stability of the financial system (FCIC 2010b, 17). These concerns were only exacerbated by the knowledge that institutions insured by the Federal Deposit Insurance Corporation (FDIC) held “more than $1 trillion of GSE preferred stock, debt securities and GSE MBS, representing more than 11 percent of the assets of those institutions” and making the banking industry “particularly vulnerable” to any erosion in the stability of the GSEs (FCIC 2010b, 17). 
+
+Another weakness of the GSE structure was the bifurcated regulatory regime, which many have interpreted as holding dominant the mission of promoting home ownership, regulated by the Department of Housing and Urban Development (HUD), to safety and soundness, regulated by the OFHEO, a unit within HUD (Frame et al. 2015, 28). OFHEO also had access to only a limited (and some commentators said ineffectual) resolution mechanism. (See Kosar [2007] for a detailed discussion of the GSE structure.) 
+
+Between 1990 and 2003, the percentage of outstanding residential mortgage debt owned or guaranteed by the GSEs grew from 25.7% to 46.3% (FHFA 2010a). It then began to decline as nonconforming mortgage origination financed through private-label securitization increased (Frame et al. 2015, 36). However, as shown in Figure 1, the GSEs’ share of the mortgage market began to gradually increase again in 2005 after the firms began to purchase nonprime, Alt-A, and subprime loans, as well as PLMBS, to hold in their portfolios (FCIC 2010b, 18, 23). These types of loans were riskier than the conforming loans that composed their primary business and would be a destabilizing element for the firms (FCIC 2010b, 18). 
+
+> 12 “The minimum capital standards were set by law at 2.5 percent of on‐balance sheet assets and 0.45 percent of off‐balance sheet guarantees. The law also prescribed parameters for the GSEs’ risk‐based capital. These specified the parameters under which credit risk and interest rate risk could be used to calculate the level of risk‐based capital required for the two GSEs. The risk‐based capital test generated values below the statutory minimums, which became the binding capital requirements on the two enterprises. As a result of the statutory prescriptions, the two GSEs operated with significant leverage: For Fannie Mae, the ratio of core capital to total assets plus MBS outstanding amounted to around 1.5 percent for year‐end 2007; for Freddie Mac it was around 1.7 percent. By contrast, a commercial bank or thrift institution would be subject to capital requirements at least twice as high” (FCIC 2010a, 20). 
+
+
+[FIGURE id=vol3_iss1_15_f1 type=figure label="Figure 1" file=figure_1.png caption="The Growing Role of Fannie Mae and Freddie Mac in the US Mortgage Market"]
+### **Figure 1: The Growing Role of Fannie Mae and Freddie Mac in the US Mortgage Market**
+![Figure 1](assets/vol3_iss1_15/figure_1.png)
+
+
+_Source: Frame et al. 2015, 36._ 
+
+## _The Mortgage Crisis_ 
+
+By mid-2007, US housing prices had peaked from a decades-long run-up and had been declining since the beginning of the year. Subprime mortgages were experiencing significant increases in defaults and foreclosures. As a result, nonconforming mortgage origination and private-label securitization evaporated, resulting in the GSEs purchasing an increased percentage of new mortgages (FCIC 2011d, 310–11). By mid-2007, the GSEs’ new business volume as a percentage of new loans reached nearly 73%, almost double the approximately 37% it had been only a year earlier, as shown in Figure 2 (FCIC 2011d, 310–11). 
+
+[FIGURE id=vol3_iss1_15_f2 type=chart label="Figure 2" file=figure_2.png caption="Fannie and Freddie New Business as a Percent of All Mortgage Originations"]
+### **Figure 2: Fannie and Freddie New Business as a Percent of All Mortgage Originations**
+![Figure 2](assets/vol3_iss1_15/figure_2.png)
+
+
+_Source: FCIC 2010a, 14._ 
+
+
+Amid the correction in housing prices and the rise in defaults, Fannie and Freddie began to post billion-dollar losses. In March 2008, in the wake of Bear Stearns’ near collapse, the company reported its 2007 end-of-year results and faced increased scrutiny about the risks underlying mortgage-related securities, their leverage, credit risk, and solvency (FCIC 2010b, 17; FCIC 2011d, 312). Spreads on agency debt and agency MBS pledged in the repo market soared to the unprecedented levels of 55 basis points and 62 basis points above Treasury repos, respectively, causing a severe tightening of credit for borrowers and increasing pressures to liquidate assets (Fleming, Hrung, and Keane 2010, 592). In response to these developments, OFHEO, in consultation with Treasury, struck a deal with both GSEs to ensure they (1) would be able to provide continued support for the mortgage market, and also (2) would be capable of withstanding the deteriorating fundamentals in the market. In return for lowering the capital surcharges[13] for each GSE (from 30% to 20%), OFHEO received a promise from both entities to raise new capital (FCIC 2011d, 315). Although the entities were not legally bound to do so, Fannie Mae kept its promise and raised $7.4 billion in preferred stock, but Freddie Mac did not raise any additional capital (FCIC 2011d, 315). 
+
+Over the next few months, the GSEs struggled to balance two conflicting developments that they had experienced for almost a year: (1) increased political pressure for them to do more to support the mortgage market as private securitization fled, rates increased, and credit slowed; and (2) greater public worry about their ability to withstand the worsening effects of the housing downturn without support from the government (FCIC 2011d, 312–15; Geithner 2014; Paulson 2010). Increasing concern was voiced about the negative effects that a disorderly failure of a GSE would have given their substantial size and wide reach (FCIC 2011d, 312). Foreign official institutions held approximately $1 trillion of agency debt and MBS, and another $1 trillion was held by US financial institutions, partly because regulations required banks to hold relatively little capital against holdings of GSE securities and debt (FCIC 2010b, 17; Frame et al. 2015, 36–37; Paulson 2010). The GSEs were also counterparties on substantial amounts of derivatives, which they used primarily to offset their interest rate risk (Frame et al. 2015, 37). 
+
+On July 7, 2008, analysts at Lehman Brothers published a report speculating that Fannie and Freddie needed $75 billion in capital to address the effects of a new tax law and to remain viable and that they would be unlikely to be able to raise it (Paulson 2010; Wingfield 2008). Amid this and other developments, market participants debated whether the government would intervene to support the giants and what form such aid might take (Boyd 2008). 
+
+The common shares of both GSEs dropped by more than 16% before recovering somewhat. However, over the next two months, the firms suffered a liquidity crunch as creditors slowly withdrew (FCIC 2011d, 316). Fannie had difficulty raising sufficient funds in the repo markets even using its own securities as collateral (FCIC 2011d, 316). Further, the yields on the firms’ debt and MBS increased dramatically, as shown in Figure 3 (FCIC 2011d, 316; Lockhart 2008; Paulson 2010). 
+
+> 13 Following an examination of accounting irregularities at both companies, OFHEO required Freddie in 2004 and Fannie in 2006 to maintain 30% more capital than their legally required minimums until they demonstrated to the regulator that they had reduced operational risks and could produce timely, certified financial statements (FCIC 2011c, 122). 
+
+
+[FIGURE id=vol3_iss1_15_f3 type=chart label="Figure 3" file=figure_3.png caption="Yields on Fannie Mae Debt and MBS, July 2007–March 2009"]
+### **Figure 3: Yields on Fannie Mae Debt and MBS, July 2007–March 2009**
+![Figure 3](assets/vol3_iss1_15/figure_3.png)
+
+
+_Source: Frame et al. 2015, 40._ 
+
+Given the circumstances, on July 13, 2008, the government took action to provide backup liquidity to the firms and reassure the markets. (See “Early Government Actions toward the GSEs” below). While these actions provided some modicum of assurance to the market, it was clear that a more substantial intervention by the administration was needed. By August, there was consensus among government experts that both firms were technically insolvent (or soon would be), even though the book value of their equity capital was positive and exceeded statutory minimums (FCIC 2011d, 317–18; Frame et al. 2015, 34; Paulson 2010). 
+
+## **III. Program Description** 
+
+## _Early Government Actions toward the GSEs_ 
+
+During the summer of 2008 and before the passage of the Housing and Economic Recovery Act of 2008 (HERA), the administration used the authorities available to it to provide backup liquidity to the firms and to reassure the market that it was aware of the problems at the firms and was working to address them. The government’s strategy in this early period was three-pronged: (1) support the firms’ immediate needs, (2) work to assess their true financial condition, and (3) aggressively pursue the passage of additional authorities with respect to them. 
+
+
+## **1. Addressing the Immediate Needs of the GSEs and Reassuring the Market** 
+
+On July 13, 2008, within a week of the Lehman Brothers’ report and at Secretary Hank Paulson’s request, the Federal Reserve Board invoked section 13(13)[14] of the Federal Reserve Act (FRA) to authorize the Federal Reserve Bank of New York (FRBNY) to lend to the GSEs on a short-term basis if needed (Board 2008a). The Fed was opening its discount window to the GSEs, providing a liquidity backstop if the market refused to lend to them.[15] The loans would be in the form of promissory notes from the GSEs, for periods not to exceed 90 days, in unspecified and uncapped amounts and secured by US government debt and federal agency securities (including their own), and at the primary credit rate (Board 2008a; Board 2009, 1).[16] 
+
+14 Section 13(13) (Advances to Individuals, Partnerships, and Corporations on Direct Obligations of the United States) provides: 
+
+Subject to such limitations, restrictions, and regulations as the Board of Governors of the Federal Reserve System may prescribe, any Federal reserve bank may make advances to any individual, partnership, or corporation on the promissory notes of such individual, partnership, or corporation secured by direct obligations of the United States or by any obligation which is a direct obligation of, or fully guaranteed as to principal and interest by any agency of the United States. Such advances shall be made for periods not exceeding 90 days and shall bear interest at rates fixed from time to time by the Federal reserve bank, subject to the review and determination of the Board of Governors of the Federal Reserve System. (FRA §13(13) 1968) 
+
+Notably, Section 13(13) allows for lending in any circumstance and does not require that “unusual and exigent circumstances” be found to exist as does Section 13(3), which was used often by the Fed during the crisis. (Also see discussion at “Key Design Decision No. 8.”) 
+
+> 15 _This scenario underscores the value of government agencies collaborating on interventions of such magnitude as the GSEs and the need for inventory and possible use of all available tools. While Congress was debating new authorities that it later created with HERA, the administration had only limited and somewhat ineffective tools with which to try to address the distressed GSEs as market confidence deteriorated—for example, Treasury’s lines of credit were viewed as too small to fund an effective conservatorship. The Fed, invoking its authority under FRA Section 13(13) to act as lender of last resort and open its discount window to the GSEs, took one of the few actions available that could be of sufficient magnitude to calm the markets and buy time until legislation could be passed. Notably, the Board’s authorization for the FRBNY to make such loans was not limited as to size. Loans were to be “secured by direct obligations of the United States or by obligations that are direct obligations of, or fully guaranteed as to principal and interest by, any agency of the United States” (Board 2009, 1). Thus, the amount of the loans would be limited only by the amount of available collateral, including the GSEs’ own securities. (See Background: The Special Status of Government-Sponsored Enterprises [GSEs]” above; see also Jickling 2007, CRS1n4.) The Fed loans were never accessed by either GSE._ 
+
+16 The Fed has historically considered GSE-guaranteed MBS and securities issued by the GSEs to be “agency securities” that it would accept as collateral. (See “Background: The Special Status of Government-Sponsored Enterprises [GSEs]” above; see also Jickling 2007, CRS-1n4.) Further, according to former Board of Governors General Counsel Scott Alvarez, the Fed had long taken the view that Fannie and Freddie were agencies of the US government and had for many years (since the 1970s) been conducting open market transactions (in small amounts) in mortgage securities guaranteed by Fannie and Freddie, as well as in their securities (Alvarez 2019). The Fed’s historical position regarding the status of Fannie and Freddie would have allowed the Fed to lend under Section 13(13) against at least mortgage securities guaranteed by Fannie and Freddie, which were considered even more secure than shares of stock issued by the firms (Alvarez 2019). In addition to the significant amounts of their own MBS that the GSEs held, they held Treasuries, which they could borrow against like any other company. 
+
+
+The possibility of discount window lending supplemented Treasury’s existing funding authority of $2.25 billion for each of the firms, which was considered inadequate given the size to which the balance sheets of the GSEs had grown. As of June 2008, this was $885.9 billion for Fannie and $879.0 billion for Freddie[17] (Frame et al. 2015, 35). The Fed’s line of credit, however, was potentially limited only by the amount of eligible collateral that the firms could offer, which was substantial. As of June 2008, the firms collectively held over $700 billion in their own mortgage-backed securities, $220.4 billion held by Fannie Mae and $490.2 billion held by Freddie Mac (Frame et al. 2015, 35). Although the Fed line of credit was never used, announcing its availability was intended to assure the market that the firms would not run out of money and would be able to access the funding needed to stand behind their guarantees (Alvarez 2019; Luhby 2008; Paulson 2010). 
+
+At this same time, Treasury and the Fed announced a three-part comprehensive plan to secure regulatory reforms so that the government could address the enterprises in a more substantial manner. The plan sought to (1) increase the GSEs’ existing credit lines, (2) grant Treasury the authority to invest in the equity of the companies, and (3) provide a new regulator and give the Fed a consulting role in setting capital requirements and other prudential standards (FCIC 2011d, 317). The proposal required congressional action and was enacted as part of the Housing and Economic Recovery Act of 2008 later that month (HERA 2008). 
+
+The US Securities and Exchange Commission (SEC) also acted to support the GSEs. For several weeks, the GSEs had been subject to circulating rumors and their stocks had been under tremendous downward pressure. On July 15, 2008, to help stabilize the stocks, the SEC issued an emergency order forbidding the naked short selling of Fannie Mae and Freddie Mac stock, as well as that of the primary dealers (SEC 2008). Fannie and Freddie’s stock rebounded in the short run, rising to $13.40 and $9.18, respectively, after bottoming out at about $7 and $5 three days earlier, though they would resume falling not long after when the firms announced poor third quarter results. 
+
+Taken together, these pre-HERA actions seemed to buy the firms and the government some time to aggressively pursue regulatory reform and the additional tools that might be required for the firms to survive (Bernanke 2015; Paulson 2010). 
+
+## _Coordinated Financial Review of the GSEs_ 
+
+Because the GSEs were exempt from securities laws, and had only recently begun to voluntarily register their stocks with the SEC, there existed no detailed public record of the enterprises’ financials of the type that most companies with publicly traded securities and 
+
+> 17 _Facilities that were designed to be support for institutions may become dated and lose their intended effectiveness for any number of reasons. In the case of the GSEs, they experienced significant growth, and had become highly leveraged, with there being no corresponding adjustments to Treasury lines of credit. The lines, which were intended to operate only as a backstop, were particularly ill-fitted to that purpose in 2008, as the financial crises caused severe contraction in the funding markets to the point where the GSEs could not fund their operations from market sources using their own securities as collateral (FCIC 2011d, 316). It would be prudent to periodically review such standby facilities and attempt to have them adjusted prior to a crisis occurring, or at least be fully aware of the ill fit before a crisis occurs._ 
+
+
+debt would have had.[18] They also were exempted from using generally accepted accounting principles (GAAP). After it opened the discount window to the GSEs, the Fed faced the prospect of lending billions of dollars to entities that it did not regulate and about which it knew comparatively little. HERA had also established the Fed in an advisor role to the new Federal Housing Finance Agency (FHFA). Following its July 13, 2008, announcement about opening the discount window to the GSEs, the Fed, with the cooperation of the FHFA and a cadre of officials from several agencies—the Office of the Comptroller of the Currency (OCC), FDIC, and Treasury—began to investigate the financial status of the GSEs (the “summer financial review”), with BlackRock and Morgan Stanley acting as advisors to the Fed and Treasury, respectively[19,20] (FCIC 2011d, 317; Jester et al. 2018, 5–6; Lockhart 2008; Paulson 2010). 
+
+The Fed and participating agencies were not limited to the lax statutory formulas that characterized the OFHEO’s oversight (Jester et al. 2018, 5–6). They measured the firms’ solvency against the Fed’s statistical models that were far more rigorous than what the firms and the OFHEO had been using, and applied capital standards similar to those that national banks were required to maintain[21] (Jester et al. 2018). The Fed and OCC team also tested the GSEs’ capital under stress tests using various distress scenarios considered more comprehensive than those used by the OFHEO testing[22,23] (Jester et al. 2018, 5–6). 
+
+18 See “Background: The Special Status of Government-Sponsored Enterprises (GSEs)” above; see also Fannie Mae (n.d.) and Freddie Mac (n.d.). 
+
+19 Reports on this review somewhat conflict as to when it actually took place, with some suggesting that it occurred immediately after the July 13 announcement (FCIC 2011d) and others placing it in the first week in August, after the passage of HERA (Jester et al. 2008). These two characterizations are not necessarily mutually exclusive and do not appear significant as the review or preparations for it could have begun in the 17-day period between the Fed’s announcement and the passage of HERA on the 30th. 
+
+> 20 _Depending on the size and nature of the troubled enterprise, coordinated action among various regulators will help to bring important knowledge to the task quickly. Working together, the FHFA could contribute its knowledge of the structure and operations of the GSEs. The Fed, OCC, and FDIC could add their extensive knowledge of bank regulation, and also in the case of the Fed, systemic risk and financial stability. (The review was facilitated by the Fed’s new consultative role under HERA, which also gave it access to the same information that the firms had to provide to their regulator.) It is also acceptable to hire additional professional expertise, as was done in this case. Doing so may bring various benefits—to access additional brain power, augment limited staffs, accelerate the pace of work, or merely provide an independent assessment._ 
+
+21 Ironically, national banks were not required to hold capital against stressed losses, but the GSEs were (Frame, Gerardi, and Willen 2015). 
+
+22 The OFHEO had applied risk-based capital stress tests in supervising the GSEs from 2002 to when they were taken into conservatorship; all had indicated that the GSEs were adequately capitalized. Although the tests were hailed as “state of the art” when introduced, they failed to detect the growing credit risks on the firms’ books. Frame, Gerardi, and Willen (2015) discuss the tests and identify three weaknesses: (1) failure to update the mortgage default and prepayment forecasting model or introduce new variables despite changes to underwriting practices; (2) use of a house price scenario far below the actual decline; and (3) exclusion of any new business from the test, which limited its value for forecasting future impacts. 
+
+> 23 _The summer financial review was critical in the case of the GSEs because their prior regulatory reporting was thought to not convey the full financial effects of their balance sheets. OFHEO was governed by strict statutory standards, including low minimum capital requirements, in assessing the soundness of the firms (Frame et al. 2015, 34). The summer review was able to ferret out information and evaluate it in light of the more rigorous standards_ 
+
+
+The reviewers found several issues, including: inadequate loss reserves, questionable use of deferred tax credits, failure to write down guarantees from private mortgage insurers that had been downgraded, and dubious quality of capital. In August 2008, they reported that the GSEs were more financially unstable than previously suspected and that they were technically insolvent (or soon would be) despite meeting the minimum statutory capital requirements that applied to them (Frame et al. 2015, 34; Jester et al. 2018, 5–6; Paulson 2010). The reviewers estimated that the firms would need to raise approximately $60 billion–$70 billion in capital to survive (FCIC 2011d, 317–19). By that time, however, there was consensus that it would be almost impossible for the firms to do so (Paulson 2010). 
+
+The summer financial review would prove valuable in several ways as events unfolded. The information disclosed confidentially by it provided a more accurate account of the enterprises’ situation than was previously available and would solidify the basis for the government’s decision to place them into conservatorship, despite their continued ability to meet the statutory capital requirements (Dickerson 2008; Lockhart 2018, 10; Paulson 2010). The results were also referred to in determining how much to fund the conservatorships (Lockhart 2018, 10). 
+
+## _Pursuing Additional Tools and Securing the Passage of HERA_ 
+
+Following the announcement of a comprehensive plan on July 13, Secretary Paulson, with the support of Fed Chairman Ben Bernanke and OFHEO Director James Lockhart, aggressively pursued reform legislation to create a new regulator and provide a more robust set of tools that could rescue the GSEs from insolvency.[24] Those efforts came to fruition with the passage of HERA on July 30, 2008. HERA provided, among other things: a new regulator, the FHFA, with more robust supervisory powers (including the ability to restrict capital distributions); unlimited authority for Treasury to invest in the firms or lend to them through December 31, 2009 (largely at the secretary’s discretion on terms determined by him), which created a viable funded conservatorship option; the possibility of receivership; and a consultative role for the Fed (HUD 2008). (Also see Thompson 2021b for more description of the changes that HERA implemented.) 
+
+_that the Federal Reserve and other financial regulators applied to banks. The review concluded that the GSEs were more financially unstable than previously suspected and that they were technically insolvent despite meeting the minimum statutory capital requirements that applied to them (Frame et al. 2015, 34; Jester et al. 2018;Paulson 2010). The review also seemed to confirm estimates of the size of the firms’ capital needs (see Figure 1). Such a review can also provide more refined information that can be used to bolster efforts to gain additional tools and help structure what the most appropriate tools would be (Jester et al. 2018, 5–6)._ 
+
+24 New GSE legislation had been a Bush administration priority since as early as 2006 (Lockhart 2018, 6). Initial reform efforts focused on “creat[ing] a stronger and more effective regulatory regime” for Fannie, Freddie, and the Federal Home Loan Banks (FHLBs); a bill reflecting these initiatives—the Federal Housing Finance Reform Act of 2007—passed the House of Representatives in May 2007 but never became law (EOP 2007). When the crisis escalated in July 2008, the goal of enacting new legislation took on new urgency, and the scope of such a bill also increased. Secretary Paulson’s July 2008 proposal—which ultimately became the Housing and Economic Recovery Act of 2008—contained many of the same provisions as the 2007 proposal, including the creation of a new Federal Housing Finance Agency with more authority to regulate the GSEs. It also requested emergency powers for Treasury to be able to fund the GSEs should they verge on insolvency or experience weak demand for their debt (FCIC 2011d). 
+
+
+## **2. The Conservatorships and Associated Interventions** 
+
+After considering the options available under HERA, the government took both firms into conservatorship on September 6, 2008, as the cornerstone of a four-part rescue plan. Conservatorships managed by the FHFA were now a viable option because HERA granted Treasury the authority to fund it. Although the intervention was styled as a temporary measure that would provide a “time out” while allowing the government to take control of the companies and stabilize them, the conservatorships had no stated end date and are still in effect more than 10 years later as of this writing (Paulson 2010; Thompson and Wiggins 2021). 
+
+The conservatorships were consented to by the GSEs’ boards and management; however, under HERA, the government would have been able to effectuate the conservatorships on an involuntary basis (Thompson and Wiggins 2021). Earning the consent of the boards and management, however, minimized the possibility of lawsuits and a delay that might have impaired the conservatorships’ effectiveness.[25] While Fannie Mae and Freddie Mac faced different problems (e.g., Freddie Mac had a larger capital hole), the government decided to adopt the same approach toward them because the market largely saw them as the same (Thompson 2021a). 
+
+As explained in the Q&A issued by the FHFA: “The purpose of appointing the Conservator is to preserve and conserve the [enterprises’] assets and property and to put the [enterprises] in a sound and solvent condition. The goals of the conservatorship are to help restore confidence in [Fannie Mae and Freddie Mac], enhance [their] capacity to fulfill [their] mission, and mitigate the systemic risk that has contributed directly to the instability in the current market” (FHFA 2008a). 
+
+As conservator, the FHFA assumed all powers of the firms' shareholders, boards, and management. It could govern the companies in any legal capacity consistent with the guidelines set forth in HERA, and except in some limited cases, its actions as conservator were not subject to judicial review[26] (FHFA-OIG 2015). It immediately replaced the GSEs' boards of directors and CEOs, suspended voting rights, and froze dividends for common and preferred stockholders (FHFA-OIG 2015).[27] The FHFA directed the GSEs to continue their 
+
+> 25 _Given a choice between different ways to implement an intervention, choosing one that minimizes lawsuits, employee dissension, or other possible delaying factors may be a preferable choice for the long-term effectiveness of the plan. Treasury and the FHFA prepared for the conservatorships in secret and executed them quickly because a significant factor was to minimize the GSEs’ opportunity to harness their substantial political resources to oppose the plan. (See Jester et al. [2018, 6–8]: “[E]xecutives at Fannie and Freddie continued to tell Treasury that they were adequately capitalized and could manage through the housing downturn without breaching their required capital levels.”) (See also Lockhart [2018, 8–9]:_ “ _I let my general counsel speak in favor of almost the opposite position – a memo of understanding – instead of conservatorship. But I was in the conservatorship school. However, in order to eventually win the support of my staff – which was important – I thought it necessary to allow them to have their day in court . . . .”)_ 
+
+26 However, shareholders have been permitted to bring lawsuits charging that the FHFA acted inappropriately in agreeing to the Third Amendment to the Senior Preferred Stock Purchase Agreements granting Treasury the “net profit sweep” in lieu of the previous 10% dividend. See also Thompson 2021a, 16 and related footnotes. 
+
+27 The GSEs’ stock continued to trade, though the FHFA suspended shareholders’ rights and the payment of dividends (FHFA 2008a; Lockhart 2008). As of this writing, the FHFA has not unfrozen the GSEs’ dividends or reinstated their voting rights. 
+
+
+key business operations and MBS securitizations without restriction. With Treasury serving as a financial backstop, the FHFA also declared that the GSE capital limits were not binding during the conservatorship and then suspended them altogether, although it continued to monitor them (FHFA 2008b). (See Thompson and Wiggins 2021 for further detailed discussion of the conservatorships.) 
+
+To many observers, the GSEs were nationalized by the conservatorship[28] —“The new federal ‘conservatorship’ is a form of nationalization that puts regulators firmly in control,” the _Wall Street Journal_ editorialized the day after the intervention was announced, in supporting the government measure (Wall Street Journal Editorial Board 2008). “We only wish Mr. Paulson had gone further and erased all private equity holders the way the feds do in a typical bank failure.” 
+
+The Bush administration had mixed feelings about an intervention that might be seen as a nationalization. It was a tight rope to walk. Officials wanted to reassure the public that the government had the situation well in hand, while at the same time, they wanted to avoid taxpayers’ fears of unlimited losses or accusations of government overreach. Some officials did not mind the connotation of the word. Dan Jester, an official in the Bush administration, wrote later that the Treasury team above all wanted to ensure that the government covered the GSEs’ losses. But it was also “imperative to have the market believe this was a nationalization which put the government behind the GSE’s while not shocking the political system and the public who would equate the size of the investment with losses and cost to the taxpayer” (Jester et al. 2018, 10). 
+
+_Treasury Funding: Senior Preferred Stock Purchase Agreements (SPSPAs)_ 
+
+Treasury oversaw the other three steps of the rescue plan, which were to: (1) enter into a Senior Preferred Stock Purchase Agreement (SPSPA) with each GSE, (2) establish a new secured credit facility for each GSE, and (3) commit to purchase GSE mortgage-backed securities (Treasury 2008a).[29] 
+
+HERA provided that Treasury could make unlimited investments in the GSEs’ securities and/or debt, but only through December 31, 2009. HERA did not require that either company be in conservatorship as a prerequisite to such an investment, but Secretary Paulson and others at Treasury concluded that some form of government control over the firms was necessary to restore market confidence and protect the taxpayers’ investment, which was anticipated to be significant (Frame et al. 2015; Jester et al. 2018, 6; Paulson 2010).[30] Without 
+
+28 And to the extent there was a distinction at first, the government’s decision in 2012 to have the GSEs pay all profits to Treasury as dividends “effectively narrow[ed] the difference between conservatorship and nationalization,” academics wrote later (Frame et al. 2015, 41). 
+
+29 See Thompson 2021a for further details regarding the SPSPAs; Vergara 2021 for the secured credit facility; and Zanger-Tishler and Wiggins 2021 for the GSE MBS Purchase Program. It should be noted that the commitment to purchase the GSE MBS was not explicitly included in Treasury’s earlier July announcement that mentioned a liquidity backstop, equity investments, and regulatory reform. 
+
+> 30 _Securing some form of government control over an entity that the government plans to provide significant assistance to (whether in the form of capital investments or loans) is a reoccurring theme in the government’s actions during the crisis as a way to protect taxpayer funds. Fannie’s management asked for a significant government investment to boost confidence in the company without the government taking control, but officials were skeptical. “Given the magnitude of the GSEs expected losses relative to their capital resources, [Treasury]_ 
+
+
+Treasury funding, Frame et al. (2015) are of the opinion that a receivership would have been best. 
+
+In structuring the government’s funding, a “keepwell” agreement was decided on. In a keepwell agreement, a parent company generally agrees to provide a subsidiary with the capital required to ensure its positive net worth (Jester et al. 2018, 9). Keepwell agreements enabled Treasury to maintain the GSEs’ positive net worth regardless of their future losses, even if occurring after December 31, 2009—when HERA’s funding authority expired (Jester et al. 2018).[31] Pursuant to the SPSPAs, Treasury committed to invest up to $100 billion in each GSE—as needed—to prevent its net worth from becoming negative. In exchange for this commitment, Treasury received (1) one million (1,000,000) shares of senior preferred stock, with an initial liquidation preference equal to $1,000 per share, amounting to one billion dollars ($1,000,000,000) in aggregate liquidation preference; and (2) a warrant to purchase common stock of each GSE representing 79.9% ownership on a fully diluted basis at the nominal price of one-thousandth of a cent per share.[32] The warrants, which have not been exercised, were required to ensure that the taxpayers shared in any upside from the recovery of both firms should they return to profitability (Jester et al. 2018).[33] Both GSEs also had to 
+
+_concluded we could not invest in Fannie and Freddie in their current form while providing adequate protection for taxpayers” (Jester et al. 2018, 6). Although it might have been possible for the government to adequately protect the taxpayers through a contractual arrangement that afforded it certain rights and protections—the government would later use this method with American International Group (AIG) through preferred stock purchase agreements and a controlling equity interest—it was thought that the boards of the GSEs would not agree to such a deal easily, thereby risking delay and possibly leaks (Jester et al. 2018, 6). A Memorandum of Understanding was also discussed but rejected (Jester et al. 2018, 8–9). Since HERA provided a means of effective conservatorship or receivership, which would provide an ordered structure for government control, a decision was made between these two options. Conservatorship was decided because it best fit the government’s objective in the immediate situation with the least risk—to stabilize the markets and build confidence. Receivership would impose losses on holders of agency debt and MBS, which was rejected as an outcome. Conservatorship provided a “time out,” a “bailout of all claimants,” and a “more managed process” to stabilize the entities without the disruption of winding down involved in a receivership (Frame et al. 2015; Jester et al. 2018, 7). (See also the discussion at “Key Design Decision No. 11.”)_ 
+
+> 31 _The keepwell structure of the SPSPAs was a creative solution to the need to assure the markets that the government would guarantee the GSEs and their obligations (some of which were 30 years in duration) for as long as needed despite the fact that, under HERA, Treasury’s investment authority expired on December 31, 2009. Additional draws under the agreement were not additional purchases of stock, but such amounts were added to the preferred stock’s liquidation preference, protecting the taxpayers. Although Treasury team was concerned that some in Congress might criticize the structure as appearing to circumvent the act’s intention, little criticism was heard (Frame et al. 2015, 9)._ 
+
+32 The government did not pay cash for the securities. The transaction was denominated as a sale from the GSE (Seller) to Treasury (Purchaser) with the preferred stock representing in-kind payment of an Initial Commitment Fee (Treasury/Freddie 2008). The agreements also provided for a Periodic Commitment Fee, but Treasury waived and then later suspended this fee (Treasury/Freddie 2008; Thompson 2021a). 
+
+> 33 _Securing some means of capturing some of the potential upside of the government’s investments in a company is a mechanism that the government also included later in the AIG rescue, where the common shares resulting from the exercise of warrants netted the government and taxpayers a gain. The practice has been supported by a moral hazard argument that it somehow appears improper for the shareholders to reap all the gains from the government intervention while the taxpayers bear all the risk._ 
+
+
+adhere to additional obligations and restrictions included in the SPSPAs.[34] (See Thompson [2021a] for further discussion of the details regarding the SPSPAs.) 
+
+The senior preferred stock issued to Treasury ranked senior to all other common and preferred stock (FCIC 2011d, 320). Any draws of additional funding under the SPSPAs increased Treasury’s liquidation preference. As such, if one of the GSEs were liquidated, Treasury would be entitled to receive the full amount of its investment in the GSEs, as well as accumulated but unpaid dividends (which were initially set at a rate of 10% of the liquidation preference if paid in cash and at 12% if paid in stock) and unpaid commitment fees.[35] 
+
+Treasury’s maximum commitment to each GSE has been raised twice in response to growing concerns about whether it would be enough to cover the needs of the firms (Thompson 2021a). On May 6, 2009, the enactment of a First Amendment to the SPSPAs doubled Treasury’s commitment to $200 billion per GSE. Then, on December 24, 2009, the parties agreed to a Second Amendment, effectively giving each GSE access to unlimited funding—as needed—from 2010 to 2012. During this period, additional draws of funding did not count toward the $200 billion funding limit but instead raised the cap by an equal amount.[36] As such, at the end of 2012, Treasury’s maximum commitment to each GSE reverted to a set limit of (1) $200 billion plus (2) the amount each firm had drawn from 2010 to 2012 (but less any existing capital surplus directly attributable to these draws).[37] 
+
+34 From time to time, these restrictions included limitations on the GSEs’ portfolios and mandatory reduction thereof, limitations on debt, and capital accumulation (Thompson 2021a). The firms also had to inform Treasury of certain major decisions and, in some circumstances, seek its prior approval regarding: ending the conservatorships, executive compensation, certain transfers or sales of assets, declaring dividends, and mergers and acquisitions. See Thompson (2021a) for further details on the SPSPAs terms over time. 
+
+35 At the end of 2018, inclusive of the initial $1 billion liquidation preferences, the liquidation preference relating to the Fannie Mae preferred stock was $123.8 billion, and to Freddie Mac preferred stock, was $75.6 billion (Fannie Mae 2018; Freddie Mac 2018). In a liquidation, however, both GSEs may be unable to repay the liquidation preference. Fannie said in its most recent annual report that it was “unlikely” that common and other preferred shareholders would receive anything in a liquidation (Fannie Mae 2018). Freddie said that its ability to repay the liquidation preference of the senior preferred stock is “limited and we will not be able to do so for the foreseeable future, if at all” (Freddie Mac 2017, 178). 
+
+> **36** _Throughout the rescue, there were concerns about how to convey the government’s commitment to the GSEs’ solvency without spooking the markets. Publicly committing an unlimited amount was rejected in favor of specific amounts (initially $100 billion per firm), as an unlimited amount could be construed that the need was substantially greater than had been publicly estimated or discussed. The same was true of a specific number that was perceived as unexpectedly large; however, a specific amount could be increased if needed, as was done in the case of the First Amendment to the SPSPAs. Also, the Second Amendment implemented a formula describing the government’s commitment for a period, which in essence “quietly” amounted to an unlimited commitment (Jester et al. 2018, 12–14)._ 
+
+37 Fannie Mae, for example, drew $40.9 billion under the SPSPAs from 2010 to 2012 and at the end of this period had a net worth of $7.2 billion (Thompson 2021a). Beginning in January 2013, its new funding limit would have been calculated to be $200 billion + $40.9 billion – $7.2 billion = $233.7 billion, of which it had not drawn $117.6 billion. As of this time and pursuant to this formula, Treasury’s aggregate commitment for both GSEs was fixed at $445.5 billion—$233.7 billion for Fannie Mae and $211.8 billion for Freddie Mac—of which a total of $257.2 billion remained available to both firms. 
+
+
+In August 2012, the SPSPAs were amended for a third time (the Third Amendment), specifically to cap the GSEs’ capital reserves and to require annual reductions until they reached zero in January 2018, at which point the GSEs would solely depend on Treasury to cover their losses (Thompson 2021a). This reflected a “wind down” strategy favored by the Obama administration. The Third Amendment also replaced the fixed-rate dividend with a variable dividend, which effectively swept any of the GSEs’ quarterly net profits to Treasury, but which also meant that Treasury would not receive a dividend in any quarter that there was a loss. The change became controversial in 2012 when Fannie Mae and Freddie Mac posted annual profits (after paying dividends to Treasury) for the first time since 2007.[38] 
+
+## _Other Liquidity_ 
+
+In addition to the conservatorships and the SPSPAs, Treasury created the GSE Credit Facility, which was designed to provide collateralized short-term funding to the GSEs as needed. Evidence suggests that the facility was intended to replace the discount window, which the Fed had made available to the firms on a temporary basis in July,[39] and had no limit on its funding commitment (Paulson 2010). The facility was never used by either firm and expired on December 31, 2009 (Vergara 2021). (See Vergara [2021] for more discussion of the GSE Credit Facility). 
+
+In addition to the elements hinted at in July, the government also implemented a fourth element to its rescue plan. Also, in September, Treasury began to purchase GSE MBS in the open market and would invest a combined $225 billion through December 31, 2009, when its authority to invest in these securities expired (Zanger-Tishler and Wiggins 2021). (See Zanger-Tishler and Wiggins [2021] for more discussion of Treasury GSE MBS Purchase Program). 
+
+## _Large-Scale Asset Purchase (LSAP) Program—November 2008_ 
+
+While Treasury’s commitments to the GSEs had effectively guaranteed their solvency, agency debt and MBS spreads remained high and the housing market continued to face severe stresses. These factors, along with a dramatic reduction of the federal funds rate by November 2008, which limited the Fed’s ability to continue to rely upon traditional 
+
+38 In December 2017, the Trump Treasury and FHFA entered into a letter agreement that raised the maximum capital reserve amount for each firm from zero (as mandated by the Third Amendment) to $3 billion indefinitely, beginning in January 2018, permitting the firms to again retain earnings (Thompson 2021a). It is not clear if this should be read as a shift from the prior administration’s “wind down” strategy for the firms. The letter further stipulated that $3 billion be added to the liquidation preference of the preferred stock (Thompson 2021a). 
+
+39 According to Chairman Bernanke, the Fed was reluctant to make a long-term commitment to the firms and agreed to lend to them only on the condition that such an arrangement would be “temporary” (Bernanke 2015; Paulson 2010). By providing a temporary backstop, the discount window was supposed to support market confidence in Fannie and Freddie while Treasury pursued (among other things) the congressional authority to fund them on a long-term basis, if necessary. Based on the agreement in July, once Treasury received the authority do so, it presumably intended on funding a potential GSE intervention on its own, for example, by increasing its credit lines with each GSE as it had announced. Though no explicit statement has been made to confirm this, the Fed did amend its July 13, 2008, meeting minutes to this effect, updating its decision to temporarily lend to the GSEs with a notice that they had been placed into conservatorship on September 6, 2008, potentially indicating that because of the intervention, the arrangement had become obsolete (Board 2009). 
+
+
+monetary policy tools, led the Federal Reserve to announce what became known as the Large-Scale Asset Purchase (LSAP) Program (Thompson 2021c). Under the LSAP Program, the Fed would purchase $172 billion in agency debt and $1.25 trillion in agency MBS through March 2010.[40] 
+
+## **IV. Outcomes** 
+
+The announcement of the conservatorships on September 7, 2008, and the FHFA’s pledge to protect bondholders seem to have increased confidence in the GSEs as evidenced by falling agency MBS yields and increased market demand for GSE debt in the days that followed, at least prior to the collapse of Lehman Brothers on September 15 (FOMC 2008; Frame et al. 2015, 42–43; Lockhart 2008). Although mortgage rates also fell for a brief period, they rose dramatically following Lehman’s failure (Frame et al. 2015, 43). Treasury’s GSE MBS Purchase Program did not seem to have much of an impact on moderating these rates. However, the Fed’s LSAP Program, which it announced on November 25, had an immediate effect on rates. “On the day of the announcement, 10-year agency debt yields and optionadjusted agency MBS yields fell about 60 basis points, 10-year Treasury and swap yields fell about 20 basis points, and corporate bond yields fell about 10 basis points. . . . [By] November 28, all of these yields had fallen a further 10 to 20 basis points” (Gagnon and Holscher 2008, 3). Hancock and Passmore (2010) find that once the purchases began, rates continued to fall but on a more modest basis because of generally rising interest rates and that, in total, “after the end of the [LSAP] program on March 31, 2010, mortgage rates and interest rates more generally were significantly less than they had been at the beginning” (1). As shown in Figure 4, the announcement of the LSAP Program coincided with immediate declines in mortgage rates and MBS spreads (Patrabansh et al. 2014, 18-21). 
+
+> 40 The Fed purchased debt issued by Fannie Mae, Freddie Mac, and the 12 Federal Home Loan Banks. The FHLBs, now numbering 11 after two merged in 2015, use mortgages as collateral to lend to institutions, mainly commercial banks and thrifts and MBS issued by Fannie Mae, Freddie Mac, and the Government National Mortgage Association (Ginnie Mae), a government-owned entity that also operates in the secondary mortgage market. The overwhelming majority of the LSAP purchases were securities issued by the GSEs (Thompson 2021c). 
+
+
+[FIGURE id=vol3_iss1_15_f4 type=chart label="Figure 4" file=figure_4.png caption="30-year Fixed Rate Mortgage Rates (Green), 10-year Treasury Yields (Red), MBS Current Coupon Rates (Orange), and LSAP Programs"]
+### **Figure 4: 30-year Fixed Rate Mortgage Rates (Green), 10-year Treasury Yields (Red), MBS Current Coupon Rates (Orange), and LSAP Programs**
+![Figure 4](assets/vol3_iss1_15/figure_4.png)
+
+
+_Sources:_ Patrabansh et al. 2014, 18 _; original data from US Treasury and Bloomberg._ 
+
+By early 2009, after trading at more than $60 per share as late as October 2007, the common stock of both GSEs had fallen to below $1 per share (Frame et al. 2015). The GSEs continued to report losses for nearly four years after the September 2008 intervention, mainly due to continued mortgage defaults and to the effects of falling housing prices on their MBS businesses and portfolios. As a result, they repeatedly needed to draw funds under the SPSPAs. As shown in Figure 5, initial draws by the two firms greatly exceeded estimates of their capital needs during the summer of 2008. By the end of 2012, the government had invested $116.1 billion in Fannie Mae and $71.3 billion in Freddie Mac for a total investment of $187.5 billion (Frame et al. 2015, 25). 
+
+
+[FIGURE id=vol3_iss1_15_f5 type=figure label="Figure 5" file=figure_5.png caption="Estimates of GSEs’ Capital Needs Compared to Actual Draws/Commitments"]
+### **Figure 5: Estimates of GSEs’ Capital Needs Compared to Actual Draws/Commitments**
+
+||**Source**|**Amount($ Billions)**|**Date**||
+|---|---|---|---|---|
+||Lehman Brothers report estimate|$75|July2008||
+||Federal Reserve/OCC/Morgan Stanley (estimate from<br>summer financial review)|$60–$70|August 2008||
+||Government’s initial commitment|Upto $200|September 2008||
+||Combined draws byFannie and Freddie through date|$110|November 2009||
+||Combined draws byFannie and Freddie through date|$187.5|Firstquarter 2012||
+
+
+
+_Sources: Fannie Mae 2017, 37; Freddie Mac 2017, 2; Jester et al. 2018; Thompson and Wiggins 2021._ 
+
+By the time they returned to profitability in 2012, the GSEs had been stabilized. In fourthquarter 2017, unrelated to the initial rescue, the GSEs requested their first draws in nearly five years, accepting an additional $4 billion from Treasury and bringing total combined draws to $191.5 billion (Fannie Mae 2018, 3; Freddie Mac 2018, 2, 289). The firms attributed the quarter’s losses to accounting changes effectuated by the Tax Cuts and Jobs Act of 2017, and as of this writing, have not requested additional funding since. 
+
+## **Figure 6 Dividends Paid, Capital Draws, and Liquidation Preference under the SPSPAs** 
+
+||**Fannie Mae**|**Freddie Mac**|**Total**|
+|---|---|---|---|
+|**Dividendspaid($ billions)**||||
+|2008–2012|$31.4|$23.8|$55.2|
+|2013–2018|$144.3|$92.8|$237.1|
+|Total|$175.8|$116.6|$292.3|
+|||||
+|**Capital draws($ billions)**||||
+|2008–2012|$116.1|$71.3|$187.5|
+|2013–2018|$3.7|$0.3|$4.0|
+|Total|$119.8|$71.6|$191.5|
+|||||
+|**Liquidation preference**<br>**($ billions)**||||
+|Original (upon executing the<br>SPSPAs)|$1.0|$1.0|$2.0|
+|Through 2018|$123.8|$75.6|$199.5|
+
+
+
+_Sources: Fannie Mae 2018, 3; Freddie Mac 2018, 2, 289._ 
+
+As shown in Figure 6, the firms have paid a combined $292.3 billon to Treasury in dividends, with $237.1 billion of this being paid since 2012. Thus far, the government’s investment in the two firms has netted a positive return of $100.8 billion. Frame et al. (2015) note, however, that a cash accounting profit should not be mistaken for proof that the government was fairly compensated, as “Treasury took on enormous risk when rescuing the two firms” (26). Based on this logic, and by taking into account risks as well as time-weighted returns, 
+
+
+a recent analysis estimates that the real “fair value” cost to Treasury was more than $300 billion (Lucas 2019, 96). 
+
+During the conservatorship, the GSEs’ balance sheets have changed dramatically, as shown in Figure 7. Their portfolios and debt have shrunk significantly (Fannie’s more so than Freddie’s), while the volume of their MBS guarantees has increased steadily given the significant role that the firms continue to play in the secondary market. 
+
+[FIGURE id=vol3_iss1_15_f6 type=figure label="Figure 7" file=figure_7.png caption="Changes in Certain Key Indicators during Conservatorship (as of year-end)"]
+### **Figure 7: Changes in Certain Key Indicators during Conservatorship (as of year-end)**
+
+|_$ billions_||**Fannie Mae**|||**Freddie Mac**||
+|---|---|---|---|---|---|---|
+|**Year**|**Portfolio**|**MBS/Guarantees**|**Debt**|**Portfolio**|**MBS/Guarantees**|**Debt**|
+|2008|$787.3|$2,611.4|$883.1|$804.8|$1,827.2|$870.3|
+|2010|$788.8|$2,695.7|$793.9|$696.9|$1,731.6|$728.2|
+|2012|$633.1|$2,741.3|$621.8|$557.5|$1,585.5|$552.5|
+|2014|$413.3|$2,803.6|$464.5|$408.4|$1,663.2|$454.0|
+|2016|$272.4|$2,913.9|$328.8|$298.4|$1,849.2|$356.7|
+|2018|$179.2|$3,142.5|$232.5|$218.1|$2,084.0|$255.7|
+
+
+
+_Sources: GSEs’ Form 10-Ks for years listed._ 
+
+Since 2008, GSE shareholders have filed several lawsuits challenging the government’s indefinite suspension of dividends and voting rights of GSE equity and its sweep of the GSEs’ profits pursuant to the Third Amendment in 2012 (Thompson 2021a). As of this writing, two lawsuits are still pending, and the firms continue to operate under conservatorship and the amended SPSPAs. 
+
+## **V. Key Design Decisions** 
+
+## **1. What factors influenced the government’s determination to intervene?** 
+
+US government intervention has never been predicated on saving every institution that might fail but on addressing those whose failure could jeopardize the stability of the financial system (FCIC 2010b, 2). When the government has intervened, it has typically referred to the potential risks that an institution’s failure could have on the economy or on the stability of the financial system (FCIC 2010b, 2). In this case, Fed and Treasury policymakers believed that the potential failure of the GSEs posed an unacceptable systemic risk to the financial system and chose to intervene.[41] 
+
+41 As early as March 2007, when testifying before Congress on regulatory reform for the GSEs, Bob Steele of Treasury also cited the potential for systemic risk: “As Treasury has noted previously, the combination of three key features of Fannie Mae’s and Freddie Mac’s retained mortgage portfolios warrant the attention of policymakers: (1) the size of the retained mortgage portfolios of Fannie Mae and Freddie Mac—$1.4 trillion as 
+
+
+In deciding to intervene in summer 2008, the government cited at least three factors to support its conclusion: (1) the sheer size of the GSEs’ liabilities, (2) their central role in the housing market, and (3) their close alignment with the government. Jester et al. (2018) state: “For one thing, GSE securities were embedded throughout the global financial system. At the same time, keeping the mortgage finance market functioning as smoothly as possible was a necessary element of our larger effort to revive the damaged economy” (12). Much of this inquiry will be the same for a GSE as for any other nonbank; however, given the GSEs’ special status, some unique issues and concerns had to be considered; we discuss these factors in “Key Design Decision No. 12 (KDD No. 12)” below. 
+
+First, the GSEs were giants—they were among the biggest players in the global capital markets, and the likelihood was great that a disorderly failure of such a large institution would have had a negative impact on the financial system and possibly even the wider economy (Jester et al. 2018, 2–3; Paulson 2010). The GSEs had $1.7 trillion in debt outstanding, and it was widely held, both at home and abroad (Fannie Mae 2008; FCIC 2011d; Freddie Mac 2008; Geithner 2014; Jester et al. 2018). Given their size and weakened state by summer 2008, it was unlikely that a private rescue would be possible; thus, the government determined to intervene (Jester et al. 2018; Paulson 2010). 
+
+A second reason why the government decided that the GSEs posed a systemic risk to the financial system was that their failure would have greatly increased the likelihood of additional decline in the housing market. Beginning in mid-2007, private securitization had begun to evaporate dramatically. By spring 2008, there were few if any viable participants in the secondary mortgage market besides the GSEs (FCIC 2010b).[42] 
+
+A freezing of mortgage credit could have also led to a widespread devaluation of real estate– related assets that could have impacted every bank and financial institution that held them, weakening them further and potentially impacting the real economy (FCIC 2010b; Jester et al. 2018). Given their size and dominance, the overwhelming consensus by market commentators and policymakers was that preventing the mortgage market from collapsing was essential to containing the crisis, and the GSEs were the instrument needed to do this (FCIC 2010b; Jester et al. 2018, 2–3, 7; Paulson 2010). 
+
+A third factor influencing the government’s decision to rescue the GSEs was its close association with them. As noted above, their status as GSEs conveyed special benefits including an implied guarantee of their securities and debt. These connections were significant and included not only the structural benefits inherent in their congressional charters but also a continuous pattern of favorable treatment of GSE debt and securities by the government and its encouragement of investors to buy them (Reiss 2011). So strong were these ties that many parties were confused about the GSEs’ status as separate, quasiprivate companies. Both Chairman Bernanke and Secretary Paulson recount receiving calls from foreign officials asking them to confirm that the government would stand behind the 
+
+of year-end 2006; (2) the lack of effective market discipline; and (3) the interconnectivity between the GSEs’ mortgage investment activities and the other key players in our nation’s financial system (both insured depository institutions and derivative counterparties). The combination of these three factors causes the GSEs to present the potential for systemic risk to our financial system and the global economy” (Steel 2007). 
+
+42 See also Frame et al. (2015, 14) regarding the GSEs’ mission significance and other matters validating the government intervention: “Summing up, Fannie Mae and Freddie Mac were too large and interconnected to be allowed to fail, especially in September 2008 given the deteriorating conditions in the US housing and financial markets and the central role of these two firms in the mortgage finance infrastructure.” 
+
+
+GSEs (Bernanke 2015; Paulson 2010). Moreover, there was some risk that a default by one of the GSEs would potentially raise questions about the creditworthiness of the US government itself, possibly disrupting the market for Treasuries. In light of such an environment, government officials concluded that they had no choice but to stand behind the firms or risk the government’s own credibility (Jester et al. 2018; Paulson 2010). 
+
+## **2. What was the government’s purpose for intervening?** 
+
+By mid-2007, US housing prices had peaked from a decades-long run-up and had been declining for several quarters. Subprime mortgages were experiencing significant increases in defaults and foreclosures. As a result, nonconforming mortgage origination and privatelabel securitization evaporated, resulting in the GSEs purchasing an increased percentage of new mortgages—73% by 2007 (FCIC 2010b). Policymakers determined that containing the crisis required fixing housing and maintaining the mortgage lending cycle. By mid-2008, there was a consensus that the GSEs were the instrument needed to do this (FCIC 2010b; Jester et al. 2018; Paulson 2010). 
+
+Given their size and importance in the secondary mortgage market and their broad participation in the global capital markets, the potential insolvencies of the GSEs not only threatened to destabilize the entire financial system but also risked disrupting the general economy, and the capital markets. The government intervened to stabilize the firms so that they could support the correcting housing market and avoid these further negative developments (FCIC 2010b; Jester et al. 2018; Paulson 2010). 
+
+## **3. What legal authority supported the government’s intervention?** 
+
+There were several legal bases for the government’s rescue of the GSEs. 
+
+The Federal Reserve relied on Section 13(13) of the Federal Reserve Act in July 2008 when it made the discount window available to the GSEs. Section 13(13), unlike Section 13(3), which the Fed invoked for many of its crisis-fighting programs, does not require a finding that an emergency exists: 
+
+Subject to such limitations, restrictions and regulations as the Board of Governors of the Federal Reserve System may prescribe, any Federal reserve bank may make advances to any individual, partnership or corporation on the promissory notes of such individual, partnership or corporation secured by direct obligations of the United States or by any obligation which is a direct obligation of, or fully guaranteed as to principal and interest by, any agency of the United States.[43] (FRA §13[13] 1968) 
+
+The ability to enact a conservatorship existed prior to HERA and was preserved. However, under HERA, the FHFA director was required to consult with the Fed before exercising some of its new powers, and specifically before deciding to place a GSE in conservatorship (HERA 2008).[44] The director was also required to share information relating to the GSEs’ “capital, 
+
+> 43See “Background: The Special Status of Government-Sponsored Enterprises [GSEs]” above; see also Jickling (2007, CRS-1n4). 
+
+> 44 Section 1118 of HERA provides in part: 
+
+
+asset and liabilities, financial condition, and risk management practices”, as well as other “information related to financial market stability.” These provisions, as well as the lending authority under the Federal Reserve Act, provided the basis for the Fed’s participation in the summer financial review and concurrence with the conservatorships. 
+
+Prior to the passage of HERA, Treasury had authority to provide funding up to $2.25 billion to each GSE (Fannie Mae Act 2018; Freddie Mac Act 2010). However, Section 1117 of HERA provided Treasury temporary authority “to purchase any obligations and other securities issued by the [GSEs] under any section of this Act, on such terms and conditions as the Secretary may determine and in such amounts as the Secretary may determine.” Exercise of such authority, which expired on December 31, 2009, required determination by the secretary that the intended actions were necessary to: (1) provide stability to the financial markets; (2) prevent disruptions in the availability of mortgage finance; and (3) protect the taxpayer (HERA 2008, §1117[a][4]). This authority was relied upon for the SPSPAs, Treasury’s GSE MBS Purchase Program, and the GSE Credit Facility. 
+
+Pursuant to Section 12(k)(2) of the Securities Exchange Act of 1934, the SEC in appropriate circumstances may “issue summarily an order to alter, supplement, suspend, or impose requirements or restrictions with respect to matters or actions subject to regulation by the Commission”[45] (SEC 2008). In July 2008, the SEC exercised this authority, in light of the “unusual and extraordinary circumstances,” to issue an order prohibiting naked short selling of the stock of specified financial institutions, including the GSEs (SEC 2008). It later prohibited all such short sales. 
+
+## **4. What was the government’s initial strategy?** 
+
+With limited tools available prior to the passage of HERA (See “KDD No. 3” above), the government’s initial strategy was to provide reassurance to the market by providing a liquidity backstop (via the Federal Reserve), monitoring and evaluating the GSEs’ financial 
+
+(A)…The Director also shall consult with the Chairman regarding any decision to place a regulated entity into conservatorship or receivership. 
+
+(B) To facilitate the consultative process, the Director shall share information with the Board of Governors of the Federal Reserve System on a regular, periodic basis as determined by the Director and the Board regarding the capital, asset and liabilities, financial condition, and risk management practices of the regulated entities as well as any information related to financial market stability. 
+
+## 45 Section 12(k)(2)(A) provides: 
+
+The Commission, in an emergency, may by order summarily take such action to alter, supplement, suspend, or impose requirements or restrictions with respect to any matter or action subject to regulation by the Commission or a self-regulatory organization under this title, as the Commission determines is necessary in the public interest and for the protection of investors- 
+
+(i) to maintain or restore fair and orderly securities markets (other than markets in exempted securities); or 
+
+(ii) to ensure prompt, accurate, and safe clearance and settlement of transactions in securities (other than exempted securities). 
+
+
+positions, and seeking regulatory reform that would provide the tools necessary for a more long-term solution[46] (Jester et al. 2018; Paulson 2010). 
+
+## **5. What tools did the government have available?** 
+
+Prior to the passage of HERA in July 2008, there existed a strong consensus among government officials that the tools available to the government to address the continued deterioration of the GSEs and prevent their collapse were insufficient to the task (FCIC 2011d; Frame et al. 2015; Paulson 2010). 
+
+The OFHEO had the authority to put the firms into conservatorship, but without a viable funding option, this was a nonstarter (Frame et al. 2015). The GSEs had standing lines of credit with Treasury, but given their small size—only $2.25 billion per firm—the credit lines were unlikely to make a dent in their needs should the market refused to lend to them. The Federal Reserve, however, could lend to the enterprises on a collateralized basis in its role as lender of last resort. The SEC also had the ability to prohibit naked short selling of the enterprises’ stock, which it did. 
+
+There was no authority for the government to invest in the firms. The government did however, have its powers of moral persuasion and regulatory initiative, which it would use to seek new authorities. By spring 2008, Secretary Paulson, Director Lockhart, and Chairman Bernanke were designing a plan for comprehensive new legislation that, if adopted, would provide the additional tools needed to address the continued deterioration of the GSEs and prevent their collapse (Bernanke 2015; Paulson 2010). 
+
+## **6. What additional tools did the government seek to acquire?** 
+
+The plan for comprehensive new legislation that would provide the needed additional tools became HERA, which was enacted on July 30, 2008. HERA provided tools that filled the gaps identified by policymakers: (1) a stronger regulator to replace the OFHEO, which would have the authority to address weaknesses early, including capital requirements, and could exert control over the GSEs’ housing mission; (2) authority for Treasury to fund and invest in the firms, which provided a means for viable conservatorships; (3) a liquidity backstop; and (4) a receivership option (Jester et al. 2018, 4; Treasury 2008a; Weiss 2008). 
+
+The government’s request for funding under HERA was carefully calibrated and took into consideration a number of factors including: market expectations for the GSEs’ capital needs; information from the summer financial review, including estimates and knowledge about less-rigid accounting practices; and evidence regarding the likelihood of further losses (Jester et al. 2018, 4; Lockhart 2018). Even considering these factors, there was no way of knowing how much funding the firms would actually need or for how long. Asking for a 
+
+> 46 In this paper, early actions toward the GSEs are considered to be those occurring in July and August 2008, prior to when the firms were placed into conservatorship. We consider these actions to be the first major and concerted steps taken to respond specifically to the threat of a GSE default or insolvency. Given their centrality to the mortgage market, the GSEs had been a primary focus of policymakers for quite some time and had been the subject of a number of measures (e.g., requirements to raise capital and advisements to curtail dividends) (FCIC 2011d). Earlier actions like these, however, seem to have had the primary aims of (1) supporting the mortgage market and (2) bracing the firms for an extended and serious downturn. In short, these actions reflected the government’s hope of preventing a larger crisis—both in housing and at the GSEs—rather than a direct attempt to respond to one at both firms, as we saw in July and August 2008. 
+
+
+specific amount of funding authority risked signaling that the size of the problem was known. Requesting an outsized amount compared to expectations could have spooked the market. Requesting too small an amount risked that it might not have been enough and could have falsely signaled that the problem was smaller than originally thought (Geithner and Metrick 2018; Jester et al. 2018, 3–5). The government considered asking for a blank check (i.e., authority not constrained by the debt ceiling) but thought that Congress was unlikely to grant a totally unlimited authority; for these reasons, a compromise proposal was reached (Jester et al. 2018, 3–5; Paulson 2010). 
+
+Section 1117 of HERA authorized Treasury to invest unlimited amounts in the securities and debt of the GSEs, if necessary, to maintain stability of the markets, but only through December 31, 2009, a date chosen to give the incoming administration some room to adjust before having to act further if needed (Jester et al. 2018, 4). This design choice—authority unlimited as to amount but limited as to time—made the bill palatable to legislators.[47] It also acknowledged that the true scope of what might be needed to stabilize the GSEs was unknown (Paulson 2010). Although no amount was stated, there was some indication of the magnitude possible through HERA in that, concurrent with its passage, the federal debt ceiling was expanded by $800 billion to accommodate any emergency financing (Paulson 2010). Collectively, these actions sent a strong message to the market that the government now could take, and was prepared to take, extraordinary actions to shore up the GSEs rather than allow them to fail in a disorderly manner. (See also “KDD No. 11e,” discussing similar issues in determining the amounts applied in the intervention.) 
+
+Although the government’s role in supporting housing and the structure of Fannie and Freddie had been debated for years, HERA did not address the fundamental question of the “inherent conflict and flawed business model embedded in the GSE structure.” Because of the urgency of the situation, policymakers decided that “meaningful GSE reform would have to wait.” Trying to address such a lingering and contentious issue during a crisis might have resulted in no bill being passed[48] (Jester et al. 2018, 16–17; Paulson 2010). Instead, the government fashioned a “time out” that would keep the firms operating but which avoided this larger question and its political pitfalls (Jester et al. 2018, 16–17; Paulson 2010). 
+
+## **7. How did the government implement its initial strategy?** 
+
+On July 13, 2008, the Fed announced that it would utilize its Section 13(13) authority to make its discount window immediately available to the firms, providing liquidity if needed. Further, the Fed, Treasury, and OFHEO collectively announced a three-part plan to pursue regulatory reform that would enable the government to address the enterprises in a more 
+
+> _47 Section 1117’s unlimited funding for a limited time provision represents_ a _creative compromise that was passable by Congress. It allowed Treasury to commit the potentially massive amounts of funds that the firms might require and provided a reasonable time frame to work within. Secretary Paulson described approaching Congress for HERA as a “Catch-22” situation. Just asking for the authorities needed “would confirm how fragile the GSEs were and spook investors. . . . [If] congress failed to come through, the markets would implode.”_ (Jester et al. 2018, 3) _._ 
+
+> 48 _Keeping the focus of the proposed legislation somewhat narrow and targeted to the tools needed to address the current crisis facilitated Congress passing a bill in a relatively short period. If policymakers had sought to address the broader structure of the GSEs, there might have been substantial delay in having any bill passed in the necessary time frame, since then, as now, there was no consensus about what an alternative structure should look like_ (Jester et al. 2018, 17) _. Also, the firms were well-positioned politically to oppose a reform plan that they did not approve of. Lesson Learned: focus on putting out the fire, leave other issues for later._ 
+
+
+substantial manner. The plan sought to (1) increase the GSEs’ existing credit lines, (2) grant Treasury the authority to invest in the equity of the companies, and (3) provide a new regulator and give the Fed a consulting role in setting capital requirements and other prudential standards (FCIC 2011d). The same week, the SEC announced a prohibition on short selling of the GSEs’ stocks, which had been under pressure. 
+
+Because of their quasi-governmental status, the firms were not required to adhere to financial practices common to other public companies, such as filing quarterly and annual financial reports with the SEC, although they had both registered their stocks voluntarily and had begun to publish such statements. (See “Background: The Special Status of GovernmentSponsored Enterprises (GSEs)” above; see also Fannie Mae (n.d.) and Freddie Mac (n.d.).) Information regarding the GSEs’ finances was limited and not directly available to Treasury or the Fed—the agencies capable of providing any emergency assistance—but instead resided with the OFHEO, their regulator. In part to compensate for this lacking, the Federal Reserve, OCC, FDIC, and Treasury undertook the summer financial review discussed above. The review was considered to be much more rigorous than those conducted by the OFHEO. It applied stricter standards, incorporated input from other agencies, and used stress tests different from those used by the OFHEO to estimate the GSEs’ capital during potential market disturbances (Frame, Gerardi, and Willen 2015; Jester et al. 2018, 8). 
+
+## **8. How did the government decide on the specific terms of its initial intervention?** 
+
+Government officials recognized that they did not have all the tools that they would likely need to stabilize the GSEs. However, the market was quickly losing faith in the firms’ ability to weather the decline in housing without government assistance, and the possibility of a failed GSE auction had increased. Therefore, with the July 13, 2008, announcement, the government took actions to address the immediate needs of the GSEs and to provide reassurance to the markets using the limited tools available to it (Jester et al. 2018). 
+
+In making its discount window available to the GSEs, the Fed provided the firms with a liquidity backstop should the funding markets retreat from them further. The Fed was strategic in deciding to utilize its FRA Section 13(13) authority instead of Section 13(3) (Alvarez 2019). For one reason, it did not want to publicize the thought that Fannie and Freddie were in the same trouble as Bear Stearns. Such signaling would have been unavoidable had it utilized Section 13(3) with its “unusual and exigent” requirement. Relying on Section 13(13) permitted the Fed to lend to the GSEs without making a specific finding because of the firms’ large holdings of Treasuries and their own securities, which were eligible collateral under Section 13(13).[49] The Fed hoped that its announcement would signal that the firms would not run out of money and that the part of the mortgage market that they were responsible for, a very large part at this point in July 2008, would continue to operate (Alvarez 2019). 
+
+In total, announcing the comprehensive plan for legislative reform signaled that the government was on the case, that it understood that the enterprises likely would need capital in addition to liquidity, and that overall, it was prepared to take significant action to stabilize the firms, subject to Congress giving it the tools. The plan was designed to (1) allow the GSEs 
+
+> 49 _Messaging is always a concern when choosing among available tools. The difference here might seem subtle, but sometimes even small elements matter, and avoiding a comparison to Bear Stearns, the investment firm that almost failed in March 2008, was thought to be preferable given the precarious nature of the firms and the potentially strong reactions from market participants (Alvarez 2019)._ 
+
+
+to continue operating in support of the housing and mortgage markets, and (2) ensure that the firms had adequate capital to continue their businesses and reduce systemic risk (Jester et al. 2018, 3). 
+
+## **9. Did the government’s strategy change over time?** 
+
+Once HERA passed, the government moved quickly to assess what additional steps it should take to stabilize the GSEs. Earlier efforts had focused on supporting market confidence in the firms (e.g., urging them to raise capital and providing a liquidity backstop) and ensuring their continued support of the secondary mortgage market (e.g., increasing their portfolio limits) while officials attempted to secure additional remedial tools. The summer financial review, however, led officials to realize that the nature and extent of the GSEs’ problems were far greater than previously known; both firms were technically insolvent, or soon would be. This point marked a change in the overall strategy for addressing the two firms. Attention shifted from working to assess whether and how soon an intervention might be needed to determining how best to take the firms under immediate government control. A number of considerations informed talks during the ensuing few weeks, but above all, officials recognized the need to keep the firms solvent so that they could continue operating in the mortgage market and prevent a further escalation of the crisis. Thus, on September 6, 2008, the FHFA placed the two firms in conservatorship (Jester et al. 2018; Paulson 2010). 
+
+While the conservatorships effectively guaranteed the GSEs’ solvency, agency debt and agency MBS spreads remained high, and the housing market continued to face severe stresses. In November 2008, the Federal Reserve announced the LSAP Program, which, by aiming to purchase up to $100 billion in GSE debt and $500 billion in GSE MBS, was specifically designed to drive down mortgage rates at a faster pace than was occurring[50] (Board 2008b). (See Thompson 2021c for detailed discussion of the LSAP Program.) 
+
+In late 2008 and early 2009, Treasury and FHFA unveiled initiatives to assist struggling homeowners, several of which involved the GSEs. The Home Affordable Refinance Program (HARP), for example, allowed GSE borrowers (individuals with mortgages owned or guaranteed by Fannie or Freddie) to refinance their mortgages and benefit from lower prevailing interest rates. Fannie and Freddie also let other homeowners refinance through a “streamlined process” (FHFA 2010b). 
+
+While the government increased its funding limits under the SPSPAs over time and amended several other terms (see “KDD No. 11e” and “Background: The Special Status of GovernmentSponsored Enterprises (GSEs)” above; see also Fannie Mae (n.d.) and Freddie Mac (n.d.), a change in strategy for the GSEs did not occur until 2012, at which point it was largely accepted that the firms had been stabilized and that the crisis was over. The Third Amendment that was adopted that year affected the controversial dividend sweep and was 
+
+> 50 _The LSAP Program was a bold move from the Fed undertaken because the impact of the assistance to the GSEs was not as positive and enduring as had been expected. Mortgage rates soon started to rise again after the firms were placed into conservatorship, which might have been impacted by the tumultuous events of the next week including the bankruptcy of Lehman Brothers and the rescue of AIG. At the time, the LSAP Program was viewed as controversial; the Fed had not previously employed such nontraditional monetary policy moves. However, the mere announcement of the LSAP Program had an immediate effect on reducing mortgage rates, even before the Fed began its purchases (Gagnon and Holscher 2008, 3). By the end of the LSAP Program in March 2010, mortgage rates and interest rates in general were significantly less than they were before the program was announced (Hancock and Passmore 2010, 1)._ 
+
+
+undertaken to reflect the Obama administration’s “wind-down” view of the future of the firms[51] (Frame et al. 2015; Thompson and Wiggins 2021). The FHFA also sought to eliminate the need to borrow from Treasury so that the GSEs could pay their annual fixed dividends, which were stipulated by the SPSPAs (FHFA 2012). Beginning in 2017, the strategic focus of the conservatorships was further adjusted to reflect the view of the Trump administration.[52] 
+
+## **10. How did the government implement its amended strategy?** 
+
+Once HERA passed, within a short period, on September 6, 2008, the government placed both enterprises into conservatorships overseen by its new regulator the FHFA. The conservator replaced the boards and CEOs of the firms and effectively gave control over them to the FHFA. As conservator, the FHFA entered into Senior Preferred Stock Purchase Agreements (SPSPAs) with Treasury on behalf of each firm providing that Treasury would invest initially up to $100 billion into each firm as needed to ensure its solvency. 
+
+In addition to the conservatorships and the SPSPAs, Treasury created the GSE Credit Facility, which was designed to provide collateralized short-term funding to the GSEs as needed[53] (Vergara 2021). The facility was never used by either firm and expired on December 31, 2009. Treasury also announced the GSE MBS Purchase Program and began to purchase MBS in the open market in September 2008, buying a combined $225 billion through December 31, 2009, when this authority expired (Zanger-Tishler and Wiggins 2021). 
+
+While the September actions to stabilize the GSEs guaranteed their solvency, they did not result in lower mortgage rates, and the housing market continued in turmoil. These factors, along with a dramatic reduction of the federal funds rate to the zero bound by November 2008, led the Federal Reserve to announce the LSAP Program (Thompson 2021c). Under the LSAP Program, the Fed would purchase $172 billion in agency debt and $1.25 trillion in 
+
+> 51 _Although controversial, some critics have defended the move, which has resulted in the two GSEs having paid more to the government in dividends than the outstanding liquidation preference under the preferred stock. See, for example, Frame et al. 2015, citing Wall (2014, 46–48): “As an economic matter, one cannot simply compare nominal cash flows but must also take into account that Treasury took on enormous risk when rescuing the two firms in 2008 and should therefore earn a substantial risk premium, similar to what private investors would have required at the time, in addition to the regular required return.”_ 
+
+52 The Trump administration publicized its desire to end the conservatorships, but thus far, few concrete solutions have been proposed. (1) In December 2017, Treasury and the FHFA agreed to a letter agreement with each GSE allowing them to hold $3 billion in capital, whereas previously they were permitted to hold none. The goal was to give Fannie and Freddie a small capital buffer capable of withstanding losses arising from normal market “fluctuations,” and the measure was considered by some to be a sign of the administration’s preference to return the firms to the market in some form (Thompson 2021a; Treasury 2017). (2) Six months later, in June 2018, the administration published a brief proposal calling for an end to the conservatorship, and calling for a secondary mortgage market where Fannie and Freddie operated on a smaller scale and with an explicit, “fully paid-for,” and “on-budget” partial government guarantee (EOP 2018). (3) In December 2018, the administration nominated Mark Calabria to be the next FHFA director, who, along with other administration officials, increasingly called for the privatization of the two firms. (4) In March 2019, the administration doubled down on its commitment to end the conservatorships and promised to propose concrete steps to do so (Guerin and Lane 2019). 
+
+> 53 _Operating as a belt and suspenders, the credit facility provided unlimited, readily available, short-term financing to the GSEs to complement the SPSPAs’ funding, which was available on a quarterly basis. This lending facility was another move to reassure market participants and investors._ 
+
+
+agency MBS through March 2010, which would moderate mortgage rates, whereas prior GSE stabilization efforts had not. 
+
+## **11. How did the government determine the specifics of its amended intervention?** 
+
+## _**The Conservatorship Decision**_ 
+
+The government considered several options before it decided to take Fannie and Freddie into conservatorship. Consideration was given to (1) which mechanisms would best address the firms’ liquidity problems and solvency issues; (2) how a solution would impact shareholders, creditors, and bondholders; (3) how it might be perceived by the market; and (4) what level of control the government would be able to establish over the firms (Jester et al. 2018; Paulson 2010). Also of paramount importance was whether the firms would be available to continue to pursue their mission of continuing to support the mortgage market (Jester et al. 2018; Paulson 2010). Fannie and Freddie’s status as GSEs limited the available resolution options and imposed constraints on others. For the above reasons, conservatorship was chosen as the best option. 
+
+Below, we discuss options that were considered but not chosen by the government. It should be noted that bankruptcy was not considered as the GSE charters prohibit its use. 
+
+## _Direct Guarantee of GSE Debt and MBS_ 
+
+The GSEs benefited from an implied guarantee from the government, and there were early calls for the government to “harden the guarantee,” to “make it explicit” (Boyd 2008; Jester et al. 2018). One such call came from William Dudley, executive vice president of the FRBNY. In March 2008, as Bear Stearns struggled and amid calls for the GSEs’ capital surcharge to be lowered and for them to raise new capital, Dudley strongly suggested to Treasury Undersecretary Robert Steel that the government should “harden substantially” the implicit government guarantee of Fannie and Freddie (FCIC 2011d, 314; Norton 2008). Steel, however, was reluctant to take such a move, which would have meant “doubl[ing] the size of the U.S. debt in one fell swoop” (FCIC 2011d, 314). However, despite his reluctance, Treasury developed standby wording that it could use to ask Congress to approve such a guarantee, if it became necessary, so that such a mechanism could be “executed swiftly”[54] (Norton 2008). 
+
+Steel’s reluctance was in part based on the fact that the GSEs’ had a combined $5.3 trillion in MBS guarantees and debt outstanding, which was equal to the amount of publicly held federal debt (Norton 2008). Explicitly standing behind liabilities of such size was politically 
+
+> 54 _Guarantees of debt can be powerful tools in a crisis, and many governments used them effectively during the GFC. One of the benefits of a guarantee is that it permits broad assurance to be anchored by a much smaller amount of funding. For example, in September 2008, after the Reserve Primary Fund broke the buck and experienced a run, Secretary Paulson made available for those funds that chose to participate a temporary guarantee program for up to $3.4 trillion in money market mutual fund assets. The program used $50 billion from the Exchange Stabilization Fund, guaranteed $2.7 trillion in assets, and suffered no losses (COP 2009; Lawder 2008; Treasury 2008b; Wilson 2020). Similarly, to address record high credit spreads, the FDIC guaranteed $345.8 billion in newly issued senior unsecured bank debt at the peak of the Debt Guarantee Program. The FDIC collected $10.4 billion in fees and surcharges and incurred only $153 million in losses on the debt guarantees (FDIC 2019). Although guarantees have proven to be very effective in stopping runs and can generally be implemented quickly, they may not always be the best solution. However, the consideration and preparation for this type of action beforehand is commendable as a best practice and consistent with advice from policymakers to consider all available tools._ 
+
+
+unpalatable while the country sunk into a crisis and the debate over the fate of the GSEs continued (Jester et al. 2018; Paulson 2010). 
+
+Further, providing a guarantee would have required that a plethora of decisions be made regarding which creditors to protect, under what terms, and for how long (Jester et al. 2018). Moreover, depending on its terms, a guarantee might not have been effective at addressing all of the issues posed by the GSEs. For example, a guarantee of outstanding GSE debt and securities would not necessarily have ensured that investors would have continued to purchase new GSE debt unless such a guarantee were also extended to new issuances, which would have further increased the government’s balance sheet. 
+
+Merely guaranteeing the GSE debt and MBS also might not have provided the government the level of control over the entity that it would have needed to ensure that it continued to support the flow of mortgages and to moderate rates. A guarantee also would have left the company under the control of the existing boards and management and preserved shareholder value while the risk of default fell to the government. 
+
+Although addressing these issues may have been possible at the time, for these and other reasons, policymakers chose a different route that “effectively” operated as a guarantee— “The [SPSPAs] effectively made explicit the previously implicit government guarantee of the GSEs and provided the reassurance long-term investors needed” (Frame 2009; Jester et al. 2018). 
+
+## _Naked Capital Injections_ 
+
+Chairman Bernanke and Director Lockhart had expected Treasury to make a capital investment after the passage of HERA (Paulson 2010). Not surprisingly, this was also the option most favored by the GSEs’ managements; it would have given them more stability with limited interference from the government (Jester et al. 2018, 6; Lockhart 2018, 12). Secretary Paulson, however, was adamant that the government would not invest in the firms without a plan in place to address their futures and did not believe that such an investment would adequately protect the taxpayers (Jester et al. 2018, 6; Lockhart 2018, 12; Paulson 2010). Making such an investment outside of a conservatorship would have limited the government’s ability to impose restrictions on the GSEs’ businesses to what could be negotiated and would have required the cooperation of the GSEs’ boards and management, which had fiduciary duties to their shareholders[55] (Jester et al. 2018, 6). 
+
+## _Receivership_ 
+
+Prior to passage of HERA in July 2008, there was not a mechanism for the government to take the GSEs into receivership[56] and wind them down. HERA permitted the GSEs’ new 
+
+> 55 The SPSPAs placed several restrictions on the GSEs’ operations and gave Treasury the right to appoint directors in certain circumstances. However, it was the FHFA, as conservator, that ultimately did this and replaced management as well. 
+
+56 Receivership is generally intended to liquidate, wind down, or reorganize a firm (like Chapter 7 of the Bankruptcy Code), but only Congress can extinguish a GSE charter. Therefore, HERA requires that the FHFA create a new limited-life regulated entity (LLRE) that would succeed the congressional charter of the GSE in receivership. An IPO of the LLRE would have to be undertaken within two years after its organization, but such period could be extended for up to an additional three years. Therefore, once the GSE was put into a 
+
+
+regulator, the FHFA, to place a GSE into receivership if certain conditions were met and included a claims procedure and other administrative guidelines, including provisions permitting the use of a “bad bank” (HERA 2008, §1367[a][3]). Receivership was also required in certain circumstances—(1) if during the preceding 60 days, the firm’s assets have been less than its obligations, or (2) it has not been paying its debts as they become due—two generally accepted definitions of insolvency.[57] Receivership under HERA closely mirrored the FDIC receivership process for failing banks, after which the GSE resolution framework had been modeled (Horowitz 2017).[58] 
+
+Former Treasury Secretary Paulson originally favored receivership and persuaded Chairman Bernanke to side with his view (Paulson 2010). However, after consultation with Director Lockhart and counsel, it was decided that conservatorship would be best. Lockhart was concerned that the agency had not laid the groundwork necessary to justify a receivership, which required a higher threshold for action than conservatorship (Thompson and Wiggins 2021).[59] Meanwhile, conservatorship provided certain benefits while avoiding uncertainties; it was a “takeover” of the organizations to be conducted according to a prescribed set of rules (Jester et al. 2018; Paulson 2010). 
+
+Also, HERA’s receivership authority was untested, and given that receivership is a winddown process, which doesn’t involve the injection of capital, there would have been a significant chance of losses for holders of debt and MBS. Such losses not only would have been likely to engender lawsuits but also would have, in effect, breached the implied government guarantee, possibly causing a further disruption to the markets (Jester et al. 2018). 
+
+Finally, receivership would have conflicted with the government’s need to utilize the GSEs to maintain support for the mortgage market, a situation that had no definitive timeline. Therefore, a conservatorship was chosen, which permitted the government to control the firms and avoided messy issues regarding their charters, allowing the firms to continue 
+
+receivership, it would have to be wound up within five years. However, the very structure of the GSEs had been debated for years, and Congress had yet to resolve the issue. A receivership would have begun with definitive timelines when there existed few definite answers to fundamental questions about the status and future of the GSEs. 
+
+57 In most cases under Section 1367(a) of HERA, appointment of a receiver is discretionary (HERA 2008, §1367[a][2]-[3]). However, appointment is mandatory if the FHFA determines in writing that ‘‘(i) the assets of the regulated entity are, and during the preceding 60 calendar days have been, less than the obligations of the regulated entity to its creditors and others; or ‘‘(ii) the regulated entity is not, and during the preceding 60 calendar days has not been, generally paying the debts of the regulated entity (other than debts that are the subject of a bona fide dispute) as such debts become due” (HERA 2008, §1367[a][4]). 
+
+58 The FDIC takes a bank into receivership, separates out the good assets from the bad, liquidates assets to pay creditors, and then, if possible, sells the good parts to another bank. The FDIC is required to pursue the resolution option that is of least cost to the taxpayer, a provision not included in HERA’s regime for the GSEs (Horowitz 2017). 
+
+59 A finding of “critical undercapitalization” is a prerequisite to receivership, and the FHFA had not moved to this point with either firm. See Thompson and Wiggins (2021) and Lockhart (2018) for further discussion of this point. 
+
+
+operating indefinitely.[60] (See Jester et al. [2018] for more discussion of the factors considered in rejecting receivership. See Thompson and Wiggins [2021] for an in-depth discussion of the conservatorships.) 
+
+## _**Structuring the Treasury Funding**_ 
+
+The Treasury’s assistance to AIG took several forms and occurred over several months. Key considerations underlying the Treasury’s funding included: 
+
+_Providing Maximum Relief to Security Holders and Bondholders_ 
+
+In designing how to fund the intervention, Treasury specifically wanted to protect senior bondholders, many of whom were foreign and domestic financial institutions that had been encouraged by the US government to buy GSE bonds and securities or that purchased such securities believing that they were supported by the “full faith and credit of the US government” (Jester et al. 2018; Paulson 2010). The funding terms were designed to “provide comfort” to and minimize concern for these investors (Frame et al. 2015). 
+
+Under the terms of the SPSPAs, Treasury received senior preferred stock in exchange for its funding commitment (Thompson 2021a). The broad terms of the funding permitted the GSEs to draw amounts quarterly by showing only that they had run a loss for the quarter. They then could use the funds to offset any loss. The use of the SPSPAs’ funding was not limited to operating losses; funds could also cover shortfalls on the GSEs’ bonds or debt.[61] 
+
+Choosing senior preferred stock to be the vehicle for its investment had the effect of protecting all bondholders yet relegated the claims of preferred and common stockholders to after the government, “effectively [wiping them] out” (Frame et al. 2015). (Also see discussion at “KDD No. 15D.”) This decision generated criticism from preferred shareholders who believed that the government had arbitrarily narrowed the implied precrisis guarantee, and by contrast from others who believed that by failing to impose losses onto subordinated debtholders, the government had extended its guarantee too broadly (Frame et al. 2015; Rice and Rose 2016). 
+
+While some government officials later sympathized with preferred shareholders (many of which were domestic banks, which had been encouraged to buy the GSE shares) and their arguments, the deciding policymakers ultimately concluded that ranking the government’s investment senior to theirs was “essential to protecting taxpayers” (Jester et al. 2018, 9). At the same time, former FHFA Director Lockhart has conceded that rescuing subordinated creditors resulted in a missed opportunity to enforce market discipline, yet underscores that this decision was made knowingly in order to avoid the far greater risk of a “cross-default” 
+
+> 60 _The many benefits of the conservatorships also had trade-offs, such as Treasury not being the primary government entity in control of the firms and the FHFA, as conservator, having to comply with statutory guidelines. If Treasury had chosen to make a naked capital investment, or to nationalize the firms through contractual means, it might have been able to more directly steer their operations in support of the government’s overall crisis-fighting strategy. It should be noted, however, that doing so might also have risked lawsuits from shareholders._ 
+
+> 61 _By structuring the SPSPAs broadly to allow draws to offset any losses and maintain solvency and having few limits on the use of funds, Treasury sent a powerful message that it had hardened the implied guarantee to support all GSE debt and guaranteed MBS, something that was perceived as particularly important to maintain stability of the financial system since these securities were widely held by financial institutions._ 
+
+
+on senior debtholders, which could have undermined the entire intervention (Lockhart 2018). 
+
+There was initially some concern that choosing senior preferred stock might present a systemic risk due to the potential exposures of banks holding existing GSE preferred shares. Bank regulators had encouraged banks to hold these securities, which were exempt from the normal restrictions on banks holding equity securities (Rice and Rose 2016, 2). Regulators were asked to assess banks’ potential exposures and concluded that only a limited number of small institutions had holdings that were significant relative to their capital. A number of smaller banks, however, ultimately were significantly impacted; “fifteen failures and two distressed mergers of small banks either directly or indirectly resulted from the takeover, and many more also lost value”[62] (Lockhart 2018; Rice and Rose 2016). 
+
+## _Increasing Market Confidence_ 
+
+In addition to the SPSPAs, which the GSEs could draw on quarterly, Treasury also created the GSE Credit Facility, which was designed to provide collateralized overnight funding to the GSEs as needed (Vergara 2021). Although the facility had no limit on its funding commitment, it expired on December 31, 2009, having gone unused. (See Vergara 2019 for more discussion of the GSE Credit Facility). 
+
+Treasury also purchased new GSE MBS in the open market, buying a combined $225 billion through December 31, 2009, when its purchasing authority expired. The primary goal was to make a show of confidence and provide further support for the mortgage market more generally (i.e., to influence the availability of mortgage credit and drive down cost) (Treasury 2008a). See Zanger-Tishler and Wiggins (2021) for more discussion of Treasury’s GSE MBS Purchase Program. 
+
+## _Continued Availability of funding after December 31, 2009_ 
+
+The tools granted by HERA had limits that had to be adhered to. In particular, the law provided that Treasury’s authority to lend or purchase securities ended on December 31, 2009 (Jester et al. 2018, 9). Yet, there was no way of knowing when the GSEs would be returned to stability with the ability to access the capital and funding markets. If funding had ended on December 31, 2009, and the firms were in an uncertain position, the rescue would have merely delayed the firms’ difficulties, as market concerns would have likely resurfaced. To avoid this situation, the SPSPAs were specifically structured as “keepwell” agreements to provide funding to the GSEs for as long as they needed, even past December 31, 2009, but without violating the terms set forth by HERA (Jester et al. 2018). Under each SPSPA, the government’s purchase of the preferred stock supported an ongoing commitment to provide additional funds (draws on the commitment) to the firm on a quarterly basis as requested in accordance with the terms of the agreement. Since the agreements had no stated termination dates, the firms had the ability to draw funds after December 31, 2009 (Jester et al. 2018). 
+
+> 62 _Collateral damage may sometimes occur as a result of an intervention. Here, the government decided to protect the investors that had bought bonds (many of which were foreign financial institutions) but did not protect the preferred shareholders (many of which were domestic banks). Rice and Rose (2016) question whether policymakers considered how expensive it would have been to bail out the preferred shareholders as well and prevent the bank failures that occurred. The government did try to mitigate the impacts on the banks. When possible, careful consideration of predictable impacts, and efforts that can be undertaken to minimize such impacts, should be part of intervention planning._ 
+
+
+Although this was an aggressive design (it could be argued that it circumvented Congress’s intent), it received little criticism (Jester et al. 2018). 
+
+Similar to the SPSPAs, the preferred stock did not have an expiration date. This was done so that parties would not have to worry about when the coverage ended. Given that the GSEs guarantee MBS with maturities up to 30 years, the regulators hoped to avoid a dumping of these securities as the “guarantee” was about to expire (Jester et al. 2018). Presumably, how to end the support would be addressed when Congress ultimately decided the larger policy issue. 
+
+Likewise, the SPSPAs had no expiration date given that the government could not be anticipate how long the conservatorships would need to be maintained, or when the firms would regain access to the capital markets. Moreover, many of the outstanding securities and debt instruments were long-term instruments; not having an expiration date reaffirmed that the government was committing to support the GSEs for what appeared to be a similar, although unspecified, extended period, and so the consequences of a looming expiration date were avoided (Jester et al. 2018). 
+
+## _Carefully Calibrated Funding Limit_ 
+
+In determining what size to make the commitments under the SPSPAs, the government wanted a number big enough to quash market concerns (Jester et al. 2018; Paulson 2010). Leaving the commitment amount unspecified (constrained only by the $800 billion increase in the debt ceiling) was considered, but the Justice Department’s legal counsel advised setting a cap (Jester et al. 2018, 8–9). The initial commitment of $100 billion per firm was determined by reference to market expectations, the information from the summer financial review, and an intent to provide some coverage to the incoming administration (Jester et al. 2018, 8–9). (Also see Figure 5.) 
+
+Increases in the SPSPAs’ authority were largely determined with reliance on similar criteria. Commitments under the SPSPAs were extended twice. On May 6, 2009, in response to market changes, Treasury and the FHFA amended the SPSPAs to raise Treasury’s commitment from $100 billion to $200 billion per GSE (Thompson 2021a). As of December 31, 2009, the original date of termination of Treasury’s funding authority, the parties again amended the SPSPAs, this time to provide for unlimited funding through 2012 (Jester et al. 2018). In both cases, the government wanted to send a message that it would continue to stand behind the firms as the mortgage market continued to recover (Treasury 2009). 
+
+## _**The LSAP Program Decision**_ 
+
+The LSAP Program was deliberately designed to attack mortgage rates. In late 2008, the Federal Reserve was faced with credit, including mortgage lending, that remained unusually tight, with high rates despite the government’s efforts to stabilize the GSEs. Yet, its traditional monetary policy tool of lowering rates was unavailable to it as the federal funds rate was already at the zero bound. Therefore, it looked to nontraditional tools such as large-scale asset purchases. It deliberately decided to purchase GSE MBS rather than Treasuries because of the continued high spreads in mortgages and their fundamental role in the economy (Thompson 2021c). 
+
+
+## **12. How did the government protect the taxpayers?** 
+
+The government required ownership in the GSEs in return for its investment. The preferred stock that the government purchased pursuant to the SPSPAs paid a cash dividend of 10% and carried a penalty rate for late payment and customary fees. In 2012, the SPSPAs were amended for a third time to provide that all profits of the entities be paid to Treasury. This Third Amendment has been very contested and is responsible for the overwhelming majority of dividend payments Treasury has received to date. In total, Treasury has received $175.8 billion in dividends from Fannie Mae and $116.6 billion from Freddie Mac, with $144.3 billion and $92.8 billion, respectively, of these having been paid since the adoption of the Third Amendment. 
+
+Government officials were adamant that the government also receive equity interests in the firms so that taxpayers would participate in any upside potential that might result from the government’s investment assistance. This was customary in private deals of a similar nature and was done in the form of a warrant to purchase 79.9% of each GSE’s common stock (Jester et al. 2018; Paulson 2010). The percentage of 79.9% was determined to avoid an accounting issue of having to consolidate the GSEs onto the government’s books[63] (Jester et al. 2008). As of this writing, the government has not yet exercised this warrant. 
+
+The SPSPAs also contained covenants that restricted the GSEs from making certain major decisions without the approval of Treasury as long as the SPS was outstanding (Thompson 2021a). These included issuing any stock, payment of dividends (except with respect to the SPSPAs), and sale or purchase of any major assets or divisions. 
+
+## **13. How did the government coordinate its actions?** 
+
+During the crisis, it was important for government officials to utilize all available resources on an aggregate basis and to ensure that no potential tool was overlooked. Success depended on all hands being “on deck” and for parties to “think [outside] of the box” (Millstein 2018). Interagency efforts and consultations are found at every point of the GSE rescue. OFHEO and Treasury officials worked together with Fannie and Freddie executives early in the crisis, discussing potential ways to loosen requirements for the GSEs so that they could further support the mortgage market without compromising safety and soundness (FCIC 2010b). In July 2008, Federal Reserve and the SEC coordinated with Treasury to signal to the markets that the government was “on the case,” providing a funding facility and taking steps to relieve pressure on the GSEs’ stock prices (Paulson 2010). Soon after, the Fed partnered with the OCC, FDIC, FHFA, and Treasury to conduct the summer financial review, utilizing the expertise of each agency and helping the government to home in on a strategy (Jester et al. 2018). 
+
+The government also utilized its informal “convening authority.” This informal authority of moral persuasion can take many forms and can be very powerful (Geithner and Metrick 2018). Government authorities, for example, convinced the GSEs’ boards and management 
+
+> 63 _By carefully drawing the line at 79.9%, the government maximized its equity interest and potential gain to the taxpayers without having to consolidate the assets of the trillion-dollar firms onto its books (Jester et al. 2018). Their outstanding debt and guaranteed MBS totaled approximately $5.3 trillion, about the same as the then government debt._ 
+
+
+to approve the conservatorships and to step aside peacefully, minimizing potential delay and legal challenge to the actions. 
+
+Government agencies ultimately deployed a wide range of tools to stabilize the GSEs and the mortgage market while attempting to reassure investors. Tools utilized included, inter alia, restructuring (FHFA conservatorship), capital injections (Treasury SPSPAs), liquidity provision (Treasury GSE Credit Facility), asset purchases (Treasury GSE MBS Purchase Program, Fed LSAP Program), and regulatory actions (short-selling limitations by the SEC). Moreover, by committing to the solvency of the entities rather than only supporting their debt and securities, the government in effect “hardened the implied guarantee” with respect to all GSE operations and obligations (Jester et al. 2018). 
+
+## **14. How did the government govern the rescue?** 
+
+Prior to the conservatorships, the focus on the GSEs was largely a cooperative effort between OFHEO, their regulator, and Treasury. Beginning in early 2007, OFHEO Chairman Lockhart had significant contact with Bob Steel, of Treasury, when designing GSE regulatory reform legislation (Steel 2007). Other government agencies were brought in at particular points, such as in July 2008, when a comprehensive plan involving the Fed and SEC was announced. 
+
+Following institution of the conservatorships, the FHFA managed the firms in accordance with the regulatory guidelines and developed an internal infrastructure to assist with this. (See Thompson and Wiggins 2021 for a discussion). The agency also had to ensure that the firms conformed to certain requirements included in Treasury’s funding agreements, as discussed in detail in Thompson 2021a. Most significant of these was perhaps the controversial dividend sweep enacted in 2012 by the Third Amendment to the SPSPAs (Thompson 2021a). 
+
+How the GSEs were utilized in the broader crisis-fighting effort was mainly the purview of Treasury, with Secretary Paulson as the main policymaker and later Secretary Geithner. Treasury officials concurred with the FHFA’s approach not to make significant operational changes upon institution of the conservatorships—“it would be premature to start making sweeping changes” (Jester et al. 2018). The primary objective pursued by Treasury was to keep the GSEs operating to support the fragile mortgage credit market and avoid systemic risk, priorities leading to the choice of conservatorships. However, from time to time, conflicts did occur between Treasury’s intent and the FHFA’s interpretation of its mandate to “preserve and conserve the [enterprises’] assets and property and to put the [enterprises] in a sound and solvent condition”[64] (FHFA 2008a). One example is the differing positions regarding a principal reduction program proposed in 2012, which Treasury favored but which the FHFA opposed. (See “KDD No. 14C.”) The strategic thrust of the conservatorships was also impacted by policy changes of different presidential administrations as time went on. 
+
+> 64 _This point highlights how close coordination between the agencies can at least help to maximize overall government objectives and that it is unlikely that any solution will prove perfect from all perspectives. The GSEs were themselves viewed as a powerful tool necessary to fight the crisis by maintaining the mortgage market and thus avoiding further deterioration of housing assets and the attendant repercussions to the economy. However, since the conservatorship came with statutory guidelines that FHFA had to follow, Treasury did not have absolute control over how the firms worked to accomplish the government’s overall objectives._ 
+
+
+## **15. How did the government communicate the terms of the intervention?** 
+
+Given the GSEs’ central role in the mortgage market and the wide reach of their debt, financial markets were extremely sensitive to developments with the firms as the housing crisis wore on (FCIC 2011d). As a result, it was often important for the government to clearly communicate a strategy for addressing the firms and to carefully present the terms of the interventions with respect to them. 
+
+## _July 2008: Early Actions toward the GSEs_ 
+
+The importance of effective communication was especially evident in July 2008, when the GSEs came under tremendous pressure and the market began to more openly question their ability to survive the crisis. On July 13, in response to the GSEs’ fast deterioration, several government entities (including Treasury, OFHEO, the Fed, and SEC) joined forces to announce a comprehensive plan to address the situation, stressing the firms’ centrality to the US housing market and affirming the need to keep them solvent and operating. A key component of this plan was to aggressively pursue new legislation to strengthen the GSEs’ regulator and give Treasury the authority to rescue the firms (i.e., to purchase capital or debt securities from them), if necessary, resulting in the passage of HERA on July 30, 2008. Lobbying Congress for new powers over the GSEs was a difficult task in its own right (several attempts at passing new GSE legislation had failed earlier that decade), but the challenge was compounded by the market’s extreme sensitivity to their situation and the potential for new (and potentially negative) information to be revealed about them during congressional deliberations. On the one hand, in order to win emergency powers, government officials needed to convince Congress of the urgency and severity of the GSEs’ situation. However, if government officials overstated the probability of a GSE failure, they risked damaging market confidence in the firms and triggering a run on them, with Treasury still lacking the power to arrest one. FHFA Director Lockhart compared the experience to “walking a tightrope:” officials needed to be firm on the need for additional powers but also had to ensure that their actions and statements did not needlessly spook investors (Lockhart 2018). Testifying before Congress, Secretary Paulson positioned the measures as precautionary and downplayed the risk of a GSE failure, explaining how simply possessing vast emergency powers would reduce the likelihood of ever having to use them (FCIC 2011d). 
+
+_August 2008: Preparing for Intervention_ 
+
+Once HERA passed and the summer financial review was completed, the government’s strategy for the firms shifted from attempting to triage their condition to preparing for an immediate takeover. As the government changed its approach toward both firms, so too did it change the way it communicated its handling of the situation. Back in July, the government wanted to convince the market that it was up to the task of addressing the situation. As a result, it communicated its strategy (opening the discount window, conducting a financial review, and pursuing new legislation) and intent for the firms (to keep them alive and able to support the mortgage market) transparently. However, once the financial review revealed that a major intervention would soon be necessary, the government moved swiftly and discreetly to prepare to undertake one. For several weeks, government officials held internal discussions about how to intervene (e.g., conservatorship, receivership, or nationalization) and kept the conservatorship decision confidential as they scrambled to put together plans to implement it (Thompson and Wiggins 2021). The secretive nature of this process allowed government officials to surprise the management and boards of both firms with takeover plans on September 6, 2008, resulting in the acquiescence of both GSEs that same day. Doing so likely helped to prevent “a protracted [legal] battle” and “a major market swing” that 
+
+
+might have occurred had the media intensely covered the August deliberations and given the GSEs time to prepare for a takeover (Thompson and Wiggins 2021). 
+
+## _September 2008: Announcing the Conservatorships and Associated Interventions_ 
+
+On September 7, 2008, Secretary Paulson and Director Lockhart announced a four-part rescue plan for Fannie and Freddie, consisting of the conservatorships, SPSPAs, GSE Credit Facility, and GSE MBS Purchase Program. Treasury posted fact sheets for each of the plan’s elements on its website, while FHFA published a detailed Q&A explaining how the conservatorships would function. As of this writing, FHFA still maintains an independent webpage discussing the history of the conservatorships and hosting key legal documents, speeches, fact sheets, and press releases related to the interventions. 
+
+Because Paulson and Lockhart led different government entities with unique roles in the GSE rescue and the broader crisis-fighting strategy, they touched upon different aspects and consequences of the intervention in their speeches announcing the measures.[65] Lockhart gave a detailed defense of the decision to initiate the takeover and meticulously described the events leading up to the intervention, emphasizing the several warnings the FHFA had issued to both entities and outlining what the conservatorships would mean for their operations moving forward. Meanwhile, Paulson outlined Treasury’s involvement in the measures and more generally attempted to restore confidence in the GSEs and calm financial markets in light of the unprecedented nature of the intervention. In particular, he sought to reassure the market that the dramatic measures did not portend a market meltdown, and that economic and financial fundamentals were no worse than what was already known: “nothing about our actions today in any way reflects a changed view of the housing correction or of the strength of other U.S. financial institutions” (Treasury 2008a). In addition, Paulson stressed how rescuing Fannie and Freddie was an essential step toward overcoming the housing correction. With their futures now secured, the GSEs could focus on their mission of maintaining liquidity and affordability in the mortgage market and help to drive the U.S. out of recession (Treasury 2008a). 
+
+## _During the Conservatorships_ 
+
+The FHFA took several steps to manage the conservatorships transparently. In so doing, it hoped to resolve many of the uncertainties surrounding this specific form of government control, and thus bolster public confidence in the two firms and accelerate the return of normal mortgage market conditions (Thompson and Wiggins 2021). FHFA Acting Director Edward J. DeMarco, who succeeded Lockhart in 2009, supported transparency on the basis that Fannie and Freddie were entirely dependent on taxpayer funding. As such, taxpayers were entitled to know how the FHFA—in the role of conservator—was attempting to minimize losses suffered by the two firms and recoup the public’s investment (Thompson and Wiggins 2021). 
+
+During the conservatorships, the FHFA has published several different kinds of documents relating to the intervention, including: (1) annual performance plans outlining its goals for Fannie and Freddie, (2) quarterly conservator’s reports detailing the financial condition of both entities, and (3) annual scorecards summarizing its “duties and objectives” as conservator (Thompson and Wiggins 2021). The FHFA also releases annual examination 
+
+> 65 _The bifurcated yet coordinated and consistent message demonstrates strong cooperation between the government agencies regarding the multipart plan being undertaken._ 
+
+
+results for the GSEs (Thompson and Wiggins 2021). The GSEs also continue to publish extensive financial statements in Forms 10-Q and 10-K, which are filed with the SEC and publicly available. 
+
+## **16. What was the government’s exit strategy?** 
+
+The GSE intervention purposefully did not include a definitive exit strategy. The conservatorships were enacted without a termination date, as were the preferred stock and funding arrangements under the SPSPAs, largely to avoid investors having to face a cliff termination of the government’s support (Jester et al. 2018, 9). The intervention was designed to fight the crisis, not to achieve reform of the much criticized GSE structure. However, not including a definitive exit plan has resulted in an ongoing conservatorship more than 10 years later.[66] 
+
+Despite this, Secretary Paulson and other former Treasury officials have defended their decisions regarding the lack of a definitive timeline for the conservatorships and intervention (Jester et al. 2018, 9). These decisions were made in consideration of a number of factors. First, change to the GSEs’ structure or mandate required congressional action to amend their charters. Second, it was not known how long the conservatorships would need to be in place, or how long it would be before the firms could access the capital markets. Not having an end date for the funding served to avoid market reactions at any such termination date and ensured stakeholders that the government would support the firms for as long as needed (Jester et al. 2018, 9). Moreover, because many of the GSEs’ outstanding MBS and debt were long term, it was seen by Treasury officials to be important to maintain consistent support for the operations and debtholders until action was taken to resolve the conservatorships. 
+
+In the view of Treasury officials, the broader policy issues surrounding the future of the entities were for Congress to decide (Jester et al. 2018, 16–17). The unique structure of the GSEs with their underlying congressional charters made designing an exit strategy challenging. Any end date would have triggered a timetable in which a winding up would have had to occur. Moreover, since the congressional charters could not be transferred to 
+
+> 66 _Policymakers were, correctly, focused on a solution to the immediate crisis in structuring the GSE intervention and felt strongly that it was up to Congress to determine the ultimate fate of the firms. (Jester et al. 2018). Thus far, Congress has failed to act. HERA provides that the GSEs can be released from the conservatorships when they have returned to stability, but as a practice matter, their lack of capital prohibits any such action. And, until Congress acts, the FHFA cannot release them from the conservatorships without Treasury’s consent unless they are to be put into receivership. The current state is inconsistent with the policymaker’s intent (Jester et al. 2018; Paulson 2010) and with what some scholars would consider a successful outcome (see Frame et al. [2015] suggesting, “Prompt long-term reform of GSE structure” should be one measure of the interventions success)._ 
+
+_Given where the government finds itself after 10 years of conservatorship, it might be reasonable in a future intervention to include some type of trigger that would force the government to address the policy issues. Such a trigger could take the form of a sunset clause or a right of redemption that would have similar effect. In the case of the GSEs, the government might have a right to redeem the preferred shares after 10 years. The right could be waivable on yearly basis, but still, such a term might be enough to get the attention of certain legislators and prompt them to act. Having a trigger would be one way of ensuring that the GSEs are addressed rather than just have the firms languish in conservatorships and have the structural issues that existed before the conservatorships remain unresolved._ 
+
+
+any new entities, they would have to be transferred to passive entities until Congress determined what to do with them. Treasury officials determined that these issues would add unnecessary uncertainty in the middle of a crisis and instead left it for Congress to decide the future of the entities (Jester et al. 2018, 16–17). 
+
+A plethora of legal and political issues persist with respect to the GSEs (Ramírez 2021). During the intervening 10 years, the presidential administration has changed (twice), and so has policy regarding the future of the firms. As of yet, neither the current administration nor Congress has articulated a clear strategy for moving forward. The FHFA, however, decided to address the issue head-on in its 2019 Conservatorship Strategic Plan by including as one of three core objectives—“Prepare for [the GSEs’] eventual exit from conservatorships.” The FHFA has also stated that the “long-term, continued operation in government-run conservatorships is not sustainable for Fannie Mae or Freddie Mac,” but until the Congress determines the future of the firms and the housing finance market, the FHFA has no choice but to continue to oversee them, and the taxpayers continue to wait to see if they will regain their multibillion investment or not (FHFA 2020). 
+
+## **17. Were there unique factors that influenced the government’s actions?** 
+
+Because of their special structure and status, GSEs have unique characteristics and expectations that may have significant impact on the government’s decision to intervene when an entity is in distress. This status may also greatly impact the ability to intervene and how such is done because certain traditional tools may not be applicable. 
+
+_GSEs are closely aligned with their governments._ 
+
+Because GSEs are established by the government and instilled with certain special characteristics, they are from their origin more closely aligned and identified with the government than fully private corporations. A failure of a GSE, therefore, implicates the government, if only by association, and government actions relating to a GSE may reverberate in ways different from actions relating to a purely private company. Therefore, it is useful to examine these expectations and consider how actions taken, or inaction, might be perceived in light thereof. 
+
+The alignment of Fannie and Freddie with the government was particularly strong because of the implied government guarantee and other factors that created confusion and certain expectations by investors (GAO 1996). The implied government guarantee was strong in the market and reinforced by the continued favorable treatment of GSE debt and securities under US law, which often equated them with securities actually issued by the US government, such as Treasury bills (GAO 1996). Moreover, for years, the government had reinforced these expectations in various ways, so much so that Stanton (2009) concludes that the government had an obligation to save the GSEs. 
+
+One example is that the government had encouraged many foreign sovereign wealth funds and central banks to buy agency debt and securities. And they had; by September 2008, they owned an aggregate $1 trillion in these securities. As a result, both Chairman Bernanke and Secretary Geithner reported that high-ranking counterparties from many countries had called them to request clarity and assurances that the government would stand behind the GSEs (Bernanke 2015; Paulson 2010). Secretary Paulson and others felt that allowing international bondholders to suffer loses would undermine the creditworthiness of the US government and could, by extension, trigger a run on the US dollar (CBO 2010; Frame et al. 2015; Paulson 2010). 
+
+
+A similar situation existed with US depository institutions and banks, which held another $1 trillion in agency debt and securities, more than 150% of the banks’ tier-1 capital and 11% of their total assets. The banks had been encouraged to buy these assets in part because of their favorable treatment under regulations (Stanton 2009).[67] 
+
+The prospect of any government action impairing the very securities that it had encouraged investors to buy would be a difficult situation under any circumstances. During the crisis, this prospect was considered particularly untenable: the expectations of government support were well established, the investors were financial institutions at the core of the financial system, and the amounts they held were huge.[68 ] Yet, when making the announcement of the rescue plan on September 7, 2008, Secretary Paulson acknowledged that some domestic banks might experience losses in a magnitude that would reduce their regulatory capital below “well capitalized.” The banks were encouraged to contact their primary federal regulator, which was “prepared to work with the affected institutions [sic] to develop capital restoration plans consistent with the capital regulations” (Treasury 2008a). 
+
+_GSEs are created to pursue public missions._ 
+
+GSEs are established to carry out a public policy mission that the government has deemed important. Thus, when a GSE is in distress, consideration of the importance of the mission and how it is being impacted is required. The mission of Fannie and Freddie is “to provide stability, liquidity and affordability to the [US] mortgage market” (FHFA n.d.). They do this by making a secondary mortgage market where they are a significant participant. During the GFC, this large and important sector of the economy not only was in distress, it was at the center of the crisis. An early consensus formed among policymakers and market participants that the GSEs were needed to stem the decline (Geithner 2014; Paulson 2010). This was particularly true because of the size of the entities and the fact that private securitization had begun to evaporate, increasing the GSEs’ importance. 
+
+How critical this aspect will be to the decisions of whether and how to intervene will depend on factors such as: how dominant the GSE is in its mission-related market, how its mission has been impacted by the factors stressing it, and how close the entity and its mission are to the epicenter of the crisis. In the case of the GSEs during the GFC, all of these factors were critical. However, these factors might have been perceived differently, and a different conclusion regarding intervention might have been reached, under different circumstances, such as: if the GSEs had played a much smaller role in the mortgage market, or if the crisis 
+
+> 67 Fannie and Freddie debt and securities enjoyed status almost equivalent to government debt, such as Treasuries (Stanton 2009, 23). This made them eligible to satisfy bank capital requirements. 
+
+68 As noted above, the funding arrangement shielded GSE bondholders but not holders of their preferred stock, forcing losses onto banks that had been encouraged to hold these securities and resulting in 15 failures and two distressed mergers of them (Rice and Rose 2016). According to Rice and Rose, the decision to abandon preferred shareholders for the most part had been unexpected, as market participants had come to believe that the implied guarantee of the GSEs would cover not only their debt but also their preferred stock. Following the government takeover of Fannie and Freddie, the American Bankers Association (ABA) and Independent Community Bankers of America (ICBA) both pointed out the difficulties the arrangement presented for banks in possession of these securities, and the government adopted two measures intended to help them, including (1) easing tax rules for losses on these securities and (2) widening the availability of Troubled Assets Relief Program funding for banks that were most affected (Rice and Rose 2016). 
+
+
+had been engendered by a correction to an industry less central to the economy or more divergent from the GSE’s mission. 
+
+Even if a GSE has a mission of importance, other factors may complicate the decision to intervene and to what extent. Potential inquiries may include: Have there been developments that would permit the government to veer away from the mission or scale back its support of it in some way? Would other public or private entities be able to step in as substitute providers?[69] Would a limited response send an unintended policy message? How might a GSE’s stakeholders react? Would assumptions be made about other areas of quasi-governmental activities? How disruptive or manageable would any such assumptions be? And would there be reasons why the timing of such changes would be particularly disruptive or potentially unacceptable? These kinds of inquiries may produce a range of possible interventions. 
+
+## _Participating government agencies had different mandates._ 
+
+Despite the many examples of intergovernmental cooperation, it is important to note that conflict can arise when participating agencies are obligated to follow different mandates, as at times was the case during the conservatorships. Even after assuming the immense risk of funding the GSEs and guaranteeing their solvency, Treasury exerted only limited control over them due to the terms of the conservatorships.[70] 
+
+Control over the firms belonged to the FHFA, which in the role of conservator as designated by Congress, was charged with stabilizing them, continuing their operations, and ultimately returning them to “safety and soundness.” This arrangement at times frustrated Treasury officials who viewed the department’s enormous commitment to the firms as justification for wielding ultimate control over them, especially when the mission of the conservator came into conflict with broader efforts to stop the crisis. In 2012, for example, Treasury requested that the GSEs further contribute to homeowner relief efforts by undertaking a principal reduction program similar to the Home Affordable Modification Program (HAMP). The FHFA, however, refused to allow them to do so (Geithner 2014; Lockhart 2018; Prior 2012).[71] 
+
+## _The GSEs’ private shareholders remained in play._ 
+
+The government chose an intervention—conservatorships—that gave it substantial control over the GSEs (Thompson and Wiggins 2021). This was important not only for purposes of using them to maintain their mission and to secure the taxpayers’ investment but also to send a clear message to the market that the government was in control. Although 
+
+> 69 In addition to Fannie and Freddie, other government agencies and sponsored entities—including the FHLBs, Federal Housing Administration, Department of Veterans Affairs, and Ginnie Mae—assumed far greater roles in the mortgage market as the housing correction ran its course. Their ability and capacity (or lack thereof) to compensate for the absence of the two GSEs presumably would have been discussed in response to this question. 
+
+> 70 Secretary Geithner would later describe the situation thusly— “It was amazing how little actual authority we had over Fannie and Freddie, considering they were entirely dependent on Treasury’s cash to stay alive” (Geithner 2014). 
+
+> 71 In April 2016, the FHFA did unveil a principal reduction program. However, this occurred several years after the idea was initially floated (FHFA 2016). 
+
+
+conservatorship did not provide total control, as nationalization or receivership might have, as discussed above, it did provide significant control and a known structure in which to manage the companies. 
+
+However, because the government received a warrant to purchase only 79.9% of the common stock of each GSE (which was done to avoid the consolidation of their liabilities onto the federal government’s balance sheet), the shareholders’ interests were not eliminated (Thompson 2021a). Thus, the inherent conflict between the interests of private shareholders and the firms’ public mission remained, and was now the responsibility of the FHFA to manage. As conservator, the FHFA was tasked with “maintaining normal business operations and restoring financial safety and soundness,” which inevitably required making decisions that would favor some interests over others at times, as was the case before the conservatorships. For example, would the companies price mortgages low to support the market, or would they price them higher to replenish shareholder value (Stanton 2009)? 
+
+Inevitably, some of the firms’ operating decisions under the conservatorships were later considered to have favored the entities’ interests over their mission and to be inconsistent with the broader crisis-fighting policy goals pursued by the government at the time (i.e., to keep mortgages low-cost and available) (Frame et al. 2015). Their failure to cooperate to the fullest with the government’s broader crisis-fighting efforts has been criticized by scholars[72] and industry personnel[73] and has been directly attributed to the FHFA’s strict focus as conservator on maintaining “business as usual” and returning the entities to their goingconcern status.[74] 
+
+In a future crisis, it might be useful to consider whether other decisions or preliminary discussions, for example, a clearer understanding between Treasury and the FHFA regarding the primacy of the crisis-fighting mission, might allow for a more coordinated and targeted strategy, at least in the near term. And while a more targeted and coordinated strategy might engender criticism of the government, that might be a risk worth taking during a crisis. 
+
+## _GSEs can present heightened political challenges._ 
+
+Like many GSEs, Fannie and Freddie were known to have strong political relationships. Congress remained responsible for elements of their organization (charter) and operations 
+
+72 Frame et al. (2015) qualify approval of the rescue by noting that the FHFA’s focus on the financial health of the GSEs may have limited the overall mortgage supply and contributed to the market’s slow recovery. The authors cite the FHFA’s urging Fannie Mae and Freddie Mac to return defaulted mortgages to their originators, which in turn led originators to tighten underwriting standards. These actions helped reduce GSEs losses but also shrank the supply of mortgage credit. “Because of tightened underwriting standards, the percentage of mortgages purchased by the GSEs with a Loan-to-Value ratio of 80% or less also increased from 76% to 89% from 2007 to 2009” (FHFA 2011). In addition, Sale (2009) finds that the FHFA cut the GSEs’ affordable housing goals to stabilize the market during the crisis. 
+
+73 In contrast, the Mortgage Bankers Association (MBA) contends that the FHFA’s stricter underwriting standards, particularly its decision to abolish preferential underwriting standards, made GSE mortgages more accessible for small lenders (MBA 2017). 
+
+74 The many benefits of the conservatorships also had trade-offs, such as Treasury not being the primary government entity in control of the firms and the FHFA having to comply with statutory guidelines. If Treasury had chosen to nationalize the firms through contractual means, it might have been able to more directly steer their operations in support of the government’s overall crisis-fighting strategy (Jester et al. 2018). 
+
+
+(housing guidelines), and they lobbied aggressively to maintain their advantages (Frame et al. 2015). This being the case, actions taken to assist a GSE may be subject to greater review and input from Congress than actions involving a private company. The likelihood of this oversight is amplified by their missions to promote important policy issues, about which Congress and special interest groups are likely to have strong opinions. Indeed, one of the first actions taken by the FHFA, as conservator, was to suspend lobbying by the GSEs. 
+
+## **VI. Evaluation** 
+
+Frame et al. (2015) propose that an optimal intervention in the GSEs would have included the following elements: 
+
+1. Continue operations as going concerns and core securitization and guarantee functions; 
+
+2. Honor agency debt and MBS obligations (stand behind the guarantees); 
+
+3. The value of common and preferred equity would be wiped out, reflecting their insolvent status; 
+
+4. Manage the firms to provide flexibility for macroeconomic objectives, not just maximizing the value of their assets; and 
+
+5. Prompt long-term reform of GSE structure. 
+
+The Federal Reserve Bank of New York authors conclude that the government’s response successfully achieved objectives Nos. 1 through 3, had some success on No. 4, and failed to achieve number No. 5 (Frame et al. 2015). 
+
+Given that Fannie and Freddie have remained in operation, and that holders of their debt and MBS have experienced no credit losses, the first two objectives appear to have been met. Former government officials have also attested that the intervention was instrumental to maintaining mortgage lending, minimizing systemic risks, and ultimately stabilizing the firms (Geithner 2014; Jester et al. 2018; Paulson 2010). 
+
+However, it should be noted that the conservatorships were quite a challenge for the FHFA, which was creating itself as a new agency at the same time (Lockhart 2018). Moreover, its Office of Inspector General (OIG) found that the agency’s oversight raised questions regarding sufficient manpower, effective control over the firms’ operations, and conflicts with its regulatory role (FHFA-OIG 2015). As mentioned above, conflicts between the conservator’s priorities and Treasury’s overall crisis-fighting plan have also been noted (Geithner 2014). Additionally, recent OIG reports criticize the FHFA approval of executive compensation changes at the GSEs (FHFA-OIG 2019a; FHFA-OIG 2019b). 
+
+With respect to objective No. 3, the result is more tenuous the what Frame et al. (2015) would suggest. Although shareholders’ equity interests were significantly diminished, they were not totally extinguished. After the firms returned to profitability in 2012, shareholders brought suit to protest the government’s sweep of profits based on the SPSPAs’ Third Amendment. These disputes are still ongoing (Hurley 2020). 
+
+
+Frame et al. (2015) argue that the fourth objective was only partially achieved, largely because of the conflicts between the FHFA’s responsibilities as conservator and certain of the government’s crisis-fighting objectives, as discussed above. Theoretically, it is possible that an unstructured nationalization could have provided the government with more control because, unlike conservatorship, it carried with it no set framework or specified objectives; it would have been governed by the contractually negotiated terms. However, one cannot be sure as nationalization also would have required creating an entirely new administrative structure during a still-escalating crisis. Perhaps, as mentioned above, greater congruity could have been achieved by focused discussions and agreement between the parties on the primacy of fighting the crisis. 
+
+It should be noted, however, that ensuring funding for the GSEs and even purchasing their MBS on a relatively small scale through Treasury’s GSE MBS Purchase Program did not succeed in moderating mortgage rates, which fell for a short time following the conservatorship announcement but rose again with the collapse of Lehman Brothers (Zanger-Tishler and Wiggins 2021). It was only after the Fed introduced the LSAP Program in November 2008 that these rates began to stabilize. 
+
+Frame et al. (2015) conclude that the government failed on the fifth criterion set forth above─ “Prompt long-term reform of GSE structure.” The facts confirm their conclusion; more than 10 years of conservatorship have not resulted in a restructuring of the GSEs. However, other government participants, such as Jester et al., do not see this as a failure but as a result of focusing on the crisis solution (Jester et al. 2018). The GSEs’ structural problems long predated the crisis, yet no action had been taken to adequately address them. Faced with collapsing housing and mortgage markets, government officials strategically focused their efforts on stabilizing the firms and maintaining their vital role in the financial system, leaving the issue of how to affect long-term change of their troublesome structure for Congress, which chartered them (Jester et al. 2018; Treasury 2008a). By 2009, the crisis had been diminished and the firms continued to operate in support of the mortgage market. When they returned to profitability in 2012, the main objective of containing the crisis had been achieved. 
+
+
+## **VII. References** 
+
+Alvarez, Scott. 2019. Letter to Rosalind Z. Wiggins. June 10, 2019. Unpublished. 
+
+Bernanke, Ben. 2015. _The Courage to Act: A Memoir of the Crisis and Its Aftermath_ . New York: W.W. Norton.  October 5, 2015. 
+
+https://ypfs.som.yale.edu/library/courage-act-memoir-crisis-and-its-aftermath-0. 
+
+Board of Governors of the Federal Reserve System (Board). 2008a. “Board Grants Federal Reserve Bank of New York the Authority to Lend to Fannie Mae and Freddie Mac Should Such Lending Prove Necessary.” Press Release. July 13, 2008. 
+
+https://ypfs.som.yale.edu/library/board-grants-federal-reserve-bank-new-york-authoritylend-fannie-mae-and-freddie-mac-should. 
+
+———. 2008b. “Federal Reserve Announces It Will Initiate a Program to Purchase the Direct Obligations of Housing-Related Government-Sponsored Enterprises and Mortgage-Backed Securities Backed by Fannie Mae, Freddie Mac, and Ginnie Mae.” Press Release. November 25, 2008. https://ypfs.som.yale.edu/library/federal-reserve-announces-it-will-initiate-programpurchase-direct-obligations-housing. 
+
+———. 2009. “Minutes of Board Meetings, July 13 to December 16, 2008.” March 11, 2009. https://ypfs.som.yale.edu/library/discount-window-lending-proposal-lend-fannie-maeand-freddie-mac-through-advances-secured. 
+
+Boyd, Roddy. 2008. “The Midnight Hour for Fannie and Freddie.” _CNN Money_ . July 11, 2008. https://ypfs.som.yale.edu/library/midnight-hour-fannie-and-freddie. 
+
+Congressional Budget Office (CBO). 2010. “Fannie Mae, Freddie Mac, and the Federal Role in the Secondary Mortgage Market.” Pub. No. 4021. December 2010. https://ypfs.som.yale.edu/node/3363. 
+
+Congressional Oversight Panel (COP). 2009. “November Oversight Report: Guarantees and Contingent Payments in TARP and Related Programs.” US Government Printing Office. November 6, 2009. 
+
+https://ypfs.som.yale.edu/node/4220. 
+
+Department of Housing and Urban Development (HUD). 2008. “Summary of the Housing and Economic Recovery Act of 2008.” https://ypfs.som.yale.edu/node/2772. 
+
+Dickerson, Christopher H. 2008. “Draft Mid-Year Letter for Fannie Mae.” Letter to Daniel Mudd. September 4, 2008. 
+
+https://ypfs.som.yale.edu/library/fhfa-dickerson-ltr-fannie-mae-mudd-mid-year-letter. 
+
+Executive Office of the President (EOP). 2007. “Statement of Administration Policy: H.R. 127 – Federal Housing Finance Reform Act of 2007.” The American Presidency Project. May 16, 2007. 
+
+https://ypfs.som.yale.edu/library/george-w-bush-statement-administration-policy-hr1427-federal-housing-finance-reform-act. 
+
+
+———. 2018. “Delivering Government Solutions in the 21st Century: Reform Plan and Reorganization Recommendations.” June 2018. 
+
+https://ypfs.som.yale.edu/library/delivering-government-solutions-21st-century-reformplan-and-reorganization-recommendations. 
+
+Federal Deposit Insurance Corporation (FDIC). 2019. “Regulations & Examinations, Resources for Bank Officers & Directors: Temporary Liquidity Guarantee Program.” February 19, 2019. 
+
+https://ypfs.som.yale.edu/library/temporary-liquidity-guarantee-program. 
+
+Federal Home Loan Mortgage Corporation (Freddie Mac). n.d. Website: “Investor Relations, Investor FAQ No. 12.” https://ypfs.som.yale.edu/library/investor-faq. 
+
+———. 2008. “Monthly Volume Summary: December 2008.” US Securities and Exchange Commission. December 2008. 
+
+https://ypfs.som.yale.edu/library/freddie-mac-monthly-volume-summary-december2008. 
+
+———. 2017. “Form 10-K.” US Securities and Exchange Commission. December 31, 2017. https://ypfs.som.yale.edu/library/freddie-mac-form-10-k-2017. 
+
+———. 2018. “Form 10-K.” US Securities and Exchange Commission. December 31, 2018. https://ypfs.som.yale.edu/library/freddie-mac-form-10-k-2018. 
+
+Federal Home Loan Mortgage Corporation Act, 12 U.S.C. §1451 et Seq., as Amended through July 2010 (Freddie Mac Act). 2010. 
+
+https://ypfs.som.yale.edu/library/federal-home-loan-mortgage-corporation-act. 
+
+Federal Housing Finance Agency (FHFA). n.d. Website: “About Fannie Mae and Freddie Mac.” https://ypfs.som.yale.edu/library/fannie-mae-and-freddie-mac-about-fannie-mae-andfreddie-mac 
+
+———. 2008a. “Fact Sheet: Questions and Answers on Conservatorship.” September 7, 2008. https://ypfs.som.yale.edu/library/fact-sheet-questions-and-answers-conservatorship. 
+
+———. 2008b. “Press Release: FHFA Releases 2008 Performance and Accountability Report.” November 17, 2008. 
+
+https://ypfs.som.yale.edu/library/fhfa-releases-2008-performance-and-accountabilityreport. 
+
+———. 2010a. “Market Data.” 2010. 
+
+https://ypfs.som.yale.edu/library/federal-housing-finance-agency-market-data. 
+
+———. 2010b. “Report to Congress 2009.” May 25, 2010. https://ypfs.som.yale.edu/library/fhfa-annual-report-congress-2009. 
+
+———. 2011. “Report to Congress 2010.” June 13, 2011. https://ypfs.som.yale.edu/library/fhfa-report-congress-2010. 
+
+———. 2012. “Changes to Fannie Mae and Freddie Mac Preferred Stock Purchase Agreements.” August 17, 2012. 
+
+
+https://ypfs.som.yale.edu/library/changes-fannie-mae-and-freddie-mac-preferred-stockpurchase-agreements. 
+
+———. 2016. “FHFA Announces Principal Reduction Modification Program and Further Enhancements to NPL Sales Requirements.” April 14, 2016. https://ypfs.som.yale.edu/library/fhfa-announces-principal-reduction-modificationprogram-and-further-enhancements-npl-sales. 
+
+———. 2019. “The 2019 Strategic Plan for the Conservatorships of Fannie Mae and Freddie Mac.” October 2019. https://ypfs.som.yale.edu/library/2019-strategic-plan-conservatorships-fannie-mae-andfreddie-mac 
+
+———. 2020. Website: “History of Fannie Mae and Freddie Mac Conservatorships.” https://ypfs.som.yale.edu/library/history-fannie-mae-and-freddie-mac-conservatorships. 
+
+Federal Housing Finance Agency, Office of Inspector General (FHFA-OIG). 2015. “FHFA’s Conservatorships of Fannie Mae and Freddie Mac: A Long and Complicated Journey.” White Paper WPR-2015-002. March 25, 2015. 
+
+https://ypfs.som.yale.edu/library/fhfas-conservatorships-fannie-mae-and-freddie-maclong-and-complicated-journey. 
+
+———. 2019a. “FHFA’s Approval of Senior Executive Succession Planning at Fannie Mae Acted to Circumvent the Congressionally Mandated Cap on CEO Compensation.” Evaluation Report EVL-2019-001. March 26, 2019 
+
+https://ypfs.som.yale.edu/library/fhfas-approval-senior-executive-succession-planningfannie-mae-acted-circumvent. 
+
+———. 2019b. “FHFA’s Approval of Senior Executive Succession Planning at Freddie Mac Acted to Circumvent the Congressionally Mandated Cap on CEO Compensation.” Evaluation Report EVL-2019-002. March 26, 2019. 
+
+https://ypfs.som.yale.edu/library/fhfas-approval-senior-executive-succession-planningfreddie-mac-acted-circumvent. 
+
+Federal National Mortgage Association (Fannie Mae). n.d. Website: “Investor Relations, SEC Filings.” (Reports before 2004 accessed through the search function.) https://ypfs.som.yale.edu/library/fannie-mae-sec-filings. 
+
+———. 2008. “Monthly Summary: December 2008.” US Securities and Exchange Commission December 2008. https://ypfs.som.yale.edu/library/fannie-mae-monthly-summary-december-2008. 
+
+———. 2017. “Form 10-K.” US Securities and Exchange Commission. December 31, 2017. https://ypfs.som.yale.edu/library/fannie-mae-form-10-k-2017. 
+
+———. 2018. “Form 10-K.” US Securities and Exchange Commission. December 31, 2018. https://ypfs.som.yale.edu/library/fannie-mae-form-10-k-2018. 
+
+Federal National Mortgage Association Charter Act, Title III of 12 U.S.C. 1716 et Seq., as Amended through May 24, 2018 (Fannie Mae Act). 2018. https://ypfs.som.yale.edu/library/federal-national-mortgage-association-charter-act. 
+
+
+Federal Open Market Committee (FOMC). 2008. Minutes of the Federal Open Market Committee. Board of Governors of the Federal Reserve System. September 16, 2008. (FOMC 2008). https://ypfs.som.yale.edu/library/minutes-federal-open-market-committee-september16-2008. 
+
+Federal Reserve Act of 1913 §13(13), 12 USC 347c, as Amended through 1968 (FRA §13[13]). 1968. https://ypfs.som.yale.edu/library/federal-reserve-act-1913-ss1313-12-usc-347c. 
+
+Financial Crisis Inquiry Commission (FCIC). 2010a. “Preliminary Staff Report: Government Sponsored Enterprises and the Financial Crisis.” April 7, 2010. https://ypfs.som.yale.edu/node/3656. 
+
+———. 2010b. “Preliminary Staff Report: Governmental Rescues of ‘Too-Big-To-Fail’ Institutions.” August 31, 2010. https://ypfs.som.yale.edu/node/2671. 
+
+———. 2011a. “Chapter 1: Before Our Very Eyes.” In _The Financial Crisis Inquiry Report: Final Report of the National Commission on the Causes of the Financial and Economic Crisis in the United States_ , 1–24. Washington: US Government Printing Office. January 27, 2011. https://ypfs.som.yale.edu/node/3486. 
+
+———. 2011b. “Chapter 3: Securitization and Derivatives.” In _The Financial Crisis Inquiry Report: Final Report of the National Commission on the Causes of the Financial and Economic Crisis in the United States_ , 38–51. Washington: US Government Printing Office. January 27, 2011. https://ypfs.som.yale.edu/node/3488. 
+
+———. 2011c. “Chapter 7: The Mortgage Machine.” In _The Financial Crisis Inquiry Report: Final Report of the National Commission on the Causes of the Financial and Economic Crisis in the United States_ , 102–26. Washington: US Government Printing Office. January 27, 2011. https://ypfs.som.yale.edu/node/3492. 
+
+———. 2011d. “Chapter 17: The Takeover of Fannie Mae and Freddie Mac.” In _The Financial Crisis Inquiry Report: Final Report of the National Commission on the Causes of the Financial and Economic Crisis in the United States_ , 309–23. Washington: US Government Printing Office. January 27, 2011. https://ypfs.som.yale.edu/node/3340. 
+
+Fleming, Michael J., Warren B. Hrung, and Frank M. Keane. 2010. “Repo Market Effects of the Term Securities Lending Facility.” _American Economic Review_ 100, no. 2 (May 2010): 591– 96. https://ypfs.som.yale.edu/node/4093. 
+
+Frame, W. Scott. 2009. “The 2008 Federal Intervention to Stabilize Fannie Mae and Freddie Mac.” _Federal Reserve Bank Working Papers_ , No. 13 (April). https://ypfs.som.yale.edu/node/3447. 
+
+
+Frame, W. Scott, Andreas Fuster, Joseph Tracy, and James Vickery. 2015. “The Rescue of Fannie Mae and Freddie Mac.” _Federal Reserve Bank of New York Staff Reports_ No. 719 (March). https://ypfs.som.yale.edu/node/3415. 
+
+Frame, W. Scott, Kristopher Gerardi, and Paul S. Willen. 2015. “The Failure of Supervisory Stress Testing: Fannie Mae, Freddie Mac, and OFHEO.” _Federal Reserve Bank of Boston Working Papers_ No. 15-4 (March). 
+
+https://ypfs.som.yale.edu/library/failure-supervisory-stress-testing-fannie-mae-freddiemac-and-ofheo. 
+
+Gagnon, Joseph, and Michael Holscher. 2008. “17. Purchases of Agency MBS and Debt.” December 5, 2008.  Federal Open Market Committee Secretariat. https://ypfs.som.yale.edu/library/17-purchases-agency-mbs-and-debt. 
+
+Geithner, Timothy F. 2014. _Stress Test: Reflections on Financial Crises_ . New York: Crown Publishers. May 12, 2014. https://ypfs.som.yale.edu/library/stress-test-reflections-financial-crises. 
+
+Geithner, Timothy F., and Andrew Metrick. 2018. “Ten Years after the Financial Crisis: A Conversation with Timothy Geithner.” _YPFS Working Paper_ 2018 (1). September 5, 2018. https://ypfs.som.yale.edu/library/ten-years-after-financial-crisis-conversation-timothygeithner. 
+
+Guerin, Jessica, and Ben Lane. 2019. “Trump Officially Calls for End to Fannie Mae, Freddie Mac Conservatorship.” _HousingWire_ , March 27, 2019. https://ypfs.som.yale.edu/library/trump-officially-calls-end-fannie-mae-freddie-macconservatorship. 
+
+Hancock, Diane, and Wayne Passmore. 2010. “Did the Federal Reserve’s MBS Purchase Program Lower Mortgage Rates?” December 10, 2010. https://ypfs.som.yale.edu/library/did-federal-reserves-mbs-purchase-program-lowermortgage-rates. 
+
+Horowitz, Carl. 2017. “Ruling in Perry Capital Appeal Shackles Fannie Mae/Freddie Mac Shareholders.” National Legal and Policy Center. April 4, 2017. https://ypfs.som.yale.edu/library/ruling-perry-capital-appeal-shackles-fanniemaefreddie-mac-shareholders. 
+
+Housing and Economic Recovery Act of 2008 (HERA). 2008. Public Law 110-289. July 30, 2008. https://ypfs.som.yale.edu/library/housing-and-economic-recovery-act-2008. 
+
+Hurley, Lawrence. 2020. “U.S. Supreme Court Weighs Shareholder Suit over Fannie Mae, Freddie Mac.” _Reuters_ , December 9, 2020. https://ypfs.som.yale.edu/library/us-supreme-court-weighs-shareholder-suit-over-fanniemae-freddie-mac-0. 
+
+Jester, Dan, Matthew Kabaker, Jeremiah Norton, and Lee Sachs. 2018. “Rescuing the Mortgage Giants.” Brookings Institution, Yale University School of Management: Program on Financial Stability. 
+
+https://ypfs.som.yale.edu/node/3925. 
+
+
+Jickling, Mark. 2007. “Government-Sponsored Enterprises (GSEs): Regulatory Reform Legislation in the 109th Congress.” Congressional Research Service. Report for Congress. RL32795. January 16, 2007. 
+
+https://ypfs.som.yale.edu/library/government-sponsored-enterprises-gses-regulatoryreform-legislation-109th-congress. 
+
+———. 2008.“Fannie Mae and Freddie Mac in Conservatorship.” Congressional Research Service. Report for Congress. RS22950. September 15, 2008. https://ypfs.som.yale.edu/node/3450. 
+
+Kosar, Kevin R. 2007. “Government-Sponsored Enterprises (GSEs): An Institutional Overview.” Congressional Research Service. Report for Congress. RS21663. Updated April 23, 2007. https://ypfs.som.yale.edu/library/government-sponsored-enterprises-gses-institutionaloverview. 
+
+Lawder, David. 2008. “Treasury Opens Money Market Guarantee Program.” _Reuters_ , September 29, 2008. 
+
+https://ypfs.som.yale.edu/library/treasury-opens-money-market-guarantee-program. 
+
+Lockhart, James B., III. 2008. “The Appointment of FHFA as Conservator for Fannie Mae and Freddie Mac. Testimony for Senate Committee on Banking, Housing, and Urban Affairs.” Federal Housing Finance Agency. September 23, 2008. https://ypfs.som.yale.edu/node/3405. 
+
+———. 2018. Yale Program on Financial Stability Lessons Learned Oral History Project: An Interview with James B. Lockhart III Interview by Rosalind Z. Wiggins, Benjamin Henken, and Daniel Thompson. June 14, 2018. https://ypfs.som.yale.edu/index.php/library/ypfs-%20lesson-learned-oral-historyproject-interview-james-lockhart. 
+
+Lucas, Deborah. 2019. “Measuring the Cost of Bailouts.” _Annual Review of Financial Economics_ 11 (December): 85–108. https://ypfs.som.yale.edu/library/measuring-cost-bailouts. 
+
+Luhby, Tami. 2008. “U.S. Plan to Save Fannie and Freddie.” _CNN Money_ , July 14, 2008. https://ypfs.som.yale.edu/library/us-plan-save-fannie-and-freddie. 
+
+Millstein, Jim. 2018. Yale Program on Financial Stability Lessons Learned Oral History Project: An Interview with Jim Millstein by Rosalind Z. Wiggins, Benjamin Henken, and Daniel Thompson. June 14, 2018. 
+
+https://ypfs.som.yale.edu/library/ypfs-lesson-learned-oral-history-project-interviewjames-millstein. 
+
+Mortgage Bankers Association (MBA). 2017. “GSE Reform: Creating a Sustainable, More Vibrant Secondary Mortgage Market.” April 2017. https://ypfs.som.yale.edu/node/4371. 
+
+Norton, Jeremiah. 2008. “Re: GSEs.” Letter to Robert Steel, David Nason, Tony Ryan, and Neel T. Kashkari. March 16, 2008. 
+
+https://ypfs.som.yale.edu/node/3625. 
+
+
+Patrabansh, Saty, William M. Doerner, and Samuel Asin. 2014. “The Effects of Monetary Policy on Mortgage Rates.” _FHFA Working Papers_ , 14-2. Federal Housing Finance Agency, Office of Policy Analysis and Research. June 2014. https://ypfs.som.yale.edu/library/effects-monetary-policy-mortgage-rates. 
+
+Paulson, Henry M., Jr.. 2010. _On the Brink: Inside the Race to Stop the Collapse of the Global Financial System_ . New York: Business Plus, Hachette Book Group. February 1, 2010. https://ypfs.som.yale.edu/library/brink-inside-race-stop-collapse-global-financial-system. 
+
+Prior, Jon. 2012. “DeMarco Denies ‘Ideological Tilt’ in Principal Reduction.” _HousingWire_ , May 1, 2012. https://ypfs.som.yale.edu/library/demarco-denies-ideological-tilt-principal-reduction. 
+
+Ramírez, Kelsey. 2021. “FHFA: GSEs Can’t Exit Conservatorship on Retained Earnings.” _HousingWire_ , January 15, 2021. https://ypfs.som.yale.edu/library/fhfa-gses-cant-exit-conservatorship-retained-earnings. 
+
+Reiss, David J. 2011. “The Federal Government’s Implied Guarantee of Fannie Mae and Freddie Mac’s Obligations: Uncle Sam Will Pick Up the Tab.” _Georgia Law Review_ 42 (September): 1019–81. https://ypfs.som.yale.edu/library/federal-governments-implied-guarantee-fannie-maeand-freddie-macs-obligations-uncle-sam. 
+
+Rice, Tara, and Jonathan Rose. 2016. “When Good Investments Go Bad: The Contraction in Community Bank Lending after the 2008 GSE Takeover.” _Journal of Financial Intermediation_ 27 (March). https://ypfs.som.yale.edu/node/3419. 
+
+Sale, Winston. 2009. “Effect of the Conservatorship of Fannie Mae and Freddie Mac on Affordable Housing.” _Journal of Affordable Housing & Community Development_ 18, no. 3. https://ypfs.som.yale.edu/node/3420. 
+
+Stanton, Thomas H. 2009. “The Failure of Fannie Mae and Freddie Mac and the Future of Government Support for the Housing Finance System.” _Brooklyn Law School: Journal of Law and Policy_ 18, no. 1 (March 27, 2009). https://ypfs.som.yale.edu/library/failure-fannie-mae-and-freddie-mac-and-futuregovernment-support-housing-finance-system. 
+
+Steel, Robert K. 2007. “Testimony of Treasury Under Secretary Robert K. Steel before the U.S. House Financial Services Committee on Government Sponsored Enterprise Reform.” US Department of Treasury. March 15, 2007. 
+
+https://ypfs.som.yale.edu/library/testimony-treasury-under-secretary-robert-k-steel-ushouse-financial-services-committee. 
+
+Thompson, Daniel. 2021a. “The Rescue of Fannie Mae and Freddie Mac – Module B: The Senior Preferred Stock Purchase Agreements (SPSPAs).” _Journal of Financial Crises_ 3, no. 1. https://elischolar.library.yale.edu/journal-of-financial-crises/. 
+
+———. 2021b. “The Rescue of Fannie Mae and Freddie Mac – Module E: The Housing and Economic Recovery Act of 2008.” _Journal of Financial Crises_ 3, no. 1. https://elischolar.library.yale.edu/journal-of-financial-crises/. 
+
+
+———. 2021c. “The Rescue of Fannie Mae and Freddie Mac – Module F: The Federal Reserve’s Large-Scale Asset Purchase (LSAP) Program.” _Journal of Financial Crises_ 3, no. 1. https://elischolar.library.yale.edu/journal-of-financial-crises/. 
+
+Thompson, Daniel, and Rosalind Z. Wiggins. 2021. “The Rescue of Fannie Mae and Freddie Mac – Module A: The Conservatorships.” _Journal of Financial Crises_ 3, no. 1. https://elischolar.library.yale.edu/journal-of-financial-crises/. 
+
+US Department of the Treasury (Treasury). 2008a. “Press Release: Statement by Secretary Henry M. Paulson, Jr. on Treasury and Federal Housing Finance Agency Action to Protect Financial Markets and Taxpayers.” September 7, 2008. 
+
+https://ypfs.som.yale.edu/library/statement-secretary-henry-m-paulson-jr-treasury-andfederal-housing-finance-agency-action-0. 
+
+———. 2008b. “Treasury Announces Temporary Guarantee Program for Money Market Funds.” September 29, 2008. https://ypfs.som.yale.edu/library/treasury-announces-temporary-guarantee-programmoney-market-funds-0. 
+
+———. 2009. “Treasury Issues Update on Status of Support for Housing Programs.” December 24, 2009. https://ypfs.som.yale.edu/node/3027. 
+
+———. 2017. “Press Release: Treasury Department and FHFA Modify Terms of Preferred Stock Purchase Agreements for Fannie Mae and Freddie Mac.” December 21, 2017. https://ypfs.som.yale.edu/node/3443. 
+
+US Department of the Treasury and Federal Home Loan Mortgage Corporation (Treasury/Freddie). 2008. “Amended and Restated Senior Preferred Stock Purchase Agreement: Freddie Mac.” Federal Housing Finance Agency. September 26, 2008. https://ypfs.som.yale.edu/node/4427. 
+
+US Department of the Treasury and Federal National Mortgage Association (Treasury/Fannie). 2008. “Amended and Restated Senior Preferred Stock Purchase Agreement: Fannie Mae.” Federal Housing Finance Agency. September 26, 2008. https://ypfs.som.yale.edu/library/document/amended-and-restated-senior-preferredstock-purchase-agreement. 
+
+US General Accounting Office (GAO). 1996. “Housing Enterprises: Potential Impacts of Severing Government Sponsorship.” GAO/GDD-96-120. May 1996. https://ypfs.som.yale.edu/library/housing-enterprises-potential-impacts-severinggovernment-sponsorship. 
+
+US Securities and Exchange Commission (SEC). 2008. “Emergency Order Pursuant to Section 12(k)(2) of the Securities Exchange Act of 1934 Taking Temporary Action to Respond to Market Developments.” July 15, 2008. https://ypfs.som.yale.edu/library/securities-and-exchange-commission-securitiesexchange-act-1934-release-no-58166. 
+
+
+Vergara, Emily. 2021. “The Rescue of Fannie Mae and Freddie Mac – Module C: GSE Credit Facility.” _Journal of Financial Crises_ 3, no. 1. https://elischolar.library.yale.edu/journal-of-financial-crises/. 
+
+Wall, Larry D. 2014. “Have the Government-Sponsored Enterprises Fully Repaid Treasury?” Federal Reserve Bank of Atlanta, Center for Innovation and Stability: Notes from the Vault. March 2014. https://ypfs.som.yale.edu/library/have-government-sponsored-enterprisesfully-repaid-treasury. 
+
+Wall Street Journal Editorial Board. 2008. “Weekend at Henry’s.” _Wall Street Journal_ , September 8, 2008, sec. Opinion. https://ypfs.som.yale.edu/library/weekend-henrys. 
+
+Weiss, N. Eric. 2008. “Housing and Economic Recovery Act of 2008.” Congressional Research Service. Report for Congress. RL34623. December 5, 2008. https://ypfs.som.yale.edu/library/housing-and-economic-recovery-act-2008-0. 
+
+Wilson, Linus. 2020. “Broken Bucks: Money Funds That Took Taxpayer Guarantees in 2008.” _Journal of Asset Management_ 21 (August): 375–92. https://ypfs.som.yale.edu/library/broken-bucks-money-funds-took-taxpayer-guarantees2008. 
+
+Wingfield, Brian. 2008. “Rescuing Fannie and Freddie.” _Forbes_ , July 13, 2008. https://ypfs.som.yale.edu/library/rescuing-fannie-and-freddie. 
+
+Zanger-Tishler, Michael, and Rosalind Z. Wiggins. 2021. “The Rescue of Fannie Mae and Freddie Mac – Module D: Treasury’s GSE MBS Purchase Program.” _Journal of Financial Crises_ 3, no. 1. 
+
+https://elischolar.library.yale.edu/journal-of-financial-crises/. 
+
+Development of this case study has been supported by a generous grant from the Alfred P. Sloan Foundation to the Yale Program on Financial Stability. 
+
+Copyright 2015, 2016, 2020, 2021 © Yale University. All rights reserved. To order copies of this material or to receive permission to reprint any or all of this document, please contact the Yale Program on Financial Stability at ypfs@yale.edu.

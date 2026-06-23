@@ -1,0 +1,152 @@
+--- Page 1 ---
+Journal of Financial Crises Journal of Financial Crises 
+Volume 5 Issue 2 
+2023 
+Lessons Learned: Daleep Singh Lessons Learned: Daleep Singh 
+Steven Kelly 
+Follow this and additional works at: https://elischolar.library.yale.edu/journal-of-financial-crises 
+Recommended Citation Recommended Citation 
+Kelly, Steven (2023) "Lessons Learned: Daleep Singh," Journal of Financial Crises: Vol. 5 : Iss. 2, 20-22. 
+DOI: https://doi.org/10.17132/2693-3179.1509 
+Available at: https://elischolar.library.yale.edu/journal-of-financial-crises/vol5/iss2/6 
+This Lessons Learned is brought to you for free and open access by the Journal of Financial Crises and 
+EliScholar – A Digital Platform for Scholarly Publishing at Yale. For more information, please contact 
+journalfinancialcrises@yale.edu.
+
+--- Page 2 ---
+READERS TAKE NOTICE: READERS TAKE NOTICE: 
+As of April 2024, the YPFS Resource Library’s site domain has changed 
+to https://elischolar.library.yale.edu/ypfs-financial-crisis-resource-library/. 
+Please be aware that upon clicking any of the URL references to 
+the former Resource Library domains, either https://ypfs.som.yale.edu 
+or https://ypfsresourcelibrary.blob.core.windows.net/, in the 
+"References/Key Program Documents" section of a case study, 
+readers will encounter a "page not found" error. readers will encounter a "page not found" error. 
+Readers can still retrieve a given resource cited within this case study 
+on the new site  by searching by searching here  for the title cited. for the title cited. 
+This lessons learned is available in Journal of Financial Crises: https://elischolar.library.yale.edu/journal-of-financial-
+crises/vol5/iss2/6
+
+--- Page 3 ---
+Yale Program on Financial Stability 
+Lessons Learned  
+Daleep Singh 
+By Steven Kelly1 
+Daleep Singh served as head of the Markets Group at the Federal Reserve Bank of New York  
+(FRBNY) from February 2020 to February 2021. In this leading role, he helped to formulate and 
+effect the Fed’s response to the COVID -19 crisis. He met with the Yale Program on Financial 
+Stability (YPFS) to share insights related to the Fed’s crisis responses during the pandemic. This 
+Lessons Learned is based on an interview held with Singh on November 19, 2022; the full tran-
+script may be accessed here. 
+Coordinated efforts, both across markets and across different  crisis-fighting bodies, 
+can improve the initial impact of a given crisis intervention. 
+Early in the pandemic, the Fed rolled out a number of emergency facilities to address domes-
+tic markets. In parallel, on March 15, 2020, the Fed e ased the terms under its standing US 
+dollar swap lines with five foreign central banks; on March 19, it effected temporary swap 
+lines with nine other central banks ; and on March 31, it established a repo facility open to 
+foreign central banks and monetary authorities .2 Singh said of t he coordinated timing be-
+tween responding to domestic and foreign dollar markets: 
+What we wanted to do was to backstop both the domestic funding markets and the 
+offshore dollar funding markets at the same time. As you know, there is a global mar-
+ket with demand for dollar liquidity. That’s especially true during times of stress, 
+since there are at least $10 trillion in dollar liabilities held offshore. 
+In addition to coordinating across markets, Singh noted there were benefits of strong coor-
+dination with the Treasury Department. 3 Many of the Fed’s emergency lending programs 
+leveraged funds provided by Treasury to take on more risk. Singh noted that the Fed took 
+care to design its emerge ncy lending facilities with Treasury coordination in mind. He said 
+moving “in lockstep” with Treasury served as a “force multiplier.” 
+Singh also noted, however, that the benefits of coordination must be balanced against the 
+crisis-fighting advantages of re taining flexibility. He said that despite the stronger show of 
+ 
+1 Senior Research Associate, YPFS, Yale School of Management.  
+2 For a complete examination of these facilities, see Hoffner, Ben. 2023. “United States: Central Bank Swaps to 
+14 Countries, 2020.” Journal of Financial Crises 5, no. 1. https://elischolar.library.yale.edu/journal-of-finan-
+cial-crises/vol5/iss1/21; and Kelly, Steven. 2023. “United States: FIMA Repo Facility, 2020. Journal of Finan-
+cial Crises 5, no. 1. https://elischolar.library.yale.edu/journal-of-financial-crises/vol5/iss1/23 
+3 Following the Global Financial Crisis (GFC), the Dodd-Frank Act of 2010 mandated that the Treasury 
+secretary give prior authorization for the Fed’s use of its Section 13(3) emergency liquidity authority. Even 
+though this requirement did not exist during the GFC, the relationship between the Fed and Treasury was 
+highly collaborative.  
+20
+
+--- Page 4 ---
+policy force, “the effort to coordinate may have slowed the pace of implementation and in-
+creased the complexity of execution.” 
+Retaining flexibility in emergency intervention design is crucial. Building in flexibility 
+across factors such as timing, eligibility, breadth, and governance  can improve the 
+nimbleness of crisis response. 
+Singh described the rollout of the various interventions as “iterative to preserve optionality 
+for ramp-up or refinement” after assessing the impact and lessons of the previous iteration. 
+Retaining this flexibility was important with respect to limiting any  market fragmentation, 
+Singh said. For instance, overly inflexible cutoffs for emergency assistance eligibility could 
+risk fragmenting markets and unduly damaging those without access to the emergency back-
+stops. Singh worried that any undue fragmentation could “ reignite systemic risk or impair 
+credit provision for key sectors of the economy.” 
+He described the Fed as thinking critically about how to retain flexibility while balancing 
+governance considerations. The Fed came up with several additional policy options , should 
+they be needed, some of which could be executed unilaterally by the Fed, while others would 
+require a term sheet change—and thus coordination with Treasury. 
+Among several examples, Singh described the Fed’s contingency planning with respect to 
+one of its corporate bond purchase programs, the Secondary Market Corporate Credit Facil-
+ity (SMCCF)4: 
+For the SMCCF, we could increase the pace of purchases—i.e., recalibrate the “market 
+functioning” score—with no term sheet change needed. We could also scope in longer 
+maturities (beyond five years) and/or riskier assets (lower credits), but these re-
+quired a term sheet change. 
+He also described the importance of flexibility with respect to the breadth of the response, 
+illustrating the importance of making sure  the emergency assistance net was cast —and ac-
+tually reached—wide enough while also being sensitive to sector -specific needs. On casting 
+a wide enough net, Singh said: 
+By routing liquidity and credit through multiple channels to multiple destinations —
+households, small/midsize/large businesses, state/local governments —facilities 
+have appropriately sought to backstop a broad cross-section of the economy. 
+Yet, he also noted how sector-specific analysis could help fine-tune this operation and make 
+for the most effective use of available firepower . He described how the Fed had considered 
+adjusting intervention terms by sector. In a particularly salient example, for instance, the Fed 
+excluded banks from eligibility for the SMCCF despite their large presence in the corporate 
+ 
+4 For an examination of the SMCCF, see: Leonard, Natalie. 2022. “United States: Primary Market Corporate 
+Credit Facility and Secondary Market Corporate Credit Facility .” Journal of Financial Crises 4, no. 2. 
+https://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss2/82 
+21
+Journal of Financial Crises Vol. 5 Iss. 2
+
+--- Page 5 ---
+bond market  (over 20% of the US investment grade bond market at the time) . Singh de-
+scribed this decision: 
+We wanted to concentrate our firepower where it was most needed. We had enough 
+data with the banks to know their capital and liquidity positions were solid. We knew 
+there wasn’t a market functioning issue in their securities, as far as we could observe 
+in terms of their ability to raise capital or for secondary market participants to trade 
+their bonds.  
+Of course, we wanted the banks to make l oans to the real economy and amplify the 
+stimulus we were providing for that to occur. But flushing banks with even more li-
+quidity when there wasn ’t a lot of credit demand was just pushing on a string. So, it 
+was a better use of taxpayer resources to make targeted interventions directly into 
+small businesses or municipalities. 
+Even in the heat of crisis, it is important to focus on staff development and expanding 
+institutional expertise. 
+Singh noted how the Fed made a conscious effort to not just re -enlist the staff with crisis -
+fighting experience from the Global Financial Crisis of 2007–2009, but also to institutionalize 
+crisis-fighting insights/capabilities both horizontally and vertically across the organizational 
+structure. Singh said: 
+Throughout the process [of standing up emergency intervention facilities], we had a 
+philosophical preference to not just pull the same people who were involved in the 
+’08, ’09 facility execution, but also to train and breed a new generation of emergency 
+facility firefighters. 
+In addition to this vertical training, Singh described the socializ ation of crisis -fighting 
+knowledge across the Federal Reserve System: 
+We also designed a rotation of personnel off the facilities so that we could train new 
+people to come on board. That created redundancy in terms of people who could ex-
+ecute as the first wave needed time to recharge. We weren’t trying to create a small 
+group of crisis-fighting heroes who had all the information about what to do in their 
+head. We tried to document and spread the knowledge as much as possible, both to 
+the New York Fed as a whole and the Federal Reserve System more broadly by pulling 
+personnel from other Reserve Banks. We spent a lot of time cross-training each other, 
+and we tried to have people rotat e from one facility to another so that almost every-
+body knew how to contribute on any of the facilities at any particular time. 
+ 
+Dated: August 2023 
+YPFS Lessons Learned No. 2022-56 
+22
+Lessons Learned: Daleep Singh Kelly

@@ -1,0 +1,178 @@
+--- Page 1 ---
+Journal of Financial Crises Journal of Financial Crises 
+Volume 4 Issue 2 
+2022 
+Lessons Learned: Brooksley Born Lessons Learned: Brooksley Born 
+Maryann Haggerty 
+Follow this and additional works at: https://elischolar.library.yale.edu/journal-of-financial-crises 
+ Part of the Economic Policy Commons, Finance and Financial Management Commons, 
+Macroeconomics Commons, Policy Design, Analysis, and Evaluation Commons, Policy History, Theory, 
+and Methods Commons, and the Public Administration Commons 
+Recommended Citation Recommended Citation 
+Haggerty, Maryann (2022) "Lessons Learned: Brooksley Born," Journal of Financial Crises: Vol. 4 : Iss. 2, 
+2027-2030. 
+DOI: https://doi.org/10.17132/2693-3179.1380 
+Available at: https://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss2/91 
+This Lessons Learned is brought to you for free and open access by the Journal of Financial Crises and 
+EliScholar – A Digital Platform for Scholarly Publishing at Yale. For more information, please contact 
+journalfinancialcrises@yale.edu.
+
+--- Page 2 ---
+READERS TAKE NOTICE: READERS TAKE NOTICE: 
+As of April 2024, the YPFS Resource Library’s site domain has changed 
+to https://elischolar.library.yale.edu/ypfs-financial-crisis-resource-library/. 
+Please be aware that upon clicking any of the URL references to 
+the former Resource Library domains, either https://ypfs.som.yale.edu 
+or https://ypfsresourcelibrary.blob.core.windows.net/, in the 
+"References/Key Program Documents" section of a case study, 
+readers will encounter a "page not found" error. readers will encounter a "page not found" error. 
+Readers can still retrieve a given resource cited within this case study 
+on the new site  by searching by searching here  for the title cited. for the title cited. 
+This lessons learned is available in Journal of Financial Crises: https://elischolar.library.yale.edu/journal-of-financial-
+crises/vol4/iss2/91
+
+--- Page 3 ---
+Yale Program on Financial Stability 
+Lessons Learned 
+ 
+Brooksley Born 
+By Maryann Haggerty 
+Brooksley Born, a lawyer with decades of experience in derivatives law, served as chair of the 
+Commodity Futures Trading Commission (CFTC) from 1996 to 1999. At the CFTC, she advocated 
+for federal regulation of the over -the-counter derivatives (OTC) market, but legislation failed 
+to pass. The OTC derivatives market had a central role in  the Global Financial Crisis of 2007-
+09. Born, who retur ned to private practice after her CFTC term, served as a commissioner on 
+the US Financial Crisis Inquiry Commission, which investigated the causes of the crisis and 
+issued its report in January 2011. This “Lessons Learned” is based on an interview with Ms. Born. 
+The financial services industry has great political power. 
+During Born’s term as chair of the CFTC, she was engaged in a contentious debate about the 
+fast-growing and lightly regulated OTC derivatives market. She recalled, “We  were asking 
+questions about central clearing, use of transaction execution facilities, exchange-like or 
+online, requirements for OTC derivatives dealers like record keeping, reporting, sales 
+practice requirements, capital requirements, disclosure requirements, and internal 
+controls.” Those ideas were contained in what was called a “concept release” that discussed 
+possible regulations. “When  we published the concept release in May 1998, there was a 
+firestorm of opposition.” The industry actively opposed regulation. M any in government 
+agreed, but Born did not. 
+She described the opposition this way, 
+The political power of the financial services industry has led to a significant degree of 
+regulatory capture among federal financial regulators and undue deference to the 
+industry by members of Congress. 
+… There was fierce opposition from all of the big over-the-counter derivatives dealers, 
+which were our largest financial institutions. This unregulated, nontransparent 
+market was, as we discovered later, one of their largest profit centers. They were 
+making a tremendous amount of money, partly because the market was not 
+transparent and was not competitive. There was often little clear pricing information 
+available to their counterparties. The dealers wanted to preserve this la ck of 
+transparency. 
+There had been 20 or 30 years of deregulatory pressures, largely stimulated by the 
+financial services industry, but also championed by people like Federal Reserve Board 
+Chair Alan Greenspan. The financial services industry at this point had great political 
+power. They were among the very largest campaign contribution donors. They had 
+large forces lobbying before both Congress and the executive branch financial 
+regulators. And they exerted a tremendous amount of power. 
+2027
+
+--- Page 4 ---
+While it can never be predicted whether more regulation could help avoid effects that 
+create systemic risk, all sides of the argument and possible long -term impacts are 
+worth considering.  
+In 1998, while Born was chair, the CFTC issued a “concept release” reexamining its approach 
+to the OTC derivatives, which were then exempt from regulation, and seeking public 
+comment. The release identified observed developments in derivative s innovation, raised 
+concerns about the sufficiency of the current regulatory scheme, and prop osed enhanced 
+regulation. Many of Born’s colleagues and industry leaders felt that enhanced regulation was 
+not necessary and would dampen the market’s growth. Two years later, the Commodity 
+Futures Modernization Act of 2000 further deregulated OTC derivatives trading. The result, 
+in Born’s view, was that a dangerous industry  was allowed to grow unchecked, threatening 
+the stability of the rest of the system. 
+She said, 
+Adequate information about the over -the-counter derivatives market would  have 
+made a tremen dous difference. If this had been a regulated market, it  would have 
+been transparent. Federal  regulators would have been able to see the size of the 
+positions, the extent of the trading, the amount of speculation,  and the 
+interconnectivity among market participants. They could have stepped in when they 
+saw the extent of counterparty credit risk , to require central clearing, reducing the 
+risk by interposing the clearing facility between the parties. They could have seen the 
+extent of speculation that was inflating the risk posed by the mortgage market by 
+multiplying it exponentially in terms of potential losses. 
+The unregulated OTC derivatives market created systemic risk that fed the financial 
+crisis. 
+The OTC derivatives market grew steeply and quickly in the early 2000s, reaching more than 
+$670 trillion in notional value by the time of the 2007 09 financial crisis. (Notional value is 
+the value of the securities that underlie derivatives.) Born was a member of the federal 
+Financial Crisis Inquiry Commissio n (FCIC), which examined the causes underlying that 
+crisis in the United States, including the role of derivatives. Among the types of derivatives 
+examined were credit default swaps (CDS) and collateralized debt obligations (CDOs), both 
+of which allowed bets on packages of mortgages. 
+Speaking of the FCIC’s findings, Born elaborated,  
+What we found in terms of over-the-counter derivatives was that allowing this 
+enormous unregulated market to grow without oversight or regulation led to  
+substantial financial systemic risk and contributed to the magnitude of the crisis. The 
+market was not transparent. It was highly leveraged. There was  excessive 
+speculation. It created interconnections between systemically important financial 
+institutions that had the effect of allowing losses to cascade through the system. 
+2028
+Journal of Financial Crises Vol. 4 Iss. 2
+
+--- Page 5 ---
+… In addition to the role played by credit default swaps in the financial crisis, the FCIC 
+found that the interconnections created by over -the-counter derivatives of all kinds 
+among the biggest financial institutions, and also with other large  corporations and 
+institutions, caused rippling effects of losses to spread throughout the financial 
+system and multiplied the risks in the financial crisis. For example, when Lehman 
+Brothers went in to bankruptcy in September  2008, it was a party to more than 
+900,000 over-the-counter derivatives contracts. Its failure created panic in the 
+market and almost brought down the financial system. 
+Despite increased post-crisis regulation, much of the OTC derivatives market remains 
+opaque and thus a threat to financial stability. 
+The Dodd-Frank Act, the package of US financial market regulatory changes adopted in the 
+wake of the Global Financial Crisis, increased oversight of the derivatives market to a degree. 
+Among other changes, it required central clearing of some types of derivatives, a process that 
+reduces direct counterparty risk, though it may shift risk to the clearinghouse. 
+However, as of year-end 2020, there was still more than $600 trillion (notional value) of OTC 
+derivatives outstanding, “and  probably less than half  of that is subject to central  clearing,” 
+Born pointed out. In her view, regulators still do not have the insight they need into this 
+market. 
+As an example, she discussed a recent event, 
+We just had the collapse of Archegos. That seems to be a replay of Long-Term Capital 
+Management in 1998. It is a large, unregulated investment vehicle speculating 
+through over-the-counter derivatives, this time a kind of security swap, with virtually 
+unlimited leverage. It avoided disclosure of its position as required by the securities 
+laws by using over-the- counter derivatives that mimicked securities. It entered into 
+these transactions through a number of over -the-counter derivatives dealers which  
+probably had no idea that the entity was exposed to large positions taken with several 
+other dealers. Goldman Sachs, Nomura, Deutsche Bank, Credit Suisse , and others 
+were its dealers. Suddenly Archegos was unable to meet its collateral obligations on 
+its contracts and defaulted. Luckily, it looks like Archegos’ collapse did not cause 
+cascading losses through the financial system    that could not be contained. Apparently, 
+its dealers were able to manage the substantial losses they have incurred. But it does 
+show that this is still a dark, highly leveraged, and speculative market. There is a large 
+part that is unknown to anybody. This may be the result of a failure on the part of the 
+Securities and Exchange Commission to adequately and fully implement and enforce 
+the Dodd-Frank Act’s requirements as to securities-based, over-the-counter 
+derivatives. 
+Necessary transparency can be achieved, “very easily,” she said. 
+You require virtually all of the market to be traded on regulated exchanges, open and 
+transparent to the public and to the regulators. Competitive trading on such 
+exchanges will provide necessary price discovery. You also require virtually all of the 
+2029
+Lessons Learned: Brooksley Born Haggerty
+
+--- Page 6 ---
+market to be cleared through a regulated  central clearing operation with rigorous 
+margin requirements, marking to  market of the pricing , and position limits on 
+speculation. That is the playbook that the regulated futures and options markets have 
+operated under for decades as provided in the Commodity Exchange Act. 
+The industry will resist, she opined. That presents a critical challenge to officials, 
+Again, and I am repeating myself, it is very important for policymakers, regulators, 
+and supervisors to distance themselves from thinking that their purpose is to further 
+the interest of a particular industry. It is very easy when enormous political power 
+and money are being expended by an industry to  forget that the industry’s interests 
+are not the pub lic interest. And there is no  reason to have regulation if it is not to 
+further the public interest. 
+_____________________________________ 
+Dated: July 2022 
+YPFS Lessons Learned No.: 2021-13 
+2030
+Journal of Financial Crises Vol. 4 Iss. 2

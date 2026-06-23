@@ -1,0 +1,522 @@
+## Argentina: National Bank Holidays, 2001[1] 
+
+_Owen Heaphy[2]_ 
+
+Yale Program on Financial Stability Case Study June 25, 2025 
+
+## **Abstract** 
+
+Starting in 1991, Argentina operated a currency board regime under which the central bank guaranteed a one-to-one peg of the Argentine peso to the US dollar. But in 2001, markets became increasingly concerned that the central bank would be unable to maintain the peg and would allow the peso to devalue against the dollar. At that time, more than two-thirds of Argentine bank deposits were denominated in dollars. Throughout 2001, depositors withdrew funds from banks; by November, peso deposits had declined by more than onethird and dollar deposits had fallen by one-tenth. On November 28, 2001, the systemwide banking run accelerated. On December 1, 2001, the authorities restricted withdrawals from demand deposit accounts to 250 Argentine pesos (ARS) or 250 US dollars per week per account holder across financial institutions, later altering and extending the restrictions in various forms. Within weeks the Argentine president resigned amidst widespread riots, and on December 21, the new president declared a bank holiday. During this holiday, the government announced that it would default on USD 141 billion in outstanding foreign debt, one of the largest sovereign defaults in history. On January 6, 2002, Congress ended Argentina’s convertibility regime, replacing it with a dual exchange rate and later a floating exchange rate. That same week, the authorities raised the withdrawal limit to ARS 1,500 per month for pensioners and ARS 300 per week for all other account holders, while rescheduling the maturities for term deposits. Despite the government’s ordering the conversion of dollar-denominated deposits to pesos at 1.4 ARS per US dollar, Argentina’s courts ordered that banks pay out dollar-denominated deposits at the prevailing market exchange rate, with an even stronger dollar. During the following two years, the courts, through injunctions, also ordered the restoration of many depositors’ access to their entire accounts. The restrictions on demand deposits were lifted in late 2002; however, term deposits remained restricted until mid-2003. By September 2003, banking system liquidity had improved, the Argentine peso had appreciated against the US dollar, and interest rates had stabilized. 
+
+**Keywords:** Argentina, bank holiday, deposit freeze, public debt restructuring 
+
+> 1 This case study is part of the Yale Program on Financial Stability (YPFS) selection of New Bagehot Project modules considering bank holiday and fund suspension programs. A survey of all the cases in this series (Wiggins et. al. 2025) and the cases underlying it are available from the _Journal of Financial Crises_ at https://elischolar.library.yale.edu/journal-of-financial-crises/. 
+
+> 2 Research Associate, YPFS, Yale School of Management. 
+
+
+## **Overview** 
+
+This case study examines Argentina’s broadbased partial deposit freeze between 2001 and 2003. 
+
+In March 2001, concerns regarding solvency issues in the business sector, financial institutions’ rising exposures to the public sector, and fear of the government seizing depositor funds like it had done in 1989 triggered a protracted run on deposits in Argentina’s banking system. By year end, total deposits across the Argentine banking system had fallen by 23%, causing a “systemic liquidity crisis” (EIU 2003, 2). 
+
+In late March 2001, the ratings agency Moody’s lowered Argentina’s long-term sovereign debt rating from B1 to B2. On October 12, 2001, Moody’s lowered the rating further below investment grade to a Caa3 from Caa1. Following the announcement of new debt restructuring measures, the systemwide banking run accelerated on November 28. Over the next two days, total deposits in the banking system fell by USD 3.6 billion (6% of total) (IMF 2003b). On December 1, Argentina’s president, Fernando de la Rúa, issued a decree that authorized the Central Bank of the Argentine Republic (Banco Central de la República Argentina, or BCRA) to restrict demand deposit withdrawals for an initial period of 90 days (Ennis and Keister 2009; Saxton 2003). During this period, the BCRA capped demand deposit withdrawals at 250 Argentine pesos (ARS) or 250 US dollars per week per individual or joint account holder at any institution, prohibited banks from granting loans in pesos, and placed restrictions on foreign exchange and transfers abroad (Argentina 2001a). Despite the restrictions, in the month of December 2001, total deposits in the banking system had fallen by 5% (EIU 2003). 
+
+## **Key Terms** 
+
+Purpose: To protect against a systemic financial crisis and prevent the level of deposits in the Argentine banking system from falling below a level where Argentina could not meet its external debt obligations 
+
+||debt obligations||
+|---|---|---|
+||Announcement|Deposit restrictions:|
+||Date|December 1, 2001;<br>Bank holidays; December 21,<br>2001, and April 19, 2002|
+||End Date|Demand deposits: December<br>2, 2002; Term deposits: Early<br>2003;<br>Bank holidays: December 26,|
+|||2001, and April 25, 2002|
+||Legal Authority<br>Administrators|National Constitution of<br>Argentina, Decree 1570/<br>2001<br>BCRA, MDE|
+||Communication|Restrictions made via|
+||and Disclosure|emergency presidential<br>decree, with ministerial<br>concurrence|
+||Permitted|ARS 250 or USD 250 per|
+||Withdrawals|week per account for<br>demand deposits starting<br>December 2001, raised to<br>ARS 300 in January 2002;|
+|||Term deposits|
+|||reprogrammed in January|
+|||2001, released in phases<br>starting October 2002|
+||Treatment of|Frozen term deposits|
+||Depositors or<br>Investors|released through voluntary<br>swap agreements for cash<br>payments or government<br>bonds;|
+|||Foreign exchange was|
+|||restricted, and depositors|
+|||holding US dollars were<br>haircut by the dual-exchange<br>rate before the courts|
+|||ordered they be paid in full|
+|||_(continued)_|
+
+
+
+
+The initial restrictions on demand deposit withdrawals led to civil unrest and riots, culminating in the resignation of President de la Rúa and Minister of Economy Domingo Cavallo on December 20. The government declared a countrywide bank holiday on December 21, lasting until December 26. During this holiday, on December 23, the new president, Adolfo Rodríguez Saá, announced that the government would default on most of its USD 141 billion in outstanding debt (excluding bonds issued to domestic creditors during the government’s previous public debt restructuring in November 2001) (Blustein 2003; IMF 2003b). This sovereign debt default threatened the solvency of the banking system, given that 25% of bank system assets were public sector loans (EIU 2003). 
+
+Outcomes The withdrawal restrictions, freeze on injunctions, and mandatory conversion of dollar deposits to Argentine pesos (pesoization) were found unconstitutional Notable Features Conversion of bank assets and liabilities from Argentine pesos to US dollars at an asymmetric rate that favored firms and households and led to a USD 9 billion broadbased recapitalization of the banking sector; Lack of cooperation between the executive and the judiciary created conflicts in implementation 
+
+On January 3, 2002, President Eduardo Duhalde—the fifth president in three weeks— announced the end of Argentina’s convertibility regime, known as a currency board, which had sustained a one-to-one peg between the Argentine peso and the US dollar since 1991. Three days later, Congress approved a short-lived dual rate foreign exchange regime.[3] On January 9, 2002, the Ministry of the Economy (Ministerio de Economia, or MDE) raised the deposit withdrawal limit from ARS 250 to ARS 300 per week per account holder at each financial institution and ARS 1,500 per month for pensioners and social security recipients, simultaneously freezing term deposits until 2003 (MDE 2002a). On February 4, Congress unified the exchange rate regime, abolishing the dual rate, and issued a decree requiring the conversion of bank assets and liabilities from US dollars to Argentine pesos at an asymmetric rate (ARS 1 per USD 1 for loans to the private sector and ARS 1.4 per USD 1 for loans to the public sector and dollar-denominated deposits) (IMF 2003b; IMF 2003c). The purpose of this policy, known as _pesoization_ , was to prevent dollar-denominated debt from becoming too expensive for firms and households while preserving the value of their deposits when both were revalued in pesos. The result of pesoization was to increase the cost of peso devaluation for banks, since their dollar-denominated liabilities (deposits) were converted to pesos at a higher rate than their dollar-denominated assets (loans to the private sector) (Setser and Gelpern 2006). 
+
+For a time series of total deposits in Argentina’s banking system, see Figure 1. 
+
+> 3 This regime consisted of an exchange rate of ARS 1.4 per USD 1 for public sector and most trade-related transactions (excluding luxury imports). All other transactions occurred at the prevailing market rate, under which the US dollar was stronger than the official rate (IMF 2003b). 
+
+
+[FIGURE id=vol7_iss2_3_f1 type=figure label="Figure 1" file=figure_1.png caption="Total Deposits in Argentina’s Banking System between 2001 and 2002"]
+### **Figure 1: Total Deposits in Argentina’s Banking System between 2001 and 2002**
+
+_Source: Ennis and Keister 2009._ 
+
+Throughout the intervention, depositors brought lawsuits seeking access to their frozen funds, and courts ordered injunctions allowing for large and continuing withdrawals of deposits from the banking system. Between January and October 2002, roughly USD 2.5 billion in deposits were released from the freeze through injunctions (IMF 2003c). Attempting to stem deposit outflows, President Duhalde declared a second bank holiday on April 19, 2002, lasting until Congress had approved legislation to stem the volume of deposit outflows through injunctions. On April 25, 2002, Congress passed a law which ended the bank holiday and reformed court proceedings by only allowing depositors to access their accounts upon completion of the full judicial process (Congress 2002b; IMF 2003b). 
+
+On July 24, 2002, President Duhalde issued a decree which suspended the execution of injunctions for a period of 120 working days in an attempt to further stem the release of deposits from the banking system (Argentina 2002e). On September 13, 2002, the Federal Court of Appeals found the demand deposit restrictions, pesoization of bank assets and liabilities, and this 120 working day suspension of injunctions unconstitutional. (IMF 2003c). MDE raised the weekly deposit withdrawal limit on all account holders at savings banks and current accounts held by natural persons to ARS 500 on October 31, 2002 (MDE 2002b). On November 22, 2002, the government announced that the restrictions on demand deposits would be lifted effective December 2 of that year (IMF 2003b). 
+
+The restrictions on term deposits were gradually dismantled through voluntary swap agreements, starting June 2002 and lasting through mid-2003, with depositors receiving either cash payments (pesoized) or government bonds for the value of their accounts (EIU 2003). To recapitalize banks and compensate for the losses caused by pesoization, the government also issued roughly USD 9 billion in new government securities, called BODEN bonds (see Key Design Decision No. 2, Part of a Package) (IMF 2003c). 
+
+
+See Figure 2 for a timeline of Argentina’s withdrawal restrictions from 2001 to 2002. 
+
+[FIGURE id=vol7_iss2_3_f2 type=diagram label="Figure 2" file=figure_2.png caption="Timeline of Argentina’s Withdrawal Restrictions, 2001–2002"]
+### **Figure 2: Timeline of Argentina’s Withdrawal Restrictions, 2001–2002**
+
+|**Date**|**Event**|
+|---|---|
+|Early 2001|Concerns about Argentina’s sovereign debt and fear of confiscation causes<br>depositors to begin to withdraw funds from banks|
+|October 12, 2001|Moody’s lowers Argentina’s long-term sovereign debt rating further into<br>noninvestment grade from Caa1 to Caa3|
+|November 28, 2001|Systemwide banking run accelerates, with total deposits in the banking system<br>falling by USD 3.6 billion (6% of total) over the next two days|
+|December 1, 2001|President de la Rúa issues a decree limiting demand deposit withdrawals to 250 ARS<br>per week per account for an initial period of 90 days|
+|December 5, 2001|President de la Rúa issues another decree exempting certain transactions, such as<br>salaries, retirement and social benefits, and exchanges from the restrictions and<br>authorizing BCRA to grant other exceptions going forward|
+|December 19, 2001|President de la Rúa declares a state of emergency following protests of Minister of<br>Economy Cavallo’s economic policies. Congress repeals special legislative powers<br>granted to the minister of economy|
+|December 21, 2001|Government declares a countrywide bank holiday lasting through December 26|
+|December 23, 2001|President Saá is named interim president following President de la Raú’s resignation<br>and announces that Argentina will default on its debt; resigns after one week|
+|January 3, 2002|Senator Duhalde is sworn in as president and announces the end of Argentina’s<br>currency board, instituting a short-lived dual exchange rate regime|
+|January 9, 2002|MDE raises the account deposit withdrawal limit to ARS 300 per week per account<br>holder at each financial institution and ARS 1,500 per month for pensioners,<br>simultaneously rescheduling term deposits|
+|January 30, 2002|Congress passes an emergency law curtailing the rights of creditors, effective<br>February 14|
+|February 4, 2002|President Duhalde decrees the unification of the exchange rate regime, abolishing<br>the dual rate, and the asymmetric pesoization of bank assets and liabilities (assets at<br>ARS 1 per USD 1, and liabilities at ARS 1.4 per USD)|
+|March 8, 2002|President Duhalde declares the pesoization of government debt|
+|March 25, 2002|The value of the Argentine peso depreciates to ARS 4 to USD 1, prompting a<br>government intervention of USD 800 million in the foreign exchange market|
+|April 19, 2002|President Duhalde declares a bank holiday until Congress approves a way to stem<br>the volume of deposits released through judicial injunctions|
+|April 25, 2002|Congress passes a law modifying court procedures for cases regarding frozen<br>deposits, placing depositor funds in escrow, and allowing access to the accounts at<br>the end of a judicial process. This law also ends the second bank holiday|
+
+
+
+
+|June 1, 2002|President Duhalde approves plan giving depositors an option to exchange<br>reprogrammed term deposits for government bonds|
+|---|---|
+|July 24, 2002|Government issues a decree suspending court-ordered injunctions for the<br>withdrawal of deposits for 120 working days|
+|July 25, 2002|Federal judge declares the suspension of court-ordered withdrawals partially<br>unconstitutional|
+|August 26, 2002|Government passes a resolution approving the issuance of government bonds to<br>compensate banks for their losses from asymmetric pesoization|
+|September 13, 2002|The Federal Court of Appeals finds both the demand deposit restrictions and the 120<br>working day suspension of injunctions to be unconstitutional in a limited ruling|
+|October 31, 2002|MDE issues a decree raising the weekly deposit withdrawal limit on all account<br>holders at savings banks and current accounts whose holders are natural persons to<br>ARS 500|
+|November 22, 2002|Government announces a lift on the restrictions on demand deposits, effective<br>December 2, 2002. Term deposits remain partially frozen until mid-2003 and are<br>dismantled through voluntary swap agreements|
+
+
+
+_Source: Author’s analysis._ 
+
+## **Summary Evaluation** 
+
+In a 2003 article for _Economic and Political Weekly, e_ conomists Geethanjali Nataraj and Pravakar Sahoo note several lessons from the Argentine crisis: (1) the fixed exchange-rate system of convertibility raised the likelihood of a balance of payments crisis and widespread defaults in Argentina, risks that could have been averted with the earlier adoption of a market-determined floating exchange rate; (2) substantial borrowing in US dollars and excessive foreign debt contributed to Argentina’s currency crisis, making such a strategy “risky” for emerging economies (Nataraj and Sahoo 2003, 1642–44). In an interview with _Central Banking_ from August 2002 _,_ the former president of the BCRA, Mario Blejer, shared a similar diagnosis, saying that Argentina’s decision to continue financing a fiscal imbalance while operating under a fixed exchange was “not a practical idea” and the continuation of convertibility throughout 2001 “deepened the crisis” (Central Banking 2002c). 
+
+In the Staff Report for the 2002 Article IV Consolation for Argentina, IMF economists criticized the response of Argentine authorities to the crisis. The report notes that the authorities implemented a series of policy measures over the course of 2001 that “lacked direction and credibility and confirmed fears about impending crisis” (IMF 2003c, 6). Moreover, the IMF report found that the political unrest and upheaval that followed the December 2001 deposit restrictions led the Argentine authorities to implement economic policies in “a haphazard fashion that exacerbated the crisis” (IMF 2003c, 7). 
+
+An IMF Policy Development and Review Department report from October 2003 found that many of the initial measures adopted during the 2001 crisis “failed to stabilize the situation [and] complicated any eventual resolution” (IMF 2003b, 62). In particular, the report argues that—although the asymmetric pesoization of banks’ assets and liabilities was intended to 
+
+
+protect firms and individual depositors with dollar-denominated debt—this measure merely shifted the burden of devaluation to the banking system and later to taxpayers when the government was forced to recapitalize the banks (IMF 2003b). 
+
+Economists have also criticized the timeliness of the response of the Argentine authorities. Huberto Ennis and Todd Keister—economists at the Federal Reserve banks of Richmond and New York, respectively—argue that the authorities acted too late in implementing the deposit restrictions in response to the widespread run on the banking system, possibly creating incentives for more patient depositors to join the run. Per Ennis and Keister (2009), deposits in the banking system had already declined by roughly 22% from their peak in late February 2001 before the announcement of withdrawal restrictions on December 1, 2001 (Ennis and Keister 2009). 
+
+Retrospective accounts of the crisis also emphasize that a lack of cooperation between the judiciary and executive branches hampered the effectiveness of the deposit restrictions. Ennis and Keister find that the prevalence of court-ordered injunctions “undermine[d] the incentives for patient depositors to wait” for the authorities to unfreeze their accounts (Ennis and Keister 2009, 1594). Even with the restrictions in place, 21% of total deposits in the banking system as of March 2002 were eventually paid out through legal recourse during the crisis. Additionally, despite the government's ordering asymmetric pesoization, many of these injunctions ordered that depositors instead be paid the entire value of their dollar deposits at the prevailing market exchange rate, which imposed further costs on the Argentine banking system (Ennis and Keister 2009). 
+
+In a 2006 article for _Global Governance,_ economist Brad Setser and legal scholar Anna Gelpern argue that the outcomes of Argentina’s banking crisis reflect the political limitations faced by a democratic government on the losses that it can impose on both depositors and banks. Debtors benefiting from asymmetric pesoization quickly repaid their borrowings and creditors facing losses sued and generally won compensation, placing the largest losses solely on bank shareholders. Per Setser and Gelpern, the extent of these losses required that the government either recapitalize or nationalize the entire banking system. Setser and Gelpern also note that the government failed to convince banks and markets of the legitimacy of asymmetric pesoization _,_ and that decisions regarding the initial fixed conversion rate were largely arbitrary. However, Setser and Gelpern ultimately deem devaluation as a “qualified success,” allowing for the restructuring of domestic contracts, the restoration of payment flows, and the eventual unfreezing of deposits (Setser and Gelpern 2006, 478). 
+
+
+_Sources: Bloomberg: World Bank Deposit Insurance Dataset; World Bank Global Financial Development Database._ 
+
+
+## **Key Design Decisions** 
+
+**1. Purpose: The deposit restrictions and bank holiday were intended to protect the level of deposits in the Argentine financial system from falling below a level where Argentina would be unable to meet its external debt obligations.** 
+
+Throughout the late 1990s, Argentine banks’ increasing dollarization and heightened foreign currency lending to unhedged borrowers increased the risk of a default. Simultaneously, as concerns about devaluation spread, the proportion of banking system liabilities denominated in foreign currencies also increased, reaching more than 70% of the total by September 2001 (Barajas et al. 2007). By the end of 2001, the Argentine banking system lacked the necessary dollar reserves to back dollar deposits. Per Setser and Gelpern, at this point, a bank holiday “was no longer avoidable” (Setser and Gelpern 2006, 478). 
+
+On November 28, 2001, the Argentine banking system experienced an accelerated systemwide banking run, with total deposits falling by 6% over the next two days. On December 1, the president of Argentina, Fernando de la Rúa, issued a decree which restricted demand deposit withdrawals for an initial period of 90 days (Argentina 2001a; Ennis and Keister 2009). The decree prohibited cash withdrawals of more than ARS 250 or USD 250 per week by individual or joint account holders at each financial institution, prohibited banks from granting loans in Argentine pesos, and placed restrictions on foreign exchange and transfers abroad. The initial presidential decree also gave the BCRA the authority to ease the restrictions once total deposits in the financial system had increased to a level comparable to September 30, 2001, and interest rates had stabilized (Argentina 2001a). These measures led to riots in which over 20 demonstrators were killed, culminating in the resignation of President de la Rúa and Minister of Economy Domingo Cavallo on December 20, 2001 (IMF 2003b). 
+
+On December 21, 2001, the government declared a countrywide bank holiday lasting through December 26, during which the new president, Adolfo Rodríguez Saá, announced that the country would default on the majority of its external debt. Following Argentina’s default and the end of its currency board—which had pegged the Argentine peso to the US dollar at 1 to 1—the MDE raised the withdrawal limit on demand deposits on January 9, 2002, to ARS 300 per week per account holder at each institution and to ARS 1,500 per month for pensioners, simultaneously pushing back the maturity dates of term deposits (IMF 2003b). 
+
+Following the second bank holiday, which began on April 19, 2002, and lasted for six days, the government passed legislation attempting to stem the withdrawal of deposits through court-ordered injunctions. However, per the World Bank, these measures failed to significantly reduce the burden of injunctions (court-ordered deposit withdrawals) on the banking system in the following months (IMF 2003b). Instead, court-ordered injunctions slowed in late 2002 as a result of depositors waiting for a potential Supreme Court ruling against the constitutionality of asymmetric pesoization (Gutierrez and Montes-Negret 2004). 
+
+
+**2. Part of a Package: To compensate banks for losses, the government issued new public debt instruments and administered a broad-based capital injection. The Inter-American Development Bank and World Bank granted Argentina a loan following the cessation of IMF funding.** 
+
+On November 1, 2001, without prior consultation of the IMF, Argentine authorities announced a package of financial measures, which included a sovereign debt restructuring in two phases, the first targeted at domestic creditors and the second at international creditors. The following day, a communication between IMF staff and the executive board called these measures “not consistent with fiscal reality,” citing the risk that the announcement would cause a crisis in investor confidence and a possible bank run (IMF 2004, 56). Such a run occurred in late November, prompting the Argentine authorities to partially freeze demand deposit withdrawals on December 1, as part of a host of banking and foreign exchange restrictions intended to stabilize the banking system. On December 5, the IMF announced that it would not disburse a USD 1.3 billion tranche scheduled under the USD 22 billion Standby Arrangement (SBA) between the IMF and Argentina, citing projections that Argentina would breach its fiscal deficit target for the year with a large financing gap (IMF 2004). 
+
+Following the cessation of IMF funding and the implementation of withdrawal restrictions in December 2001, the government declared a countrywide bank holiday from December 21 to December 26. On December 23, Argentina defaulted on USD 141 billion in outstanding debt, excluding bonds issued to domestic creditors during the first phase of the government’s November debt restructuring (Blustein 2003). On January 3, 2002, President Duhalde announced the end of Argentina’s currency board, instituting a short-lived dual foreign exchange rate regime in which a rate of 1.4 ARS per USD applied to most trade and public sector transactions, with the remaining transactions conducted at predevaluation rates (IMF 2003b). 
+
+On February 4, 2002, the government approved the unification of the exchange rate regime, abolishing the dual rate. The same day, the government issued a decree requiring banks to convert their assets and liabilities from US dollars to Argentine pesos at an asymmetric rate. Per this decree (214/2002), US dollar-denominated assets and liabilities were to be converted 1 to 1 ARS to USD for loans to the private sector and 1.4 to 1 ARS per USD for loans to the public sector and US dollar-denominated deposits, indexed to inflation (IMF 2003b). The purpose of this policy, known as pesoization, was to prevent dollar-denominated debt from becoming too expensive for firms and households while preserving the value of their deposits when both were revalued in pesos. The result of pesoization was to increase the cost of peso devaluation for banks, since their dollar-denominated liabilities (deposits) were converted to pesos at a higher rate than their dollar-denominated assets (loans to the private sector). When the foreign exchange market opened under a unified rate on February 11, 2002, the Argentine peso depreciated to 1.8 against the US dollar (IMF 2003b). 
+
+
+## **BODEN Bonds** 
+
+On March 12, 2002, President Duhalde issued Decree 494/2002, which gave an option for depositors who had their deposits converted to Argentine pesos or rescheduled to enter into voluntary swap agreements for government bonds equal to the nominal value of their accounts. Articles 3 to 5 of the decree authorized the MDE to issue three new national public debt securities, called BODEN: 
+
+- Ten-year bonds due in February 2012 with 2% annual interest; 
+
+- Ten-year bonds due in February 2012 with annual interest of the six-month LIBOR rate plus 1%; 
+
+- Five-year bonds due in February 2007 with 3% annual interest paid quarterly. 
+
+The 10-year BODEN bonds were available for Argentina pesos at a rate of 1.4 to the US dollar (Argentina 2002c). To make these securities attractive, the government allowed them to be publicly offered to create a secondary market and to be used to repay certain types of loans as well as national taxes (BCRA 2003). 
+
+The decree also granted broad-based liquidity assistance in Argentine pesos to financial institutions that intended to subscribe to these securities to allow them to meet depositor demands. In order to be granted an advance, financial institutions needed to provide eligible collateral to the BCRA, which included specific government bonds, guaranteed loans to the Argentine government, certain provincial public sector debts, and other financing to the private sector at the discretion of the BCRA and MDE (Argentina 2002c; BCRA 2003). 
+
+The government established a broad-based capital injection program to compensate financial institutions for imbalances in their balance sheets resulting from asymmetric pesoization (IMF 2003b) _._ On May 31, 2002, President Duhalde issued Decree 905/2002: Per Article 28 of this decree, financial institutions would receive government bonds as compensation for their losses stemming from the conversion. Article 29 established the nature of this compensation, which included access to BODEN bonds in US dollars at a favorable rate for the amount of an institution’s negative net equity position as of December 2001 with the corresponding pesoization applied (Argentina 2002d; BCRA 2003). 
+
+## **Aid from the Inter-American Development Bank and World Bank** 
+
+In March 2002, the World Bank agreed to redirect USD 100 million worth of previous loans to Argentina to be used for emergency healthcare and education (Price 2002). That same month, the Inter-American Development Bank (IADB) agreed to a similar arrangement, redirecting USD 694 million worth of previous loans to Argentina to help the country rebuild its social services. Although these loans were substantially smaller than the scheduled payments from the IMF’s previous SBA, the IADB president stated that redirection of funds would allow Argentina’s government to alleviate “precarious social conditions” resulting from the banking crisis (Central Banking 2002a). In July 2002, the IMF gave Argentina an 
+
+
+extension on repayment of its loans to prevent the country from defaulting on its new loan from the IADB (Central Banking 2002b). 
+
+On February 5, 2003, the IADB agreed to authorize a larger “fast-disbursing” loan of USD 1.5 billion to Argentina to support a social-protection program. The program, prepared in consultation with the World Bank and IMF, restructured the previous IADB loan and made USD 145 million available for immediate disbursement. The loan was for a five-year term, with a three-year grace period, at a variable interest rate of the six-month LIBOR dollar rate plus 400 basis points (Price 2002). 
+
+**3. Legal Authority: Argentina’s National Constitution authorized the president to issue decrees restricting demand and term deposits through emergency powers. Throughout the crisis, courts issued injunctions ordering that depositors be fully repaid, contradicting the government’s orders. The Federal Court of Appeals also found the demand deposit restrictions and parts of asymmetric pesoization unconstitutional in a limited court ruling.** 
+
+Sections 1 to 3 of Article 99 of the National Constitution authorized the president to issue decrees out of “necessity and urgency” with the endorsement of the Cabinet of Ministers when “exceptional circumstances” make it impossible to follow the regular procedures for passing laws (Argentina 1853, 15–16). 
+
+On December 1, 2001, President de la Rúa relied on these constitutional provisions to issue Decree 1570/2001 in response to a widespread run on the Argentine banking system. Article 2 of the decree prohibited cash withdrawals exceeding ARS 250 per week by individual or joint account holders at any institution and transfers abroad that did not pertain to payment of foreign trade expenses (Argentina 2001a). On December 5, 2001, President de la Rúa issued Decree 1606/2001, exempting certain transactions from the restrictions set forth in Decree 1570/2001 and authorizing the BCRA to establish further exemptions. Transactions exempted from the scope of Decree 1570/2001 included cash withdrawals: 
+
+- To cover the payment of salaries; 
+
+- To meet the payment of retirement benefits by nonbank entities; 
+
+- By exchange houses for their regular operations; 
+
+- Of funds deposited after the enactment of Decree 1750/2001; and 
+
+- Other transactions authorized by the BCRA. (Argentina 2001b) 
+
+On January 9, 2002, President Duhalde issued Decree 71/2002, detailing the end of the convertibility regime. Article 5 of this decree conferred on MDE the power to regulate the mode of disposition for depositors whose accounts were subject to withdrawal restrictions per Decree 1570/2001 (Argentina 2002a; BCRA 2003). The same day, the MDE used this new authority to issue Resolution 6/2002, which rescheduled time deposits under different timetables for savings banks and nonwage or pension savings banks and raised the 
+
+
+withdrawal limit on demand deposits to ARS 300 per week per account holder at each financial institution and to ARS 1,500 per month for pensioners (MDE 2002a). 
+
+On January 30, 2002, Argentina’s Congress passed law 25, 563, which: 
+
+- Declared a national credit emergency lasting until December 10, 2003; 
+
+- Granted the president broad authority of the reorganization of the financial system; 
+
+- Restricted the ability of financial institutions to recover private sector debts in default (BCRA 2003; Congress 2002a). 
+
+Article 16 of Law 25,563 suspended the execution of judicial and extrajudicial proceedings for 180 days regarding the collection of assets deemed indispensable to the continuity of the debtor’s activities (BCRA 2003, 9) On February 4, 2002, President Duhalde issued Decree 214/2002, requiring the asymmetric pesoization of bank assets and liabilities (Argentina 2002b). 
+
+Throughout the crisis, nearly 200,000 cases were filed in Argentine courts by depositors seeking the release of their accounts from the withdrawal restrictions. Courts awarded depositors the rights to withdraw funds totaling over ARS 14 billion through injunctions (Ennis and Keister 2009). 
+
+On July 24, 2002, President Duhalde issued Decree 1316/2002, which ordered a 120 working day suspension of the execution of court-ordered injunctions seeking to restore depositors’ access to their entire accounts. This decree made exceptions for injunctions sought by individuals over 75 years old and in cases with sufficient reasons endangering the life, health or physical integrity of persons. In these cases, the BCRA was required to process and comply with judicial mandates within five working days (Argentina 2002e). Following a series of lower court rulings, on September 13, 2002, the Argentine Federal Court of Appeals found both the demand deposit restrictions and the 120 working day suspension of injunctions to be unconstitutional (IMF 2003c). 
+
+However, legal ambiguity persisted surrounding the asymmetric pesoization _._ On March 5, 2003, the Argentine Supreme Court found the compelled conversion unconstitutional in a limited ruling affecting only current rescheduled deposits (roughly ARS 12.6 billion at the time). While limited in scope, per the World Bank, this decision forced the government to offer additional opportunities for account holders to enter into voluntary swap agreements for the value of their rescheduled time deposits on March 20, 2003. Key features of the Supreme Court’s ruling included that: 
+
+- The conversion of deposits (although not bank assets) to Argentine pesos was deemed unconstitutional; 
+
+- The banks (rather than the Argentine Republic) were found to be responsible for repaying depositors; 
+
+
+- The ruling excluded previous voluntary transactions such as withdrawals; and 
+
+- A 60-day negotiation period before the courts would rule on dispensation. (Gutierrez and Montes-Negret 2004). 
+
+The Supreme Court ruling did not specify the timing, terms, or means of repayment (Gutierrez and Montes-Negret 2004). 
+
+## **4. Administration: The BCRA administered the terms of the demand deposit restrictions. The MDE set the timetables for the rescheduling of term deposits.** 
+
+The initial presidential decree vested the BCRA with the authority to establish rules necessary to enforce the demand deposit restrictions while ensuring that citizens could access a baseline of financial services (Argentina 2001a). Four days after the initial decree, the president issued a second decree (1606/2001), clarifying the terms of the restrictions, exempting certain transactions from the restrictions, and giving the BCRA the authority to set further exemptions going forward (Argentina 2001b). 
+
+The presidential decree ending Argentina’s convertibility regime from January 9, 2001, gave the MDE authority to reschedule term deposits (MDE 2002a; Argentina 2002a). The same day, MDE issued a new schedule for the maturities of term deposits in the Argentina banking system. For more details regarding the rescheduling of term deposits, see Key Design Decision No. 7, Details of Suspension, Gates, or Fees. 
+
+## **5. Governance: The president issued the restrictions on demand deposit withdrawals via emergency decree, delegating authority to the BCRA and MDE to implement the restrictions.** 
+
+In his initial decree, the president cited the imminent nature of the crisis as grounds to implement the demand deposit withdrawal restrictions without waiting for the congressional approval (Argentina 2001a). The president also used the emergency powers of the executive to issue the decree freezing the execution of injunctions of 120 working days (Argentina 2002e). Ultimately, Argentina’s Federal Court of Appeals found both measures, along with the asymmetric conversion of bank assets and liabilities to Argentine pesos, to be unconstitutional upon review (IMF 2003b). 
+
+Article 10, Section i of the BCRA’s 1992 original charter required the president of the BCRA to submit an annual report on its activities to the Congress and appear before the Budget and Finance Committees of both chambers of Congress in public and joint sessions at least once during each legislative session to report on the BCRA’s monetary, exchange, and financial policies (BCRA 1992). 
+
+
+**6. Communication and Disclosure: The president and minister of economy made speeches and released statements saying the deposit restrictions would restore consumer confidence, bring down interest rates, and preserve convertibility.** 
+
+The initial announcement of the restrictions on demand deposit withdrawals took the form of a presidential decree: Per this decree, the restrictions were necessary to remove the risk of a systemic financial crisis and were only expected to last for 90 days, or until Argentina had finished its debt restructuring (Argentina 2001a; Lyons, Plumb, and Murphy 2001). 
+
+On December 1, 2001, during a press conference on the restrictions on demand deposit withdrawals, Minister Cavallo said, “Everything that we do will be to protect the savings of Argentines, to preserve convertibility, to preserve the one-to-one rate so that the economy can function well” (Lyons, Plumb, and Murphy 2001). In a televised address the following day, Minister Cavallo argued these measures would restore consumer confidence and bring down interest rates; however, per _Bloomberg,_ these statements failed to reassure markets (Lyons and Plumb 2001). 
+
+**7. Details of Holidays, Suspension, or Gates: Initially, the Argentine authorities placed a freeze on withdrawals of demand deposits exceeding ARS 250 or USD 250 per week, raising the limit throughout the crises. The MDE also rescheduled term deposits in the banking system, pushing back maturity dates to 2002–2003.** 
+
+Under the terms of the initial decree (1570/2001) from December 1, 2001, withdrawals were limited to ARS 250 or USD 250 per account per week by individual or joint account holders at each financial institution. Banks were also restricted from issuing loans in USD, and foreign exchange could not be transferred abroad without BCRA authorization (Argentina 2001a). On December 5, 2001, the president issued a second decree (1606/2001) exempting transactions needed to meet certain obligations (payroll, retirement benefits, etc.) from the restrictions. For a full list of these exceptions, see Key Design Decision No. 3, Legal Authority. 
+
+On January 9, 2002, the MDE raised the limit on all accounts to ARS 300 per week per account holder at each institution, with a provision allowing account holders receiving social security benefits to withdraw up to ARS 1,500 per month (IMF 2003b; MDE 2002a). If left undrawn, permitted withdrawals were cumulative (MDE 2002a). The MDE also allowed legal entities with demand accounts in USD to convert their balance to Argentine pesos at a rate of ARS 1.4 per USD. Individuals with demand accounts in USD could convert up to a certain amount of their balance at this rate, with the remainder to be rescheduled as if it were a time deposit and paid in installments according to a set schedule (BCRA 2003). On December 31, 2002, MDE raised the withdrawal limit to ARS 500 per week for current accounts held by natural persons and for all accounts at savings banks (MDE 2002b). For a figure of the changes in withdrawal limits during the crisis, see Figure 3. 
+
+
+[FIGURE id=vol7_iss2_3_f3 type=figure label="Figure 3" file=figure_3.png caption="Withdrawal Limits Applicable to Savings Banks and Current Accounts"]
+### **Figure 3: Withdrawal Limits Applicable to Savings Banks and Current Accounts**
+
+|**_Date_**|**_Legal_**<br>**_Authority_**|**_Withdrawal limit per_**<br>**_account holder (natural_**<br>**_persons) per week*_**|**_Withdrawal limit per account_**<br>**_holder (legal entities) per_**<br>**_week*_**|
+|---|---|---|---|
+|December 1, 2001|Decree<br>1570/2001|ARS 250|ARS 250|
+|January 9, 2002|Resolution<br>6/2002|ARS 300|ARS 300|
+|October 31, 2002|Resolution<br>559/2002|ARS 500|ARS 300 for current accounts,<br>ARS 500 at savings banks|
+|December 2, 2002|Decree<br>1570/2001|Total amount|Total amount|
+|*Note: Permitted withdrawals rolled over and accumulated if not drawn in any previous week.||||
+
+
+
+_Sources: Argentina 2001a; MDE 2002a; MDE 2002b._ 
+
+The MDE’s resolution from January 9, 2002, also included a tentative timetable for when term deposits were to be rescheduled (MDE 2002a). On February 6, 2002, the MDE passed Resolution 42/2002, which established a definitive schedule for the rescheduling of term deposits, following the conversion of US dollar-denominated deposits to Argentine pesos (see Figure 4). 
+
+[FIGURE id=vol7_iss2_3_f4 type=figure label="Figure 4" file=figure_4.png caption="Rescheduling of Term Deposits under Resolution 42/2002"]
+### **Figure 4: Rescheduling of Term Deposits under Resolution 42/2002**
+
+|**Deposits Originally Denominated in US Dollars**|**Deposits Originally Denominated in US Dollars**|**Deposits Originally Denominated in US Dollars**|
+|---|---|---|
+|_Account size (ARS)_|_Months to recover funds_<br>_(consecutive and equal_<br>_installments)_|_Date accessible_|
+|1,200 to 7,000|12|January2003|
+|7,000 to 14,000|12|March 2003|
+|14,000 to 42,000|18|June 2003|
+|Greater than 42,000|24|September 2003|
+|**Deposits Originally Denominated in Argentine Pesos**|||
+|_Account size (ARS)_|_Months to recover funds_<br>_(consecutive and equal_<br>_installments)_|_Date accessible_|
+|400 to 10,000|4|March 2002|
+|10,000 to 30,000|12|August 2002|
+|Greater than 30,000|24|December 2002|
+
+
+
+_Sources:  BCRA 2003, 41; MDE 2002._ 
+
+On October 31, 2002, the BCRA issued a resolution to increase the limit on demand deposit withdrawals to ARS 500 per account per week from savings accounts regardless of the type of account holder and from demand deposit accounts whose holders were natural persons. Legal entities holding demand deposit accounts could still only withdraw ARS 300 per week per account. (IMF 2003b; MDE 2002b). 
+
+
+The government lifted the restrictions on demand deposits effective December 2, 2002. Term deposits were gradually released between October 2002 and 2003, ahead of the initial schedule announced by MDE. Account holders for term deposits were restored throughout 2002 and 2003 through voluntary swap agreements in which they received either cash payments (pesoized) or government bonds (BODEN) for the total value of their accounts (see Key Design Decision No. 2, Part of a Program) (EIU 2003; IMF 2003b). 
+
+**8. Treatment of Depositors or Investors: Depositor withdrawal limits remained effective for approximately a year, or slightly longer for term deposits. A significant number of depositors sued and were awarded the right to receive amounts above the withdrawal limits. Absent court-ordered injunctions, depositors were restored through voluntary swap agreements, receiving either cash payments in Argentine pesos or government bonds.** 
+
+Deposits of demand and term accounts were subject to withdrawal limits of various degrees beginning December 1, 2001 (for more information, see Key Design Decision No. 7, Details of Suspension, Gates, or Fees). After raising the demand deposit withdrawal limit several times throughout the duration of the intervention, the BCRA lifted all restrictions on demand deposits effective December 2, 2002 (IMF 2003b). 
+
+Restrictions on term deposits remained in place until early 2003. However, prior to termination of restrictions, term deposit account owners could access their funds by entering into a voluntary swap agreement pursuant to which they agreed to accept either cash payments (equal to the amount of the deposit converted to Argentine pesos under the February 2002 asymmetric pesoization) or government bonds of equal value (EIU 2003). 
+
+Throughout the periods when restrictions were in place for both demand and term deposit accounts, numerous account holders sued for access to their funds, and the courts awarded injunctions granting access beyond the general limits based on hardship. From December 2001 to June 2003, roughly 200,000 cases were filed in Argentine courts and a significant number of these cases were resolved in favor of the account holder. The courts awarded depositors payments totaling over ARS 14 billion or 21% of deposits as of March 2002 (Ennis and Keister 2009). The courts also granted that accounts originally denominated in USD be paid out at the prevailing market exchange rate, rather than at the government-prescribed conversion rate (IMF 2003b). 
+
+In response, President Duhalde issued a decree (1,306/2002) on July 24, 2002, staying the execution and compliance of court-ordered injunctions for 120 working days. The decree stipulated that these executions would be processed in chronological order at the end of the suspension period (BCRA 2003). On September 13, 2002, the Federal Court of Appeals declared the demand deposit restrictions, balance sheet pesoization, and 120 working day suspension of court-ordered withdrawals unconstitutional (IMF 2003b). 
+
+
+## **9. Verification of Solvency: The BCRA assessed the solvency of Argentina’s banking system in annual reports submitted to Congress.** 
+
+In December 2001, the BCRA suspended the minimum capital requirements for banks, citing the widespread crisis across the financial system. New capital requirements for banks took effect in January 2004. The 2003 BCRA annual report notes that, as of December 2003, the banking system displayed favorable indicators regarding capitalization, including total capital integration across the financial system equal to 4.5% of risk weighted assets under the new minimal capital requirements (BCRA 2004). 
+
+The BCRA’s annual reports to Congress included an assessment of the solvency of the Argentine banking system. The BCRA report for 2002 noted several factors during the crisis that substantially changed the composition of banks’ equity positions: 
+
+- The asymmetric pesoization and indexation of bank assets and liabilities; 
+
+- The rescheduling of deposits; 
+
+- The release of funds through court-ordered injunctions; and 
+
+- The compensation granted to banks in the form of government bonds. 
+
+The report concludes that these changes deteriorated the solvency and profitability of the Argentine banking system, and that the system had not normalized by year end (BCRA 2002). Per the report, net assets in real terms had declined 27% for private banks and 13% for public banks. The report also states that the BCRA’s external auditors, KPMG, issued a special report reviewing the calculations made by banks regarding the value of government bonds they expected to receive as compensation for losses from pesoization (BCRA 2003) _._ 
+
+## **10. Other Conditions: The decree restricting demand deposit withdrawals also placed constraints on foreign exchange, transfers abroad, and interest rates.** 
+
+The presidential decree that restricted demand deposit withdrawals also placed a host of other restrictions on Argentina’s financial system. The decree prohibited banks from granting loans in Argentine pesos, offering higher interest rates for deposits denominated in Argentine pesos compared to those in US dollars, and charging commission for conversions of Argentine pesos to US dollars or vice versa. The government also placed restrictions on foreign exchange and transfers abroad with the exemption of foreign trade operations, payment of expenses, or withdrawals abroad through credit or debit cards issued within Argentina (Argentina 2001a). 
+
+**11. Exit Strategy: On September 13, 2002, Argentina’s Federal Court of Appeals found the demand deposit restrictions, pesoization of bank assets and liabilities, and 120-day suspension of injunctions unconstitutional. The restrictions on demand** 
+
+
+## **deposits ended on December 2, 2002. Restrictions on term deposits were gradually lifted through 2002 and 2003.** 
+
+The decree regarding demand deposit restrictions from December 1, 2001, specified that the restrictions could be lifted once deposits in the Argentina banking system returned to their levels from September 30, 2001 (Lyons and Plumb 2001). Per _Bloomberg_ , the authorities initially planned to keep the restrictions in place until Argentina had finished restructuring its debt, expecting the measures to last only 90 days (Lyons, Plumb, and Murphy 2001). 
+
+Throughout 2002, the BCRA issued communications gradually dismantling some of the restrictions placed on demand and term deposits. In May 2002, as part of the reorganization of the financial system, the government implemented a scheme wherein depositors could choose to exchange rescheduled deposits for government BODEN bonds. The option for voluntary exchange was only available to depositors for a period of 30 days, closing on July 16, 2002 (BCRA 2003). 
+
+On September 13, 2002, the Federal Court of Appeals found the demand deposit restrictions, pesoization of bank assets and liabilities, and the 120 working day suspension of injunctions unconstitutional (IMF 2003c). The following week, the president issued a decree that permitted holders of rescheduled deposits with a balance of up to USD 7,000 as of May 31 (excluding the exchange rate adjustment) to transfer these funds to a demand account during the next 30 days; it also permitted private banks to extend this limit to up to USD 10,000 at their discretion. In addition, the government offered a second voluntary swap for rescheduled deposits with an expanded set of options.[4] Depositors could swap term deposits for BODEN with the additional guarantee of a put-back option if the value of the bonds fell below the value of the term deposit pesoized at the official rate from February 2002 (BCRA 2003). 
+
+On November 22, 2002, the MDE announced that the restrictions on demand deposits would be lifted effective December 2, 2002 (BCRA 2003; IMF 2003b). The restrictions on term deposits were gradually dismantled through the aforementioned voluntary swap agreements through mid-2003, with depositors receiving either cash payments in Argentine pesos or government bonds for the value of their accounts (EIU 2003). 
+
+An IMF report from September 2003, which authorized a new SBA arrangement for Argentina, noted several developments indicating improved public trust in the Argentine banking system. Per this report, in the first eight months of 2003, private sector deposits had risen by 15% and banking system liquidity had substantially improved (IMF 2003a). 
+
+**12. Regulatory Changes: The currency crisis brought about the end to Argentina’s convertibility regime, leading the BCRA to assume a newly independent role. Following the crisis, the government created a Financial System Restructuring** 
+
+> 4 The second swap was also available to account holders who had participated in the first swap. 
+
+
+## **Unit, agreed to implement new capital requirements for banks, and created a public trust to assume some nonperforming mortgages.** 
+
+The end of Argentina’s convertibility regime (a peg of ARS 1 to USD 1) in January 2002 led the BCRA to assume new responsibilities as an independent central bank. In a _Central Banking_ interview, former BCRA president Mario Blejer explained that the BCRA had to establish new guidelines for liquidity support for banks without increasing the monetary supply to the point of hyperinflation (Central Banking 2002c). To create a market where the central bank could conduct open market operations and absorb excess liquidity, the government also created new public debt securities (called BODEN bonds). For more details about these bonds, see Key Design Decision No. 2, Part of a Package. 
+
+During the crisis, Argentina lacked an institution formally charged with restructuring. In May 2003, the government created a Financial System Restructuring Unit comprised of members of the MDE and BCRA for the purpose of establishing a medium-term plan for the restructuring of the Argentine banking system (MDE 2003). However, a report from the _Economist Intelligence Unit_ from December 2003 noted that no formal role had been defined for this agency (EIU 2003). 
+
+During negotiations between Argentina and the IMF in September 2003, the BCRA also agreed to implement new capital requirements for banks throughout 2004 (EIU 2003). Pursuant to these negotiations, the IMF agreed to authorize a new three-year SBA of Special Drawing Rights 9 billion (424% of quota) for Argentina as part of a plan to help the country in “reestablishing sustained growth and reducing widespread poverty” (IMF 2003a). 
+
+Following the crisis, Argentina also faced high levels of nonperforming loans across the banking system. As of September 2003, 53% of the country’s total public debt (roughly USD 100 billion) and approximately 65% of private corporate debt (roughly USD 50 billion) was nonperforming. In response, the government created a public trust to assume responsibility for nonperforming mortgages over ARS 100 thousand for a single residence to protect debtors from foreclosure (EIU 2003). However, per the IMF, this covered a relatively small group of mortgages (IMF 2003a). 
+
+
+## **References and Key Program Documents** 
+
+## **Summary of Program** 
+
+(Argentina 2001a) Argentine Republic (Argentina). 2001a. Decree 1570/2001. _Decree authorizing the restriction of deposit withdrawals and transfers overseas (in Spanish)_ . https://elischolar.library.yale.edu/ypfs-documents2/4750 
+
+## **Implementation Documents** 
+
+(MDE 2002a) Ministry of Economy (MDE). 2002a. Resolution 6/2002. _Ministry of Economy decree reprogramming term deposits (in Spanish)_ . https://elischolar.library.yale.edu/ypfs-documents2/4747 
+
+(MDE 2002b) Ministry of Economy (MDE). 2002b. Resolution 559/2002. _Ministry of Economy decree raising withdrawal restrictions on all account holders at savings banks and current accounts of natural persons to ARS 500 per week (in Spanish)_ . https://elischolar.library.yale.edu/ypfs-documents2/4746 
+
+(MDE 2003) Ministry of Economy (MDE). 2003. Decree 1262/2003. _Ministry of Economy decree creating the Financial System Reconstruction Unit (in Spanish)_ . https://elischolar.library.yale.edu/ypfs-documents2/4748 
+
+## **Legal/Regulatory Guidance** 
+
+(Argentina 1853) Argentine Republic (Argentina). 1853. National Constitution of Argentina. 
+
+_National Constitution of the Republic of Argentina_ . https://elischolar.library.yale.edu/ypfs-documents2/4712 
+
+(Argentina 2001b) Argentine Republic (Argentina). 2001b. Decree 1606/2001. _Decree excluding cash withdrawals for salaries, retirement benefits, and pensions from the deposit freeze (in Spanish)_ . 
+
+https://elischolar.library.yale.edu/ypfs-documents2/4751 
+
+(Argentina 2002a) Argentine Republic (Argentina). 2002a. Decree 71/2002. _Decree ending convertibility and authorizing emergency powers for BCRA and MDE (in Spanish)_ . 
+
+https://elischolar.library.yale.edu/ypfs-documents2/4755 
+
+(Argentina 2002b) Argentine Republic (Argentina). 2002b. Decree 214/2002. _Decree requiring the asymmetric conversion of bank assets and liabilities from US dollars to Argentine pesos (in Spanish)_ . 
+
+https://elischolar.library.yale.edu/ypfs-documents2/4753 
+
+
+(Argentina 2002c) Argentine Republic (Argentina). 2002c. Decree 494/2002. _Decree issuing BODEN bonds and unfreezing term deposits through voluntary swap agreements (in Spanish)_ . 
+
+https://elischolar.library.yale.edu/ypfs-documents2/4754 
+
+(Argentina 2002d) Argentine Republic (Argentina). 2002d. Decree 905/2002. _Decree compensating financial institutions for losses from asymmetric pesoization (in Spanish)_ . 
+
+https://elischolar.library.yale.edu/ypfs-documents2/4756 
+
+(Argentina 2002e) Argentine Republic (Argentina). 2002e. Decree 1316/2002. _Decree suspending court-ordered injunctions of depositor funds for 120 working days (in Spanish)_ . 
+
+https://elischolar.library.yale.edu/ypfs-documents2/4752 
+
+(BCRA 1992) Central Bank of the Argentine Republic (BCRA). 1992. “Charter of the Central Bank of the Argentine Republic,” 1992. 
+
+_Charter of the BCRA (in Spanish)_ . 
+
+https://elischolar.library.yale.edu/ypfs-documents2/4727 
+
+(Congress 2002a) National Congress of Argentina (Congress). 2002a. Law 25,563. _Law curtailing the rights of Argentine creditors (in Spanish)_ . https://elischolar.library.yale.edu/ypfs-documents2/4735 
+
+(Congress 2002b) National Congress of Argentina (Congress). 2002b. Law 25,587. _Law reforming court procedures for the unfreezing of depositor accounts (in Spanish)_ . https://elischolar.library.yale.edu/ypfs-documents2/4736 
+
+## **Media Stories** 
+
+(Blustein 2003) Blustein, Paul. 2003. “Argentina Didn’t Fall on Its Own,” _Washington Post_ , August 2, 2003. 
+
+_News article on Argentina’s sovereign debt default_ . https://elischolar.library.yale.edu/ypfs-documents2/4731 
+
+(Central Banking 2002a) Central Banking. 2002a. “Aid Returns to Argentina,” March 28, 2002. 
+
+_News report on the IADB’s aid package to Argentina following the withdrawal of IMF support_ . https://elischolar.library.yale.edu/ypfs-documents2/4732 
+
+(Central Banking 2002b) Central Banking. 2002b. “Argentina Overcomes Debt Hurdle for Now,” July 16, 2002. 
+
+_News report on the IMF’s decision to grant a one-year extension on the repayment of a loan to Argentina_ . 
+
+https://elischolar.library.yale.edu/ypfs-documents2/4733 
+
+
+(Central Banking 2002c) Central Banking. 2002c. “Interview: Mario Blejer,” August 12, 2002. 
+
+_Interview with Mario Blejer, former president of the BCRA, about Argentina’s currency crisis_ . https://elischolar.library.yale.edu/ypfs-documents2/4734 
+
+(EIU 2003) Economist Intelligence Unit (EIU). 2003. “Argentina Economy: Reforming the Banking Sector.” No. 301, December 24, 2003. 
+
+_Article on reforms to Argentina’s banking sector following the 2001–03 crisis_ . https://elischolar.library.yale.edu/ypfs-documents2/4737 
+
+(Lyons and Plumb 2001) Lyons, John, and David Plumb. 2001. “Argentina Bonds Dive as Government Curbs Withdrawals,” _Bloomberg News_ , December 3, 2001. _News wire on the market response to Argentina’s withdrawal restrictions_ . https://elischolar.library.yale.edu/ypfs-documents2/4745 
+
+(Lyons, Plumb, and Murphy 2001) Lyons, John, David Plumb, and  Helen Murphy. 2001. “Argentina to Limit Withdrawals, Overseas Transfers,” _Bloomberg News_ , December 1, 2001. _News wire on the announcement of depositor withdrawal restrictions_ . https://elischolar.library.yale.edu/ypfs-documents2/4744 
+
+(Price 2002) Price, Elizabeth. 2002. “Argentina to Redirect IDB Loans to Emergency Programs,” _Dow Jones International News_ , March 11, 2002. 
+
+_News report on the IADB and World Bank’s redirection of previous loans to Argentina_ . https://elischolar.library.yale.edu/ypfs-documents2/4749 
+
+## **Reports/Assessments** 
+
+(BCRA 2002) Central Bank of the Argentine Republic (BCRA). 2002. Annual Report 2001. _BCRA’s annual report for 2001 (in Spanish)_ . 
+
+https://elischolar.library.yale.edu/ypfs-documents2/4728 
+
+(BCRA 2003) Central Bank of the Argentine Republic (BCRA). 2003. Annual Report 2002. _BCRA’s annual report for 2002 (in Spanish)_ . 
+
+https://elischolar.library.yale.edu/ypfs-documents2/4729 
+
+(BCRA 2004) Central Bank of the Argentine Republic (BCRA). 2004. Annual Report 2003. _BCRA’s annual report for 2003 (in Spanish)_ . 
+
+https://elischolar.library.yale.edu/ypfs-documents2/5144 
+
+(IMF 2003a) International Monetary Fund (IMF). 2003a. “Request for Stand-By Arrangement and Request for Extension of Repurchase Expectations,” IMF Country Report No 03/392, December 2003. 
+
+_IMF authorization of a 2003–2006 SBA for Argentina_ . 
+
+https://elischolar.library.yale.edu/ypfs-documents2/4742 
+
+
+(IMF 2003b) International Monetary Fund (IMF). 2003b. “Lessons from the Crisis in Argentina,” October 8, 2003. 
+
+_IMF report on the lessons learned from Argentina’s 2001 banking systemwide crisis_ . https://elischolar.library.yale.edu/ypfs-documents2/4741 
+
+(IMF 2003c) International Monetary Fund (IMF). 2003c. “Argentina: 2002 Article IV Consultation.” IMF Country Report No. 03/226, July 2003. 
+
+_IMF staff report including a statement by the authorities of Argentina and a public information notice summarizing views of the IMF Executive Board_ . https://elischolar.library.yale.edu/ypfs-documents2/4740 
+
+(IMF 2004) International Monetary Fund (IMF). 2004. “The IMF and Argentina, 1991– 2001.” Evaluation Report, 2004. 
+
+_Independent Evaluation Office report on the role of the IMF during Argentina’s 2001 financial crisis_ . 
+
+https://elischolar.library.yale.edu/ypfs-documents2/4743 
+
+(Saxton 2003) Saxton, Jim. 2003. “Argentina’s Economic Crisis: Causes and Cures.” United States Congress Joint Economic Committee, June 2003. 
+
+https://elischolar.library.yale.edu/ypfs-documents2/4757 
+
+## **Key Academic Papers** 
+
+(Barajas et al. 2007) Barajas, Adolfo, Emiliano Basco, V. Hugo Juan-Ramón, and Carlos Quarracino. 2007. “Banks during the Argentine Crisis: Were They All Hurt Equally? Did They All Behave Equally?” _IMF Staff Papers_ 54, no. 4, 2007. 
+
+_IMF working paper on the experience of Argentine banks during the 2001–2002 crisis_ . https://elischolar.library.yale.edu/ypfs-documents2/4730 
+
+(Ennis and Keister 2009) Ennis, Huberto M, and Todd Keister. 2009. “Bank Runs and Institutions: The Perils of Intervention.” _American Economic Review_ 99, no. 4, September 2009. 
+
+_Academic paper on efficient policy responses to a run on the banking system and the incentives these responses create_ . 
+
+https://elischolar.library.yale.edu/ypfs-documents2/4738 
+
+(Gutierrez and Montes-Negret 2004) Gutierrez, Joaquin G., and Fernando Montes-Negret. 2004. “Argentina’s Banking System: Restoring Financial Viability.” Working Paper N.2/04, January 2004. 
+
+_Paper on Argentina’s financial viability from the World Bank office for Argentina, Chile, Paraguay, and Uruguay_ . 
+
+https://elischolar.library.yale.edu/ypfs-documents2/4739 
+
+
+(Nataraj and Sahoo 2003) Nataraj, Geethanjali, and Pravakar Sahoo. 2003. “Argentina’s Crisis: Causes and Consequences.” _Economic and Political Weekly_ 38, no. 17, 2003. _Paper on Argentina’s susceptibility to external large shocks leading up to the 2001–2002 crisis_ . 
+
+https://elischolar.library.yale.edu/ypfs-documents2/4725 
+
+(Setser and Gelpern 2006) Setser, Brad, and Anna Gelpern. 2006. “Pathways Through Financial Crisis: Argentina.” _Global Governance_ 12, no. 4, 2006. 
+
+_Paper on Argentina’s evolving relationship with the IMF throughout the 2001–2002 crisis_ . https://elischolar.library.yale.edu/ypfs-documents2/4726 
+
+(Wiggins et al. 2025) Wiggins, Rosalind Z., Owen Heaphy, Anmol Makhija, Stella ShaeferBrown, Greg Feldberg, and Andrew Metrick. 2025. “Survey of Bank Holidays and Fund Suspensions.” _Journal of Financial Crises_ 7, no. 2. 
+
+_Survey of YPFS case studies examining bank holidays and mutual fund suspensions_ . https://elischolar.library.yale.edu/journal-of-financial-crises/vol7/iss2/1/ 
+
+Copyright 2025 © Yale University. All rights reserved. To order copies of this material or to receive permission to reprint any or all of this document, please contact the Yale Program on Financial Stability at ypfs@yale.edu.

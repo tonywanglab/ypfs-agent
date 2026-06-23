@@ -1,0 +1,51 @@
+## Yale Program on Financial Stability Lessons Learned 
+
+## Fabrizio López-Gallo 
+
+By Mercedes Cardona 
+
+_Fabrizio López-Gallo served as the Bank of Mexico’s director general of financial stability during the COVID-19 pandemic, having been financial sector specialist and risk analysis and special projects manager for the central bank during the 2007–09 Global Financial Crisis (GFC). The Mexican government declared a health emergency at the outbreak of the pandemic and implemented a general economic shutdown. The Bank of Mexico intervened by cutting rates and initiating extraordinary measures, such as adding bond swaps and loosening rules for minimum deposits at commercial banks to provide liquidity. It gave flexibility to commercial banks to grant forbearance on mortgage payments and other loans. López-Gallo was responsible for the development and oversight of strategies, research, and policy recommendations on financial stability. He was also the executive secretary of the Financial System Stability Council and a member of the Basel Committee on Banking Supervision. This Lessons Learned summary is based on an interview with López-Gallo held in September 2022; the full transcript is available here._ 
+
+## **Question your assumptions. Traditional economic modeling could miss a major shift.** 
+
+Economic and statistical models are based on historical data, so they may not reveal new evolutionary jumps, such as the collapse of the subprime mortgage market that sparked the Global Financial Crisis. Models fell short in forecasting the GFC, said López-Gallo, because they were based on assumptions that the economy would behave as it had in the past. But in the case of the GFC, he shared, there was no historical precedent for the events that occurred, and the data was incomplete: The “correlation of all the relevant housing markets in the US [that led to the collapse of the subprime mortgage market] had been almost absent.” 
+
+I think that most of the assumptions were based on independence [separation] between the securities and the banks. And one of the things that we didn’t know at the global level, but we did know at the Mexican level, was how interconnected the financial system was. And when you have interconnections, you lose this independence. But given that there was no clarity whatsoever about how interconnected the global financial system was and how trouble was brewing for a while, then when everything went down with Lehman’s demise, suddenly that was a wake-up call for everyone. 
+
+In general, López-Gallo warned, bubbles, like the housing bubble before the GFC, are quite hard to predict, because they generally don’t manifest as bubbles until they are ready to collapse. While the models are useful tools, it pays to supplement their assumptions with current observations. He explained: 
+
+I always tend to think that econometrics and statistical modeling are great tools, but you have to be mindful of the assumptions that you make when you are adjusting these models. And one of the assumptions is that of a pretty well-behaved data 
+
+
+generating process that will behave in the future as it has behaved in the past. But this is not the case. My point is: This does not mean that you have to throw away all your models and not trust them. You just have to be mindful that the tail may be heavier than you would expect during normal times. I think the statistical models, the econometric models work fine most of the time, but when you face a crisis, then they don’t work. 
+
+## **You don’t know what you don’t know. Don’t underestimate cross-border linkages.** 
+
+Mexico and the United States have long been tight economic partners. “Decoupling” had been a buzzword in financial circles for a while before the GFC and continues today, related LópezGallo. Mexico is building trade partnerships with many foreign markets besides the United States, but its economy remains very closely linked to its northern neighbor. 
+
+Financial authorities in Mexico thought the initial reports of toxic assets in institutions like BNP Paribas in France and Bear Stearns in the United States were a contained problem that might cause some pain in the specific regions surrounding these institutions but did not foreshadow negative spillovers into emerging markets. For López-Gallo, this was predicated on Mexico’s experience following the Tequila Crisis in the 1990s. Mexico had made a number of changes to increase visibility into the workings of its financial system, especially its banks, and, at the start of the GFC, its economy seemed more stabilized. 
+
+But regulators would soon find out what they didn’t know. Despite the increased regulation and transparency of banks, there still was limited transparency of the balance sheets of nonfinancial companies, which turned out to be a blind spot where counterparty risks were hiding. When a number of nonfinancial companies began to feel the crush of margin calls on the exotic derivatives they were holding, it disrupted the Mexican foreign exchange markets. At that point, Mexican regulators knew that things were not as decoupled as they at first believed. López-Gallo provided an example: 
+
+We had a corporation that runs a chain of supermarkets, and it was dealing with exotic derivatives, and when the volatility after the Lehman mishap happened, then conditions in the financial markets in Mexico started to go really, really bad. Volatility increased a lot, causing these nonfinancial entities to have considerable margin calls, and, in fact, they went under for a while. 
+
+After the GFC, Mexico has continued to press for decoupling and now has the most free-trade agreements of any country in the world, but its connection with the United States remains strong. It had almost fully recovered from the GFC when the combination of Brexit and a change in the political environment in the United States, including talk of renegotiating the North American Free Trade Agreement, led to several quarters of stagnant growth starting in 2018. It was in this challenging environment that Mexico faced the outbreak of the COVID19 pandemic. 
+
+**Act early, quickly, and decisively when tackling a crisis. It’s easier to walk things back than get them going.** 
+
+
+Mexico declared a state of emergency in February 2020 as COVID-19 cases increased. Although the government did not deliver direct stimulus payments to households and businesses to spur the economy, the Bank of Mexico did roll out a wide series of liquidity and funding facilities to enable the financial system to support any needs coming from the private sector and small businesses and households. The emphasis on fiscal discipline played favorably for Mexico among international markets, especially compared with other emerging markets, López-Gallo explained: 
+
+As in the US, most of these facilities were not fully used but were appreciated. I think giving banks the option of tapping these facilities, if needed, helped a lot. And it was a positive signal in terms [of conveying] that the central bank was ready to jump in according to their legal mandate. 
+
+Having a tool kit in advance and not being afraid to use it inspires confidence, he explained. 
+
+It’s fundamental. For sure. And for the future, we know that we have this tool kit and we will use it if needed. Part of the message to the market is that we will have it to use if, and when, it’s needed. Always, there is the worry of moral hazard. Markets should not assume that the central bank will be there always to help them in case they run into trouble. They have to be responsible. An idiosyncratic shock is not a systemic shock, and I’m not sure whether all financial intermediaries are mindful of that. 
+
+It’s best to err on the side of caution and act swiftly and strongly early on, as soon as the crisis becomes apparent, but also to maintain some flexibility, said López-Gallo. He elaborated: 
+
+In a crisis episode, mistakes will be made, but you have to go ahead and also be flexible. If something that you thought would work is not working, [you have] to steer [away from it]. I think one of the important things is that you don’t have to stick to a route if it is not taking you to the place that you think you should be. So, decisiveness, quickness, and flexibility, I think, are very important. And also, do not forget about previous episodes. 
+
+Dated: April 2025 
+
+YPFS Lessons Learned No: 2022–20

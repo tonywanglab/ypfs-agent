@@ -1,0 +1,230 @@
+## Basel III B: Basel III Overview[1] 
+
+_Christian M. McNamara[2] Michael Wedow[3] Andrew Metrick[4]_ 
+
+Yale Program on Financial Stability Case Study 2014-4a-v1 November 1, 2014, Revised: January 22, 2020 
+
+## **Abstract** 
+
+In the wake of the financial crisis of 2007-09, the Basel Committee on Banking Supervision (BCBS) faced the critical task of diagnosing what went wrong and then updating regulatory standards aimed at preventing it from occurring again. In seeking to strengthen the microprudential regulation associated with the earlier Basel Accords while also adding a macroprudential overlay, Basel III consists of proposals in three main areas intended to address 1) capital reform, 2) liquidity standards, and 3) systemic risk and interconnectedness. This case considers the causes of the 2007-09 financial crisis and what they suggest about weaknesses in the Basel regime as it then existed. It then summarizes the provisions of Basel III to allow for an evaluation of whether it was an effective response to the causes of the financial crisis. 
+
+1  This module is one of seven produced by the Yale Program on Financial Stability (YPFS) examining issues related to Basel III. The other modules in this series are: 
+
+- _Basel III A: Regulatory History_ 
+
+- _Basel III C: Internal Risk Models._ 
+
+- _Basel III D: The Swiss Finish to Basel III_ 
+
+- _Basel III E: Synthetic Financing by Prime Brokers_ 
+
+- _Basel III F: Callable Commercial Paper_ 
+
+- _Basel III G: Shadow Banking and Project Finance_ 
+
+Cases are available from the Journal of Financial Crises. 
+
+> 2 Director, New Bagehot Project and Senior Editor, Yale Program on Financial Stability (YPFS), Yale School of Management. 
+
+3  Principal Expert, European Central Bank, Directorate Financial Stability, Financial Services Policy Division. **This co-author’s contribution represents his personal opinions and does not necessarily reflect the views of the European Central Bank or its staff.** 
+
+> 4  Janet L. Yellen Professor of Finance and Management, and YPFS Program Director, Yale School of Management. 
+
+
+## **1.  Introduction** 
+
+In the wake of the financial crisis of 2007-09, the Basel Committee on Banking Supervision (BCBS) faced the critical task of diagnosing what went wrong and then updating regulatory standards aimed at preventing it from occurring again. In seeking to strengthen the microprudential regulation associated with the earlier Basel Accords while also adding a macroprudential overlay, Basel III consists of proposals in three main areas intended to address the critical factors the BCBS identified as contributing to the financial crisis: 
+
+1. That troubled banks held an inadequate amount of capital and that the capital they did hold was of an insufficient quality (Capital Reform) 
+
+2. That even adequately capitalized banks experienced difficulties due to insufficient liquidity (Liquidity Standards) 
+
+3. That the interconnectedness of financial institutions transmitted shocks across the financial system and the broader economy (Systemic Risk and Interconnectedness) 
+
+Each of these three areas is examined in greater detail in the subsequent sections of this module. The discussion focuses on Pillar 1 of the Basel framework. (For an overview of Pillars 2 and 3 of the Basel framework, see YPFS Case Study McNamara, et al 2014A.) 
+
+**Capital Reform:** Under Basel III, banks must improve both the quantity and quality of their capital. The minimum ratio of common equity to risk-weighted assets (RWA) has been increased from 2% to 4.5%, with total capital required to represent at least 8% of RWA. A capital conservation buffer of 2.5% and a countercyclical buffer of between 0% and 2.5% have also been introduced. Additionally, Basel III establishes a leverage ratio requiring banks to maintain Tier 1 capital that is at least 3% of total exposure. 
+
+**Liquidity Standards:** Basel III introduces two new liquidity measurements. Under the Liquidity Coverage Ratio, banks must maintain a sufficient quantity of high-quality liquid assets to cover expected outflows in a 30-day stressed funding scenario. The Net Stable Funding Ratio, on the other hand, compares available funding sources with the funding needs associated with the banks’ assets and exposures. In addition to these standards, Basel III introduces several liquidity monitoring tools for banks to use on an ongoing basis to report information to regulators. 
+
+**Systemic Risk and Interconnectedness:** Basel III includes several measures aimed at addressing the threat of contagion given the interconnectedness that exists in the financial markets. Higher capital requirements have been given to systemic derivatives and interfinancial exposures, and a capital surcharge of 1% to 2.5% in common equity has been introduced for banks deemed systemically important. Additionally, the BCBS has established a Large Exposure Framework that limits the exposure an internationally active bank can have to a single counterparty. 
+
+The remainder of the case is organized as follows: Section 2 provides an overview of the updated risk-based capital requirements established by Basel III. Section 3 outlines the leverage ratio intended to serve as a backstop to the risk-based capital requirements. Section 4 introduces the new liquidity standards that Basel III has made a part of the Basel framework. Section 5 discusses the provisions of Basel III targeted at the systemic risk stemming from interconnectedness. 
+
+
+## **Questions** 
+
+1. What were the causes of the 2007-09 financial crisis, and what do those causes suggest about weaknesses in the Basel regime as it then existed? 
+
+2. Is Basel III an effective response to the causes of the financial crisis? 
+
+## **2. Capital Reform—Risk-Based Capital Requirements** 
+
+In the wake of the financial crisis, the BCBS concluded both that troubled banks held an inadequate amount of capital and that the capital they did hold was of an insufficient quality. To combat this, Basel III requires banks improve both aspects of their capital base. 
+
+Basel III’s emphasis on improved quality revolves around a refinement of the tiered approach to defining capital introduced by Basel I and carried forward by Basel II. Under Basel III, “Tier 1 Capital” is intended to allow a bank to remain a going concern by absorbing significant losses while remaining solvent. To accomplish this, the Basel III framework calls for the majority of Tier 1 Capital to be common equity. This is reflected in the updated minimum capital standards set forth in Basel III, which require banks to maintain “Common Equity Tier 1” of at least 4.5% of RWA and total Tier 1 Capital of at least 6.0% of RWA. 
+
+“Tier 2 Capital,” on the other hand, is considered “gone-concern capital” under Basel III and is intended to absorb losses to protect depositors in the event of insolvency. With Basel III’s elimination of Tier 3 Capital, Total Capital is defined as the sum of Tier 1 Capital and Tier 2 Capital and must equal at least 8.0% of RWA. (To review Basel III’s definition of Common Equity Tier 1, Tier 1 Capital, and Tier 2 Capital, see pages 12 through 28 of Bank for International Settlements rev. 2011.) 
+
+In addition to the minimum capital requirements outlined above, Basel III establishes two capital buffers: (1) a capital conservation buffer of Common Equity Tier 1 equal to 2.5% of RWA “which is designed to ensure that banks build up capital buffers outside periods of stress which can be drawn down as losses are incurred” and (2) a countercyclical buffer of Common Equity Tier 1 equal to between 0% and 2.5% of RWA (to be determined on an ongoing basis by national regulators) intended to “build up additional capital defenses in periods where the risks of system-wide stress are growing markedly.” (See Bank for International Settlements rev. 2011, 54 and 57.) 
+
+The resulting capital framework is shown in Figure 1 below (For a detailed discussion of how RWA is calculated for purposes of the risk-based capital requirements, see YPFS Case Study McNamara, et al. 2014D.): 
+
+[FIGURE id=vol1_iss4_4_f1 type=chart label="Figure 1" file=figure_1.png caption="Capital Requirements and Buffers (all numbers in percent)"]
+### **Figure 1: Capital Requirements and Buffers (all numbers in percent)**
+
+||**Common Equity Tier 1**|**Tier 1 Capital**|**Total Capital**|
+|---|---|---|---|
+|Minimum|4.5|6.0|8.0|
+|Conservation Buffer|2.5|||
+|Minimum plus Buffer|7.0|8.5|10.5|
+|Countercyclical Buffer range|<br>0-2.5|||
+
+
+
+_Source: Bank for International Settlements rev. 2011, Annex 1._ 
+
+
+## **3. Capital Reform—Leverage Ratio** 
+
+The risk-based capital requirements outlined above necessarily involve significant complexity, with each of a bank’s assets needing to be assigned a specific risk weight. As outlined in greater detail in another YPFS Case Study (McNamara, et al 2014D), since Basel II, banks have had the ability to make use of internal models in calculating RWA, resulting in what critics have described as an ability to “game the system” by meeting the new requirements through overly aggressive modeling that keeps RWA artificially low. Thus, as a backstop to the risk-weighted capital requirements and because during the financial crisis “[i]n many cases banks built up excessive leverage while still showing strong risk-based capital ratios,” Basel III introduces “a simple, transparent, non-risk-based leverage ratio that is calibrated to act as a credible supplementary measure to risk-based capital requirements” (Bank for International Settlements rev. 2011, 61). 
+
+The leverage ratio established by Basel III is derived by dividing Tier 1 Capital by total exposure (calculated consistent with the accounting measure of exposure), subject to certain adjustments: 
+
+- On-balance sheet, non-derivative exposures are net of specific provisions and valuation adjustments (e.g., credit valuation adjustments) 
+
+- Physical or financial collateral, guarantees, or credit-risk mitigation purchased are not allowed to reduce on-balance sheet exposures 
+
+- Netting of loans and deposits is not allowed 
+
+- Off-balance sheet exposure, commitments (including liquidity facilities), unconditionally cancellable commitments, direct credit substitutes, acceptances, standby letters of credit, trade letters of credit, failed transactions, and unsettled securities are fully included in the exposure measure while for any commitments that are unconditionally cancellable at any time by the bank without prior notice, banks must apply a credit conversion factor of 10% to include such commitments in the exposure measure. 
+
+The minimum leverage ratio set forth in Basel III is 3%. 
+
+## **4. Liquidity Standards** 
+
+As part of Basel III, the BCBS introduced liquidity standards to the capital requirements that have historically been the cornerstone of the Basel regime. This decision is very clearly a product of the nature of the financial crisis of 2007-09, which was a crisis not only of inadequate bank capital, but also of inadequate bank liquidity. As the BCBS has noted, “[d]uring the ‘liquidity phase’ of the financial crisis that began in 2007, many banks—despite adequate capital levels—still experienced difficulties because they did not manage their liquidity in a prudent manner” (Bank for International Settlements 2013b, 1). 
+
+With the financial crisis having illustrated the importance of ensuring that banks maintain both adequate capital _and_ liquidity, the BCBS has proposed two new liquidity standards as part of Basel III—the Liquidity Coverage Ratio and the Net Stable Funding Ratio. The former is a short-term measure that evaluates whether a bank has enough liquidity to meet expected cash outflows during a 30-day stress scenario. The latter is a long-term structural measure 
+
+
+that evaluates the amount of funding available from stable sources relative to the funding needs of the bank’s assets. 
+
+## **Liquidity Coverage Ratio** 
+
+The purpose of the Liquidity Coverage Ratio (LCR) is to “promote the short-term resilience of the liquidity risk profile of banks by ensuring that they have sufficient [high quality liquid assets (HQLA)] to survive a significant stress scenario lasting 30 calendar days” (Bank for International Settlements 2013b, 4). Underlying this 30-day standard is the belief that by the 30[th] day of a stress scenario, bank management and regulators will have had adequate time to take steps to address the situation, including corrective actions by management and regulators, central bank intervention, or the orderly resolution of particular banks. The LCR evaluates banks’ ability to survive to the 30[th] day by comparing the stock of HQLA to the total net cash outflows anticipated over the 30 calendar days. 
+
+Under the LCR, a bank would begin by determining the value of its stock of unencumbered HQLA (assets that can be easily and immediately converted into cash at little or no loss of value) in stressed conditions. The stock of HQLA can include different categories of assets, with the LCR calculation setting limits on and applying “haircuts” (discounts from the current market value) to certain types of assets. For example, corporate debt securities with a rating of AA- or higher and a record of liquidity are included in the Level 2A category of assets, a category to which a 15% haircut is applied and which, along with Level 2B, is limited to 40% of total HQLA. 
+
+The bank would then divide the value of its stock of unencumbered HQLA by the value of the total net cash outflows from the bank expected to occur over the next 30 calendar days given stressed conditions. To calculate total expected cash outflows, the bank would multiply the outstanding amounts of various types of liabilities and commitments by an expected run-off rate designated for each liability or commitment type by the BCBS. For example, retail deposits covered by typical deposit insurance have an expected run-off rate of 5%, reflecting the belief of the BCBS that approximately 5% of such deposits will be withdrawn in a 30-day stress scenario. Banks must also include other potential sources of cash outflows, including increased liquidity needs related to credit downgrades and collateral calls and drawdowns on committed lending facilities. The calculation of total cash inflows, in turn, requires that banks look only to contractual inflows (including interest payments) from fully performing exposures for which there is no expectation of default during the 30-day window. Significantly, the amount of inflows to cover outflows has been limited to a maximum of 75% of outflows. This means that banks must hold HQLA of at least 25% of their outflows regardless of expected inflows. 
+
+By dividing the value of its stock of unencumbered HQLA by the value of total net cash outflows expected to occur over the next 30 calendar days given stressed conditions, a bank arrives at a percentage that reflects its ability to readily meet immediate liquidity demands in a stress scenario. The timeline established by the BCBS calls for banks to achieve an LCR of 60% by January 1, 2015, and an LCR of 100% by January 1, 2019. Thus from 2019 onward, the idea is that banks will be able to survive a significant stress scenario lasting up to 30 days without resorting to the sale of illiquid assets to meet liquidity demands. (For a more detailed examination of the Liquidity Coverage Ratio and how it has already affected one key area of the financial markets, see YPFS Case Study McNamara, et al. 2014F.) 
+
+## **Net Stable Funding Ratio** 
+
+Coming out of the financial crisis, the BCBS also identified a need “[t]o promote more medium and long-term funding of the assets and activities of banking organizations” to 
+
+
+prevent the reoccurrence of a balance sheet mismatch that created significant problems in 2007-09—the use of short-term funding to back long-term assets and exposures (Bank for International Settlements 2010, 25). With this in mind, the BCBS has proposed a Net Stable Funding Ratio (NSFR) “to reduce funding risk over a longer time horizon by requiring banks to fund their activities with sufficiently stable sources of funding” (Bank for International Settlements 2014a, 2). In order to achieve this, the NSFR evaluates a bank’s available amount of stable funding (capital and liabilities expected to be reliable over a one-year timeframe) relative to its required amount of stable funding (based on the liquidity characteristics and residual maturities of the bank’s assets and off-balance sheet exposures). The NSFR mandates that the ratio of available stable funding (ASF) to required stable funding (RSF) be at least 100% on an ongoing basis. Thus, the less liquid and longer-term a bank’s assets and exposures, the more stable funding it will need to have available to it. 
+
+[FIGURE id=vol1_iss4_4_f2 type=figure label="Figure 2" file=figure_2.png caption="Net Stable Funding Requirement"]
+### **Figure 2: Net Stable Funding Requirement**
+![Figure 2](assets/vol1_iss4_4/figure_2.png)
+
+
+_Source: Bank for International Settlements 2014a, 6._ ) 
+
+Under the NSFR framework, the calculation of total ASF requires a bank to assign the carrying value of all of its capital and liabilities to one of five categories created by the BCBS to reflect differing degrees of maturity and likelihood of withdrawal. Each of these five categories has a corresponding ASF factor that indicates the percentage of the capital and liabilities in that category that may be included in the calculation of ASF. These categories and their ASF factors are shown in Figure 3. 
+
+[FIGURE id=vol1_iss4_4_f3 type=figure label="Figure 3" file=figure_3.png caption="Summary of Liability Categories and Associated ASF Factors"]
+### **Figure 3: Summary of Liability Categories and Associated ASF Factors**
+![Figure 3](assets/vol1_iss4_4/figure_3.png)
+
+
+_Source: Bank for International Settlements 2014c, 6._ 
+
+
+Similarly, to calculate its RSF a bank must assign each of its assets to one of several categories created by the BCBS with corresponding RSF factors “intended to approximate the amount of a particular asset that would have to be funded, either because it will be rolled over, or because it could not be monetised through sale or used as collateral in a secured borrowing transaction over the course of one year without significant expense” (Bank for International Settlements 2014a, 6). For example, the highly liquid assets included in the first four RSF categories receive RSF factors ranging from 0% to 15% reflecting the fact that the bank could with relative ease sell or use the assets as collateral to raise funds within the one-year NSFR timeframe. 
+
+For the complete set of RSF categories, see Figure 4. (For a more detailed examination of the Net Stable Funding Ratio and how it may already be affecting one key area of the financial markets, see YPFS Case Study McNamara, et al. 2014G.) 
+
+[FIGURE id=vol1_iss4_4_f4 type=figure label="Figure 4" file=figure_4.png caption="Summary of Asset Categories and Associated RSF Factors"]
+### **Figure 4: Summary of Asset Categories and Associated RSF Factors**
+![Figure 4](assets/vol1_iss4_4/figure_4.png)
+
+
+_Source: Bank for International Settlements 2014a, 9._ 
+
+
+In addition to these new standards, Basel III introduces several new liquidity monitoring tools intended to “capture specific information related to a bank’s cash flows, balance sheet structure, available unencumbered collateral, and certain market indicators,” with results shared with the relevant financial regulators (Bank for International Settlements 2013, 40). A summary of these liquidity measuring tools is shown in Figure 5. 
+
+[FIGURE id=vol1_iss4_4_f5 type=figure label="Figure 5" file=figure_5.png caption="Basel III Liquidity Measuring Tools"]
+### **Figure 5: Basel III Liquidity Measuring Tools**
+![Figure 5](assets/vol1_iss4_4/figure_5.png)
+
+
+_Source: Bank for International Settlements 2013, 40._ 
+
+## **5. Systemic Risk and Interconnectedness** 
+
+As the BCBS has concluded of the financial crisis, “excessive interconnectedness among systemically important banks also transmitted shocks across the financial system and economy” (Bank for International Settlements rev 2011). The BCBS has made addressing the systemic risk created by this interconnectedness a cornerstone of Basel III. In addition to the basic risk-based capital requirements described above, Basel III established a higher loss absorbency requirement for institutions deemed to be global systemically important banks (G-SIBs). This requirement, currently ranging from Common Equity Tier 1 equal to between 
+
+
+1.0% and 2.5% of RWA, reflects a determination by BCBS that the minimum capital requirements of Basel III “are not sufficient to address the negative externalities posed by G- SIBs or to protect the system from the wider spillover risks of G-SIBs” (Bank for International Settlements 2013a, 3). Under the Basel III framework, determinations about which banks qualify as G-SIBs subject to the requirement are based on “a global, system-wide loss-givendefault concept” that evaluates institutions in five equally weighted categories comprised of individual indicators: 
+
+[FIGURE id=vol1_iss4_4_f6 type=figure label="Figure 6" file=figure_6.png caption="Indicator-Based Measurement Approach"]
+### **Figure 6: Indicator-Based Measurement Approach**
+![Figure 6](assets/vol1_iss4_4/figure_6.png)
+
+
+_Source: Bank for International Settlements 2013a, 5-6._ 
+
+Under Basel III, banks seen as systemically important because of their cross-jurisdictional activity, size, interconnectedness, lack of substitutability, and/or complexity must thus maintain even more capital. (For a more detailed discussion of the higher loss absorbency requirement for G-SIBs, see pages 2-15 of Bank for International Settlements 2013a.) 
+
+In addition to the systemic risk and interconnectedness provisions contained in Basel III itself, the BCBS in 2014 also adopted a “Large Exposure Framework” intended to limit, as a percentage of the bank’s eligible capital, the amount of exposure an internationally active bank can have to a single counterparty. In general, the Large Exposure Framework prevents banks from having an exposure to a single counterparty that is higher than 25% of the effective amount of its Tier 1 Capital. For exposures between global systemically important banks, this limit is reduced to 15%. The purpose of these limits is to ensure that banks “consistently measure, aggregate and control exposures to single counterparties or to groups of connected counterparties across their books and operations” so that “the maximum loss a bank could face in the event of a sudden counterparty failure [is limited] to a level that does not endanger the bank’s solvency” (Bank for International Settlements 2014b, 1). (For a complete description of the Large Exposure Framework, see Bank for International Settlements 2014b.) 
+
+
+## **References** 
+
+Bank for International Settlements, 2006. _Basel II: International Convergence of Capital_ – _Measurement and Capital Standards: A Revised Framework Comprehensive Version: 19 – 209_ (Part 2: The First Pillar – Minimum Capital Requirements) 
+
+Bank for International Settlements, 2010. _Basel III: International Framework for Liquidity Risk Measurement, Standards and Monitoring_ : 25-31 (Net Stable Funding Ratio) 
+
+Bank for International Settlements. Rev. 2011. _Basel III: A Global Regulatory Framework for More Resilient Banks and Banking Systems_ . June. (Bank for International Settlements rev. 2011): 1-8 (Introduction, Strengthening the Global Capital Framework) 
+
+___________.12-27 (Minimum Capital Requirements and Buffers) 
+
+___________.54-64 (Capital Conservation Buffer, Countercyclical Buffer and Leverage Ratio) 
+
+___________.Annex 4 (Phase-In Arrangements) 
+
+Bank for International Settlements. 2013. _Global Systemically Important Banks: Updated Assessment Methodology and the Higher Loss Absorbency Requirement_ . July. (Bank for International Settlements, 2013a): 2-4 (Introduction) 
+
+___________.4-11 (Methodology for Assessing Systemic Importance of G-SIBs) 
+
+___________.12-14 (The Magnitude of the Higher Loss Absorbency Requirement and Its Impact and Instruments to Meet the Higher Loss Absorbency Requirement) 
+
+___________.14-15 (Interaction with Other Elements of the Basel III Framework) 
+
+___________.15 and Annex 3 (Phase-In Arrangements) 
+
+Bank for International Settlements. 2013. _Basel III: The Liquidity Coverage Ratio and liquidity risk monitoring tools_ . January. (Bank for International Settlements 2013b): 1-6 (Introduction to the LCR) 
+
+Bank for International Settlements. 2014. _Basel III: The Net Stable Funding Ratio_ . January. (Bank for International Settlements 2014a) 
+
+Bank for International Settlements. 2014. _Supervisory framework for measuring and controlling large exposures_ . April. (Bank for International Settlements 2014b) 
+
+Bank for International Settlements. 2014. _Basel III: The Net Stable Funding Ratio_ . October. (Bank for International Settlements 2014c) 
+
+McNamara, Christian M., Thomas Piontek, and Andrew Metrick, 2014A. _Basel III A: Regulatory History_ , Yale Program on Financial Stability Case Study 2014-1A-V1, November. (McNamara, et al. 2014A) 
+
+McNamara, Christian M., Natalia Tente, and Andrew Metrick, 2014D. _Basel III D: Swiss Finish_ , Yale Program on Financial Stability Case Study 2014-1D-V1, November. (McNamara, et al. 2014D) 
+
+
+McNamara, Christian M. and Andrew Metrick, 2014F. _Basel III F: Callable Commercial Paper_ , Yale Program on Financial Stability Case Study 2014-1F-V1, November. (McNamara, et al. 2014F) 
+
+McNamara, Christian M. and Andrew Metrick, 2014G. _Basel III G: Shadow Banking and Project Finance_ , Yale Program on Financial Stability Case Study 2014-1G-V1, November. (McNamara, et al. 2014G) 
+
+Development of this case has been supported by a generous grant from the Alfred P. Sloan Foundation to the Yale Program on Financial Stability. 
+
+Copyright 2014, 2015, 2020 © Yale University. All rights reserved. To order copies of this material or to receive permission to reprint any or all of this document, please contact the Yale Program for Financial Stability at ypfs@yale.edu.

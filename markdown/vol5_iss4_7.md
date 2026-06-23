@@ -1,0 +1,53 @@
+## Yale Program on Financial Stability Lessons Learned 
+
+## Eric Rosengren 
+
+By Steven Kelly[1] 
+
+_Eric Rosengren began working at the Federal Reserve Bank of Boston in 1985 and ultimately served as its president and CEO from 2007 to 2021, including during the Global Financial Crisis (GFC) and the COVID-19 crisis. He met with the Yale Program on Financial Stability (YPFS) to share insights related to the Federal Reserve’s crisis responses—particularly those during the pandemic. This Lessons Learned is based on an interview conducted with Rosengren on February 6, 2023; the full transcript may be accessed here._ 
+
+## **As much as possible, having infrastructure in place to quickly implement any announced program is paramount, especially when assets are being purchased.** 
+
+Crisis fighters cannot always rely on positive announcement effects in the market when rolling out emergency liquidity programs—even broad-based market liquidity programs. Unlike many of the Fed’s other emergency liquidity programs, the Boston Fed’s Money Market Mutual Fund Liquidity Facility (MMLF),[2] an emergency facility that made nonrecourse loans to banks to purchase assets from money market funds, did not utilize a special purpose vehicle (SPV) structure, a structure that comes with operational and managerial benefits.[3] Rosengren noted not using the SPV structure was crucial because it is “much more cumbersome to negotiate” and “requires about six weeks of legal work.” 
+
+This delay was not typically deleterious for the Fed programs that used SPVs, as the announcement of the program alone would often be sufficient to restore market functioning in the targeted sector of the financial system. Yet, Rosengren delineated between programs designed to address spikes in credit spreads and those that actually needed to remove assets from private balance sheets. With respect to the MMLF, he said: 
+
+With the money market funds, an announcement alone doesn’t stop a run. It’s a little bit different than promising to purchase assets to lower the cost of funding. The 
+
+> 1 Associate Director of Research, YPFS, Yale School of Management. 
+
+> 2 The MMLF was the pandemic-era iteration of the similar Asset-Backed Commercial Paper Money Market Mutual Fund Liquidity Facility (AMLF) from the GFC. Both were run out of the Boston Fed and lent nonrecourse to banks against the amortized value of paper purchased from money market mutual funds. The MMLF included several classes of paper as eligible, whereas the AMLF was focused exclusively on asset-backed commercial paper. The other major, and related, difference is that the MMLF received $10 billion of loss protection from the US Treasury. For more, see: Mott, Carey K., and Mallory Dreyer. 2022. “United States: Money Market Mutual Fund Liquidity Facility.” _Journal of Financial Crises_ 4, no. 2. https://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss2/84/ 
+
+> 3 See: Kelly, Steven. 2023. “Why Does the Fed Really Use SPVs?” Yale School of Management. https://som.yale.edu/story/2023/why-does-fed-really-use-spvs 
+
+
+commercial paper facility[4] [by contrast] was basically a facility to bring in spreads. The money market facility was really a facility to stop a run. The motivation is a little bit different. I'm not sure announcement effects alone are sufficient if you're already experiencing a run on the asset class. 
+
+## **Central bankers should be mindful of, and prepared for, cliff effects when rolling out emergency liquidity facilities to some markets and not others. Where uncertainties or legal risks remain, support from the fiscal authority becomes more crucial.** 
+
+Rosengren noted that in some cases, the Fed’s pandemic interventions adversely affected unincluded market segments, instead of providing positive spillovers. That is, when the Fed announced that a particular asset class was eligible for support from a Fed program, markets for similar assets that remained ineligible became markedly disadvantaged. Rosengren said: 
+
+One of the complications was, as soon as we announced paper that was going to be accepted by the facility, people wanted to hold that paper, but not the other paper in their portfolio. So, we would keep getting calls to expand the size of the MMLF. It was somewhat cumbersome in that we kept switching which assets we were willing to take into the facility as people applied pressure—both at the Fed and at Treasury— to broaden out the number of instruments that would be accepted at that facility. It also became a somewhat complicated facility. 
+
+## […] 
+
+The broadening of the facility even got to the point of including things that I think initially we hadn't thought about—including the tax-exempt sector—as people became worried that credit markets that didn't have a Fed facility backstopping them would be significantly disadvantaged. And the spreads were quite large relative to anything that qualified at the facility. 
+
+For instance, the Fed has historically expressed legal uncertainty about being able to intervene in unsecured lending markets, absent additional loss protection.[5] When the Fed opened the MMLF during COVID-19 crisis, it had a loss protection layer from US Treasury funding. This was crucial in allowing the Fed to proceed more readily into important unsecured markets without facing the same legal risks. Rosengren explained: 
+
+> 4 This is a reference to the Commercial Paper Funding Facility (CPFF), which the Fed set up during the GFC as well as during the pandemic in slightly modified form. The CPFF purchased commercial paper directly in the primary market. For more on the pandemic-era CPFF, see: Engbith, Lily S. 2022. “United States: Commercial Paper Funding Facility II.” _Journal of Financial Crises_ 4, no. 2. https://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss2/83/ 
+
+> 5 See, for example: Federal Reserve Board of Governors Legal Division. 2009. “Authority of the Federal Reserve to Provide Extensions of Credit in Connection with a Commercial Paper Funding Facility (CPFF).” Memoran- dum, March 9, 2009. https://elischolar.library.yale.edu/ypfs documents/7915/ 
+
+
+Because there was Treasury funding, it gave us more flexibility not to worry about it being asset-backed commercial paper. That was fortunate in that asset-backed commercial paper was not nearly as widely held by money markets by the time of the pandemic. 
+
+## **Crisis fighters should consider restricting all bank capital distributions during periods when emergency liquidity is being provided to the banking system.** 
+
+During the pandemic, the Fed restricted banks’ share buybacks but generally did not suspend dividends. It also set up eight emergency liquidity programs under Section 13(3) of the Federal Reserve Act. Rosengren suggested that it was inconsistent to think of these policies separately. Specifically, he said that the presence of central bank emergency liquidity facilities suggests that there is Fed concern over banks themselves providing that credit. Thus, Rosengren argued, not restricting all bank capital distributions only risks exacerbating that problem: 
+
+My personal view is still that we should have stopped dividends as soon as we set up facilities. If you have a 13(3) facility, you probably don’t need to be having money go out the door of banks through dividends. I think it was a mistake not to cut off dividends when it was determined that 13(3) facilities were actually necessary. 
+
+Dated: December 2023 
+
+YPFS Lessons Learned No. 2023-09

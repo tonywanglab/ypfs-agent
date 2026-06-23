@@ -1,0 +1,350 @@
+## Swedish Guarantee Scheme[1] 
+
+_Lily Engbith[ 2] Kevin Kiernan_[3] 
+
+Yale Program on Financial Stability Case Study January 16, 2019; Revised Date: October 10, 2020 
+
+## **Abstract** 
+
+Although Sweden was not as directly impacted by the Global Financial Crisis as some other economies, Lehman Brothers’ bankruptcy on September 15, 2008, prompted Swedish authorities to take preemptive measures to protect domestic banks and financial institutions. One such program, announced on October 20, 2008, and implemented on October 29, 2008, was designed to preserve credit extension to businesses and households through what became known as the Swedish Guarantee Scheme. Per the terms of the Scheme, new short- and medium-term debt of maturities ranging from 90 days to five years issued by eligible banks would be guaranteed by the Swedish government in exchange for a fee based on the maturity of the guaranteed debt and the risk profile of the issuing institution. The Scheme would be funded by a more general stabilization fund and initially capped at a maximum of SEK 1500 billion ($195.1 billion). Peak utilization reached SEK 354 billion in 2009. None of the six participating institutions experienced defaults. The issuance window for the program expired on June 30, 2011, and all outstanding debt had matured by May 13, 2015. 
+
+**Keywords** : Sweden, medium-term debt, government guarantee 
+
+> 1 This case study is part of the Yale Program on Financial Stability (YPFS) selection of New Bagehot Project modules considering the responses to the global financial crisis that pertain to bank debt guarantee programs. Cases are available from the _Journal of Financial Crises_ at https://elischolar.library.yale.edu/journal-offinancial-crises/. 
+
+> 2 Lily Engbith—Research Associate, YPFS, Yale School of Management. 
+
+> 3 Kevin Kiernan—Research Intern, YPFS, Yale School of Management. 
+
+
+## The Swedish Guarantee Scheme 
+
+## **At a Glance** 
+
+The bankruptcy of Lehman Brothers in September 2008 roiled global financial markets and threatened to interrupt the flow of credit even in countries far removed from the subprime mortgage market, such as Sweden. Swedish authorities feared that this turbulence in financial markets would have negative effects on the real economy by impeding the flow of credit to households and businesses. In order to keep credit flowing, the Swedish Guarantee Scheme (“the Guarantee Scheme”) was established in October 2008 by the Swedish Government, based on emergency legislation passed by the parliament. The Scheme granted the Swedish National Debt Office (SNDO) a mandate to guarantee up to SEK 1500 billion ($195.1 billion) of short- and medium-term debt securities with maturities ranging from 90 days to five years issued by eligible institutions. This guarantee would be provided in exchange for a fee based on the maturity of the guaranteed debt and the risk profile of the issuing institution. 
+
+The Guarantee Scheme reached peak utilization of SEK 354 billion in the middle of 2009, with guaranteed issuances trailing off over the following year. 
+
+## **Summary Evaluation** 
+
+||Summary of Key Terms<br>Purpose: To preserve credit extension to Swedish|Summary of Key Terms<br>Purpose: To preserve credit extension to Swedish|
+|---|---|---|
+||households and businesses by allowing banks and<br>credit institutions to issue debt securities with<br>government guarantees and thereby meet their<br>short- and medium-term funding needs<br>Announcement Date<br>October 20, 2008||
+||Operational Date|October 29, 2008|
+||Date of First Guaranteed|Not announced|
+||Loan Issuance||
+||Issuance Window|Originally April 30,|
+||Expiration Date|2009, later extended to|
+|||June 30, 2011|
+||Program Size|Originally SEK 1500|
+|||billion ($195.1 billion),|
+|||later reduced to SEK|
+|||750 billion|
+||Usage|SEK 354 billion by six|
+|||Swedish financial|
+|||institutions at peak|
+||Outcomes|No defaults; SEK 6|
+||Notable Features|billion in fees generated<br>Certain restrictions<br>(capital requirements<br>and caps on growth for|
+|||participating firms)|
+|||relaxed over time to|
+|||encourage participation|
+
+
+
+The Swedish Guarantee Scheme is seen as having been successful in fulfilling its purpose of ensuring the continued extension of credit in Sweden. The Guarantee Scheme was especially useful for Swedbank AB, which was one of the largest Swedish banks in the country and had at one point issued 90 percent of outstanding guaranteed bonds. The program returned surplus participation payments of SEK 6 billion to the stabilization fund. 
+
+
+|**Swedish Guarantee Scheme:  Sweden Context**|**Swedish Guarantee Scheme:  Sweden Context**|
+|---|---|
+|**GDP**<br>**(SAAR, Nominal**<br>**GDP in LCU**<br>**converted to USD)**|$492.5 billion equivalent in 2007<br>$523.9 billion equivalent in 2008<br>_Source: Bloomberg_|
+|**GDP per capita**<br>**(SAAR, Nominal**<br>**GDP in LCU**<br>**converted to USD)**|$53,700 equivalent per capita in 2007<br>$56,153 equivalent per capital in 2008<br>_Source: Bloomberg_|
+|**Sovereign credit**<br>**rating (5-year**<br>**senior debt)**|As of Q4, 2007:<br>Fitch: AAA<br>Moody’s: Aaa<br>S&P: AAA<br>As of Q4, 2008<br>Fitch: AAA<br>Moody’s: Aaa<br>S&P: AAA<br>_Source: Bloomberg_|
+|**Size of banking**<br>**system**|$569.2 billion in total assets in 2007<br>$655.5 billion in total assets in 2008<br>_Source: Bloomberg_|
+
+
+
+
+|**Size of banking**<br>**system as a**<br>**percentage of GDP**|115.6% in 2007<br>125.1% in 2008<br>_Source: Bloomberg_|
+|---|---|
+|**Size of banking**<br>**system as a**<br>**percentage of**<br>**financial system**|No data available for 2007/2008<br>_Source: World Bank Global Financial Development_<br>_Database_|
+|**5-bank**<br>**concentration of**<br>**banking system**|98.5% of total banking assets in 2007<br>98.5% of total banking assets in 2008<br> _Source: World Bank Global Financial Development_<br>_Database_|
+|**Foreign**<br>**involvement in**<br>**banking system**|0% of total banking assets in 2007<br>0% of total banking assets in 2008<br>_Source: World Bank Global Financial Development_<br>_Database_|
+|**Government**<br>**ownership of**<br>**banking system**|0% of banks owned by the state in 2008<br>_Source: World Bank Global Financial Development_<br>_Database_|
+|**Existence of**<br>**deposit insurance**|100% insurance on deposits up to $36,818<br>_Source: Financial Crisis: Deposit Insurance and_<br>_Related Financial Safety Net Aspects, OECD_|
+
+
+
+
+## **I. Overview** 
+
+## **Background** 
+
+In the fall of 2008, turbulence in global financial markets caused by difficulties in the U.S. housing market began to threaten financial stability in Sweden. Although Swedish firms had largely avoided exposure to subprime mortgage-backed securities that had contributed to the failure of Lehman Brothers in September 2008, they were nonetheless impacted by the ensuing credit crunch. 
+
+The Swedish authorities feared that the turbulence in financial markets would affect the Swedish real economy if banks’ inability to meet their short- and medium-term funding needs were to negatively affect the aggregate amount of credit extended to firms and households. Based on legislation brought through the parliament under emergency procedures, the Government was granted far-reaching powers to deal with the crisis and its consequences for the Swedish financial sector. 
+
+## **Program Description** 
+
+In response to the reduction in the availability of credit, the Government introduced on October 20, 2008, the Government Guarantees to Banks and Others Ordinance (2008:819) under the purview of the Government Support to Credit Institutions Act (2008:814). The Ordinance gave the power to issue guarantees to the Swedish National Debt Office (SNDO), which in turn issued the SNDO Regulations (2008:1 and 2008:2).[4] 
+
+In order to increase the supply of lending to homes and businesses, the Swedish Guarantee Scheme (“the Guarantee Scheme”) allowed qualifying institutions to issue certain debt instruments with a government guarantee. This allowed banks and credit institutions to meet their short and mediumterm funding requirements. The Guarantee Scheme, like other Swedish interventions, would be funded by a new government-backed stabilization fund introduced in the Act. Reserves drawn from the fund would be repaid using interest and fee payments accrued in association with the interventions. 
+
+Effective October 29, 2008, the Guarantee Scheme was initially designed to allow issuances until April 30, 2009. The SNDO, with the approval of the European Commission and in accordance with EU State aid rules, amended the program several times to ultimately extend its issuance window through June 30, 2011. The government’s guarantee commitments were initially capped in the Ordinance decided 
+
+> 4 The Swedish National Debt Office can be thought of as a combined equivalent of the FDIC and Treasury. It was established by King Gustav III in 1789 to finance the War against Russia. Today, it operates under the Swedish Ministry of Finance and Government. According to its website, the SNDO’s main responsibilities include: 
+
+“-providing banking services for the central government 
+
+-raising loans and managing central government debt 
+
+-providing state guarantees and loans 
+
+-being responsible for the deposit insurance and investor protection schemes 
+
+-managing government support for banks” (“The Debt Office”). 
+
+
+by the Government at SEK 1500 billion ($195.05 billion)[5] , of which a maximum of SEK 500 billion could apply to covered bonds with maturities between three and five years. Sweden subsequently reduced these amounts to SEK 750 billion and SEK 250 billion in connection with an extension of the Guarantee Scheme into 2011. In addition, there were limits placed on the amount that could be guaranteed at any single institution determined by the total amount of maturing debt securities and the level of public deposits held by the institution in September 2008. 
+
+The Guarantee Scheme was designed to assist banks and credit institutions incorporated and operating in Sweden (including Swedish subsidiaries of foreign establishments), as these institutions were most likely to provide credit to Swedish households and firms (European Commission 2010). Select lenders targeting local government organizations were also included. Additionally, because there were no currency restrictions imposed, debt denominated in currencies other than SEK was eligible. To qualify for a State guarantee under the program, banks and lending institutions had to meet strict capital adequacy requirements in order to prove their solvency (European Commission 2008). The original terms of the Guarantee Scheme required Tier 1 capital of at least 6 percent and combined Tier 1 and Tier 2 capital reserves of at least 9 percent. These regulations were loosened somewhat in an April 2009 amendment to the initial terms to require only the minimum capital reserve requirement of 8 percent (European Commission 2008). 
+
+The Guarantee Scheme applied to short- and medium-term debt (including senior and covered bonds, certificates of deposits, and other debt securities not subordinated) with maturities between 90 days and three years, or maturities between 90 days and five years in the case of covered bonds. In April 2009 Swedish authorities amended the Guarantee Scheme to enable non-collateralized debt with maturities over three years to be eligible as well. Only debt issued after an express approval by the SNDO was eligible to be guaranteed under the Scheme. In addition, complex structured products, such as index share bonds and guaranteed equity bonds, or instruments that qualified as either Tier 1 or Tier 2 capital, were not eligible for coverage under the Guarantee Scheme (European Commission 2008). 
+
+In exchange for a participation fee that varied based on an individual institution’s specific risk (assessed using market data from before the crisis; see Key Design Decision 11) and the maturity of the debt to be issued, guaranteed securities received triple-A ratings from the major rating agencies based on the rating of the Kingdom of Sweden. They were also treated as government bonds by the Riksbank lending facilities. In the event that an issuer participating in the Guarantee Scheme failed to pay amounts due to its lenders, the government could be “called upon within three days if nothing else is agreed” (Grunnesjö and Wallenborg 2009). 
+
+The conditions for acceptance into the Guarantee Scheme included limits on the compensation of the five highest-paid employees at any firm seeking admission. These terms eliminated bonuses and stock options payable to senior officers and limited the fixed pay and severance packages that they could receive. Restrictions were also placed on compensation for Board members at guaranteed institutions (European Commission 2008). 
+
+> 5 In October 2008, $1.00 = approximately SEK 7.69. 
+
+
+In addition to the limitations on senior officer and Board compensation, participating firms faced prohibitions and restrictions aimed at reducing the potential for profiting excessively as a result of the Guarantee Scheme. Moreover, participation in the Scheme could not be used in the marketing of the firm. Furthermore, as specified in the original terms of the Scheme, institutions were prohibited from expanding their operations beyond the pace which would have been possible prior to receiving government support. 
+
+This last condition for participation was retracted in an amendment on January 29, 2009, as institutions were reluctant to participate in the Scheme given the restrictions (European Commission 2009). 
+
+## **Outcomes** 
+
+Over the course of its implementation, six Swedish financial institutions[6] issued debt under the guarantee program. Peak utilization reached SEK 354 billion of debt issued in mid-2009. Over 75 percent of the guarantees were issued in foreign currencies, primarily in U.S. dollars and euros (European Commission 2010). 
+
+After June 30, 2011, no additional debt issuance was guaranteed under the Guarantee Scheme. By design, outstanding guaranteed debt had maturities extending past the end of the Scheme. The SNDO was never required to fulfill obligations on any of the guaranteed debt, all of which had matured by May 13, 2015. All in all, the SNDO recorded a SEK 6 million surplus from participation fees (“Swedish guarantee programme for banks concluded”). 
+
+## **II. Key Design Decisions** 
+
+**1. The Guarantee Scheme was implemented as part of a package of stabilization measures taken by the Swedish authorities during the Global Financial Crisis.** 
+
+The dual purpose of these measures was to restore confidence and encourage healthy interbank lending through the provision of liquidity (European Commission 2008). Included in the series of new programs were a new deposit guarantee program that had a higher maximum ceiling and covered all deposits, a recapitalization scheme in which the Swedish government could inject capital if a new capital investment was at least 30% private capital, and a state-backed stabilization fund to finance the interventions. 
+
+**2. Following emergency legislation by the parliament, the Guarantee Scheme was authorized by the Kingdom of Sweden under Ordinances (2008:814) and (2008:819) on State Guarantees for Banks and further specified in the Swedish National Debt Office’s Regulations (2008:1) and (2008:2) concerning State Guarantees for Banks.** 
+
+These measures formed the legal basis for the Guarantee Scheme. 
+
+> 6 Swedbank AB; Swedbank Hypotek AB; Sveriges Bostadsfinansieringsaktiebolag, SBAB; Volvofinans Bank AB; Carnegie Investment Bank AB; and Skandinaviska Enskilda Banken AB. 
+
+
+## **3. The Guarantee Scheme was also approved for implementation by the European Commission in accordance with State aid rules.** 
+
+As discussed in more detail below, the need to structure the Guarantee Scheme in such a way as to ensure EC approval significantly influenced the design of certain program features. 
+
+## **4. Initially, up to SEK 1500 billion could be guaranteed under the program.** 
+
+Swedish authorities subsequently reduced this amount to SEK 750 billion in connection with extending the Guarantee Scheme into 2011, given a desire to gradually phase out support to promote institutions’ return to market financing. 
+
+## **5. The Guarantee Scheme was to be funded out of a stabilization fund established by Swedish authorities to fund interventions to support the banking system.** 
+
+With the implementation of measures to support the Swedish banking sector in October of 2008, Swedish authorities established a stabilization fund to finance the program of government interventions, including any calls to honor guarantees under the Guarantee Scheme. Any support recovered from support measures would be paid back into the fund. In addition, banks and other credit institutions would be required to pay an annual stabilization fee to the fund which would be an amount proportional to the size of the institution’s balance sheet. The stabilization fund was seeded with an initial government appropriation of SEK 15 billion and was intended to amount to about 2.5 percent of GDP. 
+
+## **6. Eligibility for the Scheme was restricted to Swedish banks and credit institutions, as well as select lenders who provided credit to local governments, which met certain capitalization and solvency requirements.** 
+
+The goal of the Guarantee Scheme was to ensure the continued extension of credit to Swedish households and businesses, as well as to municipal governments. Therefore, to be eligible to participate in the Scheme, an institution had to either be incorporated in Sweden or a Swedish subsidiary of a foreign institution. In addition, firms had to demonstrate that they engaged in considerable lending on the Swedish Market (Riksgälden 2010). 
+
+In addition to being Swedish institutions active in lending to businesses and households, participating firms were required by the Swedish National Debt Office to meet certain capital requirements. The first version of the terms, passed in October 2008, called for a capital requirement of 6 percent Tier 1 capital and 9 percent combined Tier 1 and Tier 2 capital. This condition was relaxed in an amendment dated April 28, 2009, to the law, resulting in a requirement of only 8 percent combined Tier 1 and Tier 2 capital. 
+
+## **7. New short- and medium-term debt, including senior and covered bonds, certificates of deposits, and other unsubordinated debt securities were eligible for guarantees.** 
+
+Coverage under the Guarantee Scheme applied only to new debt issued after the issuing institution had been approved for participation in the program by the SNDO. 
+
+
+Additionally, subordinated bonds, complex structured products—such as index share bonds and guaranteed equity bonds—or instruments that qualified as either Tier 1 or Tier 2 capital, were not eligible for coverage under the Guarantee Scheme (European Commission 2008). 
+
+In seeking and obtaining approval from the European Commission for the inclusion of covered bonds, Swedish authorities specifically cited the example of Denmark, where the non-inclusion of covered debt in a guarantee program was seen as resulting in the drying up of that market. With over 80% of Swedish housing loans packaged into covered bonds, Swedish authorities argued that the continued functioning of the covered bond market was essential to Sweden’s financial system as a whole. To limit the potential for distortion resulting from longer guarantees for covered bonds, Swedish authorities agreed to restrict the amount of the guarantee available for covered bonds with maturities of three years to five years to one-third the overall total, or SEK 500 billion (later reduced to SEK 250 billion with the reduction in the overall Guarantee Scheme from SEK 1500 billion to SEK 750 billion) (European Commission 2008). 
+
+Swedish authorities designated debt guaranteed under the Guarantee Scheme as eligible collateral for Riksbank liquidity facilities. 
+
+## **8. Initially, debt ranging in maturity from 90 days to three years could be issued under the Guarantee Scheme (five years in the case of covered bonds).** 
+
+Since the Scheme was designed to help firms meet their short- and medium-term funding needs, all instruments covered under the Guarantee Scheme were of maturities between 90 days and five years. As such, it was a complement to extraordinary liquidity support measures introduced by the Riksbank. These measures initially had a maximum maturity of 90 days but were subsequently extended to one year. Initially, most debt instruments covered under the guarantee were required to have maturities between 90 days and three years; only covered bonds were permitted to have maturities extending out to five years. An April 2009 amendment to the Guarantee Scheme enabled even uncollateralized debt to have maturities greater than three years. Debt with maturities greater than three years was limited to one-third of the overall Guarantee Scheme amount. 
+
+## **9. All currencies were eligible.** 
+
+As a practical matter, because most maturing debt was denominated in U.S. dollars and euros, these are the currencies that ended up being heavily represented among guaranteed debt. 
+
+## **10. The Swedish government imposed caps on individual firms’ eligibility based on maturing debts and public deposits.** 
+
+For each financial institution, individual guarantee caps were determined and imposed according to the maximum of either: 
+
+1. The sum of that institution’s debt instruments maturing after September 1, 2008, but prior to April 30, 2009, and which had maturities longer than 90 days; OR 
+
+2. 20 percent of that institution’s public deposits as of September 1, 2008 (European Commission 2008). 
+
+
+The second option was added to avoid distortions between banks that had been issuing securities and those that relied solely on deposit funding. 
+
+A January 2009 amendment to the Guarantee Scheme enabled these calculations to be performed at the group level. The overall amount of guaranteed debt would remain the same as if the calculations had been performed at the level of individual institutions, but groups would have greater flexibility in how their allocations were distributed among the members of the groups. 
+
+## **11. The fee for issuing debt pursuant to the Guarantee Scheme varied based on the soundness of the issuing institution and the maturity of the debt guaranteed.** 
+
+The “Recommendations on Government Guarantees on Bank Debt,” set forth on October 20, 2008, by the European Central Bank, provided guidance on the approach to fees to be adopted by European countries introducing bank debt guarantees. Sweden’s fees were consistent with this guidance. 
+
+Fees for individual institutions were assessed according to a measure of the institution’s specific risk, plus an additional fixed amount of 50 basis points. 
+
+- a) “For credit guarantees on bank debt with maturities of less than or equal to 1 year, the fee would be equal to 0.5% on an annual basis. In these cases, an assessment of the institution’s risk would not be taken into account. 
+
+- b) For Credit guarantees with maturity longer than 1 year: 
+
+   - For banks with CDS data, the price should equal the median 5-year CDS spread over the period 1 January 2007 to 31 August 2008 (the first criterion), plus 0.5% on an annual basis (the second criterion). 
+
+   - For banks without CDS data, or representative CDS data, but with a credit rating, an equivalent CDS spread should be derived from the median value of 5-year CDS spreads during the above mentioned period for the rating category of the banks concerned, based on a representative sample of euro area large banks (the second criterion remains unchanged). 
+
+   - For banks without CDS data and without a credit rating, an equivalent CDS spread should be derived from the median value of 5-year CDS spreads over the same period for the lowest rating category (the second criterion remains unchanged). 
+
+   - For guarantees for covered bonds the second criterion, the add-on fee will be set to 0.25 % on an annual basis (the first criterion remains unchanged).” 
+
+This pricing structure would remain constant until April 30, 2009, but could be altered in the event that the SNDO granted an extension of the Guarantee Scheme (European Commission 2008). Per a June 2010 amendment to the Guarantee Scheme, fees were increased by 20bps to 40bps consistent with guidance from the European Commission on guarantee programs being extended beyond June 30, 2010. The purpose of this fee increase was to better reflect market conditions and to encourage participants to shift to non-guaranteed issuance as conditions allowed. 
+
+
+## **12. Initially the SNDO set limits on growth for institutions participating in the Guarantee Scheme, but this condition was ultimately repealed.** 
+
+Guidance issued by the European Commission in October 2008 on the creation of credit guarantee programs called for the inclusion in programs of a set of safeguards “to minimize…distortions and the potential abuse of the preferential situations of beneficiaries brought about by a State guarantee” and “to avoid moral hazard.” This guidance did not specify exactly what safeguards a program should include but required “an adequate combination” of elements including restrictions on advertising based on the guarantee, balance sheet growth, share buybacks, and executive compensation some of which Sweden adopted. 
+
+As specified in the original terms of the Scheme, institutions were prohibited from expanding their operations beyond the pace which would have been possible prior to receiving government support. This was calculated by Swedish authorities as being the highest of: 
+
+- a) The annual growth rate of Swedish nominal GDP in the previous year; 
+
+- b) The average historical balance sheet growth in the Swedish banking sector from 1987 to 2007; 
+
+- c) The average balance sheet growth in the EU banking sector in the prior six months (European Commission 2008). 
+
+Additionally, participation in the Scheme could not be used in the marketing of the firm. 
+
+The restriction on balance sheet growth was retracted in an amendment dated January 29, 2009, as institutions were reluctant to participate in the Scheme given the restrictions (European Commission 2009). 
+
+## **13. Limits on executive and Board compensation were conditions for participation in the Guarantee Scheme.** 
+
+The Swedish Guarantee Scheme required participating firms to restrict both salary and bonus pay to the five highest-paid executives of the firm. The fixed salary pay of these individuals could not exceed the level determined prior to the announcement of the Scheme on October 20th, 2008. Variable bonus pay was entirely prohibited for the top five officers at participating firms. In addition, severance packages could not exceed the amounts prescribed for senior officers of government organizations, and board members at participating institutions could not be compensated above the levels decided prior to the announcement of the Scheme (European Commission 2008). 
+
+## **14. Although the issuance window of the Guarantee Scheme was initially set for six months, it was extended multiple times and ultimately lasted until June 30, 2011.** 
+
+At first the Scheme’s issuance window was designed to be short-lived, lasting only until April 30, 2009, with the option of an extension through December 31, 2009. Through a series of amendments and extensions announced by the SNDO and approved by the European Commission in accordance with the EU State aid rules, the duration of the Scheme was extended multiple times to run through June 30, 2011. Although by 2010 and 2011 Sweden noted improvements in its institutions’ ability to 
+
+
+secure funding without the benefit of the guarantee, the emerging sovereign debt crisis in Europe resulted in continued uncertainties. Swedish authorities viewed the extension of the Guarantee Scheme as a “stand-by insurance policy that could give banks access to medium-term financing, if conditions were to deteriorate” (European Commission 2010). 
+
+## **III. Evaluation** 
+
+It is difficult to isolate the effects of the Guarantee Scheme from those of other interventions implemented by the Swedish authorities around the end of 2008, in particular the Riksbank’s extraordinary liquidity support measures. Still, while the Swedish Guarantee Scheme was not as widely used as permitted, SNDO officials viewed it as having successfully fulfilled its purpose of ensuring the extension of credit to Swedish households and businesses (“Swedish guarantee programme for banks concluded”). More generally, analysts have credited the Swedish authorities preemptive and proactively aggressive use of monetary policy for quickly alleviating the effects of the financial crisis (Irwin 2011). 
+
+The Guarantee Scheme was of immense importance to Swedbank AB, which was one of the four largest banks in the country and at one point issued 90 percent of outstanding guaranteed debt securities. 
+
+## **IV. References** 
+
+European Commission. (2008). Re: State aid N 533/2008 – Support measures for the banking industry in Sweden. Brussels: State Aid Registry. https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/228076_882359_14_2.pdf 
+
+European Commission. (2010). State aid N 127/2010 – Sweden Extension of the bank guarantee scheme. Brussels: State Aid Registry. https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/235796_1101932_25_2.pdf Grunnesjö, Ulf and Wallenborg, Johan. “SEB Investor Presentation.” Debt Investor Presentation, New York, NY, May 12, 2009. https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/debt_investor_presentation_may_20 09_ny.pdf 
+
+Irwin, Neil. “Five economic lessons from Sweden, the rock star of the recovery.” The Washington Post. June 24, 2011. https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Five economic lessons from Sweden, the rock star of the recovery - The Washington Post.pdf 
+
+European Central Bank. (2008). “Recommendations of the Governing Council of the European Central Bank on government guarantees for bank debt.” https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/recommendations_on_guarantees ecb.pdf 
+
+Riksgälden – Swedish National Debt Office. General Information concerning the Swedish Guarantee Scheme. December 2010. 
+
+
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Riksgalden_General_info_Swedish_G uarantee_Scheme_2010.pdf 
+
+Riksgälden – Swedish National Debt Office. Swedish guarantee programme for banks concluded. May 13, 2015. 
+
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Riksgalden_Swedish_guarantee_ban ks_concluded_2015.pdf 
+
+Riksgälden – Swedish National Debt Office. The Debt Office. Last updated July 4, 2019. https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/About our business - Riksgälden.se_.pdf 
+
+## **V. Key Program Documents** 
+
+## **Summary of Program** 
+
+General Information concerning the Swedish Guarantee Scheme. (Riksgälden – Swedish National Debt Office 2010) – _Government document summarizing the design of the guarantee scheme._ https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Riksgalden_General_info_Swedish_G uarantee_Scheme_2010.pdf 
+
+– Re: State aid N 533/2008 Support measures for the banking industry in Sweden. (European Commission 2008) – _State Aid document outlining the original terms and conditions of the guarantee scheme._ https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/228076_882359_14_2.pdf 
+
+“ ” SEB Investor Presentation. (Grunnesjö and Wallenborg 2009) – _Private sector report summarizing the design and intended impacts of the guarantee scheme._ 
+
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/debt_investor_presentation_may_20 09_ny.pdf 
+
+– State aid N 127/2010 Sweden Extension of the bank guarantee scheme. (European Commission 2010) – _State Aid document outlining the terms and conditions of the program’s extension._ https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/235796_1101932_25_2.pdf 
+
+## **Implementation Documents** 
+
+Recommendations of the Governing Council of the European Central Bank on government guarantees for bank debt (European Commission 2008) – _Official ECB document containing guidance for EU countries designing credit guarantee schemes._ 
+
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/recommendations_on_guarantees 
+
+– Re: State aid N 533/2008 Support measures for the banking industry in Sweden. (European Commission 2008) – _State Aid document detailing the various support programs implemented by the Swedish government in response to the GFC._ 
+
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/228076_882359_14_2.pdf 
+
+
+– State aid N 127/2010 Sweden Extension of the bank guarantee scheme. (European Commission 2010) – _State Aid document detailing the terms and conditions of the extension of the guarantee_ 
+
+_scheme._ https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/235796_1101932_25_2.pdf 
+
+## **Legal/Regulatory Guidance** 
+
+OPINION OF THE EUROPEAN CENTRAL BANK of 29 October 2008 at the request of the Swedish Ministry of Finance on a draft ordinance on State guarantees for banks etc. (CON/2008/62) 
+
+(European Central Bank 2008) – _Official ECB document detailing the Swedish government’s request to implement the guarantee scheme._ 
+
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/ECB_draft_ordinance_29_Oct_2008.p df 
+
+OPINION OF THE EUROPEAN CENTRAL BANK of 7 October 2009 on extending government 
+
+guarantees to banks and other institutions (CON/2009/79) (European Central Bank 2009) – _Official ECB document detailing the first extension and expansion of the guarantee scheme._ 
+
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/ECB_extending_govt_guarantees_7_ Oct_2009.pdf 
+
+OPINION OF THE EUROPEAN CENTRAL BANK of 6 April 2010 on extending government guarantees to banks and other institutions (CON/2010/29) (European Central Bank 2010) – _Official ECB document detailing the second extension and expansion of the guarantee scheme._ 
+
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/ECB_extending_govt_guarantees_6_A pril_2010.pdf. 
+
+OPINION OF THE EUROPEAN CENTRAL BANK of 20 December 2010 on extending government guarantees to banks and other institutions and the prolongation of the State recapitalisation scheme (CON/2010/93) (European Central Bank 2010) – _Official ECB document detailing the third extension and expansion of the guarantee scheme._ 
+
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/CELEX_52010AB0093_EN_TXT.pdf. 
+
+## **Press Releases/Announcements** 
+
+Swedish guarantee programme for banks concluded. (05/13/2015) – _Press release published by the Swedish National Debt Office announcing the official end of the guarantee scheme._ https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Riksgalden_Swedish_guarantee_ban ks_concluded_2015.pdf 
+
+## **Media Stories** 
+
+“EU Commission extends Swedish bank guarantee scheme” (Reuters – 12/1/2010) – _Media story announcing the extension of the Swedish guarantee scheme._ 
+
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Reuters_EU_Commission_extends_S wedish_bank_guarantee_2010.pdf 
+
+“Five economic lessons from Sweden, the rock star of the recovery” (The Washington Post - 06/24/2011) – _Media story describing the effects of Sweden’s various government interventions,_ 
+
+
+_including the guarantee scheme._ https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Five economic lessons from Sweden, the rock star of the recovery - The Washington Post.pdf 
+
+“Swedbank pulls out of aid programme.” Financial Times – 04/09/2010) – _Media story describing Swedbank’s recovery following participation in the guarantee scheme._ 
+
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/FT_Swedbank_pulls_out_aid_progra mme_2010.pdf. 
+
+## **Key Academic Papers** 
+
+Maintaining Financial Stability in an Open Economy. Sweden in the Global Crisis and Beyond 
+
+(Bryant et al. 2015) – _Academic paper assessing the impacts of the GFC and related government interventions on Sweden’s economy._ 
+
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Maintaining_Financial_Stability_in_a n_Open_Economy.pdf 
+
+The Design of Government Guarantees for Bank Bonds: Lessons from the Recent Financial Crisis (Levy and Schich 2010) – _Report comparing the various bank debt guarantee schemes implemented by governments around the world in response to the GFC._ 
+
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Levy_and_Schich_2010_0.pdf 
+
+Copyright 2015, 2016, 2020 © Yale University. All rights reserved. To order copies of this material or to receive permission to reprint any or all of this document, please contact the Yale Program for Financial Stability at ypfs@yale.edu.

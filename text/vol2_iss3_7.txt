@@ -1,0 +1,1281 @@
+--- Page 1 ---
+Journal of Financial Crises Journal of Financial Crises 
+Volume 2 Issue 3 
+2020 
+The Commercial Paper Funding Facility (U.S. GFC) The Commercial Paper Funding Facility (U.S. GFC) 
+Rosalind Z. Wiggins 
+Yale School of Management 
+Follow this and additional works at: https://elischolar.library.yale.edu/journal-of-financial-crises 
+ Part of the Administrative Law Commons, Banking and Finance Law Commons, Economic History 
+Commons, Economic Policy Commons, Macroeconomics Commons, Policy History, Theory, and Methods 
+Commons, Public Affairs Commons, and the Public Policy Commons 
+Recommended Citation Recommended Citation 
+Wiggins, Rosalind Z. (2020) "The Commercial Paper Funding Facility (U.S. GFC)," Journal of Financial 
+Crises: Vol. 2 : Iss. 3, 174-201. 
+DOI: https://doi.org/10.17132/2693-3179.1082 
+Available at: https://elischolar.library.yale.edu/journal-of-financial-crises/vol2/iss3/7 
+This Case Study is brought to you for free and open access by the Journal of Financial Crises and 
+EliScholar – A Digital Platform for Scholarly Publishing at Yale. For more information, please contact 
+journalfinancialcrises@yale.edu.
+
+--- Page 2 ---
+READERS TAKE NOTICE: READERS TAKE NOTICE: 
+As of April 2024, the YPFS Resource Library’s site domain has changed 
+to https://elischolar.library.yale.edu/ypfs-financial-crisis-resource-library/. 
+Please be aware that upon clicking any of the URL references to 
+the former Resource Library domains, either https://ypfs.som.yale.edu 
+or https://ypfsresourcelibrary.blob.core.windows.net/, in the 
+"References/Key Program Documents" section of a case study, 
+readers will encounter a "page not found" error. readers will encounter a "page not found" error. 
+Readers can still retrieve a given resource cited within this case study 
+on the new site  by searching by searching here  for the title cited. for the title cited. 
+This case study is available in Journal of Financial Crises: https://elischolar.library.yale.edu/journal-of-financial-
+crises/vol2/iss3/7
+
+--- Page 3 ---
+Commercial Paper Funding Facility 1 
+ 
+Rosalind Z. Wiggins2  
+Yale Program on Financial Stability Case Study 
+August 17, 2017; Revised: October 10, 2020 
+Abstract 
+In mid-September 2008, prime money market mutual funds (MMMFs) began experiencing 
+run-like redemption requests sparked by one fund that had “broken the buck” because of 
+large exposure to Lehman Brothers commercial paper (CP). As a result, MMMFs, which are 
+significant investors in CP, became reluctant to hold CP. Within a week, outstanding CP had 
+been reduced by rough ly $300 billion . T he CP market experienced s evere shortening of 
+maturities and increased rates , making it difficult for issuers to place new pa per. When 
+government efforts to assist the MMMFs did not resolve the stresses in the CP market , the 
+Federal Reserve announced, on October 7, 2008, the Commercial Paper Funding Facility 
+(CPFF), which sought to backstop the CP market and revive term lending.  
+The CPFF (through a special purpose vehicle) purchased highly rated US dollar–
+denominated three-month unsecured and asset-backed commercial paper ( ABCP) from 
+eligible US issuers. Purchases were funded with loans from the Federal Reserve Bank of New 
+York (FRBNY). The CPFF was highly utilized in its first weeks, purchasing the overwhelming 
+majority of new term CP; its usage then waned as market conditions improved. At its highest 
+level, in January 2009,  the CPFF  held $350 billion —20% of all outstanding  CP. The CPFF 
+expired on February 1, 2010, with all loans paid in full. The program accumulated 
+approximately $5 billion in earnings that was paid to the F RBNY. The program is credited 
+with backstopping the market, providing a rollover option for maturing paper, and providing 
+much needed year-end financing. Its role in helping to revive the term -lending market , 
+however, has been debated, but there is evidence that it did help increase len ding between 
+CPFF participants and their relationships with nonfinancial corporate borrowers.  
+Keywords: short-term funding, commercial paper, asset-backed commercial paper (ABCP), 
+mutual fund, money market mutual fund,  liquidity facility,  wholesale funding, Lehman 
+Brothers, Reserve Primary Fund 
+  
+_____________________________________________________________________ 
+1 This case study is part of the Yale Program on Financial Stability (YPFS) selection of New Bagehot Project 
+modules considering the responses to the global financial crisis that pe rtain to market liquidity programs. 
+Cases are available from the Journal of Financial Crises  at https://elischolar.library.yale.edu/journal -of-
+financial-crises/. 
+2 Rosalind Z. Wiggins – Director, Global Financial Crisis Project and Senior Editor, YPFS, Yale  School of 
+Management. 
+174
+
+--- Page 4 ---
+At a Glance 
+Following the bankruptcy of Lehman Brothers on 
+September 15, 2008 , a number of  prime money 
+market mutual funds (MMMFs) began to 
+experience run-like redemption requests after one 
+fund with heavy exposure to Lehman’s commercial 
+paper (CP) “broke the buck ,” announcing that it 
+could no longer maintain its $1 per share net asset 
+value (NAV).  As a result , MMMFs, which are 
+significant investors in CP, retreated from CP. 
+Consequently, the CP market experienced severe 
+narrowing of terms and a corresponding increase 
+in rates, making it difficult for issuers to place new 
+paper, especially term paper. When government 
+efforts to assist the MMMFs did not resolve the 
+stresses in the CP market , the Federal Reserve 
+announced on October 7, 2008, the Commercial 
+Paper Funding Facility (CPFF).  
+Under the CPFF, the Federal Reserve Bank of New 
+York (FRBNY) made loans to a special purpose 
+vehicle—the CPFF LLC —which in turn purchased 
+highly rated, US dollar–denominated, three-month 
+unsecured and asset-backed commercial paper 
+(ABCP) from eligible US issuers (represented by 
+primary dealers) . The FRBNY loans were funded 
+from its discount window , and interest was 
+charged at the target federal funds rate. The 
+maturities of each loan mirrored th at of the CP 
+purchased. The LLC held the CP until maturity and 
+repaid the loans to the FRBNY with interest when 
+the CP matured.  
+Summary Evaluation 
+During its first weeks of operation, CPFF LLC purchased the overwhelming majority of newly issued three-
+month CP, and the launch of the program led to a significant jump in CP issuance. Assets of the LLC more 
+than doubled after one month and reached a peak of $350 billion in January 2009, when the CP it first 
+purchased matured and rolled over. After the early weeks, as market conditions improved, utilization of 
+the CPFF waned. The last of CPFF  LLC’s holdings matured on April 26, 2010, and the LLC was dissolved 
+on August 30, 2010. All loans that were made to the LLC by the FRBNY were repaid in full in accordance 
+with their terms, and all of the CP that the LLC purchased was repaid in accordance with stated terms. The 
+FRBNY received $5  billion in earning s from the LLC as its sole member.  The CPFF coexisted with other 
+government programs aimed at addressing the stress in the CP market, so it is difficult to fully assess its 
+impact. However, the program is credited with backstopping the market , providing a rollover option for 
+maturing paper, and assisting year-end financing. Its role in helping to revive the term -lending market, 
+however, has been debated, but there is evidence that it did help increase lending between CPFF 
+participants and their relationships with nonfinancial corporate borrowers (Li 2015).  
+ 
+Summary of Key Terms 
+Purpose: To fund indirect purchases of highly rated three-
+month unsecured and ABCP from eligible US issuers so as to 
+provide liquidity to the CP market and stimulate term 
+lending. 
+Announcement Date  October 7, 2008 
+Operational Date October 27, 2008 
+Expiration Date  February 1, 2010  
+Dissolution of CPFF LLC August 30, 2010 
+Legal Authority Section 13(3) of the Federal 
+Reserve Act 
+Funding Source FRBNY discount window  
+Interest Rate Target federal funds rate 
+Peak Utilization  $738 billion aggregate 
+purchases; $350 billion 
+outstanding (January 2009); 82 
+issuers (total) 
+CP Eligible for Purchase  Three-month USD-
+denominated unsecured and 
+ABCP rated at least A-1/P-1/F1 
+issued by eligible US issuers 
+Special Purpose Vehicle  CPFF LLC 
+Administrator FRBNY 
+Participants US Department of the Treasury 
+contributed $50 billion to 
+support the CPFF  
+Various expert firms were 
+hired to assist the LLC with 
+administration and 
+investments. 
+Commercial Paper Funding Facility  
+175
+Journal of Financial Crises Vol. 2 Iss. 3
+
+--- Page 5 ---
+Commercial Paper Funding Facility:  United States Context 
+ 
+GDP 
+(SAAR, Nominal GDP in 
+LCU converted to USD) 
+ 
+$14,681.5 billion in 2007 
+$14,559.5 billion in 2008 
+ 
+Source: Bloomberg 
+ 
+GDP per capita 
+(SAAR, Nominal GDP in 
+LCU converted to USD) 
+ 
+$47,976 in 2007 
+$48,383 in 2008 
+ 
+Source: Bloomberg 
+ 
+Sovereign credit rating 
+(5-year senior debt) 
+ 
+As of Q4, 2007: 
+ 
+Fitch: AAA 
+Moody’s: Aaa 
+S&P: AAA 
+ 
+As of Q4, 2008: 
+ 
+Fitch: AAA 
+Moody’s: Aaa 
+S&P: AAA 
+ 
+Source: Bloomberg 
+ 
+Size of banking system 
+ 
+$9,231.7 billion in total assets in 2007 
+$9,938.3 billion in total assets in 2008 
+ 
+Source: Bloomberg 
+ 
+Size of banking system 
+as a percentage of GDP 
+ 
+62.9% in 2007 
+68.3% in 2008 
+ 
+Source: Bloomberg 
+ 
+Size of banking system 
+as a percentage of 
+financial system 
+ 
+Banking system assets equal to 29.0% of financial 
+system in 2007 
+Banking system assets equal to 30.5% of financial 
+system in 2008 
+ 
+Source: World Bank Global Financial Development 
+Database 
+ 
+5-bank concentration of 
+banking system 
+ 
+43.9% of total banking assets in 2007 
+44.9% of total banking assets in 2008 
+ 
+Source: World Bank Global Financial Development 
+Database 
+ 
+Foreign involvement in 
+banking system 
+22% of total banking assets in 2007 
+18% of total banking assets in 2008 
+ 
+Source: World Bank Global Financial Development 
+Database 
+176
+Commercial Paper Funding Facility Wiggins
+
+--- Page 6 ---
+Government ownership 
+of banking system 
+ 
+0% of banks owned by the state in 2008 
+ 
+Source: World Bank, Bank Regulation and 
+Supervision Survey 
+ 
+Existence of deposit 
+insurance 
+100% insurance on deposits up to $100,000 for 
+2007 
+100% insurance on deposits up to $250,000 for 
+2008 
+ 
+Source: Federal Deposit Insurance Corporation 
+177
+Journal of Financial Crises Vol. 2 Iss. 3
+
+--- Page 7 ---
+1 
+ 
+I. Overview 
+Background 
+On September 16, 2008, the day after Lehman Brothers filed for bankruptcy, the $62 billion 
+Reserve Primary Fund, a money market mutual fund (MMMF) wrote down its $785 million 
+exposure to Lehman commercial paper ( CP), which caused it to “break the buck ,” and it 
+announced a net asset value (NAV) of less than $1 per share.  Since investors tended to 
+believe their MMMF holdings were as good as cash (only one MMMF had ever broken the 
+buck before), the fund’s announcement prompted run -like redemption requests by many 
+MMMF investors, and in the following week , investors withdrew $117 billion from prime 
+MMMFs (Adrian, Kimbrough, and Marchioni 2011).  
+As they scrambled for cash to meet redemptions and maintain their expected $1 -per-share 
+NAVs, MMMFs, which in the aggregate are significant investors in CP, refused to roll over the 
+maturing CP they held or to purchase new CP. A month after Lehman’s bankruptcy, 
+outstanding CP had declined by $300 billion (Adrian, Kimbrough, and Marchioni 2011 ). 
+Seventy percent of this decline was a flight from financial CP, which was CP issued by banks 
+and other financial institutions, which is traditionally unsecured. Seventy-five percent of the 
+remaining CP was being rolled over daily, in contrast to traditionally being issue d with 
+maturities of 30 days or more (Anderson and Gascon 2009 ). After September 2008, this 
+contraction in maturities was coupled with sharply elevated rates, all but freezing the market 
+for term CP and asset-backed commercial paper (ABCP). 
+Concerned that stresses on the MMMFs and seizing up of the CP market might have negative 
+effects on the financial system and possibly spill  over to the broader economy, the 
+government took steps to counter the stresses , including an optional guarantee of MMMF 
+accounts against losses resulting from a fund breaking the buck 3 and the indirect purchase 
+of high-quality ABCP from MMMFs that experienced investor runs. 4 Although these actions 
+helped to protect the MMMFs, and forestall their selling assets at  greatly depressed prices, 
+they did not fill the gap in demand for CP created by the exit of MMMFs , nor did  CP rates 
+stabilize.  
+Program Description 
+On October 7, 2008, the Federal Reserve (the Fed) announced the Commercial Paper 
+Funding Facility (CPFF), which was intended to provide a liquidity backstop to the CP market 
+by funding the purchase of highly  rated CP from issuers  and “to improve liquidity in short -
+term funding markets and thereby increase the availability of credit for businesses and 
+households” (Federal Reserve  2008a; Federal Reserve 2008c ). The CPFF was established 
+pursuant to the Fed’s emergency authority under Section 13(3) of the Federal Reserve Act  
+of 1913 (FRA)5 and was funded from the Fed’s discount window (FRBNY 2009).  
+_____________________________________________________________________ 
+3 US Treasury Temporary Guarantee Programs for Money Market Funds. Also see McNamara (2016) discussing 
+the guarantee program. 
+4 See Wiggins ( forthcoming) discussing the Asset -Backed Commercial Paper Money Market Mutual Fund 
+Liquidity Facility (AMLF). 
+5 Federal Reserve Act  of 1913, Section 13(3)  (12 U.S.C. § 343)—“Discount of Obligations Arising out of Actual 
+Commercial Transactions, as Amended.” 
+178
+Commercial Paper Funding Facility Wiggins
+
+--- Page 8 ---
+A designer of CPFF comments that it was regarded by many Fed staffers as the program that 
+most pushed the envelope of what was legal under FRA Section 13(3). This was because the 
+Fed was effectively lending on a mostly unsecured basis and relying on accumulated upfront 
+fees to cover potential losses. At the time, this structure was intensely debated. 
+Under the CPFF , the Fed purchased highly rated, US dollar–denominated, three -month 
+unsecured CP and ABCP from a wide range of eligible financial and nonfinancial US issuers 
+(FRBNY 2009) . The purchases were made indirectly through a newly established special  
+purpose vehicle, CPFF  LLC, which was administered by the Federal Reserve Bank of New 
+York (FRBNY), the LLC’s managing, and only, member (Adiran, Kimbrough, and Marchioni 
+2011). 
+As shown in Figure  1, under the CPFF , the FRBNY loaned funds to the LLC, which then 
+purchased and held eligible CP from the primary dealers that represented eligible issuers.  
+The FRBNY loans were secured by all of the assets of the LLC, including the CP purchased, 
+assets purchased with the accumulated upfront fees paid by the issuers, any uninvested fees, 
+and any earnings. The rate charged to the LLC on loans from the FRBNY was the same as the 
+targeted federal funds rate charged to depository institutions that borrowed from the Fed’s 
+discount window, and the term of each loan mirrored the three-month term of the CP 
+purchased. When the CP matured, the LLC repaid the loan to the FRBNY with interest. All 
+assets and liabilities of the LLC were consolidated onto the balance sheet of the FRBNY. 
+Eligible Issuers 
+Issuers eligible to sell CP to the CPFF were US issuers of CP, including US issuers with a 
+foreign parent company  (FRBNY 2009). Each legal entity that issues CP was considered a 
+separate issuer under the CPFF. 
+Figure 1: Issuance to the Commercial Paper Funding Facility (CPFF) 
+ 
+Note: Solid Lines represent steps in the transaction; dashed lines represent some of the control. 
+Source: Adrian, Kimbrough, and Marchioni 2011. 
+179
+Journal of Financial Crises Vol. 2 Iss. 3
+
+--- Page 9 ---
+An issuer with an eligible foreign parent, however, could not sell to the LLC any CP issued by 
+other parts of the organization. In addition, in determining its Maximum Face Value6 (which 
+was the maximum amount of CP that a participating issuer could have outstanding on any 
+day) such  issuer would not include any commercial paper issued by other parts of the 
+organization (FRBNY 2009). 
+Issuers who wished to access the CPFF were required to register  with the Fed at least two 
+business days in advance of their intended use of the CPFF by submitting the completed 
+Issuer Registration Documents and paying the facility registration fee of 10 basis points 
+(0.1%) on their Maximum Face Value (FRBNY 2009). 
+CPFF Purchased 
+The CPFF purchased only three-month, US dollar–denominated unsecured CP and ABCP that 
+was rated at least A -1/P-1/F1 by a nationally recognized statistical rating organization 
+(NRSRO) (FRBNY 2009). If rated by multiple NRSROs, the CP had to be rated at leas t A-1/P-
+1/F1 by two or more NRSROs. 
+As was the market custom, the LLC  purchased CP at a discount from face value  (FRBNY 
+2009). The applicable discount was based on a rate equal to a spread over the three-month 
+overnight index swap (OIS) rate on the day of purchase. The spread for unsecured CP was 
+100 basis points per annum , and the spread for ABCP was 300 basis points per annum. For 
+unsecured CP, an additional 100 basis points per annum was imposed as a credit 
+enhancement fee, to be paid on each trade execu tion date. This fee was to compensate the 
+Fed for the higher risk involved with respect to unsecured CP and to ensure that the lending 
+was “indorsed or otherwise secured to the satisfaction of the Federal Reserve Bank,” a 
+requirement of Section 13(3) of th e FRA. An issuer of unsecured CP that participated in the 
+Federal Deposit Insurance Corporation’s (FDIC’s) Temporary Liquidity Guarantee Program 
+(TLGP),7  which was implemented on October 14, 2008, could avoid the credit enhancement 
+fee for issues covered by the TLGP, which was accepted by the CPFF as a satisfactory 
+guarantee (FRBNY 2009).  The CPFF provided same -day settlement , operating as an 
+immediate source of funds. 
+Use of Third Parties 
+The FRBNY relied on a combination of existing and new infrastructure to implement the 
+CPFF and sought the input of market participants when deciding on the terms and 
+operational details of the CPFF (Federal Reserve 2008c). For example, the FRBNY required 
+each CP issuer to utilize a primary dealer as an issuing agent, even if the issuer usually placed 
+its CP directly. In this way , the Fed relied on the primary dealers’ market knowledge and 
+_____________________________________________________________________ 
+6 The Maximum Face Value was calculated as the greatest amount of US dollar –denominated A-1/P-1/F1 CP 
+that the issuer had outstanding on any day between January 1 and August 31, 2008 (Registration Instructions). 
+The Registration Instructions also provided that, “[i]f the Issuer has more than one commercial paper program, 
+[the Maximum Face Value] should be the aggregate amount outstanding under all programs on a single day and 
+all of the Issuer’s programs should be listed below …  The Issuer agrees that while participating in this Facility, 
+it will not sell commercial paper to the CPFF such that the total amount of commercial paper outstanding 
+(including commercial paper held by the CPFF and other investors) would exceed the Maximum Face Value. ” 
+7 On October 1 4, 2008, the Federal Deposit Insurance Corporation ( FDIC) implemented the Temporary 
+Liquidity Guarantee Program (TLGP) consisting of two components: (1) the Transaction Account Guarantee 
+Program (TAGP), an FDIC guarantee in full of noninterest -bearing tran saction accounts; and (2) the Debt 
+Guarantee Program (DGP), an FDIC guarantee of certain newly issued senior unsecured debt ( FDIC, n.d.). 
+180
+Commercial Paper Funding Facility Wiggins
+
+--- Page 10 ---
+their verification of potential issuers’ creditworthiness based on established market criteria 
+(Adrian, Kimbrough, and Marchioni 2011). 
+In similar fashion, the FRBNY hired Pacific Investment Management Company, LLC (PIMCO) 
+to advise it in setting up the CPFF infrastructure and  to provide transaction agent and 
+investment management services (Adrian, Kimbrough, and Marchioni 2011) . It hired State 
+Street Bank and Trust (State Street) to hold custody of the LLC’s assets and perform its 
+administrative functions. (The LLC had no employees. State Street, in essence, operated on 
+its behalf.) The Depository Trust Company, which traditionally cleared CP transactions for 
+the primary dealers and State Street, among others, also provided these services for the 
+CPFF.  
+The consultation with and use of experts enabled the Fed to begin issuer preregistration for 
+the CPFF on October 20, 2008, and to make the first purchases of CP pursuant to the CPFF 
+on October 27, 2008, just 20 days after the facility’s announcement (Adrian, Kimbrough, and 
+Marchioni 2011). 
+Outcomes 
+Usage of the CPFF was aggressive, and rates on CP in the market fell precipitously as soon as 
+the program was announced.  On the first day of operation, the CPFF purchased more than 
+$50 billion of CP; in its first week, $144 billion . During the next few weeks, it purchased the 
+overwhelming majority of newly issued three-month CP. Assets of the CPFF more than 
+doubled after one month, reaching $293 billion  by the end of November 2008 , and reached 
+$333 billion by the end of December 200 8. The CPFF reached its peak of $350 billion —the 
+maximum amount outstanding at any one time —during the third week of January 2009 , 
+when the CP first purchased by the CPFF matured and was rolled over. At this time, the LLC 
+owned 20% of all outstanding CP (Anderson and Gascon 2009). 
+Figure 2 illustrates the CPFF’s share of new issues and outstanding CP during its tenure. 
+  
+181
+Journal of Financial Crises Vol. 2 Iss. 3
+
+--- Page 11 ---
+Figure 2: CPFF Share of Purchases and Outstanding Commercial Paper 
+ 
+Source: FRB, H.4.1 Table; Federal Reserve Bank of New York (Anderson and Gascon 2009). 
+ 
+In total, the CPFF purchased an aggregate of $738 billion in CP, including $342 billion of ABCP 
+(Li 2015). Eighty-two issuers participated in the CPFF ; however, when aggregated at the 
+sponsor level, it is evident that usage was somewhat concentrated as the top 10 issuers 
+accounted for approximately $474 billion, or more than half of the program total. 
+Approximately 10% of the purchased CP was from nonfinancial corporations or their finance 
+affiliates, such as G eneral Electric Company, Ford  Motor Co mpany, General Motors  
+Corporation, and BMW (Li 2015; van Deventer 2011). 
+Figure 3 shows the patterns of usage of the CPFF by the 10 largest sponsors. Included are a 
+number of large financial institutions and nonfinancial institutions that were known to be 
+having difficulties at the time, such as American International Group, Dexia SA, Fortis SA/NV, 
+and Citi group (van Deventer 2011) . Notably, this grou ping included a number of US 
+subsidiaries of foreign banks, with UBS-related issuers having the most CP purchased by the 
+program. In aggregate, banks with European parents accounted for nearly 60% of the 
+utilization of the CPFF.  This became a point of cont roversy when disclosed by the Fed in 
+2011. 
+ 
+  
+182
+Commercial Paper Funding Facility Wiggins
+
+--- Page 12 ---
+As market conditions improved, utilization of the CPFF waned. By December 2009 , the 
+facility held only $10 billion of assets, and by April 2010 , the balance fell to zero. The 
+aggregate lent under the facility during its tenure was $7 38 billion. In terms of dollars 
+expended, it was the third-largest program implemented by the Fed to combat the financial 
+crisis. Only the Term Auction Facility  (TAF)8 and the US dollar swaps with foreign central 
+banks9 were larger.  
+The CPFF expired on February 1, 2010. All loans that were made to the LLC by the FRBNY 
+were repaid in full in accordance with the terms of the facility, and all the CP that the LLC 
+_____________________________________________________________________ 
+8 See Wiggins and Metrick 2016a for a discussion of the Term Auction Facility (TAF).  
+9 See Wiggins and Metrick 2016b for a discussion of the US dollar swaps with foreign central banks.  
+Figure 3:  Ten Largest Sponsors That Utilized the Commercial Paper Funding Facility 
+(CPFF)  
+Parent/Sponsor Name Amount 
+(millions) 
+Frequency CP 
+Type 
+Discount 
+Rate 
+(%) 
+Credit 
+Enhancement 
+(%)  
+UBS 
+ 
+74,531.102 
+ 
+11 
+ 
+CP 
+ 
+1.452 
+ 
+1.000 
+American 
+International Group 
+60,230.602 90 CP 1.908 0.711 
+Dexia SA 53,476.301 42 CP 1.370 1.000 
+Hudson Castle 53,343.199 48 ABCP 3.320 0.000 
+BSN Holdings 42,794.000 57 ABCP 3.326 0.000 
+The Liberty 
+Hampshire Company 
+41,379.801 36 ABCP 3.365 0.000 
+Barclays PLC 38,774.898 7 CP 1.320 1.000 
+Royal Bank of 
+Scotland Group 
+38,517.000 67 ABCP 2.975 0.164 
+Fortis Bank SA/NV 38,483.699 69 ABCP 3.173 0.072 
+Citigroup 32,735.000 10 ABCP 2.711 0.000 
+Total 474,265.602 437    
+Note: This table illustrates the 10 largest sponsors by total amount that used the Commercial Paper 
+Funding Facility during the period of October 27, 2008, to February 1, 2010. The names are 
+shown at t h e  sponsor level instead of issuer level. This information is collected from the 
+Federal Reserve Board. The “Amount (millions)” column indicates the total amount of 
+CP/ABCP purchased by the Federal Reserve. The “Frequency” column shows the total numbers 
+of transactions. The “Discount Rate” column denotes the lending fee for accessing the CPFF , 
+which was equal to a three-month OIS rate plus 100 basis points per annum for unsecured 
+commercial paper. The discount rate imposed for asset-backed commercial paper was a three-
+month OIS plus 300 basis points. The “Credit Enhancement” column indicates the surcharge 
+of a 100 basis point per annum fee paid up front on each sale of commercial paper to the 
+CPFF LLC in the cases without any collateral. 
+Source: Li 2015. 
+183
+Journal of Financial Crises Vol. 2 Iss. 3
+
+--- Page 13 ---
+purchased was repaid in accordance with stated terms. The last of the LLC’s holdings 
+matured on April 26, 2010, and it was dissolved on August 30, 2 010. The LLC accumulated 
+nearly $5 billion in earnings, primarily from interest income, credit enhancement fees, and 
+registration fees, which was paid to the FRBNY as managing member. 
+II. Key Design Decisions 
+1. The CPFF was established under the Federal Reserve’ s emergency powers under 
+Section 13(3) of the Federal Reserve Act. 
+In establishing the CPFF , the Fed relied on its authority under Section 13(3) of the Federal 
+Reserve Act, which permits the Federal Reserve Board (the Board), in unusual and exigent 
+circumstances, to authorize Reserve Banks to extend credit to individuals, partnerships, and 
+corporations that are unable to obtain adequate credit accommodations. Federal Reserve 
+counsel cited a litany of events 10 in its memorandum analyzing the  deteriorating ma rket 
+conditions and found that they were directly affecting the broader economy “[b]y restricting 
+the availability of credit” and “disrupt[ing] the commercial paper market and other forms of 
+financing for a wide range of firms.” (Alvarez et al. 2009). Counsel then concluded that there 
+was manifest evidence that “unusual and exigent circumstances” existed sufficient to 
+support the Board’s authorization of the CPFF under Section 13(3) of the FRA and also 
+“sufficient evidence to support a judgment that adequate credit accommodations for eligible 
+issuers of term CP are not available from other banking institutions” (Alvarez et al. 2009). 
+The CPFF represented a shift in the Fed’s policy approach to the crisis because it was a direct 
+effort to backstop a particular credit market that was failing. Further, through the CPFF, the 
+Fed in effect extended its discount window lending well beyond the entities to which it 
+traditionally lent —depository institutions and primary dealers —to provide liquidity to a 
+wide variety of financial and nonfinancial entities of varying sizes. Given the limited tools 
+available to the Fed, the CPFF in essence enabled it to utilize its pool of funds in a new way 
+to combat the deepening crisis.   
+A designer of CPFF comments that it was regarded by many Fed staffers as the program that 
+most pushed the envelope of what was legal under FRA Section 13(3). This was because the 
+Fed was effectively lending on a mostly unsecured basis and relying on accumulated upfront 
+fees to cover potential losses. At the time, this structure was intensely debated. 
+2. The FRBNY determined that the CPFF loans were “indorsed or otherwise secured 
+to [its] satisfaction” as required by Section 13(3) of the Federal Reserve Act. 
+The wording of FRA Section 13(3) is broad and permits a Federal Reserve Bank discretion 
+to determine whether it is “secured to [its] satisfaction” in acting under the section. CPFF 
+design elements —having issuers preregister and be vetted, requiring use of a primary  
+dealer, upfront registration fees, credit quality, pricing, and maximum issuance amount —
+were structured with the intent to protect the Fed from associated risks. Moreover, the legal 
+staffs of the Board and the FRBNY were involved in providing advice regar ding the 
+_____________________________________________________________________ 
+10 Developments cited included : (1) that for the past year , “the CP market has been under considerable strain 
+as money market mutual funds (MMMFs) and other investors have become increas ingly reluctant to purchase 
+CP”; (2) that financial systems in the US and abroad were under “extraordinary stress, particularly the credit 
+and money markets”; and (3) that banks were “constrained in their ability to lend” and others were reluctant 
+to lend to them (Alvarez et al. 2009). 
+184
+Commercial Paper Funding Facility Wiggins
+
+--- Page 14 ---
+design and implementation of the CPFF and concluded that the FRBNY could reasonably 
+determine that its loans to the LLC would be adequately secured on several levels:  
+• Under the CPFF, the FRBNY’s loans to the LLC would be secured by all of the assets of 
+the LLC, including the CP purchased, assets purchased with the accumulated upfront 
+fees paid by the issuers,  any uninvested fees, and any earnings. In addition, the CP 
+eligible for purchase under the facility would  be highly rated, and purchases would 
+be subject to a discount from face value . Based on the sum of these facts, counsel 
+concluded that the FRBNY could reasonably conclude that all loans to the LLC would 
+be “secured to [its] satisfaction” with respect to all loans to the LLC. 
+ 
+Counsel further determined that if individual purchases of ABCP were considered, the 
+FRBNY could reasonably reach a similar conclusion because the ABCP was 
+collateralized by the pools of assets  underlying the ABCP , even though these p ools 
+might dip below the face value of the ABCP. Moreover, the risk of a drop in value was 
+somewhat mitigated by the discount applied at purchase. 
+ 
+• With respect to individual purchases of unsecured CP, counsel found that the credit 
+premium fee of 100 basis points charged acted as an insurance premium (Alvarez et 
+al. 2009). This fee, together with the facility registration fee of 10 basis points on the 
+Maximum Face Value charged to each issuer , provided a pool 11 to compensate the 
+FRBNY for any losses resulting from the CP. 
+3. The FRBNY outsourced certain key CPFF administrative functions.  
+The Fed had to build new legal, trading, investment, custodial , and administrative 
+infrastructure for CPFF operations as well as  establish essential financial and operational 
+risk controls. Time was of the essence, so the Fed accessed market expertise and operational 
+efficiencies through contracted third parties that regularly participated in the CP market: 
+• PIMCO advised the FRBNY in setting up the CPFF infrastructure and provided 
+transaction agent and investment management services. 
+• State Street provided administrative and custodial services (in essence, it held the LLC 
+in custody and performed all its administrative functions). Th e LLC had no 
+employees.  
+• Primary dealers  acted as agents verifying issuers’ eligibility. Since they had 
+established relationships with the FRBNY and actively underwrote, placed, and made 
+a market in CP, they were well suited to intermediate between the CP issuers and the 
+_____________________________________________________________________ 
+11 The transcript from a Federal Open Market Committee (FOMC) meeting that occurred a week after the CPFF 
+began preregistration reflects that, “[a]t the close of business last week [the first week of CPFF operations], 79 
+issuers had registered to use the facility, paying 10 basis points, or $580 million, to cover the potential issuance 
+of commercial paper. The 10 basis point fee provides a little equity to get the program off and running” (FOMC 
+2008b). The CPFF also accepted pa rticipation in the FDIC’s Temporary Liquidity Guarantee Program in lieu of 
+the credit enhancement fee. 
+ 
+185
+Journal of Financial Crises Vol. 2 Iss. 3
+
+--- Page 15 ---
+Fed. Issuers were required to sell through a primary dealer even if the issuer normally 
+issued its CP directly without use of an agent (Registration Instructions). 
+• Depository Trust Company , which traditionally cleared CP transactions for the 
+primary dealers, CP issuing and paymen t agents (hired by issuers), and State Street, 
+provided these services for the CPFF. This permitted the CPFF to purchase CP through 
+the market’s standard clearing institution and provided same -day settlement, which 
+made it a  viable option for issuers facin g unexpected liquidity needs ( Registration 
+Instructions). 
+Combining existing and new infrastructure  and incorporating market expertise  in this 
+manner permitted the Fed to: (1) analyze a number of options in designing the facility, such 
+as fees and managing  credit risk, hypothetical losses , and moral hazard ; and (2) design a 
+structure that was consistent with market standards and easily accessible to a wide number 
+of potential issuers (Adrian, Kimbrough, and Marchioni 2011 ). Use of experts also helped 
+make the CPFF operational by October 27, 2008, just 20 days after its announcement. 
+4. The CPFF was limited to “legacy issuers, ” those that had issued CP before the 
+adoption of the CPFF.  
+The CPFF was intended to address the gap in funding caused by recent market disruptions, 
+not to be an additional liquidity channel. Thus , the CPFF was originally available only to 
+“legacy issuers,” any company that had issued CP before its inception, including those with a 
+foreign parent. In January 2009, the Fed further clarified this eligibility criterion with respect 
+to ABCP issuers. Such an issuer was deemed to have been inactive (and thus not eligible to 
+participate in the CPFF ) if the issuer had not issued ABCP to institutions other than the 
+sponsoring institution for any period of three consecutive months or longer between January 
+1 and August 31, 2008 (FRBNY, CPFF: FAQs Jan. 23, 2009). This modification reinforced the 
+original intent of the facility and sought to limit moral hazard by excluding issuances that “no 
+longer had a natural investor base,” and mitigated the risk of funding issuers that the market 
+had withdrawn from for reasons unrelated to the crisis  (Adrian, Kimbrough, and Marchioni 
+2011). 
+5. There were no restrictions on the type of entity that could borrow under the CPFF, 
+subject to being a US entity and “legacy issuer.” 
+In implementing the CPFF, the Fed decided that because of the broad nature of the CP market, 
+to be an effective backstop the CPFF had to be accessible to a “large cross -section of the 
+commercial-paper market while minimizing credit risk to the Reserve Bank”  (Adrian, 
+Kimbrough, and Marchioni 2011 ). CP issuers  were a vari ed group of financial and 
+nonfinancial entities. Issuers eligible to utilize the CPFF had to be US entities, and included 
+US subsidiaries of foreign companies. However, any type of US company meeting the 
+definition of “legacy issuer” could utilize the CPFF. A narrower facility —for example, one 
+limited to financial entities —might not have addressed the issue of spillover to the real 
+economy. 
+Because the group of potential issuers was much broader than the limited types of firms the 
+Fed usually dealt with (depository institutions and primary dealers), it relied on its primary 
+dealers, which had CP market expertise and knowledge of issuers, as intermediaries. The 
+terms of the CPFF required issuers to sell through one or more primary dealer(s), even if the 
+issuer normally issued its CP directly. In t his way , there was one additional check on 
+potential issuers’ creditworthiness.  
+186
+Commercial Paper Funding Facility Wiggins
+
+--- Page 16 ---
+6. US subsidiaries of foreign companies were permitted to borrow under the CPFF. 
+US subsidiaries of foreign companies were eligible to borrow under the CPFF as long as they 
+otherwise met the definition of “legacy issuer .” An analysis of the CPFF transaction data 
+shows that , on average , European banks had borrowings of $145.5 billion, 57.3% of the 
+average outstanding borrowings under the CPFF. A number of banks that were experiencing 
+well-reported difficulties  were among the list of top borrowers, including UBS, Dexia SA, 
+Royal Bank of Scotland, and Fortis SA/NV (van Deventer 2011). 
+7. The amount of CP that could be purchased from any one issuer was limited.  
+The maximum amount of a single issuer’s commercial paper that CPFF LLC could own at any 
+time was “the greatest amount of US dollar-denominated A-1/P-1/F1 commercial paper the 
+issuer had outstanding on any day between January 1 and August 31, 2008.”   This amount 
+was called the “Maximum Face Value.” If an issuer had more than one CP program, the 
+Maximum Face Value would be the aggregate amount outstanding under all programs on a 
+single day. In addition, by executing the CPFF Issuer Registration Form and Qualification 
+Certification, the issuer agreed that while participating in the CPFF , it would not sell CP to 
+the CPFF such that the total amount of CP outstanding (including CP held by t he CPFF and 
+other investors) would exceed the Maximum Face Value. These limitations helped to 
+maximize availability of the CPFF. 
+8. Fees and lending rates were structured to maximize availability while 
+discouraging arbitrage and moral hazard.  
+Similar to a ba nk loan commitment fee, a facility registration fee of 10 basis points (0.1%) 
+times the issuer’s Maximum Face Value was required for issuers seeking to utilize the CPFF. 
+The fee was payable upon registration and nonrefundable, even if the issuer never issued CP 
+under the CPFF. General Electric, whose GE Capital unit was the largest US issuer of CP in 
+October 2008 (and traditionally a direct issuer), registered and announced plans to use the 
+program that it called “good for the market and very important for the buyers of GE paper as 
+it provide[d] a secondary market” (Layne 2008). 
+As was the market custom, the CP was purchased at a discount from face value. The CP 
+purchased by the LLC was discounted based on a rate equal to a spread over the three-month 
+OIS rate on the day of purchase. As shown in Figure 4, the spread for unsecured commercial 
+paper was 100 basis points per annum and the spread for ABCP was 300 basis points per 
+annum.  
+187
+Journal of Financial Crises Vol. 2 Iss. 3
+
+--- Page 17 ---
+Figure 4: Applicable Rates and Fees under the CPFF  
+Type of Fee Type of CP 
+ Unsecured ABCP 
+Lending Rate 
+(Discount/Haircut) 
+3-month overnight index swap 
+rate (OIS) + 100 bps 
+3-month overnight index swap 
+rate (OIS) + 300 bps 
+Unsecured Credit 
+Surcharge 
+100 bps on settlement  None 
+Total 3-month OIS + 200 bps 3-month OIS + 300 bps 
+Registration Fee 10 bps x Maximum Face Value  10 bps x Maximum Face Value 
+Source: FRBNY CPFF: Program Terms and Conditions, Effective October 14, 2008.  
+For unsecured CP, a credit enhancement fee of 100 basis points was charged on settlement. 
+This was to compensate the Fed for the higher risk involved and to ensure that the Fed was 
+“secured to [its] satisfaction” with respect to the unsecured CP, a requirement of FRA Section 
+13(3). However, this fee could be waived if the issuer participated in the FDIC’s TLGP (FRBNY 
+2009). 
+Fees under the CPFF were originally lower than market rates but were designed to be 
+unattractive when the market recovered, creating a disincentive for issuers to continue to 
+utilize the CPFF. As was expected, as the market recovered, usage of the CPFF declined. In 
+extending the CPFF to February 1, 2010, the Federal Reserve explained “[i ]nterest rates 
+posted on the CPFF are at levels that are increasingly unattractive for many bo rrowers as 
+market conditions improve, and accordingly usage of the CPFF is declining fairly steadily” 
+(Federal Reserve 2009b). 
+9. CPFF accepted only highly rated US dollar–denominated, three-month CP and 
+ABCP for purchase. 
+CP eligible for purchase by the CPFF was only that rated A -1/P-1/F1, unsecured or asset -
+backed. Consistent with Rule 2a-7 (which provides restrictions governing MMMFs), per fund 
+conventions, a split rating was acceptable if two ratings were top -tier. In the time between 
+Lehman’s bankruptcy and the CPFF  starting operations, outstanding CP dropped by $300 
+billion, and 70% of this decline was due to financial CP  (Adrian, Kimbrough, and Marchioni 
+2011; Anderson and Gascon 2009). ABCP, which was widely used to finance consumer and 
+commercial assets and which had experienced substantial contraction during 2007, 
+experienced a much smaller drop, but maintaining this type of consumer and small business 
+funding was perceived as key to containing the crisis. Since highly rated CP constituted 
+nearly 90% of the market at the time, limiting the eligible CP to these criteria still enabled 
+the Fed to backstop almost the entire market while also shielding the Fed from CP with 
+greater credit risk (Adrian, Kimbrough, and Marchioni 2011). 
+10.  Purchases under the CPFF were limited to three-month CP. 
+188
+Commercial Paper Funding Facility Wiggins
+
+--- Page 18 ---
+When the CPFF was enacted, 75 % of newly issued CP had a maturity of one to four days. 
+Because the CPFF was  designed to offer funding beyond what was already available in the 
+market, its focus became term lending. Traditionally, CP has been more liquid at one - and 
+three-month maturities, and since there were funding concerns for the approaching year 
+end, the Fed decided that the CPFF would purchase only three-month CP. Further, providing 
+term funding also helped to mitigate rollover risk. Issuers could place CP for longer periods 
+than the short maturities that the market was then accepting, and the Fed believed that this 
+would provide additional stability to the market because issuers did not have to immediately 
+look to refinance such amounts (Adrian, Kimbrough, and Marchioni 2011). 
+11.  The Federal Reserve utilized a special  purpose vehicle, CPFF LLC, to purchase CP 
+under the CPFF rather than purchase and hold it directly. 
+The FRBNY administered the CPFF and provided three -month loans to the LLC. The LLC 
+would then use the funds to purchase eligible commercial paper from eligible issuers 
+through a primary dealer as issuing agent. The FRBNY’s loans were secured by the LLC’s 
+assets, including the CP that it purchased, fees that it collected and any uninvested fees, and 
+earnings and proceeds from investments. This structure was chosen because the Fed would 
+be dealing in a security that it did not normally handle and with many types of entities that 
+it did not normally lend to. (Adrian, Kimbrough, and Marchioni 2011). 
+12.  The CPFF was funded through loans from the FRBNY discount window.  
+Each week, the FRBNY loaned funds to CPFF LLC through the custodian, which would then 
+transfer the funds to the LLC. The LLC would then purchase the CP, which operated as 
+security for the loans, from the primary dealers (acting as the issuers’ issuing and payment 
+agents). When the CP matured, the issuer paid the LLC the principal plus interest. CPFF LLC 
+then repaid the FRBNY the principal of its loan and interest at the federal funds target rate 
+on the original loan date.  The US Treasury also made a special deposit of $50 billion to the 
+FRBNY in support of the CPFF (Federal Reserve 2009a; FOMC 2008a).   
+III. Evaluation 
+GE Capital registered for the CPFF on October 23 and first accessed the facility on October 
+27, 2008. It commented favorably on the facility in a statement  to its investors  made on 
+November 12, 2008: 
+While we have continued to issue our commercial paper wi thout disruption, we 
+believe this facility has added an important liquidity backstop to the $1.6 trillion 
+commercial paper (CP) market, helping to reduce rollover risk for participating 
+issuers and providing support for a more active secondary market. The CPFF has 
+strengthened confidence in the prime commercial paper market and has resulted in 
+more term buying, thus extending our average maturity range. We are eligible to 
+access the CPFF for up to $98 billion. 
+This facility in addition to the recently annou nced Money Market Investor Funding 
+Facility will provide significant support for the CP market. We are seeing maturities 
+extending and improved pricing in the market as a result of this program. (GEC 2008) 
+In testifying before the US House of Representativ es Committee on Financial Services on 
+November 18, 2008, then–Federal Reserve Chairman Ben Bernanke also cited the impact of 
+the CPFF as favorable : “[It has] allow[ed] many firms to extend significant amounts of 
+189
+Journal of Financial Crises Vol. 2 Iss. 3
+
+--- Page 19 ---
+funding into next year,” resulting in “greater stability in money market mutual funds and the 
+commercial paper market” (Bernanke 2008).   
+A report that the Federal Open Market Committee (FOMC) received at its January 2009 
+meeting described the impact of the CPFF and other Fed liquidity measures directed at the 
+CP market: 
+Conditions in the commercial paper (CP) market improved over the intermeeting 
+period, likely reflecting recent measures taken in support of this market, greater 
+demand from institutional investors, and the passing of year-end. Yields and spreads 
+on 30-day A1/P1 nonfinancial and financial CP as well as on asset-backed commercial 
+paper (ABCP) declined modestly and remained low. Yields and spreads on 30 -day 
+A2/P2 CP, which is not eligible for purchase under the CPFF, d ropped sharply after 
+the beginning of the year as some institutional investors reportedly reentered the 
+market. The dollar amounts of outstanding unsecured financial and nonfinancial CP 
+and ABCP rose slightly, on net, over the intermeeting period. This sma ll change was 
+more than accounted for by the increase in CP held by the CPFF. In contrast, credit 
+extended under the AMLF declined over the intermeeting period. (FOMC 2009) 
+As noted above, the CPFF coexisted with other government programs aimed at addressi ng 
+the stress impacting the CP market, so it is difficult to assess its independent impact. In 
+explaining the high usage of the CPFF , however, Adrian, Kimbrough, and Marchioni (2011) 
+point to two factors: (1) its directness and (2) its scope:   
+First, the CPFF addressed problems in short -term debt markets at their root —
+through direct lending to issuers —at a time when issuers faced potential liquidity 
+shortfalls as a result of market dislocations. Indeed, the main factor distinguishing the 
+CPFF from the othe r two facilities [the A sset-backed Commercial Paper Money 
+Market Mutual Fund Liquidity Facility and the M oney Market Investor Funding 
+Facility (MMIFF)]  is the CPFF’s role as a backstop to issuers, whereas the other 
+facilities [indirectly] provide emergency  lending to institutional money market 
+investors. Second, the CPFF backstopped issuance of both unsecured and secured 
+commercial paper, while the AMLF funded only ABCP and the MMIFF special-purpose 
+vehicles purchased only certificates of deposit, bank note s, and commercial paper 
+from specific financial institutions. (Adrian, Kimbrough, and Marchioni 2011) 
+Adrian, Kimbrough, and Marchioni also conclude that usage of the CPFF was accompanied 
+by a narrowing of the spread between CP rates and comparable OIS  rates.  
+Anderson and Gascon (2009) credits the CPFF with successfully backstopping the CP market, 
+providing a rollover option for maturing paper , and assisting year-end financing. However, 
+the authors that its role in helping to revive the term lending market is less certain, although 
+it was a substantial purchaser in its early weeks. Additionally, they find that some CP issuers 
+that participated in CPFF turned to the Temporary Liquidity Guarantee Program of the FDIC, 
+which guaranteed bank debt at far longer maturities.  
+In a more recent paper, Li (2015) explores the impact of the CPFF on those  banks that used 
+it and concludes that it generated several favorable effects . Banks that participated in the 
+CPFF experienced reduced rollover risks and significant positive abnormal stock returns 
+during the tenure of the CPFF. Second, banks that used the CPFF also increased the quantity 
+of the loans that they made and decreased th e yield on loans for firms with which they had 
+strong past relationships . Thus, Li concludes, the CPFF generated strong positive spillover 
+effects from the financial institutions that utilized it to those financial and nonfinancial 
+entities with which they had preexisting relationships, increasing the supply of liquidity. 
+190
+Commercial Paper Funding Facility Wiggins
+
+--- Page 20 ---
+IV. References 
+Adrian, Tobias, Karin J. Kimbrough, and Dina Marchioni . 2011.  “The Federal Reserve’s 
+Commercial Paper Funding Facility.” FRBNY Economic Policy Review 17, no. 1 (May): 25–39. 
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/AdrianKimbroughMarchion
+i2011_0.pdf. 
+Alvarez, Scott G., Richard M. Ashton, Kieran J. Fallon, Mark E. Van Der Weide, and Sophia H. 
+Allison. 2009.  “Authority of the Federal Reserve to Provide Extensions of Credit in 
+Connection with a Commercial Paper Funding Facility (CPFF).” Memo to File from Federal 
+Reserve Board of Governors Legal Division, March 9, 2009. 
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/AlvarezAshtonFallonWeide
+Allison2009.pdf. 
+Anderson, Richard G., and Charles S. Gascon. 2009. “The Commercial Paper Market, the Fed, 
+and the 2007 -2009 Financial Crisis .” Federal Reserve Bank of St. Louis Review 91, no. 6 , 
+(November/December): 589–612. 
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/AlvarezAshtonFallonWeide
+Allison2009.pdf. 
+Bernanke, Ben S. 2008. “Troubled Asset Relief Program and the Federal Reserve ’s Liquidity 
+Facilities.” Testimony b efore the Committee on Financial Services, US House of 
+Representatives, November 18, 2008. 
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Troubled%20Asset%20Reli
+ef%20Program%20and%20the%20Federal%20Reserve's%20liquidity%20facilities.pdf. 
+Board of Governors of the Federal Reserve System . Federal Reserve 2008a. “Board 
+Announces Creation of the Commercial Paper Funding Facility (CPFF) to Help Provide 
+Liquidity to Term Funding Market s.” Press Release October 7, 2008. 
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Board%20announces%20cr
+eation%20of%20the%20Commercial%20Paper%20Funding%20Facility%20(CPFF)%20t
+o%20help%20provide%20liquidity%20to%20term%20funding%20markets.pdf. 
+Board of Governors of the Federal Reserve System. Federal Reserve 2008c. “Board 
+announces additional details regarding the Commercial Paper Funding Facility (CPFF).” 
+Press Release, October 14, 2008. 
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/2008%2010%2014%20Boa
+rd%20announces%20additional%20details%20regarding%20the%20Commercial%20Pa
+per%20Funding%20Facility%20(CPFF).pdf. 
+Board of Governors of the Federal Reserve System. Federal Reserve 2009a. “Report Pursuant 
+to Section 129 of the Emergency Economic Stabilization Act of 2008: Comme rcial Paper 
+Funding Facility,” February 19, 2009. 
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Federal-Reserve-2009a.pdf.  
+Board of Governors of the Federal Reserve System. Federal Reserve 2009b. “Federal Reserve 
+Announces Extensions of and Modifications to a Number of Its Liquidity Programs.” Press 
+Release, June 25, 2009. 
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Federal%20Reserve%20Bo
+ard%20-
+%20Federal%20Reserve%20announces%20extensions%20of%20and%20modifications
+%20to%20a%20number%20of%20its%20liquidity%20programs.pdf. 
+191
+Journal of Financial Crises Vol. 2 Iss. 3
+
+--- Page 21 ---
+Federal Deposit Insurance Corporation. FDIC n.d. Temporary Liquidity Guarantee Program. 
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/FDIC-n.d..pdf. 
+Federal Open Market Committee . FOMC 2008a.  Minutes of the Federal Open Market 
+Committee on October 28-29, 2008. [Minutes for the October 7, 2008, conference call begin 
+on page 10.] 
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/fomcminutes20081029.pdf. 
+Federal Open Market Committee . FOMC 2008b.  Transcript of the Federal Open Market 
+Committee Meeting on October 28 –29, 2008. 
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/FOMC-2008b.pdf. 
+Federal Open Market Committee. FOMC 2009. Minutes for the January 27-28, 2009 meeting. 
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Board%20of%20Governors
+%20FRS%20Federal%20Open%20Market%20Committee%20Minutes%20Of%20Meeting
+%2001%20(27-28)-2009.pdf.  
+Federal Reserve Act of 1913, Section 13(3) (12 U.S.C. § 343). “Discount of Obligations Arising 
+out of Actual Commercial Transactions, as Amended” 
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/FRA_Section_13_Sept_19_20
+08_0.pdf. 
+Federal Reserve Bank of New York. FRBNY n.d. “Commercial Paper Funding Facility (2008).” 
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Commercial%20Paper%20
+Funding%20Facility%20(2008).pdf. 
+Federal Reserve Bank of New York . FRBNY 2009. “Commercial Paper Funding Facility: 
+Frequently Asked Questions, Effective October 19, 2009.” 
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Commercial%20Paper%20
+Funding%20Facility%20Frequently%20Asked%20Questions.pdf. 
+Federal Reserve Bank of New York. FRBNY, CPFF: FAQs Jan. 23, 2009 . “Change to CPFF 
+Eligibility Requirements.” Press Re lease, January 23, 2009. 
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/FRS%20Bank%20of%20Ne
+w%20York%20Press%20Release%20Change%20to%20CPFF%20Eligibility%20Requirem
+ents%2001-23-2009.pdf. 
+Federal Reserve Bank of New York. Registration Instructi ons. “Registration Instructions: 
+Federal Reserve Bank of New York Commercial Paper Funding Facility (CPFF).” 
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/RegistrationInstructions.pdf
+. 
+General Electric Capital Corporation . GEC 2008. Letter to  the Investment Community , 
+November 12, 2008. 
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/GE_Capital%20Letter_1112
+2008.pdf 
+Layne, Rachel . 2008.  “GE Used New Fed Commercial -Paper Fund ing Facility.” 
+Bloomberg.com, October 27, 2008. Retrieved June 29, 2017, from Bloomberg Professional. 
+Li, Bo . 2015. “The Real Effects of Government Liquidity Provision: Evidence from the 
+Commercial Paper Funding Facility ” (November 1, 2015) . “How Effective Was the Federal 
+Reserve’s Commercial Paper Funding Facility? Evidence from Stock Performance and Loan 
+192
+Commercial Paper Funding Facility Wiggins
+
+--- Page 22 ---
+Provisions” (March 25, 2014) . PBCSF -NIFR Research Paper No. 14 -02. 
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Li2015_1.pdf.  
+van Deventer, Donald R. 2011. “Ranking of the 82 Borrowers under the Federal Reserve ’s 
+Commercial Paper Funding Facility .” Kamakura Corporation, August 29, 2011 (Updated 
+August 30, 2011). 
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/VanDeventer,%20Donald%
+20Ranking%20of%20the%2082%20Borrowers%20Under%20The%20Federal%20Reser
+ve%20Commercial%20Paper%20Funding%20Facility%2008-30-2011.pdf. 
+Wiggins, Rosalind Z.  Forthcoming. “The Asset -Backed Commercial Paper Money Market 
+Mutual Fund Liquidity Facility .” Yale Program on Financial Stability Case Study 201 7. 
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Wiggins%20Asset-
+Backed%20Commercial%20Paper%20Money%20Market%20Mutual%20Fund%20Liquidi
+ty%20Facility%20(US%20GFC)%2020-03-16_PRELIMINARY_DRAFT.pdf. 
+Wiggins, Rosalind Z., and Andrew Metrick. 2016a. “The Federal Reserve’s Crisis Response A: 
+Lending and Credit  Programs for Depository Institutions .” Yale Program on Financial 
+Stability Case Study 201 5-1A-v1, February 1, 2016 . 
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Wiggins,%20Rosalind%20&
+%20Andrew%20Metrick%20Lending%20and%20Credit%20Programs%20for%20Deposi
+tory%20Institutions%2002-01-2016.pdf. 
+Wiggins, Rosalind Z., and Andrew Metrick. 2016b. “The Federal Reserve’s Crisis Response C: 
+Providing US Dollars to Foreign Central Banks ” Yale Program on Financial Stability Case 
+Study 2015-1C-v1, February 1, 2016. 
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Federal%20Reserve%20Fin
+ancial%20Crisis%20Response%20Providing%20US%20Dollars%20to%20Foreign%20Ce
+ntral%2002-01-2016.pdf. 
+V. Key Program Documents 
+Summary of Program 
+FRBNY CPFF: Program Terms and Conditions : Effective June 25, 2009 – FRBNY documents 
+outlining the key terms of the CPFF.  
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/CPFF_Terms_and_Condition
+s.pdf. 
+FRBNY CPFF: Program Terms and Conditions: Effective October 14, 2008 – outlines the major 
+rules and requi rements of applying for eligibility and participating in the CPFF.  
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/CPFF_Terms_and_Condition
+s_Oct08.pdf. 
+FRBNY CPFF: Program Terms and Conditions: Effective January 23, 2009 – modifies eligibility 
+requirements. 
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/CPFF_Terms_and_Condition
+s_Jan09.pdf. 
+FRBNY CPFF: Program Terms and Conditions: Effective F ebruary 3, 2009  – extends the 
+facility’s tenure. 
+193
+Journal of Financial Crises Vol. 2 Iss. 3
+
+--- Page 23 ---
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/CPFF_Terms_and_Condition
+s_Feb09.pdf. 
+FRBNY CPFF: Program Terms and Conditions: Effective June 25, 2009 – extends the facility’s 
+tenure and modifies certain terms. 
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/CPFF_Terms_and_Condition
+s_June09.pdf. 
+FRBNY CPFF: Frequently Asked Questions: Effective October 19, 2009  – FRBNY documents 
+providing FAQs and corresponding responses concerning operational issues and key features of 
+the CPFF. 
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Commercial%20Paper%20
+Funding%20Facility%20Frequently%20Asked%20Questions.pdf. 
+FRBNY CPFF: Frequently Asked Questions: Effective January 23, 2009 – Early FAQ document 
+articulating details of the CPFF program.  
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/CPFF_FAQ_Jan09.pdf. 
+FRBNY CPFF: Frequently Asked Questions: Effective February 3, 2009 –  FAQ document from 
+the FRBNY answering questions that arose between January 23, 2009 and February 3, 2009. 
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/CPFF_FAQ_Feb09.pdf. 
+FRBNY CPFF: Frequently Asked Questions: Effective June 25, 2009 – Final FAQ document on 
+the CPFF issued by the FRBNY. 
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/CPFF_FAQ_June09.pdf. 
+Implementation Documents 
+Registration Instructions – FRBNY instructions and documents to be completed by issuers 
+seeking to qualify to utilize the CPFF , consisting of (1) the Issuer Registration Form, ( 2) 
+Qualification Certification , and ( 3) Eligible Program information Form and Certification of 
+FDIC Debt Guarantee. 
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/RegistrationInstructions.pdf
+.  
+Issuer Registration Form and Qualification Certification  – document pursuant to which an 
+issuer provided information necessary to determine its qualification, size of its Maximum Face 
+Value, designated type of CP to be issued and issuing dealer, calculated and pa id 
+facility/registration fee, and agree d-to program terms . 
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/RegistrationInstructions.pdf
+. 
+Eligible Program Information Form  – used by the issuer to list its CP programs that were 
+eligible to participate in  the CPFF . 
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/RegistrationInstructions.pdf
+. 
+Certification of FDIC Debt Guarantee – used by the issuer to certify that it was a participant in 
+the Federal Deposit Insurance Corporation’s (FDIC’s) Temporary Liquidity Guarantee Program 
+(TLGP), that the CP that it sells to the CPFF will be FDIC -guaranteed under the TLGP, and 
+certain other related agreements. 
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/RegistrationInstructions.pdf
+. 
+194
+Commercial Paper Funding Facility Wiggins
+
+--- Page 24 ---
+Investment Management Agreement (October 20, 2008) and Amendment (April 7, 2010) – 
+agreement between CPFF LLC and P IMCO pursuant to which PIMCO provided investment 
+management services in re gards to the CPFF , and amendment which adjust fees and provides 
+for a more limited volume of services through June 2010.  
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/CPFF_IMA_Agreement.pdf. 
+ 
+Administration Agreement – agreement, dated October 20, 2008, among CPFF LLC, the FRBNY, 
+as managing member of the LLC, and State Street in its capacity as administrator, providing 
+for administration services for the CPFF. [The Custodian Agreement (page 22) and related Fee 
+Letter (p age 48) are inclu ded here.]  
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/CPFF_Administration_Agree
+ment.pdf. 
+Custodian Agreement [Page 22 of the Administration Agreement] – agreement, dated October 
+20, 2008, between CPFF LLC and State Street, whereby State St reet would provide custodian 
+services to the CPFF. 
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/CPFF_Administration_Agree
+ment.pdf. 
+Fee Letter [Page 48 of the Administration Agreement ] –letter, dated October 20, 2008, 
+providing a fee structure applicable to the Administrati on Agreement and the Custodian 
+Agreement. 
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/CPFF_Administration_Agree
+ment.pdf. 
+Legal/Regulatory Guidance 
+Statutory Reference – Section 13(3) of the Federal Re serve Act (12 U.S.C. § 343) on which the 
+Fed relied in authorizing the CPFF . 
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/FRA_Section_13_Sept_19_20
+08_0.pdf. 
+Legal Memorandum – legal memorandum, dated March 9, 2009, discussing the CPFF in light 
+of the requirements  of FRA Section 13(3) and in particular the requirement  that any such 
+lending be “indorsed or otherwise secured to the satisfaction of the Reserve Bank.” 
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/AlvarezAshtonFallonWeide
+Allison2009.pdf. 
+Press Releases/Announcements 
+FR Board Announces the Creation of the CPFF to H elp Restore Liquidity to the Term CP 
+Market (October 7, 2008) – Press release announcing the creation of the CPFF, articulating the 
+goals of the CPFF, and providing a link to the program’s initial terms and con ditions. 
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Board%20announces%20cr
+eation%20of%20the%20Commercial%20Paper%20Funding%20Facility%20(CPFF)%20t
+o%20help%20provide%20liquidity%20to%20term%20funding%20markets.pdf. 
+FRBNY Announces That PIMC O Will Provide Asset M anagement Services in S upport of the 
+CPFF (October 8, 2008) – FRBNY press release announcing that it would contract with PIMCO, 
+a large investment firm, to provide asset management services related to the CPFF. 
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/CPFF_PIMCO.pdf. 
+195
+Journal of Financial Crises Vol. 2 Iss. 3
+
+--- Page 25 ---
+Joint Statement by Treasury, the Fed, and the FDIC (October 14, 2008) – statement regarding 
+actions, including the CPFF, being taken to strengthen confidence in financial institutions and 
+foster functioning of the credit markets . 
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Joint%20Statement%20by
+%20Treasury,%20Federal%20Reserve%20and%20FDIC.pdf. 
+FR Board Announces Additional Details Regarding the CPFF  (October 14, 2008) – Press 
+release updating the public on the CPFF. It also provides a date for when the program would 
+begin operating. 
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/2008%2010%2014%20Boa
+rd%20announces%20additional%20details%20regarding%20the%20Commercial%20Pa
+per%20Funding%20Facility%20(CPFF).pdf. 
+FRBNY Releases E xpanded CPFF FAQs  (October 17, 2008) – Short FRBNY press release 
+announcing that it had published an updated set of CPFF FAQs.  
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/CPFF_FAQ_Oct08.pdf. 
+FRBNY Issues Instructions and Documents for CPFF Registration  (October 20, 2008) –   
+Archived CPFF registration instruction form developed in collaboration with PIMCO. 
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/RegistrationInstructions.pdf 
+Change to CPFF Eligibility Requirements (January 23, 2009) – FRBNY announc ement of  a 
+change to CPFF eligibility requirements to clarify that the CPFF will not purchase ABCP from 
+issuers that were inactive prior to the adoption of the CPFF . 
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/FRS%20Bank%20of%20Ne
+w%20York%20Press%20Release%20Change%20to%20CPFF%20Eligibility%20Requirem
+ents%2001-23-2009.pdf. 
+FR Board Announces the Extension of Five L iquidity Facilities Including the CPFF through 
+October 30, 2009 (February 3, 2009) –  FRB press release discussing the extension of various 
+crisis-era liquidity facilities that were originally set to expire on April 30, 2009. 
+Thhttps://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Fed_announces_ext_throu
+gh_Oct_30_2009_existing_liquidity_progs.pdf. 
+Federal Reserve Sys tem Publishes Annual Financial Statements (April, 23, 2009)  – FR 
+Board’s 2008 combined financial statements for the combined Federal Reserve banks  (which 
+include data regarding the CPFF) , the limited liability companies created in 2008–09, and the 
+FR Board. 
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/BOG_Annual_Financial_State
+ments_Apr2309.pdf.  
+FR Board Announces Extensions of, and Modifications to, a Number of Its Liquidity Programs 
+Including the CPFF (June 25, 2009) – FRB press release announcing the extension of the CPFF, 
+among other programs, through early 2010.  
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Federal%20Reserve%20Bo
+ard%20-
+%20Federal%20Reserve%20announces%20extensions%20of%20and%20modifications
+%20to%20a%20number%20of%20its%20liquidity%20programs.pdf. 
+The FRBNY Releases U pdated CPFF FAQs  (October 19, 2009) – FRBNY document that 
+accompanied the October 17, 2009 press release discussed above.  
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Commercial%20Paper%20
+Funding%20Facility%20Frequently%20Asked%20Questions.pdf. 
+196
+Commercial Paper Funding Facility Wiggins
+
+--- Page 26 ---
+The FR Board Releases a S tatement from its January 26 –27 FOMC Meeting (January 27, 
+2010) – Press release from the FOMC mentioning, among other things, that the CPFF would be 
+closing on February 1, 2010. 
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/CPFF_FOMC_Jan2710.pdf. 
+Media Stories 
+Fed’s New Tool: Business Loan Bailout (CNN Money, October 7, 2008) – News article 
+discussing the lead up to and initial operations plan  for the CPFF.  
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Isidore_2008_CNN_News_Fe
+ds_new_tool.pdf 
+Treasury to Guarantee Money Market Funds (New York Times, September 19, 2008) – News 
+article discussing the Treasury’s backstop for money market funds. It has an aside about how 
+the intervention relates to the commercial paper market. 
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Henriques_2008_Treasury_t
+o_Guarantee_Money_market_funds.pdf 
+GE Used New Fed Commercial-Paper Funding Facility (Bloomberg.com, October 27, 2008) – 
+News article reporting that GE Capital, the massive financial unit of General Electric, used the 
+CPFF. It also includes a short summary of the CPFF and  quotes from GE spokespeople.  
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Layne_Bloomberg_2008_GE
+_Used_CPFF.pdf 
+Lending Grows – First Time since Lehman Collapse (CNN Money, October 30, 2008) – News 
+article reporting how the CPFF was responsible for the first instance of growth in the CP market 
+in seven weeks.  
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Goldman_2008_Lending_Gr
+ows_since_lehman.pdf 
+Key Academic Papers 
+The Federal Reserve’s Commercial Paper Funding Facility (Adrian, Kimbrough, and 
+Marchioni 2011)  – paper provid ing a detailed discussion of the CPFF’s design and impact . 
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/AdrianKimbroughMarchion
+i2011_0.pdf.  
+The Commercial Paper Market, the Fed,  and the 2007-2009 Financial Crisis (Anderson and 
+Gascon 2009) – paper reviewing the history of the CP market (including its structure and key 
+relationship to MMMFs) and present ing a detailed discussion of the market crisis and the 
+Federal Reserve’s respon se, including the CPFF . 
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Anderson,%20Richard%20
+and%20Charles%20S%20Gascon%20The%20Commercial%20Paper%20Market%20the%
+20Fed%20and%20the%202007-2009%20Financial%20Crisis%202009.pdf. 
+When Safe Proved Risky: Commercial Paper during the Financial Crisis of 2007 -2009 
+(Kacperczyk and Schnabl 2010) – paper discussing the impact of various Fed programs on the 
+CP market, including ABCP. 
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Kacperczyk,%20Marcin%2
+0&%20Philipp%20Schnabl%20When%20Safe%20Proved%20Risky%20Commercial%20
+Paper%20during%20the%20Financial%20Crisis%20of%202007%20&%202009%20201
+0.pdf.   
+197
+Journal of Financial Crises Vol. 2 Iss. 3
+
+--- Page 27 ---
+The Real Effects of Government Liquidity Provision: Evidence from the Commercial Paper 
+Funding Facility ( Li 2015), How Effective Was the Federal Reserve’s Commercial Paper 
+Funding Facility? Evidence from Stock Performance and Loan Provisions (March 25, 2014)  
+– paper examining the effects of the CPFF and concluding that participation delivered value in 
+two forms: (1) participants experienced improved stock performance; and (2) a positive spill -
+over effect occurred as participants increased loans and lowered yields to their relationship 
+customers. 
+SSRN. https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Li2015_1.pdf. 
+Ranking of the 82 Borrowers under the Federal Reserve ’s Commercial Paper Funding 
+Facility (van Deventer 2011) – paper providing information and analysis regarding usage of 
+the CPFF. 
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/VanDeventer,%20Donald%
+20Ranking%20of%20the%2082%20Borrowers%20Under%20The%20Federal%20Reser
+ve%20Commercial%20Paper%20Funding%20Facility%2008-30-2011.pdf 
+Federal Reserve Crisis Response E: Commercial Paper Market Facilities, YPFS Case Study 
+2015-1E-v.1 (Wiggins and Metrick, Unpublished) – case study examining the CPFF and other 
+related programs adopted by the Federal Reserve during the crisis to  calm the commercial 
+paper markets. 
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Wiggins,%20Rosalind%20&
+%20Andrew%20Metrick%20The%20Federal%20Reserve%20Financial%20Crisis%20Res
+ponse%20E%20The%20Term%20Asset%20Backet%20Securities%20Loan%20Facility%
+2002-01-2016.pdf.  
+Temporary Guarantee Program for Money Market Funds  (McNamara 2016)  – YPFS case 
+study discussing the Treasury -FRB efforts to backstop the money market funds sector in the 
+midst of a run. 
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/sites_default_files_private_C
+ases_YPFS_Temporary-Guarantee-Program-for-Money-Market-Funds-13Jan16-v1.pdf.   
+Reports/Assessments  
+Board of Governors of the Federal Reserve System, Office of Inspect or General. OIG 2010.  
+The Federal Reserve’s Section 13(3) Lending Facilities to Support Overall Market Liquidity: 
+Function, Status, and Risk Management . Washington, DC: Board of Governors of the Federal 
+Reserve System, Office of Inspector General,  November 16, 2010. 
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/FRS_OIG_FRS_Lending_Facil
+ities_Report_11-16-10_0.pdf. 
+CPFF LLC Financial Statements 2008 –09 – audited financial statements of CPFF LLC for the 
+year end ed December 31, 2009 , and for the period from October 14, 2008 , to December 31, 
+2008. 
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/CPFF_LLC_FinStatements-
+08-09.pdf. 
+CPFF LLC Financial Statements 2009–10 – audited financial statements of CPFF LLC as of May 
+31, 2010, and for the period from January 1, 2010, through May 31, 2010, and as of and for the 
+year ended December 31, 2009. 
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/CPFF_LLC_FinStatements-
+09-10.pdf. 
+198
+Commercial Paper Funding Facility Wiggins
+
+--- Page 28 ---
+CPFF Transaction Data – Excel files of transaction data regarding the loans made by the FRBNY 
+to CPFF LLC and purchases of CP by CPFF LLC . 
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/CPFF_Transaction_Data.pdf. 
+Domestic Open Market Operations during 2008 – report prepared for the FR FOMC by the 
+Markets Group of the FRBNY discussing various lending programs including the CPFF (January 
+2009). 
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/FRBNY_Domestic_Open_Ma
+rket_Operations_01_2009.pdf. 
+Domestic Open Market Operations during 2009 – report prepared for the FR FOMC by the 
+Markets Group of the FRBNY discussing various lending programs including the reasons for 
+implementing the CPFF and its relation to other programs focused on the CP markets (January 
+2010). https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/FRBNY_OMO_09.pdf. 
+Domestic Open Market Operations during 2010 – report prepared for the FR FOMC by the 
+Markets Group of the FRBNY discussing various lending programs including the CPFF and 
+characteristics and administration of the CP held (March 2011) . 
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/FRBNY_OMO_10.pdf. 
+FOMC Transcript  (October 7, 2008)  – transcript of FR  FOMC conference call on October 7, 
+2008, approving the CPFF and discussing the reasons for its implementation and initial 
+reactions to its announcement. 
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/FOMC-
+TranscriptOct72008.pdf. 
+FOMC Transcript (October 28–29, 2009) – transcript of the FR FOMC meeting on October 28-
+29, 2008 , discussing the CPFF, its reception , and impact . 
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/FOMC-2008b.pdf. 
+FRBNY Annual Reports – consolidated audited financial statements of the FRBNY for the years 
+2008–11 incorporating CPFF data. 
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/FRBNY-
+AnnualReportsFinancialStatements.pdf. 
+Federal Reserve Board 95th Annual Report, 2008 – compilation of policy actions taken by the 
+FR Board, minutes of the FOMC meetings, and litigation occurring in 2008 . 
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/FRB_%20AnnualReport200
+8.pdf. 
+Federal Reserve Monthly Reports on Credit and Liquidity Programs and the Balance Sheet – 
+reports of the FR Board prepared from June 2009 to August 2012 as part of its efforts to enhance 
+transparency in connection with its lending and financial stability programs . 
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/FRB_ArchiveMonthlyReport
+CreditLiquidityPrograms.pdf. 
+Quarterly Report on Federal Reserve Balance Sheet Developments  – reports containing 
+similar information published s ubsequent to August 2012 . 
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/FRB_Quarterly-Report-
+Balance-Sheet-Developments.pdf. 
+Federal Reserve Statistical Release (H.15) (October 20, 2008 ) – reporting on the assets and 
+liabilities of CPFF LLC , consolidated with the assets and liabilities of the FRBNY , its sole 
+beneficiary. The report also  notes that the Federal Reserve Board’s monthly H.4.1 statistical 
+199
+Journal of Financial Crises Vol. 2 Iss. 3
+
+--- Page 29 ---
+release, “Factors Affecting Reserve Balances of Depository Institutions and Condition Statement 
+of Federal Reserve Banks ,” was modified to include information related to CPFF LLC . 
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/FRB_%20H.15ReleaseSelect
+edInterestRatesOctober202008.pdf. 
+Office of Inspector General Report (November 16, 2010) – audit report by the FR’s OIG that 
+discusses the function and status of the various Fed lending programs, including the CPFF, and 
+that identifies the risks in each facility . 
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/FRS_OIG_FRS_Lending_Facil
+ities_Report_11-16-10_0.pdf. 
+Testimony of Chairman Bernanke  (November 18, 2008)  – testimony of the Fed chairman 
+before the House Committee on Financial Services discussing  the Fed liquidity programs 
+including the CPFF. 
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Troubled%20Asset%20Reli
+ef%20Program%20and%20the%20Federal%20Reserve's%20liquidity%20facilities.pdf. 
+ 
+Copyright 2015, 2016, 2020 © Yale University. A ll rights reserved. To order copies of this 
+material or to receive permission to reprint any or all of this document, please contact the 
+Yale Program for Financial Stability at ypfs@yale.edu. 
+ 
+200
+Commercial Paper Funding Facility Wiggins

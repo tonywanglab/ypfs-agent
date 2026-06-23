@@ -1,0 +1,40 @@
+{
+  "doc_id": "vol1_iss4_2",
+  "document_type": "case_study",
+  "title": "JPMorgan Chase London Whale Z: Background & Overview",
+  "authors": [
+    "Arwin G. Zeissler",
+    "Rosalind Bennett",
+    "ROSALIND L. BENNETT",
+    "Andrew Metrick"
+  ],
+  "abstract": null,
+  "keywords": [],
+  "publication_date": "2020-01-23T19:25:47Z",
+  "doi": null,
+  "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol1/iss4/2",
+  "volume": 1,
+  "issue": 4,
+  "document_number": 2,
+  "bepress_id": null,
+  "raw": {
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol1/iss4/2",
+    "parent_key": "16295863",
+    "context_key": "16295845",
+    "title": "JPMorgan Chase London Whale Z: Background & Overview",
+    "publication_date": "2020-01-23T19:25:47Z",
+    "download_format": "pdf",
+    "download_link": "https://elischolar.library.yale.edu/cgi/viewcontent.cgi?article=1037&context=journal-of-financial-crises",
+    "document_type": [
+      "casestudy",
+      "Case Study",
+      "Case Studies"
+    ],
+    "author": [
+      "Arwin G. Zeissler",
+      "Rosalind Bennett",
+      "ROSALIND L. BENNETT",
+      "Andrew Metrick"
+    ]
+  }
+}

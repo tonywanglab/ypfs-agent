@@ -1,0 +1,469 @@
+## United States: 
+
+## Federal Home Loan Bank Advances, 1932–1941[1] 
+
+_Natalie Leonard[2]_ 
+
+Yale Program on Financial Stability Case Study June 15, 2022 
+
+## **Abstract** 
+
+In the years preceding the Great Depression (1929–1933), home prices and outstanding mortgage debt grew substantially. Low interest rates and lax lending standards fueled widespread real estate speculation. House prices and housing construction peaked between 1925 and 1927 and then fell rapidly as the depression deepened, unemployment grew, and household income and wealth fell, making loan repayment difficult. In the early 1930s, Congress enacted legislation creating federal agencies to stabilize the banking system, rejuvenate housing finance, and oversee securities markets. One of those federal agencies was the Federal Home Loan Bank System (FHLB System), chartered in 1932 as a wholesale bank to provide liquidity to private institutions that specialized in home mortgage loans, including savings and loan associations, mutual savings banks, and life insurance companies. The FHLB System was initially capitalized with a $125 million stock subscription from the Treasury, though FHLBank operations were also financed through stock subscriptions by member financial institutions and consolidated debt issuance. By year-end 1933, the FHLB System had consolidated loans to member institutions totaling $88.4 million. 
+
+**Keywords:** broad-based emergency liquidity, Federal Home Loan Bank System, Great Depression savings and loan banks 
+
+> 1 This case study is part of the Yale Program on Financial Stability (YPFS) selection of New Bagehot Project modules considering broad-based emergency lending programs. Cases are available from the _Journal of Financial Crises_ at https://elischolar.library.yale.edu/journal-of-financial-crises/. 
+
+> 2 Research Associate, YPFS, Yale School of Management. 
+
+
+## **Overview** 
+
+In the lead-up to the Great Depression, home prices and outstanding mortgage debt grew substantially (Federal Home Loan Bank Board 1933). Low interest rates and lax lending standards fueled widespread real estate speculation (Wheelock 2008, 135). House prices and housing investment peaked between 1925 and 1927 and then fell rapidly as the Federal Reserve began to tighten monetary policy in 1928 (Wheelock 2008, 135). Nominally, outstanding mortgage debt peaked in 1930, but paired with deflation, the real value of mortgage debt continued to rise through 1932 (Wheelock 2008, 137) (see Figure 1). As the depression deepened, unemployment grew, and the currency devalued, household income and wealth fell, making loan repayment difficult. Between 1929 and 1932, “personal disposable income and nonfarm residential wealth fell 41.0% and 25.7%, respectively,” while nonfarm residential debt declined by only 6.8% (Wheelock 2008, 138). 
+
+At the peak of the Great Depression housing crisis in 1933, 1,000 home loans were foreclosed daily (Wheelock 2008, 138). While comprehensive data on mortgage delinquency are not available, a study of 22 cities found that “as of January 1, 1934, 43.8% of urban, owner-occupied homes on which there was a first mortgage were in default.” This share would have been significantly higher were it not for state moratoria on foreclosures beginning in 1933 (Wheelock 2008, 138) (see Figure 2). 
+
+Federal and state governments took a variety of actions to respond to the housing crisis (Wheelock 2008, 140). At the state level, beginning in 1933, 33 states provided relief 
+
+## **Key Terms** 
+
+Purpose: To provide liquidity to private institutions that specialized in “home mortgage loans, including savings and loan associations (S&Ls), mutual savings banks, and life insurance companies” (Wheelock 2008, 141) 
+
+||Launch Dates|Announcement: July 22,<br>1932|
+|---|---|---|
+|||Operational: December|
+|||1932|
+||Expiration Dates<br>Legal Authority|N/A<br>Federal Home Loan<br>Bank Act of 1932 (H.R.<br>12280)|
+||Peak Outstanding|$200 million in|
+|||December 1938|
+||Participants|Member financial<br>institutions, including<br>savings and loans<br>banks, mutual savings|
+|||banks, and life|
+|||insurance companies|
+||Rate|Set by FHLB Board,<br>typically between 1%<br>and 3%|
+||Collateral|Residential mortgages|
+|||with maturities under|
+|||15 years (amended to|
+|||25 years) and related<br>assets|
+||Loan Duration|Short-term (a few days<br>to a year) or long-term|
+|||(one year to 10 years)|
+||Notable Features|Lending to member|
+|||institutions, standing<br>facility|
+||Outcomes|Unclear|
+
+
+
+
+for delinquent mortgages,[3] and 28 of those imposed moratoria on foreclosures (Wheelock 2008, 140). At the federal level, the government enacted legislation to stabilize the banking system and to reform securities markets (Wheelock 2008, 140). Moreover, beginning in 1932, the federal government created a number of agencies to “reduce foreclosures and reform mortgage market practices,” including the Federal Home Loan Bank System (FHLB System), the Home Owners’ Loan Corporation (HOLC), the Federal Housing Administration (FHA), the Federal Savings and Loan Insurance Corporation (FSLIC), and the Federal National Mortgage Association (FNMA) (Wheelock 2008, 140). This case focuses on the FHLB System.[4] 
+
+[FIGURE id=vol4_iss2_54_f1 type=chart label="Figure 1" file=figure_1.png caption="Nonfarm Residential Mortgage Debt as a Percentage of Nonfarm Residential Wealth"]
+### **Figure 1: Nonfarm Residential Mortgage Debt as a Percentage of Nonfarm Residential Wealth**
+![Figure 1](assets/vol4_iss2_54/figure_1.png)
+
+
+_Source: Wheelock 2008, 137._ 
+
+3 Relief for delinquent mortgages came chiefly in two forms: “the extensions of existing redemption periods” and the “prevention of abnormally large deficiency judgments following foreclosure sales, either by sanctioning the fixation of an upset price below which the property may not be sold, or by requiring the determination of a ‘fair market value’ by the court” (Poteat 1938, 520). 
+
+- 4 Discussion of the other agencies can be found in Wheelock 2008. 
+
+
+[FIGURE id=vol4_iss2_54_f2 type=chart label="Figure 2" file=figure_2.png caption="Nonfarm Real Estate Mortgage Foreclosure Rate, 1926-41"]
+### **Figure 2: Nonfarm Real Estate Mortgage Foreclosure Rate, 1926-41**
+![Figure 2](assets/vol4_iss2_54/figure_2.png)
+
+
+_Source: Wheelock 2008, 139._ 
+
+The FHLB System was chartered in 1932 to provide liquidity to member institutions that specialized in “home mortgage loans, including savings and loan associations (S&Ls), mutual savings banks, and life insurance companies” (Wheelock 2008, 141). The FHLB System was modeled after the Federal Reserve System, comprising 12 regional banks and one central oversight board in Washington, DC (Wheelock 2008, 141). To become a member, an institution applied to its regional Federal Home Loan Bank (FHLBank) and was required to subscribe to the capital stock of its regional FHLBank (FHLB Act 1932, sec. 6(a)). 
+
+Member institutions then had access to loans (“advances”) from their regional FHLBank, typically secured by mortgages (FHLB Act 1932, sec. 10(a)). Advance maturities ranged from one day to 10 years (Federal Home Loan Bank Board 1938, 51, 60). Interest rates were established by the boards of each regional FHLBank and varied with advance type and maturity as well as market conditions (Federal Home Loan Bank Board 1961, 55). 
+
+The FHLB System was initially capitalized with a $125 million stock subscription from the Treasury. FHLBank operations were also financed through stock subscriptions by member financial institutions and by consolidated debt issuance—bonds for which the 12 FHLBanks shared the proceeds and were jointly liable for payment (FHLB Act 1932, Sec. 6(e); Wheelock 2008, 141). Like the Federal Reserve, also, the FHLB Board executed a supervisory function, overseeing all federal- and state-chartered savings and loans associations (Federal Home Loan Bank Board 1939, 17). 
+
+
+## **Summary Evaluation** 
+
+The vast majority of FHLB member institutions were state and federally chartered savings and loans. Total membership peaked in 1938 at 3,956 institutions, with combined assets of $4.3 billion (Federal Home Loan Bank Board 1939, 56). 
+
+Nonfarm mortgage lending recovered slowly (see Figure 3). The HOLC rapidly increased lending after its creation in 1933, peaking at $2.2 billion in 1934 (Federal Home Loan Bank Board 1938, 167). 
+
+[FIGURE id=vol4_iss2_54_f3 type=chart label="Figure 3" file=figure_3.png caption="Volume of Mortgage Lending on Nonfarm Family Dwellings (in $ millions)"]
+### **Figure 3: Volume of Mortgage Lending on Nonfarm Family Dwellings (in $ millions)**
+![Figure 3](assets/vol4_iss2_54/figure_3.png)
+
+
+_Source: Federal Home Loan Bank Board 1938, 167._ 
+
+There is some evidence that the FHLB System stabilized mortgage lending by its members. Between 1929 and 1933, the volume of mortgage lending by insurance companies, mutual savings banks, and commercial banks declined by 98%, 83%, and 89% respectively, while mortgage lending by S&Ls declined by 76% (Federal Home Loan Bank Board 1938, 167). 
+
+By 1934, mortgage lending had begun to recover. In that year, 43.3% of total mortgage loans on urban homes were extended by FHLB member institutions (Federal Home Loan Bank Board 1937, 7). That year, S&Ls accounted for 68% of total mortgage lending on urban homes compared to 47% in 1929 (Federal Home Loan Bank Board 1937, 7). FHLB member institutions lent at higher rates (22.3%) than nonmembers (5.3%) between 1938 and 1939 (Federal Home Loan Bank Board 1939, 75). 
+
+
+The private share capital of FHLB members increased—for example, by 10% in 1940—while nonmembers saw their capital depleted (see Figure 4). Many nonmember institutions became inactive as the industry consolidated and withdrew from the market (Federal Home Loan Bank Board 1941, 56). 
+
+[FIGURE id=vol4_iss2_54_f4 type=figure label="Figure 4" file=figure_4.png caption="Change in Share Capital of Savings and Loans in 1940, by Class of Association"]
+### **Figure 4: Change in Share Capital of Savings and Loans in 1940, by Class of Association**
+![Figure 4](assets/vol4_iss2_54/figure_4.png)
+
+
+_Source: Federal Home Loan Bank Board 1941, 56._ 
+
+
+|**Context: United States 1931–1932**|**Context: United States 1931–1932**|
+|---|---|
+|**GDP**|$77.39 billion in 1931<br>$59.52 billion in 1932|
+|**GDPper capita**|Data not available|
+|**Sovereign credit rating**<br>**(five-year senior debt)**|Data not available|
+|**Size of banking system **|Data not available|
+|**Size of banking system**<br>**as a percentage of GDP**|Data not available|
+|**Size of banking system**<br>**as a percentage of financial system**|Data not available|
+|**Five-bank concentration of banking system**|Data not available|
+|**Foreign involvement in banking system**|Data not available|
+|**Government ownership of banking system **|Data not available|
+|**Existence of deposit insurance**|FDIC established in 1933; deposits<br>insured upto$2,500 in 1934|
+|_Sources: Bloomberg; World Bank Global Financial Development Database; World_<br>_Bank Deposit Insurance Dataset._||
+
+
+
+
+## **Key Design Decisions** 
+
+**1. Purpose: The Federal Home Loan Bank System was chartered in 1932 as a wholesale bank system to provide liquidity to member institutions.** 
+
+The Federal Home Loan Bank (FHLB) System was chartered in 1932 as a wholesale bank system to provide liquidity to private institutions that specialized in home mortgage loans, including any “building and loan association, savings and loan association, cooperative bank, homestead association, insurance company or savings bank” (Wheelock 2008, 141; FHLB Act 1932, sec. 4). 
+
+**2. Legal Authority: The FHLB System was established by the Federal Home Loan Bank Act of 1932, which passed Congress and was enacted on July 22, 1932.** 
+
+The FHLB System was established by the Federal Home Loan Bank Act of 1932, which passed Congress and was enacted on July 22, 1932 (FHLB Act 1932). Originally, the FHLBanks were required, in certain circumstances, to lend directly to individuals, which placed considerable administrative strain on the banks (Federal Home Loan Bank Board 1933, 3). The Act also created the FHLB Board, which chartered and managed federal savings and loan banks and organizations (United States Congress 1932, sec.2). The Home Owners’ Loan Act of 1933 amended this clause, creating the Home Owners’ Loan Corporation (HOLC), which undertook the function of direct-to-owner loans (Wheelock 2008, 141). The National Housing Act of 1934 created the Federal Savings and Loan Insurance Corporation (FSLIC), also under the supervision of the FHLB Board (Wheelock 2008, 141). 
+
+**3. Part of a Package: The FHLB System was established through a stand-alone act of Congress, enacted on July 22, 1932.** 
+
+The FHLB System was created through a stand-alone act of Congress on July 22, 1932. 
+
+Further legislation created new agencies to respond to home mortgage distress: the HOLC in 1933; the Federal Housing Administration (FHA) in 1934; the FSLIC in 1934; and the Federal National Mortgage Association (Fannie Mae) in 1938 (Wheelock 2008, 140). 
+
+**4. Management: The FHLB Board was required to annually report on its activities to the Speaker of the House of Representatives.** 
+
+The FHLB Board annually submitted a report on its activities to the Speaker of the House of Representatives, to be disseminated to Congress (FHLB Act 1932, sec. 20). 
+
+**5. Administration: The FHLB System was modeled after the Federal Reserve System, comprising 12 regional banks and one central oversight board in Washington, DC.** 
+
+The FHLB System was modeled after the Federal Reserve System, comprising 12 regional banks and one central oversight board in Washington, DC, the Federal Home Loan Bank Board (Wheelock 2008, 141). Each FHLBank was managed by a board of 11 directors (FHLB 
+
+
+Act 1932, sec. 7(a)). Two of these 11 directors were appointed by the Board in Washington, DC, for terms of three years (FHLB Act 1932, sec. 7(b)). To select the other nine board members, member institutions were divided into three classes: groups A, B, and C, corresponding to the relative size of the member’s outstanding home loans (FHLB Act 1932, sec. 7(d)). Of the nine other board members on each FHLBank’s board, three were to be chosen as representatives from each group (FHLB Act 1932, sec. 7(d)). The FHLB Board selected a chairman and a vice chairman from the board of directors of each FHLBank (FHLB Act 1932, sec. 7(f)). 
+
+Setting up the machinery of the FHLB System took three months (Federal Home Loan Bank Board 1933, 48). The first annual report stated: “The operation was a vastly larger one than this country had ever embarked on, its ramification ran into all of the more than 3,000 counties in the United States, and nobody had ever had experience in either setting or operating such an enterprise” (Federal Home Loan Bank Board 1933, 48). By year-end 1933, the FHLB System included 48 state offices, one DC office, one office in Hawaii, and 208 branch offices (Federal Home Loan Bank Board 1933, 48). 
+
+The organization of the FHLB System was deliberately decentralized: 
+
+The structural organization of the Bank System has been designed to permit the maximum possible decentralization without loss of the over-all supervision which is necessary in the administration of a nation-wide organization and which is required by the Federal Home Loan Bank Act . . . The importance of maintaining the maximum of local autonomy possible in the administration of the Federal Home Loan Bank System has long been stressed by the Federal Home Loan Bank Board. If the Banks are to fulfill their responsibilities to member institutions, considerable freedom of action in meeting local problems and situations is essential. (Federal Home Loan Bank Board 1941, 76) 
+
+Maximum interest rates for advances were set by the national Board, but the board of each regional FHLBank established the interest rates for its region, which varied with advance type, maturity, and market conditions (Federal Home Loan Bank Board 1961, 55). Member institutions approached their regional FHLBank for advances, which ranged in maturity from one day to 10 years; collateral was accepted and valued by each FHLBank (Federal Home Loan Bank Board 1961, 51). 
+
+**6. Eligible Participants: The FHLBanks provided liquidity to member institutions that specialized in providing home mortgage loans. Beginning in 1935, some nonmember institutions could also apply for advances.** 
+
+The FHLBanks provided liquidity to member institutions, specifically, private institutions that specialized in “home mortgage loans, including savings and loan associations (S&Ls), mutual savings banks, and life insurance companies” and that subscribed to FHLB stock (Wheelock 2008, 141). All federally chartered S&Ls were required to become members of their regional FHLBank (Wheelock 2008, 141). Membership was optional for state-chartered lenders (Wheelock 2008, 141). The FHLB Board also served a supervisory and regulatory function for S&Ls (Federal Home Loan Bank Board 1939, 17). 
+
+
+The FHLBanks had discretion to deny membership if the applying institution seemed “inconsistent with sound and economic home financing” and advances could not safely be made (FHLB Act 1932, sec. 4(a)). Member institutions could withdraw from membership of its FHLBank only after giving six months’ notice (FHLB Act 1932, sec. 6(k)). 
+
+The vast majority of FHLB member institutions were state and federally chartered savings and loans. Total membership peaked in 1938 at 3,956 institutions, with combined assets of $4.3 billion (Federal Home Loan Bank Board 1939, 56) (see Figure 5). 
+
+[FIGURE id=vol4_iss2_54_f5 type=chart label="Figure 5" file=figure_5.png caption="Membership Trends Each Year as of June 30 (assets in $ millions)[5]"]
+### **Figure 5: Membership Trends Each Year as of June 30 (assets in $ millions)[5]**
+
+||Savings and Loans|Savings and Loans|Savings Banks|Savings Banks|Insurance<br>Companies|Insurance<br>Companies|Total||
+|---|---|---|---|---|---|---|---|---|
+||Number|Assets|Number|Assets|Number|Assets|Number|Assets|
+|1935|3,312|$3,047|9|$139|3|$15|3,324|$3,201|
+|1936|3,628|$3,079|8|$154|4|$17|3,640|$3,250|
+|1937|3,866|$3,470|8|$163|12|$174|3,886|$3,807|
+|1938|3,909|$3,700|9|$203|38|$405|3,956|$4,308|
+|1939|3,897|$3,897|9|$202|40|$462|3,946|$4,561|
+|1940|3,865|$4,233|11|$213|38|$481|3,914|$4,927|
+|1941|3,798|$4,627|12|$252|29|$408|3,839|$5,287|
+
+
+
+_Sources: Federal Home Loan Bank Board 1941, 83; Federal Home Loan Bank Board 1939, 56; Federal Home Loan Bank Board 1937, 13; Federal Home Loan Bank Board 1933, 4,11._ 
+
+Beginning in 1935, some nonmember institutions could also apply for advances (Federal Home Loan Bank Board 1936, 9). In 1935, interest rates for nonmember institutions were marked up 0.5% over interest rates for member institutions (Federal Home Loan Bank Board 1936, 9). In 1941, interest rates to nonmembers were marked up between 0.5% and 1% (Federal Home Loan Bank Board 1941, 196). 
+
+## **7. Funding Source: The FHLB System was initially capitalized through a stock subscription from the Treasury; it was also funded through the required stock subscriptions by member financial institutions and consolidated debt issuances.** 
+
+When formed in 1932, the FHLB System was initially capitalized with a $125 million stock[6] subscription from the Treasury (FHLB Act 1932, sec. 6(f); Wheelock 2008, 141). This initial capital stock was to be called upon by the Board “as required by the needs of the system” (Federal Home Loan Bank Board 1936, 15). Appropriation of the funds for this initial stock 
+
+> 5 Data series begins in 1935. The 1933 annual report lists the total membership of the FHLB System at 2,086 institutions with a combined $2.6 billion in assets; the 1934 annual report lists the total membership at 3,086. 
+
+> 6 In July 1951, the last of the Treasury-held stock was retired, at which point the system was entirely sustained through stock subscriptions by member institutions, deposits, and consolidated debt obligation issuances (Federal Home Loan Bank Board 1961, 29–30). 
+
+
+subscription was executed through the newly created Reconstruction Finance Corporation (RFC) (FHLB Act 1932, sec. 6(f)).[7] In February 1941, the government’s stock was transferred to the RFC (Federal Home Loan Bank Board 1941, 75). Stock subscribed by the Treasury was initially entitled to a 2% yearly dividend (FHLB Act 1932, sec. 6(k)). In 1935, Congress eliminated the fixed 2% dividend for stock held by the Treasury, giving the FHLB Board discretion in setting dividend rates (Federal Home Loan Bank Board 1935, 8). The FHLB System typically paid dividends between 1% and 1.5% (Federal Home Loan Bank Board 1941, 74; 1939, 68). From its creation through year-end 1940, the Treasury received $12 million in dividends from the FHLB System (Federal Home Loan Bank Board 1941, 74). 
+
+FHLBank operations were also financed through stock subscriptions by member financial institutions. In the initial legislation, each FHLBank was to have a minimum capital stock of $5 million (FHLB Act 1932, sec. 6(a)). Every FHLBank member was required by law to subscribe to its regional FHLBank’s stock at a level equal to (1) 1% of the unpaid principal of the member’s home mortgage loans, but no less than (2) $1,500 (FHLB Act 1932, sec. 6(a)). The minimum stock subscription was later revised down to the lesser of (1) 1% of unpaid principal and (2) $500 (Federal Home Loan Bank Board 1941, 72). Stock owned by member institutions shared in dividend distributions without preference (FHLB Act 1932, sec. 6(k)). Dividend payments on member stock were also set by the FHLB Board (Federal Home Loan Bank Board 1935, 8). 
+
+The FHLB System could also issue bonds and debentures. The original Act provided for borrowing only by the individual FHLBanks; such borrowings would be “joint and several obligations of all the banks.” The original act also limited total bond issuance and set interest rates on issued bonds. Under amendments Congress passed in 1934, the Board could also issue joint consolidated debt obligations to fund its operations (Federal Home Loan Bank Board 1961, 32). Consolidated obligations were bond issuances where the 12 FHLBanks shared the proceeds and were jointly liable for payment of the bonds. The first issuance of consolidated obligations had maturities of one year and were issued on April 1, 1937 (Federal Home Loan Bank Board 1961, 32). Later, the FHLB System issued three- and fiveyear maturity consolidated obligations (Federal Home Loan Bank Board 1961, 32). 
+
+Initially, the Federal Home Loan Bank Act of 1932 required FHLBanks to hold 190% of the value of issued bonds in collateral securing advances to member banks or 100% of the value of issued bonds in cash or US government securities or a mixture (FHLB Act 1932, sec. 11(c)). This requirement was relaxed by Congress in June 1934, instead giving the Board the authority to set the terms and conditions on its bonds. The Board then required the FHLB System to hold 100% of the value of its issued bonds in three asset types: (1) cash deposits, (2) secured advances, or (3) US government securities (Federal Home Loan Bank Board 1961, 32). 
+
+> 7 Shortly before the creation of the FHLB system, Congress created the RFC to provide liquidity to financial institutions, railroads, and finance infrastructure projects (US Department of the Treasury 1959, 1). For more details on the RFC, see Leonard (2022a). 
+
+
+**8. Program Size: Advances outstanding peaked at $196 million in 1938. Members’ borrowing capacity grew substantially throughout the 1930s and by 1941, member institutions were legally capable of borrowing up to $2.1 billion.** 
+
+Advances outstanding peaked at $196 million in 1938 (Federal Home Loan Bank Board 1938, 172). Advances per year increased continuously between 1932 and 1941, while annual repayments ebbed in 1935 and 1939 (see Figure 6). 
+
+[FIGURE id=vol4_iss2_54_f6 type=chart label="Figure 6" file=figure_6.png caption="Advances and Repayments by Year and Balance of Advances Outstanding (in $)"]
+### **Figure 6: Advances and Repayments by Year and Balance of Advances Outstanding (in $)**
+![Figure 6](assets/vol4_iss2_54/figure_6.png)
+
+
+_Sources: Federal Home Loan Bank Board 1939, 172; 1941, 194._ 
+
+In each year’s annual report, the FHLB calculated the borrowing capacity of member institutions given the Board’s imposed individual limits (see Figure 7). The FHLB Board cautioned over-interpreting borrowing capacity, saying: 
+
+This figure should not be interpreted as a measure of the credit reservoir upon which member institutions can draw at will. On the contrary, every application for an advance is individually considered on its own merits and the applicant's "borrowing capacity" is probably the least important factor determining approval or disapproval. Much more important, for example, are the prospective borrowing association’s financial condition and the acceptability of its collateral. Nevertheless, the very wide margin between legal borrowing capacity and advances outstanding indicates the potentialities of the Bank System (Federal Home Loan Bank Board 1941, 68). 
+
+
+[FIGURE id=vol4_iss2_54_f7 type=chart label="Figure 7" file=figure_7.png caption="Borrowing Capacity and Advances Disbursed (in $ billions)"]
+### **Figure 7: Borrowing Capacity and Advances Disbursed (in $ billions)**
+![Figure 7](assets/vol4_iss2_54/figure_7.png)
+
+
+_Sources: Federal Home Loan Bank Board 1935; Federal Home Loan Bank Board 1936; Federal Home Loan Bank Board 1937; Federal Home Loan Bank Board 1938; Federal Home Loan Bank Board 1939; Federal Home Loan Bank Board 1941._ 
+
+**9. Individual Participation Limits: The original legislation specified that the aggregate value of outstanding advances to a member institution could not exceed 12 times the member’s stock subscription.** 
+
+In the original legislation, member institutions could receive up to 12 times their FHLBank capital stock subscription in advances (FHLB Act 1932, sec. 10(c)). By 1940, additional individual borrowing limits were set by Board regulation at the minimum of (1) 12 times the member’s capital stock, (2) 50% of the member’s net assets, or (3) 50% of the member’s savings capital (Federal Home Loan Bank Board 1941, 68; 1961, 57). 
+
+**10. Rate Charged: Interest rates were established by the boards of each regional FHLBank and varied with advance type and maturity as well as market conditions.** 
+
+Maximum interest rates for advances were set by the national Board, but the board of each regional FHLBank established the interest rates for its region, which varied with advance type, maturity, and market conditions (Federal Home Loan Bank Board 1961, 55). 
+
+In 1935, interest rates typically ranged between 3% and 4% depending on the nature of the advance (Federal Home Loan Bank Board 1935, 9). Interest rates declined between 1935 and 1939; interest rates across the FHLBanks can be found in Figure 8. In 1940, the Board 
+
+
+set the maximum rate at 3%, and the regional FHLBanks charged between 2.5% and 3% on long-term advances, and between 1.5% and 3% on short-term advances (Federal Home Loan Bank Board 1940, 65). 
+
+[FIGURE id=vol4_iss2_54_f8 type=chart label="Figure 8" file=figure_8.png caption="Interest Rates Charged to Member Institutions, by Advance Type, June 1939"]
+### **Figure 8: Interest Rates Charged to Member Institutions, by Advance Type, June 1939**
+
+|FHLBank|Long-Term Secured|Short-Term Secured|Short-Term Unsecured||
+|---|---|---|---|---|
+|Boston|3|2.5 or3|2.5 or3||
+|New York|3|1.5 or 3|1.5 or 3||
+|Pittsburgh|3.25|3.25|3.25||
+|Winston-Salem, NC|3.5|3.5|3.5||
+|Cincinnati|3|3|3||
+|Indianapolis|3|3|3.5||
+|Chicago|3|3|3.25||
+|Des Moines, IA|3|3|3||
+|LittleRock,AR|3|3|3||
+|Topeka, KS|3|3|3||
+|Portland, OR|3|3|3||
+|LosAngeles|3|3|3||
+
+
+
+_Source: Federal Home Loan Bank Board 1938, 176._ 
+
+## **11. Eligible Collateral: Home mortgages were initially the only eligible collateral.** 
+
+The FHLBank System was formed as a government-sponsored enterprise to support mortgage lending and related community investment at a time when the mortgage market was under great stress and foreclosures had significantly increased. In the original legislation, FHLBanks were authorized to make advances on home mortgage collateral, subject to limitations based on maturity and loan-to-value (FHLB Act 1932, sec. 10(a)). 
+
+First, advances secured by home mortgages with maturities (or remaining maturities) of greater than eight years could not exceed 60% of the unpaid principle or 40% of the value of the underlying real estate (FHLB Act 1932, sec. 10(a)(1)). 
+
+Second, home mortgages with maturities (or remaining maturities) exceeding 15 years, underlying real estate value exceeding $20,000, or more than six months past due were not accepted as collateral (FHLB Act 1932, sec. 10(b)). This final condition was later amended to instead permit maturities or remaining maturities of less than 25 years (Federal Home Loan Bank Board 1961, 52). 
+
+Third, for advances secured by home mortgage loans with maturities (or remaining maturities) less than eight years, the value of the advance could not exceed 50% of the unpaid principle or 30% of the value of the underlying real estate (FHLB Act 1932, sec. 10(a)(2)). 
+
+Any institution receiving an advance entered into a “primary and unconditional obligation to pay off all advances” (FHLB Act 1932, sec. 10(d)). This requirement would eventually become the FHLB System’s statutory “super-lien,” giving the FHLBanks priority over all 
+
+
+other depositors and almost all other creditors in the event a member defaulted (Narajabad and Gissler 2017; Frame, Hancock, and Passmore 2012, 664). As a result of conservative underwriting standards and this statutory “super-lien,” the FHLBanks sustained no losses (FHLB Office of Finance n.d.). 
+
+However, not all advances were collateralized (Federal Home Loan Bank Board 1940, 66) (see Figure 9). “Uncollateralized” advances tended to be short-term and were still supported by member stock subscriptions (Federal Home Loan Bank Board 1940, 66). Moreover, institutions that received uncollateralized advances were not permitted to have outstanding liabilities to other creditors exceeding 5% of their net assets (Federal Home Loan Bank Board 1940, 66). 
+
+[FIGURE id=vol4_iss2_54_f9 type=figure label="Figure 9" file=figure_9.png caption="Trend of Secured and Unsecured Advances Outstanding, by Year"]
+### **Figure 9: Trend of Secured and Unsecured Advances Outstanding, by Year**
+
+|Year|Dollar Amounts||Percent Distribution|Percent Distribution|
+|---|---|---|---|---|
+||Collateralized|Uncollateralized|Collateralized|Uncollateralized|
+|1933|$46,521,239|$1,142,591|97.6%|2.4%|
+|1934|$82,740,248|$2,408,106|97.2%|2.8%|
+|1935|$68,045,199|$11,187,315|85.9%|14.1%|
+|1936|$89,964,281|$28, 622,557|75.9%|24.1%|
+|1937|$130,944,112|$36,112,775|78.4%|21.6%|
+|1938|$163,386,013|$32,838,924|83.3%|16.7%|
+|1939|$145,442,668|$23,518,895|86.1%|13.9%|
+|1940|$126,342,499|$31,054,548|80.3%|19.8%|
+|1941|$121,995,964|$47,901,426|71.8%|28.2%|
+
+
+
+_Source: Federal Home Loan Bank Board 1941, 66._ 
+
+## **12. Loan Duration: Maturities of FHLB advances ranged from a few days to 10 years.** 
+
+FHLB advances were sorted into two categories: short-term and long-term advances. Shortterm advances had maturities ranging from a few days to at most one year (Federal Home Loan Bank Board 1961, 51). Long-term advances had maturities ranging from one year to ten years (Federal Home Loan Bank Board 1939, 60). Originally, most advances were for short-term lending, but by 1934 long-term lending outweighed short-term (see Figure 10). 
+
+
+[FIGURE id=vol4_iss2_54_f10 type=figure label="Figure 10" file=figure_10.png caption="Outstanding FHLB Advances, by Long-term and Short-term Advances, as of June 30"]
+### **Figure 10: Outstanding FHLB Advances, by Long-term and Short-term Advances, as of June 30**
+
+|**June 30**|||||
+|---|---|---|---|---|
+|Year|Dollar Amounts||Percent Distribution||
+||Long-Term|Short-Term|Long-Term|Short-Term|
+|1933|$17,460,425|$30,203,405|36.6%|63.4%|
+|1934|$57,885,363|$27,262,991|68.0%|32.0%|
+|1935|$51,020,430|$28,212,084|64.4%|35.6%|
+|1936|$74,653,428|$43,933,410|63.0%|37.0%|
+|1937|$118,257,717|$48,799,169|70.8%|29.2%|
+|1938|$149,227,685|$46,997,252|76.0%|24.0%|
+|1939|$133,919,650|$35,041,913|79.3%|20.7%|
+|1940|$114,732,949|$42,664,097|72.9%|27.1%|
+|1941|$104,069,764|$65,807,625|61.3%|38.7%|
+
+
+
+_Source: Federal Home Loan Bank Board 1938, 61; 1940, 197._ 
+
+## **13. Other conditions: The FHLB Board also executed a supervisory function for federally and state-chartered savings and loan associations.** 
+
+The Board also executed a supervisory function, overseeing all federal and state-chartered savings and loan associations (Federal Home Loan Bank Board 1939, 17). In 1939, there were 2,214 S&L institutions, with combined assets totaling $2.4 billion under FHLB supervision (Federal Home Loan Bank Board 1939, 17). 
+
+## **14. Impact on Monetary Policy Transmission: FHLB lending had no impact on monetary policy.** 
+
+The FHLB was a funded agency of the executive branch, and its activities were unrelated to the Federal Reserve’s conduct of monetary policy. 
+
+## **15. Other Options: Initially, the FHLBanks were authorized to value and extend loans on single mortgages, which exceeded the FHLBanks administrative capacity. This function was delegated to the HOLC in 1933.** 
+
+Originally, the FHLBanks were required, in certain circumstances, to lend directly to individuals, which placed considerable administrative strain on the banks (Federal Home Loan Bank Board 1933, 3). The Act also created the FHLB Board, which chartered and managed federal savings and loan banks and organizations (United States Congress 1932, sec.2). The Home Owners’ Loan Act of 1933 amended this clause, creating the HOLC, which undertook the function of direct-to-owner loans (Wheelock 2008, 141). 
+
+
+## **16. Similar Programs in Other Countries: Research did not reveal parallels in other countries.** 
+
+The response to the Great Depression differed across countries and research did not reveal FHLBank parallels in other countries. Eichengreen and Mitchener (2003, 66) survey differences in mortgage lending and credit extension across developed countries during the Great Depression, which might have driven the heterogeneity in response. Coles and Hardt (2010, 3) find that government-sponsored housing corporations are an idiosyncratic feature of the United States’ response to the Great Depression. 
+
+## **17. Communication: The regional FHLBanks and the Board served a supervisory function, which enabled communication with member institutions.** 
+
+The first president of the FHLB Board, Franklin Fort, gave a statement on August 10, 1932, shortly after the system was created in July 1932, indicating the importance of real estate banks to the general financial condition of the country (Commercial and Financial Chronicle 1932a, 1102). 
+
+Franklin Fort also addressed the nation during President Herbert Hoover’s Economic Conference on August 26, 1932 (Commercial and Financial Chronicle 1932b, 1591). In his speech, he described the goal of the system as “to give to the great groups of financial institutions engaged in extending long-term credits based upon real estate some measure at least of that liquidity which the Federal Reserve System supplies to commercial banks” (Commercial and Financial Chronicle 1932b, 1591). 
+
+## **18. Disclosure: The FHLB published aggregated advance data for each regional FHLBank in annual reports.** 
+
+The FHLB published aggregated advance data for each regional FHLBank in annual reports, which were made public and submitted to Congress (Federal Home Loan Bank Board 1933; 1934; 1935; 1936; 1937; 1938; 1939). 
+
+## **19. Stigma Strategy: FHLB reports do not explicitly mention stigma. Annual reports included aggregated data.** 
+
+The FHLB published aggregated advance data for each regional FHLBank in annual reports (Federal Home Loan Bank Board 1933; 1939). FHLB reports do not explicitly mention stigma. 
+
+## **20. Exit Strategy: The FHLB System was established as a standing system of wholesale banks focused on mortgage lending and still exists.** 
+
+The FHLBanks were set up as standing wholesale banks and still exist. In 1989, Congress dissolved the FHLB Board in the Financial Institutions Reform, Recovery, and Enforcement Act (FIRREA) in response to the savings and loan crisis and created the Federal Housing Finance Board (FHFB) to replace the Board’s supervisory function; the FHLBanks continued as wholesale banks for member institutions (Simone 2015, 6). During the Global Financial 
+
+
+Crisis, the FHLBanks provided emergency liquidity to members before the Federal Reserve created new facilities in March 2008. See Leonard (2022b). 
+
+## **References and Key Program Documents** 
+
+Documents cited in the text are introduced with a parenthetical author-date citation. Documents that are relevant to this case but have not been cited in text do not include this parenthetical reference. 
+
+## **Implementation Documents** 
+
+(FHLB Office of Finance n.d.) FHLB Office of Finance. n.d. “Credit Ratings.” Accessed February 15, 2021. 
+
+_Landing page explaining conservative lending behavior of FHLBanks_ . https://ypfs.som.yale.edu/node/20278 
+
+## **Legal/Regulatory Guidance** 
+
+(FHLB Act 1932) United States Congress (FHLB Act). 1932. _Federal Home Loan Bank Act, H.R. 12280_ . 
+
+_Act establishing the FHLB system_ . https://ypfs.som.yale.edu/node/20263 
+
+## **Media Stories** 
+
+(Commercial and Financial Chronicle 1932a) Commercial and Financial Chronicle. 1932a. “Commercial and Financial Chronicle, August 13, 1932,” August 13, 1932, sec. Vol. 135, No. 3503. 
+
+_News article discussing the early actions of the FHLB system_ . https://ypfs.som.yale.edu/node/20300 
+
+(Commercial and Financial Chronicle 1932b) Commercial and Financial Chronicle. 1932b. “Commercial and Financial Chronicle, September 3, 1932.” _Commercial and Financial Chronicle_ , September 3, 1932. 
+
+_News article discussing the early actions of the FHLB system_ . https://ypfs.som.yale.edu/node/20299 
+
+## **Reports/Assessments** 
+
+(Federal Home Loan Bank Board 1933) Federal Home Loan Bank Board. 1933. “First Annual Report of the Federal Home Loan Bank Board.” _Annual Report of the Federal Home Loan Bank Board_ . 
+
+_1932 annual report of the Federal Home Loan Bank Board_ . https://ypfs.som.yale.edu/node/20253 
+
+
+(Federal Home Loan Bank Board 1934) Federal Home Loan Bank Board. 1934. “Second Annual Report of the Federal Home Loan Bank Board.” _Annual Report of the Federal Home Loan Bank Board_ . 
+
+_1933 annual report of the Federal Home Loan Bank Board_ . https://ypfs.som.yale.edu/node/20254 
+
+(Federal Home Loan Bank Board 1935) Federal Home Loan Bank Board. 1935. “Third Annual Report of the Federal Home Loan Bank Board.” _Annual Report of the Federal Home Loan Bank Board_ . 
+
+_1934 annual report of the Federal Home Loan Bank Board_ . https://ypfs.som.yale.edu/node/20255 
+
+(Federal Home Loan Bank Board 1936) Federal Home Loan Bank Board. 1936. “Fourth Annual Report of the Federal Home Loan Bank Board.” _Annual Report of the Federal Home Loan Bank Board_ . 
+
+_1935 annual report of the Federal Home Loan Bank Board_ . https://ypfs.som.yale.edu/node/20256 
+
+(Federal Home Loan Bank Board 1937) Federal Home Loan Bank Board. 1937. “Fifth Annual Report of the Federal Home Loan Bank Board.” _Annual Report of the Federal Home Loan Bank Board_ . 
+
+_1936 annual report of the Federal Home Loan Bank Board_ . https://ypfs.som.yale.edu/node/20257 
+
+(Federal Home Loan Bank Board 1938) Federal Home Loan Bank Board. 1938. “Sixth Annual Report of the Federal Home Loan Bank Board.” _Annual Report of the Federal Home Loan Bank Board_ . 
+
+_1937 annual report of the Federal Home Loan Bank Board_ . https://ypfs.som.yale.edu/node/20258 
+
+(Federal Home Loan Bank Board 1939) Federal Home Loan Bank Board. 1939. “Seventh Annual Report, Federal Home Loan Bank Board.” _Annual Report of the Federal Home Loan Bank Board_ . 
+
+_1938 annual report of the Federal Home Loan Bank Board_ . https://ypfs.som.yale.edu/node/20259 
+
+(Federal Home Loan Bank Board 1941) Federal Home Loan Bank Board. 1941. “Ninth Annual Report, Federal Home Loan Bank Board.” _Annual Report of the Federal Home Loan Bank Board_ . 
+
+_1940 annual report of the Federal Home Loan Bank Board_ . https://ypfs.som.yale.edu/node/20260 
+
+(Federal Home Loan Bank Board 1961) Federal Home Loan Bank Board. 1961. _The Federal Home Loan Bank System_ . 
+
+_Book published by FHLB surveying the history of the system_ . https://ypfs.som.yale.edu/node/20261 
+
+
+(Narajabad and Gissler 2017) Narajabad, Borghan, and Stefan Gissler. 2017. “The Increased Role of the Federal Home Loan Bank System in Funding Markets, Part 1: Background.” _FRB blog post on FHBL advance lending_ . https://ypfs.som.yale.edu/node/20110 
+
+(Treasury 1959) US Department of the Treasury (Treasury). 1959. _Final Report on the Reconstruction Finance Corporation: Pursuant to Section 6 (C), Reorganization Plan No. 1 of 1957_ . 
+
+_Final report of the RFC_ . https://ypfs.som.yale.edu/node/18178 
+
+## **Key Academic Papers** 
+
+(Coles and Hardt 2010) Coles, Adrian, and Judith Hardt. 2010. “Mortgage Markets: Why US and EU Markets Are so Different.” Housing Studies. 
+
+_Paper comparing mortgage lending in the US and the EU since the Great Depression_ . https://ypfs.som.yale.edu/node/20316 
+
+(Eichengreen and Mitchener 2003) Eichengreen, Barry, and Kris Mitchener. 2003. “The Great Depression as a Credit Boom Gone Wrong.” _BIS Working Papers_ 137, September. _Paper looking at credit expansion across countries prior to the Great Depression_ . https://ypfs.som.yale.edu/node/20317 
+
+(Frame, Hancock, and Passmore 2012) Frame, W. Scott, Diana Hancock, and Wayne Passmore. 2012. “Federal Home Loan Bank Advances and Commercial Bank Portfolio Composition.” _Journal of Money, Credit and Banking_ 44, no. 4: 661–84. _Academic article analyzing effects of FHLB lending during the GFC_ . https://ypfs.som.yale.edu/node/20102 
+
+(Leonard 2022a) Leonard, Natalie. 2022. “United States: Reconstruction Finance Corporation Emergency Lending to Financial Institutions, 1932–1933” _Journal of Financial Crises_ 4, no. 2. 
+
+_YPFS case examining the RFC’s emergency lending during the Great Depression_ . https://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss2/62 
+
+(Leonard 2022b) Leonard, Natalie. 2022. “United States: Federal Home Loan Bank Advances, 2007–2009” _Journal of Financial Crises_ 4, no. 2. 
+
+_YPFS case examining the FHLB’s advance lending during the Global Financial Crisis_ . https://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss2/55 
+
+(Poteat 1938) Poteat, J. Douglass. 1938. “State Legislative Relief for the Mortgage Debtor during the Depression.” _Law and Contemporary Problems_ 5, no. 4: 517. _Academic article surveying state mortgage relief during the Great Depression_ . https://ypfs.som.yale.edu/node/20264 
+
+
+(Simone 2015) Simone, John C. 2015. “Changes to the Federal Home Loan Bank System since the Great Recession.” _Drexel University_ , 60. _Thesis surveying changes to the FHLB system after its creation_ . https://ypfs.som.yale.edu/node/20095 
+
+(Wheelock 2008) Wheelock, David C. 2008. “The Federal Response to Home Mortgage Distress: Lessons from the Great Depression.” _Federal Reserve Bank of St. Louis_ . _Academic article on agencies created to respond to the Great Depression_ . https://ypfs.som.yale.edu/node/20262 
+
+Copyright 2022 © Yale University. All rights reserved. To order copies of this material or to receive permission to reprint any or all of this document, please contact the Yale Program on Financial Stability at ypfs@yale.edu.

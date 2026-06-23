@@ -1,0 +1,932 @@
+--- Page 1 ---
+Journal of Financial Crises Journal of Financial Crises 
+Volume 3 Issue 2 
+2021 
+Finland: Arsenal Finland: Arsenal 
+Kaleb B. Nygaard 
+Yale School of Management 
+Follow this and additional works at: https://elischolar.library.yale.edu/journal-of-financial-crises 
+ Part of the Economic Policy Commons, Finance and Financial Management Commons, 
+Macroeconomics Commons, Policy Design, Analysis, and Evaluation Commons, and the Policy History, 
+Theory, and Methods Commons 
+Recommended Citation Recommended Citation 
+Nygaard, Kaleb B. (2021) "Finland: Arsenal," Journal of Financial Crises: Vol. 3 : Iss. 2, 264-289. 
+DOI: https://doi.org/10.17132/2693-3179.1171 
+Available at: https://elischolar.library.yale.edu/journal-of-financial-crises/vol3/iss2/13 
+This Case Study is brought to you for free and open access by the Journal of Financial Crises and 
+EliScholar – A Digital Platform for Scholarly Publishing at Yale. For more information, please contact 
+journalfinancialcrises@yale.edu.
+
+--- Page 2 ---
+READERS TAKE NOTICE: READERS TAKE NOTICE: 
+As of April 2024, the YPFS Resource Library’s site domain has changed 
+to https://elischolar.library.yale.edu/ypfs-financial-crisis-resource-library/. 
+Please be aware that upon clicking any of the URL references to 
+the former Resource Library domains, either https://ypfs.som.yale.edu 
+or https://ypfsresourcelibrary.blob.core.windows.net/, in the 
+"References/Key Program Documents" section of a case study, 
+readers will encounter a "page not found" error. readers will encounter a "page not found" error. 
+Readers can still retrieve a given resource cited within this case study 
+on the new site  by searching by searching here  for the title cited. for the title cited. 
+This case study is available in Journal of Financial Crises: https://elischolar.library.yale.edu/journal-of-financial-
+crises/vol3/iss2/13
+
+--- Page 3 ---
+Finland: Arsenal1 
+Kaleb B. Nygaard2 
+Yale Program on Financial Stability Case Study 
+June 23, 2021 
+Abstract 
+Following a large -scale deregulation of the financial sector during the 1980s and the 
+subsequent massive credit expansion, a banking crisis in Finland caused a sharp 
+contraction in the economy in the early 1990s. One of the key policy responses to the crisis 
+was the creation of an asset management company called Arsenal in 1992. The original 
+purpose of Arsenal was to absorb, manage, and liquidate  the bad assets of the Savings Bank 
+of Finland (an entity created by the government -forced merger of 41 of the country’s 81 
+savings banks). During the following years , Arsenal expanded to become a group of 
+multiple asset management companies dealing with t he bad assets of other failed entities. 
+The Arsenal Group , as the group later came to be known,  was ultimately responsible for 
+managing more than FIM 40 billion (approx. $8.1 billion) in assets. By 1999 more than 90% 
+of the assets had been wound down . Arsenal was not placed in  liquidation until 2003 , at 
+which time losses had reached nearly FIM  20 billion. In the most recent available financial 
+statements, Arsenal reported that it was down to one employee with just a handful of 
+assets outstanding in domestic  and foreign bankruptcy court that were expected to be 
+finalized within three years, at which point Arsenal would be dissolved.  
+Keywords: asset management company, Arsenal, Finland, Government Guarantee Fund, 
+Nordic banking crisis, Savings Bank of Finland , broad-based asset  management 
+ 
+1 This case study is part of the Yale Program on Financial Stability (YPFS) selection of New Bagehot Project 
+modules considering broad-based asset management company programs. 
+Cases are available from the Journal of Financial Crises  at https://elischolar.library.yale.edu/journal -of-
+financial-crises/. 
+2 Research Associate, YPFS, Yale School of Management. 
+264
+
+--- Page 4 ---
+At a Glance 
+Following a large-scale deregulation 
+of the financial sector during the 
+1980s and the subsequent massive 
+credit expansion, a banking crisis in 
+Finland caused a sharp contraction in 
+the economy in the early 1990s. One 
+of the key policy responses to the 
+crisis was the creatio n of an asset 
+management company called Arsenal 
+in 1992. The original purpose of 
+Arsenal was to absorb, manage, and 
+liquidate the bad assets of the Savings 
+Bank of Finland (an entity created by 
+the government -forced merger of 41 
+of the country’s 81 savings banks).  
+Arsenal was wholly  government 
+owned, with the Government of 
+Finland owning 74% of the shares 
+and an off -state-balance-sheet fund 
+holding the remainder , and received 
+an unconditional guarantee of up to 
+23 billion Finnish markkas (FIM) 
+($4.7 billio n) for bonds issued  by 
+Arsenal itself .3 Arsenal acquired the 
+assets of the Savings Bank of Finland 
+at their original book value, which 
+was significantly greater than their 
+market value at the time, using the 
+Arsenal bonds guaranteed by the 
+Finnish government (Arsenal 1994). 
+During the following years , Arsenal expanded to become a group of multiple asset 
+management companies dealing with the bad assets of other failed entities. The Arsenal 
+Group was ultimately responsible for managing more than FIM 40 billion in assets. By 1999 
+more than 90% of the assets had been wound down . Arsenal was not placed in liquidation 
+ 
+3 FIM 4.936 = 1 USD during the time period in question (Federal Reserve Bank of New York, Foreign Exchange 
+Rates Archive). 
+Summary of Key Terms 
+Purpose:  “The Arsenal Group manages, develops and 
+liquidates assets for which it has assumed responsibility, in 
+order to ensure optimal financial results under prevailing 
+circumstances. Its objective is to minimize any further 
+Government investments in the Group an d to reduce the 
+risk of loss on investments already made” (Arsenal 1995). 
+ 
+Launch dates   Circa end of 1993  
+Wind-down dates 1999: more than  90% of 
+assets disposed; 
+2003: Arsenal placed in 
+liquidation; 
+2018: one employee remains to 
+manage few remaining 
+bankruptcies  
+Size and type of NPL 
+problem 
+18.7% at the end of 1993 
+(Klingebiel 2000); 
+Savings bank loans 
+Program size Not specified at outset 
+Eligible institutions Initially just the Savings Bank of 
+Finland; later expanded to 
+include other institutions 
+Closed-bank only  
+Usage FIM 40 billion  
+Outcomes Loss of FIM  20 billion on  
+FIM 40 billion in assets  
+Ownership structure Public-owned  
+Notable features Allowed the banks who bought 
+the good assets to give them 
+back to Arsenal if they became 
+non-performing in the first 
+year; allowed Arsenal to 
+prioritize the pursuit of bad 
+debtors over strict loss 
+minimization 
+Finland: Arsenal 
+265
+Journal of Financial Crises Vol. 3 Iss. 2
+
+--- Page 5 ---
+until 2003 , at which time losses  had reached nearly FIM  20 billion. In the most recent 
+available financial statements (2017), Arsenal reported that  it was down to one employee 
+with just a handful of assets outstanding in domestic and foreign bankruptcy court that 
+were expected to be finalized within three years, at which point Arsenal would be 
+dissolved.   
+Summary Evaluation 
+The consensus of a number of academic reviews of the Nordic area crisis and specific 
+analyses of Arsenal conclude s that Arsenal was provided with the appropriate level of 
+funding and professional management necessary and that it operated transparently. 
+Arsenal accepted all n on-performing loans from the Savings Bank of Finland (similar 
+portfolios and no-questions-asked acceptance of non-performing loans were present in the 
+other asset management companies that subsequently were joined into the Arsenal Group). 
+This feature made it challenging to wind down the portfolio and has contributed to the 
+protracted existence of Arsenal, despite an initial five-to-seven-year expected life span. 
+Arsenal is generally seen as having greatly contributed to the banking sector’s eventual 
+recovery. 
+  
+266
+Finland: Arsenal Nygaard
+
+--- Page 6 ---
+Finland – Arsenal: Finland Context 
+GDP 
+(SAAR, Nominal GDP in LCU converted to USD) 
+$89.2 billion in 1993 
+$103.3 billion in 1994 
+GDP per capita 
+(SAAR, Nominal GDP in LCU converted to USD) 
+$17,609 in 1993 
+$20,301 in 1994 
+Sovereign credit rating (5-year senior debt) 
+ 
+Data for 1993: 
+Moody’s: n/a 
+S&P: AAA 
+Fitch: n/a 
+ 
+Data for 1994: 
+Moody’s: n/a 
+S&P: AAA 
+Fitch: n/a 
+Size of banking system 
+ 
+Data not available for 
+1993 
+Data not available for 
+1994 
+Size of banking system as a percentage of GDP 
+ 
+84.51% in 1993 
+73.08% in 1994 
+Size of banking system as a percentage of financial 
+system 
+ 
+Data not available for 
+1993 
+Data not available for 
+1994 
+5-bank concentration of banking system 
+ 
+Data not available for 
+1993 
+Data not available for 
+1994 
+Foreign involvement in banking system 
+Data not available for 
+1993 
+Data not available for 
+1994 
+Government ownership of banking system 
+Data not available for 
+1993 
+Data not available for 
+1994 
+Existence of deposit insurance Yes in 1993 
+Yes in 1994 
+Sources: Bloomberg; World Bank Global Financial Development Database; World Bank 
+Deposit Insurance Dataset. 
+ 
+ 
+267
+Journal of Financial Crises Vol. 3 Iss. 2
+
+--- Page 7 ---
+I. Overview 
+Background 
+The Buildup 
+During the 1980s in Finland there was a large -scale deregulation of the financial sector as 
+outlined in Figure 1. The government allowed banks to lend into areas where they had not 
+lent before and therefore lacked market -specific knowledge. Regulatory decisions were 
+subject to court challenges , and it  has been theorized that this “raised the threshold for 
+introducing stricter supervisory practices” (Nyberg and Vihriälä 1994) . In addition, 
+regulators lifted strict limits on deposit and interest rates. More broadly, the supervisory 
+authorities were viewe d as relatively weak : “they lacked resources and qualified staff and 
+did not prioritise on -site inspections” (Moe, Solheim, and Vale 2004) . The savings banks 
+were taking extraordinary risks and were under-capitalized.  
+Figure 1: Timeline of market liberalization in Finland  
+ 
+Source: Nyberg and Vihriälä 1994. 
+During the same time period , both household and corporate debt increased significantly. 
+The Finnish, Norwegian, and Swedish “tax systems encouraged borrowing through very 
+generous rules for deducting interest expenses from taxable income” (Moe, Solheim, and 
+Vale 2004). Household debt  rose from 25% of GDP in 1980 to 45% in 1992, and corporate 
+debt rose from 70% of GDP to nearly 90% of GDP in just a couple of years starting in 1989.  
+Housing prices doubled between 1986 and 1989 , and the Finnish stock market tripled in 
+value between 1985  and 1988 (Mayes, Halme, and Liuksila 2001) . Commercial property 
+prices may have increased even more than residential prices. This led to the traditional 
+268
+Finland: Arsenal Nygaard
+
+--- Page 8 ---
+cycle where the increases in property prices lead to higher collateral values, which 
+facilitate an increase in bank lending (Moe, Solheim, and Vale 2004).  
+In addition , there were two significant international events that affected the Finnish 
+economy in the late ’80s and early ’90s. First, Finland faced significant speculative attacks 
+on its currency, which resulted in a major devaluation in September 1992 . In an attempt to 
+stabilize its currency, the Finnish government tightened monetary policy through rising 
+interest rates, which dampened borrowing (Mayes, Halme, and Liuksila 2001).  
+Second, Finnish exports collapsed with the fall of the Soviet Union (Moe, Solheim, and Vale 
+2004). The Soviet Union had accounted for approximately 15% of Finnish exports (Mayes, 
+Halme, and Liuksila 2001) . The decrease in exports to the former Soviet Union caused a 
+negative demand shock of approximately 2.5% of GDP to the Finnish economy (Nyberg and 
+Vihriälä 1994).  
+The Crisis 
+Finland was not alone in suffering a banking crisis and economic downturn during the 
+early 1990 s. Sweden, Norway, and Denmark experienced crises that, although they had 
+distinct causes and effects, were similar in many ways. However, Finland suffered the most , 
+with a growth rate of negative 8% of GDP during the worst of the crisis years and a peak 
+unemployment rate at greater than 20% (Mayes, Halme, and Liuksila 2001). See Figure 2. 
+Figure 2: GDP growth and unemployment rate in Finland in the 1980s and 1990s 
+GDP growth (%) Unemployment (%) 
+  
+Source: Mayes, Halme, and Liuksila 2001. 
+Outstanding loans to the public by all Finnish deposit banks had more than doubled from 
+FIM 214 billion to FIM  491 billion from 1985 to 1990 (Nyberg and Vihriälä 1994) . 
+Throughout the time period, GDP was growing at a similar pace , so this lending 
+represented a consistent 75% of GDP (World Bank n.d.) . Then , from 1991 to 1995 , bank 
+lending fell by more than a third. It would take nine years before bank lending returned to  
+the pre-crisis levels (Moe, Solheim, and Vale 2004). This dramatic buildup and then crash of 
+the banking sector can be seen in the  two charts in Figure 3, which  show the decrease of 
+269
+Journal of Financial Crises Vol. 3 Iss. 2
+
+--- Page 9 ---
+employment in banking by more than half and, similarly, the closure of mo re than half of 
+physical bank branches. By 1993, nearly one in five loans were non -performing (Klingebiel 
+2000). 
+Figure 3: Size of banking sector by employment and branches in the 1990s 
+Banking employees per 1,000 people Bank branches per 1,000 people 
+  
+Source: Mayes, Halme, and Liuksila 2001. 
+Summary of Finnish Government Actions Leading up to Arsenal 
+Skopbank was one of the banks that most embodied the increase in volume and expansion 
+into new sectors of lending during the late-1980s boom years. It was a commercial bank 
+that served as a central bank or correspondent bank to Finland’s savings banks. Skopbank 
+was one of the first institutions to face imminent collapse as the market began to sour. In 
+addition to being one of the most aggressive lenders during the “boom years ,” Skopbank 
+made a large, strategic investment in a multiproduct industrial group that fell  sharply with 
+the turn in the market (Nyberg and Vihriälä 1994) . Skopbank was controlled and mostly 
+owned by the savings banks (Borio, Vale, and von Peter 2010). 
+In 1989 the Bank of Finland , Finland’s central bank , and Finland’s Banking Supervision 
+Office, an arm of the Ministry of Finance , began a “special and increasingly strict 
+surveillance” of Skopbank’s books (Nyberg and Vihriälä 1994) . In October 1990 a 
+restructuring program was designed by the authorities that required that the savings 
+banks raise FI M 1.8 billion in capital from private investors for Skopbank. Ultimately, 
+however, the capital proved insufficient , and after an acute liquidity crisis in September 
+1991, the Bank of Finland took majority control of Skopbank , with 53% of the outstanding 
+shares (Borio, Vale, and von Peter 2010) ; recapitalized the bank with an initial investment 
+of FIM 4 billion in equity; and set up three companies to manage most of the bank’s assets. 
+This takeover and equity injection were seen as outside the traditional ro les of a central 
+bank (Nyberg and Vihriälä 1994). 
+270
+Finland: Arsenal Nygaard
+
+--- Page 10 ---
+In March 1992 the Finnish government provided an FIM  8 billion capital injection program 
+to the banking system. Participation in the program was voluntary, but “virtually all banks 
+applied and received a share” (Moe, Solheim, and Vale 2004) . The capital was available to 
+“all banks regardless of their solvency and in relation to their risk -weighted assets. ” By 
+December 1992, FIM 7.9 billion of the FIM  8 billion program had been deployed (Nyberg 
+and Vihriälä 1994). 
+In late April 1992 , the Parliament created the off-state-balance-sheet Government 
+Guarantee Fund (GGF) (Parliament of Finland 1992)  to prevent a collapse in domestic and 
+international confidence in the stability of the banking system and its claims. The GGF was 
+initially provided with FIM  20 billion in federal funds to use to meet that stated goal . 
+However, by the end of the year, three quarters of the money had been spent. In early 1993, 
+another FIM  20 billion was made available (Nyberg and Vihriälä 1994) . One of the first 
+actions of the GGF was to acquire Skopbank from the Bank of Finland.  
+Another significant action taken by the GGF was the June 1992 decision to force the merger 
+of 41 of the country’s 81 savings banks into a new entity called the Savings Bank of Finland, 
+or SBF . SBF accounted for 23.9% of the total financial system’s assets (Klingebiel 2000) . 
+The GGF provided the new entity with an initial commitment of FIM  7.2 billion, including 
+FIM 5.5 billion in Tier 1 capital and a guarantee for a FIM 1.7 billion subordinated loan. This 
+original amount prove d insufficient, and multiple rounds of further assistance were 
+required. By October 1993 SBF had received a total of FIM  14.5 billion. At that point , the 
+GGF sold the healthy parts of SBF, about FIM  41 billion in assets (Nyberg and Vihriälä 
+1994), to four competing banks : Kansallis -Osake-Pankki, Union Bank of Finland Ltd, 
+Postipankki Ltd, and the Okobank Group (Bank of Finland 1993).  
+Program Description 
+Financing and Governance of Arsenal 
+On November 18, 1993, after FIM 41 billion in healthy assets of the Savings Bank of Finland  
+were sold to four large commercial banks, an asset management company called Arsenal 
+was formed to handle the remaining FIM  30 billion in unhealthy assets (Nyberg and 
+Vihriälä 1994). The new venture was fu nded by the Government of Finland (Government) 
+and the GGF (see Figure 4). In the initial FIM 5 billion capitalization, the Government took a 
+74% equity stake and the GGF took 26% (Arsenal 1994) . Due to higher than originally 
+anticipated losses, the Government made a series of further capital injections: FIM  6 billion 
+in 1994, FIM 8 billion in 1995, and FIM 4 billion in 1996 (Borio, Vale, and von Peter 2010) . 
+The equity balance ultimately shifted slightly to 79% and 21% for the Government and the 
+GGF, respectively (Klingebiel 2000) . See Figure 4 for a visual representation of Arsenal’s 
+financing. 
+271
+Journal of Financial Crises Vol. 3 Iss. 2
+
+--- Page 11 ---
+Figure 4: Financing of Arsenal 
+ 
+Sources: Klingebiel 2000; Borio, Vale, and von Peter 2010. 
+Coupled with the FIM  23 billion in total state -injected capital, Arsenal also received an 
+unconditional guarantee from the Government of up to FIM  28 billion for all “repayment of 
+bonds and other debt financing issued by Arsenal” (Arsenal 1994) . The bonds were 
+described as “negotiable, State -guaranteed zero-coupon bonds in the form of a book -entry 
+security and technically comparable to certificates of deposit issued by commercial banks 
+and governments” (Arsenal 1995). Most of the debt had short tenures. However, in 1996 , 
+two long-term bonds, worth a total of FIM  3 billion, were issued (Arsenal 1996). In its first 
+series of public debt issuances, Arsenal sold FIM 20.6 billion (Arsenal 1994). The amount of 
+debt issued is outlined in Figure 5. 
+ 
+GGF 
+ Government 
+Arsenal 
+Investors 
+Bonds with 
+Government’s 
+unconditional 
+guarantee 
+21% 
+Equity 
+Stake 
+FIM 
+5.7b* 
+79% 
+Equity 
+Stake 
+FIM 
+17.1b* 
+$$$ 
+*Sum of five installments between 1993 and 1997. 
+272
+Finland: Arsenal Nygaard
+
+--- Page 12 ---
+Figure 5: Arsenal’s issuance of public debt 
+ 
+Sources: Arsenal 1994; 1995; 1996; 1997; 1998; 1999; 2000. 
+The governing structure of Arsenal was designed with a balance of private-sector expertise 
+and Government oversight. Of the six members of the board of directors, two were from the 
+private sector and four represented the Government. The CEO and other senior 
+management members were appointed by the Government from the private sector. 
+Oversight of Arsenal was conducted by the GGF, the State Audit Office, and the 
+Parliamentary State Auditors (Klingebiel 2000).  
+Operations and Assets 
+Arsenal became operational on January 15, 1994 (NAOF 2015)  and began the process of 
+assuming responsibility for the assets the following month. At the outset, the Government 
+estimated the time horizon within which Arsenal would be able to divest its assets  was five 
+to seven years. However, it was noted that, “the divestment process will possibly continue 
+after year 2000 if it will assist in reducing the financial burden levied on the Government” 
+(Arsenal 1994). 
+The non-performing assets acquired by Arsenal were taken at book value. Given the market 
+turmoil, it was widely accepted that the book value was substantially higher than the 
+market value. This was confirmed in the summer of 1994 when an extensive review was 
+conducted by external surveyors to assess t he market value of the complete real estate 
+portfolio. Based on the estimates, property write -downs amounted to FIM  3.5 billion 
+during 1994 (Arsenal 1994). The portfolio included loan receivables, real estate, and other 
+assets totaling a book value of FIM  30 billion (Nyberg and Vihriälä 1994) . This included 
+15,000 properties and 1,478 companies, of which 95% were real estate companies 
+(Arsenal 1995).  
+273
+Journal of Financial Crises Vol. 3 Iss. 2
+
+--- Page 13 ---
+Assets originally transferred accounted for 5.2% of Finland’s total banking assets and 8.2% 
+of GDP (Klingebiel 2000). In addition to the original assets, Arsenal was permitted by law to 
+extend additional credit as needed, “in cases where this reduces the total cost to the 
+Government” (Nyberg and Vihriälä 1994) . Also, the four banks that had acquired the 
+healthy assets of SBF were permitted to transfer to Arsenal any of those assets that 
+underperformed or became non -performing until the beginning of 1995. Thos e banks 
+transferred an additional FIM 10 billion during 1994, bringing the total assets of Arsenal up 
+to FIM 40 billion (Bank of Finland 1994; Arsenal 1994). 
+Arsenal’s largest asset disposal of 1995 was the sale of a travel resort , and in 1996 it was a 
+golf course (Arsenal 1995; Arsenal 1996). Although Arsenal did not commence any new 
+construction projects, it did manage unfinished property developments if it was 
+determined that, “the overall result is better than through selling the unfinished project” 
+(Arsenal 1994). 
+Outcomes 
+Expansion to Asset Management Group 
+Arsenal began as an asset management company with the sole purpose of managing and 
+liquidating the non -performing loans and other assets of the SBF. However, during the 
+years following its creation, Arsenal’s purpose was expanded to ab sorb more troubled 
+institutions and assets.  
+In the summer of 1993 , the GGF split STS Bank , a small, struggling commercial bank,  into 
+two entities. The entity with healthy assets was bought by KOP Bank , a larger bank . The 
+entity with bad assets was renamed  Siltapankki, and although officially owned by KOP 
+Bank, control of Siltapankki was held by the GGF. In November 1995 Siltapankki was sold 
+to Arsenal for only FIM 1 (Borio, Vale, and von Peter 2010).  
+In June 1995, the law was changed to allow Arsenal to e xpand to hold other asset 
+management companies. When Arsenal was originally founded, there were certain assets of 
+SBF that had not been transferred to Arsenal itself, but rather had been kept as a subsidiary 
+bank of Arsenal. In November 1995 the banking ch arters of this entit y (named Arsenal –
+SSP) and Siltapankki (renamed Arsenal –Silta) were revoked , and both entities became 
+asset management companies (Arsenal 1995).  
+The Bank of Finland (the central bank) took over Skopbank, the correspondent bank of 
+savings banks, in September 1991. It divided the assets into three holding companies, one 
+of which was a real estate asset management company called Sponda (Bank of Finlan d 
+1991). In May 1996, with real estate assets worth FIM  1 billion, it was sold to Arsenal 
+(Kuusterä and Tarkka 2012, 694).45 
+ 
+4 The ot her two holding companies were named Scopulus (which held the shares of Skopbank itself) and 
+Solidium (which held industrial assets) (Nyberg and Vihriälä 1994) . Scopulus sold its shares to the GGF in 
+274
+Finland: Arsenal Nygaard
+
+--- Page 14 ---
+Wind-Down and Liquidation 
+In 1996, the number of debtors being managed by Arsenal Group peaked at 1,584 (Arsenal 
+1996). At its he ight, as seen in Figure 6 , Arsenal had a total of 630 employees in 1995 
+(Arsenal 2002). By 2003 there were just 13 salaried employees (NAOF 2015).6 In 1997 the 
+number of offices was reduced from 22 to 15 (Arsenal 1997) and then from 15 to 6 in 1999 
+(Arsenal 1999). See Figure 6 for a representation of these changes. 
+Figure 6: Number of Arsenal employees 
+ 
+Source: Arsenal 2002. 
+As seen in Figure 7, more than 90% of the peak total assets had been offloaded by 1999 
+(NAOF 2015).  
+ 
+June 1992. Solidium was merged into Sponda before Sponda  was sold to Arsenal (Kuusterä and Tarkka 2012, 
+675). 
+5 Note that on page 1 of the Arsenal 1997 Annual Report, the entity is called SKOP -Real Estate. 
+6 The company also had two liquidators. 
+275
+Journal of Financial Crises Vol. 3 Iss. 2
+
+--- Page 15 ---
+Figure 7: Total assets held by Arsenal (millions of euros) 
+ 
+Source: NAOF 2015. 
+Arsenal was placed in liquidation in October of 2003. The duties of the board of directors 
+and managing director were transferred to two liquidators who oversaw a reduction of 
+outstanding debtors from more than 1,500 to less than 500 between 2003 and 2014 (NAOF 
+2015). According to Arsenal’s 2017 Financial Statements, the most recent available at the 
+time of this writing, the liquidation of Arsenal was ongoing, but it was estimated that by the 
+end of 2018 there would be only one employee. There were a number of Arsenal assets that 
+were going through domestic or foreign bankruptcies. These were expected to close within 
+two to three years, at which point Arsenal was expected to dissolve (Arsenal 2017).  
+As seen in Figure 8, Arsenal lost nearly FIM  20 billion in the first five years of operation 
+(Arsenal 1994;  1995; 1996; 1997; 1998) . During the next four years leading up to the 
+liquidation, Arsenal turned a small annual profit (Arsenal 1999; 2000; 2001; 2002) . At the 
+time of liquidation the cumulative losses stood at FIM 19.07 billion. 
+ 
+ 
+ 
+276
+Finland: Arsenal Nygaard
+
+--- Page 16 ---
+Figure 8: Arsenal’s yearly and cumulative losses 
+ 
+Sources: Arsenal 1994; 1995; 1996; 1997; 1998; 1999; 2000; 2001; 2002. 
+The approximately FIM 114 billion cost of the rescue of Finland’s financial system has been 
+estimated at 17.2% of GDP by 1995. Of this 17.2%, studies have estimated that more than 
+half of the Government’s investments were recovered, making for an estimated net cost of 
+about 7% of GDP (Mayes, Halme, and Liuksila 2001) . The funding for Arsenal itself was 
+estimated at 6.6% of GDP (Borio, Vale, and von Peter 2010). 
+II. Key Design Decisions 
+1. Part of a package: As part of the Government’s resolution of the Savings Bank of 
+Finland, Arsenal was created to take over the bad assets. 
+The asset management company Arsenal was announced in the Fall of 1993 and became 
+operational on January 15, 1994 , after multiple steps had been taken by the Finnish 
+Government and the Bank of Finland to handle the banking crisis. 7 Skopbank, a 
+correspondent bank for savings banks, had been taken over by the Bank of Finland. Then 
+41 of the nation’s 81 savings banks were forced to merge into a new entity called the 
+Savings Bank of Finland. After parts of the healthy p ieces of the Savings Bank of Finland 
+were sold to four larger banks, Arsenal was created to absorb, manage, and liquidate the 
+non-performing assets.  
+ 
+7 Varying sources report different establishment dates in October and November 1993.  
+277
+Journal of Financial Crises Vol. 3 Iss. 2
+
+--- Page 17 ---
+2. Legal authority: New authority was sought, and granted under the Government 
+Guarantee Act of 1992, to create the asset management company Arsenal.  
+As the financial crisis began to unfold, the government sought new legal authority to, 
+among other actions, establish an asset management company. This authority was granted 
+in the Government Guarantee Act of 1992 (Parliament of Finland 1992) . In June 1995 a 
+significant amendment was made to the original act to allow Arsenal to hold other asset 
+management companies (Arsenal 1995) . This was necessary to accommodate the 
+acquisition of other, smaller asset management c ompanies that had been created during 
+the crisis to handle the bad assets of other financial institutions.  
+3. Special powers: Arsenal did not possess any notable special powers.  
+Arsenal did not have any special powers of note to pursue its mandate.  
+4. Mandate: Arsenal’s two guiding principles were minimizing losses incurred by 
+the government and investigating irregularities in debtors’ activities.  
+According to the first annual repo rt of Arsenal, its assignment was to “manage and 
+liquidate, in an orderly manner and at a minimum cost to the Finnish society and its 
+taxpayers, the assets and lending activities, of which the responsibility was assumed from 
+the former Savings Bank of Finl and” (Arsenal 1994) . Throughout Arsenal’s lifetime, it 
+managed bad loans and sold real estate and other assets (NAOF 2015). 
+Arsenal’s other guiding principle was the so-called clarifying objective, alternatively 
+translated as an “interest in investigation” of nonpaying debtors. 8 Parliament’s view was 
+that this objective would serve “the citizens’ sense of justice. ” Under this objective, Arsenal 
+could allow for a review of debtor irregularities to take priority over the minimization of 
+taxpayer losses. In the pursuit of this objective, Arsenal initiated long -term trial and debt 
+collection processes  against some debtors , rather than quickly liquidating and winding 
+them down in the fastest manner possible (NAOF 2015).  
+5. Communication: The Government of Finland made a series of increasingly strong 
+public statements and commitments regarding their handling of the banking 
+crisis.  
+The Government of Finland made a number of public statements and commitments 
+regarding their plan to contain the banking crisis. In March 1992 a special working group 
+formed by the Prime Minister to review the situation published a report encouraging, 
+ 
+8 See the English translation from Finnish: https://www.vtv.fi/julkaisut/omaisuudenhoitoyhtio-arsenal-oyn-
+selvitystilan-kaytannot/. The National Audit Office of Finland ci ted the Parliamentary Finance Committee’s 
+definition of this objective: “The bank subsidies should be subjected to more public scrutiny and all 
+economically significant credit losses should be thoroughly investigated in connection with the granting of 
+the bank subsidies, and the granting of the subsidies should be made conditional on investigating the credit 
+losses. Investigated cases involving suspected crimes and offences should be brought before a court, which 
+would make them open to public scrutiny. In special audits, opinions should also be expressed on the 
+irregularities in which liability for damages and criminal liability has expired” (NAOF 2015).  
+278
+Finland: Arsenal Nygaard
+
+--- Page 18 ---
+among other actions, the creation of the Government Guarantee Fund. In August 1992 the 
+Government announced that it would secure the Finnish banking system under all 
+circumstances (Nyberg and Vihriälä 1994).  
+In January 1993 the Government made this final comm itment more explicit via a 
+Parliamentary Resolution. The resolution stated, “Parliament requires the state to 
+guarantee that Finnish banks are able to meet their commitments on time under all 
+circumstances. Whenever necessary, Parliament shall grant suffic ient appropriations and 
+powers to be used by the Government for meeting such commitments” (Nyberg and 
+Vihriälä 1994). 
+6. Ownership structure: Arsenal was a government -owned asset management 
+company. While originally a limited joint stock company operated by t he 
+Government, Arsenal became a public enterprise in 1998. 
+At creation, the Government of Finland owned 74% of the share capital of Arsenal, while 
+the Government Guarantee Fund held the remaining shares ( Arsenal 1994). Originally 
+structured as a limited joint stock company governed by the Government of Finland, 
+Arsenal converted to a limited public company in 1998 (Arsenal 1997). 
+7. Governance/administration: The board of directors of Arsenal was a mix of 
+public and private representatives, overseen by multiple government agencies.  
+The board of directors of Arsenal was made up of four members from the government 
+sector (the Director General of the State Treasury, the Deputy Head of the Budget 
+Department in the Ministry of F inance, the Director of the Government Guarantee Fund 
+Board, and the Industrial Counsellor of the Ministry of Trade and Industry) and two 
+members from the private sector (Senior Vice President of KOP Bank and CFO of 
+Huhtamaki Oy, a food and beverage packag ing company). The management team was 
+brought from the private sector (the President and CEO came from a Senior Executive Vice 
+President role at Partek Corporation, a building materials company). Operations were 
+overseen by a number of Government agencies,  including: the Government Guarantee 
+Fund, the National Audit Office, and Parliamentary State Auditors (Klingebiel 2000).  
+Arsenal was required to publish monthly public reports and a full annual report with 
+audited financial statements. The company create d a website that contained interim 
+reports and key figures on the company’s capital and shareholders (Klingebiel 2000).  
+In its 1994 Annual Report, Arsenal indicated that it had built an extensive new data system 
+to manage the growing number of clients, as set portfolios, and internal employees (Arsenal 
+1994).  
+8. Size: The Finnish government did not define the size of Arsenal at the outset.  
+At its peak at the end of 1994, Arsenal had assets worth FIM  40 billion (Bank of Finland 
+1994). Although Arsenal acquired additional assets and asset management companies 
+279
+Journal of Financial Crises Vol. 3 Iss. 2
+
+--- Page 19 ---
+during the following years, they were disposing of more assets than they were acquiring 
+and thus never surpassed the peak size that was reached in the first year (see Arsenal’s 
+annual reports for the full financial statements).  
+9. Funding source: Arsenal was funded by the Finnish government.  
+Primary funding for Arsenal came from the Government Guarantee Fund and the 
+Government of Finland. The combined equity capital investments incl uded a total of nearly 
+FIM 23 billion: FIM 5 billion in 1993, FIM 6 billion in 1994, FIM 8 billion in 1995, and FIM 4 
+billion in 1996 (Borio, Vale, and von Peter 2010) . The initial investments allocated 74% 
+ownership to the Government and 26% to the GGF (Arsenal 1994). After the subsequent 
+rounds of additional capital injections, the Government’s ownership stake increased 
+slightly to 79% and the GGF’s ownership decrease d to 21% (Klingebiel 2000). GGF’s stake 
+in Arsenal was paid for with KOP Bank shares (Arsenal 1994).  
+In addition, Arsenal issued mostly short -term, government -guaranteed debt securities  on 
+the market. In 1996 two long -term bonds, worth a total of FIM  3 billion, were issued with 
+the same government guarantee (Arsenal 1996). 
+The Government of Finland said in May 1994 that it would guarantee Arsenal’s funding up 
+to FIM 28 billion for all “repayment of bonds and other debt financing issued by Arsenal” 
+(Arsenal 1994). In December 1996 the guarantee was reduced by FIM  10 billion to FIM 18 
+billion (Arsenal 1996). In 1997 it was reduced an additional FIM  3 billion to FIM 15 billion 
+(Arsenal 1997) . In 1998 it was reduced FIM  6 billion to FIM  9 billion (Arsenal 1998) . In 
+1999 it was reduced to just FIM 1 billion (Arsenal 1999). In Figure 9, the red line shows the 
+Government guarantee and the blue bars show the actual amount of debt issued.  
+280
+Finland: Arsenal Nygaard
+
+--- Page 20 ---
+Figure 9: Arsenal’s Unconditional guarantees and debt issuances 
+ 
+Sources: Arsenal 1994; 1995; 1996; 1997; 1998; 1999; 2000. 
+10. Eligible institutions: Initially, Arsenal took on assets only from the Savings Bank 
+of Finland. Over time , additional assets were acquired from a handful of other 
+banks and asset management companies.  
+Arsenal was founded with the purpose of taking on the bad assets of the Savings Bank of 
+Finland (SBF), itself  created through the forced merger of 41 of the cou ntry’s 81 savings 
+banks (Arsenal 1994). Over time Arsenal accepted assets from other institutions and even 
+transformed into a group with its holdings of other asset management companies. In March 
+1995 Siltapankki, an asset management company handling the n on-performing assets of 
+STS–Bank was acquired by Arsenal (Arsenal 1995) . Also, real estate assets worth FIM  1 
+billion were transferred from Skopbank in May 1996 (Kuusterä and Tarkka 2012, 694; 
+Arsenal 1997). See Figure 10 for an organization chart of Arsenal. 
+281
+Journal of Financial Crises Vol. 3 Iss. 2
+
+--- Page 21 ---
+Figure 10: Arsenal organization chart 
+ 
+Source: Arsenal 1997. 
+Beyond the four institutions that took the healthy assets of SBF, there was no period in 
+which Arsenal accepted non-performing assets from the broader banking or any other 
+sector.  
+11. Eligible assets: Arsenal accepted all non-performing assets of the Savings Bank of 
+Finland.  
+Arsenal took on all non -performing assets of the Savings Bank of Finland. According to a 
+report by the World Bank, the asset portfolio of Arsenal broke down as follows: Real estate 
+33.7%; c lient receivables 41% ; and other assets 25.3% (Klingebiel 2000; Arsenal 1996) . 
+The four institutions that acquired the healthy assets of SBF were permitted to return any 
+of those assets that became non -performing during the first year of operation (Bank of 
+Finland 1994). 
+12. Acquisition mechanics: After acquiring the entirety of the non -performing assets 
+from the Savings Bank of Finland, Arsenal obtained further assets on a case -by-
+case basis. 
+During the following years , when additional assets and/or asset management companies 
+were acquired , acquisitions were done in single transactions and not during a specified, 
+open purchase window.  
+Arsenal Group 
+Arsenal SSP 
+ Arsenal Silta 
+ Skop Real Estate 
+282
+Finland: Arsenal Nygaard
+
+--- Page 22 ---
+13. Acquisition pricing: The assets acquired by Arsenal were priced at their original 
+book value, an amount significantly higher than the market value of the time.  
+Arsenal acquired the non-performing assets of the Savings Bank of Finland at their original 
+book values. The book values were significantly higher than the market value of the time 
+(Arsenal 1994).  
+14. Disposal: Arsenal prioritized achieving the best return for its portfolio over the 
+prompt disposal of assets.  
+In the summer of 1994, shortly after the initial asset acquisition, Arsenal hired outside 
+surveyors to conduct a valuation of the entire real estate portfo lio (Arsenal 1994) . This 
+valuation was conducted to assist in the disposal of the assets and did not affect the 
+acquisition price.  
+15. Timeframe: Arsenal did not have a target end date, with the first annual report 
+estimating a five-to-seven-year lifespan. 
+When Arsenal was created , it was not given a target end date or sunset clause. The first 
+annual report estimated that activities would last between five to seven years, with a plan 
+to divest by the end of 2000; however, it was noted that “the divestment proc ess will 
+possibly continue after year 2000 if it will assist in reducing the financial burden levied on 
+the Government” (Arsenal 1994). 
+More than 90% of the assets had been sold or written off by 1999. In 2003 Arsenal was 
+placed in liquidation (NAOF 2015). In 2017 Arsenal was down to a single employee 
+managing a handful of final bankruptcies that were expected to be finalized within three 
+years (Arsenal 2017). 
+The National Audit Office of Finland wrote in 2015 that the pursuit of debtors under 
+Arsenal’s clarifying objective mandate was “one of the main reasons why Arsenal has 
+remained operational for considerably longer than was anticipated at the establishment of 
+the company” (NAOF 2015). 
+III. Evaluation 
+A review of the banking crises in the Nordic countries during the early 1990s concluded 
+that, “creditors’ confidence in the banking systems was quickly restored, banks returned to 
+profitability fairly quickly , and the impact on the economies of the banking problems 
+seemed fairly modest.” The authors of the review also made positive conclusions regarding 
+the amount of transparency in the creation and management of the asset management 
+companies (Moe, Solheim, and Vale 2004).  
+A similar cross -country examination of asset management companies by the Worl d Bank 
+emphasized that, “Arsenal was provided with appropriate funding, had professional 
+283
+Journal of Financial Crises Vol. 3 Iss. 2
+
+--- Page 23 ---
+management, and a skilled human resource base” (Klingebiel 2000) . However, because 
+Arsenal had accepted all non -performing loans regardless of asset type or size, the wind-
+down strategy was slowed because they had to hire a large number of professional staff to 
+value, manage, and sell the assets. Also , due to the nature of the wide range of real estate 
+and other assets under management, Arsenal wasn’t able to use “whole sale divestiture 
+techniques.” A favorable factor, the World Bank noted, was that “appropriate funding 
+allowed Arsenal to market assets to market value after their transfer” (Klingebiel 2000). 
+A 2015 audit of the liquidation of Arsenal was commissioned by t he Finnish government. 
+One of their conclusions was that due to the built -in unknown of how long it would take an 
+asset management company to divest itself of its holdings, “public receivership should also 
+be considered as an alternative .” Additionally, as  a result of the so -called clarifying 
+objective, Arsenal committed to long -term trial and debt collection processes rather than 
+simply liquidating quickly, which led to Arsenal’s lifespan lasting much longer than 
+expected (NAOF 2015).  
+IV. References 
+Asset Man agement Company Arsenal Ltd  (Arsenal). 1994. “Annual Report and Accounts 
+1994.”   
+https://ypfs.som.yale.edu/library/annual-report-and-accounts-1994. 
+———. 1995. “Annual Report and Accounts 1995.”  
+https://ypfs.som.yale.edu/library/annual-report-arsenal-1995. 
+———. 1996. “Annual Report and Accounts 1996.”  
+https://ypfs.som.yale.edu/library/annual-report-and-accounts-1996. 
+———. 1997. “Annual Report and Accounts 1997.”  
+https://ypfs.som.yale.edu/library/annual-report-and-accounts-1997. 
+———. 1998. “Annual Report and Accounts 1998.”  
+https://ypfs.som.yale.edu/library/annual-report-and-accounts-1998. 
+———. 1999. “Annual Report and Accounts 1999.”  
+https://ypfs.som.yale.edu/library/annual-report-and-accounts-1999. 
+———. 2000. “Annual Report and Accounts 2000.”  
+https://ypfs.som.yale.edu/library/annual-report-and-accounts-2000. 
+———. 2001. “Annual Report and Accounts 2001.”  
+https://ypfs.som.yale.edu/library/annual-report-and-accounts-2001. 
+———. 2002. “Annual Report and Accounts 2002.”  
+https://ypfs.som.yale.edu/library/annual-report-and-accounts-2001-0. 
+284
+Finland: Arsenal Nygaard
+
+--- Page 24 ---
+———. 2017. “Financial Statements and Report of the Board of Directors 31.12.2017.” [In 
+Finnish].   https://ypfs.som.yale.edu/library/financial-statements-and-report-board-
+directors-31122017. 
+Bank of Finland. 1991. “Bank of Finland 72 nd Year Book Report on Activities in 1991.” 
+https://ypfs.som.yale.edu/library/bank-finland-72st-year-book-report-activities-1991. 
+———. 1993. “Bank of Finland 74th Year Book Report on A ctivities in 1993.” 
+https://ypfs.som.yale.edu/library/bank-finland-74th-year-book-report-activities-1993. 
+———. 1994. “Bank of Finland 75th Year Book Report on Activities in 1994.” 
+https://ypfs.som.yale.edu/library/bank-finland-75th-year-book-report-activities-1994. 
+Borio, Claudio, Bent Vale, and Goetz von Peter. 2010. “Resolving the Financial Crisis: Are 
+We Heeding the Lessons from the Nordics ?” 311. Bank for International Settlements. 
+https://ypfs.som.yale.edu/library/resolving-financial-crisis-are-we-heeding-lessons-
+nordics. 
+Klingebiel, Daniela. 2000. “The Use of Asset Management Companies in the Resolution of 
+Banking Crises Cross -Country Experiences.” SSRN Scholarly Paper ID 282518. Rochester, 
+NY: Social Science Research Network.   
+https://ypfs.som.yale.edu/library/use-asset-management-companies-resolution-banking-
+crises-cross-country-experiences. 
+Kuusterä, Antti, and Juha Tarkka . 2012. “Bank of Finland 200 Years: Parliament’s Bank II.” 
+Otava Publishing Company LTD Helsinki.   
+https://ypfs.som.yale.edu/library/bank-finland-200-years-parliaments-bank-ii. 
+Mayes, David, Liisa Halme, and Aarno Liuksila. 2001. “The Financial Crisis of the Early 
+1990s and Its Lessons.” Improving Banking Supervision, 11–48.  
+https://doi.org/10.1057/9780230288195_2. 
+Moe, Thorvald, Jon Solheim, and Bent Vale. 2004. “The Norwegian Banking Crisis.” Norges 
+Bank Occasional Papers, no. 33.   
+https://ypfs.som.yale.edu/library/norwegian-banking-crisis. 
+NAOF. 2015. “Performance Audit Report Practicalities of the Liquidation of Asset 
+Management Company Arsenal Ltd.”   
+https://ypfs.som.yale.edu/library/performance-audit-report-practicalities-liquidation-
+asset-management-company-arsenal-ltd. 
+Nyberg, Peter, and Vesa Vihriälä. 1994. “The Finnish Banking Crisis and Its Handling.” Bank 
+of Finland Discussion Papers, April.   
+https://ypfs.som.yale.edu/library/finnish-banking-crisis-and-its-handling-update-
+developments-through-1993. 
+285
+Journal of Financial Crises Vol. 3 Iss. 2
+
+--- Page 25 ---
+Parliament of Finland. 1992. Act on Government Guarantee Fund.  
+https://ypfs.som.yale.edu/library/act-government-guarantee-fund. 
+World Bank. n.d. “GDP (Current US$) – Sweden, Finland, Denmark, Norway.”  
+https://ypfs.som.yale.edu/library/gdp-current-us-sweden-finland-denmark-norway. 
+V. Key Program Documents 
+Legal/Regulatory Guidance 
+Act on Government Guarantee Fund (Parliament of Finland 1992)   
+Law establishing the Government Guarantee Fund.  
+https://ypfs.som.yale.edu/library/act-government-guarantee-fund. 
+Reports/Assessments 
+Annual Report and Accounts 1994 (Arsenal 1994)  
+Annual Report for Arsenal from 1994.  
+https://ypfs.som.yale.edu/library/annual-report-and-accounts-1994. 
+Annual Report and Accounts 1995 (Arsenal 1995)  
+Annual Report from Arsenal in 1995.  
+https://ypfs.som.yale.edu/library/annual-report-arsenal-1995.  
+Annual Report and Accounts 1996 (Arsenal 1996)  
+Annual Report for Arsenal from 1996.  
+https://ypfs.som.yale.edu/library/annual-report-and-accounts-1996 
+Annual Report and Accounts 1997 (Arsenal 1997)  
+Annual Report for Arsenal from 1997.  
+https://ypfs.som.yale.edu/library/annual-report-and-accounts-1997. 
+Annual Report and Accounts 1998 (Arsenal 1998)  
+Annual Report for Arsenal from 1998.  
+https://ypfs.som.yale.edu/library/annual-report-and-accounts-1998. 
+Annual Report and Accounts 1999 (Arsenal 1999)  
+Annual Report for Arsenal from 1999.  
+https://ypfs.som.yale.edu/library/annual-report-and-accounts-1999. 
+Annual Report and Accounts 2000 (Arsenal 2000)  
+Annual Report for Arsenal from 2000.  
+https://ypfs.som.yale.edu/library/annual-report-and-accounts-2000. 
+286
+Finland: Arsenal Nygaard
+
+--- Page 26 ---
+Annual Report and Accounts 2001 (Arsenal 2001)  
+Annual Report for Arsenal from 2001.  
+https://ypfs.som.yale.edu/library/annual-report-and-accounts-2001. 
+Annual Report and Accounts 2002 (Arsenal 2002)  
+Annual Report for Arsenal from 2002.  
+https://ypfs.som.yale.edu/library/annual-report-and-accounts-2001-0. 
+Bank of Finland 71st Year Book Report on Activities in 1990 (Bank of Finland 1990)  
+Annual report from the Bank of Finland in 1990.  
+https://ypfs.som.yale.edu/library/bank-finland-71st-year-book-report-activities-1990. 
+Bank of Finland 72st Year Book Report on Activities in 1991 (Bank of Finland 1991)  
+Annual report from the Bank of Finland in 1991.  
+https://ypfs.som.yale.edu/library/bank-finland-72st-year-book-report-activities-1991. 
+Bank of  Finland 73rd Year Book Report on Activities in 1992 (Bank of Finland 1992)  
+Annual report from the Bank of Finland in 1992.  
+https://ypfs.som.yale.edu/library/bank-finland-73rd-year-book-report-activities-1992. 
+Bank of Finland 74th Year Book Report on Acti vities in 1993 (Bank of Finland 1993)  
+Annual report from the Bank of Finland in 1993.  
+https://ypfs.som.yale.edu/library/bank-finland-74th-year-book-report-activities-1993. 
+Bank of Finland 75th Year Book Report on Activities in 1994 (Bank of Finland 1994) 
+Annual report from the Bank of Finland in 1994.  
+https://ypfs.som.yale.edu/library/bank-finland-75th-year-book-report-activities-1994. 
+Bank of Finland 76th Year Book Report on Activities in 1995 (Bank of Finland 1995)  
+Annual report from the Bank of Finland in 1995.  
+https://ypfs.som.yale.edu/library/bank-finland-76th-year-book-report-activities-1995. 
+Bank of Finland 77th Year Book Report on Activities in 1996 (Bank of Finland 1996)  
+Annual report from the Bank of Finland in 1996.  
+https://ypfs.som.yale.edu/library/bank-finland-77th-year-book-report-activities-1996. 
+Bank of Finland 78th Year Book Report on Activities in 1997 (Bank of Finland 1997)  
+Annual report from the Bank of Finland in 1997.  
+https://ypfs.som.yale.edu/library/bank-finland-78th-year-book-report-activities-1997. 
+Bank of Finland 79th Year Book Report on Activities in 1998 (Bank of Finland 1998)  
+Annual report from the Bank of Finland in 1998.  
+https://ypfs.som.yale.edu/library/bank-finland-79th-year-book-report-activities-1998. 
+Bank of Finland 80th Year Book Report on Activities in 1999 (Bank of Finland 1999)  
+Annual report from the Bank of Finland in 1999.  
+https://ypfs.som.yale.edu/library/bank-finland-80th-year-book-report-activities-1999. 
+287
+Journal of Financial Crises Vol. 3 Iss. 2
+
+--- Page 27 ---
+Resolving the Financial Cris is: Are We Heeding the Lessons from the Nordics ? (Borio, Vale, 
+and von Peter 2010)  
+A 2010 report comparing the actions taken by countries during the Global Financial Crisis to 
+the actions taking during the Nordic banking crisis.  
+https://ypfs.som.yale.edu/library/resolving-financial-crisis-are-we-heeding-lessons-
+nordics. 
+The Use of Asset Management Companies in the Resolution of Banking Crises Cross -
+Country Experiences (Klingebiel 2000)  
+A paper that evaluates asset management companies and identifies cert ain factors that lead 
+to success.  
+https://ypfs.som.yale.edu/library/use-asset-management-companies-resolution-banking-
+crises-cross-country-experiences. 
+Bank of Finland 200 Years: Parliament’s Bank II (Kuusterä and Tarkka 2012)  
+Historical view of the Bank of Finland.  
+https://ypfs.som.yale.edu/library/bank-finland-200-years-parliaments-bank-ii. 
+Financial Statements and Report of the Board of Directors 31.12.2017 ( Arsenal 2017) 
+Liquidation report from Arsenal in 2017.  
+https://ypfs.som.yale.edu/library/financial-statements-and-report-board-directors-
+31122017. 
+The Financial Crisis of the Early 1990s and Its Lessons (Mayes, Halme, and Liuksila 2001)  
+A summary of the actions taken by the Nordic countries during the banking crises of the 
+1990s. 
+https://ypfs.som.yale.edu/library/financial-crisis-early-1990s-and-its-lessons. 
+The Norwegian Banking Crisis (Moe, Solheim, and Vale 2004)  
+Paper describing the causes and symptoms of the Norwegian Banking Crisis.  
+https://ypfs.som.yale.edu/library/norwegian-banking-crisis. 
+Performance Audit Report Practicalities of the Liquidation of Asset Management Company 
+Arsenal Ltd (NAOF 2015)  
+A government-commissioned report from the National Audit Office of Finland (NAOF) on the 
+asset management company Arsenal and its liquidation.  
+https://ypfs.som.yale.edu/library/performance-audit-report-practicalities-liquidation-
+asset-management-company-arsenal-ltd. 
+The Finnish Banking Crisis and Its Handling (Nyberg and Vihriälä 1994)  
+Written a few months  after Arsenal became operational , this report by the Bank of Finland 
+reviews the buildup and early government actions to resolve the crisis.  
+https://ypfs.som.yale.edu/library/finnish-banking-crisis-and-its-handling-update-
+developments-through-1993. 
+288
+Finland: Arsenal Nygaard
+
+--- Page 28 ---
+Copyright 2021 © Yale University. All rights reserved. To order copies of this material or to 
+receive permission to reprint any or all of this document, please contact the Yale Program 
+on Financial Stability at ypfs@yale.edu.  
+ 
+ 
+289
+Journal of Financial Crises Vol. 3 Iss. 2

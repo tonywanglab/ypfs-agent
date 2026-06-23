@@ -1,0 +1,1845 @@
+--- Page 1 ---
+Journal of Financial Crises Journal of Financial Crises 
+Volume 3 Issue 1 
+2021 
+The Rescue of Fannie Mae and Freddie Mac – Module A: The The Rescue of Fannie Mae and Freddie Mac – Module A: The 
+Conservatorships Conservatorships 
+Daniel Thompson 
+Yale School of Management 
+Rosalind Z. Wiggins 
+Yale School of Management 
+Follow this and additional works at: https://elischolar.library.yale.edu/journal-of-financial-crises 
+ Part of the Administrative Law Commons, Banking and Finance Law Commons, Bankruptcy Law 
+Commons, Public Affairs, Public Policy and Public Administration Commons, and the Securities Law 
+Commons 
+Recommended Citation Recommended Citation 
+Thompson, Daniel and Wiggins, Rosalind Z. (2021) "The Rescue of Fannie Mae and Freddie Mac – Module 
+A: The Conservatorships," Journal of Financial Crises: Vol. 3 : Iss. 1, 282-318. 
+DOI: https://doi.org/10.17132/2693-3179.1133 
+Available at: https://elischolar.library.yale.edu/journal-of-financial-crises/vol3/iss1/9 
+This Case Study is brought to you for free and open access by the Journal of Financial Crises and 
+EliScholar – A Digital Platform for Scholarly Publishing at Yale. For more information, please contact 
+journalfinancialcrises@yale.edu.
+
+--- Page 2 ---
+READERS TAKE NOTICE: READERS TAKE NOTICE: 
+As of April 2024, the YPFS Resource Library’s site domain has changed 
+to https://elischolar.library.yale.edu/ypfs-financial-crisis-resource-library/. 
+Please be aware that upon clicking any of the URL references to 
+the former Resource Library domains, either https://ypfs.som.yale.edu 
+or https://ypfsresourcelibrary.blob.core.windows.net/, in the 
+"References/Key Program Documents" section of a case study, 
+readers will encounter a "page not found" error. readers will encounter a "page not found" error. 
+Readers can still retrieve a given resource cited within this case study 
+on the new site  by searching by searching here  for the title cited. for the title cited. 
+This case study is available in Journal of Financial Crises: https://elischolar.library.yale.edu/journal-of-financial-
+crises/vol3/iss1/9
+
+--- Page 3 ---
+The Rescue of Fannie Mae and Freddie Mac –  
+Module A: The Conservatorships1 
+Daniel Thompson2 and Rosalind Z. Wiggins3 
+Yale Program on Financial Stability Case Study 
+April 15, 2021 
+Abstract 
+Two government-sponsored enterprises (GSEs), the Federal National Mortgage Association 
+(Fannie Mae) and the Federal Home Loan Mortgage Corporation (Freddie Mac),  dominated 
+the secondary mortgage market during the US housing crisis,  collectively holding  or 
+guaranteeing $5.3 trillion in mortgage assets  by late 2007. As the crisis escalated , the two 
+GSEs began to report substantial losses and their survival became uncertain. On September 
+6, 2008, the GSEs’ new regulator, the Federal Housing Finance Agency (FHFA), placed the 
+firms into indefinite conserva torships, one step of a four -part government intervention to 
+stabilize the enterprises. This case  study evaluates the purpose and efficacy of the 
+conservatorships and finds that they accomplished their emergency goals of stabilizing the 
+GSEs and allowing them to maintain the secondary mortgage market . However, the FHFA 
+Office of Inspector General concluded that the agency could better accomplish its oversight 
+mission by proactively exerting greater control over its conservator approval process. As of 
+this case study’s publication, the conservatorship for both companies is ongoing. 
+Keywords: GSEs, conservatorship, secondary mortgage market, Fannie Mae, Freddie Mac
+ 
+1 This case study is one of seven 2021 Yale Program on Financial Stability (YPFS) case studies that examine in 
+detail the various elements of the government’s rescue of the GSEs : 
+•  “The Rescue of Fannie Mae and Freddie Mac – Module A: The Conservatorships” by Daniel Thompson 
+and Rosalind Z. Wiggins.  
+•  “The Rescue of Fannie Mae and Freddie Mac – Module B: The Senior Preferred Stock Purchase 
+Agreements (SPSPAs)” by Daniel Thompson.  
+•  “The Rescue of Fannie Mae and Freddie Mac – Module C: GSE Credit Facility” by Emily Vergara.  
+• “The Rescue of Fannie Mae and Freddie Mac  – Module D: Treasury’s GSE MBS Purchase Program”  by 
+Michael Zanger-Tishler and Rosalind Z. Wiggins.  
+•  “The Rescue of Fannie Mae and Freddie Mac – Module E: The Housing and Economic Recovery Act of 
+2008” by Daniel Thompson. 
+•  “The Rescue of Fannie Mae and Freddie Mac  – Module F: The Federal Reserve’s Large -Scale Asset 
+Purchase (LSAP) Program” by Daniel Thompson and Adam Kulam. 
+•  “The Rescue of Fannie Mae and Freddie Mac – Module Z: Overview” by Rosalind Z. Wiggins, Benjamin 
+Henken, Adam Kulam, Daniel Thompson, and Andrew Metrick. 
+Cases are available from the Journal of Financial Crises  at https://elischolar.l ibrary.yale.edu/journal-of-
+financial-crises/. 
+2Daniel Thompson - Research Associate, YPFS, Yale School of Management. 
+3Rosalind Z. Wiggins - Director, the Global Financial Crisis Project and Senior Editor YPFS, Yale School of 
+Management.  
+282
+
+--- Page 4 ---
+At a Glance   
+Concurrent with the US housing market’s 
+collapse, t he Federal National Mortgage 
+Association (Fannie Mae) and the Federal 
+Home Loan Mortgage Corporation (Freddie 
+Mac) began to post substantial losses in the 
+last two quarters of 2007.  These two 
+government-sponsored enterprises (GSEs), 
+which were thought to be backed by an 
+implicit government guarantee,  had 
+$5.3 trillion of guaranteed mortgage -
+backed securities (MBS) and debt 
+outstanding as of  December 2007. Given 
+their size and importance in the secondary 
+mortgage market, the potential insolvency 
+of either GSE  threatened to destabilize the 
+entire housing market and the financial 
+system. 
+ 
+Recognizing that Fannie Mae and Freddie Mac might not be able to stabilize on their own, 
+financial officials called for legislation to create a new regulator that could marshal taxpayer 
+funds to rescue the GSEs . On July 30, 2008 , the government passed the Housing and 
+Economic Recovery Act of 2008 (HERA), which created a new GSE regulator, the Federal 
+Housing Finance Agency (FHFA), and provided Treasury with emergency powers to provide 
+funding to rescue the GSEs, should they need it. Confronted with further deterioration of the 
+two GSEs, the FHFA placed them into indefinite conservatorships on September 6, 2008, as 
+part of a four-part rescue plan to stabilize the GSEs. 
+ 
+As conser vator, the FHFA immediately suspended dividends on all outstanding stock , 
+replaced both GSEs’ CEOs and boards, and then managed the firms indirectly, promising to 
+preserve their precrisis business operations  as much as possible . The Treasury funded the 
+firms in conservatorship pursuant to Senior Preferred Stock Purchase Agreements(SPSPAs), 
+ultimately investing a combined $ 191.5 billion between 2008 and 2017 . While both GSEs 
+remained solvent and continued to maintain a secondary mortgage market throughout the 
+crisis, they reported annual losses until 2012. In February 2012, the FHFA submitted a new 
+plan for conservatorship , which focused more on preparing the GSEs and the secondary 
+mortgage market for operations after conservatorship . As of this  case study’s publication, 
+however, no plan to end the conservatorships has progressed beyond the drafting phase.  
+ 
+Summary Evaluation 
+Most scholars and evaluators agree that the conservatorship s successfully accomplished 
+short-term emergency goals because Fannie Mae and Freddie Mac remained solvent. The 
+interventions also allowed the GSEs  to continue purchasing loans  and issuing and 
+guaranteeing MBS to the secondary mortgage market when private -label securitization 
+dried up  during the crisis . However, the conservatorship s have been criticized for poor 
+oversight and for at times prioritizing the GSEs’ financial health over the government’s 
+broader crisis-fighting goals.   
+  
+Summary of Key Terms 
+Purpose: To prevent the housing GSEs from 
+becoming insolvent and to allow these GSEs to 
+continue to maintain the secondary mortgage 
+market, supporting US mortgage lending. 
+Announcement Date September 7, 2008 
+Operational Date September 6, 2008 
+Expiration Date  Indefinite/None 
+announced 
+Return to Profitability FY2012 
+Legal Authority HERA §1117 
+Funder US Department of the 
+Treasury 
+Conservator The Federal Housing 
+Finance Agency (FHFA) 
+Total Investment $191.5 billion 
+The Conservatorships 
+283
+Journal of Financial Crises Vol. 3 Iss. 1
+
+--- Page 5 ---
+The Conservatorships: United States Context 
+GDP 
+(SAAR, nominal GDP in LCU 
+converted to USD) 
+$14,681.5 billion in 2007 
+$14,559.5 billion in 2008 
+$14,628.0 billion in 2009 
+GDP per capita 
+(SAAR, nominal GDP in LCU 
+converted to USD) 
+$47,976 in 2007 
+$48,383 in 2008 
+$47,100 in 2009 
+Sovereign credit rating (five-year 
+senior debt)  
+As of Q4 2007/2008/2009: 
+Fitch: AAA 
+Moody’s: Aaa 
+S&P: AAA 
+ 
+Size of banking system  
+$9,231.7 billion in total assets in 2007 
+$9,938.3 billion in total assets in 2008 
+$9,789.07 billion in total assets in 2009 
+Size of banking system as a 
+percentage of GDP  
+62.9% in 2007 
+68.3% in 2008 
+66.9% in 2009 
+Size of banking system assets as a 
+percentage of financial system 
+assets  
+29.0% in 2007 
+30.5% in 2008 
+30.23% in 2009 
+5-bank concentration of banking 
+system  
+43.9% of total banking assets in 2007 
+44.9% of total banking assets in 2008 
+44.3% of total banking assets in 2009 
+Foreign involvement in banking 
+system 
+22% of total banking assets in 2007 
+18% of total banking assets in 2008 
+19% of total banking assets in 2009 
+Government ownership of banking 
+system  
+0% of banks owned by the state in 2008 
+0% of banks owned by the state in 2009 
+Existence of deposit insurance 100% insurance on deposits up to $100,000 in 
+2007 
+100% insurance on deposits up to $250,000 in 
+2008 
+100% insurance on deposits up to $250,000 in 
+2009 
+Sources: Bloomberg, World Bank Global Financial Development Database, Federal Deposit 
+Insurance Corporation. 
+ 
+  
+284
+The Rescue of Fannie Mae and Freddie Mac –  Module A Thompson and Wiggins
+
+--- Page 6 ---
+I. Overview 
+Background 
+The Federal National Mortgage Association  (Fannie Mae) and the Federal Home Loan 
+Mortgage Corporation (Freddie Mac)  are large government-sponsored e nterprises (GSEs) 
+that are publicly traded and governed but which were chartered by congressional mandate 
+and are required to satisfy certain government housing goals (FCIC 2011a, 38–39). Many 
+investors believed that the  GSEs were backed by an implicit guarantee from the federal 
+government (FCIC 2011a, 39). GSE debt and securities were considered safe and were widely 
+held by US and non-US financial and governmental entities (FCIC 2011a, 39).  
+Fannie Mae and Freddie  Mac’s primary business  was to buy from originators  whole 
+mortgages that met certain  criteria (so-called “conforming” mortgages), which they  then 
+bundled into mortgage-backed securities (MBS) that they guaranteed and sold (FCIC 2011a, 
+39). The two GSEs also  retained some of these mortgages in their investment portfolios, 
+where they also held agency and non-agency MBS, including nonprime securities (subprime 
+and Alt-A) that they purchased on the open market (FCIC 2011a, 39; FCIC 2011b, 123). 
+Between 1990 and 2003, the percentage of outstanding residential mortgage debt owned or 
+guaranteed by the GSEs grew from 25.7% to 46.3%  (FHFA 2010a ). After 2003 , the 
+percentage began to decline as nonconforming mortgage origination funded by private-label 
+mortgage-backed securities (PLMBS) increased (Lockhart 2009) . As shown in F igure 1, 
+however, the GSE share began to gradually increase again in 2006 after policy changes at the 
+firms reduced underwriting standards,  which allowed the GSEs to compete with private 
+firms by buying more nonconforming mortgages, which they could not guarantee as MBS but 
+which they could hold in their portfolios (FCIC 2011b). 
+Figure 1: Percentage of Outstanding Residential Mortgage Debt Held by the GSEs 
+ 
+Source: FHFA n.d.-b. 
+ 
+Beginning in mid -2007, private-label residential securitization began to shrink to minimal 
+levels because of the housing correction, increasing the GSEs’ market share of new loans to 
+75.6% by year end, which was double the 38% it had been in 2006 (OFHEO 2008, 9–17). 
+0%
+10%
+20%
+30%
+40%
+50%
+Share of Residential Mortgage 
+Debt 
+Combined Enterprise Share
+Enterprise Share of Residential Mortgage Debt Outstanding Fannie Mae Share
+Enterprise Share of Residential Mortgage Debt Outstanding Freddie Mac Share
+285
+Journal of Financial Crises Vol. 3 Iss. 1
+
+--- Page 7 ---
+Their market share exceeded 75% during the first half of 2008;  the GSEs continued to 
+provide the contracting housing market , which needed liqu idity, while also tightening 
+standards for risk management during the 2007–08 market downturn (Lockhart 2008). 
+As early as mid -2007, the GSEs began to feel the effects of the subprime mortgage crisis as 
+default rates on subprime and nonprime mortgages spiked, causing mortgage lending to 
+slow, the value of mortgage securities to plummet, and private mortgage securitization to 
+evaporate (OFHEO 2008, i–iii). Compounding the effects of the crisis on the firms was their 
+high leverage, which left them especially vulnerable to the market correction  (FCIC 2011c, 
+309). By December  2007, the two companies were highly leveraged—owning or 
+guaranteeing $5.3 trillion of mortgages, with capital of less than 2% (FCIC 2011c, 309). Both 
+GSEs reported billion-dollar losses for fiscal year 2007, the first ever for Freddie Mac and the 
+first in 22 years for Fannie Mae (OFHEO 2008, 10). 
+Deteriorating circumstances made it difficult for the two companies to raise capital  and to 
+meet their safety and soundness standards, especially after the near collapse of Bear Stearns 
+in March 2008 due to sudden disruptions in liquidity (FCIC 2011c, 312–18). By the summer 
+of 2008, after having become increasingly reliant on short-term funding, both GSEs became 
+unable to borrow against their securities to garner enough cash in the repo market (FCIC 
+2011c, 316) . Market concerns increased on July 7, 2008 , when a Lehman Brothers 
+investment analyst released a report speculating that Fannie  Mae and Freddie Mac would 
+not be able to raise additional capital in light of weak market conditions for their stocks and 
+the possible effect of a new accounting standard that w ould require the firms to bring their 
+off-balance-sheet entities onto their balance sheets (Harting 2008). The GSEs’ common share 
+prices dropped by more than 16% as a result (Lockhart 2008). 
+When Fannie Mae and Freddie Mac posted billion -dollar losses for fiscal year 2007, the 
+market began to recognize that the firms’ weakened condition could destabilize the 
+mortgage market and, by extension, the entire financial system  (FCIC 2011c , 311 –12). 
+Government officials escalated efforts to pass legislation that would permit developing a 
+viable plan that would support the firms and prevent their collapse (FCIC 2011c). 
+On July 13, 2008, the Federal Reserve Board (Fed) invoked its emergency authority un der 
+Section 13(13) of the Federal Reserve Act to authorize lending through its discount window 
+to Fannie Mae and Freddie Mac for a period of 90 days or less (BGFRS 2008). Section 13(13) 
+allows the Fed to lend to any private entity using government or gover nment-guaranteed 
+debt as collateral. 4 In its statement, the Fed said it was concerned about the systemic risks 
+that the companies’ difficulties posed, particularly to the functioning of residential mortgage 
+markets (BGFRS 2008 ). The Fed said its authoriza tion was intended to supplement 
+Treasury’s authority to lend directly to the GSEs (BGFRS 2008). 
+The Fed —in connection with  officials from the  Office of the Comptroller of the Currency 
+(OCC), Federal Deposit Insurance Corporation (FDIC), and Treasury—undertook a review of 
+the GSEs’ operations, which concluded that both GSEs would soon become insolvent (FCIC 
+2011c, 317–18). During this time, Treasury’s advisors from Morgan Stanley also reviewed 
+Fannie Mae and Freddie Mac’s business operations , and their assessment corroborated the 
+Fed and the other government officials’ conclusions (FCIC 2011c, 317). 
+ 
+4 Unlike Federal Reserve Act Section 13(3), which the Fed relied on for many of its crisis programs, Section 
+13(13) does not restrict lending to emergency situations. 
+286
+The Rescue of Fannie Mae and Freddie Mac –  Module A Thompson and Wiggins
+
+--- Page 8 ---
+Because of these concerns, and at the behest of financial regulators and Treasury, Congress 
+passed the Housing and Economic Recovery Act  of 2008  (HERA)5 on July 30, 2008 (FCIC 
+2011c, 316–17). HERA created a new GSE regulator, the Federal Housing Finance Agency 
+(FHFA), with enhanced authorities, provided enhanced resolution options and, importantly, 
+gave the Treasury emergency authority to buy the securities and obligations of the GSEs 
+(FCIC 2011c , 316) . Treasury Secretary Hank Paulson hoped that the government’s 
+commitment to preserve the GSEs  could keep both companies in operation  (FCIC 2011c, 
+316–17). However, the situation continued to deteriorate (Thompson 2021). 
+Program Description 
+The FHFA took Fannie Mae and Freddie Mac into conservatorship on September 6, 2008—
+the first step of a four -part rescue program designed to stabilize the GSEs and avoid their 
+likely collapse (FHFA n.d.-a). Treasury oversaw the other three steps, which were to:  
+• Enter into Senior Preferred Stock Purchase Agreements (SPSPAs) with each GSE, 
+• Establish a new secured credit facility that the GSEs could borrow from, and 
+• Commit to purchase GSE mortgage-backed securities (Frame et al. 2015, 15).6  
+The FHFA stated that: 
+The purpose of appointing the Conservator is to preserve and conserve the 
+[Enterprises’] assets and property and to put the [Enterprises] in a sound and solvent 
+condition. The goals of the conservatorship are to help restore confidence in [Fannie 
+Mae and Freddie Mac], enhance [their] capacity to fulfill [their] mission, and mitigate 
+the systemic risk that has contributed directly to the instability in the current market. 
+(FHFA 2008c, 2) 
+To this end, the FHFA would later define the “central goal ” of the conservatorship 7 as 
+“minimizing [GSE] credit losses from delinquent mortgages” (DeMarco 2010). The agency 
+would also guide its decisions about the conservatorship to be consistent with the statutory 
+purpose of the conservator for “reorganizing, rehabilitating, or winding up th e affairs of a 
+regulated entity ” (HERA 2008 , §1367). Although the conservatorship did not have an 
+expiration date, the FHFA and Treasury asserted that the conservatorship was intended as a 
+temporary measure, or, as Secretary Paulson called it, “a time out” (Paulson 2010, 54). 
+When the FHFA became conservator, it assumed all power previously vested in the GSEs’ 
+directors, officers, and shareholders and shifted the firms’ focus to align with the goals of the 
+conservatorships (FHFA-OIG 2015, 6–7). (See Appendix A for an overview of the impact of 
+this shift .) As conservator, the FHFA could govern the companies in any legal capacity to 
+stabilize them, and its actions were not subject to judicial review (FHFA-OIG 2015, 7). The 
+ 
+5 Public Law 110-289. See Thompson and Kulam (2021) for a detailed discussion of the relevant provisions of 
+HERA. 
+6 See Thompson (2021) for discussion of the Senior Preferred Stock Purchase Agreements, Vergara (2021) for 
+the GSE Credit Facility, and Zanger-Tishler and Wiggins (2021) for Treasury’s GSE MBS Purchase Program. For 
+a discussion of the overall government effort, see Wiggins et al. (2021). 
+7 Fannie Mae and Freddie Mac were put into separate conservatorships. We herein refer to the 
+conservatorships as one due to the similarities across the two stru ctures. Additionally, while the 
+conservatorships are ongoing,  our focus is on the crisis period ; therefore, we focus on the period through 
+FY2012, when the enterprises returned to profitability. 
+287
+Journal of Financial Crises Vol. 3 Iss. 1
+
+--- Page 9 ---
+FHFA immediately replaced the GSEs’ boards of directors and CEOs, suspended voting rights, 
+and froze dividends for common and preferred stockholders (Fannie Mae 2008b, 24). Fannie 
+reported in its 2008 10-K that “because we are in conservatorship, we ‘will no l onger be 
+managed with a strategy to maxi mize common shareholder returns ’” (Fannie Mae 2008b , 
+24). The GSEs’ stock continued to trade, however  (FHFA 2008 c, 3) . While the FHFA 
+suspended the equity shareholders’ rights, it protected rights of senior and subordinated 
+debtholders (Fannie Mae 2008b, 24; Frame et al. 2015, 27).  
+With Treasury serving as a financial backstop (discussed below), the FHFA also declared that 
+the existing GSE capital limits were not binding during the conservatorship and then 
+suspended them altogether, although it continued to monitor them (FHFA 2008d, 11). 
+Treasury Funding 
+Concomitant with the establishment of the conservatorships, each GSE entered into a Senior 
+Preferred Stock  Purchase Agreement with the Treasury , which committed Treasury to 
+provide up to $100 billion to each firm  in exchange for preferred stock and specified 
+warrants, guaranteeing the solvency of each GSE  (Thompson 2021 , sec. “Program 
+Description”). Treasury later raised  the funding ceiling  to $200 billion  per firm , then 
+effectively committed an unlimited amount for 2010 –12, and reinstated a ceiling on newly 
+available funds equal to $200 billion thereafter (Thompson 2021, “Program Description”). 
+For several years, the GSEs ran losses and requested draws  pursuant to the SPSPAs (FHFA-
+OIG 2015, 2–3). In 2012, the SP SPAs were amended to replace the fixed-rate dividend for 
+Treasury’s senior preferred stock with a variable dividend, which effectively transferred all 
+of the GSEs’ net income to Treasury (Thompson 2021, sec. “Key Design Decision No. 11”). 
+From the beginning of the conservatorship through the third quarter of 2019, the firms paid 
+a combined $301 billion to Treasury in dividends (FHFA 2019). 
+Commitments. Commitments under the SPSPAs that the FHFA had to ensure the firms 
+adhered to included informing Treasury of any major decisions regarding, and seeking its 
+approval for:  
+• Ending the conservatorships, 
+• Making certain executive compensation decisions,8 
+• Permitting certain transfers or sales of assets (except for fair market value and in the 
+ordinary course of business), 
+• Declaring dividends, 
+• Deciding other matters regarding equity interests, and 
+• Allowing mergers and acquisitions (Fannie Mae 2008b, 28–29). 
+ 
+8 In addition to the requirements under the SPSPA s, the FHFA also had to comply with the requirements of 
+Section 110 of the Emergency Economic Stabilization Act of 2008 (EESA) that obligated it to develop or adopt 
+programs that would minimize foreclosures (DeMarco 2010). 
+  
+288
+The Rescue of Fannie Mae and Freddie Mac –  Module A Thompson and Wiggins
+
+--- Page 10 ---
+Also, pursuant to the SPSPAs, the FHFA capped each GSE’s portfolio at $850 billion and 
+required a 10% annual reduction , to begin in 2010  (UST/Fannie Mae 2008 , 9). However, 
+reduction below $250 billion was not required (UST/Fannie Mae 2008 , 9). The FHFA also 
+capped each  GSE’s debt limit to 110% of its debt held on June 30, 2008, which was 
+$859.9 billion for Fannie Mae and $956.5 billion for Freddie Mac (UST/Fannie Mae 2008, 9). 
+The FHFA later amended the terms of the SPSPA covenants several times (Thompson 2021, 
+sec. “Program Description”). 
+Infrastructure of Conservatorships 
+To manage the conservatorships, the FHFA established the Office of Conservatorship 
+Operations (OCO) (FHFA-OIG 2012a, 20). Consisting of six employees, the OCO served as the 
+point of contact  between the FHFA and the GSEs and sought to harmonize GSE operations 
+with FHFA’s  goals: maintain the GSEs’  assets, ensure that the enterprises fulfilled their 
+missions, and advance their departure from conservatorship (FHFA-OIG 2012a, 20–21). In 
+addition to the director of the FHFA, staff from the OCO  attended the GSEs’ board meetings 
+and many GSE executive management meetings (FHFA-OIG 2012a, 21). 
+Under the terms of the conservatorship, the agency had some latitude as to how it could 
+manage the firms and opted for an indirect management style (FHFA-OIG 2012a, 22–24). On 
+November 28, 2008, the agency delegated authority to the GSEs’ new boards of directors to 
+oversee management, and to the executive management, including the new CEOs, to oversee 
+day-to-day operations (FHFA-OIG 2012a , 22) . The FHFA retained authority over certain 
+significant and unusual busines s decisions, as shown in Figure 2, for which the GSEs were 
+required to request agency approval  (FHFA-OIG 2012a, 22–24). Despite the delegation, the 
+FHFA also retained authority, at its discretion, to review any delegated decision (FHFA-OIG 
+2012a, 22–24).  
+Figure 2: GSE: Nondelegated Authorities Requiring Conservator Approval 
+1. Actions involving capital stock, dividends, the Senior Preferred Stock Purchase Agreements, 
+increases in risk limits, material changes in accounting policy, and reasonably foreseeable materia l 
+increases in operational risk 
+2. Creation of any subsidiary or affiliate or any substantial transaction between the enterprise and any 
+of its subsidiaries or affiliates, except for transactions undertaken in t he ordinary course of business 
+3. Matters that related to conservatorship, such as the initiation and material actions about significant 
+litigation addressing the actions or authority of the conservator, repudiation of contracts, qualified 
+financial contracts in dispute due to conservatorship status, and coun terparties attempting to nullify 
+or amend contracts due to conservatorship status 
+4. Actions involving hiring, compensation, and termination benefits of directors and officers at the 
+executive vice president level and above 
+5. Actions involving the reten tion and termination of external auditors and law firms serving as 
+consultants to the enterprises’ respective boards of directors  
+6. Settlements in excess of $50 million of litigation, claims, regulatory proce edings, or tax -related 
+matters 
+7. Any merger with (or purchase or acquisition of) a business involving more than $50 million 
+8. Actions that in the reasonable business judgment of the enterprises’ respective boards of directors 
+were likely to cause significant reputational risk 
+Source: FHFA-OIG 2012b, 6–7. 
+ 
+The FHFA chose its style of conservatorship  to achieve  efficiency, concordant  goals, and 
+operational savings (FHFA-OIG 2012a, 23–24). The GSEs and their employees knew their 
+289
+Journal of Financial Crises Vol. 3 Iss. 1
+
+--- Page 11 ---
+businesses and were well  equipped to continue to carry o ut normal business operations  
+(FHFA-OIG 2012a , 23) . The GSEs’ objectives in conservatorship w ere the same as the 
+government’s objectives (FHFA-OIG 2012a, 23). Additionally, creating and staffing an FHFA 
+unit large enough to directly oversee the entities’ norm al operations would have required 
+significant expense (funded by the taxpayers), and then there was a likelihood of overlap  
+(FHFA-OIG 2012a , 23 –24). Moreover, given that the term of the conservatorships was 
+unknown, the efficacy of creating such a unit was questionable (FHFA-OIG 2012a, 23–24).  
+In July 2009, the FHFA established a Conservatorship Governance Committee  (CGC) 
+composed of senior FHFA executives whose goal was to “ensure coordination on regulatory 
+or supervisory matters that might need to be bro ught to the attention of the conservator ” 
+(FHFA-OIG 2012a, 21). The committee met weekly to coordinate issues related to the GSEs’ 
+operations and decision-making authorities, and received notifications from the enterprises 
+and the OCO about imminent issues (FHFA-OIG 2012a, 20-21; FHFA-OIG 2012b, 10).  
+Upon delegation, the FHFA directed the GSEs to implement internal process es for seeking 
+conservator approval for the nondelegated authorities  (FHFA-OIG 2012a, 19–21). In 2010, 
+the FHFA established a formal tracking system to organize the large volume of requests and 
+manage their resolutions (FHFA-OIG 2012a, 20–21).  
+In December 2011, the OCO sought to clarify the protocol for seeking FHFA approval and 
+created a “one-entry” submission process (FHFA-OIG 2012b , 8) . Any communications 
+conducted outside this process (with limited exceptions) were not considered valid (FHFA-
+OIG 2012b , 8) . E xecutive compensation issues and certain legal issues still had to be 
+approved by the FHFA’s Offices of Policy and Analysis and its general counsel, respectively 
+(FHFA-OIG 2012b, 8). 
+FHFA employees who were not part of OCO participated in the conservatorship activities 
+through resolving requests for approval and/ or providing information to the OCO  (FHFA-
+OIG 2012b, 9–11). In addition to its rights and duties as conservator, the FHFA continued its 
+role as GSE regulator. While the FHFA could request information from Fannie  Mae and 
+Freddie Mac as conservator, it continued to gather information and conduct safety  and 
+soundness measures using its regulatory apparatuses, particularly the Division of Enterprise 
+Regulation (DER), a unit charged with fulfilling the agency’s regulatory res ponsibilities 
+toward the GSEs (FHFA-OIG 2012b, 11, 32). 
+The relationship between the FHFA’s conservatorship and supervision duties was described 
+by the FHFA as follows:  
+FHFA’s supervision staff does not participate in corporate decision -making or 
+management functions, but maintains a detailed, current understanding of Enterprise 
+business operations and risk management and brings a supervisory perspective to 
+bear in engaging with the Enterprises and FHFA conservatorship staff. FHFA strives 
+to strike a balance so that supervision and conservatorship activities are sufficiently 
+separate to  ensure supervisory independence, but Division staff coordinates to an 
+appropriate degree so that there is the benefit of intra -agency collaboration on 
+significant risk matters impacting the Enterprises. (FHFA-OIG 2012b, 32) 
+One example of this “intra -agency collaboration” is that the OCO relied on the DER’s 
+regulatory review of the GSEs’ finances rather than conducting a separate review (FHFA-OIG 
+2012b, 32). 
+290
+The Rescue of Fannie Mae and Freddie Mac –  Module A Thompson and Wiggins
+
+--- Page 12 ---
+On June 20, 2011, the FHFA issued a final rule that clarified its conservatorship and 
+receivership authorities (FHFA-OIG 2012a, 21).9 The agency also periodically augmented its 
+directions to the GSEs with “Letters of Instruction” (FHFA-OIG 2015, 12–13). 
+Despite the FHFA’s efforts to manage the conservatorship, a 2012 FHFA Office of Inspector 
+General ( FHFA-OIG) audit report concluded that the agency “can better accomplish its 
+oversight mission by proactively exerting greater control over its conservator approval 
+process” (sec. “ At a Glance”).  The authors  criticized the agency for being passive in its 
+oversight and for not ensuring that it reviewed significant matters, that its directives were 
+adhered to, or that its processes were followed (FHFA-OIG 2012b, sec. “At a Glance”). For 
+example, Freddie Mac did not establish internal procedures for requesting approvals until 
+May 2011, and Fannie Mae had not established any such written procedures by 2012 (FHFA-
+OIG 2012b , 7 –8). As a result,  communications were scattered: GSEs  filed requests to the 
+agency in a decentralized manner, there was no single point of contact at either firm, and the 
+GSEs did not apply consistent application criteria when deciding which requests ought to be 
+sent to the conservator for approval (FHFA-OIG 2012b, 7–8). FHFA-OIG also found flaws in 
+the processes that had been established, such as weak documentation and record -keeping 
+practices (FHFA-OIG 2012b, 12–25). FHFA-OIG concluded that the OCO did not have a full 
+grasp of the conservatorship issues being addressed by FHFA and recommended 
+improvements: 
+Specifically, FHFA -OIG recommends that the Agency: (1) revisit FHFA’s non -
+delegated authorities to ensure that significant Enterprise business decisions are sent 
+to the conservator for approval; (2) guide the Enterprises to establish processes to 
+ensure that actions requiring conservator approval are properly submitted for 
+consideration; (3) properly analyze, docum ent, and support conservator decisions; 
+and (4) confirm compliance by the Enterprises with conservator decisions . (FHFA-
+OIG 2012b, sec. “At a Glance”) 
+The FHFA agreed with most of the recommendations and acted to adopt the m (FHFA-OIG 
+2012b, sec. “Appendix A”). In 2013, the conservatorship offices were merged into a newly  
+formed Division of Conservatorship, which employed 25 persons compared to the prior six  
+(FHFA-OIG 2015, 14).  
+Operational Emphasis Shifted during Conservatorships 
+Under the conservatorship, the FHFA directed the GSEs to continue their key business 
+operations and MBS securitizations  (FHFA 2008d, 92). No restrictions were placed on the 
+amount of MBS that the GSEs could issue or guarantee (FHFA 2008d, 92). During the early 
+phase of the conservatorship, the FHFA focused the GSEs on stemming credit losses and 
+reducing their retained portfolios, which many investors thought had become outsized and 
+were a source of significant losses (DeMarco 2010, 5). The FHFA also committed to having 
+the GSEs fulfill their affordable housing goals throughout the duration of the conservatorship 
+(DeMarco 2010, 7) . (See Figure 5 for a description of how the FHFA’s strategic  objectives 
+evolved over time.) 
+Some of the steps taken to imp lement these objectives included the FHFA tightening  GSE 
+underwriting standards, which raised the average FICO credit score of guaranteed 
+mortgages by 35 to 40 points over the following two years (FHFA 2011, iv). The FHFA also 
+shifted guarantee fee calculations from loan volume to underlying loan risk and eliminate d 
+ 
+9 See 12 C.F.R., Part 1237 (FHFA-OIG 2012a, 21). 
+291
+Journal of Financial Crises Vol. 3 Iss. 1
+
+--- Page 13 ---
+preferential underwriting standards for certain entities (MBA 2017 , 6) . Also, the FHFA 
+requested that Fannie Mae and Freddie Mac “become much more aggressive and innovative 
+in their approaches to loan modification activities to reduce preventable foreclosures” 
+(FHFA 2008d, 14).  
+The FHFA’s conservatorship infrastructure evolved in tandem with its theory of operations. 
+In February 201 2, the FHFA submitted to Congress a new strategic plan for the 
+conservatorship, which  incorporated policy recommendations circulated by the Obama 
+administration and Congress (FHFA 2012a, 4). The political aspirations for the GSEs were to 
+build a new infrastructure for the secondary mortgage market and to significantly shrink the 
+GSEs’ operations and role in the housing markets (see Figure 3) (FHFA 2012a, 4). Notably, 
+the 2012 strategic plan did not carry over the explicit objective regarding fulfilment of the 
+affordable housing mission.10 
+Figure 3: FHFA Objectives for the Conservatorships of Fannie Mae and Freddie Mac 
+2010 2012 2014 
+1. Pursue loan modification and 
+mitigate credit losses from 
+delinquent mortgages 
+1. Build a new infrastructure for 
+the secondary mortgage market  
+1. Maintain, in a safe and sound 
+manner, foreclosure prevention 
+activities and credit availability 
+for new and refinanced 
+mortgages to foster liquid, 
+efficient, competitive, and 
+resilient national housing 
+finance markets  
+2. Reduce retained portfolios by 
+10 percent per year, beginning 
+this year from YE2009 
+maximum allowed balances of 
+$900 billion, per SPSPAs 
+2. Contract the GSEs’ dominant 
+presence in the marketplace 
+while simplifying and shrinking 
+their operations  
+2. Reduce taxpayer risk through 
+increasing the role of private 
+capital in the mortgage market 
+3. Prohibit new products as 
+inconsistent with the purposes 
+of the conservatorships 
+3. Maintain GSE foreclosure 
+prevention activities and credit 
+availability for new and 
+refinanced mortgages 
+3. Build a new single-family 
+securitization infrastructure for 
+use by the enterprises and 
+adaptable for use by other 
+participants in the secondary 
+market in the future 
+4. Ensure fulfillment of the 
+affordable housing mission  
+ 
+ 
+Sources: DeMarco 2010; FHFA 2012a; FHFA 2014. 
+Both GSEs reported profits for several quarters  during fiscal year 2014. After the close of 
+that year, with their future still undecided, the FHFA submitted an updated strategic plan 
+that preserved the three key objectives from the 2012 plan  (FHFA 2014, 5). The goal of the 
+updated plan was “overseeing the conservatorships of the Enterprises in their current state 
+ 
+10 This change presumably reflects the stance adopted by the Obama administration in February 2011, when it 
+submitted a report to Congress titled “Reforming America’s Housing Finance Market.” In the report, the  
+Administration proposed winding down Fannie and Freddie and giving the affordable housing mission to the 
+Federal Housing Administration (FHA) (UST 2011, 18–22).  
+292
+The Rescue of Fannie Mae and Freddie Mac –  Module A Thompson and Wiggins
+
+--- Page 14 ---
+and ensuring that the Enterprises’ infrastructure meets the needs of  their current credit 
+guarantee businesses and other operations” (FHFA 2014, 5).  
+Outcomes 
+Due to the conservatorships and the four -part rescue plan , the GSEs continued to operate 
+after conservatorship similarly to how they did  before conservatorship because they 
+maintained their key role in the secondary mortgage market  and successfully prevented its 
+collapse (FHFA 2008d, 86–88). As private-label securitization had evaporated, the role of the 
+GSEs became even more critical during the months following September 2008 , and the 
+percentage of new mortgages that they purchased increased (FHFA 2008d, 86–88, 91).  
+Immediately f ollowing the conservatorship  announcement, market demand for GSE debt 
+seemed to increase (FOMC 2008, 4). However, given the restrictions on dividends and voting 
+rights for common shareholders imposed by the conservatorship, and that the SPS PAs 
+established a stock class senior to all existing GSE classes of stock, the common stock of the 
+two GSEs—which had already fallen more than 95% since the previous year —continued to 
+lose value (FOMC 2008, 4; Thompson 2021, sec. “Key Design Decision No. 4”).  
+Mortgage yields also fell for a brief period. The Monday following the announcement of the 
+conservatorships, the rate s on Fannie Mae’s five -year debt and its mortgage -backed 
+securities MBS dropped about 30 basis points and 50 basis points , respectively, relative to 
+yields on five-year Treasuries (Frame et al. 2015, 22). In response to the drop in MBS yields, 
+conforming mortgage rates fell by 40 basis points (Frame et al. 2015, 22). Following Lehman 
+Brothers’ collapse on September 15, mortgage rates rose above pre-conservatorship levels 
+(Frame et al. 2015, 22–23).  
+On November 25, 2008, hoping to ease yield levels down, the Fed introduced its large-scale 
+asset purchases, which enabled the central bank to purchase up to $500 billion in MBS and 
+$100 billion of GSE debt (later raised to $1.25 trillion in MBS and $175 billion of GSE debt) 
+(CBO 2010, 10). By March 2009, GSE mortgage yields had fallen 150 basis points (Lockhart 
+2009).  
+One of the GSEs efforts to strengthen their financial positions was to enforce representations 
+and warranties made by loan originators, which meant that Fannie and Freddie tried to shift 
+credit losses  (stemming from defaulted mortgages ) to the originators  that relied on poor 
+documentation and underwriting standards (Frame et al. 2015, 27 –28). This practice led 
+originators to tighten underwriting standards  and increased the cost of mortgage lending , 
+which some critics identified as  inconsistent with the GSEs’ broader housing objec tives 
+(Frame et al. 2015, 27–28). However, tightened underwriting standards led to an increase in 
+the percentage of mortgages purchased by the GSEs with a loan -to-value ratio of 80% or 
+less—from 76% to 89% from 2007 to 2009 (Fannie Mae 2009, 151; Freddie Mac 2009, 151). 
+Nevertheless, the GSEs  continued to report losses for nearly four years after the 
+conservatorship’s implementation, mainly due to continued mortgage defaults (particularly 
+in single -family credit guarantees ), falling housing prices impacting their securitization 
+businesses and portfolios, and the cost of annual dividends on senior preferred stock, which 
+the GSEs paid to Treasury (Frame et al. 2015, 25). 
+The GSEs have each significantly reduced the size s of their portfolios and outsta nding debt 
+since the beginning of conservatorship, as shown below in Figure 4. During this period, they 
+also have maintained or slightly increased the amount of their MBS issuances, which 
+increased their market share of mortgage securitization after private-label activity began to 
+decline in 2007 (OFHEO 2008 , 9 –17). Additional nonmonetary changes occurring under 
+conservatorship are shown below in Figure 5. 
+293
+Journal of Financial Crises Vol. 3 Iss. 1
+
+--- Page 15 ---
+The fiscal year 2012 marked a turning point for Fannie  Mae, Freddie Mac, and the FHFA’s 
+conservatorship operations: for the first time since 2008, the GSEs did not require additional 
+Treasury funds to cover their losses (FHFA 2012c, 16). Pursuant to the third amendment to 
+the SPSPAs, all profits were paid to Treasury (FHFA 2012c, 87). 
+In each statement of strategic objectives, the FHFA emphasized that conservatorship was not 
+a long-term strategy for the GSEs. Because the firms were chartered by Congress, the agency 
+was limited in its options for rehabilitation (Frame et al. 2015, 18–21). The FHFA could only 
+release the firms from conservatorship back to their previous structure s, which was 
+politically contentious, and the potential merits of reprivatization were unclear (Frame et al. 
+2015, 18–21). By the time the GSEs began realizing a profit in FY2012, they collectively owed 
+the government $189.5 billion (liquidation preference plus initial investment pursuant to 
+the SPSPAs) (Thompson 2021, sec. “Outcomes”). Although the GSEs have paid Treasury a 
+combined $292.3 billion in dividends (through the fourth quarter 2018), such payments did 
+not reduce their debt but did keep them from retaining earnings and building their capital  
+(Thompson 2021, sec. “Key Design Decision No. 11”). 
+Since the conservatorship began, many individuals and entities, ma inly shareholders, have 
+sought damages from the FHFA, and several of these cases remain unresolved (Solomon and 
+Zaring 2015, 372–78). Several governmental and private parties have proposed plans to end 
+the conservatorship s and reform the entities, which would require  congressional action  
+(Solomon and Zaring 2015, 419 –26). At this time, however, the  GSEs remain in 
+conservatorship (Thompson 2021, sec. “Outcomes”). 
+Figure 4: GSE Sizes (in billions of USD) 
+ Fannie Mae Freddie Mac 
+Date Portfolio MBS/Guarantees Debt Portfolio MBS/Guarantees Debt 
+2008 $761.4 $2,559.5 $843.0 $736.9 $1,834.4 
+ 
+$814.9 
+ 
+2010 $802.9 $2,642.8 $830.2 $710.2 
+ 
+$1,763.7 $742.6 
+2012 $654.3 $2,694.8 $664.1 $568.0  $1,591.7  $570.3  
+2014 $438.1  $2,768.3 $479.0  $413.6  $1,646.4  $439.5  
+2016 $306.5 $2,861.3 $353.6 $308.1 $1,817.9  $381.5  
+Note: “Date” reflects GSE size in September of the year listed. 
+Sources: Fannie Mae 2008a; Fannie Mae 2010; Fannie Mae 2012; Fannie Mae 2014; Fannie 
+Mae 2016; Freddie Mac 2008; Freddie Mac 2010; Freddie Mac 2012; 2014; Freddie Mac 2016. 
+  
+294
+The Rescue of Fannie Mae and Freddie Mac –  Module A Thompson and Wiggins
+
+--- Page 16 ---
+Figure 5: GSE Programs and Operations before and after the Conservatorship 
+GSE Reform: Quick View 
+ GSEs Pre-Conservatorship GSEs in Conservatorship 
+Investor purpose 
+ 
+Growth of stock returns/risks Conservation of assets 
+Regulatory limitations on 
+pricing 
+No Yes 
+Retained investment portfolio 
+ 
+Large Reduced 
+Capital standards Low capital levels on both 
+retained/guaranteed risk 
+Reduce capital cushion to zero 
+by 2018 
+SF risk transfers to private 
+market 
+Front-end only (MI and lender 
+recourse) 
+Testing back-end structures in 
+addition to front-end 
+MF risk transfers to private 
+market 
+Lender risk share Lender and capital markets risk 
+share/transfer 
+Number of entities 
+ 
+Two Two 
+New guarantor entrants 
+permitted 
+No No 
+SF lender access Preferential pricing and underwriting 
+by loan volume 
+Guarantee fee and 
+underwriting variances 
+restricted 
+Support for single-family TBA 
+market 
+Yes Yes 
+Support for multifamily 
+finance 
+Yes Yes 
+Preserve operational 
+infrastructures and processes 
+Yes Yes 
+Affordable housing mission 
+ 
+Yes Yes 
+ 
+Terms: SF (single family), MI (mortgage insurance), MF (multifamily), TBA (To be announced). 
+Source: MBA 2017, vii. 
+II. Key Design Decisions 
+1. The Housing and Economic Recovery Act passed in July 2008 constituted an 
+essential step to establish and finance the conservatorship. 
+The government passed HERA in July 2 008 to provide enhanced resolution alternatives to 
+the GSEs’ regulator in light of the severely weakened condition of the firms, their critical role 
+in the stability of the mortgage and housing markets, and the stresses then impacting those 
+markets (among other things)  (Frame et al. 2015, 14) . Prior to HERA, OFHEO  (Office of 
+Federal Housing Enterprise Oversight, former GSE regulator) could have taken the firms into 
+conservatorship, but there existed no viable funding to support such a move, largely 
+rendering the authority ineffective (Frame et al. 2015, 5). Also, the GSEs were exempt from 
+the US bankruptcy code, and there was no authority for OFHEO to place them in receivership 
+(Frame et al. 2015, 18 –21). HERA created a new regulator, the FHFA, and provided 
+mechanisms for Treasury to fund the firms during an emergency period , ensuring their 
+solvency during a conservatorship (Frame et al. 2015, 18–21). HERA also provided the FHFA 
+295
+Journal of Financial Crises Vol. 3 Iss. 1
+
+--- Page 17 ---
+expanded authority to place the firms into receivership if necessary  (Frame et al. 2015, 18–
+21). (See Thompson and Kulam (2021) for more information regarding HERA.)  
+2. Federal officials placed Fannie Mae and Freddie Mac into conservatorship instead 
+of nationalizing them or placing them into receivership. 
+ 
+W. Scott Frame et al. (2015) dismiss the claim that Treasury could have stabilized the GSEs 
+by simply buying their debt or MBS without a formal apparatus  (21). Noting the amount of 
+capital required to stabilize the GSEs, Frame et al. argue that the Treasury needed a 
+mechanism to ensure that it could continuously fund the GSEs in the needed amounts (which 
+were unknown at the time, but estimates of which were in the tens of billions) (Frame et al. 
+2015, 21). As such, Treasury required a government intervention to establish and operate 
+such a mechanism (Frame et al. 2015, 19) . Operating with the common understanding that 
+the government needed to save the GSEs, Frame et al. identify three options that government 
+officials could have taken.  
+Nationalization. The first option was nationalization, which Frame  et al. (2015)  define as 
+purchasing and controlling at least an 80% equity stake in each company  (21). The 
+government considered this option the least favorable because the government would have 
+been compelled to assume all liability for Fannie Mae and Freddie Mac and to consolidate 
+their operations onto its balance sheet (Frame et al. 2015, 21).  
+However, th e definition of the term “nationalization” is fluid, unlike the definitions of 
+“conservatorship” and “receivership” (which are discussed later)  (Elliott 2009, 7) . For the 
+purposes of this paper , “nationalization” refer s to the government gaining a  controlling 
+interest in a company (one that might be greater than 50% but less than 80%) such that it is 
+empowered to make  or influence  critical decisions about how the company operates. 
+Nationalization can be accomplished in a variety of ways but does not denote application of 
+a specific, prescribed administrative process, such as conservatorship or receivership, or the 
+FDIC bank resolution process, although such processes may be employed (Elliott 2009, 13–
+15).  
+In light of thi s working definition, the government could have nationalized the GSEs by 
+making—via Treasury—a substantial  financial contribution and gaining via contractual 
+agreement (such as a stock purchase agreement , memorandum of understanding, or  
+shareholders’ agreement) certain constraints o n the GSEs operations (Lockhart 2018, 12) . 
+(Also see Appendix B.) However, taking control of the GSEs without the benefit of a known 
+and predictable framework could have created operational and legal mess es (Jester et 
+al. 2018, 7 ). Treasury’s ability to operate the companies would still have been subject to 
+management’s compliance with the operative contract and complicated by the need to 
+comply with various regulations regarding preservation of the GSE charters (Lockhart 2018, 
+12). Treasury Secretary Paulson was of the opinion that such an arrangement would not 
+adequately protect the taxpayers and, thus, would not agree to contribute capital to the GSEs 
+without their being in a conservatorship or receivershi p (Jester et al. 2018; Lockhart 2018, 
+12). 
+Receivership. After the passage of HERA, receivership was a second viable option available 
+to the government (Frame et al. 2015, 18) . The intent of a receivership is to wind down an 
+organization rather than merely stabilize it and have it continue operations  (Jester et al. 
+2018, 7). Under HERA, invoking a receivership would mean the application of timelines and 
+the need for a bridge entity since the GSEs could be dissolved only by an act of Congress  
+(Frame et al. 2015, 18–19). Additionally, the FHFA would be compelled to reform the firms 
+as they were released from receivership, which would have been required in five years  
+296
+The Rescue of Fannie Mae and Freddie Mac –  Module A Thompson and Wiggins
+
+--- Page 18 ---
+(Frame et al. 2015, 20). However, the structure of the GSEs had been debated for years, and 
+Congress had yet to resolve those concerns (Frame et al. 2015, 20). 
+Dan Jester served in Paulson’s Treasury during the rescue and, with other Treasury officials, 
+questioned the feasibility of setting up the receiverships in time to be effective  (Jester et al. 
+2018, 7). They doubted the GSEs would acquiesce to such a forceful intervention and worried 
+the firms would respond by filing lawsuits and drumming up congressional opposition to it 
+(Jester et al. 2018, 7) . Secretary Paulson also worried tha t receiverships might also “spook 
+the markets” and might put some debtholders at risk , increasing instability of some ban ks 
+and other financial institutions (Lockhart 2018, 12). Moreover, even if the receiverships 
+were put in place, Jester et al. expressed doubt that  the FHFA —a new agency with “no 
+institutional experience managing a receivership” —was up to the task of overseeing the 
+successful implementation of one (Jester et al. 2018, 7). 
+Conservatorship. The final option was conservatorship. Although a conservatorship could 
+last indefinitely, it was seen as a temporary measure that would allow the government to 
+take control of the companies  and stabilize them for continued operation , while Congress 
+considered how to address the more contentious structural aspects of the GSEs’ special 
+status (Frame et al. 2015, 20; Jester et al. 2018, 7) . Conservatorship also was seen as an 
+option that could be implemented swiftly, which was important given the rising number of 
+concerns at other major financial institutions that were debtholders (Frame et al. 2015, 20; 
+Jester et al. 2018, 7–8). 
+Most importantly, however, conservatorship allowed the GSEs to continue their operations 
+and supply the secondary mortgage market, something critically needed as the private 
+market severely contracted (Frame et al. 2015, 26 –27; Jester et al. 2018, 7) . The efficacy of 
+this option hinged on the Treasury’s ability to finance the conservatorship, which was made 
+possible by HERA (Frame et al. 2015, 19). Frame et al. (2015) note that if the Treasury could 
+not have financed the conservatorship, then receivership would have been the best option  
+(20). HERA also included a clause that allowed the FHFA to later place the GSEs into 
+receivership from conservatorship (Frame et al. 2015 , 21). However, James Lockhart, then 
+director of the FHFA, stated that this was something that his agency never seriously 
+considered (Lockhart 2018, 8–10). See Appendix B for a comparison of the attributes of the 
+three possible solutions and see Wiggins et al. (2021) for further discussion of the 
+conservatorship decision. 
+3. Government officials kept the conservatorship decision secret to prevent the 
+agencies from exerting political pressure.  
+Secretary Paulson identifies secrecy, speed, and timing as the three aspects in the execution 
+of Fannie Mae and Freddie Mac’s conservatorship that avoided a protracted battle with the 
+GSEs, news  leaks to the public , and a major market swing  (Paulson 2010, chap. 1) . After 
+keeping the conservatorship discussion (and later the conservatorship decision) a secret for 
+several weeks, Paulson, FHFA Director Lockhart, and Fed Chairman Ben Bernanke presented 
+the option to Fannie Mae and Freddie Mac’s CEOs with no warning (Paulson 2010, chap. 1). 
+These officials knew that the CEOs might fight to keep their positions and thus gave them no 
+time to publicize the conservatorship  or solicit assistance from their political contacts  on 
+Capitol Hill (Paulson 2010, 75 –76). Paulson feared that if either CEO decided to resist the 
+conservatorship, they could delay its implementation and instigate panic in the markets 
+(Paulson 2010, 75–76). 
+Federal officials also met with  Fannie Mae ’s CEO and executive board first, since they 
+anticipated that Fannie Mae’s team would be more resistant to the idea (Paulson 2010, 83–
+297
+Journal of Financial Crises Vol. 3 Iss. 1
+
+--- Page 19 ---
+84). Federal officials took caution to avoid any press coverage of the event and selected the 
+FHFA’s office as the  location for their private meeting s with Fannie  Mae and Freddie Mac 
+(Paulson 2010, 83 –84). They arranged for the first meeting wi th Fannie Mae to start at 
+4:00pm on Friday, September 5 so that the markets would have closed before the meeting 
+had finished  (Paulson 2010, 83 –84). After each meeting, they informed members of the 
+House Financial Services Committee and Senate Banking Committee, so that they would not 
+be surprised when the news broke to the public  (Paulson 2010, 87 –93). Lockhart and 
+Paulson announced the conservatorships as part of a four-part rescue plan for the GSEs on 
+Sunday, giving the public an opportunity to react before market s reopened on Monday  
+(Paulson 2010, 95–98). 
+4. The FHFA replaced the GSEs’ Boards of Directors and CEOs. 
+When the FHFA placed Fannie Mae and Freddie Mac into conservatorship, it also replaced 
+the firms’  CEOs and appointed new nonexecutive chairmen of the boards (FHFA 2008b). 
+Secretary Paulson expressed the gravity of the intervention to justify firing the GSEs’ CEOs 
+(Paulson 2010, 93–94). When asked for his rationale to fire Fannie Mae’s CEO, he replied, “I 
+don’t think that you could do something this drastic and not change the CEO” (Paulson 2010, 
+93–94). FHFA director Lockhart justified removing the GSE boards  with similar logic  and 
+noted, “Although it is not necessary in a conservatorship, new boards are being formed as a 
+matter of good governance” (Lockhart 2008).  
+As conservator , the FHFA ascended to all authority of the boards and management but 
+eventually delegated some of that authority back to the  new board and management while 
+retaining a right of review (DeMarco 2010, 3–4). Even under conservatorship, in exercising 
+their authority, the GSE officers remained “subject to the legal responsibility to use sound 
+and prudent business judgment in their stewardship of their companies” (DeMarco 2010, 3).  
+5. The FHFA protected all classes of GSE creditors but not shareholders.  
+The FHFA adopted this approach to save money, to increase public confidence in the two 
+GSEs, and most importantly, to keep the GSEs operating. After enacting the conservatorship, 
+the FHFA froze the GSEs’ dividend payments  and shareholder voting rights  (except for 
+Treasury’s senior preferred stock) (Fannie Mae 2008b , 21) . The FHFA  estimated that 
+freezing dividends would save the GSEs about $2 billion  in reserve capital annually (FHFA 
+2008b). The GSE stock remains outstanding, but there is no guarantee that it will be restored 
+to its full right s when the  firms exit  the conservatorships  (Fannie Mae 2008b , 50 ; FHFA 
+2008c, 3).  
+Given Treasury’s funding commitment to guarantee GSE solvency  (up to the stated limits ), 
+the GSE bondholders were protected (Jester et al. 2018, 8 –9). Federal officials recognized 
+that protecting bondholders was critical to minimize immediate risks to the financial system, 
+to protect future investors in debt and MBS , and to quiet any concerns about the 
+government’s credibility (Lockhart 2009; Paulson 2010; UST 2008). On the day after Fannie 
+and Freddie entered conservatorship, FHFA announced that conservatorship did not change 
+the legitimacy of current and future financial contracts (FHFA 2008 a; Lockhart 2008) . 
+Important factors supporting the government’s decision  to protect all holders  of debt and 
+MBS included: (1) the sheer size of the GSEs’  liabilities, (2) the nature of the bondholders , 
+and (3) the GSEs’ close alignment with the government (Jester et al. 2018, 8–9; UST 2008).  
+GSE debt and obligations benefited from an “implied government guarantee,” which helped 
+them enjoy a robust market with their debt being widely held  (Frame et al. 2015, 1) . Much 
+of this debt was held by foreign central banks and foreign and domestic financial institutions 
+298
+The Rescue of Fannie Mae and Freddie Mac –  Module A Thompson and Wiggins
+
+--- Page 20 ---
+that believed that GSEs’ securities were effectively risk-free (UST 2008). Secretary Paulson 
+felt that allowing the international debtholders to suffer losses could undermine foreign 
+investors’ confidence in the United States’ creditworthiness, which could cause a run on the 
+dollar or a Treasury sell -off (CBO 2010, 22; Paulson 201 0, 77 –78). Also, many domestic 
+banks, which were already under stress, held GSE debt due to favorable capit al rules (Rice 
+and Rose 2016, 7–9). 
+The government’s actions, in essence, made the implied guarantee firm, which seems to have 
+increased confidence in the GSEs, which Lockhart  (2008) and Frame et al. (2015, 22) argue 
+is evidenced in falling yields—at least before Lehman Brothers collapsed. (See also Wiggins 
+et al. [2021] for further discussion of these points.)  
+6. The FHFA established a limited infrastructure to manage the conservatorships. 
+To manage the conservatorships, the FHFA established a new infrastructure 11 consisting of 
+the Office of Conservatorship Operations and the Conservatorship Governance Commi ttee 
+(FHFA-OIG 2012a, 20–21). The OCO acted as the liaison and administrator between the GSEs 
+and the FHFA,  relying on FHFA resources to resolve issues  (FHFA-OIG 2012a, 20–21). The 
+CGC was composed of senior FHFA executives whose goal was to “ensure coordination on 
+regulatory or supervisory matters that might need to be brought to the attention of the 
+conservator” (FHFA-OIG 2012a, 21).  
+Because the OCO employed only six people, the OCO also relied on the regulatory resources 
+throughout the FHFA to evaluate the GSEs’ success in achieving these goals and address 
+conservator issues  (FHFA-OIG 2012a , 21; FHFA-OIG 2012b, 22 –23). One audit report 
+highlights the possible tensions that may arise from FHFA’s status as both conservator and 
+supervisor: “For example, FHFA could potentially be faced with criticizing its own actions or 
+those of its senior officials” (FHFA-OIG 2012a, 30). The Office of Inspector General also noted 
+that the conflict was partly addressed by the delegation of most management decisions to 
+the enterprises’ boards and managers (FHFA-OIG 2012a, 30). 
+The FHFA defended its original structure and claimed that the unknown duration of  
+conservatorship prevented the agency from making long -term investments  in its own 
+infrastructure (FHFA-OIG 2012a, 31–32).  
+Nevertheless, the FHFA agreed with most of the OIG recommendations and took steps to 
+implement them (FHFA-OIG 2012b, 31–37). As it became more apparent that the GSEs would 
+not soon exit the conservatorsh ip, the FHFA refined its strategic plans and evaluation 
+mechanisms by developing a reporting scorecard ; establishing an approval tracking and 
+resolution process; and in 2013 , consolidating all conservator functions into a Division of 
+Conservatorship, which employed 25 pe ople as compared to the previous six -person OCO 
+(FHFA-OIG 2012b, 9–11; FHFA-OIG 2015, 11, 14).  
+7. The FHFA managed the conservatorship indirectly, delegating significant 
+authority to the new boards of directors and CEOs. 
+The FHFA’s inspector general (IG) noted that a conservator generally can take one of three 
+approaches: “Actively managing every aspec t of an entity’s operations; Monitoring the 
+conserved entities’ decision -making and stepping in when it feels it is appropriate; or 
+ 
+11 The FHFA described efforts to enhance its governance practices through various white papers and annual 
+reports (FHFA-OIG 2015, 13). 
+299
+Journal of Financial Crises Vol. 3 Iss. 1
+
+--- Page 21 ---
+deferring to the conserved entity on most decisions and stepping in only in cases of greater 
+significance” (FHFA-OIG 2012a, 22). The IG noted that FHFA had taken the third approach.  
+FHFA has determined to (1) delegate authority for general corporate governance and 
+day-to-day matters to the Enterprises’ boards of directors and executive 
+management, and (2) retain authority for certain significant decisions.  (FHFA-OIG 
+2015, 11–12)  
+Within three months of establishing the conservatorship s, the FHFA  had delegated 
+significant authority to the new boards of directors and CEOs (FHFA-OIG 2012a, 22, 30). It 
+did this as an efficient way to run the massive businesses consistent with the tenets of the 
+conservatorship—to manage the firms as going concerns, st abilize them financially, and 
+return them to independent operation (FHFA-OIG 2012a, 23) . However, it ’s important to 
+note that the FHFA  retained authority over a group of key business decision s, for which it 
+required the GSEs to seek prior approval  (FHFA-OIG 2012a , 19 –20). These powers were 
+referred to  as nondelegated authorities  (FHFA-OIG 2012b , 6) . Among other things,  these 
+included capital actions, compensation policies, and other large transactions, including legal 
+settlements, merger activities , and deals with subsidiaries (FHFA-OIG 2012a, 19–20). (See 
+Figure 2 for a summary of the nondelegated authorities.) In addition to specified 
+nondelegated authorities, the FHFA retained the right to review (and to overturn) any other 
+business decision it deemed important along the way (DeMarco 2010, 3–4). 
+The FHFA cited three reasons in defense of its style of conservatorship: efficiency, 
+concordant goals, and operational savings  (FHFA-OIG 2012a, 23–24). The GSE employees 
+knew the business and were well equipped to continue to carry out normal business 
+operations (FHFA-OIG 2012a, 23). The goals of the enterprises were consistent with those of 
+the conservatorships, i.e., return the firms to stability: “FHFA views part of its ‘preserve and 
+conserve’ mandate to include preserving the entities as private companies with the capacity 
+and responsibility to make business decisions following normal corporate governance 
+procedures” (FHFA-OIG 2012b , 31) . Acting Director Edward J. DeMarco suggested that 
+delegating authority to GSEs created operational savings because FHFA avoided duplicating 
+work that the GSEs were already doing (FHFA-OIG 2012a, 23–24). 
+Instead, the FHFA communicated with the GSE employees about the conservatorship and 
+tried to maximize retention (FHFA-OIG 2012a, 13). The OCO and the CGC worked to ensure 
+that the firms were operating in a manner consistent with their delegations of authority, the 
+stated conservator goals, and the overall objectives of the conservatorship  (FHFA-OIG 
+2012a, 20–21). 
+However, the OIG found that the agency’s practices were flawed: 
+FHFA-OIG’s reports consistently have revealed two trends: (1) the Agency, in its role 
+as a conservator, does not independently test and validate Enterprise decision -
+making; and (2) the Agency, in its role as a regulator, is not proactive in its oversight 
+and enforcement.  In addition, FHFA may not have enough examiners to meet its 
+oversight responsibilities. (FHFA-OIG 2012a, 2) 
+As a result of these procedures, the OIG criticized FHFA for not overseeing several major 
+decisions that the GSEs made (FHFA-OIG 2012b, 12–13). These included changes to Fannie’s 
+single-family underwriting standard s and the High Touch Servicing Program , whereby 
+Fannie Mae transferred $1.5  billion in mortgage servicing rights to third -party specialty 
+servicers (FHFA-OIG 2012b, 12–13). The inspector general also found that the agency often 
+failed to question decisions that were submitted to it for approval and relied too often on 
+300
+The Rescue of Fannie Mae and Freddie Mac –  Module A Thompson and Wiggins
+
+--- Page 22 ---
+management’s decision w ithout an independent proof or business case  (FHFA-OIG 2012b, 
+20–22).  
+Additionally, the OIG concluded that the agency c ould better accomplish its oversight 
+mission by proactively exerting greater control over its conservator approval process: 
+Specifically, FHFA -OIG recommends that the Agency: (1) revisit FHFA’s non -
+delegated authorities to ensure that significant Enterprise business decisions are sent 
+to the conservator for approval; (2) guide the Enterprises to establish processes to 
+ensure that actions r equiring conservator approval are properly submitted for 
+consideration; (3) properly analyze, document, and support conservator decisions; 
+and (4) confirm compliance by the Enterprises with conservator decisions.  FHFA 
+agreed with most of FHFA -OIG’s recomme ndations.” (FHFA-OIG 2012b , sec. “At a 
+Glance”)  
+8. The FHFA directed the GSEs to continue fulfilling their statutory purposes, 
+including their support for affordable housing. 
+The GSE intervention was designed to keep the firms in operation so that they could 
+“continue to fulfill their mission of providing stability, liquidity, and affordability to the 
+[mortgage] market” (FHFA 2009a , ii) . As a result, under the conservatorship, the FHFA 
+directed the GSEs to continue their key business operations and MBS securitizations and 
+placed no restrictions on the amount of MBS they could issue or guarantee  (FHFA 2008d, 
+92). Under the SPSPAs, they also were allowed to expand their portfolios  for a short time—
+up to a limit of $850 billion—before having to start reducing them in 2010 (UST/Fannie Mae 
+2008, 9) . The GSEs’ ability to continue operations was especially critical early in the 
+conservatorship; when private-label securitization shrank during the global credit crisis, the 
+GSEs assumed a still larger role in the housing market and purchased a greater proportion 
+of new mortgages (OFHEO 2008, 9–17). 
+The GSEs’ housing mission was also targeted to assist with the government’s wider 
+foreclosure prevention efforts. At the end of 2008, FHFA reported the GSEs were “playing an 
+important role in assisting the federal government in foreclosure mitiga tion activities”  
+(FHFA 2009a, 4). Less than one year  after the conservatorship began, the GSEs started to 
+participate in the Home Affordable Refinance Program  (HARP) and Home Affordable 
+Modification Program (HAMP) (FHFA 2010b, 7–8). HARP and HAMP were intended to serve 
+the dual goals of limiting GSE credit losses and alleviatin g wider mortg age market stress , 
+both of which were important for  the GSEs’ long -term stability  (DeMarco 2010, 5 ; FHFA 
+2009a, 85–87; FHFA 2010b, 7–8). 
+During the mortgage crisis, the government continued to prioritize affordable housing goals 
+and relied on Fannie Mae, Freddie Mac, and the Federal Home Loan Banks to meet them (CBO 
+2010, vii; Lockhart 2009). Through HERA, FHFA received the authority to enforce these goals 
+(which had previously rested with the US Department of Housing and Urban Development) 
+but mandated a change in the way they were structured beginning in 2010 (FHFA 2010b, 3–
+4). Within the first year of  the conservatorship, the FHFA adjusted its affordable housing 
+goals to account for prevailing market conditions (Lockhart 2009). By the end of 2010, a new 
+structure was in place, and the GSEs were required to meet four core single-family goals, one 
+multifamily “special affordable” goal, and two related subgoals, on an annual basis  (FHFA 
+2011, 97). 
+301
+Journal of Financial Crises Vol. 3 Iss. 1
+
+--- Page 23 ---
+9. The FHFA revised the GSEs’ executive compensation  policies while the 
+conservatorship created challenges for employee retention and hiring. 
+Through HERA, the FHFA  had the power to review any decision affecting executive 
+compensation and could amend GSE compensation practices as it saw fit12 (FHFA 2009a, 84). 
+During the conservatorship, acting FHFA Acting Director DeMarco (who replaced Lockhart 
+in September 2009) identified enabling the GSEs to retain and recruit talented executives as 
+key to fulfilling his agency’s mission as conservator (DeMarco 2011). Without competent 
+executives, the two firms were at high risk of running into trouble yet again—an operational 
+risk that could result in more losses and potentially add billions of dollars to the steep price 
+taxpayers already had paid (DeMarco 2011). 
+Early in the conservatorship, the GSEs endured “key person risk” to their human resources 
+(FHFA 2010b , 17 –18, 41) . FHFA officials argue d that p otential downsizing, possible 
+dechartering, and general public scrutiny could  have motivated executives to leav e (FHFA 
+2010b, 17 –18, 41) . To offset its key person risk, the FHFA set out to adjust executive 
+compensation policies to give talented executives more of an incentive to stay (FHFA 2010b, 
+17–18, 41). 
+After consulting with Treasury (including the Special Master for TARP Executive 
+Compensation) and the boards of both firms, and retaining a private consulting firm (Hays 
+Group) to serve as advisor, the FHFA instituted a three -pronged executive compensation 
+policy at both firms (DeMarco 2011). FHFA designed the new system to both motivate high-
+performing executives to stay and curb the GSEs’ pre -conservatorship excesses (DeMarco 
+2011). For example: FHFA prohibited the golden parachutes that were formerly promised to 
+outgoing CEOs and other senior execut ives (DeMarco 2011) . Although prior executive 
+compensation policies included company stock, FHFA pivoted to a cash-only compensation 
+scheme because regulators sought to prevent executives from taking excess risks to raise the 
+low prices of their company shares (DeMarco 2011). 
+The new system provided for three components of executive compensation—(1) base salary, 
+(2) deferred salary, and (3) performance-based incentives—and was modeled after policies 
+put in place at “institutions receiving exceptional TARP assistance” (DeMarco 2011) . 
+Important aspects of these components are highlighted below: 
+• Except for a few top executives, maximum base salaries was set at $500,00—less than 
+half of what they were prior to conservatorship. 
+• Performance-based compensation was determined using only two  years of results 
+given the lack of a clear long-term plan for the firms. 
+• Deferred salary was paid out a year after the base portion and was to be forfeited by 
+officials choosing to leave before the year’s deferred payments were due. 
+ 
+12 These broad authorities over executive compensation were granted as part of the arrangement enabling 
+Treasury to purchase GSE obligations. Like Treasury’s purchasing authority, these powers were temporary and 
+set to expire December 31, 2009. However, on a permanent basis, HERA gave the FHFA other powers over 
+executive compensation, including the authority to withhold executive compensation and prohibit severance 
+payments. For more information, see Sections 1113, 1114, and 1117 of HERA (Public Law 110-289). 
+302
+The Rescue of Fannie Mae and Freddie Mac –  Module A Thompson and Wiggins
+
+--- Page 24 ---
+• Deferred payments made up the largest portion of top executives’ total compensation 
+packages. (DeMarco 2011) 
+In Mar ch 2011, the FHFA-OIG published a report analyzing  the executive compensation 
+policies put in place at both entities and criticized the FHFA for its lack of formal enforcement 
+of the new policies (FHFA-OIG 2011, sec. “At a Glance”). The report advised the FHFA to: (1) 
+make information on GSE executive compensation more accessible to the public (and “more 
+user-friendly”) and (2) develop formal control mechanisms to better enforce the entities’ 
+compliance with the new policies (FHFA-OIG 2011, 20–22). 
+FHFA b alanced the need to attract and retain qualified leadership with mandatory 
+restrictions on executive compensation, which was a challenge  for both the firms and their 
+conservator. In 2019, audits by the FHFA-OIG found that FHFA’s approval of senior executive 
+succession planning at both firms had “acted to circumvent the congressionally mandated 
+cap on CEO compensation”  (FHFA-OIG 2019a , 1 –4; FHFA-OIG 2019b, 1 –5).13 The firms 
+disagreed with the auditor’s conclusions (FHFA-OIG 2019a, 1–4; FHFA-OIG 2019b, 1–5). 
+10.  After enacting the conservatorship, the FHFA maintained transparency. 
+The FHFA has used plans, reports, and scorecards to disseminate information and increase 
+public transparency regarding the conservatorships. On December 15, 2008 , the FHFA 
+released its first annual performance plan, for fiscal year 2009. The plan outlined the FHFA’s 
+objectives for the GSEs and detailed how it would use its resources to achieve those 
+objectives (FHFA 2008e ). Beginning in 2010, the FHFA also released a quarterly 
+Conservator’s Report on the Enterprises’ Financial Performance , which summarized the 
+fiscal health of both enterprises under conservatorship; the report lasted through the first 
+quarter of 2013 (FHFA 2013). In 2012, the FHFA began to release an annual scorecard, which 
+was designed to make the FHFA’s duties and objectives more transparent for the public 
+(FHFA 2012b; FHFA 2021). The FHFA also continued the practice of publishing the GSEs’ 
+annual examination results within the annual reports to Congress. 
+Through its regular reports, the FHFA identified at least two reasons for governing the GSEs 
+transparently: (1) to increase public confidence in the GSEs  and foster secondary mortgage 
+market activity, and (2) to inform taxpayers FHFA’s efforts to prevent foreclosure  (FHFA 
+2008d, 137–46; FHFA 2009b, 61–62). In addition, DeMarco, who replaced Lockhart in 2009 
+as FHFA acting director, acknowledged that taxpayer funds kept Fannie Mae and Freddie 
+Mac in operation  (DeMarco 2010, 3). For this reason, DeMarco pledged to outline how the 
+FHFA had limited, and would continue to limit, GSE losses (DeMarco 2010). Additionally, as 
+the GSEs by their size were systemic in nature, many investors around the world were paying 
+attention to developments with respect to the conservatorships (Paulson 2010, 77–78). 
+III. Evaluation 
+W. Scott Frame et al. (2015) argue that the c onservatorships succeeded as emergency 
+interventions successfully stabilizing the GSEs (30). First, the intervention prevented agency 
+debtholders and MBS holders from experiencing losses at a time when such institutions were 
+already being challenged to navigate the worsening crisis, shielding the vast number of 
+counterparties from negative impacts and containing the GSEs’ weaknesses from bringing 
+ 
+13 See FHFA-OIG 2019a for the latest report on Fannie Mae and FHFA-OIG 2019b for the latest report on Freddie 
+Mac. 
+303
+Journal of Financial Crises Vol. 3 Iss. 1
+
+--- Page 25 ---
+down the entire financial system ( Frame et al. 2015, 26 –27). In addition, a 2010 
+Congressional Budget Office (CBO)  report claimed that, in general, replacing an implicit 
+government guarantee with an explicit guarantee, as was done in the intervention, was likely 
+to improve the liquidity of the GSEs’ MBS by ensuring a more robust market by  attracting a 
+broader and more stable group of investors (CBO 20 10, 17).  However, the report also 
+cautions that other countervailing factors must a lso be considered to gauge the true effect 
+(CBO 2010, 17). 
+Second, the program allowed the GSEs to continue purchasing loans and issuing and 
+guaranteeing MBS, which maintained the flow of funding and helped to stabilize the 
+mortgage market (Frame et al. 2015).  
+Frame et al. (2015) note that the FHFA’s focus on the financial health of the GSEs may have 
+limited the overall mortgage supply ; as t he FHFA urged Fannie Mae and Freddie  Mac to 
+return defaulted mortgages to their originators or sellers, originators tightened 
+underwriting standards (27–28). While stringent underwriting standards  helped to reduce 
+the GSEs’ losses, they also shrank the supply of mortgage credit , which, Frame et al. (2015) 
+argue, contributed to the market’s slow recovery (27–28). In contrast, the Mortgage Bankers 
+Association (MBA) contends that the FHFA’s decision to abolish preferential underwriting 
+standards facilitated small lenders’ higher postcrisis market share of mortgage origination 
+and refinancing (MBA 2017, 6). In addition, Winston Sale argues that the FHFA cut the GSEs’ 
+affordable housing goals to stabilize the market during the crisis (Sale 2009, 300–07). 
+Some scholars find that FHFA actions  have weakened other sectors of the economy.  Tara 
+Rice and Johnathan Rose contend that the conservatorship weakened the ba lance sheets of 
+banks exposed to GSE preferred shares (2016, 86) . They argue that the FHFA’s decision to 
+suspend dividends on preferred shareholders harmed already struggling banks, particularly 
+community banks, which held large quantities of GSE stock (Rice and Rose 2016, 86). Fifteen 
+banks closed because of this decision, the authors suggest, and two more were forced to sell 
+themselves (Rice and Rose 2016, 86).  
+From a  governance and operational standpoint, several audits by the FHFA’s Office of 
+Inspector General found that the FHFA  “can better accomplish its oversight mission by 
+proactively exerting greater control over its conservator approval process ” (FHFA-OIG 
+2012b, sec. “At a Glance”). OIG also found that FHFA did not properly monitor several 
+components of GSE operations, which resulted in both companies  taking inappropriate 
+financial risks (FHFA-OIG 2012b, sec. “At a Glance”) . For example, a 2015 audit note d that 
+the FHFA lacked a formal review process for the GSEs’ com pensatory fee settlements and 
+large mortgaging service transfers  (FHFA-OIG 2015, 15 –16). The OIG also found that the 
+FHFA did not have an apparatus to measure  properly the GSEs’ performance levels  or a 
+system to monitor all company operations  (FHFA-OIG 2015, 15–16). In 2014, for instance, 
+the FHFA did not detect that Fannie Mae and Freddie Mac had over-reimbursed their lender-
+based insurance servicers by approximately $15 9 million ($89 million for Fannie  Mae and 
+$70 million for Freddie Mac) (FHFA-OIG 2015, 16).  
+Other factors cited by the OIG and the FHFA that have impacted the efficacy of the 
+conservatorship: 
+• The unique size of the GSEs, which were factors larger than any other entity to have 
+been previously resolved by the government; 
+• The unique  nature of Fannie Mae and Freddie  Mac as GSEs, which presented 
+operational challenges and limited the conservator’s exit strategies; 
+304
+The Rescue of Fannie Mae and Freddie Mac –  Module A Thompson and Wiggins
+
+--- Page 26 ---
+• The fact that the FHFA  was a newly established agency, which at the time of the 
+conservatorship was forming itself; 
+• Significant turnover of GSE personnel, particularly at the management levels, despite 
+retention efforts; and 
+• Tensions between the FHFA’s role as regulator and conservator . (FHFA-OIG 2012a, 
+26–33) 
+Scholars generally find that the conservatorship has been unsatisfactory with respect to the 
+longer-term objective of resolving the GSEs’ structural issues and removing the enterprises 
+from conservatorship (Frame et al. 2015, 27–30). Despite the government’s intention to use 
+the conservatorship temporarily, they remain in effect more than 12 years later.  
+While the GSEs continue to operate under conservatorship , Congress has yet to resolve the 
+longer-term questions of how to terminate the conservatorships or what would be a  new 
+form for the entities  (Frame et al. 2015, 30 ). The FHFA cannot discharge the GSEs from 
+conservatorship without Treasury’s approval , and all parties seem to agree that releasing 
+the GSEs from the conservatorship in their current form , with their quasi-public/private 
+hybridity and implicit government guarantee intact , would not be ideal  (FHFA-OIG 2012a, 
+31–32). It is unlikely that the conservatorships will end until Congress agrees on what form 
+the entities should have upon release from the FHFA’s control (FHFA-OIG 2015, 6). 
+Despite these views, Jester et al. are of the opinion that enacting the conservatorships 
+without developing a plan to exit them was entirely appropriate at the time, as the Treasury 
+was focused on stemming the crisis rather than solving the broader policy issues that had 
+helped to instigate the GSEs’ demise (Jester et al. 2018, 16–17).  
+IV. References 
+Board of Governors of the Federal Reserve System  (BGFRS). 2008. “Discount Window 
+Lending: Proposal to Lend to Fannie Mae and Freddie Mac through Advances Secured by 
+Obligations of the United States or Any U.S. Agency.”   
+https://ypfs.som.yale.edu/library/discount-window-lending-proposal-lend-fannie-mae-
+and-freddie-mac-through-advances-secured. 
+Congressional Budget Office (CBO). 2010. “Fannie Mae, Freddie Mac, and the Federal Role in 
+the Secondary Mortgage Market.” Pub. No. 4021. December 2010.   
+https://ypfs.som.yale.edu/node/3363. 
+DeMarco, Edward J. 2010. “Letter to Congress,” February 2, 2010.   
+https://ypfs.som.yale.edu/node/3433. 
+———. 2011. “Statement of Edward J. DeMarco before the U.S. House Committee on 
+Oversight and Government Reform.” Federal Housing Finance Agency. November 16, 2011.  
+https://ypfs.som.yale.edu/library/statement-edward-j-demarco-us-house-committee-
+oversight-and-government-reform. 
+Elliott, Douglas J. 2009. “Bank Nationalization: What Is It? Should We Do It?” Brookings 
+Institution. February 26, 2009.   
+https://ypfs.som.yale.edu/library/bank-nationalization-what-it-should-we-do-it. 
+305
+Journal of Financial Crises Vol. 3 Iss. 1
+
+--- Page 27 ---
+Federal Home Loan Mortgage Corporation (Freddie Mac). 2008. “Monthly Volume Summary: 
+December 2008.” US Securities and Exchange Commission.   
+https://ypfs.som.yale.edu/library/freddie-mac-monthly-volume-summary-december-
+2008. 
+———. 2009. “Form 10-K.” US Securities and Exchange Commission. December 31, 2009.   
+https://ypfs.som.yale.edu/library/freddie-mac-form-10-k-december-31-2009. 
+———. 2010. “Monthly Volume Summary: December 2010.” US Securities and Exchange 
+Commission.   
+https://ypfs.som.yale.edu/library/freddie-mac-monthly-volume-summary-december-
+2010. 
+———. 2012. “Monthly Volume Summary: December 2012.” US Securities and Exchange 
+Commission.   
+https://ypfs.som.yale.edu/library/freddie-mac-monthly-volume-summary-december-
+2012. 
+———. 2014. “Monthly Volume Summary: December 2014.” US Securities and Exchange 
+Commission.   
+https://ypfs.som.yale.edu/library/freddie-mac-monthly-volume-summary-december-
+2014. 
+———. 2016. “Monthly Volume Summary: December 2016.” US Securities and Exchange 
+Commission.   
+https://ypfs.som.yale.edu/library/freddie-mac-monthly-volume-summary-december-
+2016. 
+Federal Housing Finance Agency (FHFA). n.d.-a. “Conservatorship.” Accessed March 2, 2021.  
+https://ypfs.som.yale.edu/library/fhfa-website-conservatorship. 
+———. n.d. -b. “Residential Mortgage Debt Outstanding —Enterprise Share, 1990 –2010.” 
+Accessed March 29, 2021.  
+https://ypfs.som.yale.edu/library/federal-housing-finance-agency-market-data. 
+———. 2 008a. “Press Release: Statement of FHFA Regarding Contracts of Enterprises in 
+Conservatorship.” September 7, 2008.   
+https://ypfs.som.yale.edu/library/statement-fhfa-regarding-contracts-enterprises-
+conservatorship. 
+ 
+———. 2008 b. “Statement of FHFA Director James B. Lockhart.”  September 7, 2008 .  
+https://ypfs.som.yale.edu/library/statement-fhfa-director-james-b-lockhart. 
+———. 2008c. “Fact Sheet: Questions and Answers on Conservatorship.” September 9, 2008. 
+  
+https://ypfs.som.yale.edu/library/fact-sheet-questions-and-answers-conservatorship. 
+———. 2008d. “Performance and Accountability Report 2008.” November 17, 2008.   
+https://ypfs.som.yale.edu/node/3375. 
+———. 2008e. “FY 2009 Performance Plan.” December 15, 2008.   
+https://ypfs.som.yale.edu/library/fy-2009-performance-plan. 
+306
+The Rescue of Fannie Mae and Freddie Mac –  Module A Thompson and Wiggins
+
+--- Page 28 ---
+———. 2009a. “Report to Congress 2008, Revised.” May 18, 2009.   
+https://ypfs.som.yale.edu/library/report-congress-2008-revised. 
+———. 2009b. “Performance and Accountability Report 2009.” November 16, 2009.   
+https://ypfs.som.yale.edu/node/3376. 
+———. 2010a. “Market Data.” 2010.   
+https://ypfs.som.yale.edu/library/federal-housing-finance-agency-market-data. 
+———. 2010b. “Report to Congress 2009.” May 25, 2010.   
+https://ypfs.som.yale.edu/library/fhfa-annual-report-congress-2009. 
+———. 2011. “Report to Congress 2010.” June 13, 2011.   
+https://ypfs.som.yale.edu/library/fhfa-report-congress-2010. 
+———. 2012a. “A Strategic Plan for Enterprise Conservatorships: The Next Chapter in a 
+Story That Needs an Ending.” February 21, 2012.   
+https://ypfs.som.yale.edu/library/strategic-plan-enterprise-conservatorships-next-
+chapter-story-needs-ending. 
+———. 2012b. “2012 Conservatorship Scorecard.” March 9, 2012.   
+https://ypfs.som.yale.edu/node/3396. 
+———. 2012c. “Performance and Accountability Report 2012.” November 15, 2012.   
+https://ypfs.som.yale.edu/node/3379. 
+———. 2013. “Conservator ’s Report on the Enterprises’ Financial Performance.” About 
+FHFA: Reports & Plans. 2013.   
+https://ypfs.som.yale.edu/library/fhfa-website-conservatorship-reports-enterprises-
+financial-performance. 
+———. 2014. “The 2014 Strategic Plan for the Conservatorships of Fannie Mae and Freddie 
+Mac.” May 13, 2014.   
+https://ypfs.som.yale.edu/library/2014-strategic-plan-conservatorships-fannie-mae-and-
+freddie-mac. 
+———. 2019. “Treasury and Federal Reserve Purchase Programs for GSE and Mortgage -
+Related Securities.” September 30, 2019.   
+https://ypfs.som.yale.edu/library/fhfa-treasury-and-federal-reserve-purchase-programs-
+gse-and-mortgage-related-securities. 
+———. 2021. “Scorecard for Fannie Mae, Freddie Mac, and Common Securitization 
+Solutions.” About FHFA: Reports & Plans. 2021.   
+https://ypfs.som.yale.edu/library/fhfa-website-scorecard-fannie-mae-freddie-mac-and-
+common-securitization-solutions. 
+Federal Housing Finance Agency, Office of Inspector General (FHFA-OIG). 2011. “Evaluation 
+of Federal Housing Finance Agency’s Oversight of Fannie Mae’s and Freddie Mac’s Executive 
+Compensation Programs.” Evaluation Report EVL-2011-002. March 21, 2011.   
+https://ypfs.som.yale.edu/library/fhfa-oig-evaluation-federal-housing-finance-agencys-
+oversight-fannie-maes-and-freddie-macs. 
+307
+Journal of Financial Crises Vol. 3 Iss. 1
+
+--- Page 29 ---
+———. 2012a. “FHFA-OIG’s Current Assessment of FHFA’s Conservatorships of Fannie Mae 
+and Freddie Mac.” White Paper WPR-2012-001. March 28, 2012.   
+https://ypfs.som.yale.edu/node/3417. 
+———. 2012b. “FHFA’s Conservator Approval Process for Fannie Mae and Freddie Mac 
+Business Decisions.” Audit AUD-2012-008. September 27, 2012.   
+https://ypfs.som.yale.edu/node/4351. 
+———. 2015. “FHFA’s Conservatorships of Fannie Mae and Freddie Mac: A Long and 
+Complicated Journey.” White Paper WPR-2015-002. March 25, 2015.   
+https://ypfs.som.yale.edu/library/fhfas-conservatorships-fannie-mae-and-freddie-mac-
+long-and-complicated-journey. 
+———. 2019a. “FHFA’s Approval of Senior Executive Succession Planning at Fannie Mae 
+Acted to Circumvent the Congressionally Mandated Cap on CEO Compensation.” Evaluation 
+Report EVL-2019-001. March 26, 2019.   
+https://ypfs.som.yale.edu/library/fhfas-approval-senior-executive-succession-planning-
+fannie-mae-acted-circumvent. 
+———. 2019b. “FHFA’s Approval of Senior Executive Succession Planning at Freddie Mac 
+Acted to Circumvent the Congressionally Mandated Cap on C EO Compensation.” Evaluation 
+Report EVL-2019-002. March 26, 2019.   
+https://ypfs.som.yale.edu/library/fhfas-approval-senior-executive-succession-planning-
+freddie-mac-acted-circumvent. 
+Federal National Mortgage Association (Fannie Mae). 2008a. “Monthly Summary: December 
+2008.” US Securities and Exchange Commission.   
+https://ypfs.som.yale.edu/library/fannie-mae-monthly-summary-december-2008. 
+———. 2008b. “Form 10-K.” US Securities and Exchange Commission. December 31, 2008.   
+https://ypfs.som.yale.edu/library/fannie-mae-2008-10-k. 
+———. 2009. “Form 10-K.” US Securities and Exchange Commission. December 31, 2009.   
+https://ypfs.som.yale.edu/library/fannie-mae-form-10-k-december-31-2009. 
+———. 2010. “Monthly Summary: December 2010.” US Securities and Exchange 
+Commission.   
+https://ypfs.som.yale.edu/library/fannie-mae-monthly-summary-december-2010. 
+———. 2012. “Monthly Summary: December 2012.” US Securities and Exchange 
+Commission.   
+https://ypfs.som.yale.edu/library/fannie-mae-monthly-summary-december-2012. 
+———. 201 4. “Monthly Summary: December 2014.” US Securities and Exchange 
+Commission.   
+https://ypfs.som.yale.edu/library/fannie-mae-monthly-summary-december-2014. 
+———. 2016. “Monthly Summary: December 2016.” US Securities and Exchange 
+Commission.   
+https://ypfs.som.yale.edu/library/fannie-mae-monthly-summary-december-2016. 
+Federal Open Market Committee  (FOMC). 2008. “Minutes of the Federal Open Market 
+Committee.” September 16, 2008.   
+308
+The Rescue of Fannie Mae and Freddie Mac –  Module A Thompson and Wiggins
+
+--- Page 30 ---
+https://ypfs.som.yale.edu/library/minutes-federal-open-market-committee-september-
+16-2008. 
+Financial Crisis Inquiry Commission  (FCIC). 2011a. “Chapter 3: Securitization and 
+Derivatives.” In The Financial Crisis Inquiry Report: Final Report of the National Commission 
+on the Causes of the Financial and Economic Crisis in the United States , 38–51. Washington: 
+US Government Printing Office. January 27, 2011.   
+https://ypfs.som.yale.edu/node/3488. 
+———. 2011b. “Chapter 7: The Mortgage Machine.” In The Financial C risis Inquiry Report: 
+Final Report of the National Commission on the Causes of the Financial and Economic Crisis in 
+the United States, 102–26. Washington: US Government Printing Office. January 27, 2011.   
+https://ypfs.som.yale.edu/node/3492. 
+———. 2011c. “Chapter 17: The Takeover of Fannie Mae and Freddie Mac.” In The Financial 
+Crisis Inquiry Report: Final Report of the National Commission on the Causes of the Financial 
+and Economic Crisis in the United States , 309 –23. Washington: US Government Printing 
+Office. January 27, 2011.   
+https://ypfs.som.yale.edu/node/3340. 
+Frame, W. Scott, Andreas Fuster, Joseph Tracy, and James Vickery. 2015. “The Rescue of 
+Fannie Mae and Freddie Mac.” Federal Reserve Bank of New York Staff Reports  No. 719 
+(March).  
+https://ypfs.som.yale.edu/node/3415. 
+Harting, Bruce. 2008. “GSEs: Risks, Rewards, and Imperatives.” Lehman Brothers Equity 
+Research. July 7, 2008. 
+Housing and Economic Recovery Act of 2008 (HERA 2008). 2008. Public Law 110-289. July 
+30, 2008.   
+https://ypfs.som.yale.edu/library/housing-and-economic-recovery-act-2008. 
+Jester, Dan, Matthew Kabaker, Jeremiah Norton, and Lee Sachs. 2018. “Rescuing the 
+Mortgage Giants.” Brookings Institution, Yale University School of Management: Program on 
+Financial Stability.   
+https://ypfs.som.yale.edu/node/3925. 
+Lockhart, James B., III. 2008. “The Appointment of FHFA as Conservator for Fannie Mae and 
+Freddie Mac. Testimony for Senate Committee on Banking, Housing, and Urban Aff airs.” 
+Federal Housing Finance Agency. September 23, 2008.   
+https://ypfs.som.yale.edu/node/3405. 
+———. 2009. “Meeting the Challenges of the Financial Crisis.” Federal Housing Finance 
+Agency. March 18, 2009.   
+https://ypfs.som.yale.edu/library/meeting-challenges-financial-crisis. 
+———. 2018. Yale Program on Financial Stability Lessons Learned Oral History Project: An 
+Interview with James B. Lockhart III by Rosalind Z. Wiggins, Benjamin Henken, and Dan iel 
+Thompson. June 14, 2018.   
+https://ypfs.som.yale.edu/index.php/library/ypfs-%20lesson-learned-oral-history-
+project-interview-james-lockhart. 
+309
+Journal of Financial Crises Vol. 3 Iss. 1
+
+--- Page 31 ---
+Mortgage Bankers Association  (MBA). 2017. “GSE Reform: Creating a Sustainable, More 
+Vibrant Secondary Mortgage Market.” April 2017.   
+https://ypfs.som.yale.edu/node/4371. 
+Office of Federal Housing Enterprise Oversight  (OFHEO). 2008. “Report to Congress 2008.”  
+April 15, 2008.   
+https://ypfs.som.yale.edu/library/ofheo-2008-ofheo-report-congress. 
+Paulson, Henry M., Jr . 2010. On the Brink: Inside th e Race to Stop the Collapse of the Global 
+Financial System. New York: Business Plus, Hachette Book Group. February 1, 2010.   
+https://ypfs.som.yale.edu/library/brink-inside-race-stop-collapse-global-financial-system. 
+Rice, Tara, and Jonathan Rose. 2016. “W hen Good Investments Go Bad: The Contraction in 
+Community Bank Lending after the 2008 GSE Takeover.” Journal of Financial Intermediation 
+27 (March).   
+https://ypfs.som.yale.edu/node/3419. 
+Sale, Winston. 2009. “Effect of the Conservatorship of Fannie Mae and Freddie Mac on 
+Affordable Housing.” Journal of Affordable Housing & Community Development 18, no. 3.   
+https://ypfs.som.yale.edu/node/3420. 
+Solomon, Steven Davidoff, and David Zaring. 20 15. “After the Deal: Fannie, Freddie, and the 
+Financial Crisis Aftermath.” Boston University Law Review 95 (March): 371–426.   
+https://ypfs.som.yale.edu/node/3364. 
+Thompson, Daniel. 2021. “The Rescue of Fannie Mae and Freddie Mac – Module B: The Senior 
+Preferred Stock Purchase Agreements (SPSPAs).” Journal of Financial Crises 3, no. 1.  
+https://elischolar.library.yale.edu/journal-of-financial-crises/. 
+ 
+Thompson, Daniel and Adam Kulam. 2021. “The Rescue of Fannie Mae and Freddie Mac – 
+Module E: The Housing and Economic Recovery Act of 2008.” Journal of Financial Crises  3, 
+no. 1. 
+https://elischolar.library.yale.edu/journal-of-financial-crises/. 
+ 
+US Department of the Treasury  (UST). 2008. “Press Release: Statement by Secretary Henry 
+M. Paulson, Jr. on Treasury and Federal Housing Finance Agency Action to Protect Financial 
+Markets and Taxpayers.” September 7, 2008.   
+https://ypfs.som.yale.edu/library/statement-secretary-henry-m-paulson-jr-treasury-and-
+federal-housing-finance-agency-action-0. 
+———. 2011. “Reforming America’s Housing Finance Market: A Report to Congress.”  
+February 2011.   
+https://ypfs.som.yale.edu/library/reforming-americas-housing-finance-market. 
+US Department of the Treasury and Federal National Mortgage Association  (UST/Fannie 
+Mae). 2008. “Amended and Restated Senior Preferred Stock Purchase Agreement: Fannie 
+Mae.” Federal Housing Finance Agency. September 26, 2008.   
+https://ypfs.som.yale.edu/library/document/amended-and-restated-senior-preferred-
+stock-purchase-agreement. 
+Vergara, Emily. 2021. “The Rescue of Fannie Mae and Freddie Mac – Module C: GSE Credit 
+Facility.” Journal of Financial Crises 3, no. 1. 
+https://elischolar.library.yale.edu/journal-of-financial-crises/. 
+ 
+310
+The Rescue of Fannie Mae and Freddie Mac –  Module A Thompson and Wiggins
+
+--- Page 32 ---
+Wiggins, Rosalind  Z., Benjamin Henken,  Daniel Thompson , Adam Kulam, and Andrew 
+Metrick, 2021. “The Rescue of Fannie Mae and Freddie Mac – Module Z: Overview.” Journal 
+of Financial Crises 3, no. 1. 
+https://elischolar.library.yale.edu/journal-of-financial-crises/. 
+ 
+Zanger-Tishler, Michael, and Rosalind  Z. Wiggins. 2021. “The Rescue of Fannie Mae and 
+Freddie Mac – Module D: Treasury’s GSE MBS Purchase Program.” Journal of Financial Crises 
+3, no. 1. 
+https://elischolar.library.yale.edu/journal-of-financial-crises/. 
+V. Key Program Documents 
+Summary of Program 
+Christopher Dickerson to James B. Lockhart: Proposed Appointment of the Federal Housing 
+Finance Agency as Conservator for Fannie Mae (09/06/2008) – Memo from Christopher 
+Dickinson to James Lockhart that includes reasons for conservatorship and the background of 
+the case.   
+https://ypfs.som.yale.edu/node/3373. 
+Christopher Dickerson to Daniel Mudd (09/04/2008) – Midyear report that classifies Fannie 
+Mae as critically undercapitalized, which would give FHFA Director Lockhart discretion to take 
+Fannie Mae into receivership (see Key Design Decision No. 2 for more information).   
+https://ypfs.som.yale.edu/library/fhfa-dickerson-ltr-fannie-mae-mudd-mid-year-letter. 
+Christopher Dickerson to Richard Syron (09/04/2008)  – Midyear report that classifies 
+Freddie Mac as critically undercapitalized, which would give FHFA Director Lockhart 
+discretion to take Freddie Mac into rece ivership (see Key Design Decision No. 2 for more 
+information).  
+https://ypfs.som.yale.edu/library/fhfa-dickerson-ltr-freddie-mac-syron-mid-year-letter. 
+Fact Sheet: Questions and Answers on Conservatorship (09/07/2008) – Defines conservator, 
+its function, goals, and other generally asked questions.  
+https://ypfs.som.yale.edu/library/fact-sheet-questions-and-answers-conservatorship. 
+Implementation Documents 
+Conservatorship Strategic Plan 2012  – Focuses on shrinking the GSEs’ role in the mortgage 
+market while continuing to provide an adequate supply to the market.   
+https://ypfs.som.yale.edu/library/strategic-plan-enterprise-conservatorships-next-
+chapter-story-needs-ending. 
+Conservatorship Strategic Plan 2014  – Focuses less attention on reducing the size of Fannie 
+and Freddie’s market share.   
+https://ypfs.som.yale.edu/library/2014-strategic-plan-conservatorships-fannie-mae-and-
+freddie-mac. 
+Letter: Edward DeMarco to Committee on Banking, Housing and Urban Affairs and 
+Committee on Financial Services (DeMarco 2010) – Outlines the FHFA’s commitment to scale 
+back the GSEs ’ portfolios and establish a new process for product review .  
+https://ypfs.som.yale.edu/node/3433. 
+311
+Journal of Financial Crises Vol. 3 Iss. 1
+
+--- Page 33 ---
+Legal/Regulatory Guidance 
+Emergency Economic Stabilization Act  of 2008  (§1424) – Mandates that the FHFA act to 
+prevent foreclosures.   
+https://ypfs.som.yale.edu/node/3365. 
+Housing and Economic Recovery Act of 2008 ( HERA 2008, §1117) – Legally authorizes the 
+FHFA to take Fannie and Freddie into a conservatorship.   
+https://ypfs.som.yale.edu/library/housing-and-economic-recovery-act-2008. 
+Press Releases/Announcements 
+Meeting the Challenges of the Financial Crisis (Lockhart 2009) – Outlines actions taken by the 
+FHFA, Treasury, and the Fed in the first six months of conservatorship.   
+https://ypfs.som.yale.edu/library/meeting-challenges-financial-crisis 
+Statement by Secretary Henry M. Paulson, Jr. on Treasury and Federal Housing Finance 
+Agency Action to Protect Financial Markets and Taxpayers ( UST 2008) – Treasury press 
+release that announces the four-part rescue plan for the GSEs, including the conservatorship.   
+https://ypfs.som.yale.edu/library/statement-secretary-henry-m-paulson-jr-treasury-and-
+federal-housing-finance-agency-action-0. 
+Statement of FHFA Regarding Contracts of Enterprises in Conservatorship (FHFA 2008 a) – 
+Asserts that both GSEs will honor existing contracts and are able to enter new contracts.   
+https://ypfs.som.yale.edu/library/statement-fhfa-regarding-contracts-enterprises-
+conservatorship. 
+The Appointment of FHFA as Conservator for Fannie Mae and Freddie Mac (Lockhart 2008) 
+– Outlines the weaknesses of OFHEO (former GSE regulator) and explains why the FHFA decided 
+to enter Fannie and Freddie into a conservatorship.   
+https://ypfs.som.yale.edu/node/3405. 
+Media Stories 
+As Crisis Grew, a Few Options Shrank to One (09/07/2008) – Generally represents the media 
+reaction and level of public understanding just after the conservatorship was enacted.   
+https://ypfs.som.yale.edu/library/crisis-grew-few-options-shrank-one. 
+In Rescue to Stabilize Lending, U.S. Takes over Mortgage Finance Titans (Stephen Labaton 
+and Edmund L. Andrews, 09/08/2008) – Generally represents the media reaction and level of 
+public understanding just after the conservatorship was enacted.   
+https://ypfs.som.yale.edu/library/rescue-stabilize-lending-us-takes-over-mortgage-
+finance-titans. 
+Key Academic Papers 
+After the Deal: Fannie, Freddie, and the Financial Crisis Aftermath  (Solomon and Zaring 
+2015) – Explains the legal ramifications of the co nservatorship, with particular emphasis on 
+the 2012 amendment.   
+https://ypfs.som.yale.edu/node/3364. 
+Effect of the Conservatorship of Fannie Mae and Freddie Mac on Affordable Housing (Sale 
+2009) – Explains how the conservatorship affected the GSEs’ affordable housing goals.   
+https://ypfs.som.yale.edu/node/3420. 
+312
+The Rescue of Fannie Mae and Freddie Mac –  Module A Thompson and Wiggins
+
+--- Page 34 ---
+The Rescue of Fannie Mae and Freddie Mac (Frame  et al. 2015) –Addresses the causes of the 
+conservatorship and evaluates the program’s efficacy in the short run and the long run.   
+https://ypfs.som.yale.edu/node/3415. 
+When Good Investments Go Bad: The Contraction in Community Bank Lending after the 
+2008 GSE Takeover (Rice and Rose 2016)  – Examines and evaluates the effects the 
+conservatorship, mainly from the perspective of banks.   
+https://ypfs.som.yale.edu/node/3419. 
+Reports/Assessments 
+2008 Annual Report to Congress ( OFHEO 2008) – Covers basic operations, market 
+contractions, financial health of the GSEs, and risk. See subsequent years’ reports below.   
+https://ypfs.som.yale.edu/library/ofheo-2008-ofheo-report-congress. 
+2008, Revised (FHFA 2009a).   
+https://ypfs.som.yale.edu/library/report-congress-2008-revised. 
+2009 (FHFA 2010b).   
+https://ypfs.som.yale.edu/library/fhfa-2009-report-congress. 
+2010 (FHFA 2011).   
+https://ypfs.som.yale.edu/library/fhfa-report-congress-2010. 
+2011 (FHFA 06/13/2012).   
+https://ypfs.som.yale.edu/node/3390. 
+2012 (FHFA 06/13/2013).   
+https://ypfs.som.yale.edu/node/3391. 
+2013 (FHFA 06/13/2014).   
+https://ypfs.som.yale.edu/node/3392. 
+2014 (FHFA 06/15/2015).   
+https://ypfs.som.yale.edu/node/3393. 
+2015 (FHFA 06/15/2016).   
+https://ypfs.som.yale.edu/node/3394. 
+2016 (FHFA 06/15/2017).   
+https://ypfs.som.yale.edu/node/3395. 
+2008 Performance and Accountability Report  (FHFA 2008d) – Describes factors leading up 
+to conservatorship, operations of the FHFA, goals of the FHFA, and management strategies. See 
+subsequent years’ reports below.   
+https://ypfs.som.yale.edu/node/3375. 
+2009 (FHFA 2009b).   
+https://ypfs.som.yale.edu/node/3376. 
+2010 (FHFA 11/15/2010).   
+https://ypfs.som.yale.edu/node/3377. 
+313
+Journal of Financial Crises Vol. 3 Iss. 1
+
+--- Page 35 ---
+2011 (FHFA 11/14/2011).  
+https://ypfs.som.yale.edu/node/3378. 
+2012 (FHFA 2012c).   
+https://ypfs.som.yale.edu/node/3379. 
+2013 (FHFA 12/16/2013).  
+https://ypfs.som.yale.edu/node/3379. 
+2014 (FHFA 11/17/2014).  
+https://ypfs.som.yale.edu/node/3381. 
+2015 (FHFA 11/16/2015).  
+https://ypfs.som.yale.edu/node/3382. 
+2016 (FHFA 11/15/2016).  
+https://ypfs.som.yale.edu/node/3383. 
+2012 Conservatorship Scorecard (FHFA 2012b) – Establishes objectives and schedules to meet 
+the goals outlined in the FHFA’s strategic plans. See subsequent years’ scorecards below.   
+https://ypfs.som.yale.edu/node/3396. 
+2013 (FHFA 03/04/2013).  
+https://ypfs.som.yale.edu/library/conservatorship-strategic-plan-performance-goals-
+2013. 
+2014 Scorecard for Fannie Mae, Freddie Mac, and Common Securitization Solutions  (FHFA 
+05/13/2014). 
+https://ypfs.som.yale.edu/node/3398. 
+2015 (FHFA 01/14/2015).  
+https://ypfs.som.yale.edu/node/3399. 
+2016 (FHFA 12/17/2015).  
+https://ypfs.som.yale.edu/node/3400. 
+Fannie Mae, Freddie Mac, and the Federal Role in the Sec ondary Mortgage Market (CBO 
+2010) – Analyzes reasons for federal involvement in the secondary mortgage market and 
+provides alternative approaches for the future of the secondary mortgage market.   
+https://ypfs.som.yale.edu/node/3363. 
+GSE Reform: Creating a Sustainable, More Vibrant Secondary Mortgage Market (MBA 2017) 
+– Develops a new GSE structure that could be sustainable for the GSEs after the conservatorship. 
+  
+https://ypfs.som.yale.edu/node/4371. 
+Housing Finance at a Glance: A Monthly Chartbook [sic] (Urban Institute 01/2016) – Includes 
+annualized data on market indicators, GSE portfolios limits, mortgage originations, et cetera.   
+https://ypfs.som.yale.edu/library/housing-finance-glance-monthly-chartbook. 
+  
+314
+The Rescue of Fannie Mae and Freddie Mac –  Module A Thompson and Wiggins
+
+--- Page 36 ---
+Development of this case study has been supported by a generous grant from the Alfred  P. 
+Sloan Foundation to the Yale Program on Financial Stability. 
+Copyright 2015, 2016, 2020, 2021 © Yale University. All rights reserved. To order copies of 
+this material or to receive permission to reprint any or all of this document, please contact 
+the Yale Program on Financial Stability at ypfs@yale.edu.  
+  
+315
+Journal of Financial Crises Vol. 3 Iss. 1
+
+--- Page 37 ---
+VI. Appendixes 
+Appendix A: Changes to Company Focus under Conservatorship 
+ 
+ 
+Source: Fannie Mae 2008b. 
+ 
+316
+The Rescue of Fannie Mae and Freddie Mac –  Module A Thompson and Wiggins
+
+--- Page 38 ---
+Appendix B: Rescue Options (after the Passage of HERA) 
+ Nationalization Receivership Conservatorship 
+Legal authority HERA  HERA HERA 
+Overseer Secretary of 
+Treasury 
+FHFA directorˡ FHFA directorˡ 
+Agency  Treasury  FHFA FHFA 
+Discretionary 
+appointment 
+Yes Yes² Yes² 
+Mandatory 
+enactment 
+No Yesᵌ  
+(1) GSE could not pay back 
+debt (60 calendar days; 30 
+days if classified as 
+“critically 
+undercapitalized”) 
+(2) GSE assets were less 
+than outstanding debt 
+No 
+Rights Negotiated right to 
+appoint directors 
+and approve certain 
+aspects of company 
+as negotiated in 
+contract providing 
+for equity injection 
+or liquidity 
+assistance 
+All company operations; 
+subpoena rights 
+All company operations; 
+subpoena rights 
+Powers Customary 
+authority as 
+negotiated: e.g., 
+limits on payment of 
+dividends, mergers, 
+acquisitions, sale of 
+assets, change in 
+business, executive 
+compensation, 
+approval of 
+conservatorship or 
+receivership 
+without Treasury 
+approval 
+All powers of 
+shareholders, officers, and 
+directors with respect to 
+the GSE and its assets 
+All powers of 
+shareholders, officers, 
+and directors with 
+respect to the GSE and its 
+assets 
+Main duties Monitor company 
+compliance with 
+guiding contact 
+Prepare for 
+liquidation/restructuring4  
+Maintain the GSEs’ 
+solvency and preserve 
+their assets and property 
+Receivership option Possible N/A Yes 
+Liquidation option No Yes No 
+Bridge entity Possible Yes, if organizing a new 
+enterprise 
+No 
+317
+Journal of Financial Crises Vol. 3 Iss. 1
+
+--- Page 39 ---
+ˡ In consultation with the chairman of the Federal Reserve. 
+² FHFA director could take either GSE into conservatorship or receivership for any of the 
+following reasons: (a) Assets were less than its obligations; (b) substantial dissipation of 
+assets; (c) unsafe or unsound condition; (d) cease and desist orders; (e) concealment or 
+refusal to provide the books, papers, etc.; (f) inability to pay obligations or meet the demands 
+of creditors; (g) losses that would deplete capital, with little chance of recapitalization; (h) 
+any legal violations; (i) by request of its board of directors or shareholders; (j) 
+undercapitalization; (k) critical undercapitalization; and/or (l) money laundering. 
+ᵌ At the discretion of the FHFA director. 
+4 In order to restructure the GSEs into new entities, the FHFA and Treasury required 
+congressional approval to revoke the GSEs’ charters. Until that point, the charter would 
+remain in the bridge entity.  
+Compiled by Daniel Thompson. 
+Sources for receivership and conservatorship: HERA 2008, Frame et al. 2015. 
+Sources for nationalization: Elliott 2009, Frame et al. 2015. 
+ 
+Rights and claims of 
+stockholders and 
+creditors to GSE 
+assets 
+Subject to Treasury 
+rights under 
+governing contract. 
+Usually conscribed 
+Terminates automatically, 
+except for those related to 
+payment, which falls to the 
+FHFA director’s discretion 
+At discretion of FHFA 
+director 
+Option of parties to 
+net, terminate, or 
+liquidate assets  
+Possible Yes (after 5pm the 
+following day) 
+No 
+GSE assets and 
+liabilities 
+Remain on GSE 
+balance sheet if 
+Treasury control is 
+<80%. If Treasury 
+interest is ≥80%, 
+would be 
+consolidated onto 
+government’s 
+balance sheet. 
+GSE charters, assets in 
+danger of default, and 
+liabilities in danger of 
+default would be 
+transferred to a limited-
+life entity  
+Remain on GSE balance 
+sheet 
+Treasury’s 
+emergency authority 
+(expiring December 
+31, 2009) 
+Effects funding 
+unless keepwell-
+type funding 
+agreement 
+Effects funding unless 
+keepwell-type funding 
+agreement 
+Effects funding unless 
+keepwell-type funding 
+agreement 
+Termination At discretion of US 
+Treasury but 
+subject to 
+application of FHFA 
+time periods 
+(1) Liquidation 
+(2) Two years after the 
+creation of the bridge 
+entity (could be extended 
+three more years)  
+(1) Receivership  
+(2) At discretion of FHFA 
+and Treasury 
+318
+The Rescue of Fannie Mae and Freddie Mac –  Module A Thompson and Wiggins

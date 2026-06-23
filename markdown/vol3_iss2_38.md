@@ -1,0 +1,61 @@
+## Yale Program on Financial Stability Lessons Learned 
+
+## Neel Kashkari 
+
+By Yasemin Sim Esmen 
+
+_Neel Kashkari was the Interim Assistant Secretary of the Treasury for Financial Stability between October 2008 and May 2009. He oversaw the architecture and administration of the Troubled Asset Relief Program (TARP) during this time. This “Lessons Learned” is based on a phone interview with Mr. Kashkari._ 
+
+## **When implementing a program such as the TARP, there needs to be a balance so we can make sure institutions will participate.** 
+
+When designing the TARP, Kashkari and his team had to make sure that the terms were not too onerous for banks so that they would not be deterred from participating in the program. He says, “It is like making medicine taste good for children so they will take it.” 
+
+The banks’ participation, on the other hand, was critical to the program’s success and, in turn, the survival of the financial system. On the other hand, there were political pressures to make it onerous to the banks so that it did not look like the government was bailing out failing institutions with taxpayers’ money. 
+
+However, beyond any political concerns, the main focus of Mr. Kashkari’s team was stabilizing the financial system and preventing it from a collapse. “We erred on the side of designing our programs so that banks would use it and we could stabilize the system,” he says. “I think that was effective.” 
+
+## **Putting together the right team is important when building a program from scratch.** 
+
+Mr. Kashkari was put in charge of building a $700 billion program from scratch during the time of a presidential transition. Although he was a political appointee, he stayed on several months after the transition to see the successful implementation of the program. 
+
+While building the program itself, Mr. Kashkari was simultaneously hiring the people who would help build and run the program. He focused on hiring non-partisan professional people who would stay on to work with the next administration: 
+
+[W]e […] had really talented people to choose from, and we needed a mix of skills: people from within the government who do want to get stuff done in government, but people who also had experience in financial markets. 
+
+As the crisis was getting worse each day, Mr. Kashkari and his team had to work fast. They were designing and implementing their programs while continuing to hire people to carry out those roles. 
+
+
+## **We need to make sure banks can cover their losses so they will not need a bailout in a future crisis. “Too big to fail” is a systemic risk.** 
+
+Kashkari believes that while the Dodd-Frank Act brought a lot of measures to stabilize our financial system, it did not go far enough for it did not raise capital requirements high enough. Analyses by the Minneapolis Fed (where Kashkari is the president at the time of this interview) showed that post-crisis the biggest banks did not have enough capital of their own to weather another crisis and would, therefore, need bailing out again. Kashkari objects to this: 
+
+The banks are stronger than they were. Dodd Frank did do some good, but it did not go far enough. [Regulations] need to make sure banks could actually cover their own losses and protect the taxpayers. 
+
+Kashkari believes that the biggest challenge in front of this is a political one because big banks are powerful lobbyists and fund political campaigns. “It is a political problem more than it is an economic problem or a policy problem,” he says. “We know what to do. The challenge is finding the political will to do it.” 
+
+The banks could argue that raising their capital requirements would make them lose their competitive edge internationally if other countries do not require similar measures. Kashkari responds this way: “My answer is simply, well, if other countries want to take huge risks with their financial systems, then let them do that. That does not mean we need to do that.” 
+
+There is also another, very strong point against the banks’ argument according to Kashkari, 
+
+The biggest banks in America that do have more capital than European banks are outcompeting the European banks. Capital has not been a competitive disadvantage; it has probably been a competitive advantage. So, their arguments collapse when anybody looks at them carefully. 
+
+## **When facing an economic crisis, we should overreact in our measures to fight it before it gets too big.** 
+
+The response to the financial crisis of 2008-09 was slow and gradual, while the crisis grew each day. This, in turn, caused it to get bigger than it would have if there had been a decisive reaction at the start. Part of the reason behind this slow reaction was that policymakers could not foresee how big the crisis was going to get, so they did not want to overreact. Kashkari crystallizes what he learned this way: 
+
+When the downside is a devastating recession, as we saw in 2009, what we could be facing now [this interview was done in March 2020,] the right answer is, in fact, to overreact. I think we have learned that lesson and, in turn, that is moving much more aggressively today than we did 10 years ago. 
+
+
+## **It is also better to keep the interventions as broad as possible.** 
+
+Kashkari also echoes other commenters who had stressed that broad interventions add value in improving confidence in the wider rescue and system recovery. As a counterpoint, he references that some of the TARP’s programs were targeted towards the housing crisis and helping homeowners. However, he notes that in some respects these programs were too targeted: 
+
+Our response was targeted because many Americans were angry, thinking that maybe their neighbor had been irresponsible and were wondering why their neighbor should have their mortgage forgiven. So, we tried to help homeowners who only needed a little bit of help. 
+
+But, he comments, that slowed down the program and narrowed its effectiveness: 
+
+That, in hindsight, was a mistake. What I have learned is that, when you need to do these bailouts, it is much better to be generous and not worry about bailing out people who do not deserve it because, overall, the economy will be helped if you are more generous with assistance. 
+
+_____________________________________ 
+
+Date: June 2021 YPFS Lessons Learned No: 2020-03

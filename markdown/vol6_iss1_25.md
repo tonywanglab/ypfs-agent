@@ -1,0 +1,51 @@
+## Yale Program on Financial Stability Lessons Learned 
+
+## Til Schuermann 
+
+By Mercedes Cardona 
+
+_Til Schuermann joined the Federal Reserve Bank of New York (FRBNY) in 2001 and held several positions during his tenure, including senior vice president and head of Financial Intermediation in Research and head of Credit Risk in Bank Supervision. In spring 2009, he played a leadership role in the design and execution of the “bank stress test” and the subsequent Comprehensive Capital Analysis and Review (CCAR) programs. After leaving the FRBNY in March 2011, he became a partner at management consulting firm Oliver Wyman, where he has led stress testing for more than 25 banks and financial institutions. He participated in the European Central Bank’s Comprehensive Assessment in 2014 and conducted a 2016 assessment of the Bank of England’s stress-testing program for the International Monetary Fund. This Lessons Learned is based on an interview with Schuermann on September 28, 2021. The full transcript can be accessed here._ 
+
+## **To effectively fight a crisis, policymakers need to understand its dimensions and scope and to gather as much credible data as possible to inform critical decisions.** 
+
+By late 2007, regulators had a sense of an impending crisis, but the scale of the crisis was not clear. In the fall of 2007, the FRBNY started checking into the state of nonregulated financial institutions, particularly the independent investment banks. The Federal Reserve (Fed) did not regulate these institutions, so its information was limited. Another issue was that many of the metrics and models used to assess the health of regulated banks were often selfreported, and the process was not very transparent. 
+
+Before the Global Financial Crisis (GFC), there was a surprising distance between the risk monitoring functions at many financial institutions and their boards of directors and senior management. According to Schuermann, many boards were not well informed regarding risks the company was taking, focusing mainly on profit and losses and not taking a dynamic view of the stresses on their operations. The stress testing that the Fed performed on the four major investment banks in summer 2008 changed this. It was the first time that institutions had to look at the scope of risk, exposures, and income in the mix, rather than just focus on losses, said Schuermann. 
+
+Losses and income happen at different points in time. If you don’t look at the patient very carefully, you could die in the second quarter and make enough money in the third or fourth; if you only measure the health of the patient at the end of the year, it looks fine. Meanwhile, the patient probably would’ve died halfway through the year if you hadn’t paid close attention. 
+
+The Fed's remit and view of the risk in these institutions expanded  after the crisis. In addition, many of the programs that emerged from the crisis, such as CCAR, added provisions, such as the stress testing, that forced the institutions to pay attention. 
+
+
+This was borne out during the COVID-19 pandemic, when many of the facilities the Fed set up in 2008 were reactivated to deal with the economic impact of the lockdown. “It was amazing how quickly the Fed reacted. And that was really, really helpful,” said Schuermann. 
+
+“The COVID response was a great test of whether all the preparations we did in the last 10 years and the changes would work,” said Schuermann. The Fed ran two stress tests of the banking system in 2020 as it responded to the crisis, and it showed the value of that perspective, he explained: 
+
+The stress test allowed you to say: “What if it gets even worse? A lot worse? How are the banks going to do?” And they would do fine. It was really important and helpful to have that sense of confidence that the banks would be able to withstand the COVID crisis, even if it got much worse. 
+
+In 2008, institutions had no incentive to plan an orderly wind-down and avoid the shockwaves a large failure would have on the economy. One of the legacies of the GFC, codified in the Dodd-Frank Act, was the “living will” provision that strengthened the hand of the Federal Deposit Insurance Corporation to wind down institutions. This ability to shut down a bank or systemically important nonbank institution in an orderly manner can be critical for the central bank and the resolution authority during crisis, noted Schuermann: 
+
+The point is to buy yourself time, to slow things down. Having the structure in place beforehand to allow you to do things at a more measured pace is very helpful, and the Dodd-Frank Act did that. 
+
+**Don’t take anything on faith: When assessing a crisis, central banks should use their own models and be open-minded and flexible about how much worse things can get.** 
+
+Having done more than two dozen stress tests since the GFC, Schuermann said that one key lesson learned is the importance of the testing authority's use of its own models to form an opinion of what the losses might be at the banks and what the impact of the stressors might be on them. That was a very important part of the 2009 stress test. 
+
+Regulators should be “really, really skeptical” about what the banks will report regarding their ability to remain resilient to multiple shocks. The bank is always going to be much more optimistic, Schuermann said. 
+
+Suppose you and I were board members at a bank. We’d like to converse very concretely when we ask the question: “Is my bank well capitalized? Could it withstand the stress?” and say: “Yes, we can lose a billion dollars and we’ll be fine.” But I think it’s more useful to talk about: What if the stock market crashed? What if unemployment doubled? What if GDP crashed? 
+
+The flip side of that situation is a regime where the tests are so dependent on a model that the institutions become adept at reverse engineering the model to pass the tests, rather than model their own scenarios based on possible stresses. If the scenario is the same every year, 
+
+
+banks will become very good at withstanding that one scenario, but not other scenarios that may matter, said Schuermann: 
+
+Fed models still play, in my view, too large of a role in peacetime capital-setting. We still have a lot of concentration risk, systemic concentration risk, in supervisory models. There are about 50 or so models that the Fed has to determine capital for the US banking system. They’re opaque. 
+
+I’m not arguing that they should actually be made public, because then everybody can just exactly engineer their portfolio to pass exactly those models. But I do worry how absolutely rigid the Fed is on having only those models determine the capital. That’s still true today, and that makes me nervous. 
+
+_____________________________________ 
+
+Dated: March 2024 
+
+YPFS Lessons Learned No: 2021-34

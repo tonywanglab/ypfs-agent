@@ -1,0 +1,1298 @@
+## The Rescue of the US Auto Industry, Module C: Restructuring Chrysler through Bankruptcy[1] 
+
+_Alexander Nye_[2] 
+
+Yale Program on Financial Stability Case Study January 16, 2019; Revised Date: April 8, 2022 
+
+## **Abstract** 
+
+In late 2008, due to the confluence of the financial crisis and years of structural decline in the auto industry, Chrysler was nearing bankruptcy. The US Treasury provided Chrysler’s owner, Chrysler Holding, with a $4 billion bridge loan and Chrysler’s related finance company, Chrysler Financial, with a $1.5 billion financing program under the Troubled Assets Relief Program (TARP). The government-led restructuring through bankruptcy involved the commitment of roughly $5 billion in debtor-in-possession (DIP) loans from the US Treasury and the Canadian government, under which the US Treasury ultimately lent $1.89 billion, using TARP funds, and Canada lent about $1 billion, proportional to its share of the North American Free Trade Agreement (NAFTA) auto industry. It also involved concessions from stakeholders, corporate governance arrangements for the “New Chrysler,” and a merger with Italian automaker Fiat Automobiles S.p.A. Treasury financed the purchase by the New Chrysler of substantially all of the old Chrysler’s assets with a $7.14 billion loan. The bankruptcy case was controversial and nearly reached the US 
+
+1 This case is one of eight Yale Program on Financial Stability (YPFS) modules considering the various elements of the government’s rescue of the US auto Industry and published in 2022: 
+
+- “The Rescue of the US Auto Industry, Module A: Automotive Bridge Loans” by Alexander Nye. 
+
+- “The Rescue of the US Auto Industry, Module B: Restructuring General Motors through Bankruptcy” by Kaleb B. Nygaard. 
+
+- “The Rescue of the US Auto Industry, Module C: Restructuring Chrysler Through Bankruptcy” by Alexander Nye. 
+
+- “The Rescue of the US Auto Industry, Module D: Emergency Assistance to Ally Financial (formerly GMAC)” by Riki Matsumoto and Kaleb B. Nygaard. 
+
+- “The Rescue of the US Auto Industry, Module E: Emergency Assistance for Chrysler Financial” by Alexander Nye. 
+
+- “The Rescue of the US Auto Industry, Module F: Auto Supplier Support Program” by Riki Matsumoto. 
+
+- “The Rescue of the US Auto Industry, Module G: The Auto Warranty Commitment Program” by Benjamin Henken. 
+
+- “The Rescue of the US Auto Industry, Module Z: Overview” by Rosalind Z. Wiggins, Greg Feldberg, Alexander Nye, and Andrew Metrick. 
+
+Cases are available from the _Journal of Financial Crises_ at https://elischolar.library.yale.edu/journal-offinancial-crises/. 
+
+2 Research Associate, YPFS, Yale School of Management. 
+
+
+Supreme Court, but the restructuring ultimately rescued Chrysler. In the Chrysler rescue, Treasury lost about $2.93 billion on an investment of about $10.47 billion. 
+
+**Keywords** : AIFP, auto finance, Canada, Chrysler, Export Development Canada, General Motors, nonbanks, Treasury 
+
+
+## **Restructuring Chrysler through Bankruptcy** 
+
+## **At a Glance** 
+
+## **Summary of Key Terms** 
+
+In late 2008, due to the confluence of the financial crisis and years of structural decline in the auto industry, Chrysler was nearing bankruptcy (Klier and Rubenstein 2012, 35–37). In December, the US Treasury provided Chrysler’s owner, Chrysler Holding, with a $4 billion bridge loan and Chrysler’s related finance company, Chrysler Financial, with a $1.5 billion financing program under the Emergency Economic Stabilization Act of 2008 (EESA) (Office of Financial Stability 2018; Canis et al. 2009, 9; Office of Management and Budget 2009). Treasury also provided Chrysler’s parts suppliers with aid and created a warranty guarantee program (Office of Financial Stability 2018). Treasury, in collaboration with the Canadian government, helped the company develop a plan to turn itself around (Mathilakath and Urie 2009, PDF p. 14). The plan, first announced on March 30, 2009, involved assisting Chrysler in negotiating concessions from its stakeholders, financing Chrysler’s bankruptcy, and developing corporate governance arrangements for the “New Chrysler” that would support the restructuring (Treasury 2009b, 1). The plan also depended on the company’s merging with Italian automaker Fiat Automobiles S.p.A. 
+
+||Proximate purpose: “Make it easier for […] Chrysler<br>to quickly clear away old debts […] so that they can<br>get back on their feet” (Obama 2009b).|
+|---|---|
+||Ultimate<br>purpose:<br>To<br>“help<br>revive<br>modern|
+||manufacturing and support our nation’s effort to|
+||move toward energy independence, but only in the<br>context of a fundamental restructuring that will<br>allow these companies to prosper without taxpayer<br>support”(Treasury2009b,1).|
+||Bankruptcy filing date<br>April 30, 2009<br>DIP financing date<br>May 5, 2009|
+||Section 363 sale date<br>(effective end of<br>bankruptcy)<br>June 10, 2009<br>First Lien Credit<br>Agreement date<br>June 10, 2009|
+||Legal authority<br>Emergency Economic<br>Stabilization Act (EESA)<br>of 2008, §101 (a)(1), §3<br>(9); Bankruptcy Code<br>Chapter 11 §363<br>Initial capital structure of<br>Fiat: 20%<br>Treasury: 9.85%|
+||New<br>UAW VEBA: 67.69%|
+||Chrysler<br>CDIC (Canada): 2.46%|
+||Funders<br>US Department of the|
+||Treasury, Export|
+||Development Canada|
+||Participants<br>Chrysler Holding LLC|
+||(“Old Chrysler”), New|
+||Carco LLC (“New|
+||Chrysler”)|
+||Total commitment<br>$10.47 billion3<br>TARP loss on investment<br>$2.93 billion|
+
+
+
+Treasury and Export Development Canada TARP loss on investment $2.93 billion (EDC) kept Chrysler alive with a roughly $5 billion debtor-in-possession (DIP) facility, under which the US Treasury ultimately lent 
+
+> 3 Of this: $4 billion was in bridge loans; $280.13 million in supplier support; $1.89 billion in DIP financing; $6.64 billion in working capital. 
+
+
+$1.89 billion and Canada lent about $1 billion, until the bankruptcy court could approve Fiat-managed New Chrysler’s purchase of Chrysler’s usable assets (Chrysler, EDC, and Treasury 2009, PDF pp. 95, 317, 322). The bankruptcy case was controversial and nearly reached the Supreme Court (David 2010, 38). Treasury then financed this purchase as well as New Chrysler’s early operations and partial assumption of debt associated with the bridge loan with a $7.14 billion loan (the First Lien Credit Agreement facility). The bankruptcy court liquidated what remained of the old Chrysler’s assets over the next several years; Treasury recovered approximately $160 million on the sale of those assets, less than 10% of the $1.89 billion it extended under the DIP facility (Office of Financial Stability 2018). 
+
+Management, creditors, and organized labor gave significant concessions. Labor also received a majority stake in New Chrysler (Rattner 2010, 157–59; Chrysler 2011b, PDF pp. 86–88). Treasury sold its remaining equity investments in New Chrysler in mid-2011, but ultimately booked a net loss on its investments in Chrysler overall (Office of Financial Stability 2018). 
+
+## **Summary Evaluation** 
+
+The restructuring successfully turned around Chrysler, though policymakers acknowledge that they saved Chrysler because of the potential damage to “the industrial Midwest,” not because of Chrysler’s systemic importance (Rattner 2010, PDF p. 5). Some legal scholars argue that the bankruptcy circumvented the US Bankruptcy Code’s safeguards for creditors (COP 2009b, PDF pp. 95–103). Others argue that the government’s actions merely mimicked that of any other debtor-in-possession (DIP) lender (COP 2009b, PDF p. 101). Some observers have questioned whether making the auto companies eligible for TARP went beyond the intent of Congress (COP 2009b, PDF pp. 71–80, 83–84). 
+
+
+|**Context: United States 2008–2009**|**Context: United States 2008–2009**|
+|---|---|
+|**GDP (SAAR, Nominal GDP in LCU**<br>**converted to USD)**|$14,559.5 billion in 2008<br>$14,628.0 billion in 2009|
+|**GDP per capita (SAAR, Nominal GDP in**<br>**LCU converted to USD)**|$48,383 in 2008<br>$47,100 in 2009|
+|**Sovereign credit rating (5-year senior**<br>**debt)**|As of Q4, 2008:<br>Fitch: AAA<br>Moody’s: Aaa<br>S&P: AAA<br>As of Q4, 2009:<br>Fitch: AAA<br>Moody’s: Aaa<br>S&P: AAA|
+|**Size of banking system**|$9,938.3 billion in total assets in<br>2008<br>$9,789.1 billion in total assets in<br>2009|
+|**Size of banking system as a percentage of**<br>**GDP**|68.3% in 2008<br>66.9% in 2009|
+|**Size of banking system as a percentage of**<br>**financial system**|Banking system assets equal to<br>30.5% of financial system in 2008<br>Banking system assets equal to<br>30.2% of financial system in 2009|
+|**5-bank concentration of banking system**|44.9% of total banking assets in<br>2008<br>44.3% of total banking assets in<br>2009|
+|**Foreign involvement in banking system**|18% of total banking assets in 2008<br>16% of total banking assets in 2009|
+|**Government ownership of banking**<br>**system**|0% of banks owned by the state in<br>2008<br>0% of banks owned by the state in<br>2009|
+|**Existence of deposit insurance**|100% insurance on deposits up to<br>$250,000 in 2008<br>100% insurance on deposits up to<br>$250,000 in 2009|
+|_Sources: Federal Deposit Insurance Corporation; World Bank’s Bank Regulation and_<br>_Supervision Survey; World Bank Global Financial Development Database; Bloomberg_||
+
+
+
+
+## **I. Overview** 
+
+## **Background** 
+
+Due to a number of factors stemming from the ongoing financial crisis and years of systemic decline in the auto industry, Chrysler reached out to the United States government for financial assistance in late 2008 (COP 2011, 9–11; Canis et al. 2009, 1–2; Klier and Rubenstein 2012, 35–36). Upon hearing that the United States government was aiding its auto industry, the Canadian government decided to join in on the restructuring (Wilson 2008). The Treasury responded with a $4 billion Loan and Security Agreement (the Bridge Loans) under its Automotive Industry Financing Program (AIFP) on January 2, 2009 (for more on this program, see Nye 2021).[4] According to the terms of the Bridge Loans,[5] Treasury would provide interim financing to the manufacturer, but additional funding would be conditioned on Chrysler’s submitting a viable restructuring plan by February 17, 2009 (Chrysler and Treasury 2008, PDF pp. 59–60; Paulson 2010, 350–55). 
+
+## _**The February 17, 2009, Viability Plan**_ 
+
+Chrysler submitted a Viability Plan for three scenarios (Chrysler 2009, PDF p. 11). One envisioned Chrysler continuing to survive on its own after a restructuring entailing “sacrifices from all key stakeholders” (Kolka 2009, PDF p. 33). The second scenario described a restructuring leveraging “the positive impact of synergies from” an alliance with Fiat, an Italian auto manufacturer (Kolka 2009, PDF p. 33). This plan would see Fiat receiving a 35% stake in Chrysler (that could be increased to 55% based on the achievement of several milestones) in exchange for Chrysler’s access to technology and distribution channels (Chrysler 2009, PDF p. 87). The third scenario anticipated the failure of the other two plans and provided for Chrysler’s orderly wind-down and liquidation (Kolka 2009, PDF p. 33). 
+
+Chrysler proposed that the United Auto Workers (UAW) union (and its Voluntary Employee Benefits Association [VEBA]) make significant concessions and Chrysler Financial alter its auto finance relationship with Chrysler (Kolka 2009, PDF pp. 33–34). It also proposed that suppliers and dealers make significant concessions while Chrysler itself undertake a number of other cost-cutting measures (Chrysler 2009, PDF p. 15). Chrysler anticipated that Treasury would support its plans with $5 billion in Troubled Assets Relief Program (TARP) funding, $6 billion in Department of Energy Section 136 funding, and that 
+
+> 4 For the same reasons, General Motors entered into a similar Loan and Security Agreement under the same program. Similar to Chrysler, it also underwent a restructuring via bankruptcy after Treasury initially rejected its viability plan. 
+
+> 5 See Nye 2021 for detailed description of the Bridge Loans. 
+
+
+its secured creditors would agree to convert $5 billion in debt into Chrysler equity (Kolka 2009, PDF p. 26, 33-35).[ 6] 
+
+## _**Chrysler’s Initial Viability Plan Was Rejected**_ 
+
+In a document entitled “Obama Administration New Path to Viability for GM & Chrysler” (Treasury 2009b), issued March 30, 2009, the administration rejected the Viability Plan and “determined that Chrysler has not demonstrated that it can achieve long-term viability as a stand-alone company,” as required (Treasury 2009b, 1). Further, the administration concluded that the Chrysler-Fiat partnership was not yet sufficient to support further taxpayer investment (Treasury 2009b, 1). 
+
+The administration granted Chrysler an additional 30 days to meet certain requirements for an amended plan, which if successful, would trigger the government’s investment of up to $6 billion and a restructuring (Treasury 2009b, 1).[7] If Chrysler failed to meet the stated conditions, however, “the government will not invest any additional money in the company” (Treasury 2009b, 1). 
+
+The conditions set forth in the New Path to Viability included: (1) restructuring Chrysler’s balance sheet to extinguish the vast majority of its secured debt and all of unsecured debt and equity, other than to trade creditors; (2) further concessions from the UAW and Fiat; (3) an agreed-upon plan with Fiat that would not require more than $6 billion of taxpayer investment to be successful; (4) a more viable plan for profitably operating in a normal business environment; (5) a viable mechanism for dealer and customer financing; (6) a “credible plan” for implementing the restructuring (Treasury 2009b, 1). 
+
+The Bridge Loans were accompanied by a similar Canadian program. The Canadian government also rejected a similar viability plan on March 30, 2009 (C-SPAN 2009a). 
+
+## **Program Description** 
+
+## _**Program Purpose**_ 
+
+On March 30, 2009, President Barack Obama described his administration’s program for a successful Chrysler rescue (Obama 2009b). The goal was to save Chrysler and provide it with an opportunity “to fundamentally restructure in a way that would justify an investment of additional taxpayer dollars” and ultimately “stand on [its] own” (Obama 2009b). This meant making Chrysler a company that would be internationally competitive, create new jobs for Americans, and produce fuel-efficient vehicles that would help the United States become energy independent (Obama 2009b). The government support would also enable Chrysler to consummate its merger with Fiat, who could bring its small-car 
+
+> 6 For comparison, General Motors’ Viability Plan asked for up to $16.6 billion more in TARP funds (GAO 2009a, PDF p. 17). 
+
+> 7 Chrysler requested $3.5 billion in Department of Energy Section 136 funding, but withdrew the request in 2012 without having received any funds from the program (Canis and Yacobucci 2015, 15). 
+
+
+technology to the arrangement (Rattner 2011, 80). An additional key factor was to “make it easier for […] Chrysler to quickly clear away old debts […] so that they can get back on their feet” (Obama 2009b). 
+
+The Canadian government’s involvement in the program had a similar purpose. It wanted to return Chrysler “to a viable, sustainable future,” which would help sustain an automotive industry that was arguably largest segment of Canadian manufacturing (Office of the Auditor General of Canada 2014; C-SPAN 2009a; Canada 2009). 
+
+## _**Key Elements of the Program**_ 
+
+The government took several steps to restructure Chrysler after the March 30 announcement. These included (1) direct and indirect participation in negotiations with Chrysler, Fiat, and other stakeholders to achieve concessions that would enable Chrysler to meet the Viability Plan’s requirements, (2) directly and indirectly financing Chrysler to facilitate a bankruptcy via the US Bankruptcy Code, (3) developing corporate governance arrangements with Chrysler’s stakeholders that would protect the taxpayer while supporting Chrysler’s future success. 
+
+## _**The Revised Viability Plan of April 2009[8]**_ 
+
+## _Negotiating the Revised Viability Plan_ 
+
+To reorganize quickly, Chrysler had to renegotiate with a number of its stakeholders. During this time, Treasury acted as a facilitator, a mediator, and sometimes as a lead negotiator (Rattner 2011, 152–59, 173–77). 
+
+_A Viable Mechanism for Dealer and Consumer Financing_ 
+
+Treasury facilitated a new automotive financing relationship for Chrysler. In the relationship, GMAC was to replace Chrysler Financial as Chrysler’s auto finance partner (Treasury 2009a, 5; COP 2010, PDF pp. 27, 49). After “extended, intense, arm’s-length negotiations between Chrysler, GMAC, and the U.S. Treasury,” GMAC and Chrysler agreed on a Master Auto Finance Agreement Term Sheet, dated April 30, 2009 (the GMAC MAFA) (Keegan 2009, 4). This term sheet established the Chrysler-GMAC financing relationship contingent on GMAC’s receiving a capital injection from Treasury, various regulatory approvals, and Chrysler’s meeting several milestones in the bankruptcy court by May 16, 2009 (Keegan 2009, 4; Chrysler and GMAC, PDF p. 6). 
+
+> 8 On April 30, 2009, after negotiations similar to those at Treasury, the governments of Canada and Ottawa issued a press release announcing that Chrysler had met its requirements for viability. Chrysler Canada received additional secured loans, and the Canadian government also announced financial support for Chrysler’s bankruptcy in the US. For Canada, the overall goal of the program was to support Chrysler’s “return to a viable, sustainable future” (Canada 2009). The means for achieving this goal was contributing to the efforts of the United States and maintaining Canada’s 20% production share in the industry (Office of the Auditor General of Canada 2014). 
+
+
+## _Extinguishing Unsecured Debt_ 
+
+Treasury played an active role in negotiations addressing Chrysler’s unsecured debt. The UAW VEBA agreed to restructure its $8.8 billion in unsecured claims against Chrysler, cutting Chrysler’s health care costs by more than 40% in the process (Rattner 2011, 153– 154, 157)[9] . In exchange, “New Chrysler,” the company that would emerge from the bankruptcy as the operating company, agreed to give VEBA a 55% stake in a restructured Chrysler and a $4.6 billion promissory note (COP 2009b, 28). 
+
+## _Further Concessions from the UAW_ 
+
+Treasury facilitated negotiations between Fiat, Chrysler, and the UAW that led to “a new collective bargaining relationship” (Kolka 2009, PDF pp. 5, 8). This included, but was not limited to: 
+
+- Increasing the number of lower wage “tier-2” workers that Chrysler would be allowed to hire (Rattner 2011, 158–59); 
+
+- Committing to freeze wages for “entry-level” employees through the end of the collective bargaining agreement (2011) (Exhibit J (part 1) 2009, PDF p. 8); and 
+
+- Committing “to have any open issues at the end of the next negotiation be subject to binding arbitration based on maintaining competitive wages with the transplants [foreign automakers manufacturing in the US],” (Rattner 2011, 157–59).[10] 
+
+_Agreeing to a More Viable Business Plan and an Agreed Partnership with Fiat That Would Need No More Than $6 Billion in Government Support_ 
+
+Treasury acted as mediator between Fiat and Chrysler as they negotiated their partnership (Rattner 2011 156–57). Fiat and Chrysler agreed on a more aggressive business plan that would form the foundation of their negotiations with the First Lien Secured creditors. Fiat would obtain a stake in New Chrysler in exchange for technological and management resources (Treasury 2009c). It is not clear what else was in the agreement. 
+
+## _**Restructuring the Balance Sheet**_ 
+
+_Extinguishing Second Lien Secured Debt_ 
+
+Treasury did not appear to play a major role in negotiations with Cerberus and Daimler, the Second Lien Secured creditors who were also Chrysler’s majority and minority shareholders. Much of this debt was related to Cerberus’ acquisition of Chrysler from 
+
+> 9 There is no consistent figure for the size of the unsecured claims that the UAW VEBA intended to restructure. Some sources say the VEBA had $8.8 billion in unsecured claims, some say $8 billion, and some go as high as $10.6 billion (COP 2009b, 28; Rattner 2011, 153–54, 157; Foley, Goldberg, and Meyer 2010, 5). 
+
+> 10 This effectively amounted to a “no-strike” provision (Barkholz 2011). 
+
+
+Daimler in 2007 (Docket 190 2009, 7). Chrysler (under orders from Cerberus) and Daimler had issued pension guarantees to the Pension Benefit Guaranty Corporation (PBGC) with respect to Chrysler’s underfunded pension obligations (a $1 billion guarantee by Daimler and $200 million guarantee from Chrysler) (Docket 190 2009, 7; Kolka 2009, 5, 15, 32). The two parties agreed to relinquish their equity stakes in Chrysler, forgive $2 billion in loans to Chrysler, return ownership of the Chrysler headquarters, and contribute more than $600 million toward pension claims (Docket 190 2009, 7; Kolka 2009, 5, 15, 32; Treasury 2009c; PBGC 2011). 
+
+## _Extinguishing First Lien Secured Debt_ 
+
+Treasury led negotiations with the holders of Chrysler’s $6.9 billion in First Lien Secured debt and managed relations with holdout creditors from this group (Rattner 2009, 4–5; Das and Das 2009). This resulted in an April 28, 2009, agreement among the holders of 70% of the First Lien Secured debt (Kolka 2009, 33) under which they would be paid about 29 cents on the dollar.[11] However, the holders of 70% of the First Lien Secured debt were unable to convince the remaining holdout creditors to join an agreement before the government-imposed April 30, 2009, deadline (Rattner 2011, 176–181).[12] 
+
+The Auto Warrantee Commitment Program (AWCP), a government program that guaranteed the warrantees of GM and Chrysler vehicles while they went through restructuring, was set to expire on June 30, 2010, for Chrysler and on July 31, 2010, for GM. GM and Chrysler could exit the program any time after they finished restructuring (GM and Treasury 2008, PDF p. 353; Chrysler and Treasury 2008, PDF p. 369).[13] Funding held by the AWCP special purpose vehicles (SPVs) following a company’s exit from the program (assuming its exit was due to completing restructuring and not failing) would first be used to pay interest and reduce principal on the Treasury loan. GM and Chrysler would then be entitled to any funds left over (GM 2008, PDF p. 353; Chrysler and Treasury 2008, PDF p. 369). 
+
+## _Chrysler Met the Viability Conditions_ 
+
+The results of Chrysler’s negotiations did not fully conform to the requirements in the New Pathway to Viability (Treasury 2009c; Treasury 2009b, 1). Nevertheless, on April 30, 2009, 
+
+> 11 Rattner said that this agreement (which was not publicized or was merely an informal agreement) would have allowed Chrysler to restructure outside of bankruptcy while $2.5 billion from Treasury would be used to settle Chrysler’s First Lien Secured debt (Rattner 2011, 172–77). 
+
+> 12 Law professor Henry Hu said that some of these creditors may have become holdouts because they were able to purchase credit default swaps (CDS) on Old Chrysler’s debt and/or “securities of Chrysler’s competitors (i.e., Ford and General Motors) on the theory that, were Chrysler to go bankrupt, those securities would increase in value,” therefore reducing risk in their exposure to an Old Chrysler bankruptcy (Hu 2014, 371). 
+
+> 13 What it would mean to “finish restructuring” is left undefined, but presumably this meant emerging from bankruptcy. To exit the program after finishing restructuring, the companies were required to provide written notice to this effect. 
+
+
+Treasury issued a press release declaring that Chrysler had met the requirements for viability (Treasury 2009c). The press release noted that “Chrysler’s key stakeholders have made unprecedented sacrifices and executed an agreement that positions Chrysler for a viable future” (Treasury 2009c). This press release also outlined Treasury’s plan to use the US Bankruptcy Code to “clear away” Chrysler’s liabilities without rewarding First Lien Secured holdout creditors, the “group of investment firms and hedge funds […] [that] failed to accept reasonable offers to settle on their debt” (Treasury 2009c). Chrysler then filed a bankruptcy petition on April 30, 2009, beginning the company’s pathway through Chapter 11 (Docket 190 2009). 
+
+The following lays out the mechanics of the restructuring. Pursuant to a Master Transaction Agreement (MTA), Chrysler (which would then be called “Old Chrysler”) would sell all of the assets and liabilities necessary for running the post-restructuring business to New Chrysler (a new corporation formed by Fiat) using Section 363(b) of the Bankruptcy Code. In exchange, New Chrysler assumed most of Old Chrysler’s liabilities (approximately $29 billion out of about $50 billion) and paid Old Chrysler $2 billion in cash (COP 2009b, 19; Chrysler 2011a, 51, 252, 326).[14] Old Chrysler would retain the claims of the First Lien Secured creditors, who would receive about 29 cents on the dollar. It would also retain obligations to Second Lien creditors, Daimler and Cerberus, and the US Treasury and Canadian government DIP loans, but there would be no money left over for these parties (COP 2009b, 20). The $2 billion received by Old Chrysler and any retained assets would become its “bankruptcy estate” which it would use to partially repay First Lien Secured creditors, and it would gradually wind down (COP 2009b, 20). 
+
+New Chrysler would operate the auto manufacturing business that everyday people identified as Chrysler. It would begin with $33 billion in assets and $29 billion in liabilities (Chrysler 2011a, 326). 
+
+## _**Program Funding**_ 
+
+_Treasury and Canada Covered Chrysler’s Negative Cash Flows during the Bankruptcy under a Joint Debtor-In-Possession (DIP) Facility, Which Treasury Team Members Did Not Expect to Be Repaid_ 
+
+Treasury and EDC jointly executed a $4.1 billion Joint DIP Facility with Old Chrysler on May 5, 2009.[15] However, they revised this commitment to $4.96 billion when the bankruptcy court entered a Final Order approving DIP financing on May 20, 2009 (Docket 1309 2009, PDF pp. 1–2). Each lender was responsible for only that portion of the total that it had committed to make (Chrysler, EDC, and Treasury 2009, PDF p. 37). The allocation was roughly three to one, US to Canadian dollars, as shown in Figure 1 (Chrysler, EDC, and 
+
+> 14 Chrysler’s Canadian and Mexican subsidiaries fell under Old Chrysler subsidiary Alpha Holding LP, which itself underwent Chapter 11 proceedings joined with Old Chrysler’s for administrative reasons (Docket 2188 2009; Docket 1784 2009). 
+
+> 15 The Joint DIP Facility was officially called the “Second Lien Secured Priming Superpriority Debtor-InPossession Credit Agreement” (Chrysler, EDC, and Treasury 2009, PDF p. 32). 
+
+
+Treasury 2009, PDF p. 95). Prior to the issuance of the bankruptcy court’s Final Order, the agreement limited the amount that Treasury and EDC could lend under the facility to an “Interim Commitment” of $1.4 billion (this was later revised to $1.8 billion) (Chrysler, EDC, and Treasury 2009, 7, 15). 
+
+Chrysler did not expect to pay back the DIP loan and Treasury did not expect to be repaid. In a court document filed on April 30, Robert Manzo, Chrysler’s financial advisor, provided cash flow and balance-sheet projections that assumed Treasury would not be repaid either for the $4 billion Bridge Loan or the $4.5 billion DIP facility (Manzo 2009, PDF p. 49). The DIP loan would be forgiven immediately. His cash flow analysis, submitted to the court three days later, projected that the DIP funding would be just sufficient to cover Chrysler’s cash flow needs during the expected nine-week bankruptcy process (Docket 190 2009, PDF 180). 
+
+Treasury Auto Team members (a group of advisors led by Treasury Secretary Geithner) also told the Government Accountability Office (GAO) in June 2009 that they did not expect the Treasury would receive repayment for the DIP investments (SIGTARP 2009, 108). 
+
+In the bankruptcy filing, Chrysler Vice Chairman Thomas LaSorda stated that the government’s DIP financing was essential to cover Chrysler’s negative cash flows. “No party other than the United States Government is willing to provide the necessary DIP financing. Chrysler’s cash situation is dire and it continues to function only because of the $4 billion it has already received from the U.S. Government. Without the Government’s support over the past four months, Chrysler would not have had the cash flow to continue and would already be in bankruptcy. And without the Government’s support going forward, Chrysler will have no choice but to liquidate” (LaSorda 2009, 75). 
+
+## _Principal and Additional Consideration_ 
+
+Under the Joint DIP Facility, any advances requested by Old Chrysler would concurrently and proportionately draw on Treasury’s and EDC’s commitments based on how much each party committed to the Joint DIP Facility.[16] With each advance under the commitments, Treasury and EDC would receive additional promissory notes for 6.67% of the value of their respective advances—these promissory notes were called Additional Notes—bearing as additional consideration the same interest rate and terms as the Facility (Chrysler, EDC, and Treasury 2009a, PDF pp. 9, 49; Manzo 2009, PDF p. 168). Any payments that Old Chrysler made on the loans or on the Additional Notes would be similarly distributed pro rata between Treasury and EDC (Chrysler, EDC, and Treasury 2009, PDF pp. 36–37). 
+
+> 16 For example, if Chrysler requested a $100 million advance when the Joint DIP Facility had a maximum commitment of $4.1 billion, Chrysler would receive approximately $26 million from EDC’s commitment and approximately $74 million from Treasury’s commitment. 
+
+
+[FIGURE id=vol4_iss1_4_f1 type=figure label="Figure 1" file=figure_1.png caption="Joint DIP Facility Commitments"]
+### **Figure 1: Joint DIP Facility Commitments**
+
+|Joint DIP Facility<br>commitments as of<br>5/5/2009|Interim commitments|Maximum commitment|Usage|Additional consideration<br>(Interest-bearing promissory<br>notes known as Additional Notes)|
+|---|---|---|---|---|
+|US Treasury|$1.04 billion|$3.04 billion<br>(later increased to $3.8 billion)|$1.89 billiona|$202.98 million (later increased<br>to $253.46 million)b|
+|Export Development<br>Canada|$0.36 billion|$1.06 billion|~C$1.28 billion|$70.49 million<br>(later increased to<br>$77.37 million)d|
+|||(later increased to $1.16 billion)|($1 billion)c||
+||||||
+|Total|$1.4 billion|$4.1 billion<br>(later increased to $4.96 billion)|Unknowne|$273.05 million (later increased<br>to $330.83 million)f|
+
+
+
+(a) See Office of Financial Stability 2018. 
+
+(b) See Chrysler, EDC, and Treasury 2009, PDF pp. 49, 322. 
+
+(c) See Office of the Auditor General of Canada 2014. Dollar figure approximated using exchange rate of $0.80 per C$1.00. 
+
+(d) See Chrysler, EDC, and Treasury 2009, PDF pp. 49, 322. 
+
+(e) There is no report showing the peak usage of the combined Treasury and EDC commitments. 
+
+(f) See Chrysler, EDC, and Treasury 2009, PDF pp. 49, 322. 
+
+Sources: Chrysler, EDC, and Treasury 2009; Office of the Auditor General of Canada 2014; Office of Financial Stability 2018. 
+
+
+## _Form of Proceeds_ 
+
+Both the loans and the Additional Notes were dollar denominated and either eurodollar rate loans (which the loan documents called eurodollar loans) or alternative base rate loans (referred to in the loan documents as ABR loans) (Chrysler, EDC, and Treasury 2009, PDF pp. 8–9, 15–18, 20–21, 302). The default form was eurodollar loans (Chrysler, EDC, and Treasury 2009, PDF pp. 32, 35–36). These eurodollar loans functionally had an interest rate of the three-month eurodollar rate (with a 2.00% floor) plus 3.00%, though the ABR depended on circumstances in the market (GAO 2009b, 135). 
+
+## _Maturity Date_ 
+
+The loans and Additional Notes matured at the earliest of: 
+
+- “60 days after the […] [April 30, 2009] Petition Date” 
+
+- “35 days after […] [April 30, 2009] if the Final Order has not become final and nonappealable prior to the expiration of such 35-day period” 
+
+- “the effective date of a plan of reorganization or liquidation that is confirmed pursuant to an order entered in the Cases by the Bankruptcy Court” 
+
+- “the acceleration of any Loans and the Additional Notes and the termination of the Commitment in accordance with the terms of this Agreement” 
+
+- September 30, 2009 (Chrysler, EDC, and Treasury 2009, PDF p. 22) 
+
+## _Collateral and Priority_ 
+
+The Joint DIP Facility was secured by substantially all of Old Chrysler’s assets as collateral (Chrysler, EDC, and Treasury 2009, PDF pp. 7–8). Before the bankruptcy, the Treasury only enjoyed third-priority liens on most of Chrysler’s assets, but the Joint DIP Facility lent to Old Chrysler under Section 364(c)(2) of the Bankruptcy Code (Docket 2130 2009, PDF p. 279; Chrysler, EDC, and Treasury 2009, PDF p. 44). With the approval of the bankruptcy judge, the loan under the Joint DIP Facility could jump ahead of, or “prime,” the loans of other secured creditors and gain perfected, first-priority security interests in and liens on substantially all of Old Chrysler’s assets; this was colloquially referred to as “superpriority status”(Chrysler, EDC, and Treasury 2009, PDF pp. 7, 30, 44).[17] 
+
+> 17 Some of Old Chrysler’s assets were not included in the collateral. Specifically, the capital stock of foreign subsidiaries of Old Chrysler that “would not result in deemed dividends to” Old Chrysler (Chrysler, EDC, and Treasury 2009, PDF pp. 44–45). 
+
+
+## _Use of Proceeds, Prepayment, and Oversight_ 
+
+Old Chrysler was to use the proceeds of the loans to finance Old Chrysler’s “working capital needs, capital expenditures, […] payment of warranty claims and other general corporate purposes […] including the payment of expenses associated with the administration” of the bankruptcy (Chrysler, EDC, and Treasury 2009, PDF p. 47). 
+
+Old Chrysler was required to make prepayments when it incurred any indebtedness or received funds from a transaction (called an “Extraordinary Receipt”) not permitted by the Joint DIP Facility.[18] Any such prepayment would be applied to Old Chrysler’s financial obligations under the Joint DIP Facility and correspondingly reduce the maximum commitment by the same amount (Chrysler, EDC, and Treasury 2009, PDF pp. 33–34). 
+
+The Joint DIP Facility seemed to contain more stringent oversight requirements than the Bridge Loans (for more on the Bridge Loans, see Nye 2021). For example, the Bridge Loans demanded biweekly reporting while the Joint DIP Facility required weekly reporting from Chrysler. On a weekly basis, Old Chrysler had to certify to Treasury and EDC that Chrysler had not defaulted and was in compliance with covenants relating to the company’s financial condition (Chrysler, EDC, and Treasury 2009, PDF pp. 53, 61). Old Chrysler also had to submit weekly updates to their 13-week projections and weekly variance reports detailing how Chrysler’s practices conformed to its bankruptcy budget (Chrysler, EDC, and Treasury 2009, PDF pp. 31, 53–54). 
+
+Old Chrysler had to give the lenders notice of and copies of its pleadings in the bankruptcy case (Chrysler, EDC, and Treasury 2009, 54). On top of that, Old Chrysler had to submit a “Monthly Budget […] in form and substance satisfactory to the Required Lenders” within 10 days after the first successful use of Section 363(b) of the Bankruptcy Code (Chrysler, EDC, and Treasury 2009, PDF p. 54). The Joint DIP Facility also included several other reporting requirements. Old Chrysler had to submit quarterly reports (beginning with September 30, 2009) detailing the implementation of an internal controls policy and Old Chrysler’s compliance with those internal controls to the lenders as well as Old Chrysler’s actual use of the loan proceeds (Chrysler, EDC, and Treasury 2009, PDF p. 59). 
+
+## _Covenants_ 
+
+The Joint DIP Facility contained several affirmative covenants—in layman’s terms, promises to do something—that created conditions on lending to Old Chrysler and incorporated various burden-sharing arrangements from earlier Treasury loans to Chrysler. In effect, these would help make sure that Chrysler did not collapse during the bankruptcy or help reduce taxpayer risk if Chrysler could not survive bankruptcy. 
+
+In addition to the usual affirmative commitments that come with large secured loans—for example, the requirement that Old Chrysler had to file its taxes in a timely manner—the Joint DIP Facility made the interim $1.4 billion and final $4.1 billion commitments 
+
+> 18 Functionally, this meant indebtedness outside of the ordinary course of business. 
+
+
+contingent on Old Chrysler’s quickly meeting a number of milestones in the bankruptcy process (Chrysler, EDC, and Treasury 2009, PDF p. 55). For one, Old Chrysler was required to file motions to approve the Section 363 transaction by May 4, 2009 (Chrysler, EDC, and Treasury 2009, PDF p. 61). 
+
+The Joint DIP Facility also incorporated various burden-sharing provisions related to executive privileges and compensation, restrictions on expenses, private aircraft divestment, and compliance with the Employ American Workers Act (EAWA) imposed on Chrysler as well as Chrysler Financial by the Bridge Loans and the January 16, 2009 Chrysler Financial facility (Nye 2021; Chrysler, EDC, and Treasury 2009, PDF pp. 57–59). 
+
+The Joint DIP Facility had several typical negative covenants—put simply, promises not to do certain things—for large secured loans. However, there were also negative covenants that distributed the burden between the two lenders and limited the lenders’ financial risk. Canadian subsidiaries had to maintain a certain cash balance, but there was a limit on how much Chrysler could invest in subsidiaries like Chrysler Canada (Chrysler, EDC, and Treasury 2009, PDF pp. 62, 66, 68). As for covenants managing taxpayer risk, the Joint DIP Facility forbade Old Chrysler from conducting asset sales outside of a limited set of circumstances including but not limited to a successful bankruptcy proceeding, a winddown, and the licensing of intellectual property (Chrysler, EDC, and Treasury 2009, PDF p. 63). The Joint DIP facility also restricted Old Chrysler’s and its subsidiaries’ ability to pay dividends (Chrysler, EDC, and Treasury 2009, PDF pp. 63–64). 
+
+_Treasury Lent New Chrysler $7.14 Billion to Finance the Section 363 Sale and Subsidize Chrysler’s Reorganization_ 
+
+On June 10, 2009, the bankruptcy court approved the Section 363 sale and Treasury’s proposed $7.14 billion loan to New Chrysler, known as the First Lien Credit Agreement (David 2010, 31–32). That loan consisted of $6.64 billion in new funding to New Chrysler (Chrysler, New Carco Acquisition LLC, and Treasury 2009, PDF pp. 1, 41). 
+
+New Chrysler also assumed from Old Chrysler a $500 million obligation to Treasury. This obligation represented a portion of the $4 billion Bridge Loan that Treasury had extended to Chrysler in January 2009 (Docket 3232 2009, PDF p. 210). The remaining $3.5 billion principle on the Bridge Loan stayed with the Old Chrysler. It was settled with a $1.9 billion payment in May 2010; Treasury took a $1.6 billion loss on the Bridge Loan. 
+
+The $7.14 billion loan was divided into two tranches. In Tranche B, New Chrysler paid $2 billion of the new funding to Old Chrysler in exchange for substantially all of its assets (Chrysler et al. 2009, PDF p. 10). Old Chrysler used the $2 billion to partially repay secured creditors who were owed $6.9 billion. 
+
+In Tranche C, New Chrysler received $4.64 billion that it could use for working capital, the various administrative fees associated with the $2 billion purchase, and transitioning its auto financing partnership to GMAC (Chrysler, New Carco Acquisition LLC, and Treasury 2009, PDF pp. 41, 44, 59). 
+
+
+Tranche B and Tranche C shared terms related to the loans’ security, prepayment, the use of payments, oversight, contingencies, and various covenants. 
+
+## _Tranche B_ 
+
+Funding from Tranche B became available to New Chrysler on June 10, 2009, as soon as the First Lien Credit Agreement closed in the aftermath of the Section 363 sale’s approval in bankruptcy court (David 2010, 39; Chrysler, New Carco Acquisition LLC, and Treasury 2009, PDF p. 12). As additional consideration for the loan, Treasury would receive a 9.85% stake in New Chrysler (Chrysler, New Carco Acquisition LLC, and Treasury 2009, PDF p. 52; COP 2011, 56–57). To borrow funds under Tranche B, New Chrysler had to submit a document indicating the “amount of the Tranche B Loan requested from the Lender and […] the amount of loans concurrently requested by Chrysler Canada” under its postpetition financing arrangement with EDC (Chrysler, New Carco Acquisition LLC, and Treasury 2009, PDF p. 41).[19] 
+
+Proceeds from Tranche B would either carry an eurodollar interest rate or an ABR (see Figure 2 for details on the interest rates) (Chrysler, New Carco Acquisition LLC, and Treasury 2009, PDF pp. 44, 47–50). The per annum interest rate would be the former in most circumstances, the three-month eurodollar rate (with a 2.00% floor) plus 5.00% (GAO 2009b, 135). The Tranche B loans matured on December 10, 2011, but the underlying loan documents gave New Chrysler the ability to “extend the maturity date of up to $400 million of the Tranche B loans to the Tranche C Maturity Date,” which was June 10, 2017, for a 1.50% per annum penalty fee (Chrysler, New Carco Acquisition LLC, and Treasury 2009, PDF pp. 8, 41, 45, 47–48). Any overdue principal payments imposed a 2.00% penalty rate (regardless of the form of the loan) and any overdue interest payments bore an interest rate of the applicable ABR plus 2.00% (Chrysler, New Carco Acquisition LLC, and Treasury 2009, PDF pp. 47–49). 
+
+> 19 This Canadian arrangement was the “Amended and Restated Loan Agreement dated as of June 10, 2009, between Chrysler Canada and EDC” (alternatively known as the Canadian Facility Agreement) (Chrysler Canada and EDC 2011). 
+
+
+[FIGURE id=vol4_iss1_4_f2 type=chart label="Figure 2" file=figure_2.png caption="Tranche B Interest Rates"]
+### **Figure 2: Tranche B Interest Rates**
+
+**Eurodollar per annum interest rate =** 𝐞𝐮𝐫𝐨𝐝𝐨𝐥𝐥𝐚𝐫 𝐫𝐚𝐭𝐞 𝐟𝐨𝐫 𝐢𝐧𝐭𝐞𝐫𝐞𝐬𝐭 𝐩𝐞𝐫𝐢𝐨𝐝 + 𝐚𝐩𝐩𝐥𝐢𝐜𝐚𝐛𝐥𝐞 𝐦𝐚𝐫𝐠𝐢𝐧 eurodollar base rate Eurodollar rate for interest period formula: ~~1.0~~ 0−eurocurrency reserve requirements Applicable margin: • From closing until maturity: 5.00% • From maturity on: 6.50% Eurodollar base rate: Floor set at 2.00% 
+
+Eurocurrency reserve requirement: Aggregate of maximum rates of reserve requirements under any regulations of the Federal Reserve Board of Governors or any other governmental authority with jurisdiction over “reserve requirements prescribed for eurocurrency funding […] maintained by a member bank of the Federal Reserve System” For EDC, the First Lien Credit Agreement set the eurocurrency reserve requirement to $0. 
+
+**Alternative Base Rate (ABR) per annum interest rate =** 𝐀𝐁𝐑 + 𝐚𝐩𝐩𝐥𝐢𝐜𝐚𝐛𝐥𝐞 𝐦𝐚𝐫𝐠𝐢𝐧 ABR: the largest of the prime rate, the effective federal funds rate plus half of 1.00%, and the one-month eurodollar rate plus 1.00% Applicable margin: • From closing until maturity: 4.00% • From maturity on: 5.50% 
+
+_Sources: Chrysler, New Carco Acquisition LLC, and Treasury 2009, PDF pp. 7–8, 16, 18, 23–24, 48–49, 52._ 
+
+## _Tranche C_ 
+
+New Chrysler could access funding from Tranche C once it started drawing on the Tranche B loans (Chrysler, New Carco Acquisition LLC, and Treasury 2009, PDF p. 41). Tranche C contained a $4.64 billion commitment by Treasury for working capital (Chrysler, New Carco Acquisition LLC, and Treasury 2009, PDF p. 41). The underlying agreement said that New Chrysler would assume $500 million in Old Chrysler’s pre-petition Bridge Loans from Treasury, which were categorized as Tranche C loans (Chrysler, New Carco Acquisition LLC, and Treasury 2009, PDF p. 45; see Nye 2021 for more on the Bridge Loans). Also, $350 million of the Tranche C funding was earmarked for GMAC Loans, which New Chrysler could solely use “to fund Additional GMAC Transfers” related to New Chrysler’s impending transition to using GMAC as its financing partner (Chrysler, New Carco Acquisition LLC, and Treasury 2009, PDF pp. 20, 44, 50).[20] 
+
+> 20 The First Lien Credit Agreement referred to this earmark as the “GMAC Sublimit” (Chrysler, New Carco Acquisition LLC, and Treasury 2009, PDF p. 20). 
+
+
+In consideration of the Tranche C commitment, on the closing date, New Chrysler was to issue Additional Notes (additional promissory notes) with a principal of $288 million to Treasury (Chrysler, New Carco Acquisition LLC, and Treasury 2009, PDF p. 65). The notes would carry the same interest rate as the corresponding loan and would have the same term (Chrysler, New Carco Acquisition LLC, and Treasury 2009, PDF p7–8, 16). This consideration for Tranche C also included a Zero Coupon Note (zero-coupon promissory notes) with a principal of $100 million,[21] which had the same term as the Tranche C loans and carried a eurodollar interest rate (Chrysler 2011b, 85, 182; Chrysler, New Carco Acquisition LLC, and Treasury 2009, PDF pp. 47, 52). The Zero Coupon Notes carried only a eurodollar interest rate (see Figure 3). 
+
+Each form of the Tranche C loan proceeds had its own interest rate (see Figure 3 for details). In most circumstances, the eurodollar interest rate per annum for the loans and Additional Notes was the three-month eurodollar rate (with a 2.00% floor) plus 7.91% (GAO 2009b, 135). The loans were to mature on June 10, 2017 (Chrysler 2011c, 182). Any overdue principal payments bore an additional 2.00% of interest per annum (regardless of the form of the loan) and any overdue interest payments bore an interest rate of the applicable ABR rate plus 2.00% per annum (Chrysler, New Carco Acquisition LLC, and Treasury 2009, PDF pp. 47–50). Loans advanced under Tranche C accrued “PIK [paymentin-kind] Interest on a quarterly basis in an amount equal to $17,000,000 per quarter, which will accrete on a straight line basis through the [June 10, 2017] Tranche C Maturity Date” and then “be added to the principal balance of the Tranche C Loans” quarterly in addition to any other interest (Chrysler, New Carco Acquisition LLC, and Treasury 2009, PDF p. 42). New Chrysler could prepay the Tranche C to reduce this quarterly PIK Interest “by a calculated percentage” (Chrysler 2011c, 205). 
+
+> 21 Technically, the First Lien Credit Agreement said that the principal of the Zero Coupon Notes would be the amount in the Loss Sharing Payment Account remaining on “the first business day after the 363 sale and immediately after U.S. Dealer Automotive Receivables Transaction LLC transferred funds in the Loss Sharing Payment Account in excess of $100 million” to New Chrysler (Chrysler, New Carco Acquisition LLC, and Treasury 2009, PDF pp. 20, 40). In theory, this would make the amount remaining in the Loss Sharing Payment Account $100 million. 
+
+
+[FIGURE id=vol4_iss1_4_f3 type=chart label="Figure 3" file=figure_3.png caption="Tranche C Interest Rates"]
+### **Figure 3: Tranche C Interest Rates**
+
+**Eurodollar per annum interest =** 𝐞𝐮𝐫𝐨𝐝𝐨𝐥𝐥𝐚𝐫 𝐫𝐚𝐭𝐞 𝐟𝐨𝐫 𝐢𝐧𝐭𝐞𝐫𝐞𝐬𝐭 𝐩𝐞𝐫𝐢𝐨𝐝 + 𝐚𝐩𝐩𝐥𝐢𝐜𝐚𝐛𝐥𝐞 𝐦𝐚𝐫𝐠𝐢𝐧 eurodollar base rate Eurodollar rate for interest period formula: ~~1.0~~ 0−eurocurrency reserve requirements Applicable margin: • Eurodollar loans: 7.91% • Eurodollar Additional Notes: 7.91% • Zero Coupon Notes: 0% (before the May 2013 expiration of the GMAC Master Agreement) and 7.91% after such a date Eurodollar base rate: Floor set at 2.00% Eurocurrency reserve requirement: Aggregate of maximum rates of reserve requirements under any regulations of the Federal Reserve Board of Governors or any other Governmental Authority with jurisdiction over “reserve requirements prescribed for eurocurrency funding […] maintained by a member bank of the Federal Reserve System” For EDC, the eurocurrency reserve requirement was set to $0. 
+
+**Alternative Base Rate (ABR) per annum interest =** 𝐀𝐁𝐑 + 𝐚𝐩𝐩𝐥𝐢𝐜𝐚𝐛𝐥𝐞 𝐦𝐚𝐫𝐠𝐢𝐧 ABR: the largest of the Prime Rate, the effective federal funds rate plus half of 1.00%, and the one-month eurodollar rate plus 1.00% Applicable margin: 
+
+• ABR loans: 6.91% 
+
+• ABR Additional Notes: 6.91% 
+
+_Source: Chrysler, New Carco Acquisition LLC, and Treasury 2009, PDF pp. 7–8, 16, 18, 23–24, 48–49, 52._ 
+
+## _Terms Shared between Tranche B and Tranche C_ 
+
+The loans appear to have been dollar denominated and were either eurodollar loans or ABR loans, similar to the terms of the DIP as described at page 7 (Chrysler, New Carco Acquisition LLC, and Treasury 2009, PDF pp. 41, 44). The default form was eurodollar loans. However, if lenders were unable to determine eurodollar rate adequately or if eurodollar loans became illegal, the proceeds took the form of ABR loans. Both tranches operated as nonrevolving and any amount repaid or prepaid reduced the respective commitment amount (Chrysler, New Carco Acquisition LLC, and Treasury 2009, PDF pp. 36, 41, 46). For both tranches, any interest that accrued from June 10, 2009, through December 31, 2009, would be added to the principal of the loan as payment-in-kind (PIK) interest rather than being paid off in cash (Chrysler, New Carco Acquisition LLC, and Treasury 2009, PDF pp. 47–48). This effectively deferred the first half year of New Chrysler’s interest payments to Treasury until December 2011 (Chrysler, New Carco Acquisition LLC, and Treasury 2009, PDF pp. 8, 41, 45, 47–48). New Chrysler also granted Treasury powers under an Equity Recapture Agreement as consideration, though not as consideration for Tranche B or Tranche C (Chrysler, New Carco Acquisition LLC, and Treasury 2009, PDF p. 52). These powers caused Treasury, rather than the VEBA, to be the 
+
+
+main economic beneficiary of increases in the value of Chrysler equity above a certain level (COP 2011, 56–57). Treasury evidently received the powers on account of its “making available financial accommodations” to New Chrysler (Chrysler, New Carco Acquisition LLC, and Treasury 2009, PDF p. 52). Other shared terms included the prepayment provisions, which imposed a burden-sharing measure with Canada and a prepayment priority order (Chrysler, New Carco Acquisition LLC, and Treasury 2009, PDF pp. 46–48). 
+
+## _Prepayment Policy_ 
+
+First, any prepayment made by New Chrysler related to the First Lien Credit Agreement triggered an obligation for Chrysler Canada to prepay to EDC an amount proportional to such a payment to Treasury. (Chrysler, New Carco Acquisition LLC, and Treasury 2009, PDF pp. 36, 41, 46). This prevented New Chrysler from prepaying its debts to Treasury before its debts to EDC. There was also a mandatory prepayment of 50% of the outstanding loans, Additional Notes, and Zero Coupon Notes under Tranche C due on June 10, 2016 (Chrysler, New Carco Acquisition LLC, and Treasury 2009, PDF pp. 46–47).[22] 
+
+## _Security and Collateral_ 
+
+The loans, Additional Notes, and Zero Coupon Notes under the First Lien Credit Agreement were secured using a “Security Agreement”[23] that created what appears to be a blanket lien on substantially all of New Chrysler’s tangible and intangible assets (with exceptions for certain types of subsidiaries and joint ventures. (Chrysler, New Carco Acquisition LLC, and Treasury 2009, PDF pp. 61–62, 70–72). 
+
+## _Oversight_ 
+
+The First Lien Credit Agreement dispensed with the weekly reporting requirements from the Joint DIP Facility. Instead, it imposed less frequent reporting requirements similar to those in the Bridge Loans. For example, New Chrysler had to provide unaudited financials within 45 days of “the end of each of the first three quarterly periods” beginning September 30, 2009, and audited financials within 120 days of the end of each fiscal year (Chrysler, New Carco Acquisition LLC, and Treasury 2009, PDF pp. 66–67). 
+
+## _Conditions_ 
+
+Similar to the affirmative covenants in the Joint DIP Facility, the First Lien Credit Agreement had many conditions. These made drawing on Tranche B and Tranche C conditional on the auto company’s success in the bankruptcy proceedings, in addition to the usual requirements for large secured loans (for example, New Chrysler’s 
+
+> 22 This provision also automatically reduced Treasury’s commitment under Tranche C by 50% on this same date. The remaining 50% of Tranche C matured on June 10, 2017, as indicated earlier (Chrysler, New Carco Acquisition LLC, and Treasury 2009, PDF pp. 46–47). 
+
+> 23 The “Security Agreement” was not accessible as of July 1, 2019. 
+
+
+“environmental affairs” must have satisfied Treasury) (Chrysler, New Carco Acquisition LLC, and Treasury 2009, PDF pp. 62, 64–65). 
+
+## _Covenants_ 
+
+The affirmative and negative covenants in the First Lien Credit Agreement included a domestic production volume requirement that would last until the later of five years or until New Chrysler finished repaying any obligations under the Agreement (Chrysler, New Carco Acquisition LLC, and Treasury 2009, PDF pp. 76–77). The Agreement also gave Treasury a veto over the renomination of certain members of New Chrysler’s board as well as a veto over the nomination of successors or replacements for certain members of the board (Chrysler, New Carco Acquisition LLC, and Treasury 2009, PDF pp. 77–78). New Chrysler would also find itself bound by a minimum earnings before interest, taxes, depreciation, and amortization (EBITDA) requirement for more than a year, which would further restrict its operations (Chrysler, New Carco Acquisition LLC, and Treasury 2009, PDF pp. 78, 82–83). In addition to several generic restrictions on New Chrysler’s operations (restrictions on new indebtedness, asset sales, payment of dividends), New Chrysler had to adhere to the various TARP and EAWA burden-sharing conditions (encompassing expense policies, private aircraft use, executive compensation, and the like) imposed by Treasury’s various loans to Old Chrysler (Chrysler, New Carco Acquisition LLC, and Treasury 2009, PDF pp. 73–76, 78–83). However, New Chrysler could free itself from some of the more generic restrictions (asset sale restrictions, restricted transactions with affiliates, among others) by obtaining and maintaining “Investment Grade Ratings from two Rating Agencies” (Chrysler, New Carco Acquisition LLC, and Treasury 2009, PDF pp. 82–83). 
+
+
+|**Facility**|Joint Debtor-In-Possession (DIP) Facility|First Lien Credit Agreement|First Lien Credit Agreement|First Lien Credit Agreement|
+|---|---|---|---|---|
+|**Tranche**|N/A (one tranche)|Tranche B||Tranche C|
+|**Recipient**|Old Chrysler<br>(andindirectly GMAC)|New Chrysler (and<br>indirectly Old Chrysler)||New Chrysler<br>(andindirectly GMAC)|
+|**Maximum**<br>**principal**|$4.1 billion ($1.4 billion until final<br>approval from bankruptcy court);<br>increased to $4.96 billion on May 15,<br>2009a|$2 billionb||$5.14 billionc|
+|**Usage at peak**|$1.89 billion (US) and approximately<br>$1billion(Canada)d|$7.14 billione|||
+|**Purpose**|Funded Old Chrysler during bankruptcy|Tranche B was used to purchase Old Chrysler assets in a Section 363<br>sale<br>Tranche C was used for working capital, with $350 million<br>earmarked for the GMAC transition. Of the total, $500 million<br>provided for the payment of a $500 million portion of Old Chrysler’s<br>BridgeLoandebt assumed byNewChrysler|||
+|**Form**|•<br>Default: Dollar-denominated eurodollar rate loans<br>•<br>Dollar-denominated Alternative Base Rate loans||||
+|**Default**<br>**interest rate**|3-month eurodollar<br>(with a floor of 2.00%) + 3.00%f|3-month eurodollar<br>(with a floor of 2.00%) +<br>5.00%g||3-month eurodollar (with a floor of<br>2.00%) + 7.91%<br>(Zero Coupon Notes did not bear interest<br>until May2013)h|
+|**Maturity date**|Earliest of:<br>•<br>June 5, 2009 (in the case that the<br>Final Order in the bankruptcy became<br>“final and nonappealable” before such<br>a date)<br>•<br>June 29, 2009<br>•<br>“the effective date of a plan of<br>reorganization or liquidation that is<br>confirmed pursuant to an order<br>entered in the Cases by the<br>Bankruptcy Court”<br>•<br>The date of “the acceleration of any<br>Loans and the Additional Notes and<br>the termination of the Commitment in<br>accordance with the terms of this<br>Agreement”<br>•<br>September 30, 2009 (Chrysler, EDC,<br>andTreasury2009,PDFp. 22)|December 10, 2011<br>(could be delayed to||June 10, 2017 (50% balloon payment<br>due on June 10, 2016) (Chrysler, New<br>Carco Acquisition LLC, and Treasury<br>2009, PDF p. 46–47)|
+|||June 10, 2017, for up to|||
+|||$400 million) (Chrysler,|||
+|||New Carco Acquisition|||
+|||LLC, and Treasury 2009|,||
+|||PDF pp. 8, 41, 45, 47–<br>48)|||
+|**Security**|First lien on substantially all of Old<br>Chrysler’s assets|•<br>Blanket lien on substantially all of New Chrysler’s assets<br>•<br>Equity recapture powers|||
+|**Additional**<br>**consideration**|Additional Notes ($253.46 million<br>principal for Treasury and $77.37 million<br>principal for EDC) (Chrysler, EDC, and<br>Treasury2009,PDFp. 322)|9.85% stake in New<br>Chrysler for Treasury||•<br>Additional Notes<br>($288 million principal)<br>•<br>Zero Coupon Notes<br>($100millionprincipal)|
+
+
+
+- (a) See Chrysler, EDC, and Treasury 2009, PDF pp. 49, 95, 317, 322. 
+
+- (b) See Chrysler, New Carco Acquisition LLC, and Treasury 2009, PDF pp. 41, 44, 59. 
+
+- (c) See Chrysler, New Carco Acquisition LLC, and Treasury 2009, PDF p. 45. 
+
+- (d) There is no report showing the peak usage of the combined Treasury and EDC commitments. 
+
+- (e) See Office of Financial Stability 2018. 
+
+- (f) See Chrysler, EDC, and Treasury 2009, PDF pp. 8–9, 15–18, 20–21, 34–37, 302. 
+
+- (g) See Chrysler, New Carco Acquisition LLC, and Treasury 2009, PDF pp. 7–8, 16, 18, 23–24, 48–49, 52. 
+
+- (h) See Chrysler, New Carco Acquisition LLC, and Treasury 2009, PDF pp. 7–8, 16, 18, 23–24, 48–49, 52. 
+
+- Sources: Chrysler, New Carco Acquisition LLC, and Treasury 2009; Chrysler, EDC, and Treasury 2009; Office of Financial Stability 2018. 
+
+
+## _**The Operations of the New Chrysler**_ 
+
+The UAW VEBA, Treasury, the Canadian government, and Fiat set down New Chrysler’s corporate governance arrangements in the Amended and Restated Limited Liability Company Operating Agreement of Chrysler Group LLC (Signed 06/10/2009), which this case study refers to as the LLC Agreement (Chrysler 2011b, PDF p. 1). 
+
+The first order of business for the parties was to set down New Chrysler’s capital structure and the provisions for changing that capital structure over time (see Figure 5). 
+
+[FIGURE id=vol4_iss1_4_f4 type=diagram label="Figure 5" file=figure_5.png caption="New Chrysler Capital Structure"]
+### **Figure 5: New Chrysler Capital Structure**
+
+|Stakeholder|Class and<br>number of<br>shares issued|Initial total<br>interest|Total interest<br>upon one Class B<br>eventa|Total<br>interest<br>upon<br>two<br>Class B<br>eventsb|Total<br>interest if<br>all Class<br>B events<br>occurc|Total<br>interest if<br>additional<br>call options<br>are fully<br>exercised|
+|---|---|---|---|---|---|---|
+|FiatNorth AmericaLLC|200,000 ClassB|20.00%|25.00%|30.00%|35.00%d|51.00%|
+|United States<br>Department of the<br>Treasury|98,461 Class A|9.85%|9.23%|8.62%|8.00%|6.03%|
+|VEBA Holdcos (UAW<br>VEBA Holdco LLC CH-00<br>through 12)|676,924 Class A|67.69%|63.46%|59.23%|55.00%|41.46%|
+|Government of Canada<br>(Canada CH Investment<br>Corporation)|24,615 Class A|2.46%|2.31%|2.15%|2.00%|1.51%|
+|Total|800,000 Class A<br>200,000 ClassB|100%|100%|100%|100%|100%|
+
+
+
+_a Effective January 10, 2011, after a Class B technology event (“Governmental Approvals for an engine [or a vehicle containing an engine for which the Company received a Technology Event Governmental Approval] to be manufactured in the United States and […] delivery to the US Treasury of an irrevocable commitment by the Company […] to begin commercial production of the engine (or a vehicle) as soon as commercially practicable”) (Chrysler 2011b)._ 
+
+_b Effective April 12, 2011, after a Class B non-NAFTA distribution event (the “Company recording cumulative revenues following the date of this Agreement of $1,500,000,000 or more […] attributable to the Company’s sales made outside of […] [NAFTA] following the date of this Agreement” and “execution by the Company of one or more franchise agreements covering in the aggregate at least ninety percent (90%) of the total Fiat Group Automobiles S.p.A. dealers in Latin America pursuant to which such dealers will carry Company products”) (LLC Agreement 2009, PDF pp. 10–11)._ 
+
+_c Effective by July 2011 (Webel and Canis 2012, 5, 15), after a Class B fuel economy event (“completion by the Company of the Fuel Economy Test on a Chrysler-produced pre-production vehicle appropriate for such testing purposes based on Fiat platform or vehicle technology resulting in a fuel economy of at least 40 miles per gallon” and “an irrevocable [Treasury] commitment by the Company […]to begin assembly of such a vehicle in commercial quantities in a production facility in the United States as soon as commercially practicable”) (LLC Agreement 2009, PDF pp. 10–11)._ 
+
+_d Represented by 200,000 Class B membership interests._ 
+
+_Sources: Chrysler 2011b; Canis and Webel 2012; author’s calculations._ 
+
+
+While Treasury had already received a 9.85% equity stake and Canada received its own 2.46% equity stake as additional consideration for their post-petition lending (Chrysler, New Carco Acquisition LLC, and Treasury 2009, PDF p. 52; Chrysler Canada and EDC 2011, 6.18-1), the VEBA received a 67.69% stake in return for waiving a portion of its debt obligation and other concessions (Klier and Rubenstein 2012, 41) and Fiat received a 20% stake as compensation for its technical contribution to New Chrysler (Klier and Rubenstein 2012, 41). 
+
+The LLC Agreement also set down terms regulating changes in New Chrysler’s capital structure. The most detailed of these related to Fiat, which had a number of mechanisms for increasing its equity stake but was prohibited from obtaining a controlling stake in New Chrysler until New Chrysler repaid all of its loans from Treasury and the Canadian government (COP 2011, 53-55). As detailed in Figure 6, Fiat’s ownership of Class B membership shares would automatically increase by 5%, diluting the stake of the other three owners, which held the Class A shares, accordingly (COP 2011, 53–55) upon the occurrence of any of three types of designated events, each which was intended to significantly further Chrysler’s recovery effort (see notes to Figure 5). 
+
+If Chrysler was unable to bring about any of these events by January 1, 2013, Fiat would still have an option to acquire additional Class A membership interests, diluting the other owners. In such a situation, “the Fiat Group’s Total Interest […][would] increase by five percent (5%) in the aggregate for each Class B Event that has not occurred” (Chrysler 2011b, PDF p. 13). 
+
+Although Fiat remained locked out of a controlling stake in New Chrysler until the governments exited, Fiat also enjoyed the right to “buy up to 40 percent of the VEBA’s equity stake at a market-based formulaic price prior to the IPO or a market price after the IPO” at any time (COP 2011, 55). Once New Chrysler repaid its government loans, lifting the restriction on Fiat’s stake in the company, Fiat could exercise an incremental equity call option as well as a Treasury call option (COP 2011, 55). The former allowed Fiat to increase its “stake by up to 16 percent” at a “market-based formulaic price” before a New Chrysler IPO or a “market price” if the option is used after the occurrence of a New Chrysler IPO by diluting the other parties. The latter gave Fiat the right to be the first to purchase Treasury’s equity during the year following New Chrysler’s repayment of its government loans (COP 2011, 55). 
+
+Treasury had several restrictions on the disposition of its equity, by virtue of Fiat’s Treasury call option, but had significant powers over sales of the VEBA’s equity stake (COP 2011, 56–57). Under an equity recapture agreement, Treasury was entitled to “all proceeds from the sale of any of the VEBA’s equity stake in Chrysler above a Threshold Amount, set at $4.25 billion and growing from January 1, 2010, at 9 percent per year,” but it could alternatively purchase VEBA’s equity “for the then-applicable Threshold Amount” (COP 2011, 56–57). However, the Canadian government maintained a claim over 20% of the proceeds (COP 2011, 59). 
+
+
+## _Corporate Governance and Management_ 
+
+The LLC Agreement set down a board of directors with nine initial members and gave the CEO position to the CEO of Fiat (Chrysler 2011b, PDF pp. 21–24, 29–30). The distribution of the seats on the board were related to the distribution of equity stakes in New Chrysler. Correspondingly the seats on the board would change as laid out in Figure 6 (Chrysler 2011b, PDF pp. 22–24): 
+
+[FIGURE id=vol4_iss1_4_f5 type=figure label="Figure 6" file=figure_6.png caption="Chrysler Board Seat Distribution Plan"]
+### **Figure 6: Chrysler Board Seat Distribution Plan**
+
+|Seats on New Chrysler’s<br>board of directors|Fiat holds at least a<br>20% stake (Fiat’s<br>initial stake)|Fiat holds at least a<br>35% stake|Fiat holds at least a<br>50% stake|
+|---|---|---|---|
+|Fiat North America LLC’s<br>seats on board|3|4|5|
+|US Department of the<br>Treasury seats on board|4|3|2|
+
+
+
+|Seats on New Chrysler’s board of<br>directors|Canada maintains its initial<br>stake and the Canadian loan<br>to New Chrysler is active|Canada sells any portion of<br>its stake or Canadian loan<br>has terminated|
+|---|---|---|
+|Governments of Canada and<br>Ontario|1|0|
+||||
+|Seats on New Chrysler’s board of<br>directors|VEBA holds at least a 15%<br>stake|VEBA holds less than a 15%<br>stake|
+|VEBA|1|0|
+
+
+
+_Source: Chrysler 2011b._ 
+
+## _Oversight_ 
+
+Even as the governments decreased their stakes in the auto company, they continued to enjoy significant oversight powers. Each of Fiat, Treasury, the VEBA, Canada, and Ontario received comprehensive financial statements from New Chrysler if the party in question maintained an equity stake of at least 5% (Chrysler 2011b, PDF pp. 42–45). The governments also had additional oversight powers. Canada had to retain only one seat on the Board to maintain access to financial statements (Chrysler 2011b, PDF pp. 42–45). The US maintained limited oversight by mandating that New Chrysler act as if it had to file 10- 
+
+
+Ks and 10-Qs with the Securities and Exchange Commission (SEC) so long as the US retained any of its initial stake in New Chrysler (Chrysler 2011b, PDF pp. 42–45). 
+
+## _Regulating Fiat’s Involvement_ 
+
+In addition to regulating Fiat’s stake in New Chrysler, the LLC Agreement also regulated Fiat’s involvement in New Chrysler’s affairs. For example, the terms of the LLC Agreement prohibited Fiat from terminating “any of its rights” as an organization with seats on New Chrysler’s Board before June 10, 2011 (Chrysler 2011b, PDF p. 34). The LLC Agreement also regulated Fiat’s involvement with several other terms. There were terms governing the necessary conditions for a Chrysler IPO (Chrysler 2011b, PDF pp. 39, 54–55). The LLC Agreement also required that equity in New Chrysler acquired by Fiat through means other than the Class B events be held in a voting trust until certain other conditions were fulfilled (Chrysler 2011b, PDF pp. 39, 54–55). Additionally, the LLC Agreement restricted the board from taking action that would disproportionately affect non-Fiat members if said actions were taken while Fiat had a majority interest in New Chrysler (Chrysler 2011b, PDF pp. 39, 54–55). 
+
+## **Outcomes** 
+
+## _**DIP Financing**_ 
+
+Old Chrysler eventually accessed $1.89 billion from Treasury (Office of Financial Stability 2018) and C$1.28 billion (approximately $1 billion) from EDC under the Joint DIP Facility (Office of the Auditor General of Canada 2014). The US commitment terminated on June 30, 2009. Treasury recovered $159.57 million from the sale of the remaining collateral that constituted Old Chrysler between May 10, 2010, and February 26, 2016 (Office of Financial Stability 2018). Information on EDC’s recovery from its DIP lending commitments was unavailable. 
+
+## _**The Section 363 Asset Sale**_ 
+
+With the beginning of the case, objections to the Section 363 sale from various creditors began to pile up, the most notable of these being from a group of First Lien Secured creditors calling themselves the “Chrysler Non-TARP Lenders” (which included the “Indiana Funds”: the Indiana State Teachers Retirement Fund, the Indiana State Police Pension Trust, and the Indiana Major Moves Construction Fund) (Docket 3073, 11–12).[24] 
+
+The Indiana Funds argued the sale would violate the Bankruptcy Code’s rule of absolute priority because New Chrysler would pay in full certain lower-priority creditors (the secured debts of the government and the unsecured debts of the UAW’s VEBA as well as 
+
+> 24 The Indiana Funds held only $42 million of the $6.9 billion in first priority secured debt (Docket 3073 2009, 11–12). Other groups objecting to various conditions of the bankruptcy included the National Chrysler Retirement Organization (Chrysler’s non-union retirees) and various Chrysler dealerships (Docket 1195 2009; Docket 1045 2009; Docket 1488 2009). 
+
+
+several trade creditors) before paying the First Lien Secured creditors (Docket 3073, 11– 12; COP 2009b, PDF p. 15). The Indiana Funds also argued that Old Chrysler was being underpaid for its collateral. They believed that the collateral securing its loans, which was to be moved to New Chrysler, “would be worth significantly more than the money paid to the First-Lien Lenders” (Docket 3073, 11–12) and that Old Chrysler “could sell the assets for more money if they did not rush the sale, or that First-Lien debt holders could recover more in liquidation” (COP 2009b, PDF p. 15).[25] Therefore, the assets of Old Chrysler would not be a “melting ice cube” (a situation where the value of the assets or business is degrading), and they would not meet the “good business reason” standard needed to allow the Section 363 sale. 
+
+The Bankruptcy Court rejected the Indiana Funds’ arguments and, on May 31, 2009, granted Old Chrysler authorization to sell substantially all of its assets under the proposed Section 363 Sale (Docket 3073 2009, 1). This order asserted that the proposed Section 363 sale was “similar to that presented in other cases in which exigent circumstances warrant an expeditious sale of assets prior to confirmation of a plan.” The court concluded that “the fact that the U.S. government is the primary source of funding does not alter the analysis under bankruptcy law” (Docket 3073 2009, 1). The court argued that it had the discretion to approve the restrictive bidding procedures and accelerated sale conditions, writing that “if a favorable business opportunity is presented that is only available if acted upon quickly, the court has to have the ability to authorize what is best for the estate” (Docket 3073 2009, 15). Furthermore, the Bankruptcy Court said that Old Chrysler demonstrated the Section 363 sale was such a situation, as Old Chrysler had already spent years seeking alliances, finding that “the Fiat Transaction is the only option that is currently viable” and that “the only other alternative is the immediate liquidation of the company” (Docket 3073 2009, 16–19).[26] In its opinion, the court noted that any material delay of the Section 363 sale would damage Old Chrysler’s ability to succeed as a going concern (Docket 3073, 16– 19) and noted that the government’s post-petition financing (and thus the Section 363 sale itself) was “contingent upon a sale closing quickly,” which made the proposed Master 
+
+25 The Non-TARP Lenders (which included the Indiana Funds) also argued that the short timeline and restrictive bidding procedures proposed by Old Chrysler and the DIP Lenders were “designed to prevent, not encourage, competitive bidding,” which the Non-TARP Lenders said contravened the “fundamental purpose for bidding procedures” (in other words, “to maximize the sale price for the Debtors’ assets”) (Docket 286 2009, 2). The court would later declare that the First Lien Secured creditors (of which the Indiana Funds were a part) consented to the Section 363 sale on the basis that all of its members agreed to be bound by the actions of an Administrative Agent, which would be “made at the request of lenders holding a majority of the indebtedness” in the creditor class (Docket 3073, 25). As the holders of the 92.5% of this indebtedness directed the Administrative Agent to consent to the Section 363 sale, the Indiana Funds and other dissenting Non-TARP Lenders had already functionally consented to the sale themselves (Docket 3073, 27). 
+
+26 Further, the Bankruptcy Court also explained that Fiat’s technology and access to international markets materially contributed value to New Chrysler in return for its equity, which was essential to the legality of the provisions of the Master Transaction Agreement granting Fiat its equity stake in New Chrysler. The court also argued that the resources offered to New Chrysler (which would allow it to continue operating as a going concern) and the $2 billion offered to Old Chrysler’s creditors would provide creditors with more than what would be seen in a liquidation (Docket 3073 2009, 16–19). 
+
+
+Transaction Agreement “the only optional available other than piecemeal liquidation” (Docket 3073, 16–19).[27] 
+
+The Bankruptcy Court also rejected the Indiana Funds’ assertion that the $2 billion offered by New Chrysler under Section 363 sale did not constitute “fair value for the assets being sold” (Docket 3073, 16–19). The opinion contended that the Indiana Funds failed to offer an alternative valuation or rebut the analysis by Old Chrysler that its assets were worth less than the $2 billion being offered by New Chrysler (Docket 3073 2009, 16–19).[28] 
+
+The Bankruptcy Court issued another order on June 1, 2009, that formally authorized the Section 363 sale, but the Indiana Funds quickly responded by appealing to the Second Circuit Court of Appeals, which stayed the sale on June 2, 2009 (Ind. State Police Pension Trust v. Chrysler LLC [In re Chrysler LLC]). The Second Circuit heard arguments on the case on June 5, 2009, and affirmed the decision of the bankruptcy judge nearly immediately (Ind. State Police Pension Trust v. Chrysler LLC (In re Chrysler LLC), 7). However, the Indiana Funds then appealed to the Supreme Court for a permanent stay, where Justice Ginsburg issued another temporary stay of the sale on June 8, 2009 (before it could be consummated) (David 2010, 38). The Supreme Court issued an opinion denying the request for a permanent stay and vacating the temporary stay the next day (David 2010, 38).[29] The sale went forward on June 10, 2009 (David 2010, 39). A decision by the Supreme Court on December 14, 2009, vacated the judgments of the Bankruptcy Court and the Second Circuit and also dismissed the Indiana Funds’ appeal as “moot” rendering the opinion without precedential value (David 2010, 39). 
+
+## _**Immediate Outcomes of the Sale**_ 
+
+The sale resulted in a restructuring of Chrysler through a process similar to the procedure the Federal Deposit Insurance Corporation (FDIC) uses for bad banks (Roe and Skeel 2010, 728; FDIC 1998, PDF p. 17). New Chrysler’s balance sheet looked much like Old Chrysler’s, and the process was concluded in a record 42 days. As Roe and Skeel (2010) observed, “never before had the government used bankruptcy to bail out a major industrial corporation” (728). These commenters termed the process “unorthodox” and “a tour de force,” criticizing it for its opaqueness and its impact on the rights of certain creditors, whose priorities under the traditional bankruptcy rules seemed to be disregarded in favor 
+
+27 The creators of the Master Transaction Agreement partially accomplished this with a term in the MTA declaring that “if a sale has not closed by June 15th, Fiat could withdraw its commitment” to purchase Old Chrysler’s assets (Docket 3073 2009, 16–19). 
+
+28 The analysis claimed that the $2 billion offer (the value the experts found for Old Chrysler’s assets as a going concern) exceeded the liquidation value of the assets by at least $800 million, having concluded that the liquidation of Old Chrysler’s assets “would generate between zero and $1.2 billion” (Docket 3073, 16–19). 
+
+29 The Supreme Court wrote that the Indiana Funds failed to pass three tests required for their requested stay: “(1) a reasonable probability that four Justices will consider the issue sufficiently meritorious to grant certiorari […]; (2) a fair prospect that a majority of the Court will conclude that the decision below was erroneous; and (3) a likelihood that irreparable harm will result from the denial of the stay” (David 2010, 38). 
+
+
+of the intended outcome (728).[30] The pre-petition First Lien Secured creditors ended up with 29 cents on the dollar and general unsecured creditors received nothing from Old Chrysler, although a significant portion of Old Chrysler’s unsecured debt was assumed by New Chrysler, namely debts to a number of dealers and trade creditors as well as unsecured pension obligations (see Figure 7 for a summary of the actions and outcomes involved in the restructuring) (Blaylock, Edwards, and Stanfield 2015, 326; Ben-Ishai and Lubben 2011, 81, 84). 
+
+Chrysler eventually borrowed about $1.89 billion from the $4.96 billion Joint DIP Facility and about $5.08 billion from the $6.64 billion First Lien Credit Agreement (Office of Financial Stability 2018). 
+
+In the reorganization that followed, 789 of Chrysler’s 3,200 dealership closed, more than 12 plants closed, the two-tier wage system was expanded, defined benefit pensions disappeared for new hires, and health benefits were dramatically rolled back (Goolsbee and Krueger 2015, 18). Although various dealerships that were “left behind” attempted to pass legislation at the state and national level to ameliorate their situation, it doesn’t appear that they succeeded beyond Congress’ creation of “an arbitration procedure for automobile dealerships to seek continuation or reinstatement of franchise agreements that had been terminated by Chrysler during its bankruptcy proceedings (Chrysler Group LLC v. Fox Hills Motor Sales, Inc., 3; Goolsbee and Krueger 2015, 30). 
+
+New Chrysler continued coordinating a wind-down of Old Chrysler through the bankruptcy courts until Old Chrysler “transferred its remaining assets and liabilities to a liquidating trust and was dissolved in accordance with the bankruptcy court plan” on April 30, 2010 (Office of Financial Stability 2018; Canis and Webel 2012, 7). Old Chrysler’s liquidation only returned about $160 million of the $1.89 billion it borrowed under the Joint DIP Facility (Office of Financial Stability 2018). Old Chrysler was unable to fully repay its pre-petition liabilities from the Bridge Loans. Instead, it settled its $3.5 billion plus interest liability with a payment of $1.9 billion in May 2010 (Treasury took a write-down of $1.6 billion) (GAO 2011, 5). 
+
+That said, New Chrysler repaid all of its borrowing under the First Lien Credit Agreement with interest (Office of Financial Stability 2018). 
+
+Fiat steadily increased its stake in New Chrysler to 25% in January 2011 and 30% in April 2011. It purchased the government stakes in New Chrysler by July 21, 2011 (6% from Treasury for $500 million and 1.5% from the Canadian government for C$132 million) after New Chrysler had finished repaying its post-petition financing obligations to Treasury 
+
+> 30 Roe and Skeel (2010) argue that the court violated the creditors’ priorities and did not appropriately apply Bankruptcy Rule §1129, which provides inter alia for voting by creditors, requires disclosure of the company’s business operations and the impact of the plan on creditors and careful evaluation by the court. They argued that the court’s seemingly failure to follow this “long, precise §1129 checklist for compliance” has set a harmful precedent. 
+
+
+on May 24, 2011 (Office of Financial Stability 2018; Klier and Rubenstein 2012, 41; Office of the Auditor General of Canada 2014). 
+
+New Chrysler’s equity was entirely divided between Fiat (58.5%) and the UAW VEBA (41.0%) by autumn 2011 (Canis and Webel 2012, 8). In January 2014, Fiat purchased what remained of the UAW VEBA’s stake for $3.65 billion and took full control of New Chrysler (Goolsbee and Krueger 2015, 29; Fiat Chrysler 2015, 81). 
+
+[FIGURE id=vol4_iss1_4_f6 type=figure label="Figure 7" file=figure_7.png caption="How Chrysler’s Stakeholders Shared the Burden of Restructuring"]
+### **Figure 7: How Chrysler’s Stakeholders Shared the Burden of Restructuring**
+![Figure 7](assets/vol4_iss1_4/figure_7.png)
+
+
+_Source: SIGTARP 2009, 107._ 
+
+## _**Overall Outcomes**_ 
+
+As a whole, the US government lost either about $1.2 billion, which incorporates returns from the Additional Notes and interest, or about $2.93 billion on the Chrysler rescue, depending on which source one relies on (ProPublica 2019; SIGTARP 2016, 103). Nonetheless, Chrysler recovered, and as a whole the US automotive industry ended up playing a significant role in the larger economic recovery, according to two former members of President Obama’s Council of Economic Advisers (Goolsbee and Krueger 2015, 27). “Although it is not unusual for the auto industry to punch above its weight early in a recovery, it has played an unusually large role relatively long into the current recovery,” with autos contributing more than “25 percent of the rise in total manufacturing industrial 
+
+
+production, even though motor vehicles and parts account for only about 6 percent of total manufacturing value added” (Goolsbee and Krueger 2015, 27). 
+
+By the time that Treasury exited from New Chrysler, the company still had some underfunded pension liabilities, though they were no longer a threat to its viability (GAO 2011, 15). Chrysler also remained reliant on trucks and SUVs as its profit centers after the restructuring (GAO 2011, PDF p. 21). Labor tensions reemerged in 2015, when the UAW nearly struck over more labor concessions after years of austerity (Woodall 2015). The labor issues did not disappear. In 2019, workers demanded better compensation amid a lengthy strike at GM and revelations of alleged bribery of UAW officials by New Chrysler (Naughton 2019). Also in 2019, Fiat Chrysler launched talks with Peugeot owner PSA regarding a possible merger, which were aimed at creating an entity with the “leadership, resources and scale to be at the forefront of a new era of sustainable mobility” (Isidore 2019; Fiat Chrysler 2019). 
+
+## **II. Key Design Decisions** 
+
+## **1. The bankruptcy-based restructuring was part of a multi-faceted program to assist Chrysler and GM.** 
+
+The restructuring of Chrysler was only one part of a larger attempt to rescue the American automotive industry during the Global Financial Crisis. Under the auspices of the Automotive Industry Financing Program (AIFP), the government provided financing for restructuring to GM and Chrysler, but it also created programs to aid related stakeholders such as suppliers, financers, and customers deemed necessary because of the highly integrated and inter-dependent nature of the industry (Office of Financial Stability 2018). GM and Chrysler first received aid under a set of Bridge Loans in late 2008 and early 2009 (see Nye 2021). Treasury provided assistance to suppliers that would continue delivering parts, to finance companies that would maintain financing for new car purchases, and to special purpose vehicles that would guarantee warranties on new cars (Klier and Rubenstein 2012, 39–41, 49). GM also received support from Treasury during its bankruptcy, which followed a similar legal framework. 
+
+## **2. Policymakers decided to save Chrysler largely because of the risk its failure posed to the auto industry and the economy.** 
+
+Despite the sentiment among the staffers working on the restructuring that “from a highly theoretical point of view, the correct decision could be to let Chrysler go,” they and President Obama eventually agreed that Chrysler should be saved (Klier and Rubenstein 2012, 40). A paper from two former members of Obama’s Council of Economic Advisers (CEA) quotes “numerous experts” who questioned the wisdom of saving Chrysler, believing that it would make it more difficult to rescue GM, the failure of which would have been a “major blow to consumer confidence […] at exactly the wrong moment for the economy” (Goolsbee and Krueger 2015, PDF p. 2, 11). President Obama ultimately decided that the “political and social reality,” rather than the economic fundamentals, made the case for 
+
+
+saving Chrysler (Rattner 2011, 120). That is not to say a Chrysler liquidation would have been an easy decision. Approximately 300,000 jobs would have disappeared, with the impact falling heavily on districts that already had unemployment rates as high as 24% (Rattner 2011, PDF p. 4). The CEA economists noted that “66 percent of Chrysler suppliers were also suppliers to GM and 54 percent were suppliers to Ford,” meaning that Chrysler’s liquidation could also endanger other producers at an extremely vulnerable time (Goolsbee and Krueger 2015, PDF p. 15). 
+
+## **3. Legal authority: Financing for the restructuring was authorized under EESA through TARP.** 
+
+The George W. Bush administration cited its authority under EESA, through TARP, to fund the United States’ portion of the Joint DIP Facility and the post-petition First Lien Credit Agreement, much like the rest of the spending under the AIFP. Although the Bush administration initially argued that EESA did not give it the authority to use TARP funds for aid to the automotive industry, Congress’s failure to pass a legislative solution forced it to pivot (Canis et al. 2009, 9). On December 23, 2008, Treasury Secretary Henry M. Paulson, Jr., relied on Section 101(a)(1), Section 3(5), and Section 3(9)(B) of EESA to send an official determination to Congress (Secretary of Treasury 2008).[31] Paulson defined “certain thrift and other holding companies which are engaged in the manufacturing of automotive vehicles and the provision of credit and financing in connection with the manufacturing and purchase of such vehicles” as “financial institutions” pursuant to EESA. He further defined their assets as “troubled assets” eligible for purchase with TARP funds to promote financial stability (Secretary of Treasury 2008). 
+
+During the litigation associated with GM and Chrysler’s 2009 bankruptcies, the government further justified Paulson’s determination as being in line with the intentions of Congress in passing TARP, even after his successor as Treasury Secretary, Timothy F. Geithner, issued a more specific determination on April 29, 2009, which specified that the relevant “troubled assets” were “the debt obligations or equity of […] certain companies engaged in the manufacturing of automotive vehicles” (COP 2009b, 74–76; Secretary of Treasury 2009). The government argued that there was “a certain connection between the automotive companies’ financing entities and the automotive companies themselves that permits the use of TARP funds to support the automotive companies, thereby supporting the companies’ financial divisions” (COP 2009b, 74–76). The Congressional Oversight Panel discussed the validity of the Treasury’s arguments and concluded that the issue of TARP 
+
+> 31 Section 101 (a)(1) authorized the Secretary of Treasury to establish the TARP to “purchase, and to make and fund commitments to purchase, troubled assets from any financial institution” (COP 2009b, 158–59). Section 3(5) broadly defined “financial institutions” as “any institution […] established and regulated under the laws of the Unites States, the District of Columbia, Commonwealth of Puerto Rico, Commonwealth of Northern Mariana Islands, and having significant operations in the United States, but excluding any central bank of, or institution owned by, a foreign government” (COP 2009b, 71). Section 3(9)(B), allowed the Secretary of Treasury (after consultation with the Chairman of the Fed) to define “troubled assets” as any financial instrument for which the Secretary determines purchases “[are] necessary to promote financial market stability […] upon the transmission of said determination, in writing, to the appropriate Committees of Congress” (COP 2009b, 71–72). 
+
+
+authorization “may never be answered with any finality” because it had not been brought to any court to adjudicate (COP 2009b, 79). 
+
+## **4. The restructuring used a Section 363 bankruptcy sale rather than a typical Chapter 11 reorganization plan or a restructuring outside of bankruptcy.** 
+
+The legal mechanics for Chrysler’s restructuring came from Chapter 11 of the Bankruptcy Code. Team Auto[32] was concerned that a Chapter 11 restructuring might drag on for so long that Chrysler would be destroyed in the process (Rattner 2011, 107). Consequently, Team Auto facilitated a surgical bankruptcy for Chrysler using Section 363 of Chapter 11, which could allow Chrysler to sell substantially all of its assets to Fiat and hopefully “clear away old liabilities” quickly (Canis et al. 2009, 24).[33] Bankruptcy scholars advocate for the use of Section 363 in cases dealing with “ongoing losses, limited lender funding commitments, and rapidly depleting assets,” where the faster procedure can help “maximize the value of the estate, thereby increasing creditors’ returns” (Ben-Ishai and Lubben 2011, 81). This type of organization had become popular among creditors by the late 2000s, and, as a creditor, the Treasury decided to take advantage of it. However, the Supreme Court vacated the various judgments approving the Section 363 sale in late 2009, which leaves open the question of whether the courts would approve a similarly aggressive Section 363 sale again (David 2010, 39). Some legal scholars argue that the order indicates that the Supreme Court wished to keep the Second Circuit’s favorable Chrysler opinion from being used as precedent (David 2010, 39). 
+
+That said, Team Auto did consider a more conventional Chapter 11 reorganization. Team Auto began looking at the feasibility of restructuring Chrysler without Chapter 11 (even then, using a prepackaged bankruptcy) only as the April 30, 2009, deadline neared and Chrysler’s First Lien Secured Creditors offered a restructuring plan that would allow Chrysler to avoid bankruptcy (Rattner 2011, 173–77). Apparently, “avoiding bankruptcy seemed so unlikely that we [Team Auto] hadn’t so much as studied the numbers of [such a] case where all the secured lenders were on board,” but the cost of such a restructuring was surprisingly close to the planned bankruptcy (Rattner 2011, 175–76). Officials who were part of Team Auto still opted for the Section 363 sale when it became apparent that some of the First Lien Secured Creditors would not agree to this new restructuring plan (COP 2009b, 49), even though they knew that the 363 sale would provoke legal challenges (Rattner 2011, 175–78; Feldman 2019). 
+
+A Section 363 sale, in contrast to a conventional Chapter 11 reorganization, could be executed much more quickly. This is because they do not require various creditor protections like “the drafting of a complete plan and disclosure statement, creditor voting, 
+
+> 32 “Team Auto” was an internal name for the government officials working on the restructuring (see Rattner 2011, 90). 
+
+> 33 Thinking on a GM acquisition of Chrysler’s top brands floated around Team Auto as Chrysler neared bankruptcy (Rattner 2011, 160-162). Such an arrangement would have cost the taxpayer less money but would not have saved as many American jobs (Rattner 2011, 160–62). 
+
+
+and a confirmation,” which can delay the completion of a bankruptcy (COP 2009b, PDF pp. 45–49, 132). To have the sale approved, Treasury just had to get a majority of the creditors’ committee to agree and obtain approval from the bankruptcy judge. The governments involved in the rescue believed that a faster restructuring would thus “preserve the value of the business, restore consumer confidence, and avoid the costs of a lengthy Chapter 11 process” (Ben-Ishai and Lubben 2011, 81). However, Treasury also was able to use its leverage as DIP lender to create a highly restrictive bidding process for Old Chrysler, which essentially ensured that Fiat’s New Chrysler would successfully purchase Old Chrysler’s good assets (Skeel 2015, 135). Unlike most Section 363 sales, Treasury had New Chrysler purchase Old Chrysler’s assets at a relatively low price while assuming large “liabilities to favored creditors” (Skeel 2015, 135). 
+
+Treasury officials emphasized that each stakeholder affected would still have “full opportunity to have his or her claim heard” in the reorganization (COP 2009b, 35). Other figures, among them the Indiana Funds and some bankruptcy scholars, thought that Chrysler’s aggressive use of Section 363 circumvented such safeguards necessary to the functioning of the Bankruptcy Code as absolute priority (Ben-Ishai and Lubben 2011, 79; Docket 3073 2009). 
+
+## **5. The United States and Canada jointly extended debtor-in-possession financing to Old Chrysler.** 
+
+Treasury and EDC agreed to a Joint DIP Facility to provide Old Chrysler with “the necessary liquidity to sustain [Old] Chrysler during the bankruptcy period” (GAO 2009b, 135). Although Old Chrysler drew only $1.89 billion from the Joint DIP Facility, Treasury and EDC increased the facility to $4.96 billion less than a month after creating it (Office of Financial Stability 2018).[34] 
+
+It is also important to note that Treasury believed that lending under the facility would probably not be repaid in its entirety (COP 2009b, 55–56). However, the DIP loan still gave Treasury two useful mechanisms that would allow it, and Chrysler, to succeed: liens and control. 
+
+First, the Joint DIP Facility gave Treasury liens on nearly all of Old Chrysler’s assets that were senior to all of Old Chrysler’s other creditors (Chrysler, EDC, and Treasury 2009, PDF pp. 7–8, 30, 44). With this advantage, Treasury (and EDC) would be first in line to recover funds from the company if Fiat pulled out of the deal and Old Chrysler collapsed during the Chapter 11 bankruptcy. 
+
+Second, the Joint DIP Facility gave Treasury and EDC a lot of control over the bankruptcy process as major creditors (COP 2009b, 44–45; Feldman 2019). The Bankruptcy Code imposes no statutory limits on the conditions that DIP lenders can attach to their loans beyond requiring approval from the bankruptcy judge (COP 2009b, 44–45). In the case of 
+
+> 34 This brought Treasury’s commitment to $3.8 billion and EDC’s commitment to $1.16 billion (SEC 2011b, 260). 
+
+
+Chrysler, this meant that the US and Canada could effectively determine which creditors (whether they be suppliers, trade creditors, secured creditors, or the UAW) would have their liabilities assumed by the New Chrysler (COP 2009b, 44–45). The Joint DIP Facility’s financing (and, as spelled out in Key Design Decision No. 10, Fiat’s acquisition of a fair amount of Old Chrysler via New Chrysler) was conditional on Old Chrysler’s quickly meeting several milestones in the bankruptcy process (Chrysler, EDC, and Treasury 2009, PDF p. 55). For example, the facility had several different maturity dates, each linked with one of the various paths the bankruptcy proceedings could take (GAO 2009b, 135). Some of these terms triggered maturity by the confirmation of Chrysler’s reorganization plan, by a set number of days after an early event in the bankruptcy process elapsing, or simply by the end of the third quarter of 2009 (Chrysler, EDC, and Treasury 2009, PDF p. 22). Such restrictive terms reflect the extent that the Bankruptcy Code allows DIP lenders to obtain leverage over the speed and shape of a Section 363 sale (David 2010, 66). However, terms such as the various oversight requirements would conceivably help diminish the risk of Chrysler collapsing during the bankruptcy. 
+
+## **6. The bankruptcy was exceptionally speedy.** 
+
+While Old Chrysler’s bankruptcy case remained active through at least March 1, 2016 (Docket 8460 2009, 1–3), it took Chrysler only 42 days to complete the portion of the bankruptcy relevant to financial stability: the sale of the majority of Old Chrysler’s assets under Section 363 of the Bankruptcy Code (COP 2009b, 13). This was unprecedentedly fast (Canis et al. 2009, 24; Docket 8490 2009, PDF pp. 4–5; Docket 8460 2009). 
+
+One reason for the speedy asset sale was that many policymakers saw Chrysler’s Section 363 sale as a test case for the GM restructuring (Feldman 2019; Foley, Goldberg, and Meyer 2010, 2). The results of the Chrysler restructuring would give Treasury time to modify the plan for restructuring GM if anything went wrong (Feldman 2019). Additionally, the damage from a Chrysler liquidation following a failed attempt at restructuring via Section 363 would have been significant but much more limited than it would have been if the same were to happen to GM (Goolsbee and Krueger 2015, PDF pp. 2, 10). 
+
+Another reason Treasury pursued such a fast bankruptcy was the cost of keeping Chrysler alive with taxpayer money. Steven Rattner, Lead Auto Advisor at the Treasury Department, argued that “each additional month of life support [for Chrysler] was going to cost $500 million to $1 billion, money that the Treasury would never see again if the company ended up liquidating” (Rattner 2011, 127). Intuitively, the more time Chrysler spent in Chapter 11, the more likely it would be to draw on DIP funding to stay alive. Drawing more DIP funding would mean that Treasury would receive less per dollar invested in Old Chrysler when Old Chrysler liquidated its remaining collateral. 
+
+## **7. Bankruptcy-related aid to Chrysler was structured as a series of loans, whereas Treasury aided GM using a DIP loan combined with a debt-for equity swap.** 
+
+While most of GM’s bankruptcy-related aid came via a DIP loan that Treasury and EDC swapped for equity in New GM, most of Chrysler’s bankruptcy-related aid came through a 
+
+
+Treasury loan to New Chrysler (Office of Financial Stability 2018). Two members of the Obama-era CEA provided an explanation for this difference: Because of their different financial positions, most of the support provided to GM took the form of equity, while support for Chrysler was in the form of debt that needed to be repaid. One former Treasury official who worked on the restructuring said that Chrysler aid was also less attractive because “we felt as stewards of the taxpayers’ money, we could not put more money into Chrysler than the minimum that we thought was reasonable for it to have a chance to succeed” (Brookings 2014, 87). One could justify the less generous terms of support for Chrysler in part because Chrysler was in more precarious financial shape than GM in 2009, and in part because Chrysler was less pivotal for the near-term course of the auto industry and economy given its smaller size (Goolsbee and Krueger 2015, PDF p. 17). 
+
+## **8. Treasury (and by proxy EDC) protected the taxpayer’s investment by obtaining blanket liens, additional promissory notes, equity, and additional powers.** 
+
+The primary way that Treasury and EDC protected their interest in Chrysler (both Old Chrysler and New Chrysler) in the Joint DIP Facility and First Lien Credit Agreement was obtaining first priority liens on substantially all of the company’s assets. The Bankruptcy Code allowed the lenders under the Joint DIP Facility to bypass more senior creditors by granting the DIP financiers superpriority status and priming liens with a few exceptions for foreign joint ventures (Chrysler, EDC, and Treasury 2009, PDF p. 7–8, 27). Treasury similarly obtained a “first priority lien on all of [New] Chrysler’s assets” under the First Lien Credit Agreement (Treasury 2009c). 
+
+Treasury and EDC also received the Additional Notes as additional consideration for their lending (Chrysler, EDC, and Treasury 2009, PDF pp. 9, 49; Manzo 2009, PDF p. 168). Under the law that created TARP, Treasury was mandated to receive some type of warrant or some other type of additional security as consideration (EESA 2008, §113). For reasons related to both Old and New Chrysler’s private status, warrants were not considered a desirable option, so the Additional Notes were issued.[35] 
+
+For the Joint DIP Facility, Treasury and EDC received Additional Notes worth 6.67% of the “Maximum Loan Amount” committed by each Lender (or, $3.04 billion yielding a $203 million Additional Note for Treasury and $1.06 billion yielding a $70 million (Additional Note for EDC; Chrysler DIP Term Sheet 2009, 6; Chrysler, EDC, and Treasury 2009, PDF pp. 9, 49). These notes had the same interest rates and terms as their related loan (Chrysler, EDC, and Treasury 2009, PDF pp. 9, 49). 
+
+Under the First Lien Credit Agreement, Treasury received a $288 million principal Additional Note, about 6.67% of the working capital offered by Tranche C (Chrysler 2011b, 
+
+> 35 See P.L. 110-343 Sec. 113(d). This requirement emerged from various lessons of the late-1970s bailouts. Namely, that the government could obtain risk compensation for its aid through equity participation—for example, receiving warrants, as it did in its support for Chrysler in the late 1970s. In that circumstance, the government, which had guaranteed certain Chrysler borrowing and received warrants for its assistance, ultimately sold the warrants back to the company at a profit (General Accounting Office 1984, v-vi). 
+
+
+182). Treasury also received $100 million in zero-coupon promissory notes (called Zero Coupon Notes) as additional consideration for its Tranche C financing (Chrysler 2011b, 182). 
+
+In return for providing $2 billion in financing under Tranche B of the First Lien Credit Agreement, Treasury received a 9.85% equity stake in New Chrysler and an additional power over the VEBA’s large stake in New Chrysler (Chrysler, New Carco Acquisition LLC, and Treasury 2009, PDF p. 52). The equity gave the Treasury an additional asset to restore some of the taxpayer’s investment, while the power over the VEBA stake further limited the UAW’s influence within New Chrysler. 
+
+**9. Like other elements in the auto rescue, the Chrysler and its stakeholders endured shared sacrifices during the bankruptcy process.** 
+
+## _**Sacrifices by Board and Management**_ 
+
+Team Auto introduced an entirely new board of directors for New Chrysler, replacing the CEO of Old Chrysler with Fiat CEO Sergio Marchionne (COP 2009b, 16). As part of New Chrysler’s corporate governance arrangements, Treasury appointed four of these new board members, all from outside of the auto industry (COP 2009b, 16). Ron Bloom, one of the key members of Team Auto, explained that replacing the board was meant to create a cultural change within Chrysler, saying that Team Auto sought out a 
+
+new board of directors of people of extraordinary accomplishment in the private sector [for Chrysler]; […] we have tasked them with the responsibility of overseeing the management so that this culture change […] is in fact effectuated (COP 2009, PDF p. 34). 
+
+## _**First Lien Secured Creditors**_ 
+
+The First Lien Secured Creditors received $2 billion from New Chrysler, financed by Treasury, in satisfaction of $6.9 billion in claims, or 29 cents on the dollar (COP 2009b, 152). Treasury played an active role in negotiations with these creditors, with Ron Bloom later explaining that such a strategy was “necessary to administer the government’s investments and protect the taxpayers’ interests” (Rattner 2011, 172–73; COP 2009a, 135; Treasury 2009c). 
+
+## _**Second Lien Secured Creditors**_ 
+
+The Second Lien Secured Creditors, Cerberus and Daimler, were also Chrysler’s majority and minority shareholders,[36] and Old Chrysler owed them $2 billion on a loan (Docket 190 2009, 7–8). They collectively agreed to relinquish their equity and forgive the $2 billion loan (Docket 190 2009, 7–8). Cerberus also contributed Chrysler’s headquarters, and 
+
+> 36 When it filed for Chapter 11, Chrysler was owned 80.1% by Cerberus and its affiliates and 19.9% by Daimler and its affiliates. (COP 2009b, 24). 
+
+
+Daimler was also able to negotiate an agreement with the PBGC that reduced the size of their pension guarantees (Docket 190 2009, 7; Treasury 2009c; PBGC 2011).[37] 
+
+## _**The UAW**_ 
+
+The UAW (as well as Canadian auto workers, or CAW) agreed to major concessions that stretched from work-rule changes to retiree healthcare cuts (Canis et al. 2009, 27). The UAW concessions were motivated by two goals. One, Team Auto wanted to bring down costs to be competitive with the non-union transplants (the US-based factories of Toyota, Honda, etc.) (Rattner 2011, 37–38). This is the reasoning behind such reforms as the expansion of a two-tier wage system, the suspension of cost of living adjustments, and the UAW’s promise not to strike for five years (Feldman 2019; COP 2009b, 18; Canis et al. 2009, 27, 76; Kesselman 2017). The other reason for the concessions was that Team Auto (as well as Chrysler itself) wanted to reduce Chrysler’s massive UAW benefit liabilities (Rattner 2011, 153–54). 
+
+The UAW’s VEBA “exchanged an almost $8 billion fixed obligation to the [VEBA] […] for a $4.6 billion unsecured note” and equity in New Chrysler (COP 2009b, 18). While this gave the VEBA a 55% majority stake in New Chrysler,[38] the VEBA was “managed by an independent committee of legally bound fiduciaries” and had only a single vote on New Chrysler’s board (COP 2009b, 28; Canis et al. 2009, 58–59; Chrysler 2011b, PDF pp. 86–88). 
+
+The UAW did make major concessions, but its workers suffered significantly less than some of Old Chrysler’s non-union workers. In a July 2009 Congressional Oversight Panel hearing, Ron Bloom explained that “product liability and some workers compensation claims will not be permitted to carry their claims forward to New Chrysler” (COP 2009a, PDF p. 26). The UAW also received a superior arrangement to Old Chrysler’s secured creditors. Traditionally, this would be against the Bankruptcy Code’s rule of absolute priority because it gave “value to junior claimholders—including the US government, the Retirees’ Settlement, the UAW, and unsecured trade creditors—while failing to pay the senior secured creditors’ claims in full” (David 2010, 32–35). However, the UAW received its equity stake in New Chrysler on account of “new value” brought to the business and not Old Chrysler’s obligations to the union, so the courts allowed the arrangement (David 2010, 49–50).[39] 
+
+37 The Congressional Oversight Panel gives background to both of these sacrifices, noting that “when Chrysler filed for bankruptcy, its pension liabilities were significantly underfunded” and that the $2 billion loan was part of Cerberus’ 2007 leveraged buyout of Chrysler (COP 2009b, 14, 27). Additionally, Cerberus, the previous majority owner of Old Chrysler, “agreed to transfer its ownership of the Chrysler headquarters in Auburn Hills, Michigan, to New Chrysler” (COP 2009b, 14). 
+
+38 Some secondary sources say that the VEBA received a 55% stake in New Chrysler (COP 2009b, 152), but the LLC Agreement setting out New Chrysler’s structure and GAO reports show the VEBA receiving a 67.692% stake (GAO 2009c, 14). 
+
+39 The UAW officially received the equity as “consideration for” the concessions in its new collective bargaining agreement with Chrysler, not for the VEBA restructuring part of Chrysler’s debt (David 2010, 31– 32). Treasury’s explanation for this maneuver revolves around the sentiment that New Chrysler would need 
+
+
+## _**Suppliers**_ 
+
+Suppliers agreed to reduce their prices, but New Chrysler assumed many of the suppliers’ contracts (Canis et al. 2009, 27; Barron 2009). 
+
+## _**Warranty Holders and Tort Creditors**_ 
+
+New Chrysler agreed to assume the warranty claims of those who had warranties with Old Chrysler (COP 2009a, PDF p. 37). New Chrysler also agreed to assume “Lemon Law liabilities and executory contracts” outlined in the MTA that were made with Old Chrysler (Wolff v. Chrysler 2010). 
+
+## _**Dealers**_ 
+
+Team Auto, bankruptcy scholars, and eventually Chrysler personnel agreed that Chrysler needed to “dramatically alter its dealer network”; bankruptcy offered an opportunity to do that easily (Baird 2012, 274; Rattner 2011, 194; COP 2009a, PDF p. 83). Dealerships were notoriously difficult to eliminate outside of bankruptcy, due to various “franchising and state laws” (Harreld, Marshall, and Lane 2013, 6). 
+
+There is no explanation from Treasury for the sacrifices imposed on Chrysler dealers, though, unlike GM, “Chrysler’s dealer reduction would take place almost immediately” and offered no appeals process for terminated dealers; Chrysler offered only an approximately three-week transition period (Canis et al. 2009, 23; Canis and Platzer 2009, 21). Dealers that remained viable also made sacrifices; they agreed to reduce their “service contract margins” (Canis et al. 2009, 27). Chrysler dealers set to be wound down loudly protested. They objected to the “short wind-down period (26 days) and lack of appeals process” (Canis and Platzer 2009, 21). 
+
+Team Auto recognized that shutting down these dealers would be politically contentious; Rattner noted that the restructuring had “relatively little Congressional intrusion—until the two companies virtually simultaneously announced their dealer reduction plans (Rattner 2010, PDF p. 9). 
+
+## **10. Treasury treated Fiat differently from Chrysler’s other stakeholders because Fiat was central to its strategy for turning around Chrysler.** 
+
+Treasury’s Team Auto saw Fiat (and its CEO, Sergio Marchionne) as a partner integral to the restructuring of Chrysler (Feldman 2019; Treasury 2009b, 1). Fiat’s contribution of technology and access to supply chains (rather than cash or debt) meant that the Italian company would have limited skin in the game, but officials from Team Auto did not comment on whether this posed any problems. While Fiat’s knowledge of small, fuel- 
+
+workers and would not have been able to survive the shock of a rejected collective bargaining agreement (Feldman 2019; Baird 2012, 279). 
+
+
+efficient cars and access to international supply chains would help Chrysler’s brands reach overseas, Team Auto used Sergio Marchionne to create lasting cultural change within the organization (Rattner 2011, 80–81; Chrysler et al. 2009, PDF p. 10–11). Treasury also structured New Chrysler’s operations agreement and its working capital in a way that restricted Fiat’s actions. Fiat could not easily exit the affiliation and had to meet predetermined milestones in Chrysler’s turnaround to increase its stake in the company (Chrysler 2011b, PDF pp. 86–88). Treasury connected Fiat’s ability to gain new seats on New Chrysler’s board with these milestones (Chrysler 2011b, PDF pp. 86–88). That said, Fiat would increase its control of Chrysler even if Chrysler did not meet the various milestones set out for its restructuring (Chrysler 2011b, PDF p. 13). Reflecting on the arrangement as a whole, Fiat’s CEO said that he “had a very short leash” (Brookings 2014, 86). He explained that if Fiat did anything incorrectly or could not perform, Treasury would have had GM absorb Chrysler (Brookings 2014, 86). 
+
+Terms related to Fiat also lent a sense of urgency to the bankruptcy, potentially speeding it along. The Bankruptcy Court approved the expedited bidding timeline for the Section 363 sale because Fiat’s purchase agreement mandated that the bankruptcy be completed by June 15, 2009 (COP 2009b, 132). If the Bankruptcy Court did not execute the sale by that deadline, the government said that Fiat would back out of the sale and receive an additional breakup fee (Docket 492 2009, PDF pp. 5–6; COP 2009b, 132). 
+
+## **11. The government’s behavior as shareholder was hands-off.** 
+
+The government largely took a hands-off approach in managing its stake in New Chrysler (COP 2009b, 28–29). It asserted that using New Chrysler “as an instrument of broader government policy […] [was] inconsistent” with their goals (COP 2009b, 29). While the government did have control over a number of seats on New Chrysler’s board, it sought to limit potential political influence (COP 2009b, 12, 28–29). Treasury set down formalized, but not legally binding rules for government ownership known as the “USG as shareholders,” which “would add strict limits on government involvement postrestructuring to the existing edict that […] [it] not ever meddle in day-to-day management decisions” (Goolsbee and Krueger 2015, 28–30; Rattner 2010, PDF p. 8). 
+
+The July 2009 Congressional Oversight Panel hearing summarizes some of the other core elements of the rules. In the hearing, Team Auto member Ron Bloom noted that “the government has no desire to own equity stakes in companies any longer than necessary” (COP 2009a, PDF p. 21). The Government Accountability Office summarized: 
+
+Treasury’s role as an equity owner focuses on monitoring the financial health of the companies in order to protect the value of Treasury’s equity stake.[...] Treasury reserves the right to set up-front conditions to protect taxpayers and promote financial stability [and] Treasury plans to oversee its financial interests in a commercial manner, in which it will focus primarily on maximizing its return and take a hands-off approach to day-to-day management. Treasury plans to reserve its involvement for major transactions such as the sale of a controlling share of the companies. Treasury’s role as a creditor is not as clearly delineated, but much like in 
+
+
+its role as equity owner, Treasury has said it will focus on monitoring the companies’ financial health.” (GAO 2009d, 14) 
+
+Still, the US government was also willing to use its stake to promote its industrial policy agenda. The post-petition First Lien Credit Agreement’s “Vitality Commitment” required that New Chrysler manufacture at least 40% of its yearly sales volume in the US or that New Chrysler’s yearly production volume in its US manufacturing plans be at least 90% of Old Chrysler’s 2008 fiscal year production volume from its US manufacturing plants (Chrysler, New Carco Acquisition LLC, and Treasury 2009, PDF pp. 76–77). 
+
+## **12. The President’s Task Force and Treasury’s Team Auto led the administration’s efforts to restructure Chrysler.** 
+
+Because its financing came from the AIFP, which was itself part of TARP, the restructuring was administered by Team Auto, which was part of Treasury’s Office of Financial Stability (Treasury 2014; Rattner 2011, 90). Team Auto drew upon the few automobile industry experts in the federal government but was largely composed of restructuring and bankruptcy experts. The team was “was notable for not including any individuals with close ties to the auto industry” and one team member later reflected that the team had no communications professionals (Klier and Rubenstein 2012, 39; Feldman 2019). The primary reason for this seems to be that the auto rescue was considered a private-equitystyle restructuring deal, which tends to rely on nonsectoral financial and bankruptcy expertise (Rattner 2011, 218). As such, Team Auto was intimately involved in the planning, negotiation, and execution of the restructuring and was supported in its efforts by many outside experts (COP 2009b, 49; Rattner 2011, 182). 
+
+## **13. Although a private company, New Chrysler agreed to provide periodic financial reports to Treasury and publicly.** 
+
+New Chrysler’s LLC Agreement committed the company to voluntarily filing quarterly reports with the SEC (COP 2009a, PDF p. 35; GAO 2009d, 17). However, these reports are only available beginning in early 2011 (Chrysler 2011c). According to Ron Bloom of Team Auto, New Chrysler filed with the SEC “because there are taxpayer dollars at stake […] giving the American people a periodic quarterly report card [was] […] proper and appropriate (GAO 2009d, PDF p. 43). The LLC Agreement also required New Chrysler to provide Treasury with monthly, quarterly, and yearly financial performance updates until Treasury no longer held over 5% in New Chrysler (GAO 2009d, 17). 
+
+Because funding for Chrysler’s restructuring came from TARP, the Government Accountability Office (GAO), and the Special Inspector General for the Troubled Asset Relief Program (SIGTARP) had significant oversight over Old and New Chrysler (COP 2009b, 55– 56, 174). 
+
+Treasury also gained broad oversight over Chrysler through terms in its lending facilities. The lending facilities required Chrysler to provide Treasury with “its consolidated balance sheet and the related consolidated statements of income and cash flow, on a quarterly and annual basis, and […] updates to its schedules of real property, mortgages property, 
+
+
+pledged equity and notes, subsidiaries, and mortgage filing offices (beginning in 2010)” until Chrysler repaid its loans (GAO 2009d, 17). 
+
+## **14. The rescue involved international coordination with Canada.** 
+
+Treasury and EDC collaborated frequently throughout Chrysler’s restructuring, though Canada’s influence on the design of the restructuring appeared limited. Canada was extremely exposed to a collapse in the US auto industry (Foley, Goldberg, and Meyer 2010, 7). Canada ended up assisting Chrysler as part of the Joint DIP Facility, but it only contributed to New Chrysler by offering working capital to Chrysler Canada, Chrysler’s Canadian subsidiary (Office of the Auditor General of Canada 2014). Canada guided its financial contributions using the principle that Canada’s total share of assistance would be based on the ratio of Canadian automotive production to the total automotive production of the three countries of the North American Free Trade Agreement (NAFTA) (Office of the Auditor General of Canada 2014). Canada and the US established this share at 20% (Office of the Auditor General of Canada 2014). Canada also included provisions similar to Treasury’s domestic production requirements in its own loan to Chrysler Canada (Chrysler Canada and EDC 2011, 76). Under these provisions, Chrysler had to maintain at least 17% of its NAFTA production volume in Canada while the loan and any of its related agreements were outstanding and at least 20% of its NAFTA production volume in Canada by June 10, 2017 (Chrysler Canada and EDC 2011, 10–33, 76). 
+
+Although the Joint DIP Agreement provided for some burden-sharing between EDC and Treasury (Chrysler, EDC, and Treasury 2009, PDF pp. 62, 66, 68), Canada had to adapt a number of its bureaucratic institutions to collaborate effectively with Treasury (Graham 2011, PDF pp. 4, 7). The Canadian government saw that it could use its loose equivalent to the Export-Import Bank, the EDC, to disburse funds abroad through its “Canada Account” (ISED Canada 2016, 10-11). However, when Canada wanted to participate in New Chrysler, it had to find a way to hold its equity, as “the legislation for the Canada Account prevents it from holding equity (ISED Canada 2016, 10-11).[40] The Canadian government improvised and used the “Canada Development Investment Corporation (CDIC) to hold the equity” (ISED Canada 2016, 10–11). Canada also had no legal framework for the VEBA that was going to take over Chrysler Canada’s health care obligations. Canada’s parliament later passed amendments to its Income Tax Act that created a new category of trust for the VEBA (Office of the Auditor General of Canada 2014). 
+
+## **15. Treasury sought to maximize the taxpayer’s return on investment yet exit as soon as possible.** 
+
+Treasury framed its exit policy as “selling the government’s shares as soon as practicable to recover taxpayer money and return the company to private ownership” (Goolsbee and Krueger 2015, PDF p. 28). Treasury thought this would involve “either a private sale or a 
+
+> 40 These adaptions are explained by the fact that Canadian government did not consider the holding of equity in or the disbursement of emergency funds to a private company, let alone one outside of its borders, as part of its “core mandate” (ISED Canada 2016, 10-11) 
+
+
+gradual sell-off of shares following an IPO” (COP 2009b, 38) The Congressional Oversight Panel noted that Treasury’s “strategy hinges directly on the ability of the […] [company] to restructure and become profitable” (COP 2009b, 68). Treasury eventually chose a private sale and began indicating this direction in 2010, with the GAO reporting “that the department is more likely to consider a private sale [for Chrysler] because its equity stake is smaller [than in GM]” (GAO 2009d, 24). Treasury finally sold its stake in New Chrysler for $500 million to Fiat on July 21, 2011 (Treasury 2011; Canis and Webel 2012, 12). 
+
+## **16. Communications regarding the rescue were unusually frequent and detailed.** 
+
+Although one member of Team Auto later reflected that having a communications professional on the team would have been useful (Feldman 2019), there were frequent and detailed communications regarding the restructuring, which the White House appeared to lead. Communications largely served three purposes throughout the Chrysler restructuring. 
+
+## _**Signaling Bankruptcy and Preparing Chrysler and Its Stakeholders for It**_ 
+
+Because an automotive bankruptcy of this size was unprecedented, on March 30, 2009, President Obama appeared on TV to discuss the government’s support for the auto companies. He raised the possibility of bankruptcy and said that Chrysler would have to radically change to receive government support. He characterized bankruptcy as a tool for restructuring, rather than liquidation (PBS 2009). A month later, on April 30, President Obama announced the bankruptcy filing (Obama 2009a). First, Obama communicated the importance of America’s automakers to the larger economy and the implications of their failure, (C-SPAN 2009b). Second, Obama asserted that many of Old Chrysler’s stakeholders agreed to make sacrifices to make Chrysler become viable and execute a successful turnaround (C-SPAN 2009b). Third, the speech painted dissenting stakeholders as “a small group of speculators” endangering Chrysler’s future (C-SPAN 2009b). Fourth, the speech characterized the government as merely supporting a restructuring that already had “made great progress” (C-SPAN 2009b; Rattner 2011, 177–78).[41] Last, the speech also continued to describe bankruptcy as a tool for restructuring that would “clear away [Chrysler’s] remaining obligations so the company can get back on its feet” (C-SPAN 2009b; Obama 2009a). 
+
+## _**Explaining the Government’s Direction throughout the Bankruptcy**_ 
+
+Government communications also painted the use of the Bankruptcy Code as conventional, or even beneficial for Chrysler’s stakeholders. It discussed exactly how the restructuring would use the Bankruptcy Code and posited that the seemingly heavy-handed terms of the DIP loan were common. Ron Bloom also put forward the idea that the government behaved just like any other commercial actor taking part in a restructuring, but that it also “gave every affected stakeholder a full opportunity to have his or her claim heard” (COP 2009b, 
+
+> 41 There was still uncertainty pertaining to Chrysler’s transition to GMAC (Rattner 2011, 171–72, 177–78). 
+
+
+35). He added that “every creditor will almost certainly receive more than they would have had the government not stepped in” (COP 2009b, 35). 
+
+## _**Convincing the Public That the Government Was Doing a Good Job and Asserting That the Administration Was Going above and beyond Their Transparency Requirements**_ 
+
+At the same time that President Obama announced the Chrysler bankruptcy on April 30, 2009, he also attempted to reassure workers by announcing the “White House Council on Automotive Communities and Workers” (C-SPAN 2009b). The President noted that the Council would be “reaching out to our hardest-hit areas, cutting through red tape, ensuring that the full resources of the federal government are getting to the workers, the families, and communities that need it the most” (C-SPAN 2009b). However, reports by the GAO point to the Council’s being used as a tool for demonstrating successes in the auto recovery, as it did not have a budget to directly assist communities (GAO 2011, 39). The White House and Treasury also used other tactics to demonstrate the success of the auto restructuring, which ranged from appearances on television to visits by the President to Chrysler assembly plants (Obama 2010; PBS 2009). 
+
+Team Auto also made an early effort to show taxpayers how their investment in New Chrysler was performing by requiring that New Chrysler file reports with the SEC (COP 2009b, 19). 
+
+## **III. Evaluation** 
+
+The Obama White House said that the restructuring was a success, but responses from within Team Auto were more muted. The White House released a report in 2011 outlining Chrysler’s recovery, pointing to the working capital provided during the bankruptcy as a turning point in its restructuring (White House 2011, PDF pp. 2–4). Director of the National Economic Council (NEC) Lawrence Summers broadly said that aiding the auto companies was not a mistake, stating that Chrysler was able to achieve better “relative competitive position […] than I would have expected in the fall of 2009” (Summers 2014). Steven Rattner, one of the key figures in Team Auto, complemented Chrysler’s return to profit during the first two quarters of 2010, as well as the restructuring as a whole (Rattner 2011, 298, 301–02). However, Rattner was initially unsure of whether the “surgery saved the patient” as of mid-2010, writing that only Chrysler’s performance in the next few years would show that (Rattner 2011, 298). 
+
+Ron Bloom, another key figure in Team Auto, defined a key success metric for the restructuring as the return of taxpayer money (COP 2009a, 38–39). Based on this metric, the Chrysler restructuring was not entirely successful, as it did not result in taxpayers’ reclaiming all of their investment in Chrysler (ProPublica 2019). ProPublica’s Bailout Tracker lists the government’s aggregate investments in Chrysler (including the $4 billion Bridge Loan) as a $1.21 billion loss, but SIGTARP estimated the loss at $2.93 billion (ProPublica 2019; SIGTARP 2016, 103). Two former CEA officials who were involved in the auto restructuring have a more mixed view of the Chrysler bankruptcy. Austan Goolsbee 
+
+
+and Alan Krueger were of the view that bankruptcy is an especially clunky tool for addressing problems that implicate “cross-industry spillovers or broader government or social costs” (Goolsbee and Krueger 2015, PDF pp. 15, 26–27). While they note that Chrysler outperformed expectations after its restructuring, they also suggest that “to some extent, Chrysler’s gains [in market share] came at the expense of the other domestic firms,” like GM (Goolsbee and Krueger 2015, PDF p. 22). 
+
+The Chrysler bankruptcy was subject to intense litigation and was extremely controversial among bankruptcy scholars. While some scholars say that the only abnormal part of the bankruptcy was the identity of the DIP creditors, Treasury and EDC, others criticize the restructuring on two counts (COP 2009b, 130–32; Ben-Ishai and Lubben 2011, 79). (See Docket 3073 2009 for the details of why the bankruptcy court rejected some of these criticisms.) One argument is that Chrysler’s Section 363 sale was so aggressive that it was effectively a stealthy version of a plan of reorganization (the legal term for this is a _sub rosa_ plan), which should not have been allowed because it circumvented the Chapter 11 process (Roe and Skeel 2010, 736–37, 741). Although the structure of the 363 sale was sound, one scholar characterized it as using Section 363 in a way that “extended the domain of Section 363 far beyond anything that had ever previously been attempted” (Skeel 2015, 136). Without the safeguards required by the conventional Chapter 11 process, these critics argue, Treasury was able to impose a procedure that unfairly discriminated in favor of the UAW, made the bidding process uncompetitive, and ultimately validated sales that “were not really sales at all” (Roe and Skeel 2010, 760; Skeel 2015, 136). A second argument is that the banks constituting a large portion of the secured lenders, who approved of the 363 sale over the dissenting non-TARP lenders, had a conflict of interest due to their participation in TARP (Roe and Skeel 2010, 770). Perhaps more significantly, these critics thought that these flaws could weave their way into the substance of American bankruptcy law (Robinson 2010, 516). 
+
+The Congressional Oversight Panel did not take a position on whether Chrysler’s restructuring was successful in either 2009 or 2011. Addressing the auto restructurings in 2009, it claimed that Treasury had “not clearly explained how the various competing policy and financial objectives involved in the rescue of the automotive companies influenced its decisions,” signaling a transparency problem (COP 2009b, 57). In its 2011 report, it said that it was too early to tell if the larger auto restructuring exercise was successful, but things appeared “to be on a promising course” (COP 2011, PDF p. 4). 
+
+The Congressional Oversight Panel’s 2009 evaluation of the Chrysler bankruptcy mainly summarized arguments by bankruptcy academics and creditors about the bankruptcy’s potential impact on financial markets and prospects for taxpayer recovery. The panel concluded that “it is both too early and, given the number of variables, perhaps not possible to conclude one way or another as to what effect the government’s involvement in the Chrysler bankruptcy will have on credit markets going forward” (COP 2009b, 53). However, it also stated that “Treasury’s involvement in the Chrysler bankruptcy […] is likely to cause investors to reevaluate their risk assessment regarding certain companies with similar characteristics” (COP 2009b, 53). Such a reevaluation might cause the “cost of capital going forward for companies with similar characteristics […] [to go] up or down 
+
+
+depending on how future creditors view the outcome of the Chrysler bankruptcy—whether government intervention left creditors with more, the same, or less than they would have received without such intervention” (COP 2009b, 53). By 2011, the Congressional Oversight Panel still had some misgivings about Chrysler’s post-bankruptcy performance, complaining that “Chrysler’s financial performance has been burdened by the significant and costly debt it still carries, much of it related to the TARP” (COP 2011, 63). 
+
+The Government Accountability Office had a less positive view of the Chrysler bankruptcy. Although it complemented New Chrysler for effectively reducing its labor costs, the organization complained about transparency problems and the company’s continued reliance on SUVs (GAO 2011, 15–19). The GAO also stated that Treasury’s exit strategy wasn’t transparent enough for it to effectively assess Treasury’s performance as an investor (GAO 2011, 26). The Office also had difficulty assessing the White House Council on Automotive Communities and Workers’ performance, because the Council’s members had “not tracked their assistance to auto communities or measured or assessed the results of that assistance (GAO 2011, 38–43). The GAO believed that the restructuring “created economic challenges for communities in which the companies closed a manufacturing plant or otherwise reduced employment” (GAO 2011, 38–43). 
+
+## **IV. References** 
+
+Baird, Douglas G. 2012. “Lessons from the Automobile Reorganizations.” _Journal of Legal Analysis_ 4, no. 1: 271–300. doi:10.1093/jla/las001. https://ypfs.som.yale.edu/library/lessons-automobile-reorganizations. 
+
+Barkholz, David. 2011. “Chrysler Seeks to Keep Lid on UAW Pay through 2019.” _Automotive News_ , September 20, 2011. https://ypfs.som.yale.edu/library/chrysler-seeks-keep-lid-uaw-pay-through-2019. 
+
+Barron, Jacob. 2009. “After the Storm: Bankruptcy and Credit in Wake of Chrysler and GM.” _Business Credit_ , July 1, 2009. https://ypfs.som.yale.edu/library/after-storm-bankruptcy-and-credit-wake-chrysler-andgm. 
+
+Ben-Ishai, Stephanie, and Stephen J. Lubben. 2011. “A Comparative Study of Bankruptcy as Bailout.” _Brooklyn Journal of Corporate, Financial & Commercial Law_ 6, no. 1: 79–101. https://ypfs.som.yale.edu/library/comparative-study-bankruptcy-bailout. 
+
+Blaylock, Bradley, Alexander Edwards, and Jared Stanfield. 2015. “The Role of Government in the Labor–Creditor Relationship: Evidence from the Chrysler Bankruptcy.” _Journal of Financial and Quantitative Analysis_ 50, no. 3: 325–48. doi:10.1017/S0022109015000277. https://ypfs.som.yale.edu/library/role-government-labor-creditor-relationship-evidencechrysler-bankruptcy-0. 
+
+
+Brookings Institution _._ 2014. “A Discussion with Chrysler Chairman and CEO Sergio Marchionne and Larry Summers.” Lecture. Washington, DC, May 21, 2014. https://ypfs.som.yale.edu/library/recovery-road-assessment-auto-bailout-and-state-usmanufacturing-discussion-chrysler. 
+
+Canada Government. 2009. “Canada and Ontario: Joint Support for Chrysler Restructuring.” https://ypfs.som.yale.edu/library/canada-and-ontario-joint-support-chryslerrestructuring. Canis, Bill, and Baird Webel. 2012. “TARP Assistance for Chrysler: Restructuring and Repayment Issues.” Congressional Research Service. September 7, 2012. https://ypfs.som.yale.edu/node/3699. 
+
+Canis, Bill, James M. Bickley, Hinda Chaikind, Carol A. Pettit, Patrick Purcell, Carol Rappaport, and Gary Shorter. 2009. “U.S. Motor Vehicle Industry: Federal Financial Assistance and Restructuring.” May 29, 2009. https://ypfs.som.yale.edu/library/us-motor-vehicle-industry-federal-financial-assistanceand-restructuring. 
+
+Canis, Bill, and Micheala D. Platzer. 2009. “U.S. Motor Vehicle Industry Restructuring and Dealership Terminations.” August 7, 2009. https://ypfs.som.yale.edu/library/us-motor-vehicle-industry-restructuring-anddealership-terminations. 
+
+Canis, Bill, and Brent D. Yacobucci. 2015. “The Advanced Technology Vehicles Manufacturing (ATVM) Loan Program: Status and Issues.” January 15, 2015. https://ypfs.som.yale.edu/library/advanced-technology-vehicles-manufacturing-atvmloan-program-status-and-issues. 
+
+Chrysler Canada Inc. and Export Development Canada (Chrysler Canada and EDC). 2011. “Amended and Restated Loan Agreement By and Among Chrysler Canada Inc., As Borrower, and the Other Loan Parties and Export Development Canada, as Lender Dated as of June 10, 2009.” _EDGAR System_ . Securities and Exchange Commission. April 25, 2011. https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/EDC%20Chrysler%20Amen ded%20and%20Restated%20Loan%20Agreement,%20dated%20as%20of%20June%201 0,%202009.pdf. 
+
+Chrysler Group LLC (Chrysler). 2009. “Chrysler Restructuring Plan for Long-Term Viability.” February 17, 2009. https://ypfs.som.yale.edu/node/3685 
+
+———. 2011a. “Amendment No. 3 to Form 10 General Form for Registration of Securities Pursuant to Section 12(B) or (G) Of the Securities Exchange Act Of 1934.” _EDGAR System_ . Securities and Exchange Commission. April 25, 2011. https://ypfs.som.yale.edu/library/chrysler-group-llcs-amendment-no-3-form-10-generalform-registration-securities-pursuant. 
+
+
+———. 2011b. “Chrysler Group LLC Corporate Documents (June 10, 2009).” June 7, 2011. https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Chrysler%20LLC%20Corpo rate%2006-07-11_1.pdf. 
+
+———. 2011c. “Form 10: General Form for Registration of Securities Pursuant to Section 12(B) OR (G) of the Securities Exchange Act of 1934.” _EDGAR System_ . Securities and Exchange Commission. February 25, 2011. https://ypfs.som.yale.edu/library/chrysler-group-llc-form-10-general-form-registrationits-class-b-llc-membership-interests. 
+
+Chrysler Group LLC and GMAC LLC (Chrysler and GMAC). 2009. “2009-04-30 Master Auto Finance Agreement Term Sheet dated April 30, 2009 (MAFA Term Sheet).” _EDGAR System_ . Securities and Exchange Commission. August 7, 2009. https://ypfs.som.yale.edu/library/chrysler-gmac-master-financial-services-agreementgmac-mafa-mafa-term-sheet. 
+
+Chrysler Group LLC and US Department of the Treasury (Chrysler and Treasury). 2008. “Chrysler Original Loan and Security Agreement (with amendments) (December 31, 2008).” Chrysler LSA as of 05-26-10.pdf. Updated May 26, 2010. https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/2009-0102%20to%202010-05-26%20Chrysler%20LSA%20as%20of%2005-26-10.pdf. 
+
+Chrysler Group LLC, Export Development Canada, and US Department of the Treasury (Chrysler, EDC, and Treasury). 2009. “$4,100,000,000 Second Lien Secured Priming Superpriority Debtor-in-Possession Credit Agreement among Chrysler LLC, a Debtor and Debtor-in-Possession under Chapter 11 of the Bankruptcy Code, as the Borrower, and the Lenders Parties Hereto from Time to Time Dated as of May 5, 2009.” May 5, 2009. https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Chrysler%20DIP%20thru% 20Third%20Amendment%20(Posted)_0.pdf. 
+
+Chrysler Group LLC, New Carco Acquisition LLC, Fiat S.p.a., and Chrysler-Fiat Alliance. 2009. “Master Transaction Agreement among FIAT S.p.A., New Carco Acquisition LLC, Chrysler LLC, and the other SELLERS identified herein.” May 31, 2009. https://ypfs.som.yale.edu/node/4082. 
+
+Chrysler Group LLC, New Carco Acquisition LLC, and US Department of the Treasury (Chrysler, New Carco, and Treasury). 2009. “$7,142,000,000 First Lien Credit Agreement among New Carco Acquisition LLC, (to be renamed Chrysler Group LLC) as the Borrower, and the Lenders Parties Hereto from Time to Time Dated as of June 10, 2009 (Post-Petition First Lien Credit Agreement).” Updated November 21, 2015. https://ypfs.som.yale.edu/library/7142000000-first-lien-credit-agreement-among-newcarco-acquisition-llc-be-renamed-chrysler. 
+
+Chrysler Group LLC v. Fox Hills Motor Sales, Inc., 776 F.3d 411 (6th Cir. 2015). https://ypfs.som.yale.edu/library/chrysler-group-llc-v-fox-hills-motor-sales-inc-776-f3d411-6th-cir-2015-opinion. 
+
+
+Congressional Oversight Panel (COP). 2009a. _Oversight of TARP Assistance to the Automobile Industry: Field Hearing before the Congressional Oversight Panel, July 27, 2009_ . Washington: US G.P.O. https://ypfs.som.yale.edu/library/oversight-tarp-assistance-automobile-industry-fieldhearing-congressional-oversight-panel. 
+
+———. 2009b. “September Oversight Report: The Use of TARP Funds in the Support and Reorganization of the Domestic Automotive Industry.” 111 Cong., 1st sess. Cong. Rept. CMP-2009-COP-0012. September 09, 2009. https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Congressional_Oversight_Pa nel_September_2009_Report_20090909.pdf. 
+
+———. 2010. “March Oversight Report: The Unique Treatment of GMAC under the TARP.” March 10, 2010. https://ypfs.som.yale.edu/library/september-oversight-report-use-tarp-funds-supportand-reorganization-domestic-automotive. 
+
+———. 2011. “January Oversight Report: An Update on TARP Support for the Domestic Automotive Industry.” 112 Cong., 1st sess. Cong. Rept. 2011-J892-29. January 13, 2011. https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/cop_report_20110113.pdf. 
+
+C-SPAN. 2009a. “Canadian Officials on Auto Industry.” Video. March 30, 2009. https://ypfs.som.yale.edu/library/canadian-officials-auto-industry-video. 
+
+———. 2009b. “Presidential Remarks on the Auto Industry.” Video. April 30, 2009. https://ypfs.som.yale.edu/library/presidential-remarks-auto-industry-video. 
+
+Das, Jui Chakravorty, and Kevin Krolicki Das. 2009. “Whirlwind auto deals raise conflict questions.” _Reuters_ , July 9, 2009. https://ypfs.som.yale.edu/library/whirlwind-auto-deals-raise-conflict-questions. 
+
+David, Fred N. 2010. “Interpreting the Supreme Court’s Treatment of the Chrysler Bankruptcy and Its Impact on Future Business Reorganizations.” _Emory Bankruptcy Developments Journal_ 27, no. 2: 25–70. https://ypfs.som.yale.edu/library/interpreting-supreme-courts-treatment-chryslerbankruptcy-and-its-impact-future-business. 
+
+Docket 190. 2009. Motion to Approve/Motion of Debtors and Debtors in Possession, Pursuant to Sections 105, 363 and 365 of the Bankruptcy Code and Bankruptcy Rules 2002, 6004 and 6006, for (I) An Order (A) Approving Bidding Procedures and Bidder Protections for the Sale of Substantially All of the Debtors Assets and (B) Scheduling a Final Sale Hearing and Approving the Form and Manner of Notice Thereof; and (II) an Order (A) Authorizing the Sale of Substantially All of the Debtors Assets, Free and Clear of Liens, Claims, Interests and Encumbrances, (B) Authorizing the Assumption and Assignment of Certain Executory Contracts and Unexpired Leases in Connection Therewith and Related Procedures and (C) Granting Certain Related Relief filed by Corinne Ball on behalf of Chrysler LLC, _In re_ Chrysler LLC ( _Chrysler I)_ , 405 B.R. 84 (S.D.N.Y. 2009) (No. 09 B 50002 
+
+
+[AJG]), 2009 WL 1266134. https://ypfs.som.yale.edu/library/motion-approve-motion-debtors-and-debtorspossession-pursuant-sections-105-363-and-365. 
+
+Docket 286. 2009. Objection to Motion/First Supplemental Objection of the Chrysler NonTARP Lenders to the Debtors Motion for an Order (A) Approving Bidding Procedures and Bidder Protections for the Sale of Substantially All of the Debtors Assets and (B) Scheduling a Final Sale Hearing and Approving the Form and Manner of Notice Thereof, _In re_ Chrysler LLC ( _Chrysler I)_ , 405 B.R. 84 (S.D.N.Y. 2009) (No. 09 B 50002 [AJG]), 2009 WL 1266134. https://ypfs.som.yale.edu/library/objection-motion-first-supplemental-objectionchrysler-non-tarp-lenders-debtors-motion. 
+
+Docket 492. 2009. Order Signed on 5/7/2009 Approving Bidding Procedures for the Sale of Substantially All of the Debtors’ Assets, Authorizing the Debtors to Provide Certain Bid Protections, Scheduling a Final Hearing Approving the Sale of Substantially All of the Debtors’ Assets and Approving the Form and Manner of Notice Thereof, _In re_ Chrysler LLC ( _Chrysler I)_ , 405 B.R. 84 (S.D.N.Y. 2009) (No. 09 B 50002 [AJG]), 2009 WL 1266134. https://ypfs.som.yale.edu/library/order-signed-572009-docket-492-chrysler-bankruptcy. 
+
+Docket 1045. 2009. Objection to Motion/Objection of The Committee Of Chrysler Affected Dealers To Motion Of Debtors And Debtors In Possession For An Order Authorizing The Sale Of Substantially All Of The Debtors Operating Assets And For Other Relief filed by Stephen D. Lerner on behalf of Committee of Chrysler Affected Dealers, _In re_ Chrysler LLC ( _Chrysler I)_ , 405 B.R. 84 (S.D.N.Y. 2009) (No. 09 B 50002 [AJG]), 2009 WL 1266134. https://ypfs.som.yale.edu/library/objection-motion-objection-committee-chrysleraffected-dealers-motion-debtors-and-debtors. 
+
+Docket 1195. 2009. Objection to Motion of Debtors and Debtors in Possession, Pursuant to Sections 105, 363 and 365, for an Order Authorizing the Sale of Substantially All of the Debtors Assets filed by Trent P. Cornell on behalf of National Chrysler Retirement Organization, _In re_ Chrysler LLC ( _Chrysler I)_ , 405 B.R. 84 (S.D.N.Y. 2009) (No. 09 B 50002 [AJG]), 2009 WL 1266134.  https://ypfs.som.yale.edu/library/objection-motion-debtorsand-debtors-possession-pursuant-sections-105-363-and-365-order. 
+
+Docket 1309. 2009. Final Order Signed on 5/20/2009 Approving a DIP Credit Facility and Authorizing the Debtors to Obtain Post-Petition Financing Pursuant Thereto, Granting Related Liens and Super-Priority Status, and Granting Adequate Protection to Certain PrePetition Secured Parties, _In re_ Chrysler LLC ( _Chrysler I)_ , 405 B.R. 84 (S.D.N.Y. 2009) (No. 09 B 50002 [AJG]), 2009 WL 1266134. https://ypfs.som.yale.edu/library/final-order-signed-5202009-approving-dip-creditfacility-and-authorizing-debtors-obtain. 
+
+Docket 1488. 2009. Supplemental Objection to Motion/Supplemental Objection of the Committee of Chrysler Affected Dealers to Motion of Debtors and Debtors in Possession for an Order Authorizing the Sale of Substantially All of the Debtors Operating Assets and for Other Relief Filed by Stephen D. Lerner on Behalf of Committee of Chrysler Affected 
+
+
+Dealers, _In re_ Chrysler LLC ( _Chrysler I)_ , 405 B.R. 84 (S.D.N.Y. 2009) (No. 09 B 50002 [AJG]), 2009 WL 1266134. https://ypfs.som.yale.edu/library/supplemental-objection-motionsupplemental-objectioncommittee-chrysler-affected-dealers. 
+
+Docket 1784. 2009. Motion to Allow Motion of Debtors and Debtors in Possession for an Order, Pursuant to Section 105(a) of the Bankruptcy Code, Granting Relief in Connection with the Commencement of Chapter 11 Case by Alpha Holding LP filed by Corinne Ball on behalf of Chrysler LLC (May 22, 2009). _In re_ Chrysler LLC ( _Chrysler I)_ , 405 B.R. 84 (S.D.N.Y. 2009) (No. 09 B 50002 [AJG]), 2009 WL 1266134. https://ypfs.som.yale.edu/library/motion-allow-motion-debtors-and-debtors-possessionorder-pursuant-section-105a-bankruptcy. 
+
+Docket 2130. 2009. Memorandum of Law/Debtors Supplemental Memorandum of Law in Support of Motion, Pursuant to Sections 105, 363 and 365 of the Bankruptcy Code and Bankruptcy Rules 6004 and 6006 for an Order (A) Authorizing the Sale of Substantially All of the Debtors Operating Assets, Free and Clear of Liens, Claims, Interests and Encumbrances, (B) Authorizing the Assumption and Assignment of Certain Executory Contracts and Unexpired Leases in Connection Therewith and (C) Granting Certain Related Relief filed by Corinne Ball on behalf of Chrysler LLC. (May 26, 2009), _In re_ Chrysler LLC ( _Chrysler I)_ , 405 B.R. 84 (S.D.N.Y. 2009) (No. 09 B 50002 [AJG]), 2009 WL 1266134. https://ypfs.som.yale.edu/library/memorandum-law-debtors-supplementalmemorandum-law-support-motion-pursuant-sections-105-363. 
+
+Docket 2188. 2009. Order Signed on 5/26/2009 Granting Joint Administration of 09-50025 (Alpha Holding LP) under 09-50002 (Chrysler LLC, et al); All Prior Orders Entered in the Jointly Administered Chapter 11 Cases of Chrysler LLC, et al. Are Applicable to Alpha and All New Orders Shall Apply to Alpha as of the Date of Entry of Such New Orders, _In re_ Chrysler LLC ( _Chrysler I)_ , 405 B.R. 84 (S.D.N.Y. 2009) (No. 09 B 50002 [AJG]), 2009 WL 1266134. https://ypfs.som.yale.edu/library/order-signed-5262009-granting-joint-administration09-50025-alpha-holding-lp-under-09-50002. 
+
+Docket 3073. 2009. Opinion Signed on 5/31/2009 Granting Debtors’ Motion Seeking Authority to Sell Substantially All of the Debtors’ Assets, _In re_ Chrysler LLC ( _Chrysler I)_ , 405 B.R. 84 (S.D.N.Y. 2009) (No. 09 B 50002 [AJG]), 2009 WL 1266134. https://ypfs.som.yale.edu/library/opinion-signed-5312009-granting-debtors-motionseeking-authority-sell-substantially-all. 
+
+Docket 3232. 2009. Order Signed on 6/1/2009 Authorizing the Sale of Substantially All of the Debtors’ Assets Free and Clear of All Liens, Claims, Interests and Encumbrances, Authorizing the Assumption and Assignment of Certain Executory Contracts and Unexpired Leases in Connection Therewith and Related Procedures and Granting Related Relief, _In re_ Chrysler LLC ( _Chrysler I)_ , 405 B.R. 84 (S.D.N.Y. 2009) (No. 09 B 50002 [AJG]), 2009 WL 1266134. 
+
+
+https://ypfs.som.yale.edu/library/order-signed-612009-authorizing-sale-substantially-alldebtors-assets-free-and-clear-all. 
+
+Docket 8460. 2009. Statement/Notice of Termination of Old Carco Liquidation Trust filed by Corinne Ball on behalf of Old Carco Liquidation Trust, _In re_ Chrysler LLC ( _Chrysler I)_ , 405 B.R. 84 (S.D.N.Y. 2009) (No. 09 B 50002 [AJG]), 2009 WL 1266134. https://ypfs.som.yale.edu/library/statementnotice-termination-old-carco-liquidationtrust-filed-corinne-ball-behalf-old-carco. 
+
+Docket 8490. 2009. Motion to Reopen Chapter 11 Case Motion of FCA US LLC to Reopen Case for Limited Purpose filed by Brian D. Glueckstein on behalf of Chrysler Group LLC, _In re_ Chrysler LLC ( _Chrysler I)_ , 405 B.R. 84 (S.D.N.Y. 2009) (No. 09 B 50002 [AJG]), 2009 WL 1266134. 
+
+https://ypfs.som.yale.edu/library/motion-reopen-chapter-11-case-motion-fca-us-llcreopen-case-limited-purpose-filed-brian-d. 
+
+Emergency Economic Stabilization Act of 2008 (EESA). Public Law 110-343, 122 Stat. 3765. October 3, 2008. 
+
+https://ypfs.som.yale.edu/node/3365. 
+
+Federal Deposit Insurance Company (FDIC). 1998. “Volume One: History.” _Managing the Crisis: The FDIC and RTC Experience_ . https://ypfs.som.yale.edu/index.php/library/managing-crisis-fdic-and-rtc-experiencevolume-one. 
+
+Feldman, Matthew A. 2019. Interview with Matthew A. Feldman by the author. October 25, 2019. 
+
+Fiat Chrysler Automobiles (Fiat Chrysler). 2015. “Annual Report Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934 for the Fiscal Year ended December 31, 2014 Form 10-K.” Fiat Chrysler Automobiles US LLC Annual Report, 2014. Filed March 4, 2015. https://ypfs.som.yale.edu/library/fca-us-llc-annual-report-pursuant-section-13-or-15dsecurities-exchange-act-1934-fiscal. 
+
+———. 2019. “Groupe PSA and FCA agree to merge.” _Fiat Chrysler Automobiles_ . https://ypfs.som.yale.edu/library/groupe-psa-and-fca-agree-merge. 
+
+Foley, C. Fritz, Lena G. Goldberg, and Linnea Meyer. 2010. “Chrysler’s Sale to Fiat.” _Harvard Business School_ Case 210-022. March 2010. Revised May 2010. https://ypfs.som.yale.edu/library/chryslers-sale-fiat. 
+
+General Accounting Office. 1984. “Guidelines for Rescuing Large Failing Firms and Municipalities Report to the Congress.” Washington, DC: US General Accounting Office. March 29, 1984. https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/GGD-84-34.pdf. 
+
+
+General Motors Corporation and US Department of the Treasury (GM and Treasury). 2008. “General Motors Original Loan and Security Agreement (with Amendments).” December 31, 2008. 
+
+https://ypfs.som.yale.edu/node/4085. 
+
+Goolsbee, Austan, and Alan Krueger. 2015. “A Retrospective Look at Rescuing and Restructuring General Motors and Chrysler.” _Journal of Economic Perspectives_ 29, no. 2: 3–24. 
+
+https://ypfs.som.yale.edu/library/document/retrospective-look-rescuing-andrestructuring-general-motors-and-chrysler. 
+
+Government Accountability Office (GAO). 2009a. “Auto Industry: Summary of Government Efforts and Automakers Restructuring to Date: Report to Congressional Committees.” April 2009. 
+
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/d09553.pdf. 
+
+———. 2009b. “Financial Audit: Office of Financial Stability (Troubled Asset Relief Program) Fiscal Year 2009 Financial Statements.” December 9, 2009. https://ypfs.som.yale.edu/library/financial-audit-office-financial-stability-troubled-assetrelief-program-fiscal-year-2009. 
+
+——— _._ 2009c _._ “The U.S. Government Role as Shareholder in AIG, Citigroup, Chrysler, and General Motors and Preliminary Views on its Investment Management Activities.” December 16, 2009. 
+
+https://ypfs.som.yale.edu/library/us-government-role-shareholder-aig-citigroup-chryslerand-general-motors-and-preliminary. 
+
+———. 2009d. “Troubled Asset Relief Program: Continued Stewardship Needed as Treasury Develops Strategies for Monitoring and Divesting Financial Interests in Chrysler and GM.” November 2009. https://ypfs.som.yale.edu/library/troubled-asset-relief-program-continued-stewardshipneeded-treasury-develops-strategies. 
+
+———. 2011. “TARP: Treasury’s Exit from GM and Chrysler Highlights Competing Goals, and Results of Support to Auto Communities Are Unclear.” May 10, 2011. https://ypfs.som.yale.edu/library/united-states-government-accountability-office-reportcongressional-committees-tarp. 
+
+Graham, Andrew. 2011. “Industry Canada and Automotive Restructuring.” _IPAC Case Study Program_ . Institute of Public Administration of Canada. https://ypfs.som.yale.edu/library/industry-canada-and-automotive-restructuring. 
+
+Harreld, J. Bruce, Paul W. Marshall, and David Lane. 2013. “Chrysler Fiat 2009.” _Harvard Business School Case_ 811-030. August 2013. https://ypfs.som.yale.edu/library/chrysler-fiat-2009. 
+
+
+Hu, Henry T. C. 2014. “Financial Innovation and Governance Mechanisms: The Evolution of Decoupling and Transparency.” _Business Lawyer_ 2: 347–406. https://ypfs.som.yale.edu/library/financial-innovation-and-governance-mechanismsevolution-decoupling-and-transparency. 
+
+Ind. State Police Pension Trust v. Chrysler LLC (In re Chrysler LLC), 576 F.3d 108, 2009 U.S. App. LEXIS 17441, 62 Collier Bankr. Cas. 2d (MB) 183, 51 Bankr. Ct. Dec. 254, 47 Employee Benefits Cas. (BNA) 1513 (United States Court of Appeals for the Second Circuit August 5, 2009, Decided). https://ypfs.som.yale.edu/library/ind-state-police-pension-trust-v-chrysler-llc-rechrysler-llc-second-circuit-court-appeals. 
+
+Innovation, Science and Economic Development Canada (ISED Canada). 2016. “General Motors and Chrysler Restructuring: Lessons Learned in the Management of the Financial Assistance.” 
+
+https://ypfs.som.yale.edu/library/general-motors-and-chrysler-restructuring-lessonslearned-management-financial-assistance. 
+
+Isidore, Chris. 2019. “GM Suit against Fiat Chrysler Could Upend Crucial Talks.” _CNN_ , November 25, 2019. 
+
+https://ypfs.som.yale.edu/library/gm-suit-against-fiat-chrysler-could-upend-crucial-talks. 
+
+Keegan, Michael J. 2009. “Declaration of Michael J. Keegan filed by Corinne Ball on behalf of Chrysler LLC, _In re_ Chrysler LLC ( _Chrysler I)_ , 405 B.R. 84 (S.D.N.Y. 2009) (No. 09 B 50002 [AJG]), 2009 WL 1266134.” 
+
+https://ypfs.som.yale.edu/library/declaration-michael-j-keegan-re-chrysler-llc-405-br-84no-09-50002-docket-312. 
+
+Kesselman, Donna. 2017. “The Great Recession and New U.S. Automobile Employment Norms: Financial Rationale in the ‘Employment Grey Zone.’” _Interventions Économiques_ 58. doi:10.4000/interventionseconomiques.3526. 
+
+https://ypfs.som.yale.edu/library/great-recession-and-new-us-automobile-employmentnorms-financial-rationale-employment-grey. 
+
+ProPublica. 2019. “Bailout Tracker.” ProPublica. October 2, 2019. https://ypfs.som.yale.edu/library/propublica-bailout-tracker-companies-auto-companies. 
+
+Klier, Thomas H., and James Rubenstein. 2012. “Detroit Back from the Brink? Auto Industry Crisis and Restructuring, 2008–11.” _Economic Perspectives_ 36, no. 2: 35–54. https://ypfs.som.yale.edu/library/detroit-back-brink-auto-industry-crisis-andrestructuring-2008-11. 
+
+Kolka, Ronald E. 2009. Affidavit of Ronald E. Kolka in Support of First Day Pleadings, _In re_ Chrysler LLC ( _Chrysler I)_ , 405 B.R. 84 (S.D.N.Y. 2009) (No. 09 B 50002 [AJG]), 2009 WL 1266134. 
+
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/20090430_chrysler_affidavi t.pdf. 
+
+
+LaSorda, Thomas W. 2009. “Declaration of Thomas W. LaSorda.” https://ypfs.som.yale.edu/library/document/declaration-thomas-w-lasorda 
+
+Manzo, Robert. 2009. “Declaration of Robert Manzo filed by Corinne Ball on behalf of Chrysler LLC, _In re_ Chrysler LLC ( _Chrysler I)_ , 405 B.R. 84 (S.D.N.Y. 2009) (No. 09 B 50002 [AJG]), 2009 WL 1266134.” https://ypfs.som.yale.edu/library/declaration-robert-manzo-filed-corinne-ball-behalfchrysler-llc. 
+
+Mathilakath, Ramnarayanan, and Sheryl Urie. 2009. “Briefing Note[:] Proposed Financial Support for the Canadian Automotive Sector.” Government of Canada. _Government of Canada Publications_ . https://ypfs.som.yale.edu/library/briefing-note-proposed-financial-support-canadianautomotive-sector. 
+
+Naughton, Nora. 2019. “UAW, Fiat Chrysler Reach Accord—WSJ.” _Wall Street Journal_ via Factiva, December 2, 2019. https://ypfs.som.yale.edu/library/uaw-fiat-chrysler-reach-accord. 
+
+Nye, Alexander. 2021. “The Rescue of the US Auto Industry, Module A: Automotive Bridge Loans.” _Journal of Financial Crises_ . https://ypfs.som.yale.edu/library/2008-2009-automotive-bridge-loans-chrysler-and-gm. Obama, Barack H. 2009a. “Obama’s Announcement on the Auto Industry.” _New York Times_ . March 30, 2009. https://ypfs.som.yale.edu/library/obamas-announcement-auto-industry-0. 
+
+———. 2009b. “Full text: Obama auto remarks.” _Financial Times_ . April 30, 2009. https://ypfs.som.yale.edu/library/full-text-obama-auto-remarks. 
+
+———. 2010. “Fighting for American Auto Workers.” July 30, 2010. https://ypfs.som.yale.edu/library/fighting-american-auto-workers-visit-chryslerjefferson-north-assembly-plant-barack-obama. 
+
+Office of the Auditor General of Canada. 2014. “Chapter 5—Support to the Automotive Sector.” _2014 Fall Report of the Auditor General of Canada_ . Government of Canada. https://ypfs.som.yale.edu/library/2014-fall-report-auditor-general-canada-chapter-5support-automotive-sector. 
+
+Office of Financial Stability. 2018. _Troubled Asset Relief Program Transactions Report— Investment Programs for Period Ending October 5, 2018_ . October 10, 2018. https://ypfs.som.yale.edu/library/tarp-transactions-report-investments-period-endingoctober-5-2018. 
+
+Office of Management and Budget. 2009. _A Citizen’s Guide to the 2009 Financial Report of the U.S. Government_ . 2009. https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/09frusg.pdf. 
+
+
+Paulson, Henry M., Jr. 2010. _On the Brink: Inside the Race to Stop the Collapse of the Global Financial System_ . New York: Business Plus, Hachette Books. https://ypfs.som.yale.edu/library/brink-inside-race-stop-collapse-global-financial-system. 
+
+Pension Benefit Guarantee Corporation (PBGC). n.d. “General FAQs about PBGC.” Pension Benefit Guaranty Corporation: A US Government Agency. https://ypfs.som.yale.edu/library/general-faqs-about-pbgc. 
+
+Public Broadcasting Service (PBS). 2009. “President Obama Calls on G.M. and Chrysler to Take Restructuring Steps.” _The NewsHour with Jim Lehrer_ . https://ypfs.som.yale.edu/library/president-obama-calls-gm-and-chrysler-takerestructuring-steps-transcript-pbs-newshour-jim. 
+
+Rattner, Steven. 2010. “Reflections on the Auto Restructurings.” Speech given at conference at the Federal Reserve Bank of Chicago. May 10, 2010. https://ypfs.som.yale.edu/library/reflections-auto-restructurings-speech-federal-reserveconference. 
+
+Rattner, Steven. 2011. “Overhaul: An Insider’s Account of the Obama Administrations Emergency Rescue of the Auto Industry.” Mariner Books. 2011. https://ypfs.som.yale.edu/library/overhaul-insiders-account-obama-administrationsemergency-rescue-auto-industry 
+
+Robinson, Spencer C. 2010. “Keeping Secured Lending Secure: The Limited Legacy of Chrysler’s Section 363 Bankruptcy _.” North Carolina Banking Institute_ 14, no. 1: 515. https://ypfs.som.yale.edu/library/keeping-secured-lending-secure-limited-legacychryslers-section-363-bankruptcy. 
+
+Roe, Mark J., and David A. Skeel. 2010. “Assessing the Chrysler Bankruptcy.” _Michigan Law Review_ 108, no. 5: 727–72. doi:10.2139/ssrn.1426530. https://ypfs.som.yale.edu/node/3688. 
+
+Secretary of Treasury, US Department of the Treasury (Secretary of Treasury). 2008. “Determination, December 19, 2008, and Letters from Henry M. Paulson, Jr. to Members of the House of Representatives, December 23, 2008.” https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/2008-1219%20Paulson%20determination%20to%20Congress.pdf. 
+
+———. 2009. “Determination, April 29, 2009, by Timothy F. Geithner.” https://ypfs.som.yale.edu/library/official-determination-secretary-geithner-april-292009. 
+
+Skeel, David A. Jr. 2015. “From Chrysler and General Motors to Detroit.” _Faculty Scholarship_ . Paper 1420. https://ypfs.som.yale.edu/library/chrysler-and-general-motors-detroit. 
+
+
+Special Inspector General for the Troubled Asset Relief Program, Office of the (SIGTARP). 2009. “July 2009 Quarterly Report to Congress.” July 21, 2009. https://ypfs.som.yale.edu/library/july-2009-office-special-inspector-general-troubledasset-relief-program-sigtarp-quarterly. 
+
+———. 2016. “October 2016 Quarterly Report to Congress.” October 26. https://ypfs.som.yale.edu/library/july-2009-office-special-inspector-general-troubledasset-relief-program-sigtarp-quarterly. 
+
+Summers, Lawrence. 2014. “Four Reasons the Auto Bailout Was Not a Mistake.” Filmed at the Brookings Institution, Washington, DC. May 22, 2014. Video. https://ypfs.som.yale.edu/library/four-reasons-auto-bailout-was-not-mistake-video. 
+
+Treasury, US Department of the. 2009a. “Determination of Viability Summary Chrysler, LLC.” https://ypfs.som.yale.edu/node/4070. 
+
+———. 2009b. “Obama Administration New Path to Viability for GM & Chrysler.” https://ypfs.som.yale.edu/node/4060. 
+
+———. 2009c. “Obama Administration Auto Restructuring Initiative Chrysler-Fiat Alliance.” Press Release, April 30, 2009. https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Chrysler-restructuringfactsheet_043009_0.pdf. 
+
+———. 2014. “Auto Industry Program Overview.” December 22, 2014. https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Auto%20Industry.pdf. 
+
+———. 2011. ”The Resurgence of the American Automotive Industry.” June 1, 2011. https://ypfs.som.yale.edu/library/resurgence-american-automotive-industry. 
+
+Wilson, Michael. 2008. “FW: Auto Rescue Package/request from Canadian Ambassador.” E- mail from Ambassador Michael Wilson to John Podesta, Co-Chair of the Obama–Biden Transition Project. December 16, 2008. https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Memo%20Style.pdf. 
+
+Wolff v. Chrysler (In re Old Carco LLC). 2010 Bankr. LEXIS 6320 (United States Bankruptcy Court for the Southern District of New York July 30, 2010, Decided). https://ypfs.som.yale.edu/library/wolff-v-chrysler-re-old-carco-llc-2010-bankr-lexis6320-united-states-bankruptcy-court. 
+
+Woodall, Bernie. 2015. “UAW Rejects Fiat Chrysler Contract; Strikes Loom.” _Reuters_ , October 1, 2015. 
+
+https://ypfs.som.yale.edu/library/uaw-rejects-fiat-chrysler-contract-strikes-loom. 
+
+
+## **V. Key Program Documents** 
+
+## **Summary of Program** 
+
+Automotive Industry Financing Program (December 31, 2008) 
+
+_Initial regulatory guidance for aid under the AIFP. This document includes a discussion of what institutions would be eligible for participation in AIFP._ 
+
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/AIFP_guidelines_0.pdf. 
+
+(Treasury 2009b) “Obama Administration New Path to Viability for GM & Chrysler” (March 30, 2009) _Summary of Determinations of Viability for Chrysler and GM as well as the government framework for restructuring going forward._ 
+
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/autoFactSheet_1.pdf. 
+
+(White House 2009) “Obama Administration Auto Restructuring Initiative Chrysler-Fiat Alliance” (04/30/2009) 
+
+_Press release discussing the requirements of a viable Chrysler-Fiat Alliance as well as support for Chrysler from the American and Canadian governments going forward._ https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Obama%20Administration %20Auto%20Restructuring%20Initiative%20Chrysler-Fiat%20Alliance_0.pdf. 
+
+## **Implementation Documents** 
+
+(Chrysler 2011b) Chrysler Group LLC Corporate Documents (June 10, 2009) _Series of agreements outlining the governance of New Chrysler. This also contains information related to the conditions of Treasury’s exit from New Chrysler_ . https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Chrysler%20LLC%20Corpo rate%2006-07-11_1.pdf. 
+
+(Chrysler Canada and EDC 2011) “Amended and Restated Loan Agreement By and Among Chrysler Canada Inc., As Borrower, and the Other Loan Parties and Export Development Canada, as Lender Dated as of June 10, 2009” 
+
+_Loan by the Canadian government to Chrysler Canada to provide the subsidiary with working capital in the wake of the successful Section 363 sale._ 
+
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/EDC%20Chrysler%20Amen ded%20and%20Restated%20Loan%20Agreement,%20dated%20as%20of%20June%201 0,%202009.pdf. 
+
+(Chrysler, EDC, and Treasury 2009) Chrysler Debtor-In-Possession (DIP) Loan and Contract Amendments (May 5, 2009) 
+
+_Underlying contract for the Joint DIP Facility provided to Old Chrysler by Treasury and EDC_ . https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Chrysler%20DIP%20thru% 20Third%20Amendment%20(Posted)_0.pdf. 
+
+(Chrysler et al. 2009) “Master Transaction Agreement” (May 31, 2009) 
+
+_This agreement was used to execute the Section 363 sale and facilitate Chrysler’s_ 
+
+
+_restructuring._ 
+
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/mta_1.pdf. 
+
+(Secretary of Treasury 2008) “Determination, December 19, 2008, and Letters from Henry M. Paulson, Jr. to Members of the House of Representatives, December 23, 2008 _Determination and letter written by Treasury Secretary Paulson that defined the obligations of domestic automotive companies as “troubled assets” eligible for purchase under TARP._ https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/2008-1219%20Paulson%20determination%20to%20Congress.pdf. 
+
+(Secretary of Treasury 2009) “Official Determination, April 29, 2009, by Timothy F. Geithner.” 
+
+_Determination written by Treasury Secretary Geithner in the run-up to Chrysler’s bankruptcy filing that further defined the obligations of domestic automotive companies as “troubled assets” eligible for purchase under TARP_ . https://ypfs.som.yale.edu/library/official-determination-secretary-geithner-april-292009. 
+
+## **Key Academic Papers** 
+
+(Baird 2012) “Lessons from the Automobile Reorganizations” _Article analyzing the various abnormalities in the Chrysler and GM bankruptcies. It makes a case for several reforms as a salve for what it considers deeper issues in the US Bankruptcy Code that were exposed by the automotive bankruptcies_ . 
+
+https://ypfs.som.yale.edu/library/lessons-automobile-reorganizations 
+
+“Bankruptcy Reorganizations and the Troubling Legacy of Chrysler and GM” (2010) _This_ University of Illinois Law Review _article makes the case that the Chrysler and GM bankruptcies further blurred the line between reorganization by plan and sale. It further argues that the resulting reorganizations resemble the infamous equity receiverships of late 19th century America, which were the basis for creating the absolute priority rule in the first place_ . 
+
+https://ypfs.som.yale.edu/library/bankruptcy-reorganizations-and-troubling-legacychrysler-and-gm. 
+
+(Ben-Ishai and Lubben 2011) “A Comparative Study of Bankruptcy as Bailout” _Article comparing the Canadian and American approaches to bailing out their automotive and financial services industries. The article presents a favorable view of Treasury’s legal strategy in the Chrysler restructuring._ https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/A%20Comparative%20Stud y%20of%20Bankruptcy%20as%20Bailout.pdf. 
+
+(Blaylock, Edwards, and Stanfield 2015) “The Role of Government in the Labor–Creditor Relationship: Evidence from the Chrysler Bankruptcy” _This article uses the Chrysler bankruptcy as a case study for arguing that government bailouts have an impact on bond returns and yields in more unionized industries_ . https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/SSRN-id1685618.pdf. 
+
+
+(David 2010) “Interpreting the Supreme Court’s Treatment of the Chrysler Bankruptcy and Its Impact on Future Business Reorganizations” 
+
+_This paper analyzes the way courts received Chrysler and Treasury’s arguments as the automaker moved through bankruptcy. It devotes a significant amount of space to analyzing why the Supreme Court took the unusual action of approving the Section 363 sale while eventually vacating the appellate court_ . 
+
+https://ypfs.som.yale.edu/library/interpreting-supreme-courts-treatment-chryslerbankruptcy-and-its-impact-future-business. 
+
+(Deese, Shafran, and Jester 2020) “The Rescue and Restructuring of General Motors and Chrysler” 
+
+_Chapter written by former officials who played a role in the automaker restructurings during the Obama and Bush administrations_ . 
+
+“Detroit Back from the Brink? Auto Industry Crisis and Restructuring, 2008–11” (2012) _Federal Reserve Bank of Chicago analysis of the declining auto industry and US government interventions in the industry during the financial crisis that also touches on the changing geography of automotive production in the US._ 
+
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/T.Klier_.pdf. 
+
+(Goolsbee and Krueger 2015) “A Retrospective Look at Rescuing and Restructuring General Motors and Chrysler” 
+
+_Analysis of the government’s involvement in the auto sector by two economists on the Obama administration’s Council of Economic Advisors._ 
+
+https://ypfs.som.yale.edu/library/document/retrospective-look-rescuing-andrestructuring-general-motors-and-chrysler. 
+
+(Roe and Skeel 2010) “Assessing the Chrysler Bankruptcy” 
+
+_This law review article criticizes the procedure used to restructure Chrysler. It presents an argument for why the Chrysler case was bad practice as well as an argument that cases like Chrysler could have a negative effect on financial markets_ . 
+
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Roe%20and%20Skeel.pdf. 
+
+## **Legal/Regulatory Guidance** 
+
+[In re Chrysler LLC]) Ind. State Police Pension Trust v. Chrysler LLC (In re Chrysler LLC), 576 F.3d 108, 2009 U.S. App. LEXIS 17441, 62 Collier Bankr. Cas. 2d (MB) 183, 51 Bankr. Ct. Dec. 254, 47 Employee Benefits Cas. (BNA) 1513 (United States Court of Appeals for the Second Circuit August 5, 2009, Decided) 
+
+_Second Circuit Court of Appeals opinion for the Chrysler bankruptcy, which rejected the objections of the Indiana pension funds._ 
+
+https://ypfs.som.yale.edu/library/ind-state-police-pension-trust-v-chrysler-llc-rechrysler-llc-second-circuit-court-appeals. 
+
+“TARP Standards for Compensation and Corporate Governance” (06/15/2009) _Rule made by Treasury outlining executive compensation and corporate governance requirements for TARP recipients._ 
+
+
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Department%20of%20the %20Treasury%20TARP%20Standards%20for%20Compensation%20and%20Corporate% 20Governance%20Interim%20Final%20Rule%20and%20Correction%2006-15-2009.PDF. 
+
+(Docket 3073 2009) Opinion Signed on 5/31/2009 Granting Debtors’ Motion Seeking Authority to Sell Substantially All of the Debtors’ Assets. (May 31, 2009) _In re_ Chrysler LLC, S.D.N.Y. (No. 09 B 50002 [AJG]) 
+
+_Opinion from the bankruptcy court authorizing Chrysler to conduct the Section 363 sale. The Indiana pension funds’ appealed the decision and were heard by the Court of Appeals._ https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/2009-05- 
+
+31%20Docket%203073%20opinion%20granting%20debtor%20motion%20for%20363% 20sale%20authority.pdf. 
+
+Opinion and Order Signed on 5/31/2009 Regarding Emergency Economic Stabilization Act of 2008 and Troubled Asset Relief Program. (May 31, 2009) _In re_ Chrysler LLC, S.D.N.Y. (No. 09 B 50002 (AJG) 
+
+_Opinion from the bankruptcy court arguing that the Indiana pension funds’ charge that funding for the auto bailout could not have been legally drawn from EESA is incorrect._ https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/2009-0531%20OPINION%20AND%20ORDER%20REGARDING%20EESA%20AND%20TARP.pdf. 
+
+## **Press Releases/Announcements** 
+
+Canadian Officials on Auto Industry (March 30, 2009) _Recording of Canadian government officials discussing its similar aid to the automotive industry as well as cooperation with Treasury._ 
+
+https://ypfs.som.yale.edu/library/canadian-officials-auto-industry-video. 
+
+(Obama 2010) Visit to Chrysler Jefferson North Assembly Plant by Barack Obama, “Fighting for American Auto Workers” 
+
+_Video of Obama’s visit to a Chrysler plant that touts the success of the auto rescue._ https://ypfs.som.yale.edu/library/fighting-american-auto-workers-visit-chryslerjefferson-north-assembly-plant-barack-obama **.** 
+
+“Presidential Remarks on the Auto Industry” (April 30, 2009) 
+
+_Speech by President Obama announcing Chrysler’s restructuring via bankruptcy. It was broadcast on multiple channels and transcripts appeared in major news publications._ https://ypfs.som.yale.edu/library/presidential-remarks-auto-industry-video. 
+
+“Statement by Treasury Secretary Timothy F. Geithner before the Senate Banking Committee on May 20, 2009” 
+
+_Statement outlining the state of the economy, which includes a detailed section on the actions taken by the Obama administration on the auto industry through May 2009._ https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Statement%20by%20Timot hy%20F.%20Geithner%20U.%20S.%20Secretary%20of%20the%20Treasury%20before% 20the%20Senate%20Banking%20Committee%20May%2020,%202009.pdf. 
+
+
+(White House 2009) “Obama Administration Auto Restructuring Initiative Chrysler-Fiat Alliance” 
+
+_April 30, 2009, press release discussing the requirements of a viable Chrysler-Fiat alliance as well as support for Chrysler from the American and Canadian governments going forward._ https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Obama%20Administration %20Auto%20Restructuring%20Initiative%20Chrysler-Fiat%20Alliance_0.pdf. 
+
+(White House 2011) “The Resurgence of the American Automotive Industry” _White House report making the case that the Obama administration’s actions rescuing GM and Chrysler were successful._ 
+
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/auto_report_06_01_11.pdf. 
+
+## **Media Stories** 
+
+“Auto Bailout Still Largely Unpopular” (CNN 06/14/2014) _CNN coverage of polls on additional aid from the auto industry from 2008 and 2014._ https://ypfs.som.yale.edu/library/auto-bailout-still-largely-unpopular. 
+
+(PBS 2009) “President Obama Calls on G.M. and Chrysler to Take Restructuring Steps” _PBS transcript of an interview with President Obama by Jim Lehrer of PBS that showcases the Obama administration’s approach to communicating its take on the auto rescue through conventional media._ https://ypfs.som.yale.edu/library/president-obama-calls-gm-and-chrysler-takerestructuring-steps-transcript-pbs-newshour-jim **.** 
+
+“US Forced Chrysler’s Creditors to Blink” ( _Wall Street Journal_ , May 12, 2009) _One example of media coverage analyzing Treasury’s ante bankruptcy negotiation strategy with Chrysler’s creditors._ https://ypfs.som.yale.edu/library/us-forced-chryslers-creditors-blink. 
+
+## **Reports/Assessments** 
+
+(Canis and Webel 2012) “TARP Assistance for Chrysler: Restructuring and Repayment Issues” 
+
+_Short report by the Congressional Research Service which offers an outline of Chrysler’s progress post-bankruptcy as of late 2012._ 
+
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/TARP%20Chrysler.pdf. 
+
+(Canis et al. 2009) “US Motor Vehicle Industry: Federal Financial Assistance and Restructuring” (05/29/2009) 
+
+_Congressional Research Service analysis of the lead-up to and execution of the auto industry bailout as well as the various solutions for restructuring._ 
+
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/CRS%20Auto%20Governm ent%20Aid.pdf. 
+
+(COP 2009a) “Oversight of TARP Assistance to the Automobile Industry: Field Hearing before the Congressional Oversight Panel” (July 27, 2009) 
+
+
+_Statements by various stakeholders in the automotive restructuring shortly after Chrysler’s Section 363 sale._ 
+
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/cop_hearing_20090727.pdf. 
+
+(COP 2009b) “The Use of TARP Funds in the Support and Reorganization of the Domestic Automotive Industry” (09/09/2009) 
+
+_Congressional Oversight Panel analyzing and providing recommendations related to the creation, implementation, and issues raised by the use of TARP funds in the automotive bailout._ 
+
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Congressional_Oversight_Pa nel_September_2009_Report_20090909.pdf. 
+
+(COP 2011) “An Update on TARP Support for the Domestic Automotive Industry” (01/13/2011) 
+
+_Congressional Oversight Panel report updating analysis and recommendations related to the creation, implementation, and issues raised by the automotive bailout._ 
+
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/cop_report_20110113.pdf. 
+
+(GAO 2009a) “Auto Industry: Summary of Government Efforts and Automakers Restructuring to Date: Report to Congressional Committees by the Government Accountability Office” (April 2009) 
+
+_Outline by the Government Accountability Office that describes Treasury’s efforts leading up to the bankruptcy filing of Chrysler._ 
+
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/d09553.pdf. 
+
+(ISED Canada 2016) “General Motors and Chrysler Restructuring: Lessons Learned in the Management of the Financial Assistance” 
+
+_Canadian reflection on the organizational and administrative aspects of its government’s actions during the auto rescue._ 
+
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/GENERAL%20MOTORS%20 AND%20Chrysler%20Lessons%20Learned%20Canada.pdf. 
+
+(Office of the Auditor General of Canada 2014) **“** Support to the Automotive Sector” (Chapter 5 of the 2014 Fall Report of the Auditor General of Canada) 
+
+_Report by the Canadian equivalent to the Congressional Budget Office that details some of the financial aspects of Canada’s involvement in the auto rescue. It also discusses some of the internal oversight problems that came with such an ad hoc program._ 
+
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Canadian%20Lending%20C hapter%205%E2%80%94Support%20to%20the%20Automotive%20Sector.pdf. 
+
+(Office of Financial Stability 2018) “Troubled Asset Relief Program Transactions Report— Investment Programs for Period Ending October 5, 2018” 
+
+_Transaction-level detail for all TARP programs except housing programs._ 
+
+https://ypfs.som.yale.edu/library/tarp-transactions-report-investments-period-endingoctober-5-2018. 
+
+
+(Office of Management and Budget 2009) “A Citizen’s Guide to the 2009 Financial Report of the U.S. Government” 
+
+_Oversight report containing a section on the AIFP, which includes the financing for the bankruptcy._ https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/09frusg.pdf. 
+
+“TARP: Treasury’s Exit from GM and Chrysler Highlights Competing Goals, and Results of Support to Auto Communities Are Unclear” (May 10, 2011) 
+
+_Report from the Government Accountability Office that criticizes some of the initiatives meant to maintain support for the auto rescue in affected communities. Additionally, the report discusses several issues with Treasury’s goal setting process._ 
+
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/318151.pdf. 
+
+Copyright 2015, 2016, 2020, 2022 © Yale University. All rights reserved. To order copies of this material or to receive permission to reprint any or all of this document, please contact the Yale Program on Financial Stability at ypfs@yale.edu.

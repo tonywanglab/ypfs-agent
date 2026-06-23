@@ -1,0 +1,191 @@
+## Tanzanian Loans and Advances Realization Trust (LART)[1] 
+
+## _Christian M. McNamara_[2] 
+
+Yale Program on Financial Stability Case Study June 23, 2021 
+
+## **Abstract** 
+
+In 1991, after a long period of politicized lending to state-owned businesses known as parastatals, Tanzania set out to reform its financial system by legalizing private financial institutions and cleaning up state-owned banks. As part of this effort, Tanzania established the Loans and Advances Realization Trust (LART) to acquire nonperforming assets from state-owned banks in exchange for government bonds. Following these transfers, the Tanzanian government then recapitalized the transferring institutions. LART’s mandate was to recover outstanding amounts on nonperforming assets and to help debtors restructure to facilitate repayment. To enhance LART’s ability to make recoveries, Tanzanian authorities established a special LART Loan Recovery Tribunal with simplified procedures and exclusive jurisdiction over transferred assets. Tanzanian authorities initially established LART with a five-year timeframe, subject to a one-year extension. In 1996, Tanzania amended the legislation establishing LART to include private financial institutions and extend its operations to June 30, 2000, with the possibility of two one-year extensions. During its lifetime, LART acquired approximately TSh 85 billion ($96 million) in nonperforming assets—TSh 27 billion initially after its establishment and a further TSh 58 billion in 1996. By the time LART concluded its operations in January 2001, it had recovered approximately TSh 33 billion. 
+
+**Keywords** : Tanzania, asset management companies, asset purchase programs, LART 
+
+> 1 This case study is part of the Yale Program on Financial Stability (YPFS) selection of New Bagehot Project modules considering broad-based asset management company programs. 
+
+> Cases are available from the _Journal of Financial Crises_ at https://elischolar.library.yale.edu/journal-of-financial-crises/. 
+
+> 2 Director, New Bagehot Project and Senior Editor, YPFS, Yale School of Management. 
+
+
+## Tanzanian Loans and Advances 
+
+## Realization Trust (LART) 
+
+## **At a Glance** 
+
+In 1967, the recently formed nation of Tanzania nationalized its banking system pursuant to a declaration issued by its socialist government (Nord et al. 2009). Government ownership of both financial institutions and state-controlled businesses known as parastatals resulted in bank lending based on political considerations rather than creditworthiness (Chijoriga 2000; Nord et al. 2009). With a shift toward liberalization beginning in the mid-1980s, parastatals faced increased competition and the loss of government subsidies. This change resulted in mounting losses at the stateowned banks that the government had directed to lend to the parastatals (Nord et al. 2009). According to a report on Tanzania’s banking system released in 1990, nonperforming loans comprised up to 45% of the total loan portfolio at the primary state-owned commercial bank, the National Bank of Commerce (Chijoriga 2000). A 1991 estimate put that figure as high as 70% (Johnson et al. 1999). 
+
+Against this backdrop, Tanzania in 1991 set out to reform its financial system by legalizing private financial institutions and cleaning up state-owned banks (Nord et al. 2009). To accomplish this goal, Tanzanian authorities sought and received technical and financial assistance from the World Bank, the African Development Fund, and other international donors (ADF 2000). In 
+
+||Summary of Key Terms|
+|---|---|
+||Purpose: To hold the nonperforming assets of banks<br>and to “take such action as may be necessary to<br>recover all amounts outstanding in respect of such . . .<br>assets, and to advise, direct or facilitate the measures|
+||that have to be taken by or in respect of the debtors|
+||so as to enhance their capacity to repay” (LART Act|
+||1991).|
+||Launch Dates<br>Announcement:  1991|
+||First transfer: 1992<br>Wind-Down<br>Dates<br>Initially, December 31, 1995;  later<br>extended to January 31, 2001<br>Size and Type<br>of<br>Nonperforming<br>45% to 70% of the total loan<br>portfolio at the primary state-<br>owned commercial bank|
+||Loan Problem<br>Commercial<br>loans<br>to<br>state-<br>controlled businesses<br>Program Size<br>Not specified at outset|
+||Eligible<br>State-owned financial institutions|
+||Institutions<br>initially; later expanded to include<br>private financial institutions|
+||Open-bank only|
+||Usage<br>TSh<br>85<br>billion<br>(approx.|
+||$96 million) transferred (approx.<br>5% of GDP) (Nord et al. 2009)<br>Outcomes<br>Approx. TSh 33 billion recovered<br>(Johnson et al. 1999)|
+||Ownership<br>Structure<br>Government-owned|
+||Notable<br>Special tribunal with exclusive|
+||Features<br>jurisdiction over transferred<br>assets to facilitate recoveries|
+
+
+
+pursuit of its goal of cleaning up state-owned banks, Tanzania established the Loans and Advances Realization Trust (LART) in 1991 as an autonomous government-owned institution (Johnson et al. 1999; LART Act 1991). Under its authorizing legislation, LART directed financial institutions to transfer their nonperforming assets to LART at a price it determined (LART Act 1991). Institutions received government bonds in exchange for the 
+
+
+transferred assets. Following these transfers, the Tanzanian government then recapitalized the transferring institutions (ADF 2000). 
+
+LART’s mandate was to recover outstanding amounts on nonperforming assets and to help debtors restructure to facilitate repayment (LART Act 1991). To enhance LART’s ability to make recoveries, Tanzanian authorities established a special LART Loan Recovery Tribunal with simplified procedures and exclusive jurisdiction over transferred assets (LART Act 1991; Nord et al. 2009). 
+
+The legislation establishing LART created a board of trustees that was responsible for governing it. The president of Tanzania appointed the chairman of this board, who was joined by four to six other members appointed by the minister of finance. An “administrator” appointed by the minister of finance had authority over the day-to-day operations of LART, subject to oversight from the board (LART Act 1991). 
+
+Tanzanian authorities initially established LART with a five-year timeframe, subject to a oneyear extension. In 1996, Tanzania amended the legislation establishing LART to include private financial institutions and extend its operations to June 30, 2000, with the possibility of two one-year extensions (LART Act 1996). 
+
+During its lifetime, LART acquired approximately TSh 85 billion ($96 million)[3] in nonperforming assets—TSh 27 billion initially after its establishment and a further TSh 58 billion in 1996 (Johnson et al. 1999). The National Bank of Commerce accounted for around 70% of these assets, with the remaining assets coming from other state-owned financial institutions including the Tanzania Investment Bank, the Tanzania Housing Bank, and the Cooperative and Rural Development Bank (Chijoriga 2000). By the time LART concluded its operations in January 2001, it had recovered approximately TSh 33 billion (Johnson et al. 1999; World Bank 2001). 
+
+## **Summary Evaluation** 
+
+While there has been little evaluation of LART, a report by the World Bank (2001) concluded that “LART’s strong management, professional staff, operational autonomy, and the ability to move collection cases rapidly through a dedicated court, which was funded by the Government, enabled LART to effectively and satisfactorily carry out its mandate.” Tripp (1997) argues that bureaucratic infighting between LART and the Parastatal Sector Reform Commission, a separate government body established by Tanzanian authorities to promote the divestiture of state-owned businesses, hampered privatization efforts. 
+
+> 3 Exchange rate of approximately 888 TSh to $1 provided by World Bank 2001. 
+
+
+|**Tanzanian Loans and Advances Realization Trust: Tanzania Context**|**Tanzanian Loans and Advances Realization Trust: Tanzania Context**|
+|---|---|
+|**GDP**<br>**(SAAR, Nominal GDP in LCU converted to**<br>**USD)**|$4.26 billion in 1990<br>$4.96 billion in 1991|
+|**GDP per capita**<br>**(SAAR, Nominal GDP in LCU converted to**<br>**USD)**|$174 in 1990<br>$196 in 1991|
+|**Sovereign credit rating (5-year senior**<br>**debt)**|Data not available for 1990–91|
+|**Size of banking system**|$0.91 billion in 1990<br>$1.07 billion in 1991|
+|**Size of banking system as a percentage of**<br>**GDP**|21.4% in 1990<br>21.6% in 1991|
+|**Size of banking system as a percentage of**<br>**financial system**|Data not available for 1990–91|
+|**5-bank concentration of banking system**|Data not available for 1990–91|
+|**Foreign involvement in banking system**|No foreign involvement as of 1989|
+|**Government ownership of banking system**|100% government-owned as of 1989|
+|**Existence of deposit insurance**|No in 1990–91|
+|Sources:_Bloomberg; IMF 1996. _||
+
+
+
+
+## **Key Design Decisions** 
+
+**1. Part of a Package: Tanzanian authorities established LART as the first step in a two-step process that also involved recapitalizing the financial institutions from which LART acquired nonperforming assets.** 
+
+Institutions transferred nonperforming assets to LART when and as directed by LART (LART Act 1991). Following these transfers, the Tanzanian government then recapitalized the transferring institutions (ADF 2000). It does not appear that LART itself was responsible for the recapitalizations. 
+
+**2. Legal Authority: The Tanzanian Parliament adopted the Loans and Advances Realization Trust Act (the LART Act) in 1991 in order to establish LART and amended the LART Act in 1996 to expand LART’s mandate.** 
+
+Parliament amended the LART Act in 1996 to include private financial institutions and extend LART’s timeframe until at least 2000 (LART Act 1996). 
+
+**3. Special Powers: The LART Act also established the LART Loan Recovery Tribunal with simplified procedures and exclusive jurisdiction over transferred assets in order to accelerate recovery.** 
+
+At the time of LART’s establishment, legal proceedings involving nonperforming assets took anywhere from one to five years (World Bank 2001). To accelerate the pace of recovery, the LART Act created a special LART Loan Recovery Tribunal with simplified procedures and exclusive jurisdiction over transferred assets (LART Act 1991). This reduced hearing times to an average of three months (World Bank 2001). 
+
+**4. Mandates: LART’s mandates were to minimize losses and manage nonperforming assets by pursuing delinquent debtors and actively restructuring debtors if necessary to enhance their capacity to repay.** 
+
+The LART Act established LART to hold the nonperforming assets of banks and to “take such action as may be necessary to recover all amounts outstanding in respect of such . . . assets, and to advise, direct or facilitate the measures that have to be taken by or in respect of the debtors so as to enhance their capacity to repay” (LART Act 1991). 
+
+## **5. Ownership Structure: LART was government-owned.** 
+
+The LART Act established LART as an autonomous government-owned institution (Johnson et al. 1999; LART Act 1991). 
+
+
+## **6. Governance/Administration: LART was governed by a board of trustees appointed by the president and minister of finance.** 
+
+The LART Act created a board of trustees that was responsible for governing LART. The president of Tanzania appointed the chairman of this board, who was joined by four to six other members appointed by the minister of finance. An “administrator” appointed by the minister of finance had authority over the day-to-day operations of LART, subject to oversight from the board (LART Act 1991). LART maintained a professional staff of approximately 20 people (World Bank 1999). 
+
+**7. Size: Tanzanian authorities do not appear to have established a specific cap on LART’s size.** 
+
+The LART Act contained no references to a cap on the amount of nonperforming assets that could be acquired by LART (LART Act 1991). 
+
+## **8. Funding Source: The Tanzanian government funded LART.** 
+
+The Tanzanian government incurred significant costs from LART’s operations and the related recapitalization of transferring financial institutions. It was anticipated that these costs would be outweighed in the long run by benefits in the form of “the savings on the subsidies that would have otherwise been provided to loss-making banks, and the incremental fiscal revenues from the earnings of profitable financial institutions and higher economic growth” (ADF 2000). 
+
+**9. Eligible Institutions: Initially, LART purchased assets from state-owned institutions being recapitalized, with private financial institutions ultimately being made eligible in 1996.** 
+
+The 1996 amendment to the LART Act expanded eligibility to private financial institutions, which had been made legal again as part of the financial system reforms launched in 1991 (LART Act 1996; Nord et al. 2009). It does not appear that any private financial institutions participated. 
+
+## **10. Eligible Assets: Initially, only nonperforming assets held by state-owned financial institutions at the time LART was established were eligible for participation.** 
+
+The LART Act provided that the nonperforming assets eligible for transfer were those (a) in existence as of the commencement of the LART Act or (b) in existence as of December 30, 1990 (subject to extension to December 31, 1991), provided that they were on the books of the institution as of June 30, 1988 (LART Act 1991). The 1996 amendment to the LART Act expanded eligibility to all assets determined to be nonperforming consistent with regulatory guidance (LART Act 1996). The nonperforming assets transferred to LART consisted largely of commercial loans to state-controlled businesses. 
+
+
+## **11. Acquisition – Mechanics: Eligible financial institutions transferred nonperforming assets when directed to do so by LART and received government bonds as consideration.** 
+
+Under the LART Act, LART provided written direction to financial institutions requiring them to transfer nonperforming assets (LART Act 1991). Financial institutions that transferred nonperforming assets at the direction of LART received government bonds as consideration. These bonds carried interest rates of 11% and had maturities of 20 years or more (ADF 2000). 
+
+## **12. Acquisition – Pricing: LART determined the price to be paid for transferred assets, but it is unclear how it did so or what its determinations were.** 
+
+The LART Act provided that LART would pay for transferred assets “such sums as may be determined by [LART] at such rate, in such form and subject to such other terms and conditions as [LART] may determine” (LART Act 1991). It is not clear from program documents exactly what price LART determined should be paid or how this price was determined. 
+
+## **13. Management and Disposal: Initially, LART focused on seizing and selling assets in order to achieve recoveries.** 
+
+Initially LART made most of its recoveries on nonperforming assets via seizure and sale of assets (Johnson et al. 1999). Ultimately, LART employed a broader array of approaches including “direct recovery of outstanding liabilities, rescheduling of assets, negotiated settlement, packaging of assets to facilitate disposition, and auctions” (World Bank 2001). 
+
+## **14. Timeframe: Tanzanian authorities initially established LART with a five-year timeframe ending on December 31, 1995 with the option for a one-year extension before further extending the program into 2001.** 
+
+The LART Act provided for a five-year timeframe for the program, with the option for a oneyear extension (LART Act 1991). The 1996 amendment to the LART Act extended this timeframe until June 30, 2000, with the option for two one-year extensions (LART Act 1996). The program ultimately concluded in January 2001 (World Bank 2001). 
+
+## **References and Key Program Documents** 
+
+## **Implementation Documents** 
+
+(LART Act 1991) The Loans and Advances Realization Trust Act, 1991 – _Legislation adopted by the Tanzanian Parliament establishing LART._ 
+
+https://ypfs.som.yale.edu/library/loans-and-advances-realization-trust-act-1991. 
+
+(LART Act 1996)  – _Amendment to the legislation adopted by the Tanzanian Parliament establishing LART._ 
+
+
+https://ypfs.som.yale.edu/library/loans-and-advances-realization-trust-act-amendment1996. 
+
+## **Key Academic Papers** 
+
+(Chijoriga 2000) Chijoriga, Marcellina M. 2000. “The Interrelationship between Bank Failure and Political Interventions in Tanzania in the Pre-Liberalization Period.” _African Journal of Finance and Management_ 9, no. 1: 14–30. – _Academic paper describing Tanzania’s response to high levels of nonperforming assets held by its state-owned banks in the early 1990s._ https://ypfs.som.yale.edu/library/interrelationship-between-bank-failure-and-politicalinterventions-tanzania-pre. 
+
+(Tripp 1997) Tripp, Aili Mari. 1997. _Changing the Rules: The Politics of Liberalization and the Urban Informal Economy in Tanzania_ . Berkeley, London: University of California Press.– _Book on the liberalization of the Tanzanian economy, which references the role played by LART in privatization._ 
+
+https://ypfs.som.yale.edu/library/changing-rules-politics-liberalization-and-urbaninformal-economy-tanzania. 
+
+## **Reports/Assessments** 
+
+(ADF 2000) African Development Fund (ADF). 2000. “Tanzania Financial Sector Adjustment Programme Project Completion Report.” August 2000. – _ADF report on the outcomes of the Financial Sector Adjustment Programme, of which LART was one component._ https://ypfs.som.yale.edu/library/tanzania-financial-sector-adjustment-programmeproject-completion-report. 
+
+(IMF 1996) International Monetary Fund. 1996. “Tanzania: Selected Issues and Statistical Appendix.” – _IMF report including data on Tanzania’s economy in 1996_ . 
+
+https://ypfs.som.yale.edu/library/tanzania-selected-issues-and-statistical-appendix. 
+
+(Johnson et al. 1999) Johnson, G.G., H. Snoek, K. Elborgh-Woytek, A. Kourelis, H. Davoodi, and O. Kanaan. 1999. “Tanzania: Recent Economic Developments.” IMF Staff Country Report No. 99/24. April 1999. – _IMF report on recent economic developments in Tanzania that includes discussion of the outcomes of LART._ 
+
+https://ypfs.som.yale.edu/library/tanzania-recent-economic-developments. 
+
+(Nord et al. 2009) Nord, Roger, Yuri Sobolev, David Dunn, Alejandro Hajdenberg, Niko Hobdari, Samar Maziad, and Stéphane Roudet. 2009. “Tanzania: The Story of an African Transition.” International Monetary Fund. February 2009. – _IMF report on reforms to the Tanzanian financial system, including LART._ 
+
+https://ypfs.som.yale.edu/library/tanzania-story-african-transition. 
+
+(World Bank 1999) World Bank. 1999. “Tanzania – Privatization & Private Sector Development.” World Bank Report No. PID8083. February 26, 1999. – _World Bank report on privatization and the role of LART._ 
+
+https://ypfs.som.yale.edu/library/tanzania-privatization-private-sector-development. 
+
+
+(World Bank 2001) World Bank. 2001. “Implementation Completion Report.” World Bank Report No. 22494. May 28, 2001. – _World Bank report describing outcomes of LART._ https://ypfs.som.yale.edu/library/implementation-completion-report. 
+
+Copyright 2021 © Yale University. All rights reserved. To order copies of this material or to receive permission to reprint any or all of this document, please contact the Yale Program on Financial Stability at ypfs@yale.edu.

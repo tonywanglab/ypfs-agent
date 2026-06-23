@@ -1,0 +1,605 @@
+--- Page 1 ---
+Journal of Financial Crises Journal of Financial Crises 
+Volume 1 Issue 3 
+2019 
+Ireland and Iceland in Crisis C: Iceland’s Landsbanki Icesave Ireland and Iceland in Crisis C: Iceland’s Landsbanki Icesave 
+Arwin G. Zeissler 
+Yale School of Management 
+Thomas Piontek 
+Research & Analysis, Office of Financial Research, U.S. Department of the Treasury 
+Andrew Metrick 
+Yale School of Management 
+Follow this and additional works at: https://elischolar.library.yale.edu/journal-of-financial-crises 
+ Part of the Banking and Finance Law Commons, Corporate Finance Commons, Economic Policy 
+Commons, Finance Commons, Finance and Financial Management Commons, International Economics 
+Commons, Macroeconomics Commons, Organizational Behavior and Theory Commons, Other Public 
+Affairs, Public Policy and Public Administration Commons, Policy History, Theory, and Methods 
+Commons, Political Economy Commons, Public Affairs Commons, and the Public Policy Commons 
+Recommended Citation Recommended Citation 
+Zeissler, Arwin G.; Piontek, Thomas; and Metrick, Andrew (2019) "Ireland and Iceland in Crisis C: Iceland’s 
+Landsbanki Icesave," Journal of Financial Crises: Vol. 1 : Iss. 3, 27-43. 
+DOI: https://doi.org/10.17132/2693-3179.1027 
+Available at: https://elischolar.library.yale.edu/journal-of-financial-crises/vol1/iss3/3 
+This Case Study is brought to you for free and open access by the Journal of Financial Crises and 
+EliScholar – A Digital Platform for Scholarly Publishing at Yale. For more information, please contact 
+journalfinancialcrises@yale.edu.
+
+--- Page 2 ---
+READERS TAKE NOTICE: READERS TAKE NOTICE: 
+As of April 2024, the YPFS Resource Library’s site domain has changed 
+to https://elischolar.library.yale.edu/ypfs-financial-crisis-resource-library/. 
+Please be aware that upon clicking any of the URL references to 
+the former Resource Library domains, either https://ypfs.som.yale.edu 
+or https://ypfsresourcelibrary.blob.core.windows.net/, in the 
+"References/Key Program Documents" section of a case study, 
+readers will encounter a "page not found" error. readers will encounter a "page not found" error. 
+Readers can still retrieve a given resource cited within this case study 
+on the new site  by searching by searching here  for the title cited. for the title cited. 
+This case study is available in Journal of Financial Crises: https://elischolar.library.yale.edu/journal-of-financial-
+crises/vol1/iss3/3
+
+--- Page 3 ---
+Ireland and Iceland in Crisis C:  
+Iceland’s Landsbanki Icesave1   
+ 
+Arwin G. Zeissler2 
+Thomas Piontek3 
+Andrew Metrick4 
+ 
+ 
+Yale Program on Financial Stability Case Study 2014-5A-V1 
+December 1, 2014, Revised: March 16, 2015, October 30, 2019 
+Abstract 
+At year -end 2005, almost all of the total assets of Iceland’s banking system were 
+concentrated in just three banks (Glitnir, Kaupthing, and Landsbanki). These banks were 
+criticized by certain financial analysts in early 2006 for being overly dependent on wholesale 
+funding, much of it short- term, that could easily disappear if creditors’ confidence in these 
+banks faltered for any reason. Landsbanki, followed later by Kaupthing and then Glitnir, 
+responded to this criticism and replaced part of their wholesale funding by using online 
+accounts to gather deposits from individuals across Europe. In Landsbanki’s case, these new 
+deposits were marketed under the name “Icesave” and legally held in branch offices in the 
+United Kingdom and the Netherlands. When Landsbanki failed in October 2008, the 
+obligation to repay depositors fell upon Iceland’s deposit insurance fund, not upon the 
+British and Dutch deposit insurance funds. However, the Icelandic fund did not have nearly 
+enough money to repay all eligible depositors in the three major Icelandic banks, all of which 
+had failed, so the Icelandic government made the controversial decision to repay only 
+domestic depositors. 
+__________________________________________________________________ 
+1  This module is one of four produced by the Yale Program on Financial Stability (YPFS) examining issues 
+impacting Ireland and Iceland in the years surrounding the global financial crisi s. The following are the other 
+modules in this case series. 
+• Ireland and Iceland in Crisis A: Increasing Risk in Ireland 
+• Ireland and Iceland in Crisis B: Decreasing Loan Loss Provisions in Ireland  
+• Ireland and Iceland in Crisis D: Similarities and Differences 
+Cases are available from the Journal of Financial Crises. 
+2  Project Editor, Case Study and Research, YPFS, Yale School of Management. 
+3  Researcher, Research & Analysis, Office of Financial Research, Department of the Treasury.  Views and 
+opinions expressed are those of the author and do not necessarily represent OFR or Treasury 
+positions or policy. 
+4  Janet L. Yellen Professor of Finance and Management, and YPFS Program Director, Yale School of 
+Management. 
+27
+
+--- Page 4 ---
+1.   Introduction  
+At 11:18 on the night of Monday, October 6, 2008, the Icelandic Parliament passed an 
+Emergency Act that gave the financial regulator of the small island nation the power to take 
+over the operations of a failing bank. The situation facing Iceland’s banks was indeed an 
+emergency, and the regulator used its new powers to take control of two of the country’s 
+major banks (Glitnir and Landsbanki) the very next day and the third major bank 
+(Kaupthing) later that same week. These banks collectively held 90% of the assets of 
+Iceland’s banking system, a sum equal to 10 times the nation’s gross domestic product, 
+making Iceland’s banking collapse the largest relative to its size experienced by any country 
+during the global financial crisis of 2007-09. 
+Glitnir, Kaupthing, and Landsbanki received a warning shot across the bow in February 
+2006, when t he Fitch credit rating agency downgraded Iceland’s outlook to negative. In 
+addition, several investment firms issued cautionary reports about the banking system the 
+following month. One of the criticisms levied by these analyses was the fact that Iceland’s  
+banks were overly reliant on wholesale funding, much of it short- term, that could easily 
+disappear if creditors’ confidence in the banks ebbed for any reason. (Wholesale deposits 
+and loans are made by financial institutions, municipalities, and large corp orations.) Soon 
+thereafter, United States money market funds refused to extend the maturity of certain loans 
+to the Icelandic banks, which also saw the cost of insuring their debt against default double 
+in short order. 
+Landsbanki, followed later by Kaupthing and then Glitnir, reacted to this criticism and the 
+partial withdrawal of funding by aggressively gathering retail deposits from individuals 
+across Europe to replace part of their wholesale deposits. In Landsbanki’s case, these new 
+deposits were marketed under the name “Icesave” and legally held in branch offices in the 
+United Kingdom (UK) and the Netherlands. 
+Since Icesave deposits were liabilities of Landsbanki branches, not of separately-capitalized 
+subsidiaries, the obligation to make restitution to depositors when Landsbanki failed in 
+October 2008 fell upon Iceland’s own Depositors’ and Investors’ Guarantee Fund, not upon 
+the British and Dutch deposit insurance funds. However, the Depositors’ and Investors’ 
+Guarantee Fund did not have enough money to  repay all eligible depositors in the failed 
+Icelandic banks, so the Icelandic government made the controversial decision to repay only 
+domestic depositors. 
+The British and Dutch governments were naturally displeased by this action, and the UK 
+went so far as to freeze all Landsbanki assets and to add the bank to a list of regimes facing 
+financial sanctions that included Al -Qaeda, the Taliban, North Korea, and Syria. Icesave 
+depositors were largely made whole, since the British government paid its depositors in full, 
+and the Dutch government paid its depositors up to €100,000 (i.e., more than the €20,000 
+required under European Union rules). The British and Dutch governments filed priority 
+claims on the Landsbanki bankruptcy estate to recoup these monies, and they have received 
+payments to date amounting to about 50% of their claims. The Icelandic government expects 
+all priority claims to eventually be paid in full. 
+The remainder of the case is organized as follows. Section 2 provides an overview of the 
+Icelandic banking system since 2000. Sections 3 and 4 discuss the funding crisis faced by 
+Iceland’s banks in early 2006 and the establishment of Landsbanki Icesave in response to 
+one of the causes of that crisis, respectively. Section 5 describes the efforts to convert Icesave 
+from a branch to a subsidiary in 2008 and the complete collapse of the Icelandic banking 
+system in October of that year. Section 6 concludes with the actions taken by the British 
+28
+Journal of Financial Crises Vol. 1 Iss. 3
+
+--- Page 5 ---
+government, the Dutch government, and the European Free Trade Association Surveillance 
+Authority after Icesave depositors did not receive compensation from the Icelandic deposit 
+insurance fund in the wake of the Landsbanki collapse. 
+Questions 
+1. What motivated Landsbanki and the other Icelandic banks to gather deposits from 
+overseas retail customers? 
+2. Why was Icesave structured as a branch instead of a subsidiary, and what were the 
+implications of that decision? 
+3. Are the incentives between a bank and a deposit insurance fund properly aligned? 
+4. What role can currency exposure play in a systemic financial crisis? 
+2.  Iceland’s Banking System 
+In the decade preceding the 2007 -09 financial crisis, Iceland’s banking system was 
+dominated by three banks: Glitnir, Kaupthing, and Landsbanki (collectively, “GKL”). Though 
+banks in many countries greatly expanded their lending and investing activities in the run-
+up to the crisis, the asset growth of Iceland’s GKL banks was astronomical. 
+Due to Iceland’s small population (about 300,000 people) and economy (about US$14 billion 
+gross domestic product), Iceland’s banks achieved their phenomenal growth via access to 
+international financial markets. Though not a member of the European Union (EU), Iceland 
+belongs to the European Economic Area, which allows Iceland, Liechtenstein, and Norway to 
+access the EU single market in essentially the same way as the 28 EU member states. 
+However, Iceland uses the krona (ISK) as its currency, not the euro (EUR). 
+As can be seen in Figure 1, GKL’s assets grew almost ten-fold from ISK 1.451 trillion at year-
+end 2003 to ISK 14.437 trillion by June 2008. Of the almost ISK 13 trillion increase in total 
+assets over the period, ISK 1.6 trillion resulted from large acquisitions in 2004 and 2005, and 
+ISK 3.9 trillion resulted from depreciation of the krona in 2006 and 2008. Nevertheless, the 
+primary reason for the increase in GKL total assets was organic growth (i.e., ISK -
+denominated growth at existing units) of ISK 7.5 trillion. 
+The Icelandic central bank maintained relatively tight monetary policy during this time 
+period in an effort to fight inflation and boost the Icelandic krona. As a result, interest rates 
+in Iceland were higher than in many other countries. Much of the organic growth in Iceland’s 
+banks resulted from what is known as the “carry trade,” in which investors borrowed money 
+in countries with lower interest rates (often Japan or Switzerland) and lent that money at a 
+higher interest rate to entities in Iceland. 
+Approximately half of GKL assets were situated outside Iceland by 2007 and denominated in 
+other currencies, generally the euro, introducing a significant element of currency risk to the 
+banks’ activities (SIC 2010 Appendix 3, 93). That is, assets denominated in foreign currencies 
+would translate into fewer (or more) Icelandic krona if the krona were to strengthen (or 
+weaken). 
+  
+29
+Ireland and Iceland in Crisis C Zeissler et al.
+
+--- Page 6 ---
+Figure 1: GKL Total Assets (amounts in trillion ISK, except for overall and organic 
+growth rates) 
+Date Total 
+Assets 
+Change 
+in Total 
+Assets 
+Overall 
+Growth 
+Rate 
+Due to 
+Mergers and 
+Acquisitions 
+Due to 
+Exchange 
+Rates* 
+Due to 
+“Organic 
+Growth”** 
+Organic 
+Growth 
+Rate 
+Dec. 2003 1.451       
+Dec. 2004 2.946 1.495 103% 0.798 –0.051 0.748 52% 
+Dec. 2005 5.419 2.473 84% 0.726 –0.203 1.950 66% 
+Dec. 2006 8.475 3.056 56% 0 1.068 1.988 37% 
+Dec. 2007 11.354 2.879 34% 0.058 –0.231 3.052 36% 
+June 2008 14.437 3.083 27% 0 3.302 –0.219 –2% 
+Totals  12.986  1.582 3.885 7.519  
+* The number of Icelandic krona (ISK) needed to buy 1 euro at December 2003 -07 and June 2008 
+month-ends was 90, 84, 75, 95, 91, and 125, respectively. 
+**Organic growth” is the ISK-denominated growth in assets at the banks and their subsidiaries, not 
+related to acquisitions. 
+Source: SIC 2010 Appendix 3, 93. 
+ 
+The growth in GKL assets far exceeded the growth in Iceland’s gross domestic product (GDP) 
+over the same time period. As shown in Figure 2, GKL total assets grew from two times GDP 
+at year-end 2003 to 10 times GDP by June 2008 (SIC 2010 Appendix 3, 103). Including assets 
+held by small banks, pension funds, and other financial intermediaries, the total assets of the 
+Icelandic financial system amounted to over 12 times GDP by December 2007 (IMF 2008, 
+34). By comparison, total assets in the Irish banking system were about 4.5 times GDP, and 
+total assets of all commercial banks  in the United States at year -end 2007 were 
+approximately equal to its GDP. 
+As can be seen in Figures 3, 4, and 5, Iceland’s banks were widely considered to be healthy 
+and profitable, with average Tier 1 capital ratio, return on assets, and return on equit y 
+greater than the average of six large banks from other Nordic nations in every period from 
+2003 through mid -year 2008 (SIC 2010 Appendix 3, 93- 94). Note, however, that the 
+performance of the Icelandic banks peaked in 2006 and started to decline by 2007, though 
+still remaining above the Nordic mean. 
+Banking regulation and supervision in Iceland is shared between the Central Bank of Iceland 
+(CBI) and the Financial Supervisory Authority (FME). The CBI implements monetary policy 
+and acts as the lender of last resort. CBI issues annual Financial Stability Reports in its 
+capacity as macro-prudential regulator. The FME monitors the credit market, the insurance 
+market, the pension market, and the securities market. FME conducts stress tests of the 
+capital adequacy of Iceland’s banks in its role as micro-prudential regulator (Baldursson & 
+Portes 2013, 32-33). 
+30
+Journal of Financial Crises Vol. 1 Iss. 3
+
+--- Page 7 ---
+Figure 2: GKL Total Assets Relative to Iceland’s Gross Domestic Product 
+ 
+Source: SIC 2010 Appendix 3, 103.  
+ 
+Figure 3: Mean Tier I Capital Ratios 
+ 
+Source: SIC 2010 Appendix 3, 93. 
+ 
+31
+Ireland and Iceland in Crisis C Zeissler et al.
+
+--- Page 8 ---
+Figure 4: Mean Return on Assets 
+ 
+Source: SIC 2010 Appendix 3, 94. 
+ 
+Figure 5: Mean Return on Book Equity 
+ 
+Source: SIC 2010 Appendix 3, 93. 
+32
+Journal of Financial Crises Vol. 1 Iss. 3
+
+--- Page 9 ---
+3.  Iceland’s 2006 Funding Crisis 
+The Fitch credit rating agency issued a periodic “Bank Systemic Risk Report” on February 6, 
+2006. In the report, Fitch mentioned several countries with weak or weakening macro -
+prudential economic and financial indicators. With respect to Iceland, Fitch stated “the credit 
+boom in Iceland gives most cause for concern” and that “banks will suffer a deterioration in 
+loan quality with an adverse impact on financial performance” if Iceland’s equity and 
+property prices were to fall sharply (SIC 2010 Appendix 3, 97). 
+Fitch followed its February 6 report by lowering its sovereign outlook for Iceland from stable 
+to negative on February 21. This negative outlook was based on a “material deterioration in 
+Iceland’s macro -prudential risk indicators, accompanied by an unsustainable current 
+account deficit and soaring net external indebtedness” (Fitch 2006, 1). 
+The Fitch reports in February were followed in March by analyses from the JPMorgan and 
+Merrill Lynch investment firms that were also critical of the Icelandic banking system, with 
+the criticisms focused on four major topics (SIC 2010 Appendix 3, 97-98). 
+First, the loan books of the GKL banks were very concentrated, with loans to a single 
+borrower sometimes equaling more than half of a bank’s equity base. Second, compounding 
+the above problem was the fact that the largest shareholders of each of the GKL banks were 
+also among the banks’ biggest borrowers. Third, total GKL assets amounted to roughly five 
+times Iceland’s GDP by year -end 2005, and analysts questioned whether Iceland’s 
+government and central bank would be able to provide support to the banks in the event of 
+a liquidity or solvency crisis (As noted in Section 2, GKL assets reached 10 times GDP by June 
+2008). Fourth, the GKL banks relied on short-term wholesale markets for up to 75% of their 
+funding, much of it to be repaid in foreign currencies. Excessive reliance on short- term 
+wholesale markets to fund long-term assets was also a key feature of the collapse of Ireland’s 
+banking system (as discussed in Zeissler, et al. 2014A). 
+As the analyses by Fitch, JPMorgan, and Merrill Lynch caused investors to reassess the safety 
+of Iceland’s banks, the cost to insure the debt of the GKL banks against default, as reflected 
+in the cost of credit default swaps, doubled between late 2005 and April 2006, as can be seen 
+in Figure 6. 
+Of more immediate concern, certain United States money market funds refused in March 
+2006 to extend the maturity of the 13 -month extendible notes payable that the GKL banks 
+had issued in 2005 to partially fund themselves (SIC 2010 Appendix 3, 98). Other Icelandic 
+financial markets also suffered, with the krona and the stock market both losing a quarter of 
+their value from February to June 2006 (Baldursson & Portes 2013, 35). 
+The funding crisis dissipated in the second half of 2006, as investors’ attention turned 
+elsewhere and the GKL banks made changes to their operations and funding, discussed in 
+greater detail in Section 4. The CBI responded by significantly expanding collateralized loans 
+to the banks (from ISK 30 billion in fall 2 005 to ISK 500 billion by fall 2008) and further 
+raising the policy interest rate in an effort to slow the domestic economy, and the FME 
+focused on having banks provide better disclosures of loans to related parties. 
+  
+33
+Ireland and Iceland in Crisis C Zeissler et al.
+
+--- Page 10 ---
+Figure 6: Banks’ CDS (Credit Default Swap) Spreads - 5 Year Senior Bonds 
+ 
+Source: (Baldursson & Portes 2013, 36). 
+ 
+4.  Icesave Flourishes (2006-07) 
+In reaction to the funding crisis and the criticisms levied by outside analysts in early 2006, 
+the GKL banks sought to diversify their loan portfolios to reduce exposure to large 
+borrowers, and to cut back on loans to related parties. In addition, the GKL banks sought to 
+decrease their dependence on volatile wholesale funding from financial institutions, 
+municipalities, and large corporations by replacing part with retail deposits made by 
+individuals. Many banking analysts consider retail deposits to be a more stable (referred to 
+as “sticky”) and less expensive source of funding, partially due to deposit guarantee 
+programs. 
+Given the need to fund rapid asset growth but constrained by the small size of Iceland’s 
+population, the GKL banks targeted retail deposit growth overseas. Landsbanki took 
+advantage of Iceland’s membership in the European Economic Area and retail customers’ 
+increasing comfort with online banking to set up an internet-only account called “Icesave” to 
+gather retail deposits in the UK beginning in October 2006. 
+Icesave deposits were liabilities of Landsbanki’s London online branch, not of Landsbanki’s 
+UK subsidiary Heritable Bank. This distinction is important, because deposits in bank 
+branches are covered by deposit insurance of the country in which the parent bank is located, 
+whereas deposits in bank subsidiaries  are covered by deposit insurance of the country in 
+which the subsidiary is located. As a result, the Icesave deposits were insured by Iceland’s 
+34
+Journal of Financial Crises Vol. 1 Iss. 3
+
+--- Page 11 ---
+own Depositors’ and Investors’ Guarantee Fund (DIGF) and thus would increase the 
+obligations of the DIGF if Landsbanki were to fail (SIC 2010 Chapter 18, 3-4). 
+Landsbanki management decided to maintain these deposits in a branch to make it easier to 
+transfer monies upstream from Icesave accounts to fund other units within the bank. 
+Conversely, UK banking rules limit such intra-bank fund transfers in the case of subsidiaries 
+(SIC 2010 Chapter 18, 3-4). 
+Deposits to and withdrawals from Icesave accounts were made in British pound sterling 
+(GBP), and balances went from zero to more than GBP 4.4 billion in the first year and funded 
+fully 20% of Landsbanki’s total assets by year-end 2007. Icesave was able to gather deposits 
+quickly because, for its first nine months in operation, Icesave paid the highest interest rate 
+among all available accounts in the UK, according to a daily report in the London Times  (SIC 
+2010 Appendix 3, 100). 
+Landsbanki began offering the Icesave product in the Netherlands in May 2008. Unlike UK 
+law, Dutch law did not meaningfully restrict the ability of a subsidiary to transfer funds to 
+other parts of the banking group. However, obtaining the necessary Dutch banking license 
+for a subsidiary would have taken a long period of time, so Landsbanki collected Icesave 
+deposits through its existing branch in Amsterdam. Dutch deposits were made in euro (SIC 
+2010 Chapter 18, 53-54). 
+Seeing Landsbanki’s success with the Icesave accounts, Kaupthing also sought to reduce its 
+reliance on wholesale funds by gathering retail deposits across Europe with its “Edge” 
+accounts. In contrast with Icesave accounts, Edge accounts were offered through branches 
+in some countries and subsidiaries in other nations, as can be seen in Figure 7. As with 
+Landsbanki Icesave deposits, Kaupthing Edge deposits in a branch were insured by Iceland’s 
+DIGF, whereas deposits in a subsidiary were covered by the host country’s deposit insurance 
+(SIC 2010 Chapter 18, 2-3). 
+Glitnir began offering its own online deposit vehicle, called “Save & Save”, in June 2008, but 
+this remained an inconsequential part of the bank’s operations by the time of its collapse in 
+October (SIC 2010 Chapter 18, 2-3). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+35
+Ireland and Iceland in Crisis C Zeissler et al.
+
+--- Page 12 ---
+Figure 7: Kaupthing Edge, by Legal Structure and Month Commenced 
+Country Branch Subsidiary 
+Finland November 2007  
+Sweden December 2007  
+Norway February 2008  
+United Kingdom  February 2008 
+Germany April 2008  
+Denmark  May 2008 
+Luxembourg  May 2008 
+Isle of Man  June 2008 
+Switzerland  July 2008 
+Austria September 2008  
+Source: SIC 2010 Chapter 18, 3. 
+ 
+5.  Icesave Fails (2008) 
+Icesave balances peaked in January 2008 at approximately GBP 4.9 billion (SIC 2010 Chapter 
+18, 40). If viewed as a contingent obligation of Iceland itself, this sum was equal to 
+approximately GBP 16,000 per Icelandic resident (equivalent to €22,000, or US$32,000).  
+Though Landsbanki had succeeded in replacing some wholesale funding with retail deposits, 
+the Moody’s credit rating agency placed Landsbanki on review on January 30 for possible 
+downgrade in part because of “the bank’s growing reliance on short- term Internet- based 
+deposits (Icesave) from overseas sources for funding the bank’s loan book” (SIC 2010 
+Appendix 3, 100). 
+As noted in Section 4, retail deposits are generally considered a more stable source of 
+funding than wholesale deposits. In addition to the protection afforded by deposit insurance, 
+the “stickiness” attributed to retail deposits is also a function of inertia, that is, the 
+inconvenience of switching one’s deposit and payment activity to another bank. However, 
+Icesave customers were mainly attracted by its market- leading interest rates, and, as these 
+were online accounts, depositors could move their balances any time of any day to whatever 
+bank offered the best terms. Additionally, Icesave customers in the United Kingdom and in 
+the Netherlands may not have felt special loyalty to an Icelandic bank, since this was not their 
+“local” bank. 
+The British bank Northern Rock encountered liquidity difficulties in the fall of 2007 and was 
+nationalized by the UK government in February 2008, after which the British media began 
+questioning whether other banks might pose a risk to the banking system. Attention quickly 
+focused on Iceland’s banks because the cost to insure their debt against default was widening 
+once again. JPMorgan, Merrill Lynch, and Moody’s published further negative analyses of the 
+Icelandic banking system (SIC 2010 Chapter 18, 6-7). 
+36
+Journal of Financial Crises Vol. 1 Iss. 3
+
+--- Page 13 ---
+Figure 8: Representative Analysts and Press Comments 
+ 
+Source: Project Editor Notes. SIC 2010 Chapter 18, 6-7. 
+ 
+This attention and the increasing realization that the size of the Icelandic banking system 
+dwarfed the ability of the country’s government, the central bank, and the deposit insurance 
+fund to help in a crisis (see again Figure 1) led to a run on the Icesave accounts. UK customers 
+withdrew almost GBP 1 billion (about 20% of total deposits) from the London branch of 
+Landsbanki between February 10 and April 22 (SIC 2010 Chapter 18, 7). 
+With the start of the run in February, Landsbanki officers began a series of discussions with 
+the CBI, the FME, and the UK Financial Services Authority (UK FSA) about transferring the 
+deposit-taking activities of Icesave from Landsbanki’s London branch to its Heritable Bank 
+subsidiary or to another UK-based subsidiary, thus transferring the deposit guarantees from 
+the DIGF to its UK counterpart, the Financial Services Compensation Scheme. 
+Landsbanki obtained a legal opinion in late February that it had three possible options for 
+effecting the change from branch to subsidiary: [1] transfer the accounts with depositors’ 
+consent, [2] forcibly transfer the accounts by court order pursuant to the Financial Services 
+and Markets Act of 2000, or [3] obtain special legislation to forcibly transfer the accounts. 
+The law firm providing the opinion recommended the second option but also cautioned that 
+it would likely take six months to complete the transfer (SIC 2010 Chapter 18, 8). 
+Discussions between regulators and Landsbanki officers continued into the summer months, 
+with the UK FSA pushing for the Icesave transfer to be completed by October 31, and no later 
+than by December 31. Adding urgency to the matter, the UK paper The Times  published an 
+article on July 5 about the status of Iceland’s DIGF. The fund had a reserve balance of GBP 88 
+million to insure deposits of GBP 13.6 billion, equal to only 0.65% of the balances covered 
+(SIC 2010 Chapter 18, 15) . However, no action was initiated by Landsbanki to transfer the 
+Icesave deposits from a branch to a subsidiary for fear of violating loan covenants. The 
+Icelandic banking system collapsed before the transfer could be made. 
+37
+Ireland and Iceland in Crisis C Zeissler et al.
+
+--- Page 14 ---
+Financial and interbank lending markets seized up in the days following the bankruptcy of 
+Lehman Brothers on September 15, 2008. Glitnir had large debts due in October, but the 
+bank was not able to raise cash by selling some of its Norwegian assets, and a German bank 
+refused to extend Glitnir’s loans. Two weeks after the fall of Lehman, the Icelandic 
+government announced on September 29 that it would contribute €600 million to Glitnir in 
+exchange for 75% of the bank’s capital. 
+After this government action, both Kaupthing and Landsbanki faced accelerated deposit 
+outflows. On Friday, October 3, the UK FSA demanded that Landsbanki send GBP 200 million 
+to the Bank of England by Monday and transfer GBP 53 million to Landsbanki’s UK subsidiary 
+because of the run on the Icesave accounts. The European Central Bank initially demanded 
+that Landsbanki post €400 million additional margin on Monday, though it subsequently 
+canceled this margin call. Landsbanki attempted to borrow the needed funds from the CBI, 
+but its request was rejected because the CBI  had loaned much of its remaining foreign 
+currency reserves to Kaupthing, which was also facing a liquidity shortfall (SIC 2010 Chapter 
+2, 14-16) (See Figure 9 for Iceland’s net currency reserves in 2008.). 
+On Monday, October 6, Iceland’s parliament passed Act 125/2008, known as the Emergency 
+Act, which gave the FME the power to seize insolvent banks and to use government money 
+to support them. The UK government shut down Icesave on the evening of October 6, and 
+the FME used the newly enacted Emergency Act to assume control of Landsbanki on 
+Tuesday, October 7. FME also took control of Glitnir on October 7, followed by Kaupthing on 
+Thursday, October 9. Thus, the GKL banks, which held some 90% of all banking assets in 
+Iceland, collapsed and were nationalized in a single week (SIC 2010 Chapter 2, 14-16). 
+  
+38
+Journal of Financial Crises Vol. 1 Iss. 3
+
+--- Page 15 ---
+Figure 9: Iceland’s Net Currency Reserves and Exchange Rate 
+ 
+Source: Baldursson & Portes 2013, 89. 
+6.  Aftermath 
+Each GKL bank was split into a “new” bank and an “old” bank. All domestic assets and 
+domestic deposits were placed into the new banks. This transfer was immediate, and 
+domestic banking operations were not disturbed. Foreign assets, foreign deposits (including 
+Icesave deposits), and domestic non- deposit liabilities remained in the old banks , which 
+were placed into bankruptcy. Though Icesave depositors had a claim on the DIGF for €20,000 
+per account, the DIGF did not have enough money to pay out the insured amounts 
+(Baldursson & Portes 2013, 19, 23). 
+Reaction of the UK and Dutch Governments 
+On October 8, the United Kingdom Treasury issued an order freezing all Landsbanki assets 
+in the UK on the basis of the Anti- Terrorism Crime and Security Act of 2001. As can be seen 
+in Appendix 1, the UK Treasury added Landsbanki to an official list of regimes facing financial 
+sanctions that included Al-Qaeda, the Taliban, North Korea, and Syria. The UK Treasury later 
+relented and transferred Landsbanki to a list of non- terrorist organizations subject to 
+freezing orders. However, the freezing order remained in effect until June 6, 2009 
+(Baldursson & Portes 2013, 19-20). 
+39
+Ireland and Iceland in Crisis C Zeissler et al.
+
+--- Page 16 ---
+Icesave depositors lost very little in fact, since the UK government paid its depositors in full, 
+and the Dutch government paid its depositors up to €100,000 (i.e., more than the required 
+€20,000). The UK and Dutch governments have priority claims on the Landsbanki estate (the 
+old bank), as a result of the October 6 Emergency Act, which gave both domestic and foreign 
+depositors priority status over other claimants in the resolution of a financial institution. The 
+priority also applies to the Icesave deposits and covers all deposits in full, even those in 
+excess of €20,000 (MFA Q&A).  
+European Free Trade Association (EFTA) Court 
+The EFTA Surveillance Authority (EFTA -SA) brought suit against Iceland  before the EFTA 
+Court. (The EFTA -SA monitors and enforces compliance with European Economic Area 
+(EEA) rules by Iceland, Liechtenstein, and Norway, in much the same way that the European 
+Commission does for EU member states.) The EFTA -SA charged that Iceland failed to meet 
+its obligation under the EU Deposit Guarantee Schemes Directive, which also applied to EEA 
+members, to make restitution to the Icesave depositors in a timely fashion. The EFTA-SA also 
+argued that Iceland violated EEA non- discrimination rules by favoring domestic depositors 
+over foreign depositors. Note that the UK and the Netherlands were not a party to the suit 
+(MFA Q&A). 
+In response to these charges, Iceland contended that its only obligation under EEA rules was 
+to properly establish and operate a deposit insurance fund, but that the rules do not require 
+the Icelandic government to contribute additional money if the fund itself runs out of money. 
+Iceland also disputed that it discriminated against Icesave depositors in violation of EEA 
+rules (MFA Q&A). 
+The EFTA Court ruled in favor of Iceland on January 28, 2013, rejecting all claims by the 
+EFTA-SA that Iceland had violated EEA Rules. The EFTA Court ruling is final and cannot be 
+appealed (MFA Press Release 2013). 
+Update  
+In November 2013, the British and Dutch authorities filed suit against Iceland’s deposit 
+insurance fund, the DIGF, seeking €20,000 per covered depositor, plus interest and legal 
+costs. The total amount in question is equivalent to nearly 2/3 of Iceland’s GDP, and the DIGF 
+has indicated that its fund balance is less than 2% of what the United Kingdom and the 
+Netherlands are demanding (Milne 2014). 
+As of December 2014, each of the “Old” GKL banks continues with its winding -up 
+proceedings. See Figure 10 for the name and summary of the ownership status of the “new” 
+GKL banks. Each of the new banks has a credit rating of BB+ (one notch below investment 
+grade) with positive outlook from the Standard & Poor’s rating agency (S&P 2014). 
+The UK and Dutch governments have received payments to date amounting to about 50% of 
+their claims, with the expectation on the part of the government of Iceland that all priority 
+claims will eventually be paid in full (MFA Q&A).  
+40
+Journal of Financial Crises Vol. 1 Iss. 3
+
+--- Page 17 ---
+Figure 10: GKL Status, December 2014 
+ Glitnir Kaupthing Landsbanki 
+New Bank Name Islandsbanki Arion Banki Landsbankinn 
+New Ownership     
+Old Bank Creditors 95% 87% 1.3% 
+Old Bank Employees   0.8% 
+Iceland Government 5% 13% 97.9% 
+Source: Project Editor Notes. 
+ 
+References 
+Arion Bank. Accessed December 2014. Ownership . (Kaupthing Ownership) accessed at 
+ http://www.arionbanki.is/english/about-us/organization/ownership/ 
+Baldursson, Fridrik and Richard Portes. 2013. Gambling for Resurrection in Iceland: The Rise 
+ and Fall of the Banks. September. 1-2, 6-9, 17-21. 
+European Free Trade Association Court. 2013. Judgment of the Court in Case E-16/11. January 
+ 28. 1-36. (EFTA Court 2013) 
+Fitch Ratings. 2006. Fitch Revises Iceland’s Outlook to Negative on Widening Macro 
+ Imbalances. February 21. 1-2. (Fitch 2006) 
+Iceland Ministry for Foreign Affairs. 2013. Press Release: Iceland Welcomes Acquittal in 
+ Icesave Case . January 28. (MFA Press Release 2013) accessed at 
+ http://www.mfa.is/news-and-publications/nr/7515 
+_____________. 2014. Icesave: Glossary . (MFA Glossary) available at 
+ http://ypfs.som.yale.edu/sites/default/files/Iceland%20Ministry%20for%20Foreig
+ n%20Affairs%20Icesave%20Glossary%202014.pdf 
+_____________.  2014. Icesave: Questions and Answers . (MFA Q&A) availalble at 
+ http://ypfs.som.yale.edu/sites/default/files/Iceland%20Ministry%20for%20Foreig
+ n%20Affairs%20Icesave%20Q%26A%202014.pdf 
+International Monetary Fund. 2008. Iceland: Financial System Stabilit y Assessment – Update. 
+ December. 1, 5-8. (IMF 2008) 
+Islandsbanki. Accessed December 2014. Ownership . (Glitnir Ownership) available at 
+ http://ypfs.som.yale.edu/sites/default/files/%C3%8Dslandsbanki%20Ownership
+ %202014.pdf 
+41
+Ireland and Iceland in Crisis C Zeissler et al.
+
+--- Page 18 ---
+Landsbankinn. Accessed December 2 014. Ownership. (Landsbanki Ownership) accessed at 
+ http://corporate.landsbankinn.com/about-us/organisation/ownership/ 
+Milne, Richard. 2014. “Icesave Dispute Resurrected in Court,” Financial Times. February 10. 
+ accessed at https://www.ft.com/content/6e350fe6-927b-11e3-8018-00144feab7de 
+ Special Investigation Commission (Rannsoknarnefnd Alpingis -Icelandic Parliament) 
+ 2010. Report. April 12. Chapters 2, 17 and 18; Appendix 3. (SIC 2010) 
+Standard & Poor’s Ratings Services. 2014. Outlooks for Iceland’s Top 3 Banks Revised to 
+ Positive on Our More Favorable View of the Economy. October 14. 1-7. (S&P 2014) 
+Zeissler, Arwin, Karen Braun-Munzinger, and Andrew Metrick. 2014A. Ireland and Iceland in 
+ Crisis: Module A: Increasing Risk in Ireland , Yale Program on Financial Stability case 
+ study 2014-4A-V1, December 2014. 
+Development of this case has been supported by a generous grant from the Alfred P. Sloan 
+Foundation to the Yale Program on Financial Stability. 
+Copyright 2014, 2015, 2019 © Yale University. All rights reserved. To order copies of this 
+material or to receive permission to reprint any or all of this document, please contact the 
+Yale Program for Financial Stability at ypfs@yale.edu. 
+  
+42
+Journal of Financial Crises Vol. 1 Iss. 3
+
+--- Page 19 ---
+Appendix 1: Her Majesty’s Treasury List of Regimes under Financial Sanctions at 
+October 10, 2008 
+ 
+Source: (Baldursson & Portes 2013, 20). 
+ 
+ 
+43
+Ireland and Iceland in Crisis C Zeissler et al.

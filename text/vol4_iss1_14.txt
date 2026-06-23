@@ -1,0 +1,226 @@
+--- Page 1 ---
+Journal of Financial Crises Journal of Financial Crises 
+Volume 4 Issue 1 
+2022 
+Lessons Learned: James Finkel Lessons Learned: James Finkel 
+Steven H. Kasoff 
+Yale School of Management School of Management 
+Matthew A. Lieber 
+Follow this and additional works at: https://elischolar.library.yale.edu/journal-of-financial-crises 
+ Part of the Economic History Commons, Economic Policy Commons, Finance Commons, Finance and 
+Financial Management Commons, Growth and Development Commons, Policy Design, Analysis, and 
+Evaluation Commons, Public Administration Commons, and the Public Policy Commons 
+Recommended Citation Recommended Citation 
+Kasoff, Steven H. and Lieber, Matthew A. (2022) "Lessons Learned: James Finkel," Journal of Financial 
+Crises: Vol. 4 : Iss. 1, 415-419. 
+DOI: https://doi.org/10.17132/2693-3179.1270 
+Available at: https://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss1/14 
+This Lessons Learned is brought to you for free and open access by the Journal of Financial Crises and 
+EliScholar – A Digital Platform for Scholarly Publishing at Yale. For more information, please contact 
+journalfinancialcrises@yale.edu.
+
+--- Page 2 ---
+READERS TAKE NOTICE: READERS TAKE NOTICE: 
+As of April 2024, the YPFS Resource Library’s site domain has changed 
+to https://elischolar.library.yale.edu/ypfs-financial-crisis-resource-library/. 
+Please be aware that upon clicking any of the URL references to 
+the former Resource Library domains, either https://ypfs.som.yale.edu 
+or https://ypfsresourcelibrary.blob.core.windows.net/, in the 
+"References/Key Program Documents" section of a case study, 
+readers will encounter a "page not found" error. readers will encounter a "page not found" error. 
+Readers can still retrieve a given resource cited within this case study 
+on the new site  by searching by searching here  for the title cited. for the title cited. 
+This lessons learned is available in Journal of Financial Crises: https://elischolar.library.yale.edu/journal-of-financial-
+crises/vol4/iss1/14
+
+--- Page 3 ---
+Yale Program on Financial Stability 
+Lessons Learned 
+ 
+James Finkel 
+By Steven H. Kasoff and Matthew A. Lieber 
+A Wall Street veteran specializing in structured credit transactions, Jim Finkel was co -founder 
+and director of the structured credit asset management firm Dynamic Credit Partners (DCP) 
+from 2003 to 2009. Finkel started his career as a securities lawyer fo r the international law 
+firm Cadwalader, Wickersham & Taft LLP, before moving over to the banking side in 1992. He 
+specialized in mortgage -backed securities and collateralized loan obligations (CLOs) for 
+several firms, including Bear Stearns and Deutsche B ank, where he headed the London -based 
+CLO group. In 2003, Finkel returned to New York to launch and run DCP. In 2010, he joined 
+financial consulting firm Duff and Phelps, where he advises clients on dispute practices, expert 
+testimony, regulatory issues, a nd liquidations. This Lessons Learned summary is based on an 
+interview with Finkel. 
+Into the fray: Wall Street lawyer dives deep into structured credit deal-making. 
+Jim Finkel enjoys solving three -dimensional puzzles of  byzantine technical rules, complex 
+organizations, and the humans who run them. He started his career in 1986 as a lawyer for 
+a firm servicing Wall Street banks. The client banks were putting together early mortgage -
+backed security issuances. Finkel found the details and the action of investment deal-making 
+fascinating, so he moved over to the bank side for Myerberg & Company. He described the 
+various facets of the credit underwriting process: “These securitizations have a lot of moving 
+parts between the rating agencies, the trustees, the accountants, the lawyers, and then inside 
+the bank—the structurers, the traders, the salesforce.” 
+Finkel described his role as transaction manager in the investment bank—to coordinate with 
+different players the production and marketing of complex structured cr edit deals. At 
+Myerberg and then at Nomura, he managed a variety of projects, “providing financing to 
+mortgage originators, creating warehouse facilities for their own lending activities, acquiring 
+distressed portfolios of mortgages, and restructuring them  both on the residential and 
+commercial side, and placing the loan pools we financed through to private -label RMBS 
+[residential mortgage -backed securities] and agency CMOs [collateralized mortgage 
+obligations].” At Bear Stearns and Deutsche Bank, where he later worked, he was involved 
+in securitized products including perpetual bank debt, emerging market debt, and high-yield 
+bonds. Ready to “take a stab at the buy side,” he joined with a longtime associate to form 
+Dynamic Credit Partners, a collateralized debt obligation (CDO) management firm, in 2003. 
+Finkel described the nuts and bolts of the CDO management business from his firm’s 
+point of view. 
+The CDO manager is purely on the buy side, Finkel said, responsible for making the 
+investment decisions for the  portfolio of assets within a CDO. Dynamic Credit Partners, 
+during its four years of full operations, did a total of 10 CDOs; it also ran two credit funds and 
+grew to $5 billion in total assets under management. Revenues came from asset management 
+415
+
+--- Page 4 ---
+fees at 20 basis points. Annual revenues were typically around $10 million, peaking at 
+$13 million to $14 million, with about 30 employees and overhead of $8 million to $9 million. 
+DCP invested some of its profits in one of its two proprietary funds. 
+Most independent asset-backed securities (ABS) CDO managers had a similar cost structure 
+and profit margin. It was more profitable to keep growing. Had DCP doubled or tripled its 
+assets under management (AUM), said Finkel, “our marginal cost would have stayed about 
+the same.” While start -ups and smaller CDO managers struggled to break even, once they 
+achieved scale, they became extremely profitable.  
+According to Finkel, DCP differentiated itself from its competitors in its measured stance: 
+“We were considered to be slo wer, more analytical . . . [in contrast to] some of the other 
+managers described as ‘just backing up the truck’ [who bought whatever was coming 
+through the market] . . . We were in a sector which was caught up in a frenzy, but we were 
+trying to hold a line on quality.” 
+Pressures on CDO managers to grow AUM fast —regardless of quality —were strong, 
+which meant CDOs were marketed without scrutiny and loaded up with risk. 
+According to Finkel, there was pressure on the CDO managers from the dealers to buy 
+whatever the dealers would produce. “The dealers saw a CDO as a vehicle to sell paper,” 
+Finkel said. These Wall Street firms, he explained, were looking to unload warehouse risk on 
+assets acquired during ramp-up, and they made fees on each securitization. 
+One person in the market said to me, “Jim, why aren’t you doing $10 billion instead of 
+$5 billion, because when it all falls apart, everybody’s going to look the same, and you 
+might as well just swing for the fences now.” And we just wouldn’t do that. 
+One bank, Finkel recalled, was pressuring DCP to do a CDO with securities that did not match 
+its standards. “We almost canceled a CDO because we were being pressured to acquire 
+collateral . . . we put the deal on ice for a few months.” The bank was trying “to shoehorn [us] 
+into buying their production now.” Finkel doubted that other CDO investment managers 
+stood up to such pressure. 
+A second source of pressure, Finkel said, came from the finite quantity of underlying MBS 
+assets available. “In pure mortgage -backed securities offerings, a deal would be announced 
+on Wednesday afternoon, and if you didn’t have an order in by Friday morning, you wouldn’t 
+get an allocation.” DCP developed a model that could stress test the assets in a prospective 
+portfolio within 36 hours—to determine if the firm would ask for an allocation or not. Most 
+firms just said yes, buying the tranches without testing them. 
+In the context of the expansion of mortgage credit during the bubble years, the factor of 
+limited MBS offerings may seem surprising. But it speaks to the powerful global demand for 
+yield on dollar-denominated credit assets in 2005–07. 
+Not only were the investment banks servicing that demand for yield very profitably, Finkel 
+pointed out, they joined the rush and paid bonuses based on paper profits. 
+416
+Journal of Financial Crises Vol. 4 Iss. 1
+
+--- Page 5 ---
+Dealers made good fees arranging RMBS and CDOs, marking up the product on the 
+turn into a new securitization. But beyond that, the structurers and traders were able 
+to convince their banks that they would have “riskless arbitrage” by taking the “super 
+senior” tranche on balance sheet (and financing it at a much lower spread), and then 
+purchasing AAA -rated bond insurance on the position. There would still be a net 
+running “positive carry”—I knew a salesman who gave his boat that name!—on, say, 
+$900 million of a $1 billion deal. Some people were able to convince their banks that 
+the present value of that future positive carry could be included in the current year’s 
+bonus pool! 
+Unfortunately, the absence of risk management would soon force some of these same dealer 
+firms into panic selling. 
+Initially wary, European and Asian investors moved to get in the game, drawn by the 
+high yields, favorable ratings, and surging volumes of subprime CDOs. 
+In the years leading up to the subprime CDO boom, institutional investors in Europe and Asia 
+were reluctant to dive into the new market and hesitated to buy the novel CDOs backed by 
+US subprime mortgage-backed securities. 
+Finkel told how DCP in fact completed a number of CDO deals with European investment 
+bank groups as structurers. The European orientation built off of DCP’s personal 
+relationships as well as its relatively tempered approach to the growing exuberance of US 
+markets. In these CDOs, the dealer firm, such as Dresdner Bank and Calyon (of France’s 
+Crédit Agricole), bought the senior tranche onto its own balance sheet. 
+These European relationships, Finkel said, enabled DCP to market extensively its CDOs to 
+European and Asian investors. Earlier in the decade, foreign investors had viewed the US 
+mortgage-backed debt markets with some trepidation. But their demand for yield, together 
+with the favorable ratings, made subprime CDOs too attractive for them to pass up. 
+Also, Finkel noted, the confidence of European and Asian investors grew as they saw the 
+increasing volumes of securitization occurring. Furthermore, Finkel added, the CDO boom 
+suggested to them the prospect —if they gained experience and came to know the market 
+well—of a future fee business as a CDO asset manager. 
+“The growth was feeding on itself in different directions,” said Finkel. Asian investors, Finkel 
+continued, tended to be more skeptical and concerned with liquidity risk. But certain Asian 
+accounts that had to buy long -dated assets for pension and insurance funds were the ones 
+that stepped in. 
+Finkel noted one investor concern that would prove prescient, namely downgrade risk: 
+In retrospect, those investors were partially right. What everybody was missing was 
+the sensitivity of these asset -backed CDOs to ratings downgrades being deemed 
+defaults and the extreme downgrades that the rating agencies engaged from late ’07 
+into ’08, which made the deals unwind. 
+417
+Lessons Learned: James Finkel Kasoff and Lieber
+
+--- Page 6 ---
+DCP stayed away from synthetic CDOs and subprime shorts because they harbored 
+greater credit risk. 
+Regarding short selling of subprime RMBS and the short-driven CDOs, Finkel reiterated that 
+his main concern was credit quality, not ulterior motives or conflicts of interest. DCP avoided 
+buying tranches of other mezzanine CDOs, said Finkel, “not because [t hey] were concerned 
+about groups like [hedge funds] Paulson and Magnetar [Capital], but rather because [they] 
+were concerned about the fundamental nature of the RMBS tranches [within those CDOs].” 
+Finkel described on incident: 
+One dealer said, “We’ll do 50% of the equity tranche, as well, at the underwriter level.” 
+We couldn’t make any sense of those transactions and only much later realized they 
+were largely dumping grounds for short sellers. But really, for us, those deals were all 
+being done with riskier collateral, the BBB collateral, and we just weren’t comfortable 
+with putting BBB credits into a CDO. 
+To the extent DCP was aware of investors taking short positions, Finkel said, they thought 
+that those were market-spread plays. 
+The CDO juggernaut was based on a “flawed process,” which tainted many participants 
+in ways that still haven’t all been addressed. 
+Rewards from DCP’s more cautious approach as a CDO investor were largely, but not 
+entirely, lost to forced wind -downs in 2008. Two of its 10 CDOs still  exist, and its credit 
+opportunities funds survived a 30% loss. Most of its CDOs would have paid off, Finkel said, 
+“but [the CDOs] were forced into unwinds in the worst possible market, by the super senior 
+holders, by the investment banks themselves.” Scra mbling for cash and safety, the dealers’ 
+risk managers and senior executives were forced to make panic sales. 
+“It’s a flawed process,” Finkel reflected, “to create a credit product where the pace, velocity, 
+and the volume of it is so high that diligent cre dit investors don’t have a chance to do their 
+work.” Earlier regulatory interventions might have had a stabilizing effect, he thought, 
+recognizing, however, that in the midst of the boom, “it was just in nobody’s interest to slow 
+it down.” 
+It is widely rec ognized that the CDO juggernaut could not have taken off without the 
+participation of credit rating agencies such as Moody’s and Standard & Poor’s, which 
+provided the ratings that investors relied on. 
+In Finkel’s opinion, the rating agencies should have be en taken more to task. Their special 
+status created a perverse incentive for them to sign off on CDO tranches with AAA approvals. 
+US regulators, as Finkel explained, feared that punishing S&P and Moody’s would erode the 
+broader rating function and substant ially damage US fixed -income markets across all 
+sectors. 
+The major dealer firms altered their business models as they chased the CDO boom. They 
+were “riven”—split internally between a CDO unit making wild profits and risk managers 
+418
+Journal of Financial Crises Vol. 4 Iss. 1
+
+--- Page 7 ---
+and senior executives who failed to exert appropriate controls. These investment bank 
+dealers were “out of control,” Finkel said, profiting from the short business more than they 
+were manipulated by it. “The left hand didn’t know what the right hand was doing inside the 
+banks.” 
+The banks went from the storage business (where they used to hold loans on the 
+balance sheet) to being just in the moving business—they were just moving risk for a 
+fee. And they had insidious ways of profiting. They built what they believed were 
+arbitrage risk -free trades, and present valued them and paid themselves huge 
+bonuses. 
+According to Finkel, the shorts were not arbitraging the banks, rather  the banks were in ca-
+hoots with the shorts to a large extent. They were making money in many ways with the 
+short sellers, Finkel said. He thinks that r eforms have corrected much of the dysfunction at 
+the investment banks. But it is an episode that has passed, a pattern that may to some degree 
+persist, that people still don’t entirely understand. 
+_____________________________________ 
+Dated: April 2022 
+YPFS Lessons Learned No. 2020-47 
+ 
+419
+Lessons Learned: James Finkel Kasoff and Lieber

@@ -1,0 +1,580 @@
+--- Page 1 ---
+Journal of Financial Crises Journal of Financial Crises 
+Volume 1 Issue 4 
+2019 
+Basel III A: Regulatory History Basel III A: Regulatory History 
+Christian M. McNamara 
+Yale School of Management 
+Thomas Piontek 
+Research & Analysis, Office of Financial Research, U.S. Department of the Treasury 
+Andrew Metrick 
+Yale School of Management 
+Follow this and additional works at: https://elischolar.library.yale.edu/journal-of-financial-crises 
+ Part of the Banking and Finance Law Commons, Comparative and Foreign Law Commons, Economic 
+History Commons, Economic Policy Commons, International Economics Commons, International Law 
+Commons, International Relations Commons, Macroeconomics Commons, Policy History, Theory, and 
+Methods Commons, Political Economy Commons, Public Administration Commons, Public Affairs 
+Commons, Public Economics Commons, and the Public Policy Commons 
+Recommended Citation Recommended Citation 
+McNamara, Christian M.; Piontek, Thomas; and Metrick, Andrew (2019) "Basel III A: Regulatory History," 
+Journal of Financial Crises: Vol. 1 : Iss. 4, 45-58. 
+DOI: https://doi.org/10.17132/2693-3179.1038 
+Available at: https://elischolar.library.yale.edu/journal-of-financial-crises/vol1/iss4/3 
+This Case Study is brought to you for free and open access by the Journal of Financial Crises and 
+EliScholar – A Digital Platform for Scholarly Publishing at Yale. For more information, please contact 
+journalfinancialcrises@yale.edu.
+
+--- Page 2 ---
+READERS TAKE NOTICE: READERS TAKE NOTICE: 
+As of April 2024, the YPFS Resource Library’s site domain has changed 
+to https://elischolar.library.yale.edu/ypfs-financial-crisis-resource-library/. 
+Please be aware that upon clicking any of the URL references to 
+the former Resource Library domains, either https://ypfs.som.yale.edu 
+or https://ypfsresourcelibrary.blob.core.windows.net/, in the 
+"References/Key Program Documents" section of a case study, 
+readers will encounter a "page not found" error. readers will encounter a "page not found" error. 
+Readers can still retrieve a given resource cited within this case study 
+on the new site  by searching by searching here  for the title cited. for the title cited. 
+This case study is available in Journal of Financial Crises: https://elischolar.library.yale.edu/journal-of-financial-
+crises/vol1/iss4/3
+
+--- Page 3 ---
+Basel III A:  
+Regulatory History1  
+ 
+Christian M. McNamara2 
+Thomas Piontek3 
+Andrew Metrick4 
+ 
+ 
+Yale Program on Financial Stability Case Study 2014-4a-v1 
+October 1, 2014, Revised: October 6, 2019 
+Abstract 
+From the earliest efforts to mandate the amount of capital banks must maintain, regulators 
+have grappled with how best to accomplish this task. Until the 1980s, regulation had been 
+based largely on discretion and judgment. In the wake of two bank failures, the central bank 
+governors o f the G10 countries established the Basel Committee on Banking Supervision 
+(BCBS) and in 1988, the BCBS introduced a capital measurement system, Basel I. The system 
+represented a triumph of the fixed numerical approach, however, critics worried that it was 
+too blunt an instrument. In 1999, the BCBS issued Basel II, a proposal to add supervisory 
+review and disclosure components to the minimum capital requirement methodology of 
+Basel I. Basel II represented a synthesis of the dueling approaches to capital reg ulation, 
+however some argued that the new standards led to an explosion in the complexity of 
+financial regulation. This case explores the history of the efforts to regulate bank capital that 
+led to Basel II and set the stage for Basel III. 
+ 
+  
+__________________________________________________________________ 
+1  This module is one of seven produced by the Yale Program on Financial Stability (YPFS) examining issues 
+related to Basel III. The other modules in this series are: 
+• Basel III B: Basel III Overview  
+• Basel III C: Internal Risk Models  
+• Basel III D: The Swiss Finish to Basel III  
+• Basel III E: Synthetic Financing by Prime Brokers 
+• Basel III F: Callable Commercial Paper  
+• Basel III G: Shadow Banking and Project Finance 
+Cases are available from the Journal of Financial Crises. 
+2  Director, New Bagehot Project and Senior Editor, Yale Program on Financial Stability (YPFS), Yale School of 
+Management. 
+3  Economist, Office of Financial Research. Views and opinions expressed are those of the author and do 
+not necessarily represent OFR or Treasury positions or policy.  
+4  Janet L. Yellen Professor of Finance and Management, and YPFS Program Director, Yale School of  
+Management. 
+45
+
+--- Page 4 ---
+1.  Introduction  
+From the earliest efforts to regulate the amount of capital banks must maintain, regulators 
+have grappled with how best to accomplish this task —by giving banks and supervisors 
+discretion to determine adequate capital based on the unique circumstances faced by each 
+individual bank, or by establishing specific minimum capital requirements applicable to all 
+banks.  
+In the United States, the National Banking Act of 1864 created for the first time a system of 
+national banks in hopes of replacing the system of state banks with state-issued charters that 
+then existed. In so doing, the Act established fixed minimum capital requirements applicable 
+to all federally chartered banks, a departure from the diversity of approaches characterizing 
+a banking system in which each state defined the capital requirements applicable to a bank 
+(if any) in the bank’s charter. Notwithstanding this early example of imposing minimum 
+capital requirements, until relatively recently regulation has been based on discretion and 
+judgment. This is perhaps owing to a combination of regulatory competition (in which 
+jurisdictions establishing minimum capital standards saw banks go to jurisdictions with no 
+minimums for charters), the existence of relatively high capital ratios during the early years 
+of bank capital regulation and fear that specific minimum capital levels fail to take into 
+account the actual situations of different banks.    
+In 1974, two events occurred that would take bank regulation in a different direction.  First, 
+Bankhaus Herstatt, a small German bank with a central role in processing foreign exchange 
+transactions, collapsed under the weight of large foreign exchange losses, leaving 
+counterparties that had unsettled transactions with the bank with heavy losses as well.  
+Second, the Franklin National Bank of New York went under amid allegations of 
+mismanagement and fraud in what was the largest bank failure in United States history at 
+that time. In the wake of these incidents, in early 1975 the central bank governors of the 
+Group of Ten (G10) countries established the Basel Committee on Banking Supervision 
+(BCBS) to provide a forum for cooperation on banking supervisory matters.  By the early 
+1980s, the BCBS was devoting much of its attention to the deteriorating capital ratios of  the 
+main international banks.  In 1988, the BCBS introduced a capital measurement system 
+intended to combat this deterioration, with a minimum capital-to-risk-weighted-assets ratio 
+of eight percent. This system, set forth in a document known as the “1988 Accord” or “Basel 
+I,” had been adopted by each of the G10 countries by 1993 in a triumph of the fixed numerical 
+approach to regulation. 
+Despite the success of Basel I in significantly improving bank capital ratios, the eight percent 
+approach had limitations  that became more pronounced as the banking industry grew 
+increasingly complex throughout the 1990s.  Echoing the concerns about a numerical 
+approach that have existed since the beginning of bank regulation, critics worried that Basel 
+I was becoming too blunt an instrument to adequately address the risks banks were facing.  
+These worries became particularly acute with the Asian financial crisis of 1997, the Russian 
+financial crisis of 1998 , and the collapse of Long -Term Capital Management.  As a result , in 
+1999, the BCBS issued a proposal for a new capital adequacy framework to replace Basel I.  
+Released in 2006 and generally referred to as “The New Capital Framework” or “Basel II,” 
+this new framework consisted of three pillars : minimum capital requirements, supervisory 
+review, and effective use of disclosure.  By adding supervisory review and disclosure 
+components to the minimum capital requirement methodology of Basel I, Basel II 
+represented a synthesis of the dueling approaches to capital regulation that hav e existed 
+from the outset. 
+46
+Journal of Financial Crises Vol. 1 Iss. 4
+
+--- Page 5 ---
+Yet some would argue that the cost of this continued evolution of the Basel framework has 
+been an explosion in the complexity of financial regulation.  Basel I was 30 pages.  Basel II is 
+almost 350 pages.  With this growing complexi ty have come questions about whether 
+financial regulation has become too complex to function effectively.  
+The remainder of the case is organized as follows : Section 2 provides an overview of the 
+history of bank capital regulation before Basel. Section 3 discusses the development of Basel 
+I in response to bank failures that occurred in the mid -1970s. Section 4 discusses the 
+continuing evolution of the Basel framework with the introduction of Basel II. Section 5 then 
+provides a brief introduction to Basel II I, which is discussed in greater detail in another 
+module. 
+Questions 
+1. What lessons can be learned from different approaches to bank capital regulation that 
+have been utilized at different times throughout history? 
+2. What is the appropriate role for human judg ment in bank capital regulation , and is 
+the Basel framework evolving to strike the correct balance between regulatory 
+discretion and minimum capital standards? 
+3. Does growing complexity present challenges to the effective functioning of financial 
+regulation? 
+2. Regulation before Basel 
+The early history of bank capital regulation was marked by the absence of anything 
+approaching a global framework, and as a result, to the extent that bank capital was even 
+being regulated, different approaches existed in different jurisdictions. In Britain, a key 
+feature of early banking laws involved a cap on the number of partners who could provide 
+equity for a bank.  This ensured that the British banking system at the time consisted of 
+numerous small banks. A financial crisis in 1825-26, stemming from soured investments in 
+Central and South American bonds, caused more than 10% of the banks in England and 
+Wales to fail, a fact that the British government blamed on banks being too small to weather 
+the storm.  Thus in 1826, P arliament authorized “joint stock” lenders to have as many 
+partners as desired.  Not surprisingly, a period of considerable consolidation ensued  (The 
+Economist 2014).  
+Despite this development, a second financial crisis in Britain almost exactly three decades 
+later occurred largely as a result of inadequate bank capital.  Discount houses, a new type of 
+lender that emerged in the midst of consolidation in the British banking sector, attempted to 
+compete in part by reducing the size of non -interest-paying capital buffers to almost zero.  
+When declines in the price of U.S. railroad stocks in 1857 triggered a global downturn, British 
+discount houses began failing in large numbers (The Economist 2014).  
+In the United States, the First Bank of the United States (1791-1811) and the Second Bank of 
+the United States (1816-36) were disbanded due to political opposition rooted in suspicion 
+of a powerful federal institution seen as lacking constitutional legitimacy. Therefore, by the 
+mid-1800s, the chartering and regulation of banks was left to the individual states, resulting 
+in great variation across jurisdictions ( Barth et. al. 2009 ). With banks in many states only 
+minimally regulated and given the absence of standards for capital requirements across 
+47
+Basel III A McNamara et al.
+
+--- Page 6 ---
+jurisdictions, t his “Free Banking Era” from the 1830s to the 1860s was characterized by 
+widespread bank failures and an epidemic of counterfeiting.   
+Figure 1: The Rise of the Megabanks 
+ 
+Source: The Economist 2014. 
+Figure 2: Capital Level Requirements in the U.S.—1864 
+Population of Location Minimum Capital 
+< 6,000 $50,000 
+6,000- 49,999 $100,000 
+>50,000 $200,000 
+Source: Champ 2007. 
+Much as the First Bank of the United States had been the product of financial demands on the 
+new United States government stemming from the Revolutionary War, and the Second Bank 
+of the United States had been a product of similar demands stemming from the War of 1812, 
+the outbreak of the American Civil War in 1861 ultimately resulted in renewed calls for 
+federal in volvement in banking in the United States.  The National Banking Act of 1864 
+created the Office of the Comptroller of the Currency (OCC) and established a new system of 
+federal chartering and supervision.  This new system was accompanied by a tax on bank 
+notes issued by state -chartered banks, a move seen as an attempt to push state banks to 
+become federally chartered and as a way of addressing the practice of some state banks 
+fraudulently flooding the marketplace with bank notes not backed by adequate collate ral in 
+a process known as “wildcatting.”  
+48
+Journal of Financial Crises Vol. 1 Iss. 4
+
+--- Page 7 ---
+Significantly, the Act provided that any “national banking association” established under the 
+Act would be subject to minimum capital requirements based on the population of the 
+location in which the bank operated. (See Figure 2.) 
+The Act also required banks  to provide quarterly reports to the newly established OCC.  By 
+comparison, the U.K. did not introduce regulatory reporting until 1974 (Haldane 2012). 
+While the Act represented a prominent early attempt at establi shing specific, numerical 
+capital minimums, this approach was the exception. Most state banks in existence at the time 
+were subject to regulations that did not include such rules; as only about a half -dozen state 
+banking codes mandated capital requirements . Indeed, some have pointed to the existence 
+of such requirements at the federal but not the state level as driving a resurgence of state 
+banks in the late 1800s despite the Act’s attempt to push banks toward federal chartering.  
+Perhaps as a result in 1900, the Gold Standard Act reduced the amount of capital necessary 
+for federally chartered banks (Grossman 2010). 
+Figure 3: Equity as a Percent of Assets for All Insured Commercial Banks, 1840–1989* 
+ 
+* Ratio of aggregate dollar value of bank book equity to aggregate dollar value of bank book 
+assets. For 1840 -96, data are for commercial and savings banks. Since 1971 , data are for 
+commercial banks. 
+Source: US Treasury Department 1991 in Tarullo 2008. 
+ 
+The ascendancy of the discretion -based approach to bank capital regulation during this 
+period may also be explained in part by the tendency for banks to have high capital ratios. 
+As indicated in Figure 3, as late as the 1930s bank capital ratios in the United States were 
+nearly twice as high as they are today. Prior to the turn of the 20th century, such ratios were 
+even higher, as much as seven times higher than ratios for modern banks.  Historical data 
+from the U.K. and Australia demonstrate a similar trend ( Davis 2010). With capital ratios 
+49
+Basel III A McNamara et al.
+
+--- Page 8 ---
+significantly higher than they are today even in the absence of min imum capital 
+requirements, there may have been no perceived need for such minimums despite the 
+occurrence of bank failures throughout this period.  
+Yet, these extraordinarily high ratios (by modern standards) were falling steadily 
+throughout the early 20 th century. Despite these declines, no immediate consensus around 
+minimum capital requirements emerged.  Nonetheless the period surrounding the Great 
+Depression and World War II did witness the introduction of new approaches to regulating 
+banks. In 1914, the OCC adopted a minimum capital -to-deposit ratio of 10%.  By the 1930s, 
+the newly created Federal Deposit Insurance Corporation (FDIC) had established minimum 
+capital-to-asset ratios.  But minimum capital requirements were not uniformly embraced, 
+certainly not at the level of a global standard. 
+As late as 1972, an OCC official dismissed “capital-to-risk-assets and capital-to-total-deposit 
+ratios” because “such arbitrary formulas do not always take into account important factors” 
+(Burhouse et. al. 2003 ). These remarks echo criticism that has been consistently leveled 
+against minimum capital requirements since their introduction —that they are too blunt an 
+instrument for gauging or guaranteeing the financial health of individual banking 
+institutions. Only two yea rs later, however, events would transpire that would ultimately 
+result in a widespread shift toward capital adequacy standards based on minimum capital 
+requirements. 
+3. Basel I 
+Perhaps the most significant shift in the history of bank capital regulation oc curred as a 
+result of two significant bank failures.  
+On June 26, 1974, German banking regulators revoked the license of a Cologne -based 
+Bankhaus Herstatt after large foreign exchange losses left it insolvent.  While Bankhaus 
+Herstatt was one of West German y’s largest private banks with 31 branches and 
+approximately $800 million in assets, the bank was relatively small from a global standpoint, 
+and its demise likely would not have attracted much attention beyond Germany but for the 
+prominent role the bank played in the foreign exchange market. Much as it did every day, on 
+the morning of the 26th, Bankhaus Herstatt received millions of dollars of foreign currencies 
+for which it was to have paid U.S. dollars in New York later that day.  Yet when Bankhaus 
+Herstatt was shut down at 4:00  p.m. local time in Germany it was only 10:00  a.m. in New 
+York, and the U.S. dollar payments had not yet been made.  The collapse of the bank left its 
+counterparties unable to collect the money they were owed on these foreign exchange 
+transactions, with total losses to counterparties estimated at about $600 million.  The 
+incident became so infamous that “Herstatt risk” is a term still used to describe the cross -
+currency settlement risk resulting from trading across time zones.  Bankhaus Herstatt also 
+highlighted the fact that even as regulation remained situated at national levels, financial 
+markets increasingly were becoming global.  
+The article in The New York Times reporting on Bankhaus Herstatt’s collapse includes a brief 
+postscript that would prove prescient ( Farnsworth 1974 ). After describing Bankhaus 
+Herstatt’s foreign exchange losses, the article noted that “[i]n a somewhat similar situation, 
+the Franklin National Bank in New York had foreign exchange losses of $45.8 millio n in the 
+first five months of 1974.”  Less than four months later on October 8, 1974, regulators 
+declared Franklin National Bank insolvent.  With approximately $4.5 billion in assets, the 
+bank was the 20th largest in the United States and the largest failed bank in American history 
+at that time. As alluded to by The New York Times, Franklin National Bank was also a victim 
+50
+Journal of Financial Crises Vol. 1 Iss. 4
+
+--- Page 9 ---
+of foreign exchange losses, exacerbated by what regulators characterized as 
+mismanagement of the firm and possible fraud. 
+In the wake of th ese incidents, the central bank governors of the Group of Ten (G10) 
+countries established a Committee on Banking Regulations and Supervisory Practices, later 
+renamed the Basel Committee on Banking Supervision (BCBS), housed within the Bank for 
+International Settlements (BIS).  Founded in 1930, the BIS describes itself as “the world's 
+oldest international financial organization” and serves as the bank to the world’s central 
+banks. In its role of helping central banks pursue monetary and financial stability, t he BIS 
+supported the BCBS to provide a forum for cooperation on banking supervisory matters.  
+Meeting for the first time in February 1975, the BCBS began work on what would become its 
+first policy document, Report on the supervision of banks' foreign estab lishments, or simply 
+the “Concordat.” The purpose of the report was to “set out certain guidelines for co-operation 
+between national authorities in the supervision of banks' foreign establishments, and to 
+suggest ways of improving its efficacy” (Committee on Banking Regulations and Supervisory 
+Practices 1975, 1 ). In it, the BCBS agreed that “the basic aim of international regulation in 
+this field should be to ensure that no foreign banking establishment escapes supervision” 
+and that “this supervis ion is adequate, judged by the standards of both host [country in 
+which the bank is operating] and parent [country in which the bank is based] authorities” 
+(Ibid., 1-2). As part of this effort, the Concordat offered guidelines for the implementation of 
+“solvency controls” with some sharing of responsibility for supervision between host and 
+parent authorities. The use of terms such as “guidelines” and “to suggest” is significant here, 
+because notably the BCBS did not issue binding regulation. Rather, its pronouncements were 
+meant to promote the development of standards to be adopted by participating 
+governments. 
+Figure 4: Bank Capital Levels at FDIC-Insured Banks, 1960-2001 
+ 
+Source: FDIC. 
+51
+Basel III A McNamara et al.
+
+--- Page 10 ---
+While the BCBS’s early focus was on ensuring that banks operating foreign establishments 
+would not escape supervision and that such supervision was adequate and consistent, by the 
+early 1980s capital adequacy had become the BCBS’s main concern.  In the context of the 
+economic malaise characterizing much of the 1 970s, bank capital ratios declined 
+significantly during the decade.  As Figure 4 illustrates with respect to banks in the United 
+States, equity capital as a percentage of total assets fell from approximately 8% in 1960 to 
+below 6% by 1975. 
+Regulators saw bank capital levels as problematic for two related reasons. First, inadequate 
+capital could jeopardize the global financial system.  Second, low capital requirements in 
+some jurisdictions could create an uneven playing field for banks.  Indeed, Federal Reser ve 
+Governor Daniel Tarullo has described the work of the BCBS during this period as being 
+“motivated by two interacting concerns—the risk posed to the stability of the global financial 
+system by low capital levels of internationally active banks and the co mpetitive advantages 
+accruing to banks subject to lower capital requirements” (Tarullo 2008). 
+In December 1987, the BCBS issued a consultative paper and recommendations reflecting 
+several years of work aimed at “achiev[ing] a strengthening in the capital r esources of 
+international banks in order to help strengthen the stability of the international banking 
+system” (Bank for International Settlements 1987, 1). Based on feedback to this paper in July 
+1988, the BCBS adopted a framework, which came to be known as “the 1988 Accord” or 
+“Basel I” that established for the first time a specific minimum level of capital to be 
+maintained by the “internationally active” banks of the G10 nations. In addition to helping to 
+safeguard the stability of the global financial s ystem, this minimum level of capital was 
+intended to ensure a level playing field by requiring banks from different countries 
+competing for the same assets to set aside the same amount of capital for those assets. 
+Under Basel I, international banks in G10 nations were required to maintain a minimum level 
+of capital based on the amount of their assets as adjusted for the credit risk associated with 
+those assets (an adjustment process known as “risk weighting”).  (As discussed below, 
+market risk wouldn’t becom e part of the Basel framework until 1996 and operational risk 
+not until 2006). Specifically, upon full implementation at the end of 1992, banks had to meet 
+a minimum capital to risk weighted assets ratio of at least 8% (of which core capital 
+consisting of equity capital and disclosed reserves must be at least 4%, with the balance 
+provided by supplementary capital such as hybrid debt capital instruments and 
+subordinated term debt). The BCBS explained the use of a risk-weighted approach to capital 
+adequacy by  citing the following advantages of such an approach over a non -risk-based 
+approach: 
+• It provides a fairer basis for making international comparisons between banking 
+systems whose structures may differ; 
+• It allows off -balance-sheet exposures to be incorporat ed more easily into the 
+measure; 
+• It does not deter banks from holding liquid or other assets which carry low risk (Bank 
+for International Settlements 1988, 8). 
+To implement the risk-based approach, the BCBS developed a weighting system comprised 
+of five we ights—0, 10, 20, 50 , and 100%.  The amount of an asset included in the risk -
+weighted asset total would be equal to the asset’s value multiplied by the risk weight 
+applicable to that type of asset.  The weights spanned from 0% for assets seen as low risk 
+such as cash and certain types of government debt to 100% for corporate debt, real estate 
+and certain other assets perceived as being riskier in nature. Thus, the riskier a bank’s assets, 
+52
+Journal of Financial Crises Vol. 1 Iss. 4
+
+--- Page 11 ---
+the more capital it would be required to maintain under Basel I. (For a complete discussion 
+of the requirements of Basel I, see Bank for International Settlements 1988.) 
+4. Basel II 
+The approach taken in Basel I was not without criticism.  Some saw the five -category risk 
+weighting system as too simplistic, based on arbitrary classifications rather than the actual 
+risk associated with the specific assets held by a given bank.  Furthermore, Basel I 
+concentrated primarily on credit risk as opposed to other types of risk a bank might face.  
+Thus, even as it was introducing Basel I, the BCBS recognized that further development of 
+the framework would be necessary in order to effectively address the full spectrum of risks 
+facing banks.  
+As the BCBS noted in the document outlining Basel I, “[Basel I] is mainly direct ed towards 
+assessing capital in relation to credit risk (the risk of counterparty failure) but other risks, 
+notably interest-rate risk and the investment risk on securities, need to be taken into account 
+by supervisors in assessing overall capital adequacy ” (Bank for International Settlements 
+1988, 2 ). Thus, by design, Basel I continued to evolve over time through a series of 
+amendments adopted by the BCBS in subsequent years.  Perhaps most significantly, in 1996 
+the BCBS issued the Market Risk Amendment to the Capital Accord  to require banks to 
+“measure and apply capital charges in respect of their market risks in addition to their credit 
+risks” (Bank for International Settlements 1996 rev. 2005, 1). The BCBS defined such market 
+risks to include interest rate, equity position, foreign exchange, and commodities risk.  
+Notably, in measuring their market risks, banks could (subject to certain conditions) choose 
+between two alternative methodologies.  The first was a standardized approach using 
+specific risk capital charges applied by the BCBS to different categories of assets much like 
+the treatment of credit risks under the Basel I framework.  The second was a new approach 
+using the banks’ own internal risk management models to determine risk charges.  In 
+describing the reasoning behind this latter innovation, the BCBS noted that it “is conscious 
+of the need to ensure that regulatory requirements do not impede the development of sound 
+risk management by creating perverse incentives” (Bank for International Settlements 1995, 
+1-2). And indeed, the Basel framework has widely been seen as incentivizing banks to use 
+internal risk models by making the capital requirements attainable using the internal risk 
+model approach lower than the capital charges associated with stand ardized approaches. 
+There has also emerged the practice of capital arbitrage, pursuant to which banks use 
+securitization and other techniques to reclassify high quality loans into lower regulatory risk 
+categories. 
+In the summer of 1997, Thailand’s unpegging of its currency to the U.S. dollar resulted in the 
+devaluing of currencies across Asia.  The ensuing financial crisis had global repercussions, 
+sending the Dow Jones Industrial Average, for instance, down 7.2% in one trading session on 
+October 27, 1997.  Against this backdrop of turmoil, the BCBS identified a need for a more 
+dramatic overhaul of the regulatory framework established by Basel I.  Writing in 1999, the 
+BCBS noted: 
+The world financial system has witnessed considerable economic turbulence over the 
+last two years and, while these conditions have generally not been focused on G -10 
+countries directly, the risks that internationally active banks from G -10 countries 
+have had to deal with have become more complex and challenging. This review of 
+[Basel I]  is designed to improve the way regulatory capital requirements reflect 
+underlying risks. It is also designed to better address the financial innovation that has 
+53
+Basel III A McNamara et al.
+
+--- Page 12 ---
+occurred in recent years, as shown, for example, by asset securitisation structures. As 
+a result of this innovation, [Basel I] has been less effective in ensuring that capital 
+requirements match a bank’s true risk profile. The review is also aimed at recognising 
+the improvements in risk measurement and control that have occurred ( Bank for 
+International Settlements 1999, 4). 
+The BCBS adopted the new framework that emerged from this review in June 2006.  Known 
+as “The New Capital Framework” or “Basel II,” the revised framework updated the minimum 
+capital requirements of Basel I with the addition of operational risk alongside credit risk and 
+market risk and introduced two new elements:  supervisory review and market discipline.  
+Together with minimum capital requirements, these two new elements formed the “three 
+pillars” of Basel II. 
+As desc ribed by the BCBS, the purpose of supervisory review is “not only to ensure that 
+banks have adequate capital to support all the risks in their business, but also to encourage 
+banks to develop and use better risk management techniques in monitoring and mana ging 
+their risks” (Bank for International Settlement 2006, 204 ). Specifically, the BCBS conceived 
+of the supervisory review process as addressing three types of risk: “risks considered under 
+Pillar 1 that are not fully captured by the Pillar 1 process (e.g . credit concentration risk); 
+those factors not taken into account by the Pillar 1 process (e.g. interest rate risk in the 
+banking book, business and strategic risk); and factors external to the bank (e.g. business 
+cycle effects)” (Ibid.).  
+To do this, the supervisory review process set four principles: 
+Principle 1 : Banks should have a process for assessing their overall capital adequacy in 
+relation to their risk profile and a strategy for maintaining their capital levels. 
+Principle 2 : Supervisors should re view and evaluate banks’ internal capital adequacy 
+assessments and strategies, as well as their ability to monitor and ensure their compliance 
+with regulatory capital ratios. Supervisors should take appropriate supervisory action if they 
+are not satisfied with the result of this process. 
+Principle 3 : Supervisors should expect banks to operate above the minimum regulatory 
+capital ratios and should have the ability to require banks to hold capital in excess of the 
+minimum. 
+Principle 4: Supervisors should seek  to intervene at an early stage to prevent capital from 
+falling below the minimum levels required to support the risk characteristics of a particular 
+bank and should require rapid remedial action if capital is not maintained or restored (Bank 
+for International Settlements 2006, 205-212). 
+The BCBS described the purpose of Pillar 3 as being “to encourage market discipline by 
+developing a set of disclosure requirements which will allow market participants to assess 
+key pieces of information on the scope of application, capital, risk exposures, risk assessment 
+processes, and hence the capital adequacy of the institution” ( Ibid., 226 ). The general 
+principle underlying Pillar 3 is that “[b]anks should have a formal disclosure policy approved 
+by the board of directors that addresses the bank’s approach for determining what 
+disclosures it will make and the internal controls over the disclosure process. In addition, 
+banks should implement a process for assessing the appropriateness of their disclosures, 
+including validation and frequency of them” ( Ibid., 228 -229). Pillar 3 implements this 
+principle by outlining specific disclosure requirements related to the corporate structure of 
+the bank, its capital structure, its capital adequacy determinations, and its risk profile.  
+54
+Journal of Financial Crises Vol. 1 Iss. 4
+
+--- Page 13 ---
+Figure 5: The Three Pillars of Basel II 
+ 
+Source: Asymptotix. 
+If Basel I marked the triumph of the specified minimum capital approach to bank capital 
+regulation after a long period of approaches characterized by bank and supervisory 
+discretion, the addition of the supervisory review and market discipline pillars of Basel II to 
+Basel I’s minimum capital requirements represented a synthesis of these two types of 
+approaches. Pillar 1 establishes a minimum level of capital req uired of all covered banks, 
+while Pillars 2 and 3 provide banks and supervisors the discretion to establish 
+complementary review and disclosure processes appropriate for the specific banks in 
+question. (For a complete discussion of Basel II, see Bank for I nternational Settlements , 
+2006.) 
+But the evolution of the Basel framework as represented by Basel II and later by Basel III 
+(discussed below) has also brought what some see as an explosion of complexity.  Using the 
+length of documentation as a basic indicat or of this complexity, Andrew Haldane has noted 
+that Basel I weighs in at 30 pages and Basel II at 347 pages  (Haldane 2012). A significant 
+portion of this added length stems from a shift away from the simple risk weight categories 
+of Basel I toward the inc reased granularity of the internal risk model approach first 
+introduced with the Market Risk Amendment and later expanded by Basel II.    
+Growing complexity can also be seen in the size of regulatory agency staffs, which have 
+increased dramatically both in their own right and relative to both the number of individuals 
+employed in the financial sector and the number of financial institutions regulated.  As the 
+below charts indicate, in both the U.S. and U.K. there has been substantial growth in 
+regulatory agency staffs during the evolution of the Basel framework.  The U.K. in particular 
+55
+Basel III A McNamara et al.
+
+--- Page 14 ---
+went from just 30 employees devoted to bank supervision as late as the late-1970s to several 
+thousand today. 
+With this complexity have come fears about the ability of financial regulators to provide 
+effective oversight.  The use of banks’ own internal risk models in determining capital 
+requirements and the variability and potential for manipulation that can result from the 
+complexity of these models has been a  particular area of c oncern. (For a more detailed 
+discussion of the use of internal risk models and the potential for manipulation, see YPFS 
+Case Study on Internal Risk Models , McNamara, et al , 2014C and the “Swiss Finish ,” 
+McNamara, et al, 2014D.) 
+Figure 6: Regulators Employed in the U.S. and U.K. 
+ 
+Source: Haldane 2012. 
+5. Basel III 
+As Basel II was a reaction to the Asian financial crisis of 1997, the global financial crisis of 
+2007-08 set the stage for the next major overhaul of the Basel framework. The BCBS, having 
+diagnosed the 2007 -08 crisis as having stemmed from three main factors (capital of 
+inadequate quantity and quality, insufficient liquidity , and the financial system’s 
+interconnectedness) introduced Basel III in 2010 to address t hese issues.  (For a more 
+detailed discussion of Basel III, see YPFS Case Study McNamara, et al, 2014B.) 
+56
+Journal of Financial Crises Vol. 1 Iss. 4
+
+--- Page 15 ---
+References 
+Bank for International Settlements. 1987. Proposals for International Convergence of capital 
+measurement and standards—consultative document. December. (Bank for International 
+Settlements 1987) 
+___________. 1988. International convergence of capital measurement and capital standards. 
+July. (Bank for International Settlements 1988) 
+___________. 1995. An internal model-based approach to market risk capital requirements. 
+(Bank for International Settlements 1995)  
+___________. 1996 rev. 2005. Amendment to the capital accord to incorporate market risks. 
+November. (Bank for International Settlements 1996 rev. 2005) 
+___________. 1999. A New Capital Adequacy Framework. June. (Bank for International 
+Settlements 1999) 
+___________. 2006. Basel II: International Convergence of Capital Measurement and Capital 
+Standards: A Revised Framework—Comprehensive Version. June. (Bank for International 
+Settlements 2006) 
+Barth, James et. al. 2009. “Bank Regulation in the United States.” CESifo Economic Studies. 
+November. (Barth et. al. 2009) 
+Burhouse, Susan et. al. 2003. Basel and the Evolution of Capital Regulation: Moving Forward, 
+Looking Back. January. (Burhouse 2003) 
+Champ, Bruce. 2007. “The National Banking System: A Brief History.” Federal Reserve Bank 
+of Cleveland Working Paper. December. (Champ 2007) 
+Committee on Banking Regulations and Supervisory Practices. 1975. Report to the 
+Governors on the supervision of banks’ foreign establishments. (Committee on Banking 
+Regulations and Supervisory Practices 1975) 
+Davis, Kevin. 2010. “Bank Capital Adequacy: Where to Now?” Australian Centre for 
+Financial Studies. May. (Davis 2010) 
+Economist. 2014. “The Slumps That Shaped Modern Finance.” (Economist 2014)  
+Farnsworth, Clyde H. 1974. “Failure of Herstatt Disturbs Banking,” The New York Times, 
+June 29, pgs. 35, 39. (Farnsworth 1974) 
+Grossman, Richard. 2010. “US Banking History, Civil War to World War II.” EH.net. 
+(Grossman 2010) 
+Haldane, Andrew. The Dog and the Frisbee. August. (Haldane 2012) 
+Kaufman, George. 1992. “Capital in Banking: Past, Present and Future.” Journal of Financial 
+Services Research. 5:385-402. (Kaufman 1992) 
+57
+Basel III A McNamara et al.
+
+--- Page 16 ---
+McNamara, Christian M., Michael Wedow, and Andrew Metrick. 2014B. Basel III B: 
+Overview, Yale Program on Financial Stability Case Study 2014-1B-V1, January 2020. 
+(McNamara, et al. 2014B) 
+McNamara, Christian M., Karen Braun-Munzinger, and Andrew Metrick. 2014C. Basel III C: 
+Internal Risk Models, Yale Program on Financial Stability Case Study 2014-1C-V1, October. 
+(McNamara, et al. 2014C) 
+McNamara, Christian M., Natalia Tente, and Andrew Metrick. 2014D. Basel III D: Swiss 
+Finish, Yale Program on Financial Stability Case Study 2014-1D-V1, October. (McNamara, et 
+al. 2014D) 
+Tarullo, Daniel. 2008. Banking on Basel: The Future of International Financial Regulation. 
+(Tarullo 2008) 
+ 
+Development of this case has been supported by a generous grant from the Alfred P. Sloan 
+Foundation to the Yale Program on Financial Stability. 
+Copyright 2014, 2015, 20 20 © Yale University. All rights reserved. To order copies of this 
+material or to receive permission to reprint any or all of this document, please contact the 
+Yale Program for Financial Stability at ypfs@yale.edu. 
+ 
+ 
+ 
+58
+Journal of Financial Crises Vol. 1 Iss. 4

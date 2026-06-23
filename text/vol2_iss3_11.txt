@@ -1,0 +1,1087 @@
+--- Page 1 ---
+Journal of Financial Crises Journal of Financial Crises 
+Volume 2 Issue 3 
+2020 
+The Term Asset-Backed Securities Loan Facility (TALF) (U.S. GFC) The Term Asset-Backed Securities Loan Facility (TALF) (U.S. GFC) 
+June Rhee 
+Yale School of Management 
+Follow this and additional works at: https://elischolar.library.yale.edu/journal-of-financial-crises 
+ Part of the Economic History Commons, Economic Policy Commons, Finance Commons, 
+Macroeconomics Commons, Policy History, Theory, and Methods Commons, Political Economy 
+Commons, Public Administration Commons, and the Public Affairs Commons 
+Recommended Citation Recommended Citation 
+Rhee, June (2020) "The Term Asset-Backed Securities Loan Facility (TALF) (U.S. GFC)," Journal of 
+Financial Crises: Vol. 2 : Iss. 3, 281-306. 
+DOI: https://doi.org/10.17132/2693-3179.1114 
+Available at: https://elischolar.library.yale.edu/journal-of-financial-crises/vol2/iss3/11 
+This Case Study is brought to you for free and open access by the Journal of Financial Crises and 
+EliScholar – A Digital Platform for Scholarly Publishing at Yale. For more information, please contact 
+journalfinancialcrises@yale.edu.
+
+--- Page 2 ---
+READERS TAKE NOTICE: READERS TAKE NOTICE: 
+As of April 2024, the YPFS Resource Library’s site domain has changed 
+to https://elischolar.library.yale.edu/ypfs-financial-crisis-resource-library/. 
+Please be aware that upon clicking any of the URL references to 
+the former Resource Library domains, either https://ypfs.som.yale.edu 
+or https://ypfsresourcelibrary.blob.core.windows.net/, in the 
+"References/Key Program Documents" section of a case study, 
+readers will encounter a "page not found" error. readers will encounter a "page not found" error. 
+Readers can still retrieve a given resource cited within this case study 
+on the new site  by searching by searching here  for the title cited. for the title cited. 
+This case study is available in Journal of Financial Crises: https://elischolar.library.yale.edu/journal-of-financial-
+crises/vol2/iss3/11
+
+--- Page 3 ---
+Term Asset -Backed Securities Loan Facility 1 
+ 
+June Rhee2 
+Yale Program on Financial Stability Case Study 
+March 13, 2019; Revised: October 10, 2020 
+ 
+Abstract 
+In the fall of 2008, the securitization market, which was the major provider of credit for 
+consumers and small businesses, came to a near halt. Investors in this market abandoned 
+not only the residential mortgage-backed securities that triggered the financial crisis but also 
+consumer and business asset -backed securities (ABS), which had a long track record of 
+strong performance, and commercial mortgage -backed securities (CMBS). Also, the 
+unprecedented widening of spreads for these securities rendered new is suance 
+uneconomical, and the shutdown of the securitization market threatened to exacerbate the 
+downturn in the economy.  
+On November 25, 2008, the Federal Reserve ( the Fed) thus announced the Term Asset -
+Backed Securities Loan Facility (TALF). TALF was lau nched on March 3, 2009 , to help 
+stabilize funding markets for issuers in the securitization market. The TALF extended term 
+loans, collateralized by the securities, to buyers of certain high -quality asset -backed 
+securities. By reopening the ABS market, the Fed intended to ultimately support the 
+provision of credit to consumers and small businesses. Instead of directly participating in 
+the securitization market, the Fed encouraged private investors to do so by providing them 
+with liquidity and only took risk in the loss of the value of ABS. 
+In aggregate, the Fed issued 2,152 loans, totaling $71.1 billion. The volume of outstanding 
+loans peaked in March 2010 at $48.2 billion. Loans secured  by nonmortgage ABS totaled 
+$59 billion, and loans secured by legacy CMBS totaled $12 billion. The original expiration 
+date for the TALF of December 31, 2009, was extended to March 31, 2010, for loans against 
+ABS and legacy CMBS, and until June 30, 2010 , for loans against newly  issued CMBS. On 
+October 29, 2014, the final outstanding TALF loan was repaid in full, and in the following 
+month, a total of $745.7 million in accumulated fees and income was paid to the Treasury 
+(90%) and the Federal Reserve Bank of New York (10%). 
+Keywords: asset-backed securities, ABS, commercial mortgage -backed securities, CMBS, 
+securitization, loan, lending 
+  
+ 
+1 This case study is part of the Yale Program on Financial Stability (YPFS) selection of New Bagehot Project 
+modules considering the responses to the global financial crisis that pertain to market liquidity programs. 
+Cases are available from the Journal of Financial Crises  at https://elischolar.library.yale.edu/journal -of-
+financial-crises/. 
+2 June Rhee – Director, Master of Management Studies in Systemic Risk and Senior Editor, YPFS, Yale School of 
+Management. 
+281
+
+--- Page 4 ---
+At a Glance 
+When the subprime mortgage market began to 
+sour in early  2007, investors participating in the 
+securitization market became concerned about 
+not only subprime mortgage asset-backed 
+securities (ABS) but also all other ABS. By the fall 
+of 2008, the consumer debt and business loan ABS 
+market was severely disrupted, a nd after the 
+bankruptcy of Lehman Brothers , the ABS market 
+came to a near -complete halt. Since ABS markets 
+had funded a substantial share of credit to 
+consumers and businesses, continued disruption 
+of these markets could significantly limit the 
+availability of credit to households and businesses 
+of all sizes and thereby contribute to further 
+weakening of US economic activity. This concern 
+prompted the Federal Reserve ( the Fed) to 
+introduce the Term Asset-Backed Securities Loan 
+Facility (TALF).  
+Under the TA LF, the Fed initially committed to 
+provide up to $200 billion of one -year loans to 
+investors to purchase eligible securities. 
+However, the term of the loans was lengthened to 
+three years, and later the TALF added five-year 
+loans for certain collaterals. Al so, the Fed 
+expanded its commitment up to a potential $1 
+trillion on February 10, 2009. 
+In aggregate, the Fed issued 2,152 loans, totaling 
+$71.1 billion. Loans secured by nonmortgage ABS totaled $59 billion and loans secured by legacy commercial 
+mortgage-backed securities ( CMBS) totaled $12 billion. Although the usage of the TALF grew gradually after 
+the first lending in March 2009, overall, the u tilization of the TALF loans remained well below the intended 
+levels of the Fed and the Treasury and did not even reach half of the $200 billion initially committed by the Fed. 
+TALF generated no losses and collected $745.7 million in accumulated fees and i ncome, paid to the Treasury 
+(90%) and Federal Reserve Bank of New York (10%).  
+Summary Evaluation 
+Lending through TALF remained lower than expected , and an early assessment of TALF by the Congressional 
+Oversight Panel attributed the low-level usage of the program to the lack of demand for securitization, flaws in 
+the program’s design , and fear of political risk. However, later studies also showed that TALF had a positive 
+impact in restarting the asset-backed securities market.   
+Summary of Key Terms 
+Purpose: To increase credit availability and support 
+economic activity by facilitating renewed issuance of 
+consumer and business ABS. 
+  
+Announcement Date November 25, 2008 
+Operational Date March 3, 2009 
+Expiration Date March 31, 2010 (ABS and 
+legacy CMBS) 
+June 30, 2010 (newly 
+issued CMBS) 
+Legal Authority Federal Reserve Act, 
+Section 13(3) 
+Term Three and five years 
+Rate Determined by the type of 
+collateral 
+Collateral Newly issued non-
+mortgage-backed ABS, 
+newly issued CMBS, and 
+legacy CMBS  
+Peak Utilization $48.2 billion (in March 
+2010) 
+Participants Federal Reserve, US 
+Department of Treasury 
+Term Asset-Backed Securities 
+ Loan Facility 
+282
+Journal of Financial Crises Vol. 2 Iss. 3
+
+--- Page 5 ---
+Term Asset-Backed Securities Loan Facility: United States Context 
+ 
+GDP 
+(SAAR, Nominal GDP 
+in LCU converted to 
+USD) 
+ 
+$14,681.5 billion in 2007 
+$14,559.5 billion in 2008 
+ 
+Source: Bloomberg 
+ 
+GDP per capita 
+(SAAR, Nominal GDP 
+in LCU converted to 
+USD) 
+ 
+$47,976 in 2007 
+$48,383 in 2008 
+ 
+Source: Bloomberg 
+ 
+Sovereign credit 
+rating (5-year senior 
+debt) 
+ 
+As of Q4, 2007: 
+ 
+Fitch: AAA 
+Moody’s: Aaa 
+S&P: AAA 
+ 
+As of Q4, 2008: 
+ 
+Fitch: AAA 
+Moody’s: Aaa 
+S&P: AAA 
+ 
+Source: Bloomberg 
+283
+TALF Rhee
+
+--- Page 6 ---
+Size of banking 
+system 
+ 
+$9,231.7 billion in total assets in 2007 
+$9,938.3 billion in total assets in 2008 
+ 
+Source: Bloomberg 
+ 
+Size of banking 
+system as a 
+percentage of GDP 
+ 
+62.9% in 2007 
+68.3% in 2008 
+ 
+Source: Bloomberg 
+ 
+Size of banking 
+system as a 
+percentage of 
+financial system 
+ 
+Banking system assets equal to 29.0% of 
+financial system in 2007 
+Banking system assets equal to 30.5% of 
+financial system in 2008 
+ 
+Source: World Bank Global Financial 
+Development Database 
+ 
+5-bank concentration 
+of banking system 
+ 
+43.9% of total banking assets in 2007 
+44.9% of total banking assets in 2008 
+ 
+Source: World Bank Global Financial 
+Development Database 
+ 
+Foreign involvement 
+in banking system 
+22% of total banking assets in 2007 
+18% of total banking assets in 2008 
+ 
+Source: World Bank Global Financial 
+Development Database 
+284
+Journal of Financial Crises Vol. 2 Iss. 3
+
+--- Page 7 ---
+Government 
+ownership of banking 
+system 
+ 
+0% of banks owned by the state in 2008 
+ 
+Source: World Bank, Bank Regulation and 
+Supervision Survey 
+ 
+Existence of deposit 
+insurance 
+100% insurance on deposits up to $100,000 
+for 2007 
+100% insurance on deposits up to $250,000 
+for 2008 
+ 
+Source: Federal Deposit Insurance Corporation 
+ 
+ 
+  
+285
+TALF Rhee
+
+--- Page 8 ---
+I. Overview 
+Background 
+Traditionally, banks maintained the loans they made on their balance sheet s until the 
+maturity of these loans. However, with securitization , the banks were able to sell off these 
+loans before maturity and fund new loans. Moreover, through securitization, banks became 
+less and less important intermediaries of auto loans, student loans, and equipment loans, 
+and were displaced by finance companie s as the main originators of these types of credit. 
+Finance companies used asset-backed securities ( ABS) to fund these loans. In the year 
+leading up to the financial crisis, about half of credit card loans and one-third of auto loans 
+were funded through securitization , and credit intermediation through ABS exceeded 
+commercial bank loans (Ashcraft, Malz, and Pozsar 2012; Campbell et al. 2011; COP 2009). 
+When the subprime mortgage market began to sour in early 2007, investors participating in 
+the securitization market became concerned about not only subprime mortgage ABS but also 
+all other ABS. Interest rate spreads on AAA-rated tranches of ABS rose to levels well outside 
+the range of historical experience, reflecting unusually high risk prem iums. By the fall of 
+2008, the consumer debt and business loan ABS market was severely disrupted , and after 
+the bankruptcy of Lehman Brothers, the ABS market came to a near-complete halt. Since ABS 
+markets had funded a substantial share of credit to consumers and businesses , continued 
+disruption of these markets could significantly limit the availability of credit to households 
+and businesses of all sizes and thereby contribute to further weakening of US econom ic 
+activity. This concern prompted the Federal Reserve (the Fed) to address the troubles in the 
+ABS market (Ashcraft, Malz, and Pozsar 2012). 
+Normally, the monetary authorities would have approached the funding liquidity problem in 
+securitization markets b y reducing the cost of funding for depository institutions. But this 
+was not a viable course of action in October 2008 because short -term interest rates were 
+already near zero. More importantly, depository institutions, like other financial institutions 
+with significant exposure to residential and commercial real estate, were eager to reduce, 
+not expand, their balance sheets and thus were in no position to fully take up the slack caused 
+by the collapse of ABS (Ashcraft, Malz, and Pozsar 2012). 
+The most direct alternative approach would have been to extend discount window access to 
+nonbank financial institutions . But such a program would have been operationally 
+demanding for the Fed’s district banks to carry out. In particular, direct lending would have 
+required the Fed to accurately assess both the overall financial condition of nonbank lenders, 
+of which it had little knowledge, and the risk of the whole loan pools. Consequently, the Term 
+Asset-Backed Securities Loan Facility ( TALF) was announced on November 25, 2008 , to 
+provide term liquidity to issuers through securitization rather than direct loans (Ashcraft , 
+Malz, and Pozsar 2012). 
+Program Description 
+On November 25, 2008, the Federal Reserve announced its plans for TALF. For TALF, the Fed 
+relied on its emergency powers under Section 13(3) of the Federal Reserve Act  of 1913  
+(FRA) to  extend loans to investors that purchased newly issued ABS. Treasury also 
+committed funds under the Emergency Economic Stabilization Act of 2008 (EESA) to provide 
+a degree of credit protection for the Fed’s TALF loans.  The TALF was “designed to increase 
+credit availability and support economic activity by facilitating renewed issuance of 
+consumer and business ABS at more normal interest rate spreads .” The TALF was a facility 
+that would “help market participants meet the credit needs of households and small 
+286
+Journal of Financial Crises Vol. 2 Iss. 3
+
+--- Page 9 ---
+businesses by supporting the issuance of ABS collateralized by student loans, auto loans, 
+credit card loans, and loans guaranteed by the Small Business Administration” (SBA) (FRBNY 
+2008). 
+Under the TALF, the Fed initially committed to provide up to $200 billion  of one-year loans 
+to investors to purchase eligible securities (Ashcraft, Malz, and Pozsar 2012). However, the 
+term of the loans was lengthened to three years, and later the TALF added five-year loans for 
+certain collaterals. Also, the Fed expanded its commitment up to a potential $1 trillion on 
+February 10, 2009 (FRBNY 2009).  
+The TALF lo ans were collateralized by  eligible securities.  Eligible collateral included ( 1) 
+newly issued ABS backed by credit card, auto, small  business, dealer floor plan, equipment, 
+and student loans, and by insurance premium and residential mortgage servicing advance 
+receivables; ( 2) newly issued commercial mor tgage-backed securities (CMBS) secured by 
+fixed-rate commercial real estate loans; and (3) structurally senior legacy CMBS3 secured by 
+fixed-rate commercial real estate loans (Ashcraft, Malz, and Pozsar 2012). 
+After the announcement of TALF on November 25, 2008, it began operation o n March 3, 
+2009. To implement the TALF, the Fed flowed funds to the Federal Reserve Bank of New York 
+(FRBNY) to make nonrecourse loans to eligible investors that would buy eligible ABS and 
+CMBS. It imposed haircuts on  the loans by lending an amount against the bonds that was 
+materially smaller than the value of the bonds taken as collateral. The TALF permitted any 
+US investment fund to borrow, as long as it met certain eligibility criteria  and could deliver 
+the eligibl e collateral to support the loan. Because the Fed had limited experience with 
+evaluating nondepository institutions, it relied on some of its existing administrative 
+infrastructure in organizing the TALF. Each borrower was required to establish an account 
+with a TALF agent, usually a primary dealer, which would evaluate the borrower for 
+eligibility and also provide certain administrative functions in the processing of the TALF 
+loans. 
+Originally, the TALF funds were to be allocated through monthly auctions of preannounced 
+amounts through sealed auction bid, but ultimately, the TALF operated as a standing facility 
+with monthly subscription dates lending at a rate set by the Fed. The TALF made fixed-rate 
+or floati ng-rate loans. Fixed rates were set prior to each subscription for each eligible 
+collateral type, basis, and loan maturity as a spread over an index. The level of the index, not 
+the spread, varied by subscription month. The Fed would hold the TALF collater al until the 
+loan was paid off, at which time the collateral was redelivered to the borrower. Loans could 
+be prepaid, and the collateral would be returned to the borrower. The borrower could also 
+surrender the collateral as prepayment.(Ashcraft, Malz, and Pozsar 2012).  
+TALF LLC, a special purpose vehicle  (SPV), was established specifically for TALF. Treasury 
+purchased $20 billion of subordinated debt in TALF LLC. If loans under TALF were not repaid 
+and the proceeds from the sale of the related collateral could not be recouped, Treasury bore 
+the loss up to a specified amount. The Fed then bore any losses exceeding such amount 
+(Ashcraft, Malz, and Pozsar 2012). 
+Outcomes 
+In aggregate, the Fed issued 2,152 loans, totaling $71 .1 billion. The volume of outstanding 
+loans peaked in March 2010 at $48 .2 billion. Loans secured by nonmortgage ABS totaled 
+$59 billion, and loans secured by legacy CMBS totaled $12 billion.  Although the usage of the 
+ 
+3 US dollar–denominated CMBS issued before January 1, 2009. 
+287
+TALF Rhee
+
+--- Page 10 ---
+TALF grew gradually after the first lending in March 2009, overall, the utilization of the TALF 
+loans remained well below the intended levels of the Fed and the Treasury and did not even 
+reach half of the $200 billion initially committed by the Fed (Ashcraft , Malz, and Pozsar  
+2012). 
+The most common collaterals financed through TALF were credit cards (37%), auto and floor 
+plan loans (23%), commercial mortgages (17%), and student loans (13%)  (Ashcraft, Malz, 
+and Pozsar 2012). 
+The original expiration date for the TALF of December 31, 2009, was extended to March 31, 
+2010, for loans against ABS and legacy CMBS, and until June 30, 2010, for loans against newly 
+issued CMBS. TALF LLC  was terminated on November  6, 2014, after distributing a total of 
+$745.7 million in accumulated fees and income to the Treasury (90%) and FRBNY (10%). On 
+October 29, 2014, the final outstanding TALF loan was repaid in full. Over the life of the 
+program, all TALF loans were repaid in full at or before their respective maturity dates, and 
+FRBNY did not incur a loss on any TALF loan (FRBNY n.d.-a). 
+II. Key Design Decisions 
+1. TALF intended to increase credit availability and support economic activity by 
+facilitating renewed issuance of consumer and small business ABS at more normal 
+interest rate spreads.  
+The Fed announced the creation of the program on November 25, 2008. It described TALF 
+as a facility that would help meet the credit needs of households and small businesses by 
+supporting the issuance of ABS collateralized by student loans, auto loans, credit card loans, 
+and loans guaranteed by the SBA (FRBNY 2008). The Fed initially committed to provide up 
+to $200 billion of loans to investors to purchase eligible securities (Ashcraft, Malz, and Pozsar 
+2012). The Fed  subsequently expanded its commitment up to a potential $1 trillion on 
+February 10, 2009. 
+2. TALF was created under Section 13(3) of the FRA and the Troubled Assets Relief 
+Program (TARP) of the EESA.  
+The Fed relied on its emergency powers under Section 13(3) of the FRA to extend loans to 
+investors under TALF. Treasury also committed funds under the Troubled Asse ts Relief 
+Program of the EESA. It provided $20 billion of credit protection to the FRBNY in connection 
+with the TALF.  
+3. The TALF program relied on the purchase of ABS by private investors that took the 
+first-loss position of the purchased ABS. 
+The TALF program relied on the purchase of ABS by private investors rather than directly 
+by the Federal Reserve. In view of the long term to maturity of the loans, and wide variety of 
+newly issued spreads and credit quality across the ABS market, it was desirable to have 
+private investors’ scrutiny. This involvement also avoided undercutting market mechanisms 
+for allocating credit to borrowers by relying on private structuring and pricing of new 
+securitizations (Ashcraft, Malz, and Pozsar 2012) 
+Relying on private investors in newly issued ABS and CMBS also provided benchmark pricing 
+to the market. Even a small  number of transactions inform ed market participants about 
+288
+Journal of Financial Crises Vol. 2 Iss. 3
+
+--- Page 11 ---
+where securitization liabilities would tend to price. This reduce d market and funding 
+liquidity risk by diminishing uncertainty about the funding cost of the underlying loans and 
+the feasibility of a securitization exit, easing a key constraint on willingness to lend to 
+creditworthy borrowers. Additionally, with a first -loss position, investors had skin in the 
+game, incentivizing them to screen collateral for credit quality (Ashcraft , Malz, and Pozsar  
+2012). 
+4. A number of private entities helped to administer the TALF program. 
+The FRBNY was the Fed entity responsible for ma naging the TALF, but it required several 
+parties to assess values of collateral eligibility of borrowers and to manage the loans once 
+entered into.  
+• TALF agents were primary dealers or other designated agents that handled certain 
+administrative activities between the FRBNY and the borrowers. Agents paid TALF 
+loan principal and interest from the proceeds of collateral sales and paid the excess 
+to the borrower.  
+ 
+• Bank of New York Mellon  Corporation, the program custodian, was responsible for 
+holding collatera l, collecting and distributing payments and administrative fees, 
+verifying the data provided by the TALF agents, and validating the pricing and ratings 
+submitted for pledged securities. 
+  
+• Collateral monitors ,4 selected by the FRBNY, provided data and modeling services 
+used in risk assessments and validated collateral pricing and ratings. 
+5. Any US company that owned eligible collateral was able to borrow from the TALF. 
+An entity was defined as a US company if it was: (1) a business entity or institution that was 
+organized under the US law and conducted significant operations or activities in the USA; (2) 
+a US branch or agency of a foreign bank that maintain ed reserves with the Fed; (3) a US 
+insured depository institution; or (4) an investment fund that was organized under the US 
+law and managed by an investment manager that ha d its principal place of business in the 
+USA. Any foreign-government-controlled entity or institution was excluded (FRBNY, n.d.-b). 
+Specifically, for item (4), investment fund included pooled investment vehicles such as hedge 
+funds, private equity funds, and mutual funds, and single-investor vehicles. These funds did 
+not need to exclusively invest in TALF -eligible ABS but could be mult istrategy funds. The 
+financing subsidiaries of a public-private investment fund (PPIF) established pursuant to the 
+Legacy Securities Public-Private Investment Program (PPIP) could participate only in legacy 
+CMBS and if the PPIF was receiving Treasury-supplied debt financing equal to or less than 
+50% of the PPIF’s total equity (FRBNY , n.d.-b). This was to prevent double leveraging 
+(Ashcraft, Malz, and Pozsar  2012). For more information on PPIP, please refer to the Yale 
+Program on Financial Stability (YPFS) case study on that program (Henken, 2020).  
+ 
+4 Pacific Investment Management Company LLC (PIMCO), Trepp, LLC (Trepp), and BlackRock Financial 
+Management, Inc. (BlackRock) were selected to serve as collateral monitors for the FRBNY. Each collateral 
+monitor assisted the FRBNY by providing valuation, modeling, analytics, and reporting. PIMCO performed a 
+broad role that encompassed the entire TALF portfolio. Trepp focused on both newly issued and legacy CMBS, 
+and BlackRock focused on legacy CMBS. CWCapital Investments LLC provided underwriting  advisory services 
+with regard to certain commercial mortgage loans backing newly issued CMBS. However, the collateral 
+monitors did not make decisions for the FRBNY (FRBNY, n.d.-b). 
+289
+TALF Rhee
+
+--- Page 12 ---
+For all four categories of US companies, they could not have a material economic interest in 
+the underlying collateral pool of ABS they were posting against the TALF loans. This was to 
+prevent conflicts of interest that could lead to collateral being prese nted at inflated prices 
+(Ashcraft, Malz, and Pozsar 2012). 
+6. The term for TALF loans was ultimately extended to three or five years.   
+ 
+5 CPR is conditional payment rate; it represents the proportion of the pri ncipal of a pool of loans that is 
+assumed to be paid off prematurely in each period. APS is absolute prepayment speed; it represents the 
+percentage of the original number of loans that prepay during a given period.  
+Figure 1: TALF Haircuts by Asset Class (percent) 
+ 
+Source: FRBNY, n.d.-b. 
+Figure 2: TALF Prepayment Assumptions5 
+ 
+Source: FRBNY, n.d.-b. 
+290
+Journal of Financial Crises Vol. 2 Iss. 3
+
+--- Page 13 ---
+TALF loans were originally announced to be a three -year loan. However, there was a 
+mismatch between the three-year maximum loan term and the five-year maximum range of 
+the underlying assets backing the loans . As pointed out in the May 2009 Congressional 
+Oversight Panel report, this mismatch meant the nonrecourse financing through TALF would 
+expire before the underlying debt securities fully matured , leaving the investors to take on 
+the full risk of those debt securities for the rest of two years (COP 2009). Therefore, the Fed 
+announced on May 1, 2009, that it was extending the TALF loan to five years for certain class 
+of ABS (Federal Reserve 2009b). 
+7. The loan amount was determined by the market value of the ABS, and a haircut and 
+an administrative fee were imposed. 
+Minimum loan amount was $10 million, and there was no maximum. To avoid undercutting 
+market mechanisms of risk monitoring and due diligence regarding the creditworthiness of 
+the loans, the program imposed haircuts on the TALF loans by lending an amount against the 
+bonds that was materially smaller than the value of the bonds taken as collateral. Haircut 
+was a key risk mitigant for the Fed since the TALF loans were nonrecourse (Ashcraft , Malz, 
+and Pozsar 2012). 
+Haircuts were risk sensitive, varying by the underlying asset class and the security’s 
+weighted average life, as seen in Figure 1. The average life of a security is the average timing 
+of principal repayment, which in turn depends on assumptions about prepayment for ABS. 
+In order to prevent issuers from gaming TALF haircuts by asserting high prepayment rates 
+and thus shortening the average lives for the securities they wished to pledge, the program 
+set standardized prepayment assumptions by asset class , as shown in Table 2. Th is 
+permitted the issuer to calculate the TALF average life of each security and the investors to 
+know the haircut on a TALF loan. 
+The weighted average life of a legacy CMBS was calculated on the basis of : (1) the current 
+composition of the mortgage pool, as reflected in recent servicer and trustee reports; (2) the 
+entitlement of the legacy CMBS to distributions ; (3) the assumption that “anticipated 
+repayment dates” are maturity dates; and (4) a 0% conditional payment rate and the absence 
+of future defaults.  Loans in default or special servicing were considered as if they had not 
+defaulted, and previously  modified loans were considered according to their terms as 
+modified (FRBNY, n.d.-b). 
+The haircut was measured as a percent of market value for newly issued ABS and CMBS and 
+as a percent of par for legacy CMBS. A haircut measured as a fraction of par instead of price 
+implies a market -value haircut that is higher for lower -value collateral, adding another 
+protection against adverse selection in the legacy program (FRBNY, n.d.-b). 
+The loan amount for newly issued ABS and CMBS was calculated by subtracting a haircut 
+from the market value of the pledged collateral . The loan amount for legacy CMBS was 
+determined by subtracting a haircut from the lesser of the dollar purchase price on bond 
+trade date, the market price as of loan subscription date, or a value based on the FRBNY’s 
+risk assessment (FRBNY, n.d.-b). 
+Underwriters of TALF-eligible ABS generally set the issue date close to the TALF subscription 
+date. Ot herwise, between the issue and subscription dates, investors would have to seek 
+alternative financing and face the risk of securing lower TALF loan proceeds if the bond price 
+dropped. While the value of a newly issued ABS or CMBS bond for purposes of deter mining 
+the loan amount was based on its price on the subscription date, the value of a legacy CMBS 
+was the dollar purchase price of the CMBS at subscription less the base dollar haircut from 
+291
+TALF Rhee
+
+--- Page 14 ---
+par, exposing the TALF investor to a larger market risk in the pe riod between the bond 
+purchase date and the loan subscription date (Ashcraft, Malz, and Pozsar 2012). 
+In addition to the haircut, an administrative fee of 10 basis points of the loan amount was 
+applied to loans secured by nonmortgage ABS and a fee of 20 ba sis points was applied to 
+TALF loans backed by CMBS collateral (Ashcraft, Malz, and Pozsar 2012). 
+8. The TALF provided long-term nonrecourse loans.  
+One of the designers of TALF emphasize d that the nonrecourse feature was key to TALF 
+design. Nonrecourse meant that if the market price of ABS declined, whether because of risk 
+aversion in the market or because of mounting credit losses, the borrowers would not take 
+the capital loss and could exit the loan, leaving the collateral ABS with the Fed. This highlights 
+the purpose of TALF , which was to heal the market and keep the investors active in the 
+market.  
+The loan term was a key design element of the TALF program. Investors were eager to avoid 
+the refinancing risk associated with funding longer -dated collateral with a shorter -dated 
+loan. Most TALF collateral was eligible only for a three -year loan term, but longer -dated 
+collateral (such as ABS secured by student loans, loans guaranteed by the SBA, or commercial 
+real estate loans) was eligible for a five-year loan term (Ashcraft, Malz, and Pozsar 2012). 
+For example, credit card ABS was commonly issued by revolving master trusts , which 
+accepted new credit card loans to the ABS’ asset pool as the investment qualities of th is 
+underlying pool change d. Credit card securitizations differed from other ABS since the 
+underlying credit card loans had a relatively short life, typically eight to 10 months, whereas 
+ABS typically had three-year or longer maturities. As a result of this maturity mismatch, each 
+series of securities issued out of the master trust was structured to have a revolving period . 
+The revolving period was for a predetermined period that was established at the time the 
+series of securities was structured, and the maturities of the longest senior tranches of most 
+credit card ABS were close to three years. Therefore, three-year TALF loans were offered for 
+credit card ABS.   
+On the other hand, Small Business Administration loans, student loans, and commercial real 
+estate sectors had longer maturities of seven to 10 years, 15 years, and 10 years, respectively. 
+Therefore, five-year loans were offered for these ABS under TALF ; and while the TALF loan 
+term was shorter than the terms of these ABS, the government explained that investors could 
+reasonably assume that market conditions would have normalized by the time the TALF loan 
+matured (five years), permitting them to either finance their positions in the private market 
+or unwind them in an orderly way (Ashcraft, Malz, and Pozsar 2012). 
+The loans under TALF were nonrecourse. While recourse is a significant risk mitigant  for a 
+secured lender, the government reasoned that it could have been expensive for the borrower 
+given the volatility in securitization markets. Not only would this have reduced the number 
+of borrowers willing to participate in TALF, but it would have prompted these borrowers to 
+demand higher returns to ABS issuers to compensate for refinancing risk associated with the 
+ABS it was investing in. This ultimately would have reduced the program’s efficacy. 
+Moreover, a meaningful recourse provision was in any event impractical witho ut a regime, 
+which the Fed lack ed the ability and resources to institute , to verify the financial condition 
+of ABS issuers (Ashcraft, Malz, and Pozsar 2012). 
+Brian P. Sack of the FRBNY emphasizes that t he combination of these two elements —long 
+maturities and nonrecourse—was critical to the success of the program. Without one or the 
+292
+Journal of Financial Crises Vol. 2 Iss. 3
+
+--- Page 15 ---
+other, investors would have had exposure to short -term swings in risk premiums in a time 
+of extreme volatility, which would have likely limited participation and thus reduced the 
+program’s effectiveness (Sack 2010). 
+9. Interest rates on TALF loans were  fixed or floating and generally high relative to 
+the historical coupon rate on ABS and CMBS. 
+The interest rate on TALF loans was generally high relative to the historical co upon rate on 
+ABS and CMBS. This high rate served two important purposes. First, it was an important 
+source of credit enhancement to the public sector. Second, the high loan rate was also an 
+important part of the exit strategy. The loan rate made the progra m uneconomic as the 
+spreads for newly issued ABS and CMBS reverted toward their historical norms, and thus, 
+the demand for the program diminished as the markets recovered. TALF borrowers also had 
+an incentive to repay loans prior to maturity (Ashcraft, Malz, and Pozsar 2012). 
+A designer of TALF also explains that this was the “penalty rate” from the Bagehot dictum , 
+and once spreads tightened below 100 basis points , the program size did not matter and 
+TALF achieved what it was set to achieve.  
+The TALF loan rate was set as a spread, fixed over the life of the program but varying by asset 
+class and loan term, over an index , as shown in Table 3 . The indexes were chosen to 
+correspond to bond pricing conven tions at iss ue, thus minimizing the interest rate risk for 
+the borrower in case it decided to exit from the TALF loan. The index for fixed-rate loans was 
+the Libor6 swap rate, generally with a maturity equal to that of the TALF loan. For most asset 
+classes, the index for floating -rate loans was the one -month L ibor rate, but for some , the 
+index was the prime rate or target federal funds rate (Ashcraft, Malz, and Pozsar 2012).  
+ 
+6 Libor is the London interbank offered rate. 
+293
+TALF Rhee
+
+--- Page 16 ---
+Figure 3: TALF Loan Rates 
+ 
+Source: FRBNY, n.d.-b. 
+10. The TALF accepted three categories of collateral: (1) newly issued non -mortgage-
+backed ABS, (2) newly issued CMBS, and (3) legacy CMBS. 
+A designer for TALF comments that there were two main debates on the design of collateral: 
+(1) whether to open the program to legacy securities or keep it only for the newly issued 
+ones; and (2) whether to open the program to residential mortgage-backed securities.  
+The TALF program avoided undercutting market mechanisms for allocating credit to 
+different sectors of the economy by defin ing eligible collateral broadly within these three 
+general classes of underlying loans. However, ABS asset classes with historically poor 
+performance (for example, timeshares, aircraft leasing, and manufactured housing) were 
+excluded as they were considered not central to the goal of averting a deeper recession. Also, 
+nonagency residential mortgage -backed securities  and securitizations of corporate loans 
+were excluded, in part because of risk considerations but also because the TALF program’s 
+approach of pr oviding funding liquidity for senior bonds would not address the problems 
+facing those sectors (Ashcraft, Malz, and Pozsar 2012). 
+Eligible collateral had to have AAA credit ratings from two eligible nationally recognized 
+statistical rating organizations (N RSROs) and have no lower rating from any NRSRO. 7 The 
+ 
+7 12 C.F.R. Part 201 provided the FRBNY with the process by which it determined the eligibility of credit 
+rating agencies for TALF. NRSROs for newly issued non-mortgage-backed ABS included Moody’s, Fitch, and 
+294
+Journal of Financial Crises Vol. 2 Iss. 3
+
+--- Page 17 ---
+AAA rating had to be attained on the strength of the securitization collateral and structure 
+itself, rather than through a financial guarantee or “wrap” provided by an insurance 
+company or other third p arty (Ashcraft, Malz, and Pozsar  2012). In case of a downgrade of 
+an ABS, TALF loans backed by such ABS were not affected , but it could not  be used as a 
+collateral for any new TALF loans until it regained its status as eligible collateral.  
+Moreover, in order to address the potential risk and problem with program effectiveness 
+posed by the use of credit rating agencies’ ratings, the Fed conducted internal credit reviews 
+before accepting bonds as collateral . This review provided a layer of due diligence beyond 
+that of the credit rating agencies and investors, putting the public sector in a better position 
+to manage adverse selection. It also was an important check on adverse selection by TALF 
+borrowers, despite the low rejection rate of 13 percent (Ashcraft, Malz, and Pozsar 2012). 
+(1) Newly Issued Non-Mortgage-Backed ABS  
+At inception, eligible collateral that was accepted under the TALF was US dollar –
+denominated non-mortgage-backed ABS issued on or after January 1, 2009.  (FRBNY TALF 
+Terms and Conditions)  
+This included ABS backed by: 
+• Retail auto loans; 
+• Federally guaranteed and private student loans; 
+• Credit card receivables; and 
+• Small-business loans, fully guaranteed as to principal and interes t by the US 
+government, originated under the SBA’s 7(a) (Pool Certificates) and 504 
+(Development Company Participation Certificates) programs. 
+On February 10, 2009, the Fed announced that it was prepared to take expansion under 
+TALF. The objective of the e xpansion was to provide additional assistance to financial 
+markets and institutions in meeting the credit needs of households and businesses (FRBNY 
+2009). 
+On March 19, 2009, the Fed announced that TALF-eligible collateral would expand to include 
+ABS backed by loans related to:    
+• Commercial, rental car company, and government fleet leases; 
+• Business equipment loans and leases; 
+• Floor plan loans, by which, for example, auto dealers finance inventories; and 
+• Servicing advance receivables, which arise from residential mortgage servicing 
+advances. 
+On May 1, 2009, the Fed again expanded the categories of TALF-eligible collateral to include 
+securities backed by: 
+ 
+Standard and Poor’s, and beginning with the February 2010 subscription, DBRS was also included in this list. 
+SBA Pool Certificates or Development Company Participation Certificates had an issuance cutoff date of 
+January 1, 2008, and were exempt from the ratings requirements. For newly iss ued and legacy CMBS, eligible 
+credit rating agencies included Moody’s, Fitch, Standard and Poor’s, Realpoint, and DBRS  (Federal Reserve 
+2009a). 
+295
+TALF Rhee
+
+--- Page 18 ---
+• Insurance premium finance loans, by which businesses  finance lump-sum insurance 
+premium payments. 
+(2) Newly Issued CMBS 
+On May 1, 2009, the Fed further expa nded TALF-eligible collateral to include newly issued 
+CMBS. At the same time , the Fed also authorized five-year loans (up to $100 billion) to 
+purchase newly issued CMBS, and ABS backed by student loans and by SBA loans. Extension 
+to the five-year term brought TALF loan maturities closer to the longer average of these types 
+of securities (FRBNY n.d.-a). 
+(3) Legacy CMBS 
+Beginning with the subscription held on July 16, 2009, the TALF accepted conduit CMBS 
+issued before January 1, 2009 , that was structurally senior to all other interest in the 
+underling pool of mortgages and that had two AAA rating from NRSROs. Since the purchase 
+price factored into the determination of the loan amount, borrowers had to have purchased 
+the legacy CMBS in recent secondary -market transactions between unaffiliated parties, 
+executed on an arm’s-length basis at prevailing market prices. This was to prevent conflicts 
+of interest that could lead to collateral being presented at inflated prices (Ashcraft, Malz, and 
+Pozsar 2012). The FRBNY independently reviewed and rejected any CMBS that did not meet 
+the stated criteria or that otherwise posed unacceptable risk (FRBNY n.d.-a). 
+11. The TALF was a standing facility with borrowers submitting subscriptions to buy 
+at preannounced rates set by the Fed.  
+Although originally announced to be an auction facility, the TALF was changed to be a 
+standing facility with borrowers submitting subscriptions to buy at preannounced rates set 
+by the Fed. 
+12. A special purpose vehicle, TALF LLC, was established in connection with the TALF.  
+TALF LLC, a special purpose vehicle, was established specifically for the purpose of managing 
+any collateral surrendered by TALF borrowers to the FRBNY. Treasury purchased $20 billion 
+of subordinated debt in TALF LLC. If loans under TALF were not repaid an d the proceeds 
+from the sale of the related collateral could not be recouped, Treasury bore the loss up to a 
+specified amount. The Fed then bore any losses exceeding such amount (Ashcraft, Malz, and 
+Pozsar 2012). 
+TALF LLC held any collateral surrendered by  a borrower with respect to a TALF loan  and 
+entered into lending transactions with eligible investment funds wishing to purchase eligible 
+ABS. It was initially funded by a $100 million drawing on the Treasury’s $20 billion 
+commitment.  
+TALF LLC also held the accumulated interest from TALF loans in excess of the interest earned 
+by the FRBNY. The Fed retained a portion of TALF loan interest equal to its cost of funds that 
+was calculated as the overnight indexed swap (OIS) rate plus 25 basis points. The 
+accumulated excess interest from TALF loans and the Treasury funding was invested to earn 
+interest income (Ashcraft, Malz, and Pozsar 2012). 
+13. Participants in TALF were exempt from executive compensation restrictions 
+required under TARP.  
+296
+Journal of Financial Crises Vol. 2 Iss. 3
+
+--- Page 19 ---
+The r easoning behind th is exemption was that the principle in executive compensation 
+restrictions need not apply to TALF borrowers. Executive compensation restrictions were to 
+ensure that executives of institutions that receive d government support did not unjustly 
+enrich themselves at the expense of taxpayers. On the other hand, the goals of the TALF was 
+to encourage securitization of privately originated loans in important asset clas ses to 
+consumers and businesses. It provided support to ABS sponsors, who provid ed credit to 
+consumers and businesses, and to ABS investors, who brought new capital to this frozen 
+market. Therefore, the restrictions did not  apply to TALF sponsors, underwri ters, and 
+borrowers as a result of their participation in the TALF (FRBNY n.d. -b). Additionally, the 
+Office of the Special Inspector General for the Troubled Asset Relief Program ( SIGTARP) 
+included correspondence demonstrating that because the executive co mpensation 
+restrictions “would not enhance the effectiveness of TALF in restoring consumer credits ,” 
+Treasury and FRBNY decided to remove these restrictions (SIGTARP 2009). 
+III. Evaluation 
+A designer of TALF commented that the program was extremely complex to administer due 
+to two factors: ( 1) the Fed had to deal with a new set of counterparties, and ( 2) the 
+underlying collateral ABS needed to be valued carefully.   
+Lending through the TALF program remained lower than expected, totaling $71.1 billion 
+although the program was authorized to reach $200 billion, and at one point, up to $1 trillion 
+was envisioned. In an early assessment of the TALF program by the Congressional Oversight 
+Panel, low-level usage of the program was attributed to lack of demand for securitization, 
+flaws in the program’s design, and fear of political risk (COP 2009).  
+A recent piece on TALF commented that although extensive credit protection was necessary 
+due to the complexity and variety of collat eral, this structural feature diminish ed the 
+effectiveness of the program. TALF took four months from initial conc eption to initial 
+operation, and it required multiple expansions that took place over the next seven months , 
+demonstrating that it was unable to promptly respond to the problem. Moreover, there has 
+been a perception that the program was for the rich because the eligible borrowers were 
+largely hedge funds or specialized TALF funds established by asset management companies 
+(Logan, Nelson, and Parkinson 2018). 
+Later, another report on the program explain ed that the low level of TALF usage reflected 
+the strong risk  mitigants the program incorporated as well as the rapid improvement in 
+market conditions in the term ABS and CMBS markets. By the end of the program, more than 
+half of ABS issuance in TALF asset classes was financed away from the TALF or held 
+unlevered (Table 4) . The report suggested that these trends showed  that as market 
+conditions improved, cash investors were induced to participate in the term ABS market, and 
+private sector financing became more available to levered investors, permitting TALF to 
+operate as a backstop rather than a form of direct support (Ashcraft, Malz, and Pozsar 2012). 
+  
+297
+TALF Rhee
+
+--- Page 20 ---
+Figure 4: TALF ABS Issuance, 2007-11 
+ 
+Source: Ashcraft, Malz, and Pozsar 2012 
+Moreover, as spreads narrowed, the balance of risk and reward in levered positions in ABS 
+and CMBS shifted, and these considerations reduced incentives to borrow through TALF and 
+led some borrowers to repay TALF loans prior to maturity, which they were permitted to do 
+at no cost. (Ashcraft, Malz, and Pozsar 2012). 
+Secondary-market credit spreads are a key indicator of liquidity conditions as well as of 
+credit risk, and spreads on structured credit products tightened dramatically in the early 
+months of TALF operations. Ashcraft, Malz, and Pozsar  interpreted this as indicating that 
+although o ne cannot say with certainty how much of this improvement is attributable to 
+TALF, rather than to a more positive view on credit risk, the suddenness and rapidity of the 
+tightening suggest that TALF had a disproportionate effect on  liquidity (Ashcraft, Malz, and 
+Pozsar 2012). 
+Some considered the TALF to be distinctive in offering a more direct impact to the consumer, 
+because nearly all of the auto lenders supported by the TALF reported that the facility 
+298
+Journal of Financial Crises Vol. 2 Iss. 3
+
+--- Page 21 ---
+enabled them to offer more cr edit to consumers at lower rates. Lenders attributed this 
+impact to the program ’s success in reopening the securitization channel through which 
+roughly half of consumer loans were financed (Sack 2010). 
+One study showed that since the introduction of TALF, ABS interest rate spreads narrowed 
+from historical highs in the fourth quarter of 2008, which suggest ed a significant 
+improvement in liquidity and availability of credit in the ABS market. More specifically, after 
+the announcement of TALF’s expansion to as  much as $1 billion on February 10, 2009, the 
+study showed that spreads for the credit card, auto, and student loan sectors narrowed. The 
+same study also showed that TALF helped restart the ABS market as the percentage of ABS 
+issuance unsupported by TALF increased by the fourth quarter of 2009 (Agarwal et al. 2010). 
+The same is also shown in Table 5, produced by FRBNY.  
+Figure 5: Consumer Asset-Backed Security Spreads 
+ 
+Source: Hutchins Center at the Brookings Institution and Yale Program on Financial Stability, 
+Visualizing the Financial Crisis, Consumer Asset-Backed Security Spreads, 2007–2011 (2020). 
+Another study showed that the TALF program appears to have had substantially stronger 
+effects at the market level than at the security level, w hich suggested that the impact of the 
+TALF may have been to calm investors, broadly speaking, about US ABS markets rather than 
+to subsidize or certify the particular securities that were funded by the program. It also 
+showed that, in terms of costs to the US government, the program included a number of 
+structural features to keep risks low, and the program appeared to have screened out the 
+riskiest deals but have attracted somewhat riskier -than-average deals among the pool of 
+potentially eligible securities (Campbell et al. 2011). 
+299
+TALF Rhee
+
+--- Page 22 ---
+IV. References 
+Agarwal, S umit, Jacqueline Barrett, Crystal Cun, and Mariacristina De Nardi . 2010. “The 
+Asset-Backed Securities Markets, the Crisis, and TALF .” Federal Reserve Bank of Chicago , 
+Economic Perspectives 34, no. 4. 
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Agarwal,%20Sumit,%20Jac
+queline%20Barrett,%20Crystal%20Cun,%20and%20Mariacristina%20De%20Nardi.%202
+010.%20%E2%80%9CThe%20Asset-
+Backed%20Securities%20Markets,%20the%20Crisis,%20and%20TALF.%E2%80%9D%2
+0Federal%20Reserve%20Bank%20of%20Chicago,%20Economic%20Perspectives%2034,
+%20no.%204.pdf. 
+Ashcraft, Adam, Allan  Malz, and Zoltan  Pozsar. 2012. “The Federal Reserve’s Term Asset -
+Backed Securities Loan Facility .”  FRBNY Economic Policy Review  18, no. 3.  
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Ashcraft,%20Adam%20and
+%20Malz%20Allan%20and%20Pozsar%20Zoltan%20The%20Federal%20Reserve%20Te
+rm%20Asset%20Backed%20Securities%20Loan%20Facility%202012.pdf. 
+Board of Governors of the Federal Reserve  System (Federal Reserve). 2009a. Regulation A: 
+Extensions of Credit by Federal Reserve Banks (12 C.F.R. Part 201). Federal Register 74, no. 
+235 (December).  
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Board%20of%20Governors
+%20of%20the%20Federal%20Reserve%20System%20(Federal%20Reserve).%202009a.
+%20Regulation%20A-
+%20Extensions%20of%20Credit%20by%20Federal%20Reserve%20Banks%20(12%20C.
+F.R.%20Part%20201).%20Federal%20Register%2074,%20no.%20235%20(December).%
+20.pdf. 
+Board of Governors of t he Federal Reserve System (Federal Reserve). 2009 b. “Federal 
+Reserve Announces Expansion of Eligible Collateral under Term Asset -Backed Securities 
+Loan Facility (TALF).” Press Release, May 1, 2009 . 
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Board%20of%20Governors
+%20of%20the%20Federal%20Reserve%20System%20(Federal%20Reserve).%202009b.
+%20%E2%80%9CFederal%20Reserve%20Announces%20Expansion%20of%20Eligible%
+20Collateral%20under%20Term%20Asset-
+Backed%20Securities%20Loan%20Facility%20(TALF).%E2%80%9D.pdf. 
+Campbell, S ean, D aniel Covitz, W illiam Nelson, and K aren Pence. 2011.  “Securitization 
+Markets and Central Banking: An Evaluation of the Term Asset -Backed Securities Loan 
+Facility.” Journal of Monetary Economics  58, no. 5 .  
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Campbell_Covitz_Nelson_Pe
+nce_Securitization_and_Markets_and_central_banking_2011.pdf. 
+Federal Reserve Bank of New York (FRBNY). n.d. -a. “ Term Asset -Backed Securities Loan 
+Facility: Terms and Conditions.” 
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/FRS%20Bank%20of%20Ne
+300
+Journal of Financial Crises Vol. 2 Iss. 3
+
+--- Page 23 ---
+w%20York%20Term%20Asset%20Backed%20Securities%20Loan%20Facility%20Terms
+%20and%20Conditions%2011-13-2009.pdf. 
+Federal Reserve Bank of New York (FRBNY). n.d. -b. “ Term Ass et-Backed Securities Loan 
+Facility: Frequently Asked Questions.” 
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Federal%20Reserve%20Ba
+nk%20of%20New%20York%20(FRBNY).%20n.d.-b.%20%E2%80%9CTerm%20Asset-
+Backed%20Securities%20Loan%20Facility-%20Frequently%20Asked%20Questions.pdf. 
+Federal Reserve Bank of New York (FRBNY). 2008. “Federal Reserve Announces the Creation 
+of the Term Asset -Backed Securities Loan Facility.” Press Release, November 25, 2008 . 
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Federal%20Reserve%20Ba
+nk%20of%20New%20York%20(FRBNY).%202008.%20%E2%80%9CFederal%20Reserve
+%20Announces%20the%20Creation%20of%20the%20Term%20Asset-
+Backed%20Securities%20Loan%20Facility.%E2%80%9D%20Press%20Release,%20Nove
+mber%2025,%202008.pdf. 
+Henken, Benjamin. 2020. “ Public-Private Investment Program:  The Legacy Loans Program 
+(U.S. GFC) ”, The Yale Program on Financial Stability , Journal of Financial Crises  
+https://elischolar.library.yale.edu/cgi/preview.cgi?article=1074&context=journal-of-
+financial-crises. 
+Federal Reserve Bank of New York (FRBNY). 2009. “Federal Reserve Is Prepared to Expand 
+Term Asset -Backed Securities Loan Facility (TALF).” Press Release, February 10, 2009 . 
+https://ypfs.som.yale.edu/library/federal-reserve-prepared-expand-term-asset-backed-
+securities-loan-facility. 
+Logan, Lorie, William Nelson, and Patrick Parkinson. 2018. “ Novel Lender of Last Resort 
+Programs.” Conference on Responding to the Global Financial Crisis: What We Did and Why 
+We Did It, Brookings  Institution, Washington, DC, September 11 –12. 
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/02%20Novel%20LOLR%20
+Prelim%20Disc%20Draft%202018.09.11.pdf. 
+Office of the Special Inspector General for the Troubled Asset Relief Program ( SIGTARP). 
+2009. “Quarterly Report to Congress, April 21, 2009.” 
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/SIGTARP).%202009.%20%
+E2%80%9CQuarterly%20Report%20to%20Congress,%20April%2021,%202009_0.pdf. 
+Sack, Brian P. 2010. “Reflections on the TALF and the Federal Reserve’s Role as Liquidity 
+Provider.” Remarks delivered at the New York Association for Business Economics, New 
+York City, June 9, 2010. 
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Sack,%20Brian%20P.%202
+010.%20%E2%80%9CReflections%20on%20the%20TALF%20and%20the%20Federal%
+20Reserve%E2%80%99s%20Role%20as%20Liquidity%20Provider.%E2%80%9D%20Re
+marks%20delivered%20at%20the%20New%20York%20Association%20for%20Business
+%20Economics,%20New%20York%20City,%20June%209,%202010.pdf. 
+301
+TALF Rhee
+
+--- Page 24 ---
+US Congressional Oversight Panel  (COP). 2009. , Reviving Lending to Small Businesses and 
+Families and the Impact of the TALF : Congressional Oversight Panel May Ove rsight Report . 
+Washington, DC: US Government Printing Office , May  7, 2009.04212009 
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/US%20Congressional%20O
+versight%20Panel%20(COP).%202009.,%20Reviving%20Lending%20to%20Small%20Bu
+sinesses%20and%20Families%20and%20the%20Impact%20of%20the%20TALF-
+%20Congressional%20Oversight%20Panel%20May%20Oversight%20Report.%20Washin
+gton,%20DC-%20US%20Government%20Printing%20Office,%20May%207,%202009.pdf 
+V. Key Program Documents 
+Summary of Program 
+Term Asset-Backed Securities Loan Facility: Terms and Conditions  – the Federal Reserve 
+Bank of New York webpage detailing the terms and conditions of TALF.  
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/FRS%20Bank%20of%20Ne
+w%20York%20Term%20Asset%20Backed%20Securities%20Loan%20Facility%20Terms
+%20and%20Conditions%2011-13-2009.pdf. 
+Term Asset -Backed Securities Loan Facility: Frequently Asked Questions  – the Federal 
+Reserve Bank of New York web  page answering questions on the background and the content 
+of TALF. 
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Federal%20Reserve%20Ba
+nk%20of%20New%20York%20(FRBNY).%20n.d.-b.%20%E2%80%9CTerm%20Asset-
+Backed%20Securities%20Loan%20Facility-%20Frequently%20Asked%20Questions.pdf. 
+Term Asset-Backed Securities Loan Facility: CMBS  – the Federal Reserve Bank of New York 
+web page announcing operations of TALF pertaining to n ewly issued commercial mortgage -
+backed securities.  
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Term%20Asset-
+Backed%20Securities%20Loan%20Facility-%20CMBS%20.pdf. 
+Term Asset-Backed Securities Loan Facility: Non-CMBS – the Federal Reserve Bank of New 
+York web  page announcing operations of TALF pertaining to non-mortgage-backed ABS.  
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Term%20Asset-
+Backed%20Securities%20Loan%20Facility-%20Non-CMBS%20.pdf. 
+How Investors Access the TALF – the Federal Reserve Bank of New York web page explaining 
+the process of obtaining loans under TALF . 
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/How%20Investors%20Acce
+ss%20the%20Term%20Asset-
+Backed%20Securities%20Loan%20Facility%20(TALF)%20-
+%20FEDERAL%20RESERVE%20BANK%20of%20NEW%20YORK.pdf. 
+Implementation Documents 
+ 
+TALF Precertification Process – the Federal Reserve Bank of New York document explaining 
+the process of precertification for borrower eligibility .  
+302
+Journal of Financial Crises Vol. 2 Iss. 3
+
+--- Page 25 ---
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/TALF%20Precertification%
+20Process.pdf. 
+TALF Master Loan and Security Agreement – the Federal Reserve Bank of New York document 
+setting forth the terms under which a borrower may obtain loans and pledge collateral under 
+TALF. 
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/TALF%20Master%20Loan
+%20and%20Security%20Agreement.pdf. 
+Conflicts of Interest Guidance for TALF Agents Participating in TALF  – the Federal Reserve 
+Bank of New York guidance highlighting certain requirements and expectations of TALF agents 
+in order to safeguard public confidence in the TALF program, the Federal Reserve , and the 
+participating TALF agents. 
+ 
+Form of Certification as to TALF Eligibility for Non -Mortgage-Backed ABS  – the Federal 
+Reserve Bank of New York disclosure form to be included in any offering document in order for 
+securities to be TALF-eligible. 
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Form%20of%20Certificatio
+n%20as%20to%20TALF%20Eligibility%20for%20Non-Mortgage-Backed%20.pdf. 
+ Form of Certification as to TALF Eligibility for Newly Issued CMBS – the Federal Reserve Bank 
+of New York disclosure form to be included in any offering document in order for  securities to 
+be TALF-eligible.  
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Form%20of%20Certificatio
+n%20as%20to%20TALF%20Eligibility%20for%20Newly%20Issued%20CMBS%20.pdf. 
+ TALF Borrower Eligibility and New York Fed Due Diligence Policy – the Federal Reserve Bank 
+of New York  guidance for TALF agen ts that intend to make a loan request on behalf of a 
+potential borrower.  
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/TALF%20Borrower%20Elig
+ibility%20and%20New%20York%20Fed%20Due%20Diligence%20Policy%20.pdf. 
+ 
+Additional Due Diligence Guidance for TALF Agents  – the Federal Reserve Bank of New York  
+guidance for TALF agents that intend to make a loan request on behalf of a potential borrower.  
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Additional%20Due%20Dili
+gence%20Guidance%20for%20TALF%20Agents%20.pdf. 
+ 
+Risk Assessment Principles for Non-Mortgage-Backed ABS – the Federal Reserve Bank of New 
+York document setting forth three s tandards that the bonds pledged to TALF meet.   
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Risk%20Assessment%20Pr
+inciples%20for%20Non-Mortgage-Backed%20ABS%20.pdf. 
+ Form of Undertaking in Connection with Small Business Administration 7(a) Pool 
+Certificates – form pertaining to small business loan -backed securities.  
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Form%20of%20Undertakin
+g%20in%20Connection%20with%20Small%20Business%20Administration%207(a)%20
+Pool%20Certificates.pdf. 
+ 
+Guidance for Accounting Firms in Determining TALF Collateral Eligibility for Non-Mortgage-
+Backed ABS  – the Federal Reserve Bank of New York document setting forth guidance for 
+accounting firms  on determining collateral eligibility for non -mortgage-backed ABS .  
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Guidance%20for%20Accou
+303
+TALF Rhee
+
+--- Page 26 ---
+nting%20Firms%20in%20Determining%20TALF%20Collateral%20Eligibility%20for%20
+Non-Mortgage-Backed%20ABS%20.pdf. 
+ 
+ 
+Legal/Regulatory Guidance 
+Extensions of Credit by Federal Reserve Banks (Federal Reserve 2009a)  – rule in the Federal 
+Reserve Act amending Regulation A to provide a process by which the Federal Reserve Bank of 
+New York may determine the eligibility of credit rating agencies in the Term Asset -Backed 
+Securities Loan Facility. 
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Board%20of%20Governors
+%20of%20the%20Federal%20Reserve%20System%20(Federal%20Reserve).%202009a.
+%20Regulation%20A-
+%20Extensions%20of%20Credit%20by%20Federal%20Reserve%20Banks%20(12%20C.
+F.R.%20Part%20201).%20Federal%20Register%2074,%20no.%20235%20(December).%
+20.pdf. 
+Press Releases/Announcements 
+Term Asset -Backed Securities Loan Facility: Announcements  – a comprehensive list of the 
+Fed and FRBNY announcements relating to TALF.  
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Term%20Asset-
+Backed%20Securities%20Loan%20Facility-%20Announcements.pdf. 
+Media Stories 
+US Stock Futures Advance on Fresh Fed Plan (November 25, 2008) – article reporting that 
+U.S. stock futures pushed higher as the Fed announced TALF.  
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/US%20Stock%20Futures%
+20Advance%20on%20Fresh%20Fed%20Plan%20(November%2025,%202008).pdf.   
+Key Academic Papers 
+The Federal Reserve’s Term Asset -Backed Securities Loan Facility (Ashcraft, Malz,  and 
+Pozsar 2012) – FRBNY Economic Policy Review paper reviewing the TALF and its success.  
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Ashcraft,%20Adam%20and
+%20Malz%20Allan%20and%20Pozsar%20Zoltan%20The%20Federal%20Reserve%20Te
+rm%20Asset%20Backed%20Securities%20Loan%20Facility%202012.pdf. 
+The Asset-Backed Securities Markets, the Crisis, and TALF (Agarwal et al. 2010) – Federal 
+Reserve Bank of Chicago , Economic Perspectives article showing that TALF helped calm the 
+markets and helped restart ABS issuance and reduce credit spreads, thus helping to reestablish 
+a healthy credit supply to the markets.  
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Agarwal,%20Sumit,%20Jac
+queline%20Barrett,%20Crystal%20Cun,%20and%20Mariacristina%20De%20Nardi.%202
+010.%20%E2%80%9CThe%20Asset-
+Backed%20Securities%20Markets,%20the%20Crisis,%20and%20TALF.%E2%80%9D%2
+0Federal%20Reserve%20Bank%20of%20Chicago,%20Economic%20Perspectives%2034,
+%20no.%204.pdf. 
+Two Monetary Policy Tools: Interest Rates and Haircuts (Ashcraft, Gârleanu, and Pedersen 
+2010) – NBER Working Paper No. 16337, finding that a central bank providing loans at modest 
+304
+Journal of Financial Crises Vol. 2 Iss. 3
+
+--- Page 27 ---
+haircuts can be a powerful tool for lowering yields and stimulating economic activity through 
+the study of the introduction of TALF for legacy ABS . 
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/1972house_fincolpenncentr
+al.pdf 
+Securitization Markets and Central Banking: An Evaluation of the Term Asset -Backed 
+Securities Loan Facility  (Campbell et al.  2010) – Federal Reserve Board paper fin ding that 
+TALF lowered interest rate spreads for some categories of asset-backed securities but had little 
+impact on the pricing of individual securities.  
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Campbell_Covitz_Nelson_Pe
+nce_Securitization_and_Markets_and_central_banking_2011.pdf. 
+Reports/Assessments 
+A Preliminary Assessment of the TALF (Dudley 2009)  – remarks by William C. Dudley at the 
+Securities Industry and Financial Markets Association and Pension Real Estate Association's 
+Public-Private Investment Pr ogram Summit in New York City about the operations of TALF . 
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/A%20Preliminary%20Asse
+ssment%20of%20the%20TALF%20(Dudley%202009).pdf. 
+COP May Oversight Report, Reviving Lending to Small Businesses and Families and the 
+Impact of the TALF  (COP 2009) – report looking at the state of lending for small businesses 
+and families, then examining the TALF and finding that there is reason for caution in predicting 
+the ultimate impact of TALF, though the program may have succeeded in improving investor 
+demand for asset-backed securities.  
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/US%20Congressional%20O
+versight%20Panel%20(COP).%202009.,%20Reviving%20Lending%20to%20Small%20Bu
+sinesses%20and%20Families%20and%20the%20Impact%20of%20the%20TALF-
+%20Congressional%20Oversight%20Panel%20May%20Oversight%20Report.%20Washin
+gton,%20DC-%20US%20Government%20Printing%20Office,%20May%207,%202009.pdf. 
+Conference Call of the Federal Open Market Committee on February 7, 2009  – the Federal 
+Open Market Committee consider ed extending the TALF  in a conference call , and three days 
+later, the Fed announce d the program ’s expansion to what could be as much as $1 trillion.   
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Conference%20Call%20of
+%20the%20Federal%20Open%20Market%20Committee%20on%20February%207,%202
+009%20.pdf. 
+Reflections on the TALF and the Federal Reserve ’s Role as Liquidity Provider (Sack 2010) – 
+speech stating that TALF, with the other facilities launched during the financial crisis, 
+suggested that liquidity programs can be quite effective at restoring market functioning and 
+facilitating the flow of credit to households and businesses.  
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Sack,%20Brian%20P.%202
+010.%20%E2%80%9CReflections%20on%20the%20TALF%20and%20the%20Federal%
+20Reserve%E2%80%99s%20Role%20as%20Liquidity%20Provider.%E2%80%9D%20Re
+marks%20delivered%20at%20the%20New%20York%20Association%20for%20Business
+%20Economics,%20New%20York%20City,%20June%209,%202010.pdf. 
+Copyright 2015, 2016, 2020 © Yale University. All rights reserved. To order copies of this 
+material or to receive permission to reprint any or all of this document, please contact the 
+Yale Program for Financial Stability at ypfs@yale.edu. 
+305
+TALF Rhee

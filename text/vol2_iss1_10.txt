@@ -1,0 +1,118 @@
+--- Page 1 ---
+Journal of Financial Crises Journal of Financial Crises 
+Volume 2 Issue 1 
+2020 
+Lessons Learned: James (Jim) Millstein Lessons Learned: James (Jim) Millstein 
+Alec Buchholtz 
+Yale School of Management 
+Rosalind Z. Wiggins 
+Yale School of Management 
+Follow this and additional works at: https://elischolar.library.yale.edu/journal-of-financial-crises 
+ Part of the Economic History Commons, Economic Policy Commons, Finance Commons, Policy 
+History, Theory, and Methods Commons, and the Public Affairs Commons 
+Recommended Citation Recommended Citation 
+Buchholtz, Alec and Wiggins, Rosalind Z. (2020) "Lessons Learned: James (Jim) Millstein," Journal of 
+Financial Crises: Vol. 2 : Iss. 1, 146-147. 
+DOI: https://doi.org/10.17132/2693-3179.1058 
+Available at: https://elischolar.library.yale.edu/journal-of-financial-crises/vol2/iss1/10 
+This Lessons Learned is brought to you for free and open access by the Journal of Financial Crises and 
+EliScholar – A Digital Platform for Scholarly Publishing at Yale. For more information, please contact 
+journalfinancialcrises@yale.edu.
+
+--- Page 2 ---
+READERS TAKE NOTICE: READERS TAKE NOTICE: 
+As of April 2024, the YPFS Resource Library’s site domain has changed 
+to https://elischolar.library.yale.edu/ypfs-financial-crisis-resource-library/. 
+Please be aware that upon clicking any of the URL references to 
+the former Resource Library domains, either https://ypfs.som.yale.edu 
+or https://ypfsresourcelibrary.blob.core.windows.net/, in the 
+"References/Key Program Documents" section of a case study, 
+readers will encounter a "page not found" error. readers will encounter a "page not found" error. 
+Readers can still retrieve a given resource cited within this case study 
+on the new site  by searching by searching here  for the title cited. for the title cited. 
+This lessons learned is available in Journal of Financial Crises: https://elischolar.library.yale.edu/journal-of-financial-
+crises/vol2/iss1/10
+
+--- Page 3 ---
+Yale Program on Financial Stability 
+Lessons Learned 
+ 
+James (Jim) Millstein 
+By Alec Buchholtz and Rosalind Z. Wiggins 
+ 
+Millstein, who was the Chief Restructuring Officer, U.S. Department of the Treasury, during the 
+Global Financial Crisis and instrumental in the rescue of American International Group, gives 
+us his take on how best to prepare for future crises.1 
+Rescuing very large, complex organizations requires financial expertise to manage , 
+even they may not have a good handle on all their systems and accounts across the 
+entire organization, but that information is critical to knowing how much support they 
+may need to survive.  
+ 
+With a financial institution, it is really all about liquidity ri sk management. AIG was not the 
+only financial institution to have been naïve about the rollover risk and refinancing risk they 
+faced. Going into the financial crisis, an investment grade company like AIG or the other 
+investment grade companies that had very, very high credit ratings (single-A, double-A), had 
+a lot of access to the capital markets. So they had gotten used to managing their liquidity on 
+a decentralized basis. When the crisis hit and all of the interbank lending and other funding 
+markets (the commercial paper market, the repo market, and the securities lending market) 
+dried up and their loans were coming due, nobody wanted exposure to anybody else, so AIG 
+faced a liquidity crisis and there was nobody there to refinance them. So they turned to t he 
+Fed as the lender of last resort. But when the Fed asked them in early September, “How much 
+cash do you need to meet your maturing liabilities? ” They had no idea because they hadn't 
+managed their liquidity in that fashion. They didn't have a detailed fo rward forecast of 
+maturing liabilities on a consolidated basis, firm -wide, globally. They had to go calculate 
+estimates and as it turns out, even when the Fed added a huge margin in order to avoid 
+having to do it again, it turned out that it was not enough. 
+Haircuts may sound like a good thing during a crisis, but for several reasons they may, 
+in fact, backfire and increase the government’s total spend.  
+ 
+Credit ratings are critical for the revitalization of a struggling firm. Asking for a haircut from 
+a bondholder or other counterparty could severely hurt the firm that you are trying to 
+support because it could negatively affect the firm’s credit rating. Credit rating agencies deal 
+with distressed exchange offers —assistance that comes at a discounted valu e from the par 
+value of a security—by assigning a rating of “D” for default to the company in question, which 
+can result in massive collateral calls and potential illiquidity of the already weak firm. For 
+example, if the Treasury had done this out of AIG’s Financial Products subsidiary as we were 
+ 
+1 Lessons Learned are distilled from interviews with the principal conducted by YPFS.  
+146
+
+--- Page 4 ---
+being urged to do, it would have resulted in an immediate downgrade of the subsidiary’s 
+rating to this temporary default rating and potentially of the parent company's credit rating. 
+The c redit rating downgrade also would have triggered a massive collateral call, which 
+would have forced us to put more “good money” in to the firm after what then would have 
+proven to be “bad money” because of th e credit rating downgrade. Also , what principle 
+should the government have applied to determine which counterparties to demand 
+discounts from?  
+Haircuts can also impair the government’s efforts in a crisis because one or another 
+government authority is often on both sides of a deal.  If AIG had insisted o n haircuts, the 
+counterparty firms that did not receive the full benefit of CDS or insurance contracts might 
+have been at risk of their credit ratings being downgraded. The consequences of such a 
+situation might have caused the firms to seek government ass istance, especially in a crisis 
+when liquidity is scarce.  
+Another major issue is that as soon as there is any hint of insolvency, financing becomes 
+extremely tricky and the systemic risk becomes a major concern. Depositors, investors, and 
+short-term creditors tend to run at the first sign of insolvency, since there is no incentive to 
+hang around and find out what happens next. Haircuts signal that, even with government 
+assistance, the weak firm is not able to pay its bills as they become due. Because of th e 
+interconnectedness of the major financial institutions, any potential insolvency of one 
+institution creates the risk of spillover onto another and the potential that the government’s 
+total assistance may increase. Thus, while they may seem attractive, discounts during a crisis 
+may lead to a series of negative consequences and an increase in the government’s total 
+spend. 
+Many policymakers lack an understanding of financially complex situations. 
+ 
+Many policymakers and people outside the government believe w e could have received 
+discounts from individual institutions when conducting interventions using taxpayer money, 
+however, discounts can’t be asked for off the cuff. There exists a financial structure to the 
+way government interventions are implemented that most policymakers don’t understand, 
+especially how federal assistance can affect a company’s credit rating and thus, affect its 
+ability to secure future financing from market sources. Regulators should be prepared to 
+explain in depth and b e patient with policymakers who lack the knowledge needed to 
+understand balance sheets, the idea of leverage, and how bailouts affect these factors. 
+ 
+_____________________________________ 
+YPFS Lessons Learned No: 2019-09 
+147
+Journal of Financial Crises Vol. 2 Iss. 1

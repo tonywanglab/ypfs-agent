@@ -1,0 +1,70 @@
+## Yale Program on Financial Stability Lessons Learned 
+
+## Jesper Berg 
+
+## By Maryann Haggerty 
+
+_The career of Jesper Berg, a Danish economist, has spanned multiple financial crises. He held positions with the Danish central bank, Danmarks Nationalbank, from 2004 to 2010, first as head of market operations and later as head of financial stability. He had served as head of the capital markets and financial structure division at the European Central Bank from 2000 to 2004, and earlier he was an economist at the International Monetary Fund’s Exchange and Trade Relations Department. This Lessons Learned summary is based on an interview with Berg in December 2022, when he was director general of the Danish Financial Supervisory Authority; the full transcript may be accessed here._ 
+
+## **Central banks have to focus on the details of liquidity: an overreliance on foreign liquidity can expose the financial system to a sudden credit crunch and global contagion.** 
+
+In the years leading up to the 2007–09 Global Financial Crisis (GFC), the Danish financial system increasingly relied on funding from abroad, Berg recalled. 
+
+It was clearly, in hindsight, a mistake that there was not sufficient focus on the potential funding issues of relying so much on foreign supplies of liquidity, including for banks, which were at a size where they, in retrospect, had difficulties in getting liquidity during a financial crisis. 
+
+When the US financial system faltered in 2008, that contagion transmitted to Denmark. Berg said, 
+
+The big US investment banks and other banks [that] had access to the Federal Reserve decided to stop providing liquidity from their facilities at the Fed to the rest of the world. These were the banks which were the heart of the financial system . . . pumping liquidity across the globe. . . . When they stopped making liquidity available, the whole blood circulation in the international financial system stopped. For a country where there was substantial international borrowing to finance lending, that was a disaster. 
+
+Denmark had about $20 billion in US dollar reserves before the crisis, Berg said. There was a belief that reserves did not need to be higher, in part because the country had access to swap lines with the European Central Bank, and in part because Denmark could issue US commercial paper to easily get dollars. 
+
+However, the US commercial paper market dried up after [the collapse of the US investment bank] Lehman [Brothers]. Our foreign exchange reserves dropped from what was the equivalent of 160 billion Danish krone to around [DKK] 100 [billion]. We thought that if we went below [DKK] 100 [billion], we would send a signal to the market that we really had serious problems. Then we looked at the pension funds. 
+
+
+The pension funds had substantial holdings of German bonds, and, basically, we issued Danish krone bonds for them and got the German bonds, which we used to prop up the foreign exchange reserves. Since then, we’ve operated with a much higher target for foreign exchange reserve. But it was really an awful surprise to discover that financial markets were completely dead and that even we, a triple-A borrower, could not issue commercial paper. That was a lesson to be learned. . . . 
+
+The lesson you can take away is that there are times when financial markets dry up completely, and where even if you have a triple-A rating, you can’t get anybody to invest, even in short-term paper. 
+
+## **If you have to simplify financial stability, consider these five lessons for bankers, supervisors, and others.** 
+
+Based on his experiences through several financial crises, Berg distilled a list of lessons he said bankers, supervisors, and others with roles in the financial system need to remember from one era to the next: 
+
+I think that lesson number one, have as high capital requirements as you can get away with. [The] Basel II [global regulatory framework] was a disaster. I’m not making the argument that banks should tomorrow build extremely high capital, and they should go out on the markets. I’m making the argument that as banks make money, they should set aside money for capital, and it should grow to a much higher level than 8% of risk-weighted assets. 
+
+Lesson number two, manage your liquidity better. Do not get into a situation where you are so dependent on international markets. Have liquidity buffers. 
+
+Lesson number three. Forward-looking provisions are really, really good, because they create an extra buffer on top of capital. 
+
+Lesson number four, you can do write-downs of bank debt, and you should, because what’s really important in terms of financial stability is customers’ access to funding, access to their money come Monday morning—and not all of the money. 
+
+Lesson number five, do not do forbearance, but do act quickly and at an early stage in terms of sorting out bank problems. Try to get mergers with a sound bank at a very early stage instead of when capital is depleted. 
+
+## **The more prepared policymakers, the government, the banks, and the economy are, the better the country will be able to withstand a crisis.** 
+
+Beginning with the Nordic crisis of the 1990s, Berg discussed how preparedness can make a huge difference in a country’s experience during a crisis: 
+
+In the early ’90s, you had a Scandinavian banking crisis, which was quite a significant event. Denmark did a lot better than Sweden, Norway, and Finland during that crisis. 
+
+
+Norway nationalized all its big banks. Sweden nationalized one of its biggest [banks] and provided a blanket guarantee. Denmark avoided that and only had a midsize bank and a few others that failed. One reason we did better was that we, at that time, had very elevated capital requirements. We almost had the equivalent of an 8% leverage ratio. On top of that, we had forward-looking provisions. The problem during the [Global] Financial Crisis, where we did much worse than the other Nordic countries, was that we had converted to Basel II and lowered capital requirements significantly. We also implemented international accounting standards, where you did not do forward-looking provisions. We were a sitting duck when the crisis hit. We’ve learned from that since then. Eight percent risk-weighted capital is not enough, when you go from a “going” to a “gone” concern during a crisis. 
+
+In the years after the GFC, Denmark took steps to enhance the functioning of its banks and improve stability. Notably, explained Berg, it introduced “more intrusive supervision”: 
+
+We’ve gone from being very much a check-the-boxes supervisor, legal checks like the [Securities and Exchange Commission], to being a more risk-based supervisor that allocates our resources to where we think risks are. We are very intrusive in terms of how we do things. . . . We have very close supervision of the [systemically important financial institutions], the largest financial institutions. We implement the full package of Basel and of [European Union] legislation. 
+
+We are the only country in Europe that has also added [total loss-absorbing capacity] buffers to the small banks. We’ve used whatever opportunity we had opportunistically to increase capital. 
+
+The changes that Denmark has made to stabilize its banks since the GFC were mirrored in its fiscal and economic position. When the COVID-19 pandemic hit in 2020, it was a shock to the system, Berg said. But Denmark wasn’t the worst. “In terms of the general handling of COVID, we did reasonably well,” he added. And from that, Berg drew one more lesson: 
+
+The COVID crisis was the first time where . . . macro fundamentals, the fiscal position, and Danish financial system were incredibly strong. We had not had that combination since 1970. That helped us through the COVID crisis and has helped us through Ukraine in a way, which I think is really a lesson to be learned. When you are first in a crisis, there are few things you can do. The key thing is to be in a good position before you enter a crisis. 
+
+. . . 
+
+The lesson of Denmark is also that this time around we’ve done much better, because we were in a position of strength in terms of the financial system, in terms of public finances, in terms of the macro economy. We have an unemployment rate of 3% right now. We have banks with solvency ratios of about 20. We have a strong fiscal position. We have a current account surplus of 8 to 10% of GDP. Obviously, all countries can’t have that. But playing from a position of strength is really a key lesson. Also, in terms of banks, [it’s important] that banks are in a position where they do not need to worry 
+
+
+about their capital position when they lend. We had a credit crunch during the financial crisis. This time we haven’t seen anything like a credit crunch. 
+
+Dated: April 2025 
+
+YPFS Lessons Learned No. 2022–24

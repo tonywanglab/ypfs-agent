@@ -1,0 +1,577 @@
+--- Page 1 ---
+Journal of Financial Crises Journal of Financial Crises 
+Volume 3 Issue 3 
+2021 
+Turkey Saving Deposit Insurance Fund Bank Recapitalization Turkey Saving Deposit Insurance Fund Bank Recapitalization 
+(2000–2001) (2000–2001) 
+Natalie Leonard 
+Yale School of Management 
+Follow this and additional works at: https://elischolar.library.yale.edu/journal-of-financial-crises 
+ Part of the Economic History Commons, Economic Policy Commons, Finance Commons, Policy 
+Design, Analysis, and Evaluation Commons, and the Public Policy Commons 
+Recommended Citation Recommended Citation 
+Leonard, Natalie (2021) "Turkey Saving Deposit Insurance Fund Bank Recapitalization (2000–2001)," 
+Journal of Financial Crises: Vol. 3 : Iss. 3, 705-719. 
+DOI: https://doi.org/10.17132/2693-3179.1199 
+Available at: https://elischolar.library.yale.edu/journal-of-financial-crises/vol3/iss3/31 
+This Case Study is brought to you for free and open access by the Journal of Financial Crises and 
+EliScholar – A Digital Platform for Scholarly Publishing at Yale. For more information, please contact 
+journalfinancialcrises@yale.edu.
+
+--- Page 2 ---
+READERS TAKE NOTICE: READERS TAKE NOTICE: 
+As of April 2024, the YPFS Resource Library’s site domain has changed 
+to https://elischolar.library.yale.edu/ypfs-financial-crisis-resource-library/. 
+Please be aware that upon clicking any of the URL references to 
+the former Resource Library domains, either https://ypfs.som.yale.edu 
+or https://ypfsresourcelibrary.blob.core.windows.net/, in the 
+"References/Key Program Documents" section of a case study, 
+readers will encounter a "page not found" error. readers will encounter a "page not found" error. 
+Readers can still retrieve a given resource cited within this case study 
+on the new site  by searching by searching here  for the title cited. for the title cited. 
+This case study is available in Journal of Financial Crises: https://elischolar.library.yale.edu/journal-of-financial-
+crises/vol3/iss3/31
+
+--- Page 3 ---
+Turkey Saving Deposit Insurance Fund Bank 
+Recapitalization (2000–2001)1 
+Natalie Leonard2 
+Yale Program on Financial Stability Case Study 
+November 12, 2021 
+Abstract 
+Throughout the 1990s, Turkey’s macroeconomy featured high and fluctuating inflation and 
+oscillating GDP growth rates. After Turkey’s April 1999 elections, Turkey adopted a new 
+economic program in coordination with the I nternational Monetary Fund (IMF) with three 
+goals: fiscal adjustment, structural reform, and an exchange rate commitment. By the end of 
+the third quarter of 2000, concerns over the pace of structural reform mounted and short -
+term interest rates remained high. The new Banking Regulation and Supervision Agency 
+(BRSA) revealed significant corruption within several small banks taken over by the Saving 
+Deposit Insurance Fund (SDIF) . In November 2000, Demirbank, a private bank that had 
+developed a balance sheet especially concentrated in government debt assets and  
+increasingly acted as a market maker  for those securities , could not meet its overnight 
+obligations; this forced it to sell government debt in the secondary market. Th ese sales put 
+significant pressure on overnight rates and created a negative environment for public ly 
+owned banks. In respons e, the SDIF took over the bank, after having taken over several 
+others. In December 2000, the SDIF injected TL 3.8 quadrillion  ($6.1 billion) of capital into 
+the eight SDIF-controlled banks to recapitalize them at a level of 8% of risk-weighted assets. 
+The capitalization program, depositor guarantee, and the central bank’s successful defense 
+of the lira calmed the crisis in November and December.  
+Keywords: broad -based capital injections , broad-based, capital injections , crawling peg , 
+Demirbank, International Monetary Fund (IMF),  Saving Deposit Insurance Fund (SDIF), 
+Turkey   
+ 
+ 
+ 
+1 This case study is part of the Yale Program on Financial Stability (YPFS) selection of New Bagehot Project 
+modules  considering  broad-based  capital  injection  programs. 
+Cases are available from the Journal of Financial Crises  at https://elischolar.library.yale.edu/journal-of-
+financial-crises/. 
+2 Research Associate, YPFS, Yale School of Management. 
+705
+
+--- Page 4 ---
+At a Glance  
+Throughout the 1990s, Turkey’s 
+macroeconomy featured high and 
+fluctuating inflation and oscillating GDP 
+growth rates (Ekinci 2002). External debt 
+increased from $66 billion in 1994 to 
+$104 billion by the end of 1999  (Ekinci 
+2002).  After Turkey’s April 1999 
+elections, the country adopted a new 
+economic program in coordination with 
+the I nternational Monetary Fund (IMF) , 
+with three goals: fiscal adjustment, 
+structural reform, and an exchange rate  
+commitment (IMF 1999) . The exchange 
+rate commitment entailed a crawling peg 
+regime with a pre -announced exit 
+strategy (Ekinci 2002).3  
+While the economy successfully met 
+depreciation and cost of borrowing 
+targets in 2000, other macroeconomic 
+goals lagged  (Ekinci 2002) . Annual 
+inflation was 39% (higher than the 25% 
+goal), the current account logged a record 
+deficit at 5% of gross national product 
+(GNP), and the government realized only 
+50% of the privatization target  (Ekinci 
+2002). By the end of the third quarter of  
+2000, concerns over the pace of 
+structural reform mounted and short -
+term interest rates remained high (Ekinci 
+2002). The new Banking Regulation and 
+Supervision Agency (BRSA) revealed 
+ 
+3 Specifically, the exchange rate was pegged to a basket ( $1 + DM 1.5 or €0.75) with a gradually declining 
+monthly rate of depreciation for 18 months (Ekinci 2002). The cumulative rate of depreciation was to reach 
+20% by the end of 2000 ; and from July 2001, the basket was to fluctuate within a widening band, reaching 
+22.5% by year-end 2002 (Ekinci 2002).  
+Summary of Key Terms 
+Purpose:  To recapitalize 11 SDIF -controlled private 
+banks to 8% of risk -weighted assets, in response to 
+market turmoil in November 2000. 
+Announcement date   December 6, 2000 
+Operational date December 7, 2000 
+Sunset date n/a 
+Voluntary vs 
+involuntary/timeframe 
+institution 
+Involuntary 
+Program size TL 3.8 quadrillion  
+($6.1 billion) 
+Maximum usage per bank 8% of risk-weighted 
+assets 
+Capital characteristics Floating-rate Treasury 
+securities that paid 
+quarterly coupons 
+linked to CBT repo 
+rate and the average 
+Treasury bill rate 
+Outcomes Calmed markets, 
+reversed capital 
+outflows  
+Key features The SDIF took over 
+management of all  
+re-capitalized banks, 
+resolving all banks by 
+2004   
+Turkey Saving Deposit Insurance Fund Bank 
+Recapitalization (2000–2001) 
+706
+Journal of Financial Crises Vol. 3 Iss. 3
+
+--- Page 5 ---
+significant corruption within several small banks taken over by the Saving Deposit Insurance 
+Fund (SDIF) (Ekinci 2002). 
+Given t he high interest rates on Turkish lira assets, banks had regularly obtained foreign 
+currency from abroad and invest ed in high -yield local debt instruments, exposing 
+themselves to exchange rate and liquidity risks (Kenc, Ibrahim, and Yildirim 2011) . In 
+November 2000, Demirbank , a privat e bank that had  developed a balance sheet 
+concentrated in government debt assets and increasingly acted as a market maker for those 
+securities, could not meet its overnight obligations; this forced it to sell government debt in 
+the secondary market (Ozatay and Sak 2002; Kenc, Ibrahim, and Yildirim 2011). These sales 
+put significant pressure on overnight rates and created a negative environment for public 
+banks (Kenc, Ibrahim, and Yildirim 2011) (See Figure 1). In response, the SDIF took over the 
+bank (CNN.com 2000). 
+Source: Ozatay and Sak 2002. 
+In December 2000, the SDIF injected TL 3.8 quadrillion ($6.1 billion) of capital into the eight 
+SDIF-controlled banks at a level of  8% of their risk-weighted assets (IMF 2001). The SDIF 
+created the capital through the transfer of floating rate Treasury securities to the banks (IMF 
+2001). The treasury notes paid quarterly coupons linked to borrowing costs and foreign 
+exchange-linked bonds (IMF 2001). By December 6, 2000, the SDIF had eleven banks under 
+its control (IMF 2000a).  
+Figure 1:  Weighted average overnight rate, daily data, 1991–2001 
+ 
+707
+Turkey Saving Deposit Insurance Fund Bank Recapitalization Leonard
+
+--- Page 6 ---
+Summary Evaluation 
+By 2004 the SDIF resolved all controlled banks, either through merger or sale  (Saving 
+Deposit Insurance Fund 2004).  
+The capitalization program, depositor guarantee, and the central bank’s successful defense 
+of the lira calmed the crisis in November and December ( Kenc, Ibrahim, and Yildirim 2011; 
+Ozatay and Sak 2002). However, the central bank lost almost 20% of its reserves defending 
+the peg (Ozatay and Sak 2002) . The IMF authorized a Supplemental Reserve Facility on 
+December 21, 2000, to provide an additional $7.5 billion to the central bank (IMF 2000b). 
+Between December 2000 and December 2002, the Turkish government’s total debt owed to 
+multilateral institutions increased from approximately $8 billion to $31 billion. As of 2009, 
+the government still owed $23 billion (Dufour and Orhangazi 2009) (see Figure 2).  
+Figure 2:  Outstanding debt to multilateral institutions (in $ millions) 
+ 
+Source: Dufour and Orhangazi 2009. 
+By February 2001, another currency crisis materialized following a political crisis between 
+the Prime Minister and the President (Ozatay and Sak 2002) . The overnight rate increased 
+to 2,058% on February 19 and 4,019% on February 20 (Ozatay and Sak 2002). By February 
+21, the government could no longer defend the peg and let the lira float (Ozatay and Sak 
+2002). The next day, the lira depreciated from TL 685,000 Liras to the dollar to TL 985,000 
+to the dollar (Ozatay and Sak 2002).  
+Dufour and Orhangazi (2009) argue that the debt burden that Turkey took out in attempting 
+to defend its exchange rate regime and capitalize banks was both unsustainable and a result 
+of IMF pressure. The full guarantee of depositors along with the necessity that the SDIF take 
+708
+Journal of Financial Crises Vol. 3 Iss. 3
+
+--- Page 7 ---
+over any failing bank amounted to a debt nationalization program; the financial debt burden 
+shifted to a sovereign debt burden that lasted for a decade after the program (Dufour and 
+Orhangazi 2009). Kenc, Ibrahim, and Yildirim  (2011) argue that as a res ult of the crisis in 
+2001, the banking sector became more resilient, with high capital adequacy, high 
+profitability, and better risk management.  
+  
+709
+Turkey Saving Deposit Insurance Fund Bank Recapitalization Leonard
+
+--- Page 8 ---
+Turkey Context 2000 - 2001 
+GDP 
+(SAAR, Nominal GDP in LCU converted to 
+USD) 
+$272.91 billion in 2000 
+$205.71 billion in 2001 
+GDP per capita 
+(SAAR, Nominal GDP in LCU converted to 
+USD) 
+$4,337 in 2000 
+$3,143 in 2001 
+Sovereign credit rating (5-year senior debt) 
+ 
+As of Q4 2000: 
+Fitch: BB 
+Moody’s: - 
+S&P: B+ 
+ 
+As of Q4 2001: 
+Fitch: B3 
+Moody’s: B- 
+S&P: B- 
+Size of banking system $85.84 billion in 2000 
+$96.76 billion in 2001 
+Size of banking system as a percentage of 
+GDP 
+31.82% in 2000 
+34.58% in 2001 
+Size of banking system as a percentage of 
+financial system 
+96.51% in 2000 
+96.76% in 2001 
+5-bank concentration of banking system 85.43% in 2000 
+91.28% in 2001 
+Foreign involvement in banking system 35% foreign owned in 1999/2000 
+Government ownership of banking system 33% state owned in 1999/2000 
+Existence of deposit insurance Deposit insurance backed by SDIF 
+Sources: Bloomberg; World Bank Global Financial Development Database; World Bank Deposit 
+Insurance Dataset. 
+710
+Journal of Financial Crises Vol. 3 Iss. 3
+
+--- Page 9 ---
+Key Design Decisions                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
+1. Part of a package: Turkey’s SDIF bank capital injection was part of two capital 
+injection programs to recapitalize private and public banks in response to 
+November and December 2000 market stress. The SDIF transferred 
+nonperforming loans (NPLs) of the participating banks to an asset management 
+unit of the SDIF. The BRSA also issued a temporary, full guarantee of depositors.  
+The Banking Regulation and Supervision Agency (BRSA) announced the recapitalization 
+program on November 16, 2000 (IMF 2000a). A December 18, 2000 IMF Letter of Intent 
+(LoI) further described the program (IMF 2000a). The capital injection to Saving Deposit 
+Insurance Fund ( SDIF) banks was part of two programs designed  to recapitalize SDIF -
+controlled, one for private banks and  one for  state-owned banks (Dufour and Orhangazi 
+2009). The SDIF recapitalized eligible b anks on December 7, 2000 (IMF 2000a) . In the 
+December 18, 2000, LoI, the government also announced the creation of a dedicated Asset 
+Management Unit, in charge of recovering the value of the assets of banks taken over by the 
+SDIF (IMF 2000a). Both injection programs had the goal of calming capital markets, though 
+overnight rates again deteriorated in February in response to a political crisis (Ozatay and 
+Sak 2002). 
+On December 6, 2000, the BRSA and the government announced a temporary, full guarantee 
+of depositors and “other creditors (except deposits by owners, deposits in connection with 
+criminal activities, subordinated debt, and shareholder equity)” (IMF 2000a). The guarantee 
+covered domestic deposit -taking banks , and the SDIF administered the guarantee  in 
+accordance with Bank Act No. 4389 passed in June 1999 (IMF 2000a).  
+2. Legal Authority: Bank Act No. 4389 detailed the authorities of the BRSA and SDIF. 
+The Turkish Parliament passed Bank Act No. 4389  on June 18, 1999, which detailed the 
+SDIF’s and BRSA’s authority  (Turkey 1999). The Bank Act established the BRSA, an entity 
+independent of the Central Bank of Turkey and the Treasury, which became fully operational 
+as of August 2000 (IMF 2000a). Article 14 of the Bank Act endowed the BRSA with the right 
+to dismiss management , appoint new board members, require provisions up to 100 % of 
+deposits, liquidate assets, divest fixed or long-term assets, and take over shares of controlled 
+banks (Turkey 1999, Article 14) . Article 15 of the act specified the duties of the SDIF. In 
+general, the SDIF had authorization to liquidate, merge, and acquire assets of banks for which 
+it had “management and control and privileges of shareholders except dividends” (Turkey 
+1999, Article 14, Section 5[a]). The SDIF had three primary means by which it could execute 
+this authority.  
+First, the SDIF could transfer the assets, organization, personnel, and insured deposits of a 
+controlled bank to a bank that carried ou t banking operations for the BRSA (Turkey 1999, 
+Article 14, Section 5 [aa]). As of September 7, 2001, Bayindirbank served th is function 
+(Saving Deposit Insurance Fund 2004). Second, the SDIF could take over losses not exceeding 
+the value of insured deposits on the condition of owning all of the bank’s equity (Turkey 
+711
+Turkey Saving Deposit Insurance Fund Bank Recapitalization Leonard
+
+--- Page 10 ---
+1999, Article 14, Section 5[ab]). Third, it could take over shares of the bank through payment 
+of the share price to shareholders, as determined “ by deducting the loss fro m paid -up 
+capital” (Turkey 1999, Article 14, Section 5[ac]).  
+The SDIF was able to “borrow [government securities] in extraordinary situations” from the 
+Treasury (Turkey 1999, Artic le 15 ). Provisional Article 4 of the Bank Act authorized the 
+BRSA to determine “principles and procedures” for the sale and transfer of banks shares 
+owned by the SDIF (Turkey 1999, Provisional Article 4). 
+3. Communications: The BRSA announced the recapitalization program. The Official 
+Gazette published details of BRSA decisions relating to SDIF-controlled banks. 
+The BRSA announced the bank recapitalization program on November 16, 2000 (IMF 
+2000a). A December 18, 2000, IMF Letter of Intent described the program (IMF 2000a). 
+Article 14 of Bank Act No. 4389 specified that a  BRSA “decision related to the revocation of 
+license for performing banking activities and ac cepting deposits, or to transfer shares of a 
+bank to the Fund, or to  transfer rights of shareholders except dividends and management 
+and control shall be published in the Official Gazette” (Turkey 1999, Article 14).  
+4. Governance: The BRSA and the SDIF administered the capital injection program. 
+The BRSA and the SDIF administered the capital injection (IMF 2000a). Specifically, the SDIF 
+became, as per the 1999 Bank Act, a legal entity controlled by the BRSA (IMF 2000a). The 
+Bank Act created an Asset Management Unit to recover the value of the assets of banks taken 
+over by the SDIF (IMF 2000a). The BRSA monitored bank balance sheets and income reports 
+to determine insolvency (IMF 2000 a). As of September 2000, the SDIF controlled eight 
+banks; two more were taken over in October and a third on December 6 (IMF 2000a). 
+5. Size of the program: There was no predetermined size. The SDIF injected in total 
+TL 3.8 quadrillion  ($6.1 billion) worth of capital on December 7, 2000. The SDIF 
+borrowed $6.1 billion in domestic and foreign currency from the Treasury to 
+cover the cost of capital.   
+Capital injections came in two phases. The SDIF injected capital into the  eight banks 
+controlled prior to October on December 7, 2000 (IMF 2000a). The SDIF took over three 
+other banks between October and December 2000 (IMF 2000a). The SDIF also injected these 
+banks with additional capital amounting to 8% of their risk-weighted assets (IMF 2000a).   
+The amount of injected capital to all 11 banks totaled TL 3.8 quadrillion ($6.1 billion) (IMF 
+2001). However, at the time, estimates of SDIF bank capital losses from increases in interest 
+rates, securities portfolio losses , and takeovers were significan tly higher (IMF 2001). By 
+April 31, 2001, total public sector debt required to cover losses and NPLs was estimated as 
+high as TL 13.7 quadrillion ($22 billion) (IMF 2001).  
+712
+Journal of Financial Crises Vol. 3 Iss. 3
+
+--- Page 11 ---
+The SDIF borrowed $6.1 billion from the Treasury on November 16 in foreign currency  and 
+TL with a two -year grace period and repayment over the subsequent 10 years to cover the 
+cost of capital injected in these eight banks (IMF 2000a).   
+6. Eligible institutions: The 11 banks taken over by the SDIF by December 6, 2000 , 
+receiving capital injections were eligible for the program. 
+The eight SDIF-controlled banks prior to October 2000  and the three banks taken over in 
+October and December 2000 were injected with capital (IMF 2000a). The SDIF recapitalized 
+the eight banks controlled prior to October 2000 on December 6, 2000 and recapitalized the 
+three banks taken over in October and December 2000 in subsequent months (IMF 2000a). 
+Figure 3:  Partial list of banks taken over by the SDIF, 1999–2001  
+ 
+Source: Ozatay and Sak 2002. 
+As of November 16, 2000, the SDIF had 10 banks under its control (IMF 2000a). The SDIF 
+also financially restructured and resolved t he two banks taken over in October 2000 and 
+Demirbank, though on a delayed timetable (IMF 2000a). Demirbank was eventually acquired 
+by HSBC in 2001 (Dufour and Orhangazi 2009). 
+7. Individual participation limits: The SDIF recapitalized eligible banks up to 8% of 
+risk-weighted assets.  
+The SDIF recapitalized eligible banks through a transfer of government securities to a level 
+of at least 8% of risk weighted assets (IMF 2000a). 
+713
+Turkey Saving Deposit Insurance Fund Bank Recapitalization Leonard
+
+--- Page 12 ---
+After the November 2000 market turmoil, overnight rates again peaked in February 
+following a political crisis (Ozatay and Sak 2002). The SDIF took over more banks between 
+February and November 2001 (Ozatay and Sak 2002).  
+8. Capital characteristics: The SDIF created the capital by transferring floating-rate 
+Treasury securities. 
+The SDIF created the capital through the transfer of floating-rate Treasury securities to the 
+banks (IMF 2001). The Treasury notes paid quarterly coupons linked to borrowing costs and 
+foreign exchange–linked bonds (IMF 2001). Coupons on f loating-rate notes were linked to 
+both the Central Bank of Turkey ( CBT) repo rate and  the average Treasury bill rate (IMF 
+2001). Floating-rate notes were preferable  given the tight monetary conditions, severe 
+interest rate shocks, and bank exposure to interest rate risk (IMF 2001). Losses were written 
+off against capital thereby created (IMF 2000a). Loan-loss provisions were tax deductible to 
+facilitate proper provisioning (IMF 2001). 
+By the end of March 2001, estimated losses in market value of Treasury securities held by 
+SDIF banks and recapitalization notes issued in December 2000 totaled TL 2.5 quadrillion  
+($1.1 billion) (IMF 2001). 
+9. Shareholder dilution: The SDIF had the authority to allocate losses to existing 
+shareholders. 
+The SDIF could take over shares through paymen t to shareholders of a share price 
+determined “by deducting the loss from paid -up capital” (Turkey 1999, Article 14, Section 
+5[ac]). 
+10. Existing board and management: The BRSA had the right to transfer to the SDIF all 
+management and control and privileges of shareholders except dividends. 
+In the event the BRSA determined that a bank was failing to institute a suitable capital 
+restoration plan despite having capital ratios below regulatory minimums, the BRSA could 
+require the bank to skip dividend payments, cease making bonus or similar payments to the 
+Board of Directors, limit nonprofitab le operations, or liquidate inefficient assets (Turkey 
+1999, Article 14–1). If the bank failed to comply with a suitable capital restoration plan, the 
+BRSA could transfer the management and control and privileges of shareholders except 
+dividends to the SDI F (Turkey 1999, Article 14 –1). Additionally, the BRSA had the right to 
+transfer all management and control and privileges of shareholders except dividends of 
+SDIF-controlled banks to the SDIF if shareholders, who directly or indirectly hold the bank’s 
+management or control, used bank’s resources for their own interest, and jeopardized “the 
+secure functioning of the bank” (Turkey 1999, Article 14–1). 
+714
+Journal of Financial Crises Vol. 3 Iss. 3
+
+--- Page 13 ---
+11. Timeframe/exit strategy: The SDIF intended to sell b anks controlled by the SDIF 
+by May 7, 2001. The SDIF did not meet this timeline, though the fund did resolve 
+all controlled banks by 2004. 
+As per Turkey’s December 18, 2000 , Letter of Intent with the  IMF, the SDIF was to select 
+buyers for all banks by May 7, 2001 (IMF 2000 a). Potential buyer s were to submit 
+“expression of interest” letters by Dec ember 15, and the BRSA was to notify investors of 
+approval no later than December 22, 2000 (IMF 2000a).  
+The SDIF sold Bank Ekspres, Demirbank, Sumerbank, Sitebank, and Tarisbank by 2002, 
+while other banks under SDIF control were merged (Saving Deposit Insurance Fund 2004). 
+As of 2004, the SDIF merged or sold  all banks excluding Bayindirbank, which it made a 
+“transition bank to carry out the asset management function ,” and Pamukbank, which the 
+Fund merged with a public bank (Saving Deposit Insurance Fund 2004) . The status of the 
+banks taken over by the SDIF as of 2004 is detailed below in Figure 4. 
+715
+Turkey Saving Deposit Insurance Fund Bank Recapitalization Leonard
+
+--- Page 14 ---
+Figure 4:   Status of banks taken over by SDIF as of 2004 
+Bank Date acquired by SDIF Notes 
+Merged Banks 
+Egebank 12.21.1999  Merged with Sumerbank on 01.26.2001 
+Yurtbank  12.21.1999 Merged with Sumerbank on 01.26.2001 
+Yaşarbank 12.21.1999 Merged with Sumerbank on 01.26.2001 
+Bank Kapital 10.27.2000 Merged with Sumerbank on 01.26.2001 
+Ulusalbank 02.28.2001 Merged with Sumerbank on 04.17.2001 
+Interbank 01.07.1999 Merged with Etibank on 06.15.2001 
+Esbank 12.21.1999 Merged with Etibank on 06.15.2001 
+İktisat Bankası 03.15.2001 
+Banking license revoked on 12.07.2001 and the 
+liquidation process initiated. Later, with the decision 
+taken in the General Assembly on 04.04. 2002, 
+liquidated and merged with Bayindirbank. 
+Kentbank 07.09.2001  
+Banking license revoked on 12.28.2001 and the 
+liquidation process initiated. Later, with the decision 
+taken in the General Assembly on 04.04.2002, 
+liquidated and merged with Bayındırbank. 
+EGS Bank 07.09.2001 Banking license revoked on 01.18.2002 and merged 
+with Bayindirbank as of the same date. 
+Etibank 10.27.2000 
+Banking license revoked on 12.28.2001 and the 
+liquidation process initiated. Later, with the decision 
+taken in the General Assembly on 04.04.2002, 
+liquidated and merged with Bayindirbank. 
+Toprakbank 11.30.2001 Banking license revoked as of 30.09.2002 and 
+merged with Bayindirbank as of the same date. 
+Sold Banks 
+Bank Ekspres 12.12.1998 
+Sold to Tekfen Group on 06.30.2001. Tekfenbank A.Ş. 
+of Bank Ekspres A.Ş. Approved by the BRSA on 
+10.18.2001.  
+Demirbank 12.06.2000 On 09.20.2001, HSBC Bank Plc. and the actual share 
+transfer realized on 10.30.2001. 
+Sumerbank 12.21.1999 
+Sold to Oyak Group on 09.08.2001, and the transfer 
+of S umerbank to Oyakbank A.Ş. registered on 
+11.01.2002.  
+716
+Journal of Financial Crises Vol. 3 Iss. 3
+
+--- Page 15 ---
+Sitebank 07.09.2001 
+Share transfer agreement signed with Novabank SA 
+on 12.20.2001, and the share transfer made on 
+01.25.2002. 
+Tarişbank 07.09.2001 
+Share transfer agreement regarding the transfer to 
+Denizbank A.Ş. signed on 10.21.2002 and the actual 
+share transfer completed as of  10.25.2002. 
+Denizbank A.Ş. and Tarişbank approved by the BRSA 
+on 12.19.2002 and the merger completed on 
+12.27.2002. 
+Banks in the Liquidation Process as of March 2004 
+Türkbank 11.06.1997 
+Dissolution and liquidation of the bank decided a t 
+the extraordinary General Assembly meeting held on 
+08.09.2002, registered in the Trade Registry Office 
+on 14.08.2002, and announced in the Trade Registry 
+Gazette dated 08.19.2002 and numbered 5616. In 
+the extraordinary General Assembly meeting of the 
+bank on 04.09.2003, t he liquidation balance sheet 
+dated 08.14.2002 was approved and new liquidators 
+were appointed. With the decision of the Liquidation 
+Board dated 12.01.2003, all branches were 
+systematically closed, and with the decision dated 
+12.02.2003, it was decided to t erminate the 
+employment contracts of all personnel. 
+Banks whose Management and Supervision Has Been Transferred to the Fund 
+Kıbrıs Kredi 
+Bankası 27.09.2000 Liquidation studies continue. 
+İmar Bankası 03.07.2003 
+The Banking Regulation and Supervision Board's 
+decision dated 07.03.2003 and numbered 1085, 
+pursuant to paragraph (3) of Article 14 of Bank  Act 
+No. 4389, revoked the permission of İmar Bank to 
+conduct banking transactions and to accept deposits, 
+and the management and control of the company has 
+been transferred to the Fund. A lawsuit was filed on 
+02.19.2004 for the bankruptcy of the bank. 
+Banks within the structure of the SDIF 
+Bayindirbank  09.07.2001 Selected as the transition bank to carry out the asset 
+management function. 
+Pamukbank 19.06.2002 
+With the decision of the Board dated 01.31.2003 and 
+numbered 978, and the resolution of the Fund Board 
+of Directors dated 01.31.2003 and numbered 61, the 
+agreement regarding the restructuring of the debts 
+of the Çukurova Group to Pamukbank  and Yap i ve 
+Kredi Bankas i A.Ş. signed in 2003. Two investor 
+717
+Turkey Saving Deposit Insurance Fund Bank Recapitalization Leonard
+
+--- Page 16 ---
+Source: Saving Deposit Insurance Fund 2004. 
+References and Key Program Documents 
+Legal/Regulatory Guidance  
+(Turkey 1999) Turkey. 1999. Banks Act.   
+Legislation adopted by the Parliament of Turkey creating the SDIF and BRSA.  
+https://ypfs.som.yale.edu/library/bank-act-no-4389. 
+Press Releases/Announcements 
+(IMF 1999)  IMF. 1999. “Turkey Letter of Intent, December 9, 1999.”  
+Letter of Intent detailing Turkish structural adjustment program.  
+https://ypfs.som.yale.edu/library/turkey-letter-intent-december-9-1999. 
+(IMF 2000a)  IMF. 2000. “Turkey Letter of Intent, December 18, 2000.”  
+Letter of Intent detailing SDIF takeover of banks in the few preceding months.  
+https://ypfs.som.yale.edu/library/turkey-letter-intent-december-18-2000. 
+(IMF 2000b)  IMF. 2000. “Press Release: IMF Approves Third and Fourth Turkey Reviews 
+and US$7.5 Billion Supplemental Reserve Facility Credit.”   
+Press Release announcing expanded Turkish access to IMF Supplemental Reserve Facility.  
+https://ypfs.som.yale.edu/library/press-release-imf-approves-third-and-fourth-turkey-
+reviews-and-us75-billion-supplemental. 
+Media Stories  
+(Reuters 2000) Reuters. 2000. “Turkey Puts 9th Biggest Bank under Special Supervision.” 
+Reuters, December 6,  2000.  
+Story about the SDIF takeover of Demirbank.  
+https://ypfs.som.yale.edu/library/turkey-puts-9th-biggest-bank-under-special-
+supervision. 
+Key Academic Papers  
+(Dufour and Orhangazi 2009) Dufour, Mathieu, and Özgür Orhangazi. 2009. “The 2000–2001 
+Financial Crisis in Turkey: A Crisis for Whom?” Review of Political Economy 21 (1): 101–22.  
+groups submitted proposals to the bank, whose sales 
+process was restarted . These proposals were found 
+insufficient by the SDIF Board of Directors on 
+12.29.2003, and studies were initiated to eval uate 
+the resolution of the bank by merging it with a public 
+bank.  
+718
+Journal of Financial Crises Vol. 3 Iss. 3
+
+--- Page 17 ---
+Academic Paper analyzing effects of 2000-2001 crisis on international capital flows and labor. 
+https://ypfs.som.yale.edu/library/2000-2001-financial-crisis-turkey-crisis-whom. 
+(Ekinci 2002) Ekinci, Nazım Kadri. 2002. “Anatomy of the Recent Crisis in Turkey.” Journal 
+of Economic Cooperation, 20.   
+Academic paper summarizing the 2000-2001 crisis.  
+https://ypfs.som.yale.edu/library/anatomy-recent-crisis-turkey. 
+(Kenc, Ibrahim, and Yildirim 2011) Kenc, Turalay, Mustafa Ibrahim, and Onur Yildirim. 2011. 
+“The Experience with Macro -Prudential Policies of the Central Bank of the Republic of 
+Turkey in Response to the Global Financial Crisis,” October.   
+Academic paper providing overview of developments in the banking sector  from 2001-2010.  
+https://ypfs.som.yale.edu/library/experience-macro-prudential-policies-central-bank-
+republic-turkey-response-global-financial. 
+(Ozatay and Sak 2002) Ozatay, Fatih, and  Güven Sak. 2002. “Banking Sector Fragility and 
+Turkey’s 2000 -01 Financial Crisis.” Brookings Trade Forum  2002 (January).   
+Academic paper summarizing the crisis  focusing on exchange and overnight rates.  
+https://ypfs.som.yale.edu/library/banking-sector-fragility-and-turkeys-2000-01-financial-
+crisis 
+Reports/Assessments 
+(IMF 2001)  IMF. 2001. Turkey: Sixth and Seventh Reviews Under the Stand -By 
+Arrangement; Staff Supplement; and Press Release on the Executive Board Discussion. 
+International  Monetary Fund.   
+2001 IMF Staff Report on Turkish economic development policies.  
+https://ypfs.som.yale.edu/library/turkey-sixth-and-seventh-reviews-under-stand-
+arrangement-staff-supplement-and-press-release. 
+(Saving Deposit Insurance Fund 2004) Saving Deposit Insurance Fund. 2004. “ Faaliyet 
+Raporu [Activity Report],” March 2004.   
+Quarterly repor t published by the SDIF specifing SDIF exit strategy.  
+https://ypfs.som.yale.edu/library/quarterly-activity-report. 
+Copyright 2021 © Yale University. All rights reserved. To order copies of this material or to receive 
+permission to reprint any or all of this document, please contact the Yale Program on Financial 
+Stability at ypfs@yale.edu.  
+ 
+719
+Turkey Saving Deposit Insurance Fund Bank Recapitalization Leonard

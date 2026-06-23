@@ -1,0 +1,820 @@
+--- Page 1 ---
+Journal of Financial Crises Journal of Financial Crises 
+Volume 6 Issue 3 
+2024 
+Netherlands: SNS Reaal Capital Injection, 2013 Netherlands: SNS Reaal Capital Injection, 2013 
+Ayodeji George 
+Yale School of Management 
+Follow this and additional works at: https://elischolar.library.yale.edu/journal-of-financial-crises 
+ Part of the Banking and Finance Law Commons, Economic History Commons, Finance Commons, 
+Policy Design, Analysis, and Evaluation Commons, Policy History, Theory, and Methods Commons, Public 
+Administration Commons, and the Public Economics Commons 
+Recommended Citation Recommended Citation 
+George, Ayodeji (2024) "Netherlands: SNS Reaal Capital Injection, 2013," Journal of Financial Crises: Vol. 6 
+: Iss. 3, 374-396. 
+DOI: https://doi.org/10.17132/2693-3179.1585 
+Available at: https://elischolar.library.yale.edu/journal-of-financial-crises/vol6/iss3/17 
+This Case Study is brought to you for free and open access by the Journal of Financial Crises and 
+EliScholar – A Digital Platform for Scholarly Publishing at Yale. For more information, please contact 
+journalfinancialcrises@yale.edu.
+
+--- Page 2 ---
+READERS TAKE NOTICE: READERS TAKE NOTICE: 
+As of April 2024, the YPFS Resource Library’s site domain has changed 
+to https://elischolar.library.yale.edu/ypfs-financial-crisis-resource-library/. 
+Please be aware that upon clicking any of the URL references to 
+the former Resource Library domains, either https://ypfs.som.yale.edu 
+or https://ypfsresourcelibrary.blob.core.windows.net/, in the 
+"References/Key Program Documents" section of a case study, 
+readers will encounter a "page not found" error. readers will encounter a "page not found" error. 
+Readers can still retrieve a given resource cited within this case study 
+on the new site  by searching by searching here  for the title cited. for the title cited. 
+This case study is available in Journal of Financial Crises: https://elischolar.library.yale.edu/journal-of-financial-
+crises/vol6/iss3/17
+
+--- Page 3 ---
+Netherlands: SNS Reaal Capital Injection, 20131 
+Ayodeji George2 
+Yale Program on Financial Stability Case Study 
+October 4, 2024 
+Abstract 
+The property finance division of SNS Reaal  N.V., a financial conglomerate compris ing SNS 
+Bank, the fourth -largest Dutch bank, and Reaal Insurance, the second -largest Dutch life 
+insurer, was heavily exposed to losses in the real estate sector from 2008 to 2010. In January 
+2013, a growing bank run and the revelation of substantial losses forced the government to 
+intervene. The Minister of Finance rejected proposals from the bank and a private equity 
+firm, and nationalized SNS Reaal on February 1, 2013. Upon nationalizing the firm, the Dutch 
+state injected EUR 2.2 billion into the firm in the form of ordinary shares, with EUR 1.9 billion 
+going to SNS Bank and EUR 300 million going to the overarching holding company. Existing 
+shareholders and most subordinated debt holders of the firm lost their entire investment . 
+NL Financial Investments (NLFI) exercised the shareholder rights associated with the 
+injected capital. NLFI remains the sole shareholder of the banking division, renamed De 
+Volksbank in 2017. 
+Keywords: capital injection, eurozone, Netherlands  
+  
+ 
+1 This case study is part of a Yale Program on Financial Stability (YPFS) selection of New Bagehot Project 
+modules considering ad hoc capital injections. A survey of all the cases in this series (Rhee, Hoffner, et al. 2024) 
+and the individual cases underlying it are available from the Journal of Financial Crises  at 
+https://elischolar.library.yale.edu/journal-of-financial-crises/vol6/iss3/. Rhee, Oguri , et al. (2022) surveys 
+broad-based capital injection programs. 
+2 Research Associate, YPFS, Yale School of Management. 
+374
+
+--- Page 4 ---
+Overview 
+This case study describes the ad  hoc capital 
+injection and bail -in measures implemented 
+by the Kingdom of the Netherlands in 2013 in 
+response to the precarious position of SNS 
+Bank, which was a banking subsidiary of SNS 
+Reaal. The accompanying restructuring is 
+detailed in the corresponding resolution and 
+restructuring module, George (2024).  
+SNS Reaal N.V was a Dutch financial 
+conglomerate that included banking 
+subsidiary SNS Bank and insurance 
+subsidiary Reaal Insurance. SNS Property 
+Finance was the real estate portfolio  of SNS 
+Bank (EC 2013a).  
+In 2011, the Dutch National Bank (DNB) 
+identified SNS Bank as one of four 
+systemically important financial institutions 
+subject to heightened supervision policy. In 
+December 2011, the DNB and the Minister of 
+Finance concluded that  there was a strong 
+possibility of a capital shortfall at SNS Bank 
+that could not be solved solely through 
+private means. Therefore, they formed a joint 
+project group to evaluate potential private, 
+private-public, and public intervention 
+options (Minister of Finance 2013a; 
+Netherlands 2013).   
+By January 2013, it had become clear that the 
+situation at SNS Bank regarding the real 
+estate portfolio was urgent. The Supervisory 
+Review and Evaluation Process (SREP), a 
+regular capital adequacy review conducted 
+by the DNB, revealed that the expected real estate portfolio losses ne cessitated twice the 
+amount of core capital the conglomerate had. It experienced a depositor run, its share price 
+collapsed, and it lost access to capital markets (FSB 2014; Minister of Finance 2013a; World 
+Bank 2016). The DNB notified the Minister of Fina nce of SNS Bank’s precarious position on 
+January 24, 2013. They had informed SNS Reaal of the SREP results on January 18 and sent 
+a letter on January 27, 2013, imposing a deadline of January 31 to develop a solution to 
+remedy the capital deficit. The Minis ter of Finance announced the nationalization of the 
+conglomerate on February 1, 2013 (EC 2013a; Minister of Finance 2013a; Netherlands 2013; 
+van Tartwijk 2013).  
+Key Terms 
+Purpose:  The Minister of Finance stated that “in 
+order to safeguard financial stability, I had no 
+option but to nationalize, because SNS Bank would 
+otherwise have gone bankrupt” (Minister of 
+Finance 2013a, 1) 
+Announcement 
+Date 
+February 1, 2013  
+Operational Date February 1, 2013  
+Date of Final 
+Capital Injection 
+Not applicable 
+End Date Not applicable 
+Source of Funding Dutch state funds  
+Administrator NLFI and Minister of Finance  
+Size EUR 2.2 billion  
+Capital 
+Characteristics 
+Ordinary shares with a 
+dividend dependent on 
+future institutional 
+performance  
+Bail-in Terms The government wrote off 
+existing shares, hybrid 
+capital, and subordinated 
+debt of SNS Bank and SNS 
+Reaal; senior creditors and 
+depositors were protected  
+Outcomes EUR 5 billion cost to state 
+and NLFI remains the sole 
+shareholder of the banking 
+services now known as De 
+Volksbank  
+Notable Features Certain subordinated retail 
+creditors received some 
+compensation in 2023  
+375
+Journal of Financial Crises Vol. 6 Iss. 3
+
+--- Page 5 ---
+The nationalization involved the purchase of EUR 2.2 billion in new shares, including EUR 
+1.9 billion in SNS Bank and EUR 300 million in the holding company, SNS Reaal . The 
+government also wrote off the EUR 848 million remaining on the hybrid capital instruments 
+extended to the bank  in 2008  and set aside EUR 0.7 billion for losses on the real estat e 
+portfolio, bringing the total expected cost to the state to EUR 3.7 billion at the time of 
+nationalization. The government expropriated shares, hybrid capital, and subordinated debt 
+to offset the costs of the intervention. The capital injection preceded a restructuring plan 
+intended to isolate the real estate portfolio as a “bad bank”  (Propertize) and divest the 
+insurance subsidiary. When the EC approved the restructuring plan in December 2013, the 
+nominal cost of state measures totaled approximately EUR 5 billion 3. A June 2014 EC 
+recording of transactions stated that the total loss assigned to the capital injection from 
+expropriated securities was EUR 1 billion.  The Minister of Finance announced the state’s 
+intention to transfer shareholding administrati on to NL Financial Investments (NLFI) as 
+soon as possible in the February 1 nationalization announcement. NLFI was a private body 
+that the Minister of Finance created to ensure commercial, nonpolitical governance of 
+nationalized financial institutions. NLF I exercised the shareholder responsibilities of the 
+injected capital starting on December 31, 2013 (EC 2013a; EC 2013b; EC 2014; Minister of 
+Finance 2013a; NLFI 2014). 
+The restructuring plan established December 31, 2017, as the end of the restructuring 
+period. The government sold Propertize to a consortium led by JP Morgan Chase in October 
+2015 for EUR 895.3 million. On September 30, 2015, NLFI renamed the holding compa ny 
+SRH N.V. and announced that its activities were being wound down. The resulting standalone 
+bank rebranded as De Volksbank on January 1, 2018. Though NLFI produces regular reports 
+with strategies for reprivatization, the state remains the sole shareholde r of De Volksbank 
+as of the writing of this case study (De Volksbank n.d.; EC 2013b; NLFI 2015c; NLFI 2015a; 
+NL Times 2016). The timeline of intervention events is shown in Figure 1.  
+Figure 1: Timeline of Events Related to the Rescue of SNS Reaal 
+Date Event  
+2008 Dutch authorities grant EUR 750 million in capital to SNS Reaal in response to the credit crisis.  
+Dec. 2011 Ministry of Finance and Dutch Central Bank (DNB) form a task force to evaluate private, public -
+private, and public options to remedy SNS Reaal’s capital shortfall. 
+Feb. 14, 2012 Dutch Parliament passes the Intervention Act. This could be used to expropriate shares, debt, 
+and hybrid securities. 
+May 2012 Dutch authorities begin evaluating potential options as the financial outlook worsens.  
+July 2012 SNS Reaal leadership informs markets that it is evaluating options with regards to its capital 
+shortfall. 
+Oct. 2012 The Ministry of Finance engages consulting firm Cushman & Wakefield to determine the real 
+economic value of the real estate loan portfolio of SNS Property Finance, identifying a large 
+capital shortfall. 
+ 
+3 This total included the bridge loan provided to SNS Reaal (See Key Design Decision 2, Part of a Package)  
+376
+Netherlands: SNS Reaal Capital Injection George
+
+--- Page 6 ---
+Jan. 27, 2013 DNB demands that SNS Reaal present a workable solution to shore up its capital before January 
+31, 2013. 
+Feb. 1, 2013 The Dutch Minister of Finance sends a letter to Parliament announcing the nationalization of 
+SNS Reaal using public holding company NL Financial Investments (NLFI). EUR 1.9 billion  is 
+injected into SNS Bank and EUR 300 million into the SNS Reaal holding co mpany in the form of 
+ordinary shares. 
+Feb. 22, 2013 European Commission approves Dutch support measures for SNS Reaal and grants the Dutch 
+state six months to submit a restructuring plan. 
+March 4, 2013 Expropriated parties receive confirmation that their compensation will be zero, contributing 
+EUR 1.13 billion directly to capital injection. 
+July 2, 2013 Dutch state submits first version of restructuring plan to European Commission.  
+Aug. 19, 2013 Dutch state officially notifies European Commission of final plan. 
+Dec. 31, 2013 Dutch state formally separates SNS Property Finance into its own “bad bank ,” renaming it 
+“Propertize” and transferring shareholding responsibility to NLFI. 
+Feb. 16, 2015 Reaal Insurance (renamed VIVAT Verzekeringen) sold to Chinese conglomerate Anbang 
+Insurance. 
+Sept. 30, 2015 Dutch state formally splits SNS Bank from SNS Reaal, forming a new holding company called 
+SNS Holding B.V. 
+Sept. 27, 2016 Propertize sold to consortium led by Lone Star and JP Morgan for EUR  895 million; the state 
+guarantee on Propertize bonds is scrapped. EUR 4.1 billion in state guaranteed bonds become 
+liabilities of the state, and Propertize pays the state an equal sum. 
+Dec. 31, 2017 The restructuring period ends. 
+Jan. 1, 2018 The standalone retail bank that resulted from the restructuring is rebranded as “De Volksbank .” 
+Sources: De Volksbank n.d; EC 2013a; EC 2013b; Minister of Finance 2013a; NLFI 2015a; NLFI 2015c .  
+Summary Evaluation 
+The EC concurred with Dutch authorities, assessing that intervention measures (including 
+the capital injection) were compatible with the internal market . The nationalization  and 
+capital injection prevented SNS Reaal from declaring bankruptcy, safeguarding 1.6 million 
+savings accounts and 1 million current accounts. In a 2016 report, Matthias Haentjens of the 
+World Bank estimated that the total value of deposits in SNS Bank amounted to EUR 36.4 
+billion in February 2013, 97% of which was covered by the bank-funded Deposit Guarantee 
+Scheme (EC 2013a; Netherlands 2013; World Bank 2016).  
+The Intervention Act provided the legal right for interested parties to appeal intervention 
+measures to the Council of State within 10 days of the Minister of Finance’s announcement.  
+Many shareholders and bondholders filed complaints about the losses they incurred in the 
+expropriation. On February 25, 2013, the Council of State upheld th e extent of the 
+expropriation but ruled that the Minister of Finance could not expropriate future c laims 
+(Council of State 2013a; Council of State 2013b; Netherlands 2012). 
+In a country report published by the Leiden Law School, Haentjens praised the selection of 
+bail-in measures associated with the capital injection. Under the terms of the Intervention  
+377
+Journal of Financial Crises Vol. 6 Iss. 3
+
+--- Page 7 ---
+Act, the Minister of Finance could have also bailed in senior bondholders. However, this 
+increase in risk would have resulted in bondholders demanding higher interest rates on their 
+bonds and rating agencies  like Fitch reassessing the broader Dutch bankin g sector. Given 
+that senior debt made up 20% of the financing of the Dutch banking sector, authorities 
+reasoned that forcing losses on senior bondholders of SNS Reaal would not have been 
+acceptable for the stability of the Dutch banking sector. A peer review report published by 
+the Financial Stability Board (FSB) made similar mention of the decision to preserve senior 
+bondholders (FSB 2014; Haentjens 2013). 
+The DNB and Dutch Minister of Finance jointly commissioned an evaluation report from 
+independent third parties. This evaluation commission report, published in 2014, states that 
+SNS Reaal’s problems were not adequately handled by the 2008 state aid. The report asserts 
+that authorities should have started positing solutions for SNS Reaal’s issues as early as 
+2009. It also notes that the initial valuation of the real estate portfolio, conducted by Ernst & 
+Young, did not meet EC standards. The valuation conducted by Cushman & Wakefield did 
+meet EC standards and stood up to scrutiny, according to BlackRock. The full extent of losses 
+in the real estate portfolio became apparent only after an independent valuation of the 
+property finance loan portfolio, announced on December 14, 2012 (Evaluation Commission 
+2014).  
+As a whole, the report defends the nationalizatio n decision given the looming threat to 
+financial stability and the lack of viable alternatives. That being said, the report does not 
+evaluate the total costs of the intervention, citing the lack of information available at the time 
+of writing. In terms of recommendations, the report emphasizes governance changes within 
+the DNB and Ministry of Finance, closer coordination with the EC, and legal changes to bring 
+the resolution framework in line with the Bank Recovery and Resolution Directive ( BRRD) 
+and create an explicit legal basis for expropriation and other resolution tools (Evaluation 
+Commission 2014).   
+378
+Netherlands: SNS Reaal Capital Injection George
+
+--- Page 8 ---
+Context: Netherlands, SNS Reaal, 2012–2013 
+Assets EUR 81 billion as of Dec. 31, 2012 
+EUR 75 billion as of Dec. 31, 2013 
+Liabilities EUR 80 billion as of Dec. 31, 2012 
+EUR 72 billion as of Dec. 31, 2013 
+Deposits 
+EUR 44 billion as of Dec. 31, 2012 
+Insured % Unavailable 
+EUR 33 billion as of Dec. 31, 2013 
+Insured % Unavailable 
+Capital Ratio (Tier 1) 6.1% as of Dec. 31, 2012 
+16.6% as of Dec. 31, 2013 
+Nonperforming Loans EUR 2.6 billion as of Dec. 31, 2012 
+EUR 3.7 billion as of Dec. 31, 2013 
+Market Share  10.3% of savings market as of Dec. 31, 2012 
+10.1% of savings market as of Dec. 31, 2013 
+Banking System, % of GDP 132.2% as of Dec. 31, 2012 
+129.1% as of Dec. 31, 2013 
+Sources: Bloomberg; SNS Bank 2014; World Bank Global Financial Development 
+Database; World Bank Deposit Insurance Dataset. 
+379
+Journal of Financial Crises Vol. 6 Iss. 3
+
+--- Page 9 ---
+Key Design Decisions 
+1. Purpose: To prevent the bankruptcy of SNS Reaal, one of four systemically 
+important financial institutions in the Netherlands, the Minister of Finance 
+nationalized and recapitalized the firm on February 1, 2013. 
+The DNB identified SNS Reaal as one of four systemical ly important financial institutions in 
+the Netherlands in 2011. SNS  Bank, the banking division of SNS Reaal, was significantly 
+exposed to the losses suffered in its property finance division. In addition to issues in SNS 
+Property Finance, the conglomerate was also troubled by an issue of double leverage. Double 
+leverage is a situation wherein a holding company lends money to a subsidiary. This being 
+the relationship between SNS Reaal and its subsidiaries, the insurance and banking arms of 
+the company were closely intertwined. If parts were sold off, a portion of the resulting funds 
+would need to be used to redeem loans taken out by the overall holding company, rather 
+than the full amount going toward solving the issues in the real estate portfolio (Minister of 
+Finance 2013a). 
+A run on the bank, lack of access to capital markets, and a share price collapse forced the 
+government to pursue intervention options . In January 2013, the DNB concluded a regular 
+Supervisory Review and Evaluation Process (SREP), which r eviewed the firm’s capital 
+adequacy. It found that in order to absorb the losses from the property finance division, the 
+firm would need to double its capital. On January 18, 2013, the DNB notified SNS Reaal of the 
+SREP results, and on January 27, it gave the firm one more chance to develop a plan to fix the 
+capital deficit, with a January 31 deadline . A solution in which the three other sy stemically 
+important banks participated in the bank or holding company proved impossible without an 
+official guarantee. The individual sale of the insurance subsidiary would not provide enough 
+relief on its own, and a private solution did not materialize for SNS Bank. The final hope was 
+a private equity solution, which proved unviable on January 31, 2013 (EC 2013a; FSB 2014; 
+Minister of Finance 2013a; van Tartwijk 2013; World Bank 2016).   
+On February 1, 2013, the Minister of Finance nationalized SNS Reaal after talks broke down 
+regarding the private  equity proposal . The Minister of Finance reasoned, “Without 
+intervention, SNS Bank would irrevocably go bankrupt  . . . I had no other option but to 
+nationalize SNS Reaal”  (Netherlands 2013, 1) . The activation of the deposit guarantee 
+scheme “would have meant an enormous cost burden for the other banks” (Minister of 
+Finance 2013a, 1) . The nationalization announcement outlined the oth er intervention 
+measures, which included a full recapitalization (Minister of Finance 2013a; Netherlands 
+2013; van Tartwijk 2013).  
+The Dutch state made the decision to inject capital separately into the conglomerate in order 
+to address the issue of double leverage. Specifically, the EUR 300 million injected into the 
+holding company was intended to bring the double leverage ratio below 115%, to help pay 
+for disentanglement costs, and to provide for costs related to other intangible assets and 
+liabilities, such as pension liabilities (EC 2013a). 
+380
+Netherlands: SNS Reaal Capital Injection George
+
+--- Page 10 ---
+2. Part of a Package:  The capital injection supported the nationalization of the 
+company, which also entailed a  EUR 1.1 billion bridge loan for the parent and a 
+debt guarantee for SNS Bank. 
+The Dutch credit crisis of 2008 forced SNS Reaal to request emergency aid from the 
+government. In response, the Ministry of Finance invested EUR 750 million in SNS Reaal in a 
+form of hybrid capital, similar to preferred shares, that it considered eligible for treatment 
+as Core Tier 1 capital under Basel capital rules. But the bank continued to struggle as non -
+performing loans accumulated in its real estate portfolio. At the time of nationalization, SNS 
+Reaal had paid back EUR 185 million, but a penalty charge of 50% on the remaining EUR 565 
+million resulted in a total outstanding balance of EUR 848 million. Authorities wrote off this 
+balance as part of the February 2013 intervention (EC 2013a; Minister of Finance 2013a).  
+The February 2013 capital injection supported the nationalization of the company. Alongside 
+the new capital, the Dutch state also provided a EUR 1.1 billion bridge loan to help secure the 
+short-term funding needs of SNS Reaal. The bridge loan helped the firm fulfill obligations 
+related to medium-term notes and intercompany funding related to the insurance division . 
+The bridge loan instruments had a maturity of less than a year , and SNS Reaal paid a credit 
+spread of 110 bps above either the Euro Interbank Offered Rate (EURIBOR) or the funding 
+rate of the Dutch state, depending on which was higher (EC 2013a; EC 2013b). 
+The capital injection also precluded a substantial restructuring of SNS Reaal, with the goal of 
+isolating the property finance division from the rest of the firm. Upon approving the capital 
+injection on February 22, 2013, the European Commission granted the Dutch state six 
+months to submit a restructuring plan. The Dutch state submitted a final restructuring plan 
+on August 19, 2013 (EC 2013b; Minister of Finance 2013a). The details of the restructuring 
+of SNS Reaal are discussed in greater detail in Key Design Decision 11, Restructuring. 
+3. Legal Authority: The Intervention Act ensured that the Minister of Finance held 
+the right to expropriate securities and the state received approval from the 
+European Commission. 
+The public intervention measures taken for SNS Reaal  were the first use of the Special 
+Measures Financial Enterprises Act ( Intervention Act). The Intervention Act, which was 
+passed on February 14, 2012, with a retroactive effective date of January 20, 2012, granted 
+the Minister of Finance broad powers of nationalization and expropriation in the interest of 
+financial stability (IR Global 2013; Netherlands 2012). A full account of the terms of this act 
+and its significance can be found in Appendix A. 
+The Dutch government also required approval of all measures from the European 
+Commission (EC). The EC approved the nationalization and rescue aid measures on February 
+22, 2013, and gave Dutch authorities six months to submit a restructuring plan. The Minister 
+of Finance submitted the restructuring plan on August 19 , 2013, and the EC approved the 
+plan on December 19, 2013. 
+Section 6 of the Intervention Act outlined the right of expropriated parties to appeal their 
+expropriation to the Council of State. A large  number of parties submitted formal appeals, 
+381
+Journal of Financial Crises Vol. 6 Iss. 3
+
+--- Page 11 ---
+which the council heard on February 15, 2013. Many appeals objected to the use of Cushman 
+& Wakefield’s valuation of Property Finance as the basis for the decision by the Minister of 
+Finance. On February 25, 2013, the council decided in favor of the Minister of Finance, stating 
+that the expropriation was called for given the circumstances (Council of State 2013b; EC 
+2013a; EC 2013b; Netherlands 2012).  
+4. Administration: The Minister of Finance administered the capital injection and 
+transferred the shareholding responsibilities to NL Financial Investments. 
+The Minister of Finance oversaw the administration of the capital injection. The letter sent 
+to parliament concerning the nationalization outlined the state’s intention to transfer the 
+shareholding responsibilities to NL Financial Investments (NLFI). NLFI was an independent 
+entity created by parliament to ensure nonpolitical governance over public stakes in 
+financial institutions. NLFI was led by a board consisting of three members appointed by the 
+Minister of Finance. Board members served four-year terms and could be reappointed by the 
+Minister. Individuals associated with the Dutch government or Dutch financial institutions 
+were not permitted to serve, as per the NLFI’s articles of association.  NLFI handled the day-
+to-day shareholder responsibilities associated with ordinary SNS Reaal shares starting on 
+December 31, 2013 (Minister of Finance 2013a; Netherlands 2012; NLFI 2014; NLFI n.d.). 
+5. Governance: The Minister of Finance received regular updates from NLFI and  
+reported the progress of the intervention to members of the European 
+Commission. 
+The Minister of Finance supplied information to the European Commission to inform the 
+body’s opinion regarding the intervention measures and restructuring. After  becoming 
+responsible for shareholder duties on December 31, 2013, NLFI reported regularly to the 
+Minister of Finance and Parliament (Minister of Finance 2013a; NLFI 2014). 
+6. Communication and Disclosure: The Minister of Finance made a statement saying 
+that the intervention measures were essential to prevent an “unacceptable” 
+bankruptcy. 
+On February 1, 2013, the Minister of Finance sent a letter to parliament and made a 
+statement regarding the nationalization, recapitalization, and further intervention measures 
+given the “unacceptable” alternatives (Minister of Finance 2013a, 1) . On the same day , he 
+issued a statement informing the public of the intervention measures . Dutch authorities 
+communicated closely with EC authorities, resulting in EC approval of the Dutch  measures 
+on February 22, 2013 (EC 2013a; Minister of Finance 2013a; Netherlands 2013).  
+NLFI published annual reports detailing each year’s share management activities (NLFI 
+2014). 
+382
+Netherlands: SNS Reaal Capital Injection George
+
+--- Page 12 ---
+7. Treatment of Creditors and Equity Holders : The government expropriated 
+shareholders and subordinated creditors of SNS Reaal. 
+In the announcement of intervention measures, the Minister of Finance stated that “private 
+parties that have knowingly chosen to finance SNS Reaal and SNS Bank will contribute to the 
+maximum extent that the DNB considers safe with a view to financial stability” (Minister of 
+Finance 2013a, 2) . To that end, the Minister of Finance announced the expropriation of 
+shareholders and subordinated debt holders of SNS Reaal on February 1, 2013. Authorities 
+left senior bondholders unaffected because of the risks of negative impacts on the cost and 
+stability of funding for the rest of the Dutch banking sector. This action was reflected in the 
+decision by Fitch to confirm that the Dutch triple -A credit rating remained unaffected (Dow 
+Jones Global Equities News 2013; FSB 2014; Minister of Finance 2013a). 
+A large number of parties appealed the expropriation to the Dutch Council of State. The 
+Council of State heard the appeals on February 15, 2013, and ruled in favor of the Minister 
+of Finance’s actions on February 25. On March 4, 2 013, Dutch authorities confirmed that 
+expropriated parties would not receive any compensation (Council of State 2013 a; Council 
+of State 2013b; EC 2014; Minister of Finance 2013b). The Minister of Finance stated: 
+the expropriation of the shares in the holding company has served to prevent such an 
+adverse effect on financial stability. However, the expropriation of the shares issued 
+by SNS REAAL automatically implies that the State is also acquiring 100% ownership 
+of all subsidiaries of SNS REAAL, not only of SNS Bank, but also of the entire insurance 
+arm, REAAL (Minister of Finance 2013a, 7). 
+The Minister of Finance expropriated the shareholders and subordinated creditors of SNS 
+Reaal N.V  and SNS Bank. As a result, these private parties lost their total investment, 
+estimated at the time to be EUR 1 billion. The Minister of Finance had the power to do this 
+because of the Intervention Act. The aggregate value of the expropriated securities exceeded 
+the Minister of Finance’s January estimate, totaling EUR 1.84 billion in June 2014. A June 
+2014 EC recording of transactions stated that the total loss assigned to the capital injection 
+from expropriated securities was 1.13 billion. The remaining 1.07 billion was recorded as an 
+acquisition of equity by the government, with no impact on the government deficit (EC 2014; 
+Minister of Finance 2013b; Netherlands 2012; Netherlands 2013).  
+Included in the expropriated securities were third series participat ion certificates with SNS 
+Bank totaling EUR 57 million. The Minister of Finance requested an investigation into  
+potential irregularities related to  the sale of the certificates to retail clients. Following this 
+investigation, SNS Bank made a proposal to th e clients in question on July 11, 2013, which 
+97% accepted, resulting in payouts over the course of the year totaling EUR 51.3 million (EC 
+2013a; SNS Bank 2014).   
+On February 11, 2021, a Dutch court ruled that the Dutch state needed to provide 
+compensation to certain subordinated creditors whose claims were expropriated.  This 
+group expanded eligible candidates from the original holders of participation certificates 
+who received compensation in 2013, based on the rationale that these claims had a value 
+383
+Journal of Financial Crises Vol. 6 Iss. 3
+
+--- Page 13 ---
+higher than zero. The Dutch Supreme Court ratified the decision on April 21, 2023, and the 
+Dutch state commenced a compensation scheme. The state was required to pay an overall 
+sum of EUR 805 million ; the compensation breakdown is detailed in Appendix C  
+(Netherlands n.d.a; Netherlands n.d.b).  
+8. Capital Characteristics: The capital came in the form of ordinary shares, with the 
+payment of a dividend being contingent on institutional performance. 
+The capital injection came in the form of ordinary shares, with  NLFI exercising all 
+shareholder duties from December 31, 2013, onward. This differed from the hybrid Core Tier 
+1 capital securities injected into SNS Reaal in 2008, which the government wrote off as part 
+of the restructuring. In the original letter to parliament, the Minister of Finance indicated the 
+possibility that the state may not receive a dividend on the injected capital. He stated that 
+any dividend payouts would be dependent on the performance of the firm. NLFI has not 
+reported the payment of any di vidends (EC 2013a; EC 2013 b; Minister of Finance 2013a; 
+NLFI 2014; NLFI 2015a).  
+9. Size and Source  of Funding : The Dutch government ultimately injected EUR 5 
+billion into SNS Reaal as it restructured the conglomerate. 
+At the time of the nationalization, the DNB developed measures to stabilize SNS Bank at a 
+total cost of EUR 3.7 billion. Of this total, the Dutch government used EUR 2.2 billion towards 
+the capital injection. The capital injection broke down into EUR 1.9 billion for SNS Bank and 
+EUR 300 million for the overarching holding company SNS Reaal. The government also used 
+0.8 billion to write off the previous capital aid provided to SNS Reaal in 2008. The remaining 
+0.7 billion went toward the isolation of the real estate portfolio in a separate entity k nown 
+as Propertize . The government used EUR 0.5 billion to further capitalize Propertize  and 
+spent EUR 2.7 billion to acquire SNS Bank from SNS Reaal in 2015. The total capitalization 
+cost of the bailout amounted to roughly EUR 5 billion (EC 2013b; Minister of Finance 2013a; 
+NLFI 2016b). 
+The Dutch state funded the capital injection, estimating that the effect to the 2013 EMU 
+balance was 0.6% of GDP . The Minister of Finance offset the costs by levyi ng a onetime 
+resolution tax on the Dutch banking sector, totaling EUR 1 billion. The Minister of Finance 
+also implemented bail -in measures to offset the costs, expropriating shareholders and 
+subordinated debt holders (EC 2014; Minister of Finance 2013a; NLFI 2016b) . These 
+measures are further detailed in Key Design Decision  7, Treatment of Creditors and Equity 
+Holders. 
+10. Timing: The capital injection occurred after the MOF rejected recapitalization 
+proposals from the bank and a private equity firm. 
+SNS Bank experienced negative press reports throughout January 2013, resulting in deposit 
+withdrawals and share price decreases . The DNB notified the Minister of Finance of the 
+precarious capital position of SNS Reaal on January 24, 2013. On January 27, the DNB 
+established a January 31 deadline for SNS Reaal to come up with a solution to remedy their 
+capital deficit. The Minister of Finance rejected proposals from the bank and a private equity 
+384
+Netherlands: SNS Reaal Capital Injection George
+
+--- Page 14 ---
+firm, and nationalized and recapitalized the firm on February 1, 2013 (Minister of Finance 
+2013a; Netherlands 2013; World Bank 2016). 
+On February 22, 2013, the EC formally approved the rescue aid package, granting Dutch 
+authorities six months to submit a restructuring plan for the firm (EC 2013a).  
+11. Restructuring: The capital injection coincided with the isolation of the Property 
+Finance division of SNS Reaal. 
+The capital injection preceded a restructuring plan that called for the isolation of the 
+property finance division and divestment  of the insurance division of  SNS Reaal. As part of 
+this plan, the government purchased SNS Bank from SNS Reaal in 2015, resulting in a further 
+capital expense of EUR 2.7 billion to purchase the shares. The EC approved the restructuring 
+plan on December 19, 2013 (EC 2013b; NLFI 2016b).  
+On December 31, 2013, SNS Reaal isolated the real estate portfolio from SNS Bank by 
+transferring the shares of SNS Property Finance to the state for EUR 1. The state then 
+immediately transferred the 50,003 shares, each with a nominal value of EUR 50 , to  NL 
+Financial Investments (NLFI 2014; SeeNews Netherlands 2013; SNS Bank 2014).  
+Upon isolating SNS Property Finance from SNS Reaal, SNS Bank realized a EUR 725 million 
+loss, which corresponded to the amount of Property Finance’s shareholders’ equity. At t he 
+time of the transfer, SNS Property Finance also owed EUR 4.5 billion to SNS Bank. The state 
+provided EUR 500 million of capital to Property Finance, of which EUR 400 million was used 
+to lower the outstanding debt to EUR 4.1 billion. The isolated Propert y Finance shares, 
+constituting a “bad bank,” became known as Propertize on January 1, 2014 (NLFI 2014; 
+SeeNews Netherlands 2013; SNS Bank 2014).  
+In pursuit of the second goal of divesting Reaal insurance, the Minister of Finance instructed 
+NLFI to execute the sale of the insurance subsidiary on June 6, 2014. NLFI finalized the sale 
+of the insurance division (renamed VIVAT Verzekeringen) on February 16, 2015 (NLFI 
+2015b; SNS Reaal 2015).  
+A detailed account of SNS Reaal’s restructuring can be found in the R esolution & 
+Restructuring case study (George 2024). 
+12. Treatment of Board and Management: Upon nationalizing SNS Reaal, the Minister 
+of Finance ordered the resignations of the CEO and CFO, as well as the chairman of 
+the supervisory board. 
+Alongside the nationalization of SNS Reaal, the Minister of Finance ordered the resignations 
+of several members of the firm’s leadership. The  chief executive officer ( CEO) and chief 
+financial risk officer (CFRO) tendered their resignations, with their replacements announced 
+in the Minister of Finance’s letter to parliament. The Minister announced their replacements 
+on the same day. Gerard van Olphen became the new CEO, leaving the CFRO position at 
+Achmea, the largest insurer in the Netherlands. Maurice Oostendorp became the CFO, leaving 
+385
+Journal of Financial Crises Vol. 6 Iss. 3
+
+--- Page 15 ---
+a CFO position at VGZ4. The chair of the supervisory board also resigned, with the role being 
+taken over by the deputy chair on an interim basis (EuropaWire 2013; Minister of Finance 
+2013a; Netherlands 2013). 
+13. Other Conditions: The remaining administrators of SNS Reaal faced limits to their 
+compensation, alongside messaging restrictions for the firm. 
+Upon becoming the sole shareholder of SNS Reaal, t he Dutch state made several 
+commitments to the EC on behalf of the firm. SNS Reaal committed to not taking a stake in 
+any acquisitions, refrain ing from making payments on hybrid debt instruments, and 
+refraining from advertising its state ownership. The Dutch state agreed to comply with EU  
+remuneration rules to ensure a suitably high rate of interest on the bridge loan , such that 
+SNS Reaal had a strong incentive to pay back the loan as soon as market circumstances 
+allowed (see Key Design Decision 2, Part of a Package). They also agreed to n otify the EC of 
+any additional intervention measures and the intended restructuring plan for the firm (EC 
+2013a; EC 2013b).  
+As a condition of their approval, the EC stated that SNS Reaal had to “refrain from employing 
+any aggressive commercial strategies which would not take place without the State support” 
+(SNS Bank 2014) . The government also held NLFI responsible for preventing any anti -
+competitive practices in their management of different companies. Pursuant to this aim, 
+NLFI board members w ere barred from being members of management or supervisory 
+boards at financial institutions or subsidiaries (NLFI 2014; SNS Bank 2014). 
+14. Regulatory Relief: Research did not reveal evidence of regulatory relief. 
+Research did not reveal any regulatory relief associated with the capital injection. During the 
+restructuring period , authorities estimated that the core Tier 1 ratio of SNS Bank would 
+remain above the minimum requirements according to the Basel III regulatory regime (EC 
+2013b).  
+15. Exit Strategy: The government announced its intention to re -privatize the bank 
+but has yet to sell its shareholdings. 
+In the  February 1, 2013, letter to parliament, the Minister of Finance stated the Dutch 
+intentions to reprivatize the firm when it became possible. The first s tep involved the 
+transfer of shareholding administration to NLFI on December 31, 2013 . The restructuring 
+process resulted in the isolation of the property finance division and the divestment of the 
+insurance division. The Dutch state sold the insurance division to a Chinese insurance group 
+on February 16, 2015. On June 29, 2016, the state announced that a  consortium led by US 
+bank JP Morgan  Chase and private equity firm Lone Star agreed to purchase the property 
+finance division. NLFI announced the finalization of the sale on September 27, 2016. 
+NLFI took over all of the shares of SNS Bank from SNS Reaal on September 30, 2015 (NLFI 
+2015a). NLFI rebranded SNS Reaal as SRH N.V. and announced that it would be wound down 
+ 
+4 Career information found through LinkedIn. 
+386
+Netherlands: SNS Reaal Capital Injection George
+
+--- Page 16 ---
+(EC 2013b; Minister of Finance 2013a; NLFI 2015a; NLFI 2016a; NL Times 2016; SNS Bank 
+2014). 
+On January 1, 2017, the banking services encompassed by SNS Holding and SNS Bank became 
+known as De Volksbank N.V . Since it commenced operations, the bank and the state have 
+made clear their intentions to privatize the bank. NLFI publishes regular progress reports , 
+which discuss steps and conditions for privatization, and the Minister of Finance informs 
+parliament on a regular basis. That being said, the Dutch state remains the sole shareholder 
+in De Volksbank (De Volksbank n.d.).   
+  
+387
+Journal of Financial Crises Vol. 6 Iss. 3
+
+--- Page 17 ---
+References and Key Program Documents 
+Summary of Program 
+(De Volksbank n.d.) De Volksbank (De Volksbank). n.d. “De Volksbank’s History.” Accessed 
+June 7, 2023. 
+Web page overview of the history of De Volksbank. 
+https://elischolar.library.yale.edu/ypfs-documents2/1168 
+(Netherlands n.d.a) Kingdom of the Netherlands (Netherlands). n.d.a. “Compensation for 
+the Expropriation of SNS REAAL and SNS Bank.” Accessed September 11, 2023. 
+Web page detailing the ex post compensation scheme for certain creditors expropriated 
+during the restructuring of SNS Reaal. 
+https://elischolar.library.yale.edu/ypfs-documents2/1860 
+(Netherlands n.d.b) Kingdom of the Netherlands (Netherlands). n.d.b. “Types of 
+Compensation.” Accessed September 11, 2023. 
+Web page breaking down the different types of creditors that received compensation for their 
+expropriated claims. 
+https://elischolar.library.yale.edu/ypfs-documents2/1861 
+(NLFI n.d.) NL Financial Investments (NLFI). n.d. “About NLFI.” 
+About Us page on the NL Financial Investments website. 
+https://elischolar.library.yale.edu/ypfs-documents2/1191 
+Implementation Documents 
+(EC 2013a) European Commission (EC). 2013a. “State Aid SA.35382–The Netherlands 
+Rescue SNS REAAL 2013.” Letter from European Commission to Dutch authorities, 
+February 22, 2013. 
+Letter from the European Commission to Dutch authorities approving the rescue aid provided 
+to SNS Reaal. 
+https://elischolar.library.yale.edu/ypfs-documents2/1173 
+(EC 2014) European Commission (EC). 2014. “Recording of Transactions Relating to the 
+Nationalization of SNS Reaal in Q1 and Q4 of 2013.” Letter from the EC to Dutch authorities, 
+June 6, 2014. 
+Letter detailing the date and costs of intervention measures for SNS Reaal. 
+https://elischolar.library.yale.edu/ypfs-documents2/1174 
+(Minister of Finance 2013a) Minister of Finance, Netherlands. 2013a. “Letter from Minister 
+of Finance J.V.R.A Dijssellbloem to the Chair of the Parliament Concerning the 
+Nationalization of SNS Reaal.” Letter from Minister of Finance J.V.R.A. Dijsselbloem to the 
+chair of the Parliament, February 1, 2013. 
+Letter to Parliament from the Dutch minister of finance detailing the nationalization of SNS 
+Reaal and further intervention measures. 
+https://elischolar.library.yale.edu/ypfs-documents2/1175 
+388
+Netherlands: SNS Reaal Capital Injection George
+
+--- Page 18 ---
+(Minister of Finance 2013b) Minister of Finance, Netherlands. 2013b. “Letter from Minister 
+of Finance J.V.R.A. Dijsselbloem Regarding the Offer for Compensation with Respect to 
+Expropriation of Securities and Capital Components of SNS Reaal and SNS Bank, March 4, 
+2013,” March 4, 2013. 
+Letter confirming that expropriated parties of SNS Reaal would not receive compensation 
+(Dutch and unofficial English translation). 
+https://elischolar.library.yale.edu/ypfs-documents2/1180 
+Legal/Regulatory Guidance 
+(Netherlands 2012) Kingdom of the Netherlands (Netherlands). 2012. Special Measures 
+Financial Enterprises Act. 02-14-2012. 
+Law giving the minister of finance the power to expropriate shareholders and hybrid security 
+holders (Unofficial Translation). 
+https://elischolar.library.yale.edu/ypfs-documents2/1176 
+Media Stories 
+(Dow Jones Global Equities News 2013) Dow Jones Global Equities News. 2013. “When Not 
+All Bonds Are Bonds,” February 4, 2013. 
+Blog article discussing aspects of the Dutch decision to expropriate shareholders and 
+subordinated debtholders in SNS Reaal. 
+https://elischolar.library.yale.edu/ypfs-documents2/1862 
+(EuropaWire 2013) EuropaWire. 2013. “Gerard van Olphen Leaves Achmea and Becomes 
+CEO at SNS Reaal.” EuropaWire, February 1, 2013. 
+News article reporting on the new CEO of SNS Reaal. 
+https://elischolar.library.yale.edu/ypfs-documents2/1864 
+(IR Global 2013) IR Global. 2013. “The Dutch Interventiewet (Intervention Act).” IR Global, 
+February 7, 2013. 
+Overview of the Dutch Intervention Act and the new powers it created. 
+https://elischolar.library.yale.edu/ypfs-documents2/1177 
+(NL Times 2016) NL Times. 2016. “Dutch Gov’t Sells SNS Reaal Real Estate Division for 
+€900 Million,” NL Times, June 29, 2016. 
+News article reporting the sale of Propertize to Lone Star and JP Morgan Chase. 
+https://elischolar.library.yale.edu/ypfs-documents2/1178 
+(SeeNews Netherlands 2013) SeeNews Netherlands. 2013. “SNS Reaal Transfers Property 
+Unit to Dutch State.” SeeNews Netherlands, December 31, 2013. 
+News article reporting the transfer of SNS Property Finance to the Dutch state. 
+https://elischolar.library.yale.edu/ypfs-documents2/1179 
+  
+389
+Journal of Financial Crises Vol. 6 Iss. 3
+
+--- Page 19 ---
+(van Tartwijk 2013) Tartwijk, Maarten van. 2013. “Netherlands Nationalizes SNS Reaal.” 
+Wall Street Journal Asia, February 4, 2013. 
+News article discussing the nationalization of SNS Reaal. 
+https://elischolar.library.yale.edu/ypfs-documents2/1863 
+Press Releases/Announcements 
+(Council of State 2013a) Council of State, Netherlands. 2013a. “Court Hearing for the 
+Decree to Expropriate SNS Reaal.” Press release, February 12, 2013. 
+Press release announcing the court date when the Council of State is to hear appeals against 
+the expropriation of SNS Reaal (in Dutch). 
+https://elischolar.library.yale.edu/ypfs-documents2/1181 
+(Council of State 2013b) Council of State. 2013b. “Minister of Finance Was Entitled to 
+Expropriate SNS Securities and Loans, but Not Future Claims.” Press release, February 25, 
+2013. 
+Press release announcing the Council of State’s decision regarding complaints filed against 
+the expropriation of SNS Reaal security holders. 
+https://elischolar.library.yale.edu/ypfs-documents2/1182 
+(NLFI 2015a) NL Financial Investments (NLFI). 2015a. “NLFI Becomes Sole Shareholder of 
+SNS Holding B.V.” Press release, October 1, 2015. 
+Press release announcing the transfer of SNS Holding BV shares to NLFI. 
+https://elischolar.library.yale.edu/ypfs-documents2/1183 
+(NLFI 2016a) NL Financial Investments (NLFI). 2016a. “Sale of Propertize B.V. Finalized.” 
+Press release, September 27, 2016. 
+Press release announcing the finalization of the sale of Propertize. 
+https://elischolar.library.yale.edu/ypfs-documents2/1184 
+(SNS Reaal 2015) SNS Reaal. 2015. “SNS Reaal Announces Sale [of] VIVAT Verzekeringen to 
+Anbang Insurance Group.” Press release, February 16, 2015. 
+Press release announcing the sale of VIVAT Verzekeringen to a Chinese insurance firm. 
+https://elischolar.library.yale.edu/ypfs-documents2/1185 
+Reports/Assessments 
+(Evaluation Commission 2014) Hoekstra, Rein Jan, and Jean Frijns (Evaluation 
+Commission). 2014. “The Report of the Evaluation Committee on the Nationalization of SNS 
+Reaal.” Report commissioned by Supervisory Board of Dutch National Bank and the 
+Ministry of Finance, January 23, 2014. 
+Unofficial translation of the evaluation committee report on the nationalization of SNS Reaal. 
+https://elischolar.library.yale.edu/ypfs-documents2/1187 
+  
+390
+Netherlands: SNS Reaal Capital Injection George
+
+--- Page 20 ---
+(FSB 2014) Financial Stability Board (FSB). 2014. “Peer Review of the Netherlands.” 
+Review Report, November 11, 2014. 
+A review of the Netherlands’ resolution framework by the Financial Stability Board. 
+https://elischolar.library.yale.edu/ypfs-documents2/1186 
+(NLFI 2014) NL Financial Investments (NLFI). 2014. “2013 Annual Report,” 2014. 
+Annual report of the 2013 activities conducted by NLFI. 
+https://elischolar.library.yale.edu/ypfs-documents2/1169 
+(NLFI 2015b) NL Financial Investments (NLFI). 2015b. “Advisory Report on the 
+Conditional Sale of REAAL N.V. to Anbang Insurance Group Co. Limited.” Report No. 
+2015/58, February 15, 2015. 
+Advisory report submitted to the minister of finance regarding the sale of Reaal Insurance. 
+https://elischolar.library.yale.edu/ypfs-documents2/1171 
+(NLFI 2015c) NL Financial Investments (NLFI). 2015c. “Advice for the Sale of Propertize,” 
+October 16, 2015. 
+Advisory report submitted to the minister of finance concerning the future of Propertize 
+(Translated by the NLFI). 
+https://elischolar.library.yale.edu/ypfs-documents2/1170 
+(NLFI 2016b) NL Financial Investments (NLFI). 2016b. “Advisory Report on the Future 
+Direction of SNS Bank,” June 2016. 
+Advisory report on the opportunities to reprivatize SNS Bank. 
+https://elischolar.library.yale.edu/ypfs-documents2/1172 
+(SNS Bank 2014) SNS Bank. 2014. “2013 Annual Report,” 2014. 
+Annual report for SNS Bank for 2013. 
+https://elischolar.library.yale.edu/ypfs-documents2/1188 
+Key Academic Papers 
+(George 2024) George, Ayodeji. 2023. “Netherlands: SNS Reaal Restructuring, 2013.” 
+Journal of Financial Crises 6, no. 1. 
+YPFS case study examining the restructuring of SNS Reaal. 
+https://elischolar.library.yale.edu/journal-of-financial-crises/vol6/iss1/15/ 
+(Haentjens 2013) Haentjens, Matthias. 2013. “What Happens When a Systemically 
+Important Financial Institution Fails: Some Company Law Observations Re. SNS Reaal.” 
+European Company Law 10, no. 2 (June): 70-74, 2013. 
+Article discussing the Dutch intervention measures for SNS Reaal in 2013. 
+https://elischolar.library.yale.edu/ypfs-documents2/1189 
+(Rhee, Hoffner et al. 2024) Rhee, June, Benjamin Hoffner, Greg Feldberg, and Andrew 
+Metrick. 2024. “Survey of Ad Hoc Capital Injections.” Journal of Financial Crises 6, no. 3.  
+Survey of YPFS case studies examining ad hoc capital injections.   
+https://elischolar.library.yale.edu/journal-of-financial-crises/vol6/iss3/1 
+391
+Journal of Financial Crises Vol. 6 Iss. 3
+
+--- Page 21 ---
+(Rhee, Oguri et al. 2022) Rhee, June, Junko Oguri, Greg Feldberg, and Andrew Metrick. 2022. 
+“Broad-Based Capital Injection Programs.” Journal of Financial Crises 4, no. 1.  
+Survey of YPFS case studies examining broad-based capital injection programs.  
+https://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss1/1 
+(World Bank 2016) World Bank. 2016. “Bank Resolution and ‘Bail-In’ in the EU: Selected 
+Case Studies Pre and Post BBRD.” World Bank Group, Finance & Markets, December 12, 
+2016. 
+Collection of World Bank case studies about bail-in measures taken in Europe before and after 
+the BRRD. 
+https://elischolar.library.yale.edu/ypfs-documents2/1190 
+Other 
+(EC 2013b) European Commission (EC). 2013b. “State Aid SA.36598 (2013/N) - the 
+Netherlands—Restructuring Plan SNS Reaal 2013.” Letter from EC to Netherlands, 
+December 19, 2013. 
+Letter from the European Commission to Dutch authorities approving their restructuring plan 
+for SNS Reaal. 
+https://elischolar.library.yale.edu/ypfs-documents2/1192 
+(Netherlands 2013) Kingdom of the Netherlands (Netherlands). 2013. “Statement by 
+Minister Jeroen Dijsselbloem,” February 1, 2013. 
+Statement by the minister of finance explaining the nationalization of SNS Reaal. 
+https://elischolar.library.yale.edu/ypfs-documents2/1193 
+  
+392
+Netherlands: SNS Reaal Capital Injection George
+
+--- Page 22 ---
+Appendixes 
+Appendix A: Structure of SNS Reaal Prior to the 2013 Restructuring 
+ 
+Source: Minister of Finance 2013a, 24  
+393
+Journal of Financial Crises Vol. 6 Iss. 3
+
+--- Page 23 ---
+Appendix B: Capital Expenditures of SNS Reaal Nationalization (in EUR billions) 
+ 
+Source: NLFI 2016b, 32 
+  
+394
+Netherlands: SNS Reaal Capital Injection George
+
+--- Page 24 ---
+Appendix C: Types of Compensation 
+ 
+Source: Netherlands n.d.b. 
+  
+395
+Journal of Financial Crises Vol. 6 Iss. 3
+
+--- Page 25 ---
+Copyright 2024 © Yale University. All rights reserved. To order copies of this material or to receive 
+permission to reprint any or all of this document, please contact the Yale Program on Financial 
+Stability at ypfs@yale.edu. 
+396
+Netherlands: SNS Reaal Capital Injection George

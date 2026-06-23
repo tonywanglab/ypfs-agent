@@ -1,0 +1,655 @@
+## Indonesia: Bank Century Emergency Liquidity Program, 2008[1] 
+
+## _Vincient Arnold_[2] 
+
+Yale Program on Financial Stability Case Study April 15, 2025 
+
+## **Abstract** 
+
+By the autumn of 2008, the effects of the Global Financial Crisis of 2007–2009 had struck Indonesia, as liquidity in interbank markets dried up, capital flows reversed, and economic growth slowed. On October 30, 2008, Bank Indonesia—the central bank of Indonesia— passed Regulation No. 10/26/PBI/2008, establishing a Short-Term Funding Facility for Commercial Banks (SFF). On October 31, 2008, the capital adequacy ratio of Bank Century, a relatively small Indonesian bank, was –3.35%. On November 14, 2008, after Bank Century failed to conduct payment clearing the day before, Bank Indonesia approved Bank Century for access to the SFF and began disbursements of funds, which reached a total of 689.4 billion Indonesian rupiah (IDR; USD 57.1 million) by November 18. Bank Indonesia provided the SFF loan against collateral for an initial term of 14 days (extended to 90 days, the legal maximum) at an interest rate of the Bank Indonesia Rate plus 100 basis points. On Friday, November 21, 2008, the Financial System Stability Committee—a committee composed of the minister of finance and the governor of Bank Indonesia—declared Bank Century to be a failing bank with a systemic impact, and the Deposit Insurance Corporation took over operations of Bank Century. On February 11, 2009, the DIC paid off all SFF obligations of Bank Century to Bank Indonesia. 
+
+**Keywords:** ad hoc emergency liquidity, Bank Century, Bank Indonesia, Indonesia, Indonesian Deposit Insurance Corporation 
+
+> 1 This case study is part of a Yale Program on Financial Stability (YPFS) selection of New Bagehot Project modules considering ad hoc emergency liquidity provision. A survey of all the cases in this series (Kelly et al. 2025) and the individual cases underlying it are available from the _Journal of Financial Crises_ at https://elischolar.library.yale.edu/journal-of-financial-crises/vol7/iss1/. Wiggins et al. (2022) surveys broadbased emergency liquidity programs. 
+
+> 2 Research Associate, YPFS, Yale School of Management. 
+
+
+## **Overview** 
+
+This case study describes the provision of ad hoc emergency liquidity to Bank Century by Bank Indonesia. 
+
+By the autumn of 2008, the effects of the Global Financial Crisis of 2007–2009 (GFC) had struck Indonesia, as liquidity in interbank markets dried up, capital flows reversed, and economic growth slowed (DIC 2009). On October 30, 2008, Bank Century, a relatively small Indonesian bank, defaulted on a 596.4 billion Indonesian rupiah (IDR; USD 56 million)[3] loan payment, and large depositors began to withdraw funds from the bank (Witular 2008). The same day, Bank Indonesia—the central bank—passed Regulation No. 10/26/PBI/2008, establishing a Short-Term Funding Facility for Commercial Banks (SFF), which would provide lender-of-last-resort funding to commercial banks for a period of 14 days (BI 2008c). An investigation later discovered that the following day, October 31, the bank’s capital adequacy ratio (CAR) had been –3.35%, compared to a regulatory requirement of 8% (BI 2008d; ICW 2009; Ismar and Silka 2008; SAA 2014). On November 13, the bank failed to conduct clearing activities on the Indonesian payments system as a result of a “tardiness in prefund credit” (an anonymous Bank Indonesia staff member confirmed that in fact Bank Century simply had no liquidity left) (BI 2008h). 
+
+## **Key Terms** 
+
+Purpose: To assist Bank Century’s short-term liquidity issues so that the bank could maintain its normal activities 
+
+||Announcement|November 14, 2008|
+|---|---|---|
+||Date||
+||Operational Date|November 14, 2008|
+||Termination Date<br>Legal Authority|February 11, 2009<br>Bank Indonesia Act|
+||Administrator<br>Peak Authorization|Bank Indonesia<br>Amount necessary for the<br>bank to meet its reserve<br>requirement (IDR 689.4<br>billion authorized for Bank|
+||Peak Outstanding|Century)<br>IDR 689.4 billion|
+||Collateral|Government securities and|
+|||liquid collateralized|
+||Haircut and<br>Recourse|corporate securities<br>Collateralized only 83%|
+||Interest Rate and<br>Fees|BI Rate +100 bps (925–<br>1,050 bps)|
+||Term|14 days, renewed for 90 days|
+||Part of a Package|Placement of Bank Century|
+|||under special surveillance|
+|||_(continued)_|
+
+
+
+> 3 According to LSEG/Refinitiv, USD 1 = 10,650 Indonesian rupiah on October 30, 2008. 
+
+
+On November 14, 2008, Bank Indonesia passed a regulation amending the SFF by lowering the CAR eligibility threshold from 8% to above 0% (BI 2008d). It then approved Bank Century for access to the SFF and disbursed IDR 356.8 billion in SFF funds. Between November 14 and 18, Bank Indonesia disbursed a total of IDR 689.4 billion in SFF funds to Bank Century in three tranches to support Bank Century’s liquidity and avoid contagion (ICW 2009). By November 20, the Bank’s CAR had fallen to –81.8%,[4] in large part due to losses from write-downs on what became nonperforming assets (DIC 2011; Kurniasari 2012). On Friday, November 21, the Financial System Stability Committee 
+
+||Outcomes|Bank Century taken over by|
+|---|---|---|
+|||the DIC and later sold after|
+|||capital injections; recovery|
+|||program of the DIC through|
+|||capital injections of IDR 6.8<br>trillion|
+||Notable Features|SFF lending size was based|
+|||on the amount needed to|
+|||satisfy regulatory|
+|||requirements; Bank<br>Indonesia passed a<br>regulation amending the SFF<br>by lowering the CAR<br>eligibility threshold from 8%<br>to above 0%, in effect to|
+|||allow Bank Century to|
+|||participate|
+
+
+
+(FSSC)—a committee composed of the minister of finance and the governor of Bank Indonesia—declared Bank Century to be a failing bank with a systemic impact, and the Deposit Insurance Corporation (DIC) took over operations of Bank Century (FSSC 2008; President RoI 2008). 
+
+On February 11, 2009, the DIC paid off all Bank Century’s IDR 689.4 billion in SFF obligations to Bank Indonesia (BI 2009c). From its takeover of Bank Century on November 21, 2008, until July 24, 2009, the DIC made total payments of IDR 6.8 trillion in its rescue of Bank Century—comprised mostly of capital injections but also including depositor payouts, fees, and the SFF liquidity support (DIC 2011). In November 2014, the DIC sold Bank Mutiara (Bank Century, renamed) to J Trust Co., Ltd., a Japanese finance company, for IDR 4.4 trillion (DIC 2015). 
+
+In 2010, the handling of the Bank Century case by Bank Indonesia and the DIC made it to the Constitutional Court of Indonesia (the Court), which overturned some of the legal authorities upon which Bank Indonesia and the FSSC relied to handle Bank Century. The Court also said that Bank Indonesia had passed regulations with the sole intention of providing legal cover for giving Bank Century a bailout[5] (Constitutional Court 2010). The DIC ran Bank Century (changing its name to Bank Mutiara) until November 20, 2014, when it sold the Bank to a Japanese finance company (DIC 2015). In 2014, a Jakarta, Indonesia, court found former 
+
+> 4 This figure is disputed. Kurniasari (2012) puts the figure at –35.9%, while an anonymous Bank Indonesia staff member said it was –35.4%. The –81.8% figure is from the primary official and public source: the Deposit Insurance Corporation’s report (DIC 2011). 
+
+> 5 In confidential correspondence between Bank Indonesia and the author, a Bank Indonesia employee disputed this view, saying that the FSSC was intended for all banks. 
+
+
+Bank Indonesia Deputy Governor Budi Mulya guilty of corruption and self-enrichment[6] for accepting an IDR 1 billion bribe from then–Bank Century owner Robert Tantular to influence the deputy governor’s decisions to declare Bank Century as on the brink of failure and extend credit under the SFF (Indonesia Investments 2014). In subsequent investigations, it became clear that Tantular[7] had stolen approximately IDR 1.3 trillion in customer funds, which were hidden in numerous countries (Widiati 2016). Figure 1 shows a timeline of events related to Bank Indonesia’s emergency liquidity provision for Bank Century. 
+
+[FIGURE id=vol7_iss1_10_f1 type=diagram page=6 label="Figure 1" file=figure_1.png caption="Timeline of Key Events in Intervention"]
+### **Figure 1: Timeline of Key Events in Intervention**
+
+|**Figure 1: Timeline**|**of Key Events in Intervention**|
+|---|---|
+|**Date**|**Event**|
+|Oct. 15, 2008|Indonesian president issues Government Regulation in Lieu of Law creating the FSSC<br>and Emergency Funding Facility for Commercial Banks.|
+|Oct. 29, 2008|Bank Century requests IDR 1 trillion in liquidity assistance from Bank Indonesia.|
+|Oct. 30, 2008|• Bank Indonesia banking supervision staff deny Bank Century’s IDR 1 trillion<br>liquidity request, saying that Bank Century is ineligible; a Bank Indonesia deputy<br>governor summons those staff and questions their judgment.<br>• Bank Century’s CAR begins to drop after the bank defaults on an IDR 59.8 billion<br>loan payment and the largest depositors at the bank pull their funding.<br>• Bank Indonesia passes Regulation No. 10/26/PBI/2008, concerning the SFF.|
+|Nov. 5, 2008|• Bank Indonesia holds a board meeting in which participants suggest expanding<br>collateral and eligibility requirements for the facility in light of systemic pressures.|
+|Nov. 6, 2008|Bank Indonesia places Bank Century under Special Surveillance; September 30–<br>dated data show Bank Century’s CAR is 2.4%.|
+|Nov. 13, 2008|• Bank Century cannot conduct clearing payment system activities due to technical<br>factors related to tardiness in prefund credit.<br>• Bank Indonesia’s Board of Governors directs Bank Indonesia’s banking research<br>and regulation team to prepare an analysis concluding that a Bank Century failure<br>would be a systemic threat.|
+|Nov. 14, 2008|• Bank Indonesia passes Regulation No. 10/29/PBI/2008, creating the Intraday<br>Liquidity Facility for Commercial Banks.<br>• Bank Indonesia passes Regulation No. 10/30/PBI/2008, amending Regulation No.<br>10/26/PBI/2008, concerning the SFF, lowering the CAR threshold.<br>• Bank Indonesia disburses IDR 356.8 billion to Bank Century through the SFF.<br>• Bank Century regains its normal clearing activities, and the bank’s branch offices<br>operate normally.<br>• Bank Indonesia’s internal supervision group finds violations in the provision of SFF<br>funds to Bank Century after having reviewed the loan process.|
+|Nov. 15, 2008|Bank Century shareholders embezzle IDR 214 billion in customer funds.|
+
+
+
+6 Again, a Bank Indonesia employee disputed the court’s ruling, noting that Budi Mulya was not able to independently sway the Board of Governors, having only one vote, and that Mulya had repaid all debts to Tantular before the board decision. 
+
+7 Robert Tantular was ultimately convicted by the high court of banking crimes and sentenced to five years in prison, which was later extended by a higher court to nine years (Widiati 2016). 
+
+
+|Nov. 17, 2008|• Bank Indonesia disburses IDR 145.3 billion to Bank Century through the SFF. (The<br>DIC maintains that this distribution was in fact made on November 14 along with<br>the IDR 356.8 billion then, for a total distribution on November 14 of IDR 502.1<br>billion.)<br>• Indonesian Sinar Mas Group says it will acquire up to a 70% stake in Bank Century<br>for roughly IDR 982 billion; it later rescinds this offer.|
+|---|---|
+|Nov. 18, 2008|• Bank Century requests an additional IDR 319.3 billion of SFF funding but Bank<br>Indonesia approves and disburses only IDR 187.3 billion.<br>• Bank Indonesia passes Regulation No. 10/31/PBI/2008, creating the Emergency<br>Funding Facility for Commercial Banks facility targeting banks experiencing<br>liquidity challenges with systemic impact.|
+|Nov. 20, 2008|• Bank Century’s CAR has fallen to –81.8%.<br>• IDR 458 billion of Bank Century’s liabilities mature, and the bank is unable to<br>replace them with new funding sources.<br>• 8pm: Bank Indonesia board receives information that Bank Century’s CAR has<br>turned negative. Deputy governors voice concern that Bank Indonesia’s own<br>employee benefits fund—with billions of rupiah in Bank Century deposits—could<br>be wiped out in the event of a Bank Century failure.<br>• Bank Indonesia director of banking research and regulation gives a presentation<br>saying that Bank Century does not pose a systemic risk; Bank Indonesia governors<br>decide to not present that assessment at the upcoming FSSC meeting.|
+|Nov. 21, 2008|• c. 12am: Bank Indonesia holds a consultative meeting with numerous Indonesian<br>financial policymakers about Bank Century, where Boediono says that Bank<br>Century should be designated as a failed bank with systemic impact.<br>• 12:11am: FSSC meeting on Bank Century begins.<br>• 4:30am: Bank Indonesia Governor Boediono and Minister of Finance Mulyani<br>begin meeting.<br>• 5:30am: Boediono and Mulyani announce that Bank Century is a failed bank with<br>a systemic impact and request that the DIC take over the bank.<br>• The FSSC declares Bank Century a failed bank with systemic impact, and the DIC<br>takes over the bank.<br>• Bank Indonesia prohibits Bank Century executives from leaving the country.|
+|Nov. 26, 2008|• Police arrest Bank Century owner Robert Tantular on the orders of the vice<br>president.|
+|Nov. 27, 2008|• (DIC-run) Bank Century says that DIC capital injections have brought its CAR to the<br>required 8%.|
+|Feb. 11, 2009|• The DIC pays off obligations under the liquidity facility under the resolution<br>program.|
+|June 5, 2009|• The Corruption Eradication Commission requests that the Supreme Audit Agency<br>(SAA) conduct an investigation of the Bank Century case.|
+|July 24, 2009|• DIC has paid a total of IDR 6.8 trillion in its rescue of Bank Century since its<br>takeover.|
+|Sep. 1, 2009|• The House of Representatives of the Republic of Indonesia requests that the SAA<br>complete an audit of the handling of the Bank Century case; the House says the<br>SAA will submit an interim report by Sep. 30, 2009, and a final report by Oct. 19,<br>2009.|
+
+
+
+
+|Sep. 28, 2009|• The SAA submits its interim report on the Bank Century case.|
+|---|---|
+|Sep. 30, 2009|• The House announces that it expects the SAA to complete its final examination<br>within a number of months.|
+|Nov. 23, 2009|• SAA submits its final examination of the Bank Century case.|
+|March 3, 2010|• The House Special Committee on Bank Century votes that the government’s<br>handling of the crisis was inappropriate and that it suspects corruption and abuse<br>of authority.|
+|April 6, 2011|• The House requests that the SAA conduct a forensic audit of the Bank Century<br>case.|
+|Dec. 23, 2011|• The SAA submits its report on its forensic audit of the Bank Century case.|
+|Dec. 2013|• At the request of Bank Indonesia, the DIC injects more capital into Bank Mutiara<br>(Bank Century, renamed) of IDR 1.2 trillion to meet its regulatory capital adequacy<br>ratio.|
+|Nov. 20, 2014|• The DIC sells Bank Mutiara (Bank Century, renamed) to J Trust Co., Ltd., a<br>Japanese finance company, for IDR 4.4 trillion.|
+
+
+
+_Source: Author’s analysis._ 
+
+## **Summary Evaluation** 
+
+On March 3, 2010, the Indonesian House Special Committee on Bank Century passed a resolution concluding that the government’s handling of the crisis was inappropriate and that it suspected corruption and abuse of authority (Ferdianto 2010). In a 285–212 vote, the House as a whole passed a resolution concluding that FSSC support for Bank Century violated a number of laws (Santosa 2010). 
+
+On July 16, 2014, a Jakarta court found former Bank Indonesia Deputy Governor Mulya guilty of corruption and self-enrichment for accepting an IDR 1 billion bribe from then–Bank Century owner Tantular to influence his decision to declare Bank Century on the brink of failure and extend it credit under the SFF. The court fined Mulya IDR 500 million and sentenced him to 10 years in prison. A court later extended his sentence to 12 years. A media report from a Dutch Indonesia-focused investment group said that the punishment was harsh because the court had determined that Mulya’s actions had harmed Bank Indonesia’s image and thereby undermined its authority (Indonesia Investments 2014). Although no court directly indicted former Bank Indonesia Governor Boediono on similar charges, a district court judge ruled that Budi Mulya’s actions had been taken with other members of the Bank Indonesia Board of Governors (BI Board), including Boediono (Natalia 2014b). The initial indictment document had alleged that Budi Mulya’s alleged crime was committed “collectively” with then–Bank Indonesia Governor Boediono, Senior Deputy Governor Miranda Goeltom, and Deputy Governors Siti C. Fadjrijah, Budi Rochadi, Muliaman Hadad, Hartadi Sarwono, and Ardhayadi Mitroatmodjo (Witular 2014). In a confidential communication between an anonymous Bank Indonesia staff member and the author, the Bank Indonesia employee stressed that the decision to provide liquidity to Bank Century was a BI Board decision, while the alleged bribe was limited to only Budi Mulya, and that any crime committed was limited to Budi Mulya. 
+
+
+The Corruption Eradication Commission (CEC) also concluded that Bank Indonesia had compromised judgment with respect to the systemic failure determination later in November: Bank Indonesia’s own employee benefits fund (through which Bank Indonesia employees had mortgages) also had IDR 83 billion deposited at Bank Century. It would have lost all its value had Bank Century failed, since deposit insurance covered only accounts less than IDR 2 billion. The CEC also said that Bank Indonesia aimed to protect IDR 2 trillion of deposits belonging to Indonesian businessman Boedi Sampoerna, the very same deposit account that later was investigated by police as having been cashed by arrested Bank Century owner Robert Tantular (Wahono 2009; Witular 2014). 
+
+The Constitutional Court later said that Bank Indonesia had issued regulations creating and governing the SFF purely to provide legal cover to give Bank Century a “bailout.” The Court nullified the government regulation that created the FSSC (see Key Design Decision No. 3, Legal Authority) (Constitutional Court 2010). 
+
+A legal scholar said that Bank Indonesia’s regulations governing the SFF and its approval of SFF funding for Bank Century were examples of abuse of authority and rule violations. This scholar said that the Bank Century bailout as a whole included 13 different kinds of criminal offenses (Bachriani 2014). 
+
+Former Vice President Yusuf (Jusuf) Kalla said that Bank Century did not deserve a bailout, that it was “not a matter of economic crisis but crime,” and described the Bank Century case as “robbery” (Constitutional Court 2010). He said that Bank Century’s clearing activities failure was not the result of a bank run but rather a result of its owner—Robert Tantular— robbing funds from the bank (Widiati 2016). Former Bank Indonesia Governor Burhanuddin Abdullah (Boediono’s predecessor, who was serving a jail sentence for corruption) said that Bank Century was “small and had no systemic impact so it should’ve been closed” (Sukarsono and Kate 2009). 
+
+The chairman of a Jakarta-based think tank said, “under the circumstances, what Sri Mulyani and Boediono did was to prevent a crisis” (Wright 2009). The chairman of Bank Central Asia, a large private Indonesian bank, said, “I think the entire banking community feels, since there was considerable nervousness about banks globally at that time, that they acted appropriately” (Gelling 2010). 
+
+The director of an Indonesian public opinion research outfit said that the public saw the Bank Century case as a scandal in which state funds were abused by the authorities (Sukarsono and Kate 2009). The government’s handling of the Bank Century bailout—and associated corruption scandals—sparked violent anti-government protests involving 1,000 people, outside the parliament building when the parliamentary inquiry commission delivered its report on the Bank Century case (NBC News 2010). 
+
+
+
+[FIGURE id=vol7_iss1_10_f2 type=figure page=10 label="Exhibit 2" file=exhibit_2.png caption=""]
+![Exhibit 2](assets/vol7_iss1_10/exhibit_2.png)
+
+
+_Sources: Bloomberg; World Bank Deposit Insurance Dataset; World Bank Global Financial Development Database._ 
+
+
+## **Key Design Decisions** 
+
+**1. Purpose: Bank Indonesia extended SFF funding to address Bank Century’s liquidity issues and prevent contagion.** 
+
+On October 30, 2008, Bank Century, a relatively small Indonesian bank, defaulted on an IDR 59.8 billion loan payment, and the largest depositors at the bank pulled their funding. A Bank Indonesia deputy governor said that Bank Century could have paid the loan if its interbank funding had functioned properly, but banks did not want to lend to Bank Century as a result of “liquidity jitters” (Witular 2008). The same day, Bank Indonesia passed Bank Indonesia Regulation No. 10/26/PBI/2008, creating the SFF. Bank Indonesia said it created the facility in order to maintain public confidence in the banking system and to anticipate liquidity risks surfacing in the context of the GFC (BI 2008c). 
+
+On November 13, Bank Century could not clear payments on the Indonesian real-time gross settlement (RTGS) system because it could not provide IDR 50 billion in cash to prefund its Bank Indonesia clearing account before the RTGS opened—it did not have sufficient liquidity and could not obtain an interbank loan to provide it (BI 2008h; DIC 2011). The following day (November 14), Bank Indonesia (a) passed Regulation No. 10/30/PBI/2008, amending the SFF regulations by lowering the CAR threshold from 8% to above 0%; (b) approved Bank Century for access to the SFF; and (c) disbursed IDR 356.8 billion to Bank Century through the SFF (BI 2008d; ICW 2009). At the time, Bank Century had assets equivalent to just 0.9% of the Indonesian banking system (Kurniasari 2012; Silka and Suhartono 2008). 
+
+In an ex post Q&A press release, Bank Indonesia said that its decision to revise the legislation on November 14 was not targeted specifically at Bank Century: 
+
+Why did Bank Indonesia amend [the SFF] on 14th November 2008? And is it true that the amendment was solely for Century Bank? The amendment to [the SFF] regulations was a response to the urgent requirement to strengthen bank resilience that had entered a disquieting phase; it was in no way linked to an individual bank. (BI 2009a, 6) 
+
+Bank Indonesia said that the November 14 revisions to the SFF regulations were in response to urgently deteriorating instability in the Indonesian banking system, evidenced by systemic deposit outflows and disruptions to the government securities markets, resulting in illiquidity in repurchase agreement (repo) markets (BI 2009a). Later, however, Indonesian courts found that Bank Indonesia created the SFF with the intent of specifically supporting Bank Century and that Bank Indonesia’s deputy governor took a bribe resulting in the extension of the SFF liquidity (see Summary Evaluation). 
+
+Bank Indonesia said that its rescue of Bank Century should be viewed in the context of its efforts to save the financial system and economy as a whole (Wibowo 2009). Then–Bank Indonesia Governor Boediono said that “if one bank collapsed and Century Bank could be the one, a bank run certainly would have occurred like in 1998” (Natalia 2014a). In their decision to grant Bank Century SFF access, the Board of Governors of Bank Indonesia considered the risk that a Bank Century failure would affect other banks (Natalia 2014a). 
+
+
+Later, on November 21 (after the disbursement of SFF funds), the FSSC made the determination that Bank Century was a failed bank with a systemic impact, allowing for the takeover of the bank by the DIC (Santosa 2010). Bank Indonesia said at that time that the decision was taken because Bank Century could have been successfully rescued, therefore maintaining confidence in the national banking system (BI 2008j). In 2009, Bank Indonesia (but not the Ministry of Finance) issued a press release called “Q&A: Systemic Impact of Bank Century,” describing its rationale for designating Bank Century as a failed bank with systemic impact. Bank Indonesia said that Bank Century’s failure occurred in the context of a dramatic rise in banking sector risk, and that while it did not consider Bank Century economically significant in terms of size, it concluded that its failure could have had broad contagion effects (BI 2009b). 
+
+However, at the time, the Capital Markets Supervisory Agency (then Indonesia’s capital markets regulator) and the Fiscal Policy Agency (an internal think tank at the Ministry of Finance) said in a closed-door meeting that Bank Indonesia’s systemic risk analysis conclusions were not supported by adequate data and that Bank Century did not pose a systemic risk (Widiati 2016). An economist at a Jakarta-based economic research outfit said that Bank Century was “not systemic” and “a stand-alone [case]” (Ismar and Silka 2008). 
+
+In its ex post investigation, the Supreme Audit Agency (SAA) said that Bank Indonesia had supervisory information showing that Bank Century had a negative capital adequacy ratio when it disbursed SFF funds (see Key Design Decision No. 5, Governance). Bank Indonesia disputed that claim, saying that it was not able to obtain accurate or timely CAR data (see Key Design Decision No. 3, Legal Authority). Three months after the systemic failure determination was made, then–Minister of Finance Sri Mulyani requested that the decision to categorize Bank Century as a failed bank with a systemic impact be reviewed (Witular 2014). She said: 
+
+When the [FSSC] made the decision to categorize the bank as one that posed a systemic threat, the data that we received to support it should have been based on fact . . . I was concerned that the data supplied by [Bank Indonesia] for the [FSSC] during the Nov. 20 and 21 meeting was incorrect. (Witular 2014, 2) 
+
+The day before the FSSC decision, Bank Indonesia’s director of bank research and regulation said that Bank Century did not pose a systemic threat, but the Bank Indonesia Board of Governors decided not to present his findings at the FSSC meeting because they were concerned that the findings would hamper their efforts to get FSSC approval of a systemic failure determination. The Bank Indonesia board then directed Bank Indonesia’s banking supervision group to support its systemic risk determination (Witular 2014). Our research did not uncover a public statement from Bank Indonesia on Bank Century’s solvency when it first provided SFF funding. 
+
+In addition to the SFF, Bank Indonesia had one other facility (the Intraday Liquidity Facility for Commercial Banks, created the same day as the first Bank Century SFF fund disbursement) on the day it granted Bank Century access to the SFF. Four days after it released SFF funds to Bank Century, Bank Indonesia also created a special Emergency 
+
+
+Funding Facility for Commercial Banks (EFF). Governor Boediono said that Bank Indonesia extended emergency credit under the SFF instead of the EFF because the EFF was not yet operational (but was previously authorized, on October 15, to operate as the main emergency funding facility for commercial banks; see Key Design Decision No. 3, Legal Authority) (Natalia 2014a). All facilities were de jure broad based (BI 2008c; BI 2008d; BI 2008e; BI 2008f; BI 2013). In its 2008 annual report, Bank Indonesia said that the SFF was used only by “one national private bank” but did not include information on the usage of the other two facilities (BI 2009c, 27–28). Figure 2 shows the range of liquidity facilities available to commercial banks in Indonesia in October–November 2008. 
+
+
+[FIGURE id=vol7_iss1_10_f3 type=figure page=14 label="Figure 2" file=figure_2.png caption="Applicable Bank Indonesia Liquidity Facilities in October–November 2008"]
+### **Figure 2: Applicable Bank Indonesia Liquidity Facilities in October–November 2008**
+
+||**Intraday Liquidity Facility for**<br>**Commercial Banks**|**Short-Term Funding**<br>**Facility for**<br>**Commercial Banks**|**Emergency Funding**<br>**Facility for**<br>**Commercial Banks**|
+|---|---|---|---|
+|**Date of First**<br>**Establishment**|November 14, 2008|October 30, 2008|November 18, 2008|
+|**Applicable Legal**<br>**AuthorityA**|No. 10/29/PBI/2008|Nos. 10/26/PBI/2008<br>10/30/PBI/2008|No. 10/31/PBI/2008|
+|**Purpose**|To support the operation of the<br>payments system by providing short-<br>term liquidity|To support funding<br>with a longer time<br>horizon than the<br>intraday facility|To allow banks facing<br>liquidity challenges<br>to remain solvent<br>and to avoid systemic<br>contagion|
+|**Eligible**<br>**Institutions**|Banks experiencing funding<br>difficulties during the hours of<br>operation of the real-time gross<br>settlement system|Banks experiencing a<br>liquidity challenge at<br>the end of the day<br>(overnight) or banks<br>unable to settle<br>Intraday Liquidity<br>Facility liabilities at<br>the end of the day|Banks experiencing a<br>liquidity challenge<br>with a systemic<br>impact (requires FSSC<br>decision)|
+|**Collateral**|Government securities | standard<br>calculation for repo|Government<br>securities, other<br>securities, credit<br>assets | periodic self-<br>appraisal of<br>collateral|Government<br>securities, other<br>securities, credit<br>assets | independent<br>collateral valuation|
+|**CAR**<br>**Requirement**|Not applicable|≥ 8% (after Oct. 26,<br>per No.<br>10/26/PBI/2008)<br>> 0% (after Oct. 30,<br>per No.<br>10/30/PBI/2008)|> 0%|
+
+
+
+A Most recent amended regulations as of November 2008. 
+
+_Sources: BI 2008c; BI 2008d; BI 2008e; BI 2008f; BI 2013._ 
+
+On November 17, Indonesian Sinar Mas Group said it would pay roughly IDR 982 billion to acquire up to a 70% stake in Bank Century (Silka and Suhartono 2008). The _Jakarta Post_ reported that Bank Indonesia had ordered Sinar Mas Group to purchase Bank Century 
+
+
+(Witular 2008). In any case, Sinar Mas Group later rescinded its offer to purchase the bank (DIC 2011). 
+
+**2. Part of a Package: Bank Indonesia prohibited depositor withdrawals from Bank Century and placed Bank Century under supervision and surveillance.** 
+
+Before its takeover by the DIC on November 21, 2008, Bank Indonesia placed Bank Century under intensive supervision and special surveillance on November 6, and requested that Bank Century (a) sell liquid assets, (b) raise capital, and (c) try to find strategic investors (BI 2008j). Per Bank Indonesia regulations, a bank must be placed under special surveillance when its CAR falls below 8% (or when its statutory reserves fall below the minimum reserve requirement). Bank Indonesia also prohibited withdrawals of all types of deposits from Bank Century (BBC News Indonesia 2014). Placing a bank under special surveillance allows Bank Indonesia to order a capital restoration plan; implement mandatory supervisory actions; and order bank shareholders to take numerous actions, including but not limited to the sale of liabilities, suspension of business activities, and the sale of the bank. Had it not designated Bank Century on November 6, Bank Indonesia would have been required by regulation to designate Bank Century as a Bank Under Special Surveillance when it used SFF funds (BI 2004; BI 2008a; Kurniasari 2012). 
+
+On Friday, November 21, when the DIC took over Bank Century, Bank Indonesia prohibited Robert Tantular and seven other Bank Century executives from leaving the country (the first time Bank Indonesia had done so since the 1997 Asian Financial Crisis) (Witular 2008). 
+
+For coverage of the DIC-administered capital injections and the later sale and acquisition of Bank Century, see the Appendix. 
+
+**3. Legal Authority: The Bank Indonesia Act authorized Bank Indonesia emergency lending; Bank Indonesia Regulation Nos. 10/26/PBI/2008 and 10/30/PBI/2008 authorized the SFF.** 
+
+On October 15, the president of Indonesia issued Government Regulation in Lieu of Law (Perpu) No. 4/2008, which established the FSSC, defined a failing bank with systemic impact, and defined the intended route through which to handle systemic crises through the EFF and DIC. Perpu No. 4/2008 defined (though was not the regulatory basis for) the EFF and said it should be used by Bank Indonesia for banks experiencing liquidity challenges with systemic impact. Perpu No. 4/2008 made no mention of the SFF (President RoI 2008). 
+
+The Bank Indonesia Act authorizes Bank Indonesia to provide emergency lending to banks experiencing short-term liquidity (“mismatch”) challenges (a) for a period of no more than 90 days; (b) collateralized at least 100% (but up to 150%) by high-quality, liquid collateral;[8] 
+
+> 8 Haircuts varied based on the composition of collateral. In subsequent investigations, the SAA clarified that the applicable collateralization requirement on Bank Century’s borrowing was 150% (SAA 2014). According to Bank Indonesia regulations, the only way SFF collateral would be required by Bank Indonesia to be 150% was if the collateral were entirely composed of credit assets (BI 2008c). 
+
+
+(c) consistent with Bank Indonesia regulations; and (d) based on Syariah Principles[9] (President RoI 1999). 
+
+Bank Century collateralized its borrowing from the SFF by only 83% (see Key Design Decision No. 5, Governance). 
+
+On October 30, Bank Indonesia passed Regulation No. 10/26/PBI/2008, which authorized and governed the SFF (BI 2008c). 
+
+On November 14, Bank Indonesia passed Regulation No. 10/30/PBI/2008, amending Regulation No. 10/26/PBI/2008 (BI 2008d). In doing so, it reduced the capital adequacy requirement (CAR) from ≥ 8% to > 0%, reduced the collateral requirement for credit assets from those collateralized 110% to simply collateralized credit assets, and introduced an article pursuant to which Bank Indonesia would designate any bank using the SFF as a “Bank under Special Surveillance” (BI 2008c; BI 2008d). 
+
+Bank Indonesia Regulation No. 10/30/PBI/2008 required that any bank borrowing from the SFF have a positive CAR; however, Bank Indonesia later disclosed that, as of October 31, 2008, Bank Century had a CAR of –3.35%, and Bank Indonesia relied upon September figures to assess that Bank Century had a positive CAR (BI 2008d; ICW 2009; SAA 2014). In a 2009 press release, Bank Indonesia said that it had to rely on September data because Bank Century managers were unable to fulfill a request for CAR data from Bank Indonesia supervisors (BI 2009a). 
+
+In 2014, in the context of the trial of former Bank Indonesia Deputy Governor Budi Mulya (for alleged corruption connected with the government’s response to the Bank Century crisis in 2008), a prosecutor asked then-Governor Boediono if the disbursement of the SFF funds was illegal since the funds were disbursed before documentation for SFF access was completed; Boediono said he did not know. When asked whether it was permissible to ignore the regulations on proper documentation before extending SFF credit, Boediono said: 
+
+I am not in the position [to confirm it], but the situation at that time was very urgent, and we had to decide between whether to close the bank to later cause a run or to complete the documentation later. During a crisis, the most important thing is public confidence. (Natalia 2014a) 
+
+Legal challenges associated with Bank Indonesia’s and the DIC’s handling of the Bank Century case arising from a Bank Century customer’s being unable to access her savings eventually reached the Court, the nation’s final arbiter on constitutional law. In its decision, the Court said that Bank Indonesia had issued Regulation Nos. 10/26/PBI/2008 and 10/30/PBI/2008 (concerning the SFF) solely to provide a legal justification for giving Bank Century access to a “bailout” (Constitutional Court 2010, paras. 3.9–3.11). Further, the Court 
+
+> 9 Syariah laws, part of the Islamic tradition, prohibit the payment of interest on loans. The Bank Indonesia Act defines financing based on Syariah (often transliterated as Sharia or Shari’ah) Principles to be “a provision of money or any claim which is similar as such based on an agreement between Bank Indonesia and a Bank which requires such Bank to repay the money or such claim after a certain period with a fee or production sharing” (President RoI 1999, ch. 1, art. 1). 
+
+
+said that the FSSC lacked measurable criteria against which to determine whether Bank Century was a “failing bank with a systemic impact” (Constitutional Court 2010, para. 3.14). The Court ruled that Perpu No. 4/2008—which created the FSSC and authorized the EFF— was illegal and no longer had legal force (Constitutional Court 2010). 
+
+The Court also said there was wrongdoing in the DIC’s handling of Bank Century; for more on the capital injections, see the Appendix. 
+
+## **4. Administration: Bank Indonesia administered the short-term funding facility.** 
+
+Within Bank Indonesia, three deputies oversaw the SFF: the deputy for monetary management, the deputy for credit, and the deputy for bank supervision (Natalia 2014a). 
+
+To obtain SFF financing, Bank Century had to submit a written application to Bank Indonesia along with supporting documentation comprising: a bank statement showing a liquidity challenge, documents supporting the size of liquidity needed, a list of collateral-eligible assets with their own supporting documents, a letter representing that all listed collateral assets were unencumbered, and a letter describing the bank’s ability to pay all obligations resulting from SFF use. Bank Indonesia could approve or deny any application for SFF use. Bank Indonesia’s decision to grant or deny SFF access was contingent on: the applicant bank meeting all SFF requirements, providing all necessary supporting documentation, and Bank Indonesia’s determination that the applicant bank would be unable to meet its reserve requirements based on forecasted 14-day cash flows in the absence of SFF funding (BI 2008c). 
+
+Once approved, the applicant bank and Bank Indonesia would sign an SFF agreement containing approval and an attached collateral agreement. All transactions associated with the SFF would be processed through the borrowing bank’s rupiah-denominated account at Bank Indonesia. When the SFF credit line matured, Bank Indonesia debited the borrowing bank’s (rupiah-denominated) account at Bank Indonesia the amount of the SFF lending plus interest (BI 2008c). 
+
+## **5. Governance: The Board of Governors of Bank Indonesia governed the use of the SFF; the SAA completed an audit of Bank Indonesia’s handling of the Bank Century case.** 
+
+The Board of Governors of Bank Indonesia authorized the use of the SFF (Natalia 2014a). The BI Board consists of a governor, a senior deputy governor, and between four and seven deputy governors (President RoI 1999). 
+
+The House of Representatives (also known as the People's Representative Council)— Indonesia’s lower house of Parliament—ordered numerous audits by the SAA of the handling of Bank Century by Bank Indonesia, the FSSC, and the DIC (see Figure 1, Timeline). With respect to SFF liquidity, the SAA said that Bank Indonesia (a) had granted Bank Century access to the SFF in breach of applicable regulations; (b) had intentionally changed the CAR requirement in its SFF regulations from at least 8% to above 0% with the intention of specifically allowing Bank Century to access the facility; (c) used inappropriate CAR data (specifically, relying on outdated September data showing a CAR of 2.44% instead of October 
+
+
+data showing a CAR of –3.35%) to allow Bank Century to access the (already amended) SFF; and (d) granted liquidity support to Bank Century while being secured by collateral representing only 83% of the lent SFF funds, whereas the regulations called for 150% collateralization (SAA 2011; SAA 2014). 
+
+Further, with respect to the determination of Bank Century as a failed bank with a systemic impact, the SAA said that the FSSC had predetermined to designate Bank Century as a failed bank with a systemic impact and made its determination without relying on accurate and complete data from Bank Indonesia on the true condition of the bank (SAA 2011; SAA 2014). 
+
+**6. Communication and Disclosure: Bank Indonesia disclosed Bank Century’s clearing challenges but disclosed its provision of SFF funding to Bank Century only when the DIC took it over; Bank Century disclosed its access to the SFF in regulatory filings.** 
+
+Bank Indonesia disclosed the use of the SFF by one private bank in its 2008 annual report but did not name Bank Century (BI 2009c). Bank Indonesia disclosed the regulations governing the SFF to the public through its website and issued a press release when it amended the SFF regulations (BI 2008c; BI 2008d; BI 2008i). Bank Indonesia issued two press releases—on November 13 and 14—about stresses in the banking system and said that Bank Century had experienced issues with clearing activities due to “a technical problem” (Nov. 13), later (Nov. 14) saying “a technical factor related to tardiness in prefund credit”—but did not disclose that it had provided SFF funding to Bank Century (BI 2008g; BI 2008h). 
+
+Bank Century said in a public statement on November 14 that its failure to participate in payments clearing on November 13 was a result of a technical delay in allocating prefund cash (Suharmoko 2008). Bank Century disclosed the short-term funding liquidity from Bank Indonesia through its monthly financial statements, 2008 annual report, and 2008 audited financial statements. Our research was unable to uncover press releases or other public communications from Bank Century with respect to SFF access (before its takeover by the DIC). 
+
+Bank Indonesia made numerous mentions of unfounded rumors and misinformation about Bank Century. In a November 13 press release, Bank Indonesia said, “it is hoped that the wider community will remain wise in responding to news whose sources are unclear” (BI 2008g). On November 14, Bank Indonesia issued a press release saying that rumors were spreading about the safety of the banking system and that such rumors were false: 
+
+Bank Indonesia is very concerned with the rumors diffused lately that are considered capable of interrupting people’s trust in our banking sector. The dispersed rumors include the statement that a number of banks are facing difficulties in funding and that [an] enormous fund withdrawal was made by bank customers. “We would like to firmly declare that the rumors are not true and 
+
+
+have been spread without any [principled] basis”, stated the Governor of Bank Indonesia, Boediono. (BI 2008h) 
+
+In the same press release, Bank Indonesia said it would always be completely prepared to provide cash to banks all over the country and that it had activated the SFF in order to provide liquidity support to banks (BI 2008h). 
+
+Bank Indonesia disclosed the DIC takeover of Bank Century via a press release on November 21 (BI 2008k). Bank Indonesia included an attachment to that press release that disclosed that Bank Indonesia had provided Bank Century with access to the SFF; the press release also disclosed that the DIC intended to provide capital to Bank Century (BI 2008j). On the same day, the FSSC issued a press release communicating the FSSC’s determination that Bank Century was a failed bank with systemic impact (FSSC 2008). That day (November 21), Bank Indonesia and the DIC also issued a joint press release describing the DIC takeover (BI and DIC 2008). For more on the DIC’s capital injections, see the Appendix. 
+
+**7. Source and Size of Funding: Bank Indonesia extended a total of IDR 689.4 billion through the SFF.** 
+
+The maximum size of the SFF credit line was as much as the borrowing bank needed to fulfill its reserve requirement regulatory minimum (BI 2013). However, use of the SFF required posting collateral worth 150% of the loan value (see Key Design Decision No. 10, Balance Sheet Protection). Bank Century posted collateral covering only 83% of the loan value (see Key Design Decision No. 10, Balance Sheet Protection). 
+
+At the time, the primary reserve requirement[10] for commercial banks in Indonesia was 5%, meaning that any commercial bank was required to hold a current account balance at Bank Indonesia equal to at least 5% of its liabilities (BI 2008b). Although day-to-day data was not publicly available, one independent scholarly estimate using a monthly banking report from October 2008 shows that Bank Century’s reserve ratio was 1.7%, leaving a roughly IDR 356.7 billion shortfall for the bank to reach the minimum 5% primary reserve ratio. By November, after drawing from the SFF facility, Bank Century’s reserve ratio rose to 5.4% (Kurniasari 2012). 
+
+During the course of its access to the SFF, Bank Century drew a total of IDR 689.4 billion in multiple tranches (see Figure 1, Timeline) (ICW 2009). The SFF lending was funded through Bank Indonesia’s balance sheet, where it showed the SFF Bank Century lending as an asset (claim on banks) (BI 2009c). 
+
+> 10 There was also a supplementary secondary reserve requirement, which required an additional 2.5% coverage for third-party funds in the form of government securities (instead of the Bank Indonesia reserves required by the primary reserve requirement) (BI 2008b). 
+
+
+**8. Rate and Fees: Bank Indonesia charged the BI Rate plus 100 basis points on the SFF lending, which, for Bank Century, was between 9.25% and 10.5%.** 
+
+The SFF’s interest rate was the BI Rate[11] plus 100 basis points (bps) (BI 2008c, art. 14). Bank Indonesia charged interest only on the amount of the total facility drawn (used) by the borrowing bank (BI 2008c). 
+
+On November 14, when Bank Century first accessed the facility, the BI Rate was 9.5% (BIS 2023). Then, Bank Indonesia lowered the policy rate three times by 25 bps to 9.25% in December 2008, 50 bps to 8.75% in January 2009, and 50 bps to 8.25% in February 2009 (BIS 2023). Since the SFF rate was the BI Rate plus 100 bps, the rates on Bank Century’s SFF access ranged between 9.25% and 10.5%. 
+
+**9. Loan Duration: The total term of Bank Century’s liquidity facility was 90 days; the DIC took control of Bank Century before the term ended, injected IDR 6.8 trillion in capital, repaid the BI for its loan to Bank Century, and sold the bank in 2014.** 
+
+The SFF’s duration was 14 calendar days, renewable for no longer than 90 calendar days (from the signing of the agreement, not the disbursement of funds) (BI 2013). For the facility to be eligible for extension or renewal, (a) interest on maturing SFF funds had to be paid, (b) the borrowing bank had to be unable to meet its reserve requirement based on forecasted 14-day cash flows, and (c) the collateral had to remain sufficient (BI 2008c). 
+
+Bank Century rolled the facility from November 14, 2008, until February 11, 2009, or 90 days from the initial date, which was the maximum rollover period allowed by the regulation. The DIC paid off the SFF borrowing on February 11, 2009, after Bank Century received capital from the DIC’s Temporary Investment Facility (BI 2009c; ICW 2009). 
+
+By November 21, 2008, liquidity pressures had intensified on Bank Century, and customer perceptions of the bank had deteriorated (BI 2008j). On Friday, November 21, 2008, the FSSC declared Bank Century a failed bank with a systemic impact, and the DIC took over its operations (BI 2008k; FSSC 2008). Bank runs continued, and the DIC injected liquidity (later evaluated to be its capital injection or temporary equity participation) into Bank Century to maintain the bank’s operations in the face of depositor withdrawals. Of the IDR 6.8 trillion (roughly equivalent to Bank Century’s negative equity on November 20, 2008) injected by the DIC in 2008–2009, 59% (IDR 4 trillion) was used to backstop depositor withdrawals (DIC 2011). (See the Appendix for a description of the DIC’s special administration of Bank Century.) 
+
+On February 11, 2009, the DIC paid off all of Bank Century’s SFF obligations (BI 2009c). In 2013, at the request of Bank Indonesia, the DIC injected another IDR 1.2 trillion into the bank. 
+
+> 11 The BI Rate was Bank Indonesia’s primary policy (or reference) rate at the time; Bank Indonesia replaced this rate with the BI 7-Day reverse repo rate on August 19, 2016 (BI n.d.). 
+
+
+In 2014, the DIC sold its shares of Bank Century (then named Bank Mutiara) to J Trust Co., Ltd. for IDR 4.4 trillion (a recovery rate of 55%) (DIC 2015). 
+
+Four days after it released SFF funds to Bank Century, Bank Indonesia also created a special Emergency Funding Facility for Commercial Banks (BI 2008f). Governor Boediono said that Bank Indonesia extended emergency credit under the SFF instead of the EFF because the EFF was not yet operational (but was previously authorized—on October 15—to operate as the main emergency funding facility for commercial banks; see Key Design Decision No. 3, Legal Authority) (Natalia 2014a). 
+
+**10. Balance Sheet Protection: Bank Century pledged loans and government bonds as collateral.** 
+
+Borrowing banks were required by regulation to provide collateral against SFF lending in the form of securities or credit assets. Eligible securities included (a) government securities or, in the event that the borrowing bank did not have adequate government securities, (b) actively traded investment-grade corporate securities with a duration of at least 90 days. 
+
+Collateral-eligible credit assets included those that satisfied the following conditions: 
+
+- Had liquidity for the past three months, 
+
+- Was not a consumption loan (with the exception of mortgage loans), 
+
+- Was not a loan related to parties of the borrowing bank, 
+
+- Was collateralized, 
+
+- Outstanding loan did not exceed loan ceiling and maximum loan extension on the time of disbursement, and 
+
+- Had a legally binding collateral and loan agreement. (BI 2008c) 
+
+Bank Indonesia applied haircuts for the SFF collateral. The collateral valuation was calculated as follows: 100% for Bank Indonesia certificates or Bank Indonesia Syariah certificates; 105% for government securities or state Syariah securities; 120% for eligible corporate securities; and 150% for credit assets (BI 2008c). 
+
+The SAA later found that Bank Indonesia granted liquidity support to Bank Century while being secured by collateral representing only 83% of the lent SFF funds, whereas the regulations called for 150% collateralization (SAA 2011; SAA 2014). According to Bank Indonesia regulations, the only way SFF collateral would be required by Bank Indonesia to be 150% was if the collateral were entirely composed of credit assets (BI 2008c). 
+
+Bank Indonesia disputed the allegation that posted collateral represented only 83% of the loan. In a 2009 press release, Bank Indonesia responded to that claim in a section titled, “Is it true that the value of collateral put forward by Century Bank upon receiving the [SFF] was 
+
+
+only 83% of the ceiling and, therefore, insufficient to fulfill the requirement of 150%?” (BI 2009a). Bank Indonesia said that the IDR 689.4 billion loan was collateralized 150% by IDR 9.9 billion of government securities and IDR 1 trillion of credit assets (BI 2009a). Bank Indonesia said that the SAA’s 83% calculation was flawed because its calculation of credit assets used a methodology from a Bank Indonesia memorandum that itself was incorrect in the definition of credit assets eligible as SFF collateral (BI 2009a). 
+
+Bank Indonesia required that all collateral posted for the SFF was unencumbered at the time of pledging and that any borrowing bank could not trade or repledge the posted collateral. Bank Indonesia also required SFF borrower banks to periodically appraise posted collateral. In the event of a decrease in the value or liquidity of pledged collateral, SFF borrower banks were required by Bank Indonesia to add or replace collateral (BI 2008d). 
+
+In the event that the borrowing bank’s account at Bank Indonesia was insufficient to cover the debt from the SFF credit line, Bank Indonesia could seize the posted collateral and would continue to charge interest until the execution of collateral was complete. If the seized collateral’s value were less than the amount owed to Bank Indonesia for the SFF credit line, the borrowing bank would incur a liability against Bank Indonesia (and if the value were greater than the SFF debt, Bank Indonesia would pay back the difference) (BI 2008c). 
+
+The SAA later found that Bank Century had posted collateral worth only 83% of SFF funds, in contrast to the 150% required by regulation (SAA 2014). 
+
+## **11. Impact on Monetary Policy Transmission: Our research did not uncover any impact from the lending on monetary policy transmission.** 
+
+Our research did not uncover any impact of the SFF lending to Bank Century on monetary policy transmission. 
+
+**12. Other Conditions: Bank Century bore all incurred costs, was mandated by Bank Indonesia to report on its use of SFF funds, and faced potential sanctions if it misused funds.** 
+
+While using the SFF, Bank Century could not place funds at Bank Indonesia (BI 2013). Within five days of the disbursement of SFF funds, Bank Century was required to submit to Bank Indonesia a remedial action plan to overcome its liquidity challenges. Bank Indonesia required Bank Century to submit a report on its use of SFF funds and its liquidity position at the end of every business day (BI 2008c). 
+
+As a result of Bank Century’s use of SFF funds, Bank Indonesia had the authority to conduct an examination of Bank Century to supervise the use of the SFF funds. Any and all costs incurred by Bank Indonesia in providing SFF funding (including costs related to collateral execution) would be borne by Bank Century. If Bank Century (a) did not repay the SFF, (b) violated Bank Indonesia regulations governing the SFF, or (c) failed a Bank Indonesia examination of its use of SFF funds, then Bank Indonesia could impose sanctions on the bank including suspension of eligibility to the SFF for a prescribed period of time, a written warning, prohibition of rights to participate in clearing activities, suspension of some business activities, or dismissal of its management (BI 2008c). 
+
+
+Further, Bank Indonesia could impose sanctions on Bank Century’s management team if it failed to ensure compliance with SFF regulations or failed to provide required documentation to Bank Indonesia (BI 2008c). 
+
+
+## **References and Key Program Documents** 
+
+## **Legal/Regulatory Guidance** 
+
+(BI 2004) Bank Indonesia (BI). 2004. “Concerning Follow-Up Supervision and Determination of Bank Status.” Regulation No. 6/9/PBI/2004, March 26, 2004. 
+
+_Bank Indonesia regulation providing for the minimum capital adequacy ratios for banks (in Indonesian)_ . 
+
+https://elischolar.library.yale.edu/ypfs-documents2/4260 
+
+(BI 2008a) Bank Indonesia (BI). 2008a. “Concerning Minimum Capital Requirement of Commercial Banks.” Regulation No. 10/15/PBI/2008, October 15, 2008. 
+
+_Bank Indonesia regulation providing for the commercial bank capital requirements (in Indonesian)_ . https://elischolar.library.yale.edu/ypfs-documents2/4264 
+
+(BI 2008b) Bank Indonesia (BI). 2008b. “Concerning Amendment to Bank Indonesia Regulation No. 10/19/PBI/2008 about Minimum Reserve Requirements for Commercial Banks.” Regulation No. 10/25/PBI/2008, October 23, 2008. 
+
+_Bank Indonesia regulation amending capital requirements regulations (in Indonesian)_ . https://elischolar.library.yale.edu/ypfs-documents2/4265 
+
+(BI 2008c) Bank Indonesia (BI). 2008c. “Concerning Short-Term Financing Facility to Commercial Banks.” Regulation No. 10/26/PBI/2008, October 30, 2008. 
+
+_Bank Indonesia regulation creating the Short-Term Funding Facility (in Indonesian)_ . https://elischolar.library.yale.edu/ypfs-documents2/4266 
+
+(BI 2008d) Bank Indonesia (BI). 2008d. “Amendment of Short-Term Funding Facility for Commercial Banks.” Regulation No. 10/30/PBI/2008, November 14, 2008. _Bank Indonesia regulation amending the Short-Term Funding Facility (in Indonesian)_ . https://elischolar.library.yale.edu/ypfs-documents2/4262 
+
+(BI 2008e) Bank Indonesia (BI). 2008e. “Concerning Intraday Liquidity Facility for Commercial Banks.” Regulation No. 10/29/PBI/2008, November 14, 2008. 
+
+_Bank Indonesia regulation creating the Intraday Liquidity Facility for Commercial Banks (in Indonesian)_ . 
+
+https://elischolar.library.yale.edu/ypfs-documents2/4268 
+
+(BI 2008f) Bank Indonesia (BI). 2008f. “Concerning Emergency Liquidity Assistance for Commercial Banks.” Regulation No. 10/31/PBI/2008, November 18, 2008. 
+
+_Bank Indonesia regulation providing for emergency liquidity assistance collateral policies_ . http://elischolar.library.yale.edu/ypfs-documents2/4320 
+
+
+(Constitutional Court 2010) Constitutional Court of the Republic of Indonesia (Constitutional Court). 2010. Decision No. 145/PUU-VII/2009. April 12, 2009. 
+
+_Court decision determining that Bank Indonesia acted to support Bank Century specifically in an ad hoc fashion (in Indonesian)_ . 
+
+https://elischolar.library.yale.edu/ypfs-documents2/4283 
+
+(President RoI 2004) President of the Republic of Indonesia (President RoI). 2004. Deposit Insurance Corporation Law No. 24/2004. September 22, 2004. 
+
+_Law authorizing the Deposit Insurance Corporation and delegating powers to it (in Indonesian)_ . https://elischolar.library.yale.edu/ypfs-documents2/4305 
+
+(President RoI 2008) President of the Republic of Indonesia (President RoI). 2008. Government Regulation in Lieu of Law (Perpu) No. 4/2008 Regarding the Financial System Safety Network. October 15, 2008. 
+
+_Government regulation (in lieu of law) creating the EFF and the FSSC (in Indonesian)_ . https://elischolar.library.yale.edu/ypfs-documents2/4307 
+
+(President RoI 1999) President of the Republic of Indonesia (President RoI). 1999. Bank Indonesia Act No. 23/1999. May 17, 1999. 
+
+_Legislation authorizing the creation of Bank Indonesia and describing its authorities (unofficial translation)_ . 
+
+https://elischolar.library.yale.edu/ypfs-documents2/4304 
+
+## **Media Stories** 
+
+(BBC News Indonesia 2014) BBC News Indonesia. 2014. “Flashback to the Century Bank Case.” July 16, 2014. 
+
+_News article describing the timeline of events in the Bank Century case (in Indonesian)_ . https://elischolar.library.yale.edu/ypfs-documents2/4279 
+
+(Ferdianto 2010) Ferdianto, Riky. 2010. “DPR Decides Century Bank Bailout Incorrect.” _Nasional_ , March 3, 2010. 
+
+_News article announcing the House committee vote on Bank Century rescue (in Indonesian)_ . https://elischolar.library.yale.edu/ypfs-documents2/4290 
+
+(Gelling 2010) Gelling, Peter. 2010. “Indonesian Lawmakers Vote for Investigation of Bank Bailout.” _New York Times_ , March 4, 2010. 
+
+_News article describing the House vote for the criminal investigation of the Bank Century case_ . https://elischolar.library.yale.edu/ypfs-documents2/4293 
+
+(Indonesia Investments 2014) Indonesia Investments. 2014. “Corruption in Indonesia: Budi Mulya Found Guilty in Bank Century Case.” sec. News Columns, July 17, 2014. _News article describing guilty verdict against Budi Mulya_ . https://elischolar.library.yale.edu/ypfs-documents2/4297 
+
+(Ismar and Silka 2008) Ismar, Andreas, and Tyagita Silka. 2008. “Indonesia’s Bank Century Says Has Enough Capital.” Reuters, November 27, 2008. 
+
+
+_Article describing Bank Century’s improved CAR since DIC takeover_ . https://elischolar.library.yale.edu/ypfs-documents2/4299 
+
+(Natalia 2014a) Natalia, Desca Lidya. 2014a. “Century Bank Was in Dire Need of Lending Facility.” _Antara News_ , May 9, 2014. 
+
+_News article discussing Century Bank’s need for the short-term liquidity facility_ . https://elischolar.library.yale.edu/ypfs-documents2/4302 
+
+(Natalia 2014b) Natalia, Desca Lidya. 2014b. “CEC Fits Cases Related to the Century Appeal Decision.” _Antara News_ , December 15, 2014. 
+
+_News article describing the appeals process in the case against a Bank Indonesia banker in connection with corruption (in Indonesian)_ . 
+
+http://elischolar.library.yale.edu/ypfs-documents2/4252 
+
+(NBC News 2010) NBC News. 2010. “Indonesian Bank Bailout Sparks Violent Protest.” March 2, 2010. 
+
+_News article reporting violent protests in response to the Bank Century bailout_ . https://elischolar.library.yale.edu/ypfs-documents2/4303 
+
+(Santosa 2010) Santosa, Teguh. 2010. “Rereading the Boediono Relationship and the Century Bank Scandal.” RMOL, November 29, 2010. 
+
+_Article describing Boediono’s role in the Bank Century crisis (in Indonesian)_ . https://elischolar.library.yale.edu/ypfs-documents2/4308 
+
+(Silka and Suhartono 2008) Silka, Tyagita, and Harry Suhartono. 2008. “Indonesia’s Sinar Mas to Buy Bank Century.” Reuters, November 17, 2008. 
+
+_Article reporting planned acquisition of Bank Century by Sinar Mas_ . https://elischolar.library.yale.edu/ypfs-documents2/4309 
+
+(Suharmoko 2008) Suharmoko, Aditya. 2008. “No Systemic Threat from Bank Century Hitch: BI.” _Jakarta Post_ , November 14, 2008. 
+
+_Article describing Bank Century’s payments clearing failure_ . https://elischolar.library.yale.edu/ypfs-documents2/4310 
+
+(Sukarsono and Kate 2009) Sukarsono, Achmad, and Daniel Ten Kate. 2009. “Indonesia’s Boediono Testifies on Role in Bank Century Bailout.” Bloomberg, December 21, 2009. _News article describing the public reaction to the Bank Century scandal_ . http://elischolar.library.yale.edu/ypfs-documents2/4253 
+
+(Wahono 2009) Wahono, Bonardo Maulana. 2009. “Up Close with Boedi Sampoerna.” _Viva News_ , September 14, 2009. 
+
+_News article describing controversial deposit account of Boedi Sampoerna_ . https://elischolar.library.yale.edu/ypfs-documents2/4281 
+
+(Wibowo 2009) Wibowo, Sugeng. 2009. “BI Responds to BPK Audit Report Century to the DPR.” Kompas, November 23, 2009. 
+
+_Article describing Bank Indonesia’s response to the audit report of its handling of the Bank Century_ 
+
+
+_crisis (in Indonesian)_ . 
+
+https://elischolar.library.yale.edu/ypfs-documents2/4315 
+
+(Witular 2008) Witular, Rendi A. 2008. “BI to Hunt Century Assets Kept Overseas.” _Jakarta Post_ , November 24, 2008. 
+
+_Article reporting the Indonesian government’s travel prohibition on Bank Century executives and search for offshore Bank Century money_ . 
+
+http://elischolar.library.yale.edu/ypfs-documents2/4254 
+
+(Witular 2014) Witular, Rendi. 2014. “Century’s ‘Systemic Threat’ Justification Crumbles.” _Jakarta Post_ , March 6, 2014. 
+
+_News article describing investigations into the systemic impact analysis of Bank Century_ . https://elischolar.library.yale.edu/ypfs-documents2/4317 
+
+(Wright 2009) Wright, Tom. 2009. “Jakarta Official Defends Bailout.” _Wall Street Journal_ , December 10, 2009. 
+
+_Article reporting Sri Mulyani Indrawati’s response to government probe regarding the handling of the Bank Century crisis_ . 
+
+https://elischolar.library.yale.edu/ypfs-documents2/4318 
+
+## **Press Releases/Announcements** 
+
+(BI 2008g) Bank Indonesia (BI). 2008g. “Press Statement.” Press release, November 13, 2008. _Press release disclosing Bank Century’s failure to successfully partake in payments clearing activities (in Indonesian)_ . 
+
+https://elischolar.library.yale.edu/ypfs-documents2/4270 
+
+(BI 2008h) Bank Indonesia (BI). 2008h. “The Latest National Banking Development.” Press release No. 10/58/PSHM/Humas, November 14, 2008. 
+
+_Press release criticizing rumors related to the soundness of the Indonesian banking system_ . https://elischolar.library.yale.edu/ypfs-documents2/4273 
+
+(BI 2008i) Bank Indonesia (BI). 2008i. “Bank Indonesia Amends Regulation Regarding the Liquidity Facility for Commercial Banks.” Press release No.10/59/PSHM/Humas, November 18, 2008. _Press release announcing Bank Indonesia’s amendments to its emergency liquidity assistance facilities_ . https://elischolar.library.yale.edu/ypfs-documents2/4261 
+
+
+(BI 2008j) Bank Indonesia (BI). 2008j. “Q&A Regarding the Takeover of Bank Century.” Press release, November 21, 2008. 
+
+_Attachment to the press release titled “Takeover of Bank Century by Deposit Insurance Corporation (DIC)” providing answers to FAQs with respect to the takeover_ . https://elischolar.library.yale.edu/ypfs-documents2/4271 
+
+(BI 2008k) Bank Indonesia (BI). 2008k. “Takeover of Bank Century by Deposit Insurance Corporation (DIC).” Press release, November 21, 2008. 
+
+_Press release announcing the takeover of Bank Century by the Indonesian Deposit Insurance Corporation_ . 
+
+https://elischolar.library.yale.edu/ypfs-documents2/4272 
+
+(BI 2009a) Bank Indonesia (BI). 2009a. “Q&A: Short-Term Funding Facility.” Press release, November 30, 2009. 
+
+_Press release from Bank Indonesia describing its assessment of Bank Century and explaining why it provided SFF access to it_ . 
+
+https://elischolar.library.yale.edu/ypfs-documents2/4275 
+
+(BI 2009b) Bank Indonesia (BI). 2009b. “Q&A: Systemic Impact of Bank Century.” Press release, November 30, 2009. 
+
+_Press release from Bank Indonesia describing its rationale for designating Bank Century as a failed bank with systemic impact_ . 
+
+http://elischolar.library.yale.edu/ypfs-documents2/4319 
+
+(BI and DIC 2008) Deposit Insurance Corporation, and Bank Indonesia (BI and DIC). 2008. “Joint Press Release Regarding the Acquisition of Bank Century by the Deposit Insurance Corporation.” Press release, November 21, 2008. 
+
+_Press release announcing the DIC’s takeover of Bank Century (in Indonesian)_ . 
+
+https://elischolar.library.yale.edu/ypfs-documents2/4284 
+
+(ICW 2009) Indonesia Corruption Watch (ICW). 2009. “BPK’s Audit of Century Must Prove the Flow of Funds and Who Benefits.” Press release, November 23, 2009. 
+
+_Press release describing the chronology of the government’s intervention in the Bank Century case (in Indonesian)_ . 
+
+https://elischolar.library.yale.edu/ypfs-documents2/4296 
+
+(SAA 2011) Supreme Audit Agency of the Republic of Indonesia (SAA). 2011. “BPK RI Submits Report on Results of Continuing Investigations on the Case of PT Bank Century, Tbk.” Press release, December 23, 2011. 
+
+_Press release announcing the submission of the SAA’s report on the government’s handling of the Bank Century crisis (in Indonesian)_ . 
+
+https://elischolar.library.yale.edu/ypfs-documents2/4311 
+
+
+## **Reports/Assessments** 
+
+(BI 2009c) Bank Indonesia (BI). 2009c. Annual Financial Statements 2008. _Annual report of Bank Indonesia for 2008_ . https://elischolar.library.yale.edu/ypfs-documents2/4274 
+
+(BI 2013) Bank Indonesia (BI). 2013. “Rupiah Liquidity: Intraday Liquidity Facility, Short Term Funding Facility, Emergency Financing Facility.” 2013. 
+
+_Bank Indonesia report consolidating regulations related to rupiah liquidity facilities (in Indonesian)_ . https://elischolar.library.yale.edu/ypfs-documents2/4276 
+
+(BI n.d.) Bank Indonesia (BI). n.d. “BI-Rate.” Accessed July 22, 2024. _Bank Indonesia webpage explaining its policy rate regime_ . https://elischolar.library.yale.edu/ypfs-documents2/4278 
+
+(BIS 2023) Bank for International Settlements (BIS). 2023. “Central Bank Policy Rates.” October 3, 2023. 
+
+_Historical data series on central bank policy rates_ . https://elischolar.library.yale.edu/ypfs-documents2/4257 
+
+(DIC 2009) Deposit Insurance Corporation (DIC). 2009. Annual Report 2008. _Annual report of the Deposit Insurance Corporation for 2008_ . https://elischolar.library.yale.edu/ypfs-documents2/4285 
+
+(DIC 2010) Deposit Insurance Corporation (DIC). 2010. Annual Report 2009. _Annual report for the Deposit Insurance Corporation for 2009_ . https://elischolar.library.yale.edu/ypfs-documents2/4286 
+
+(DIC 2011) Deposit Insurance Corporation (DIC). 2011. “5 Years of Deposit Insurance Corporation Safeguarding Customer Deposits and Maintaining Banking System Stability.” May 1, 2011. _DIC report describing DIC actions in the Bank Century case (in Indonesian)_ . https://elischolar.library.yale.edu/ypfs-documents2/4287 
+
+(DIC 2015) Deposit Insurance Corporation (DIC). 2015. Annual Report 2014. _Annual report of the Indonesian Deposit Insurance Corporation for the year 2014_ . https://elischolar.library.yale.edu/ypfs-documents2/4288 
+
+(FSSC 2008) Financial System Stability Committee (FSSC). 2008. “Determination of Century Bank as a Failed Bank with Systemic Impact.” November 21, 2008. 
+
+_FSSC administrative decision designating Bank Century as a failed bank with systemic impact (in Indonesian)_ . 
+
+https://elischolar.library.yale.edu/ypfs-documents2/4291 
+
+
+(SAA 2014) Supreme Audit Agency of the Republic of Indonesia (SAA). 2014. “BPK RI Auditor Gives Expert Information about Bank Century Case.” May 6, 2014. 
+
+_Article describing the capital adequacy ratio changes and collateral size in the SFF lending to Bank Century (in Indonesian)_ . 
+
+https://elischolar.library.yale.edu/ypfs-documents2/4313 
+
+(Widiati 2016) Widiati, Afani. 2016. “Chronology of the Bank Century Case.” Diponegoro University, 2016. _Article providing a timeline of the Bank Century crisis (in Indonesian)_ . https://elischolar.library.yale.edu/ypfs-documents2/4316 
+
+## **Key Academic Papers** 
+
+(Bachriani 2014) Bachriani, Riesia Darma. 2014. “Criminal Offense Aspects in the Banking World at Bank Century.” _QISTIE Journal of Legal Science_ 7, no. 2. 
+
+_Academic study arguing for the existence of criminality in the handling of the Bank Century crisis (in Indonesian)_ . 
+
+https://elischolar.library.yale.edu/ypfs-documents2/4255 
+
+(Kelly et al. 2025) Kelly, Steven, Vincient Arnold, Greg Feldberg, and Andrew Metrick. 2025. “Survey of Ad Hoc Emergency Liquidity Programs." _Journal of Financial Crises_ 7, no. 1. _Survey of YPFS case studies examining the provision of ad hoc emergency liquidity_ . https://elischolar.library.yale.edu/journal-of-financial-crises/vol7/iss1/3/ 
+
+(Kurniasari 2012) Kurniasari, Widita. 2012. “Analysis of the Balance Sheet in the Case of Bank Century Bailout.” _InFestasi Journal_ 8, no. 1: 97–106, June 1: 97–106. 
+
+_Study analyzing publicly available data on Bank Century’s balance sheet throughout its failure (in Indonesian)_ . 
+
+https://elischolar.library.yale.edu/ypfs-documents2/4300 
+
+(Wiggins et al. 2022) Wiggins, Rosalind Z., Sean Fulmer, Greg Feldberg, and Andrew Metrick. 2022. “Broad-Based Emergency Liquidity Programs.” _Journal of Financial Crises_ 4, no. 2: 86– 178. _Survey of YPFS case studies examining broad-based emergency liquidity programs_ . https://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss2/3 
+
+
+## **Appendix** 
+
+## **Deposit Insurance Corporation Special Administration of Bank Century** 
+
+On Friday, November 21, 2008, Indonesia’s Financial System Stability Committee (FSSC) declared Bank Century a failed bank with a systemic impact, and the Deposit Insurance Corporation (DIC) took over its operations (BI 2008k; FSSC 2008). On November 21, when the DIC took over Bank Century’s operations, it asked Bank Indonesia for data on Bank Century’s solvency and liquidity so it could estimate its handling costs. On November 23, the DIC set the handling fee for Bank Century at 2.8 trillion Indonesian rupiah (IDR; in order to increase its CAR to 10%) (DIC 2011). The same day, the DIC removed Bank Century’s management team and replaced it with a DIC-chosen team of professionals (BI and DIC 2008). 
+
+Bank Indonesia had initially forecasted that the capital injection necessary to increase Bank Century’s CAR to 8% would be IDR 632 billion. Initially, the DIC made IDR 2.8 trillion in capital placements at Bank Century, but large-scale depositor withdrawals continued. The DIC injected an additional IDR 2.2 trillion to support Bank Century’s operations so that by December 31, 2008, the DIC had injected a total of IDR 5.0 trillion in capital.[12] Between December 31, 2008, and December 31, 2009, the DIC injected a further IDR 1.8 trillion, bringing its total 2008–2009 capital injections to IDR 6.8 trillion. Of the IDR 6.8 trillion injected, 59% (IDR 4 trillion) was used to pay out depositor withdrawals (DIC 2010; DIC 2011). Figure 3 shows the breakdown of the DIC’s rescue costs (capital injections). 
+
+[FIGURE id=vol7_iss1_10_f4 type=figure page=31 label="Figure 3" file=figure_3.png caption="DIC Rescue Costs (Capital Injections) by Purpose, 2008–2009"]
+### **Figure 3: DIC Rescue Costs (Capital Injections) by Purpose, 2008–2009**
+
+|**Description**|**Amount**<br>**(IDR billions)**|**Share of Total**<br>**(%)**|
+|---|---|---|
+|Bank Indonesia Current Account Funds (Statutory Reserve<br>Requirement)|281.0|4.2|
+|Interbank Loans|303.1|4.5|
+|Third-Party Funds (Depositor Funds)|4,018.8|59.4|
+|SFF Principal and Interest|152.3|2.3|
+|Real-Time Gross Settlements (Payment System) Fees and Reserve<br>Requirement Fines|0.3|0.0|
+|Foreign Exchange Transactions|33.0|0.5|
+|Bank Indonesia Certificates Placements|528.2|7.8|
+|Bank Indonesia Facilities Placements|545.5|8.1|
+|Government Bonds Placements|900.2|13.3|
+|_Total_|_6,762.4_|_100.0_|
+
+
+
+_Sources: DIC 2011; author’s calculations._ 
+
+> 12 Bank Indonesia later said that the reason its estimate (IDR 600 billion) had fallen short was because of a number of securities that had been classified as current but that later become nonperforming (DIC 2011). 
+
+
+Consistent with article 41, clause 2 of the DIC Law, the DIC’s capital injection size was equal to the total cost incurred by the DIC in handling a failed bank (President RoI 2004). In the case of Bank Century, since Bank Century’s resolution costs totaled IDR 6.8 trillion between the DIC’s takeover and year-end 2009, Bank Century issued shares in the same amount to the DIC, such that the DIC owned functionally 100% of Bank Century’s shares[13] (DIC 2010). 
+
+According to the DIC Law, eventual payments of proceeds from share sales by the DIC to bank shareholders depended on the equity of the bank when it was taken over by the DIC. In the case that the bank’s equity was negative (or zero) when taken over by the DIC, previous shareholders of the bank were not entitled to any proceeds from the DIC’s sale of shares of the bank (President RoI 2004). When the DIC took over Bank Century, Bank Century’s equity was IDR negative 6.8 trillion (DIC 2011). 
+
+At the request of Bank Indonesia, in 2013 the DIC injected a further IDR 1.2 trillion in capital into Bank Century to satisfy capital requirements, bringing the total capital injections to IDR 8 trillion (DIC 2015). 
+
+Starting in 2011, the DIC attempted numerous times to sell the shares of Bank Century (Bank Mutiara) but was unable to find eligible buyers. In 2014, the DIC sold its shares of Bank Century (Bank Mutiara) to J Trust Co., Ltd. for IDR 4.4 trillion (a recovery rate of 55%) (DIC 2015). 
+
+Copyright 2025 © Yale University. All rights reserved. To order copies of this material or to receive permission to reprint any or all of this document, please contact the Yale Program on Financial Stability at ypfs@yale.edu. 
+
+> 13 Technically, the DIC owned 99.996% of Bank Century’s shares (DIC 2010).

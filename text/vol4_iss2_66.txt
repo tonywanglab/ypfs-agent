@@ -1,0 +1,675 @@
+--- Page 1 ---
+Journal of Financial Crises Journal of Financial Crises 
+Volume 4 Issue 2 
+2022 
+Canada: Bankers’ Acceptance Purchase Facility Canada: Bankers’ Acceptance Purchase Facility 
+Corey N. Runkel 
+Yale School of Management 
+Follow this and additional works at: https://elischolar.library.yale.edu/journal-of-financial-crises 
+ Part of the Economic Policy Commons, Finance and Financial Management Commons, 
+Macroeconomics Commons, Policy Design, Analysis, and Evaluation Commons, Policy History, Theory, 
+and Methods Commons, and the Public Administration Commons 
+Recommended Citation Recommended Citation 
+Runkel, Corey N. (2022) "Canada: Bankers’ Acceptance Purchase Facility," Journal of Financial Crises: Vol. 
+4 : Iss. 2, 1442-1459. 
+DOI: https://doi.org/10.17132/2693-3179.1355 
+Available at: https://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss2/66 
+This Case Study is brought to you for free and open access by the Journal of Financial Crises and 
+EliScholar – A Digital Platform for Scholarly Publishing at Yale. For more information, please contact 
+journalfinancialcrises@yale.edu.
+
+--- Page 2 ---
+READERS TAKE NOTICE: READERS TAKE NOTICE: 
+As of April 2024, the YPFS Resource Library’s site domain has changed 
+to https://elischolar.library.yale.edu/ypfs-financial-crisis-resource-library/. 
+Please be aware that upon clicking any of the URL references to 
+the former Resource Library domains, either https://ypfs.som.yale.edu 
+or https://ypfsresourcelibrary.blob.core.windows.net/, in the 
+"References/Key Program Documents" section of a case study, 
+readers will encounter a "page not found" error. readers will encounter a "page not found" error. 
+Readers can still retrieve a given resource cited within this case study 
+on the new site  by searching by searching here  for the title cited. for the title cited. 
+This case study is available in Journal of Financial Crises: https://elischolar.library.yale.edu/journal-of-financial-
+crises/vol4/iss2/66
+
+--- Page 3 ---
+Canada: Bankers’ Acceptance Purchase Facility1 
+Corey N. Runkel2 
+Yale Program on Financial Stability Case Study 
+July 15, 2022 
+Abstract 
+Bankers’ acceptances (BAs) are a form of investment security guaranteed by banks to fund 
+loans to businesses against their credit lines. In Canada , BAs underpin the Canadian Dollar 
+Offered Rate (CDOR), the main benchmark used to calculate floating interest rates in 
+Canada’s derivatives market. In 2018, BAs formed the largest segment of money  market 
+securities tra ded in the secondary market at around CAD 35 billion (USD 26 billion) per 
+week. When asset managers and the country’s public pension providers began shedding BAs 
+amid the COVID -19 pandemic in early 2020, CDOR spiked, and the effects threatened to 
+ripple throughout the Canadian financial system. On March 13, 2020, the Bank of Canada 
+(BoC) established the Bankers ’ Acceptance Purchase Facility (BAPF). The BAPF conducted 
+multi-rate reverse auctions with Canadian primary dealers for highly rated BAs of remaining 
+maturities up to 76 days. In its first two operations, dealers sold the BoC the total offered 
+amounts of CAD 15 billion and CAD 20 billion, and the BA market stabilized. The BoC bought 
+another CAD 12 billion of BAs in four operations in April. It c ontinued to offer to buy 
+CAD 10 billion in weekly, then biweekly reverse auctions until October, with no further bids 
+from banks. 
+Keywords: banker’s acceptance, BAPF, BAs, Canada, CDOR, COVID -19 pandemic , market 
+liquidity 
+  
+ 
+1 This case study is part of the Yale Program on Financial Stability (YPFS) selection of New Bagehot Project 
+modules considering market support programs in response to COVID-19. Cases are available from the Journal 
+of Financial Crises at https://elischolar.library.yale.edu/journal-of-financial-crises/. 
+2 Research Associate, YPFS, Yale School of Management. 
+1442
+
+--- Page 4 ---
+Overview 
+A banker’s acceptance ( BA) is a short -term 
+(generally one -month) funding tool for 
+corporate borrowers that provides a “direct 
+and unconditional order” from the borrower 
+to draw down against its established line of 
+credit (McRae and Auger 2018, 1). The bank 
+offering the line of credit also guarantees the 
+BA, providing funding for small and medium-
+sized corporate borrowers that may not 
+otherwise have access to the primary 
+funding market due to their size or credit 
+ratings. BAs sold in the secondary market are 
+often purchased by instit utional investors 
+because they are very liquid and carry an 
+attractive yield over similarly rated 
+Government of Canada bonds (Vikstedt and 
+McRae 2020, 6). In 2018, BAs accounted for 
+the largest share of outstanding Canadian 
+money market instruments issued by 
+nongovernment entities (McRae and Auger 
+2018, 13). 
+When COVID-19 began to spread globally in 
+early March 2020, investors ’ daily sales of 
+BAs to bank dealers essentially quadrupled 
+from CAD 500 million to CAD 2 billion (USD 
+373 million to USD 1.5 billion) 3 (Fontaine et 
+al. 2021, 11). Bank dealers lowered their 
+prices as the demand for BAs fell. On March 
+13, the Bank of Canada (BoC) announced it would purchase high -quality, one-month BAs in 
+the secondary market to support the “continuous functioning ” of financial markets (BoC 
+2020h). The Bankers ’ Acceptance Purchase Facility (BAPF) conducted multi -rate reverse 
+auctions with primary dealers, which originated almost all BAs. 
+On March 23, the BAPF conducted its first auction. The BoC purchased 45 BAs worth CAD 15 
+billion—the full amount offered —at yields between 1.11% and 1.65%. Its next auction, for 
+CAD 20 billion on March 30, also resulted in full usage. Participation waned over the next four 
+auctions, with utilization falling to zero by M ay 2020. The BoC reduced the frequency of 
+auctions to biweekly in July and discontinued the BAPF on October 26, 2020. In all, the BoC 
+purchased CAD 47 billion . The BAPF was small in comparison to the BoC’s repurchase 
+agreements and  purchases of government bonds and bills during the pandemic crisis, as 
+ 
+3 USD 1 = CAD 1.34 during March 2020. 
+Key Terms 
+Purpose: “to support the continuous functioning of 
+financial markets . . . and a key source of financing 
+for small - and medium -size corporate borrowers ” 
+(BoC 2020h) 
+Launch Dates Announced: March 13, 
+2020  
+Operational Date March 23, 2020  
+End Date October 26, 2020  
+Legal Authority Bank of Canada Act, 
+articles 18(g)(i) and 
+18.1(1)  
+Source(s) of Funding Bank of Canada balance 
+sheet 
+Administrators Bank of Canada  
+Overall Size No fixed ceiling 
+Purchased Assets Canadian BAs with 
+remaining maturities of 
+up to 76 business days 
+rated at least R-1 (low)  
+Peak Utilization CAD 38.8 billion on 
+April 8  
+1443
+Journal of Financial Crises Vol. 4 Iss. 2
+
+--- Page 5 ---
+shown in Figure 3. But the facility had a much larger impact because of the role of the BA 
+market in determining the Canadian Dollar Offered Rate (CDOR). The CDOR was the main 
+benchmark used to set floating interest rates in the Canadian derivatives market. The CDOR 
+administrator sets the CDOR daily from a survey of banks on the rate at which they provided 
+firms credit through BAs and transacted in secondary -market BAs. Figure 1 shows the co -
+movement of the spr eads of the secondary -market BA rate and the CDOR lending rate to 
+overnight index swaps (OIS) before and during the BAPF. 
+Summary Evaluation 
+The BA-OIS spread widened significantly in early March but settled near its pre -crisis level 
+after the first several BAPF auctions (see Figure 1). Fontaine et al. (2021, 23) write that, “By 
+early May, BA rates fell below the Bank ’s reserve rate, indicating that the BA market had 
+recovered sufficiently to be ineligible for central bank support. ” However, no literature has 
+attempted to isolate or estimate the effect of the BAPF ’s purchases on the market or their 
+effect on lending to businesses, the facility’s other stated purpose. A BoC working paper, the 
+fullest treatment of the facility, estimate s how the announcement of the BAPF on March 13 
+affected the BA market even before its first purchase. It finds that the announcement reduced 
+BA yields in the secondary market by 15 basis points  (bps). When additional details were 
+announced between March 13 and 23, 2020, BA yields further decreased by 20 bps to 70 bps 
+relative to bank-sponsored asset-backed commercial paper and senior deposit notes, asset 
+classes that share many features with BAs (Arora et al. 2020). A BoC report also asserts that 
+the central  bank’s policies “likely helped alleviate scarcity in money markets and restore 
+trading conditions in broader bond markets” (Fontaine et al. 2021, 22). It notes that the way 
+the BoC used asset purchases to improve bank lending could be an indicator of futu re 
+directions for monetary policy. 
+1444
+Canada Runkel
+
+--- Page 6 ---
+Figure 1: Daily Interbank Funding Spreads and BAPF Auctions 
+ 
+Sources: BoC 2020a; BoC 2020h; “Canadian Dollar Security 1M ” 2019–2021; IIROC 2019–2021; Renfinitiv 2019–
+2021. 
+  
+1445
+Journal of Financial Crises Vol. 4 Iss. 2
+
+--- Page 7 ---
+Context: Canada 2019–2020 
+GDP 
+(SAAR, nominal GDP in LCU  
+converted to USD) 
+$1,778.4 billion in 2019 
+$1,777.1 billion in 2020 
+GDP per capita 
+(SAAR, nominal GDP in LCU  
+converted to USD) 
+$46,327 in 2019 
+$43,258 in 2020 
+Sovereign credit rating  
+(five-year senior debt) 
+Data for 2019: 
+Moody’s: Aaa 
+S&P: AAA 
+Fitch: AAA 
+ 
+Data for 2020: 
+Moody’s: Aaa 
+S&P: AAA 
+Fitch: AA+ 
+Size of banking system Data not available for 2019 
+Data not available for 2020 
+Size of banking system  
+as a percentage of GDP 
+Data not available for 2019 
+Data not available for 2020 
+Size of banking system  
+as a percentage of financial system 
+Data not available for 2019 
+Data not available for 2020 
+Five-bank concentration of banking system 84.2% in 2019 
+84.5% in 2020 
+Foreign involvement in banking system Data not available for 2019 
+Data not available for 2020 
+Government ownership of banking system Data not available for 2019 
+Data not available for 2020 
+Existence of deposit insurance Yes, in 2019 
+Yes, in 2020 
+Sources: Bloomberg; World Bank Global Financial Development Database; World 
+Bank Deposit Insurance Dataset. 
+1446
+Canada Runkel
+
+--- Page 8 ---
+Key Design Decisions 
+1. Purpose: The BAPF aimed to stabilize a core funding market and support lending 
+to nonfinancial businesses. 
+The close link between corporate borrowing and derivatives forged by the Canadian Dollar 
+Offered Rate explained why the BoC cited both “the continuous functioning of financial 
+markets” and “financing for small - and medium -size corporate borrowers ” in its 
+announcement of the BAPF (BoC 2020h). 
+The BA market is one of Canada’s “core funding markets” (BoC 2020h). A BA is “a direct and 
+unconditional order from a corporate borrower to draw down against its established line of 
+credit” (Vikstedt and McRae 2020, 3).  After a bank lends funds to a borrower, the bank can 
+sell the BA liability on the secondary market; it represents a liability of the borrower but 
+carries the bank ’s guarantee. Since BAs stopped carrying issuer names in the 1990s, BAs 
+carried the rating of the guaranteeing bank. In 2017, seven primary dealers 4 issued 98% of 
+the BA market (McRae and Auger 2018). 
+Because they are almost always issued by a primary dealer, most BAs are highly rated. The 
+market is also highly liquid; as of March 11, 2020, 91% o f the average daily BA trading 
+volume since 2015 carried one -month maturities, with another 8% carrying two - to three-
+month tenors. Since they still “offer[ed] a relatively attractive yield pickup in the secondary 
+market over [Government of Canada] and pro vincial treasury bills,” BAs became a favorite 
+of institutional investors, who would purchase new BAs once those it held reached maturity 
+(Vikstedt and McRae 2020, 6). After competing with commercial paper for several decades, 
+BAs became the largest privately issued money market instrument after the Global Financial 
+Crisis (GFC) and accounted for more than 25% of Canada ’s money market in 2017, only 
+slightly less than GoC bills (McRae and Auger 2018, 13). 
+Institutional investors began dumping BAs in March 2020 to weather a storm of outflows 
+related to the pandemic. Canada ’s public pension compan ies, which usually bought 
+CAD 4 billion a week in BAs, became net sellers during the week of March 8, as seen in Figure 
+2. Meanwhile, businesses drew heavily o n their lines of credit. The crisis deterred some 
+larger borrowers from commercial paper, while smaller borrowers drew on lines to fund 
+near-term liabilities (Arora et al. 2020). Each of these factors pushed yields higher. 
+This credit crunch spilled over t o the CDOR, at which banks were “willing to lend their 
+balance sheet to corporate borrowers with existing BA facilities” (Vikstedt and McRae 2020, 
+9–10). This committed lending rate applied directly to the CAD 90 billion BA market, but —
+like the London Interbank Offered Rate (LIBOR)—also underpinned a much larger market of 
+ 
+4 The seven dealers were: Bank of Montreal  (BMO), Bank of Nova Scotia  (BNS), Canadian Imperia l Bank of 
+Commerce (CIBC), Hongkong and Shanghai Banking Corporation (HSBC), National Bank of Canada (NBC), Royal 
+Bank of Canada (RBC), and Toronto-Dominion (TD) Bank (McRae and Auger 2018, 15). 
+1447
+Journal of Financial Crises Vol. 4 Iss. 2
+
+--- Page 9 ---
+derivatives. When the spread of CDOR above the overnight index swap s rate climbed 100  
+bps above its pre-crisis level near 25 bps, it also threatened some CAD 11 trillion in over-the-
+counter and exchange -traded derivatives that used CDOR (Bédard -Pagé et al. 2021, 12; 
+McRae and Auger 2018, ii; Vikstedt and McRae 2020, 9 –10). BoC staff also referenced the 
+importance of the CDOR in the BoC ’s decision to create the BAPF. Of the four papers that 
+evaluate the BAPF, all consider the facility ’s effect on CDOR, and none estimate its effect on 
+corporate borrowers. 
+Figure 2: Net Weekly BA Purchases by Large Pension Funds 
+ 
+Source: Bédard-Pagé et al. 2021, 8. 
+2. Part of a Package: The Government of Canada  packaged the BAPF with other 
+business-credit programs. 
+The Government of Canada also discussed the BAPF as business credit and liquidity support 
+in its Economic Response Plan (Department of Finance 2020). The BoC announced the BAPF 
+on the same day it lowered its overnight rate from 1.25% to 0.75% and a day after it had 
+expanded purchases of government debt (BoC 2020f; BoC 2020g). 
+3. Legal Authority: The BoC issued a policy under the Bank of Canada Act that 
+allowed it to purchase BAs outright. 
+Section 18 of the Bank of Canada Act (1985) afforded the BoC broad powers in the service of 
+monetary policy and financial stability. Subsection 18(g)(i) allowed the BoC to trade in 
+virtually any security except equities but mandated that the BoC publish a policy in the legal 
+gazette describing the securities and transactions it would undertake. 
+1448
+Canada Runkel
+
+--- Page 10 ---
+From 2015 to 2020, the BoC’s policy allowed it to acquire BAs but only by reverse repurchase 
+agreements (BoC 2015).5 On March 18, 2020, the BoC amended the 2015 policy, permitting 
+it to also purchase securities —such as BAs —outright. The amendment allowed such 
+purchases to address financial system stress or monetary policy in support of market 
+functioning. 
+The BoC clarified that such purchas es—known as exceptional transactions —followed the 
+BoC’s authority under 18(g)(i) and were “distinct from” its 18(g)(ii) authority (BoC 2020e). 
+Subsection 18(g)(ii), which has never been invoked, allowed the BoC to purchase securities, 
+including equities, “if the Governor is of the opinion that there is a severe and unusual stress 
+on a financial market or the financial system ” (Bank of Canada Act 1985). These powers 
+augmented the BoC ’s explicit authority to purchase securities issued or guaranteed by 
+Canada, its provinces, the United States, Japan, the United Kingdom, or European Union 
+member states. 
+The BoC lobbied for the creation of subsection 18(g)(i) during the Global Financial Crisis. 
+During parliamentary committee hearings, officials from the BoC and M inistry of Finance 
+argued that, when the GFC began, “some of the central banks had more room to move than 
+did” the BoC (Rudin, McKay, and Flaherty 2008). They noted the securities that the Bank of 
+Canada Act explicitly allowed the BoC to purchase —bills of exchange (such as BAs) and 
+promissory notes, in addition to government securities—and that: 
+The relevance of a number of those securities to the financial markets has decreased 
+over time because of financial innovation . . . for example, we cannot buy, for  the 
+purposes of resale, money market securities longer than 180 days. We cannot buy 
+corporate bonds. There is a host. We cannot buy term asset-backed securities. We cannot 
+buy municipal bonds, or we cannot buy corporate commercial paper (Carney and McKay 
+2008, 6). 
+Motivated by the legislative constraints, the amendment that created 18(g)(i) used the Bank 
+of England and European Central Bank as models of central banks with broad authorities. 
+When the BoC published its first policy in the Canada Gazette  describing the securities it 
+would purchase, its exceptional transactions were limited to repurchase agreements for 
+terms of up to 180 days. 
+4. Governance: The BoC was required to publish its 18(g)(i) policy before it came 
+into force. 
+The Bank of Canada Act required the BoC to publish its policy allowing outright transactions 
+in the Canada Gazette. The central bank was then required to wait seven days before enacting 
+its policy. 
+ 
+5 In Canada, these repos are known as purchase and resale agreements (PRAs). 
+1449
+Journal of Financial Crises Vol. 4 Iss. 2
+
+--- Page 11 ---
+The Bank of Canada Act (1985, vol. c. B -2, sec. 28) also enabled the minister of finance to 
+appoint auditors of the BoC and to require that those auditors report on bank af fairs to the 
+minister “from time to time.” 
+5. Administration: Although the BoC administered the BAPF, it is not clear how it 
+organized its staff to implement the facility. 
+BoC notices listed two directors in the Treasury auctions and settlement systems team of the 
+Financial Markets Department as key contacts. This indicates that the BAPF used the familiar 
+infrastructure of Treasury auctions to communicate with primary dealers. Other documents 
+do not address further how the BoC implemented the BAPF. 
+Successful bidders delivered BAs through the CDSX platform, owned and operated by 
+Clearing and Depository Services (CDS) ( BoC 2021b; BoC 2020d). Settlement occurred two 
+days later. 
+6. Communication: The BoC announced the BAPF by press release. 
+The BoC announced the BAPF on March 13, 2020, via market notice and released the facility’s 
+terms and conditions on its website (BoC 2020h) . Newspaper archives revealed few 
+acknowledgements of —and no commentary on —the announcement. Nonetheless, BoC 
+researchers estimate that the announcement reduced the BA-OIS spread by 15 bps (Arora et 
+al. 2020). The BoC then released further operational details on the facility via notices on 
+March 17 and 19. The BoC appeared to have increased the amount on offer from CAD 10 
+billion to CAD 15 bi llion in the second of these notices (BoC 2020b; BoC 2020c). The same 
+BoC researchers find an additional 20 –70-bp decrease in the BA-OIS spread following the 
+announcement of these details (Arora et al. 2020). 
+After the first operation, Smith (2020) reports “that there is some way to go before stress is 
+reduced in Canadian money markets.” The article offers what may be the only commentary 
+on the BAPF in a major news outlet.6 
+7. Disclosure: The BoC published transaction -level data and the BAPF ’s aggregate 
+purchases. 
+In weekly financial statements, the BAPF appeared as “Bankers’ Acceptances,” a new line on 
+the asset side of the central bank ’s balance sheet, shown in Figure 3 along other BoC assets  
+(BoC 1981 –2021). The BoC ultimately published transaction -level da ta for the BAPF, 
+detailing each bond it made eligible for purchase, their amounts, and their price (BoC 2021a). 
+ 
+6 Analysts such as those at TD Securities offered more commentary, but efforts to locate those articles failed. 
+1450
+Canada Runkel
+
+--- Page 12 ---
+Figure 3: BAPF Compared to Other Canadian Market Liquidity Programs 
+ 
+Note: All other assets included provincial treasury bills and bonds, corporate bonds, and commercial paper. 
+Source: BoC 2020k, 25. 
+8. Use of SPV: The BAPF did not use an SPV. 
+The BoC did not use a special-purpose vehicle to administer the BAPF. 
+9. Size: The BoC offered to buy CAD 15 billion to CAD 20 billion in the first three 
+auctions, and CAD 10 billion in each auction thereafter. 
+The announcement of the BAPF did not specify its total size (BoC 2020h) . A later notice 
+announced that the BoC would purchase up to CAD 15 billion in BAs and target CAD 10 billion 
+for most auctions (BoC 2020c). Over 24 auctions, the BoC ultimately purchased just more 
+than CAD 47 billion. After the first three operations, the BoC offered to buy CAD 10 billion of 
+BAs in each auction. The BoC offered to purchase CAD 15 billion, CAD 20 billion, and CAD 20 
+billion in the first three auctions, respectively, and then CAD 10 billion for the remaining 
+auctions (BoC 2020a). Documents do not suggest how the BoC determined how much it  
+1451
+Journal of Financial Crises Vol. 4 Iss. 2
+
+--- Page 13 ---
+would purchase. As Tucker (2009, 11) notes, a market liquidity program should be “catalytic, 
+helping ideally to kick-start the market rather than replace it.” The question is important and 
+more difficult to answer than it is in auctions for central  bank money, where the imbalance 
+in reserves is precisely known. 
+10. Source(s) of Funding: The Bank of Canada funded purchases by expanding its 
+balance sheet. 
+To fund the BAPF, the BoC credited primary dealers’ accounts with reserves held at the BoC.  
+11. Eligible Institutions: Primary dealers in government bonds participated in BAPF 
+auctions. 
+The BoC allowed the 11 Canadian primary dealers 7 to participate in the BAPF (BoC 2020d). 
+It did not disclose which dealers participated in auctions. 
+12. Auction or Standing Facility: The BAPF conducted reverse multi-rate auctions. 
+Ahead of each operation, the BoC announced the date, purchase amount, minimum bid rate, 
+settlement date, and maturity range of eligible securities. Between 8:30 and 9:00 on the 
+morning of the operation, participants submitted up to 10 bids. Each identified the security 
+to be sold and its short -term credit rating, the yield a bidder was willing to pay, and the 
+amount a bidder would sell in CAD 5 million increments. The BoC then accepted bids starting 
+with the highest yield rates until the accepted bids exhausted the total amount offered. 
+Successful bidders received the rate they offered (BoC 2020d).  Results of the subscribed 
+auctions are shown in Figure 4. 
+No participant could sell the BoC more than either 12.5% or 25% of a single auction’s offering 
+amount, depending on the dealer ’s market share of government bonds. Participants could 
+bid the maximum amount each auction. The BoC did not publish a rationale behind this rule. 
+Because the BoC d id not disclose which banks sold which securities, these maximum 
+amounts cannot be imputed. 
+ 
+7 These were Bank of Montreal (BMO) Nesbitt Burns, Casgrain & Company , CIBC World Markets, Desjardins 
+Securities, HSBC Securities, Laurentian Bank Securities, Merrill Lynch, NBC Financial, RBC Dominion Securities, 
+Scotia Capital (subsidiary of Bank of Nova Scotia [BNS or Scotiabank]), and TD Bank. 
+1452
+Canada Runkel
+
+--- Page 14 ---
+Figure 4: Operation Results of BAPF Auctions 
+Settlement 
+date 
+Maturity 
+start date 
+Maturity 
+end date 
+Amount 
+offered Purchased 
+Minimum 
+bid yield 
+Average 
+yield 
+3/25/2020 3/26/2020 5/4/2020  $15 billion  $15 billion 0.63% 1.57% 
+4/1/2020 4/2/2020 7/21/2020  $20 billion  $20 billion 0.43% 1.15% 
+4/8/2020 4/9/2020 7/28/2020  $20 billion   $5.57 billion  0.4% 0.52% 
+4/15/2020 4/16/2020 8/4/2020  $10 billion   $2.66 billion 0.37% 0.39% 
+4/22/2020 4/23/2020 8/11/2020  $10 billion   $190 million  0.4% 0.4% 
+4/29/2020 4/30/2020 8/18/2020  $10 billion   $3.63 billion  0.4% 0.4% 
+Source: BoC 2020a. 
+13. Loan or Purchase: The Bank of Canada purchased BAs outright from dealers. 
+The BoC had been accustomed to purchasing securities with the intention of reselling them 
+later. No documents indicate that the BoC attempted to make a market in BAs by later selling 
+them. The BAPF was one of the BoC’s first forays into outright purchases of private securities. 
+14. Eligible Assets: The BAPF purchased Canadian BAs rated at least R -1 (low) with 
+remaining maturities of up to 76 business days. 
+The BAPF purchased BAs issued by Canadian banks and branches of forei gn banks in 
+Canadian dollars. Though it allowed remaining maturities up to 76 Canadian business days, 
+the BoC set an exact maturity range before each operation. This range encompassed most 
+BAs; 98% of BAs carried one- to three-month maturities (Vikstedt and McRae 2020, 4). 
+Eligible BAs carried credit ratings of at least R-1 (low) from DBRS Morningstar, representing 
+“good credit quality” (BoC 2020d). 
+Issuers could be any Canadian bank —including the bidder—but those from banks without 
+access to the Large Valu e Transfer System (LVTS) must have been prescreened a day prior 
+to auction (BoC 2020d). The LVTS was a real -time gross settlement platform used by large 
+Canadian banks. To facilitate real -time transactions, the BoC granted participants intraday 
+credit secured by collateral pledged to the BoC through CDSX; the BoC was accustomed to 
+reviewing collateral from these banks in a short period of time (Engert, Gravelle, and Howard 
+2008, 5). The BAPF ultimately purchased securities issued by 10 institutions, nine of  which 
+were affiliates of primary dealers (BoC 2021a). 
+15. Purchase Price: Bids required a minimum yield over overnight index swaps. 
+Banks offered a minimum yield called a reserve rate that was expressed as a spread over OIS 
+(BoC 2020d). This rate started at 0.60% and fell to below 0.40% before the BoC increased it 
+for the final two auctions in which banks participated (BoC 2021a). As seen in Figure 5, some 
+successful bidders accepted more than double the reserve rate in the first two auctions. In 
+later auctions, yields settled at the minimum rate, with a much narrower range of yields bid. 
+1453
+Journal of Financial Crises Vol. 4 Iss. 2
+
+--- Page 15 ---
+Figure 5: Purchased Securities; Minimum Bid Rate Indicated by Dashed Line 
+ 
+Source: BoC 2021a. 
+16. Haircuts: The BAPF had no haircuts. 
+As an asset purchase program, the BAPF did not have haircuts. 
+17. Interest Rates: The BAPF purchased securities based on the auction results. 
+The BAPF paid prices resulting from its reverse auction. 
+18. Fees: The BoC did not charge any fees. 
+No documents suggest that the BoC charged fees to issuers of securities that it purchased. 
+19. Term/Repayment: Assets matured at their scheduled coupon dates. 
+The BAPF did not amend the scheduled maturities of assets it purchased. 
+1454
+Canada Runkel
+
+--- Page 16 ---
+20. Other Restrictions on Eligible Participants: The BOC did not ad d restrictions to 
+eligible participants. 
+Documents do not indicate other conditions beyond those discussed elsewhere in this case 
+study. 
+21. Regulatory Relief: Participants received no regulatory relief when participating in 
+the BAPF. 
+No documents suggest that  banks received relief from capital or liquidity regulations as a 
+result of participating in the BAPF. 
+22. International Coordination: The BoC did not coordinate with other countries for 
+the BAPF. 
+The Canadian BA market was not mirrored abroad , and programs similar to the BAPF were 
+not implemented in other countries. 
+23. Duration: The BoC purchased its last BAs on April 27, 2020, but auctions continued 
+until October 26, 2020. 
+The BoC purchased its last BAs in the sixth auction, conducted on April 27, 2020. The BoC 
+continued to offer weekly BAPF auctions until July 6, when it reduced the frequency of BAPF 
+auctions from every week to every other week. The BoC cited “substantial improvements in 
+short-term funding conditions recently, as well as reduced participation ” when making this 
+change (BoC 2020i). 
+After 17 operations without participation, the BoC announced on October 15, 2020 that it 
+would retire the BAPF amid continuing improvement of financial conditions, and the 
+declining usage in crisis facilities (BoC 2020a;  BoC 2020j) . Its last operation —also not 
+used—occurred on October 26, 2020. 
+  
+1455
+Journal of Financial Crises Vol. 4 Iss. 2
+
+--- Page 17 ---
+References and Key Program Documents 
+Implementation Documents 
+(BoC 2020a) Bank of Canada (BoC). March–October 2020. “Operations.”  
+BANKERS_ACCEPTANCE_PURCHASE_FACILITY. Bank of Canada.  
+Data showing the allotments and auctions results for the BAPF.  
+https://ypfs.som.yale.edu/node/19471 
+(BoC 2020b) Bank of Canada (BoC). March 17, 2020. “Operational Details on the Bank of 
+Canada’s Bankers’ Acceptance Purchase Facility.” Market notice.  
+Market notice announcing a CAD 10 billion allotment for the first BAPF auction.  
+https://ypfs.som.yale.edu/node/19476 
+(BoC 2020c) Bank of Canada (BoC). March 19, 2020. “Revised Operational Details for the  
+First Banker’s Acceptance Purchase Facility Operation.” Market notice. 
+Market notice increasing the first BAPF auction allotment to CAD 15 billion.  
+https://ypfs.som.yale.edu/node/19480 
+(BoC 2020d) Bank of Canada (BoC). March 23, 2020. “Terms and Conditions.”  
+Webpage detailing how the BoC implemented the BAPF; this is the most complete picture of the 
+facility’s operation.  
+https://ypfs.som.yale.edu/node/19481 
+(BoC 2021a) Bank of Canada (BoC). 2021. “Transaction-Level Data.”  
+BAPF_TRANSACTION_DATA.   
+Data showing the bankers’ acceptances purchased under the BAPF.  
+https://ypfs.som.yale.edu/node/19472 
+Legal/Regulatory Guidance 
+(Bank of Canada Act 1985) 1985. c. B-2 Revised Statutes of Canada §18.  
+Law establishing the powers of the Bank of Canada.  
+https://ypfs.som.yale.edu/library/bank-canada-act 
+(BoC 2015) Bank of Canada (BoC). October 3, 2015. “Amendment to Policy for Buying and 
+Selling Securities.” Canada Gazette, Part I 149 (40).  
+Establishment of policy outlining how the BoC will use its 18(g)( i) authority to conduct 
+repurchases of private-sector securities.  
+https://ypfs.som.yale.edu/node/18401 
+(BoC 2020e) Bank of Canada (BoC). March 18, 2020. “Amendment to Policy for Buying and 
+Selling Securities.” Canada Gazette, Part I 154 (2): 1–4.  
+BoC policy amending 2015 policy to allow for outright purchases and sales of private -sector 
+securities in the service of monetary policy for financial stability.  
+https://ypfs.som.yale.edu/node/18300 
+1456
+Canada Runkel
+
+--- Page 18 ---
+(BoC 2021b) Bank of Canada (BoC). 2021. “Clearing and Settlemen t Systems. ” Webpage. 
+Bank of Canada webpage detailing some of Canada’s clearing and settlement systems.  
+https://ypfs.som.yale.edu/library/clearing-and-settlement-systems 
+(Carney and McKay 2008) Carney, Mark, and John McKay. April 30, 2008. Evidence of 
+Meeting 39. 1609. 2nd Session 39th Parliament Standing Committee on Finance: 039. Ottawa: 
+House of Commons.  
+Testimony arguing to amend the Bank of Canada Act.  
+https://ypfs.som.yale.edu/node/19484 
+(Rudin, McKay, and Flaherty 2008) Rudin, Jeremy, John McKay, and Jim Flaherty. April 16, 
+2008. Evidence of Meeting 37. 1605. 2nd session 39 th Parliament Standing Committee on 
+Finance: 037. Ottawa: House of Commons.  
+Testimony arguing to amend the Bank of Canada Act.  
+https://ypfs.som.yale.edu/node/19485 
+Media Stories 
+(Smith 2020) Smith, Fergal. March 23, 2020. “Dealers Gobble Up Funding in Bank of 
+Canada’s First BAPF Operation.” Reuters, sec. Financials.  
+News article reviewing the first BAPF operation and the continuing stress it still signals; only 
+significant news media commentary of the BAPF.  
+https://ypfs.som.yale.edu/node/19487 
+Press Releases/Announcements 
+(BoC 2020f) Bank of Canada (BoC). March 12, 2020. “Bank of Canada Announces the 
+Expansion of Its Bond Buyback Program and Term Repo Operations.” Press release.  
+Press release announcing an expansion of the BoC ’s long -standing bond -buying and cash  
+management programs in response to COVID-19.  
+https://ypfs.som.yale.edu/node/19488 
+(BoC 2020g) Bank of Canada (BoC). March 13, 2020. “Bank of Canada Lowers Overnight Rate 
+Target to ¾ Percent.” Press release. Yale Program on Financial Stability Resource Library.  
+Press release announcing the BoC’s decision to lower the overnight rate target to 3/4 percent . 
+https://ypfs.som.yale.edu/node/18494 
+(BoC 2020h)  Bank of Canada (BoC). March 13, 2020. “Bank of Canada ’s Intention to 
+Introduce a Bankers’ Acceptance Purchase Facility.” Notice.  
+Market notice announcing the BAPF.  
+https://ypfs.som.yale.edu/node/19489 
+(BoC 2020i) Bank of Canada (BoC). June 3, 2020. “Bank of Canada Announces Changes to 
+Term Repo Operations and Bankers’ Acceptance Purchase Facility.” Market notice.  
+Market notice detailing changes to the tender frequency of the C ontingent Term Repurchase 
+Operations and the BAPF.  
+https://ypfs.som.yale.edu/node/19490 
+1457
+Journal of Financial Crises Vol. 4 Iss. 2
+
+--- Page 19 ---
+(BoC 2020j) Bank of Canada (BoC). October 15, 2020. “Bank of Canada Announces Changes 
+to Programs That Support Key Financial Markets.” Notice.  
+Market notice announcing the discontinuation of the BAPF amid improvement in financial 
+markets and no participation.  
+https://ypfs.som.yale.edu/node/18503/ 
+(Department of Finance 2020) Department of Finance. March 18, 2020. “Canada’s COVID-19 
+Economic Response Plan: Support for Canadians and Businesses. ” Backgrounders. 
+Web page detailing Canadian government responses to the COVID-19 crisis.  
+https://ypfs.som.yale.edu/node/18506 
+(Tucker 2009) Tucker, Paul. May 27, 2009. “The Repertoire of Official Sector Interventions 
+in the Financial System - Last Resort Lending, Market -Making, and Capital. ” Remarks 
+presented at the Bank of Japan 2009 International Conference , “Financial System and 
+Monetary Policy: Implementation,” Tokyo, May 27.  
+Describes the role of the Bank of England as market maker of last resort, including for gilt and 
+corporate bond markets.  
+https://ypfs.som.yale.edu/library/repertoire-official-sector-interventions-financial-
+system-last-resort-lending-market-making 
+Reports/Assessments 
+(Bédard-Pagé et al.  2021) Bédard -Pagé, Guillaume, Daniel Bolduc, Annick Demers, Jean -
+Philippe Dion, M anu Pandey, Léanne Berger -Soucy, and Adrian Walton. May 28, 2021. 
+“COVID-19 Crisis: Liquidity Management at Canada ’s Largest Public Pension Funds. ” Staff 
+Analytical Note 2021–11. Yale Program on Financial Stability Resource Library.  
+BoC Staff Analytical N ote regarding Canada ’s pension funds and their liquidity management 
+during 2020.  
+https://ypfs.som.yale.edu/node/18256 
+(BoC 1981–2021) Bank of Canada (BoC). 1981–2021. “Bank of Canada Assets and Liabilities: 
+Weekly (Formerly B2). ” Bank of Canada. Yale Prog ram on Financial Stability Resource 
+Library.  
+Weekly Wednesday statement disclosing assets and liabilities as required by the Bank of 
+Canada Act.  
+https://ypfs.som.yale.edu/node/18406 
+(BoC 2020k) Bank of Canada (BoC). October 2020. “Monetary Policy Report - October 2020.” 
+Bank of Canada. Yale Program on Financial Stability Resource Library.  
+BoC publication reviewing monetary policy operations and programs for the period of July 2020 
+to September 2020.  
+https://ypfs.som.yale.edu/node/18291 
+(“Canadian Dollar Security 1M ” 2019–2021) “Canadian Dollar Security 1M .” 2019–2021. 
+CDSOA. Bloomberg.  
+Data showing one-month Canadian overnight index swap rates.  
+https://ypfs.som.yale.edu/node/19493 
+1458
+Canada Runkel
+
+--- Page 20 ---
+(Engert, Gravelle, and Howard 2008) Engert, Walter, Toni Gravelle, and Donna Howard. July 
+2008. “The Implementation of Monetary Policy in Canada.” Discussion Paper 2008–9.  
+Paper on monetary policy tools and action in Canada.  
+https://ypfs.som.yale.edu/library/implementation-monetary-policy-canada 
+(Fontaine et al. 2021) Fontaine, Jean-Sébastien, Corey Garriott, Jesse Johal, Jessica Lee, and 
+Andreas Uthemann. February 24, 2021. “COVID-19 Crisis: Lessons Learned for Future Policy 
+Research.” Bank of Canada Discussion Paper 2021–2.  
+Bank of Canada Staff Discussion Paper reviewing the initial impacts of the COVID -19 crisis on 
+Canadian fixed-income markets.  
+https://ypfs.som.yale.edu/library/covid-19-crisis-lessons-learned-future-policy-research 
+(IIROC 2019–2021) Investment Industry Regulatory Organization of Canada (IIROC). 2019–
+2021. “Canadian Bankers’ Acceptance Rates.”  
+Data showing BA rates.  
+https://ypfs.som.yale.edu/node/19495 
+(Renfinitiv 2019–2021) Renfinitiv. 2019–2021. “Canadian Dollar Offered Rate 1M.” CDOR01. 
+Bloomberg.  
+Data showing the one-month CDOR rate.  
+https://ypfs.som.yale.edu/node/19494 
+(Vikstedt and McRae 2020) Vikstedt, Harri, and Kaetlynd McRae. November 16, 2020. 
+“Overview of CDOR and the Underlying Bankers’ Acceptance Market.” Slides presented at the 
+Canadian Alternative Reference Rate Working Group, November 16.  
+Talk analyzing the Canadian Dollar Offered Rate market and its basis in bankers ’ acceptances 
+(BAs). 
+https://ypfs.som.yale.edu/node/19497 
+Key Academic Papers 
+(Arora et al.  2020) Arora, Rohan, Sermin Gungor, Kaetlynd McRae, and Jonathan Witmer. 
+October 19, 2020. “Announcing the Bankers ’ Acceptance Purchase Facility: A COVID‑19 
+Event Study.” Staff Analytical Note 2020-23.  
+Research paper studying the announcement effect of the BAPF using different estimation effects 
+and treatment variables.  
+https://ypfs.som.yale.edu/node/19498 
+(McRae and Auger 2018) McRae, Kaetlynd, and Danny Auger. June 2018. “A Primer on the 
+Canadian Bankers’ Acceptance Market,” Bank of Canada Staff Discussion Paper 2018 (6): 43. 
+A paper discussing the relationship between bankers ’ acceptances and the Canadian Dollar 
+Overnight Rate (CDOR).  
+https://ypfs.som.yale.edu/node/18348 
+Copyright 2022 © Yale University. All rights reserved. To order copies of this material or to receive 
+permission to reprint any or all of this document, please contact the Yale Program on Financial 
+Stability at ypfs@yale.edu. 
+1459
+Journal of Financial Crises Vol. 4 Iss. 2

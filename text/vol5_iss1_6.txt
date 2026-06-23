@@ -1,0 +1,870 @@
+--- Page 1 ---
+Journal of Financial Crises Journal of Financial Crises 
+Volume 5 Issue 1 
+2023 
+China: Central Bank Swaps to Mongolia, 2011 China: Central Bank Swaps to Mongolia, 2011 
+Vincient Arnold 
+YPFS, Yale School of Management 
+Follow this and additional works at: https://elischolar.library.yale.edu/journal-of-financial-crises 
+Recommended Citation Recommended Citation 
+Arnold, Vincient (2023) "China: Central Bank Swaps to Mongolia, 2011," Journal of Financial Crises: Vol. 5 
+: Iss. 1, 189-213. 
+DOI: https://doi.org/10.17132/2693-3179.1484 
+Available at: https://elischolar.library.yale.edu/journal-of-financial-crises/vol5/iss1/6 
+This Case Study is brought to you for free and open access by the Journal of Financial Crises and 
+EliScholar – A Digital Platform for Scholarly Publishing at Yale. For more information, please contact 
+journalfinancialcrises@yale.edu.
+
+--- Page 2 ---
+READERS TAKE NOTICE: READERS TAKE NOTICE: 
+As of April 2024, the YPFS Resource Library’s site domain has changed 
+to https://elischolar.library.yale.edu/ypfs-financial-crisis-resource-library/. 
+Please be aware that upon clicking any of the URL references to 
+the former Resource Library domains, either https://ypfs.som.yale.edu 
+or https://ypfsresourcelibrary.blob.core.windows.net/, in the 
+"References/Key Program Documents" section of a case study, 
+readers will encounter a "page not found" error. readers will encounter a "page not found" error. 
+Readers can still retrieve a given resource cited within this case study 
+on the new site  by searching by searching here  for the title cited. for the title cited. 
+This case study is available in Journal of Financial Crises: https://elischolar.library.yale.edu/journal-of-financial-
+crises/vol5/iss1/6
+
+--- Page 3 ---
+China: Central Bank Swaps to Mongolia, 20111 
+Vincient Arnold2 
+Yale Program on Financial Stability Case Study 
+July 21, 2023 
+Abstract 
+Starting in 2009, China began to rapidly expand its network of central bank swap lines. In 
+May 2011, the People’s Bank of China (PBOC) and the Bank of Mongolia ( BOM) agreed to a 
+bilateral reciprocal swap line to promote trade and economic development  and to stabilize 
+financial markets with short -term liquidity. The agreement stipulated caps of 5 billion  
+renminbi (RMB; USD 0.8 billion) when the BOM was the borrowing party and 1 trillion 
+Mongolian tugrik (MNT; USD 0.8 billion) when the PBOC was the borrowing party. By 2020, 
+the PBOC had expanded the caps to RMB 15 billion and the BOM to MNT 6 trillion. The BOM 
+drew on the swap line every year from 2012 to 2021 , with a  peak outstanding amount of 
+USD 1.8 billion from 2016 to 2021. It sold the renminbi from the PBOC in foreign exchange 
+auctions to support the tugrik and prevent a shortage of renminbi on the market. The central 
+banks most recently renewed  the swap line  on July 31 , 2020; we have not been able to 
+confirm a specific expiration date, but the swap line was renewed for a three-year period. 
+Keywords: China, foreign exchange, Mongolia, renminbi, swap line, tugrik  
+  
+ 
+1 This case study is part of the Yale Program on Financial Stability (YPFS) selection of New Bagehot Project 
+modules considering central bank swap line programs. Cases are available from the Journal of Financial Crises 
+at https://elischolar.library.yale.edu/journal-of-financial-crises/. 
+2 Research Associate, YPFS, Yale School of Management . The author wishes to thank Daniel McDowell for his 
+comments. 
+189
+
+--- Page 4 ---
+Overview 
+Starting in 2009, China began to rapidly 
+expand its network of central bank swap 
+lines (McDowell 2019) . In May 2011, the 
+People’s Bank of China (PBOC)  and the Bank 
+of Mongolia ( BOM) agreed to a bilateral 
+reciprocal swap line to promote trade and 
+economic d evelopment and to stabilize 
+financial markets with short -term liquidity.  
+Under the agreement, the BOM could request 
+to borrow up to 5 billion renminbi (RMB, also 
+known as yuan; equivalent to USD 0.8 billion 
+at year -end 2011), and the PBOC could 
+request up to 1 trillion tugrik (MNT ; 
+equivalent to USD 0.8 billion  at year -end 
+2011) (BOM 2012).   
+From 2011 to 2020, the two central banks 
+expanded the caps from RMB 5 billion to 
+RMB 15 billion for the BOM, and from MNT 1 
+trillion to MNT 6 trillion for t he PBOC. The 
+parties also extended the usage period—the 
+period within which the borrowing bank 
+must repay the lending bank —from three to 
+six months to one year (BOM 2012; BOM 
+2021). Figure 1 shows the value of the 
+Mongolian tugrik from 2011 through 2021. 
+Figure 2 shows the progression of the  
+amounts that could be borrowed under the 
+swap line from 2011 through 2020.  
+From 2012 to 2016, the BOM drew on the line 
+each year to support the tugrik and prevent a 
+shortage of renminbi in the market . Figure 3 
+shows the size of accumulated swap 
+liabilities by year and the ratio of each year’s 
+accumulation to the applicable swap line cap 
+and to the BOM’s foreign reserves. By 2012, 
+Mongolia’s export  growth began to slow 
+(BOM 2014b) . In 2014, foreign investment 
+dropped 87% and the Bank of Mongolia’s (BOM) foreign reserves dropped 27% year -on-
+year (Edwards 2015).  
+  
+Key Terms 
+Purpose: The swap line was established to 
+“facilitate bilateral investment and trade and 
+safeguard regional financial stability” (PBOC 2012) 
+Participating 
+Parties 
+People’s Bank of China, Bank 
+of Mongolia 
+Type of Swap Bilateral reciprocal 
+Currencies 
+Involved 
+RMB, MNT 
+Launch Date May 6, 2011  
+End Date Ongoing 
+Date of First Usage 2012  
+Interest Rate and 
+Fees 
+RMB: Shanghai Interbank 
+Offered Rate plus 200 basis 
+points; MNT: Interbank MNT 
+weighted rate for time period  
+Amount 
+Authorized 
+As of 2020: RMB 15 billion 
+(USD 2.3 billion); MNT 6 
+trillion (USD 2.1 billion) 
+Peak Usage 
+Amount and Date 
+BOM: RMB 12 billion (USD 
+1.8 billion), 2016–2021; 
+PBOC: unknown  
+Downstream 
+Use/Application of 
+Swap Funds 
+The BOM sold the renminbi 
+from the PBOC in foreign 
+exchange auctions to support 
+the tugrik and prevent a 
+shortage of renminbi on the 
+market 
+Outcomes The facility was renewed and 
+expanded in size. It was most 
+recently renewed in 2020 
+and remains in force until 
+July 31, 2023 
+Notable Features In its annual reports, the 
+BOM listed its accumulated 
+draws on the swap line as 
+unsecured credit 
+190
+Journal of Financial Crises Vol. 5 Iss. 1
+
+--- Page 5 ---
+Figure 1: Mongolian Tugrik Price (per USD), 2011–2021 
+ 
+Note: Year-date markers represent the tugrik price on January 1 of that year.  
+According to Bloomberg, USD 1 = RMB 6.3 on December 30, 2011 , and USD 1 = MNT 1,394 on December 30, 
+2011. 
+Source: Bloomberg. 
+Figure 2: Permitted Borrowing Amounts Under PBOC Swap Line to Mongolia,  
+2011–2020 
+Year TypeA 
+BOM Cap 
+(RMB 
+billion)B 
+BOM Cap 
+(USD 
+billion) 
+PBOC Cap 
+(MNT 
+trillion) 
+PBOC Cap 
+(USD 
+billion)C 
+Usage Period 
+(months) 
+2011 Initial 
+Agreement 5 0.8 1.0 0.8 3–6 
+2012 AmendmentD 10 1.6 2.0 1.4 3–6 
+2014 Renewal 15 2.4 4.5 2.4 12 
+2017 Renewal 15 2.3 5.4 2.2 12 
+2020 Renewal 15 2.3 6.0 2.1 12 
+Note: All USD amounts provided for comparison only; no swap provided dollars as a swap currency or accepted 
+dollars as collateral.  
+A All agreements (excluding the 2012 amendment) had three-year terms. 
+B Renminbi converted to dollars as of year-end.  
+C Tugrik converted to dollars as of year-end. 
+D In 2012, the PBOC and BOM amended their swap agreement to expand the facility from RMB 5 billion to RMB 
+10 billion for BOM draws and from MNT 1 trillion to MNT 2 trillion for PBOC draws  (BOM 2013). 
+Sources: BOM 2012; BOM 2013; BOM 2015; BOM 2018; BOM 2021 . 
+  
+191
+China: Central Bank Swaps to Mongolia Arnold
+
+--- Page 6 ---
+Figure 3: Bank of Mongolia, PBOC Swap Line Use, 2011–2021  
+Year Accumulated 
+Swap Debt  
+(RMB billion) 
+Annual Total 
+Drawn  
+(RMB billion) 
+Percentage of 
+Cap 
+Accumulated Debt as 
+Percentage of Foreign 
+Reserves 
+2011 N/A N/A N/A N/A 
+2012 2.1B 2.1 21.0 8.7 
+2013 6.0 3.9 60.0 48.9 
+2014 9.0 3.0 60.0 98.1 
+2015 11.5 2.5 76.7 149.6 
+2016 12.0 0.5 80.0 147.1 
+2017 12.0 0.0 80.0 66.6 
+2018 12.0 0.0 80.0 64.2 
+2019 12.0 0.0 80.0 54.2 
+2020 12.0 0.0 80.0 46.0 
+2021  12.0 0.0 80.0 51.3 
+Note 1: In its 2012 annual report (note no. 26 to the financial statement), the BOM said that it had used RMB 
+2.1 billion in the year, and none in 2011 (BOM 2013). In the same paragraph, it said that the “remaining” RMB 
+0.4 billion represented a credit-related commitment (BOM 2013). But of the RMB 10 billion cap, use of RMB 2.1 
+billion leaves RMB 7.9 billion remaining as a credit -related commitment. The BOM appears  to have calculated 
+its credit-related commitment on the prior year’s RMB 5 billion cap and counted the remaining RMB 2.5 billion 
+(5 – 2.1 – 0.4) as an on -balance-sheet item, but not a “use” (rather an “opening of credit limit”) , related to its 
+2011 RMB 2.5 billion purchase of renminbi at the PBOC  (BOM 2013) . We have followed the BOM here in 
+reporting its total use as RMB 2.1 billion.  
+Note 2: Foreign reserves are provided as a scaling factor only; the vast majority of the renminbi acquired by 
+the BOM was not absorbed into foreign reserves but rather auctioned on the open market (see Key Design 
+Decision No. 10, Downstream Use of Borrowed Funds).  
+Sources: Bloomberg; BOM 2012; BOM 2013; BOM 2014a; BOM 2015; BOM 2016; BOM 2017; BOM 2018; BOM 2019; 
+BOM 2020; BOM 2021; BOM 2022. 
+The BOM lent a relatively small amount of renminbi downstream  to financial institutions 
+operating in Mongolia via short-term commercial swap lines. It sold most of the renminbi in 
+large-scale renminbi currency auctions (see Key Design Decision No. 9, Process for Utilizing 
+the Swap Agreement).  
+Summary Evaluation 
+Some scholars have said that the Chinese central government used the swap lines with the 
+BOM and other central banks to promote the internationalization of the renminbi. They note 
+several motives: to reduce foreign exchange risk, gain political leverage, promote trade, 
+reduce reliance on the US dollar, and limit the accumulation of foreign reserv es (Cao 2022; 
+Espadinha 2015; Gao and Yu 2012; Gentile, Musuruana, and Tessmer 2015; Maziad and Kang 
+2012; McDowell 2019; Perks et al. 2021; M. Zhang 2015). A Chinese state media report said 
+analysts expected the extension of the swap line  to the BOM to promote investment using 
+the renminbi (China Daily 2011). The PBOC referenced the initial agreement and subsequent 
+renewals of the BOM swap line in  the annual timelines of  its 2021 renminbi 
+internationalization report (PBOC 2021). 
+192
+Journal of Financial Crises Vol. 5 Iss. 1
+
+--- Page 7 ---
+Figure 4 shows the growth in the BOM’s financial assets by currency, including the renminbi. 
+The BOM accumulated only a small amount of renminbi-denominated assets from its tugrik-
+renminbi swaps with commercial banks operating in Mongolia. It typically sold most of the 
+renminbi that it drew via the PBOC swap line on the foreign exchange market to defend the 
+tugrik (see Key Design Decision No. 10, Downstream Use of Borrowed Funds).  
+Figure 4: Share of the Bank of Mongolia’s Financial Assets by Currency, 2011–2021 
+Note: EUR = euros; SDR = International Monetary Fund Special Drawing Rights; XAU = gold; MNT = Mongolian 
+tugrik; RMB = renminbi; USD = US dollars. 
+Sources: BOM 2012; BOM 2013; BOM 2014a; BOM 2015; BOM 2016; BOM 2017; BOM 2018; BOM 2019; BOM 2020; 
+BOM 2021; BOM 2022. 
+Other scholarship has stated that trade is a key determinant in Chinese swap line extension 
+and that China’s swap lines effectively promote trade with China when deployed (Liao and 
+McDowell 2015; Perks et al. 2021) . In 2013 (no data wa s available for 2011), China 
+accounted for 86.7% of Mongolia’s exports and provided 28.1% of its imports (World Bank 
+n.d.b). A former Bank of England official has said that “China’s objectives are not to do with 
+crisis management, but promoting the use of the [renminbi] in international trade” (China 
+Daily 2014).  
+Perks et al. found that countries are more likely to enter swap agreements with China if they 
+are large export ers to Chin a (Perks et al. 2021) . Meanwhile, s cholars have shown an 
+empirical effect of PBOC swap lines on expanded renminbi invoicing in recipient countr ies 
+after they signed swap agreements with China (Georgiadis et al. 2021) . Figure 5 shows 
+import and export volume with China for countries with and without a PBOC swap line.  
+  
+193
+China: Central Bank Swaps to Mongolia Arnold
+
+--- Page 8 ---
+Figure 5: China Trade Volume for Countries with and without PBOC Swap Lines 
+ 
+Source: Perks et al. 2021 
+One scholar has called PBOC swap lines a form of “financial statecraft” and has said that the 
+PBOC’s extension of swap lines may be used as leverage to ex tract political concessions. He 
+has described swaps as “a way to extricate the Chinese economy from structural dominance 
+of the dollar by promoting RMB -based trade settlement” and a way to gain “loyalty and 
+influence” globally  (McDowell 2019). He referenced an incident in 2017 in which,  before 
+receiving the PBOC swap line  renewal, the Mongolian foreign minister spoke with the 
+Chinese foreign minister and “reflected deeply” on a visit by the Dalai Lama to Mongolia , 
+promised he would not allow such a visit to occur again, confirmed that Mongolia maintained 
+its one-China policy, and said that Mongolia believes Tibet is a part of China (Y. Zhang 2017).  
+In 2020, the Mongolian National Security Council (one of whose functions is to “increase the 
+ability of the economy to develop independently based on its internal resources”) (Mongolia 
+Congress 1992, art. 4)  made recommendations with respect to the PBOC swap line, which 
+were incorporated into the 2020 renewal (see Key Design Decision No. 6, Communication). 
+We were unable to locate the 2020 swap agreement renewal or the recommendations. 
+Horn et al. (2023) note that China uses its swap network as a form of “overseas bailout” that 
+targets developing countries in situations of distress, often with low reserves and credit 
+ratings. These scholars also show that China’s swap bailouts have targeted borrowers in the 
+Belt and Road Initiative framework —low- and middle -income countries with significant 
+debts owed to Chinese banks. The scholars found that PBOC swap lines had been drawn on 
+by 17 countries under a variety of circumstances, 13 of 17 in times of crisis, including balance 
+of payments crises, sovereign defaults, currency crises, sanctions, and geopolitical crises. 
+Further, these scholars sa y, Chinese swap bailouts were frequently accompanied by other 
+forms of lending, including lending through Chinese state -owned banks and commodity 
+prepayment facilities. These scholars find that frequent rollovers meant that the swaps often 
+resulted in borrowing terms exceeding one year. Because the swap lines often fall outside 
+debt disclosure requirements due to their de jure short-term repayment structures, t hese 
+194
+Journal of Financial Crises Vol. 5 Iss. 1
+
+--- Page 9 ---
+scholars argue, the expansion of PBOC swap line drawings has exacerbated the challenge of 
+accurate debt sustainability analysis in the developing world (Horn et al. 2023).  
+The BOM published numerous accounts of the swap line and its views on the utility of the 
+swap line (see Key Design Decision No. 6, Communication).  
+Media reports have said that in 2014 the PBOC’s swap line helped the BOM to “stave off 
+economic collapse” and was crucial in helping to maintain stability in financial markets  
+(Edwards 2015; Financial Services Monitor 2014). In 2015, the International Monetary Fund 
+(IMF) said that the PB OC swap line did not resolve the fact that the BOM’s drawdown of 
+reserves was “unsustainable ” and concluded that Mongolia was at “high risk of debt 
+distress,” partially as a result of debt accumulated as a result of the PBOC swap line (which 
+reached over 41% of the BOM’s total liabilities and over 15% of GDP that year)  (BOM 2016, 
+115; IMF 2015; World Bank n.d.a). However, IMF staff members also said that the swap line 
+had “play[ed] a crucial role in mitigating the impacts of the shocks” (IMF 2015, 85). Figure 6 
+shows the composition of the BOM’s total liabilities in two categories: PBOC swap line –
+generated liabilities and all other liabilities.  
+Figure 6: Composition of the Bank of Mongolia’s Liabilities, 2012–2021 
+ 
+Note: T otal liabilities are the net on -balance-sheet liabilities accounted for in the BOM’s audited financial 
+statements (and therefore exclude contingent liabilities of the unused swap line credit) ; swap line –derived 
+liabilities were listed as part of the “liabilities due to foreign parties” line item and reported in notes to the 
+financial statements.  
+Sources: BOM 2012; BOM 2013; BOM 2014a; BOM 2015; BOM 2016; BOM 2017; BOM 2018; BOM 2019; BOM 2020; 
+BOM 2021; BOM 2022. 
+One scholar  has said that the PBOC swap line helped Mongolia “avoid a collapse of the 
+country’s central bank” (Reeves 2018, 182) . Figure 7 shows the BOM’s foreign reserves 
+balance from 2011 to 2021. 
+195
+China: Central Bank Swaps to Mongolia Arnold
+
+--- Page 10 ---
+Figure 7: The Bank of Mongolia’s Foreign Reserves and Accumulated Swap Debt 
+Outstanding, 2011–2021 
+ 
+Note: Year-date markers represent the reserves as of January 1 of that year. 
+Source: Bloomberg. 
+  
+196
+Journal of Financial Crises Vol. 5 Iss. 1
+
+--- Page 11 ---
+197
+China: Central Bank Swaps to Mongolia Arnold
+
+--- Page 12 ---
+Key Design Decisions 
+1. Purpose and Type : The PBOC entered into a bilateral reciprocal swap 
+arrangement with the BOM to promote trade, economic development, foreign 
+exchange, and financial stability.  
+Starting in 2009, China began to rapidly expand its network of central bank swap lines 
+(McDowell 2019). In 2011, the PBOC and BOM agreed to the swap line  in order to promote 
+trade and economic development and to stabilize financial markets with short -term 
+liquidity. The BOM’s motivation for the swap line was to promote trade , defend the tugrik, 
+and provide renminbi liquidity to the market (see Key Design Decision No. 10, Downstream 
+Use of Borrowed Funds).  
+The PBO C-BOM swap line was bilateral and reciprocal  (BOM 2012) . The BOM’s primary 
+mandate was to ensure the stability of the tugrik (BOM n.d.). 
+2. Part of a Package (A): The PBOC renewed the swap line within the framework of a 
+larger International Monetary Fund package.  
+In 2017, the IMF , in partnership with regional partners and multilateral institutions,  
+announced a three -year Extended Fund Facility arrangement for Mongolia for USD 4 34 
+million. As a part of this broader package, the PBOC agreed to renew its swap line to Mongolia 
+for RMB 5 billion (USD 1.3 billion). The combined financing package for the BOM, including 
+contributions from the IMF, PBOC, and other multilateral organizations, was USD 5.5 billion 
+(IMF 2017).  
+Part of a Package (B): The Mongolia swap agreements were part of a major effort 
+by China to establish swaps with numerous trading partners to support the RMB.  
+In 2011, the PBOC extended swap lines to five countries. Figure 8 shows the PBOC swap lines 
+extended in 2011. The 2011 extensions were part of a larger effort by the PBOC to expand 
+its swap line coverage. By 2020, the PBOC had extended swap lines to 31 countries (Perks et 
+al. 2021). 
+  
+198
+Journal of Financial Crises Vol. 5 Iss. 1
+
+--- Page 13 ---
+Figure 8: PBOC Swap Lines Extended in 2011, values as of 2017  
+ 
+Note: The swap line sizes are as of 2017 and thus reflect any expansions after 2011.  
+Source: McDowell 2019. 
+3. Legal Authority:  The PBOC’s enabling law gives the PBOC power to handle 
+international financial activities. 
+The PBOC’s enabling law  provides that t he PBOC will have the authority to issue the 
+renminbi, dictate and implement monetary policy, regulate foreign exchange markets, and 
+engage in “relevant international financial activities ” (Law of the PRC on the PBOC 2003) . 
+Any non-monetary policy decisions must be approved by the State Council , China’s highest 
+administrative governing body3 (Law of the PRC on the PBOC 2003). 
+The BOM’s foreign exchange management policy is based on Article 21 of the Law on the 
+Central Bank of Mongolia (BOM 2020; State Khural 2001). When the BOM drew on the line, 
+it lent the renminbi proceeds downstream to commercial banks via foreign currency 
+auctions. It also engaged in downstream short-term renminbi swaps with commercial banks. 
+On June 30, 2016, the BOM passed the “regula tion on the MNT and RMB currency swap 
+agreement,” which established parties’ rights under the renminbi swaps provided to 
+commercial banks (BOM 2012; BOM 2013; BOM 2014a; BOM 2015; BOM 2016; BOM 2017). 
+(See also Key Design Decision No. 9, Process for Utilizing Swap Agreement.)  
+ 
+3 The State Council is the equivalent to China’s executive cabinet; the head of the State Council is the premi er, 
+who is commonly the second most powerful member of the ruling Chinese Communist Party . It is primarily in 
+charge of running the “day-to-day affairs of the state” (Wright 2015, 32). 
+199
+China: Central Bank Swaps to Mongolia Arnold
+
+--- Page 14 ---
+4. Governance: Swap line terms and use were governed by PBOC authorities.  
+Without access to  the swap agreements, we could not determine  which body approved 
+entering into the swap agreements or made high -level governance and design  decisions; 
+however, the State Council  authorized the 2012 supplemental agreement. The initial 2011 
+agreement between the PBOC and BOM was signed by the PBOC governor . The 2012 
+amendment was signed by the governors of the PBOC and BOM . In 2015  and 2018 , th e 
+governors of the PBOC and BOM held a meeting to discuss the swap line (BOM 2012; BOM 
+2013; BOM 2016; BOM 2019).  
+The PBOC disclosed the dates and sizes of renewal/amendment of the BOM swap line in its 
+2021 renminbi internationalization report (PBOC 2021). The BOM disclosed  in its annual 
+reports, for each year, the amount drawn from the swap line , key swap line details (such as 
+rates and fees, repayment term, and caps) , and any renewals or revisions to the swap line 
+(see Figures 2 and 3 at Overview).  
+5. Administration: Our research was unable to uncover information about the 
+administration of the swap line.  
+The BOM made an advanced purchase of renminbi with tugrik, the proceeds of which stayed 
+in its account with the PBOC until the BOM made a request for use. Once a request was made 
+and the use of funds was approved, the BOM could  use the renminbi funds in its PBOC 
+account (BOM 2012). This is an unusual step in swap arrang ements. Generally, funds are 
+drawn and then made available for the borrower’s use without a secondary approval 
+process. Our research was unable to determine the purpose of this advanced -purchase 
+scheme. 
+6. Communication: The BOM communicated about the swap line in annual reports; 
+the PBOC acknowledged the swap line.  
+The PBOC said it extended the swap line to “boost bilateral trade development and to provide 
+short-term liquidity ” (Qi 2011) . In a press release in 2012, the  PBOC said it agreed to a 
+supplemental agreement in order to “facilitate bilateral investment and trade and safeguard 
+regional financial stability” (PBOC 2012). In 2013, President Xi Jinping “identified Mongolia’s 
+financial sector as one of three primary areas for economic cooperation” in a 2013 statement 
+on Sino -Mongolian economic and trade relations (Reeves 2018) . The prime ministers of 
+China and Mongolia said that the implementation of the swap line was a feature of the China-
+Mongolia Strategic Partnersh ip, which covered bilateral cooperation on political and 
+economic issues (Xinhua 2013). 
+The BOM reported each use of the swap line and every renewal, amendment, or change to 
+the swap line in its annual reports (see Figures 2 and 3 at Overview). The PBOC disclosed the 
+dates and sizes of renewal s and amendments of the BOM swap line in its 2021 renminbi 
+internationalization report (PBOC 2021). 
+200
+Journal of Financial Crises Vol. 5 Iss. 1
+
+--- Page 15 ---
+The BOM disclosed in detail in its annual reports its downstream use of the  funds drawn 
+from the PBOC swap line (see Key Design Decision No. 9 , Process for Utilizing the Swap 
+Agreement).  
+In 2011, the BOM’s deputy governor  stated that the PBOC -BOM swap line would provide a 
+“safety belt” to boost investor confidence in the local tugrik debt market and help with a five-
+year government bond auction (Choi 2011). In its 2012 annual report, the BOM said that the 
+expansion of the PBOC-BOM swap line was “particularly significant” in providing renminbi 
+liquidity and in permitting it to intervene in the foreign exchange market in order to maintain 
+currency stability (BOM 2013, 37). The bank also said the downstream renminbi lending had 
+prevented a potential renminbi shortage. In its 2014 annual report, the BOM said that the 
+swap line extension was “significant in [balance of payments] recovery and a soft-landing for 
+the economy” (BOM 2015, 41) . The extension also  had a positive impact on foreign trade 
+finance, exchange rate risk management, regional economic cooperation, macroeconomic 
+stability, and balance of payments issues. The BOM said that in 2015 the swap line 
+contributed to the bank’s ability to mitigate the impacts of negative regional external shocks 
+to the economy (BOM 2016). In 2015, the BOM’s chief economist, Sandagdorj Bold, said that 
+the PBOC swap line was “one of the tools to absorb the shock of balance of payments 
+pressures” (Edwards 2015). In its 2020 annual report, the BOM said that the extension of the 
+swap line had “ resolved the short -term external debt burden without compromising 
+economic stability” (BOM 2021, 62).  
+In 2018, anonymous senior financial analysts at the BOM said they were “uneasy” over 
+Mongolia’s debt burden to China (Reeves 2018, 185). 
+The BOM’s accounting treatment of the swap line varied  over time. In 2012 through 2015 
+(the BOM did not report in 2011) , the BOM included swap line –generated liabilities under 
+the “liabilities due to foreign parties” line item as an unsecured loan.4 Also, in 2012 only, the 
+BOM specifically disclosed in the “liabilities due to foreign parties” line item that the liability 
+was derived from a swap line.  After 2015, the BOM described such liabilities only as 
+“financing” from the PBOC (BOM 2013; BOM 2014a; BOM 2015; BOM 2016; BOM 2017; BOM 
+2018; BOM 2019; BOM 2020; BOM 2021; BOM 2022).  
+Consistent with the IMF’s Balance of Payments and International Investment Position 
+Manual (Sixth Edition), the BOM does not account for its tugrik at the PBOC (the “forward 
+leg” of the swap) as a reserve asset (BOM 2013; BOM 2014a; BOM 2015; BOM 2016; BOM 
+2017; BOM 2018; BOM 2019; BOM 2020; BOM 2021; BOM 2022; IMF 2009). 
+The swap line was accompanied by some  political controversy in Mongolia. In 2017, before 
+the PBOC swap line was renewed, the Mongolian foreign minister spoke with the Chinese 
+foreign minister and “reflected deeply” on a visit by the Dalai Lama to Mongolia, promised 
+ 
+4 Scholars have said that, in many cases, central bank swap lines are i n fact close to an unsecured loan to the 
+extent that the collateral is an unsecured deposit—which is, in effect, currency that the depositing central bank 
+has “printed” and that may have little transactional value to the counterparty central bank (Aizenman, Jinjarak, 
+and Park 2011; Bahaj and Reis 2022). The BOM offered no explanation in its annual reports for why it changed 
+its treatment of the swap line–derived liability over the years.  
+201
+China: Central Bank Swaps to Mongolia Arnold
+
+--- Page 16 ---
+he would not allow such a v isit to occur again, confirmed that Mongolia maintained its one -
+China policy, and said that Mongolia believes Tibet is a part of China (Y. Zhang 2017). In 2020, 
+the Mongolian National Security Council made recommendations with respect to the PBOC 
+swap line, which were incorporated into the 2020 renewal (BOM 2021). The BOM did not 
+disclose the recommendations, but the Mongolian National Security Council’s enabling law 
+said that one function of the council was to “increase the ability of the economy to develo p 
+independently based on its internal resources” (Mongolia Congress 1992) . Mongolia’s 
+national security concept included numerous financial  directives, including that Mongolia 
+must “maintain national foreign exchange and gold reserves at a level not less than the 
+amount of annual import requirement” (MOFA n.d.). 
+7. Eligible Institutions: The BOM was the only party to this PBOC swap line.  
+The PBOC extended and renewed this swap line only to the BOM. 
+8. Size: The parties expanded the swap line four times. 
+The PBOC and BOM signed their currency swap agreement in 2011 and expanded it four 
+times, in 2012, 2014, 2017, and 2020. The BOM’s ability to draw under the agreement was 
+limited to RMB 5 billion in 2011 and grew to a limit of RMB 15 billion by 2020. The PBOC’s 
+ability to draw under the agreement began at MNT 1 trillion in 20 11 and grew to MNT 6 
+trillion by 2020. (For further detail, see Figure 2 at Overview.) 
+9. Process for Utilizing the Sw ap Agreement: Draws on the swap line required 
+mutual consent and approval of the use of funds.  
+Each central bank maintained a special non -interest-bearing account for the other central 
+bank into which currency was deposited with respect to draws under the  swap line—the 
+BOM had a n off -balance-sheet renminbi account at the PBOC and the PBOC had a tugrik 
+account at the BOM (the tugrik assets of which the BOM also accounted for as off -balance-
+sheet). Upon the request of the borrowing bank and the approval of the lending bank, either 
+bank could purchase the other’s currency by depositing an equivalent amount of its own 
+currency as collateral with the lending bank, for example: buy renminbi with tugrik or buy 
+tugrik with renminbi, for an agreed-upon period. At the end of the period, the corresponding 
+repurchase/resale transaction would occur , and the borrower would return the foreign 
+currency borrowed to the lender in exchange for the return of its domestic curren cy 
+collateral (BOM 2012).  
+The BOM made an advanced purchase of renminbi with tugrik, the proceeds of which stayed 
+in its account with the PBOC until the BOM made a request for use (but see note to Figure 3 
+at Overview). Once a request was made and the use  of funds was approved, the BOM could 
+use the renminbi funds in its PBOC account (BOM 2012). This is an unusual step in swap 
+arrangements. Generally, funds are drawn and then made available for the borrower’s use 
+without a secondary approval process.  Our research was unable to determine the purpose 
+of this advanced-purchase scheme. 
+202
+Journal of Financial Crises Vol. 5 Iss. 1
+
+--- Page 17 ---
+10. Downstream Use of Borrowed Funds: The BOM auctioned tugrik to commercial 
+banks and entered into foreign exchange swaps with commercial banks.  
+When the BOM drew on the line, it sold most of the renminbi proceeds in foreign  exchange 
+auctions to ease the pressure on the tugrik against the US dollar and prevent a shortage of 
+renminbi on the market (BOM 2013; BOM 2014a; BOM 2015; BOM 2016; BOM 2017).  
+In 2011 and 2012, the BOM also lent a relatively small amount of renminbi downstream to 
+commercial banks via foreign currency auctions (BOM 2012; BOM 2013) . From 2013 
+through 2016 , it lent renminbi through downstream short -term renminbi swaps with 
+commercial banks (BOM 2014a; BOM 2015; BOM 2016; BOM 2017; Choi 2011).  
+Figure 9 shows the BOM’s draws on the PBOC swap line each year with its foreign exchange 
+interventions (renminbi auctions) and commercial swaps (short-term renminbi swaps with 
+commercial banks) for the years in which it actively drew on the line. (See also Figures 1 0 
+and 11 at Appendix.) 
+Figure 9: BOM Draws on Swap Line and Foreign Exchange Intervention by Type, 2012–
+2016 
+ 
+Sources: BOM 2013; BOM 2014a; BOM 2015; BOM 2016; BOM 2017 . 
+203
+China: Central Bank Swaps to Mongolia Arnold
+
+--- Page 18 ---
+11. Duration of Swap Draws : For both parties, d raw periods could last three to six 
+months until 2014; thereafter, they could last up to 12 months. 
+The usage period for draws by either bank was three to six months until 2014, when the 
+usage period was extended to up to 12 months for both parties (see Figure 2 at Overview) . 
+Our research was unable to uncover specific draw periods.  
+12. Rates and Fees: The PBOC charged the BOM 200 basis points above SHIBOR for any 
+draws; the BOM charged the PBOC the Interbank MNT Weight ed Rate for any 
+draws. 
+In the 2011 agreement, there were two interest rates depending on the drawing party. If the 
+BOM requested a draw from the PBOC, it would pay the Shanghai Interbank Offered Rate 
+(SHIBOR) for renminbi deposits with a corresponding usage period plus 200 basis points. If 
+the PBOC requested a draw from the BOM, it would pay the Interbank MNT Wei ghted Rate 
+with a corresponding usage period . The borrowing party would pay interest owed on the 
+date of repayment of the draw amount  (BOM 2012). Some scholars have said that China’s 
+swap rate spreads appear to take account of the risk profile of the recip ient country (Perks 
+et al. 2021). Our research did not uncover whether the PBOPC paid any interest on the BOM’s 
+special account at the PBOC resulting from its advanced purchase of renminbi  (see Key 
+Design Decision No. 9, Process for Utilizing the Swap Agreement). 
+13. Balance Sheet Protection: The PBOC received tugrik as collateral.   
+A standard swap agreement involves the borrowing central bank purchasing the lending 
+central bank’s currency with its own ; the two banks then engage in subsequent repurchase 
+and resale transactions—in essence, the borrowing central bank’s currency acts as collateral 
+against the loaned currency (Perks et al. 2021) . Generally, it is possible that the lending 
+central bank in a swap arrangement could impose a haircut on  the borrowing central bank 
+(Bahaj and Reis 2021) . Under the PBOC-BOM swap, when the PBOC lent renminbi to the 
+BOM, it received an equivalent amount in tugrik; the reverse was also true if the BOM lent to 
+the PBOC (BOM 2012).   
+14. Other Restrictions:  The PBOC  said that Mongolian authorities’ policies could 
+influence whether or not it renewed the swap line.  
+In 2017, before receiving the PBOC swap line renewal, the Mongolian foreign minister spoke 
+with the Chinese foreign minister and “reflected deeply” on a vi sit by the Dalai Lama to 
+Mongolia, promised he would not allow such a visit to occur again, confirmed that Mongolia 
+maintained its one-China policy, and said that Mongolia believes Tibet is a part of China (Y. 
+Zhang 2017). 
+In 2017, the PBOC “indicated that  if the Mongolian authorities’ policies under the [swap] 
+program remain on track,” it would be reasonable to renew the line again in 2020; the PBOC 
+did not indicate what the relevant policies were (IMF 2017, 21). The leaders of both nations 
+recognized the swap line as a part of the broader China -Mongolia Strategic Partnership, 
+204
+Journal of Financial Crises Vol. 5 Iss. 1
+
+--- Page 19 ---
+which provided a framework for economic cooperation (see Key Design Decision No. 6 , 
+Communication).  
+15. Other Options: Information regarding other options is unavailable.  
+The PBOC did not disclose other options that it considered.  
+16. Exit Strategy: The swap line remains in force after its 2020 renewal. 
+The central banks most recently renewed the swap line on July 31 2020; we have not been 
+able to confirm a specific expiration date but the swap line was renewed for a three -year 
+period (BOM 2021).   
+205
+China: Central Bank Swaps to Mongolia Arnold
+
+--- Page 20 ---
+References and Key Program Documents 
+Legal/Regulatory Guidance 
+(Law of the PRC on the PBOC 2003) Tenth National People’s Congress (Law of the PRC on 
+the PBOC). 2003. Law of the Peoples Republic of China on the People’s Bank of China. 
+December 27, 2003. 
+Legislation delegating PBOC authorities. 
+https://ypfs.som.yale.edu/node/21995 
+(Mongolia Congress 1992) Secretary of the Congress of Mongolia (Mongolia Congress) 
+(Mongolia Congress). 1992. “Mongolia Law on the National Security Council of Mongolia.” 
+Law, May 29, 1992. 
+Law delegating powers to the National Security Council (in Mongolian). 
+https://ypfs.som.yale.edu/node/22169 
+(State Khural 2001) State Ikh Khural of Mongolia (State Khural). 2001. “Law on the Central 
+Bank of Mongolia.” Law, May 13, 2001. 
+Law granting powers to the Bank of Mongolia. 
+https://ypfs.som.yale.edu/node/22170 
+Media Stories 
+(Cao 2022) Cao, Yubo. 2022. “An Important Step in Currency Standing Swap.” Nancai Quick 
+Review, July 4, 2022. 
+Article discussing China’s 2022 swap line with Hong Kong (in Chinese). 
+https://ypfs.som.yale.edu/node/21956 
+(China Daily 2014) China Daily. 2014. “Swaps Allow China to Go on Offensive,” December 
+25, 2014. 
+Article discussing RMB internationalization’s role in swap line extension. 
+https://ypfs.som.yale.edu/node/21957 
+(China Daily 2011) China Daily. 2011. “PBOC Signs Currency Swap Deal with Mongolia,” 
+May 6, 2011. 
+Article discussing 2011 PBOC-BOM swap line announcement. 
+https://ypfs.som.yale.edu/node/22171 
+(Edwards 2015) Edwards, Terrence. 2015. “Mongolia Leans on China as It Waits for Copper 
+Mine-Led Revival.” Reuters, May 21, 2015. 
+Article discussing Mongolia’s use of PBOC swap line. 
+https://ypfs.som.yale.edu/node/22172/ 
+  
+206
+Journal of Financial Crises Vol. 5 Iss. 1
+
+--- Page 21 ---
+(Espadinha 2015) Espadinha, Maria. 2015. “Central Bank of Argentina Uses PBoC Swap 
+Agreement for External Financing.” Central Banking, January 20, 2015. 
+Newspaper article discussing Argentina’s use of swap agreement with PBOC to bolster 
+reserves. 
+https://ypfs.som.yale.edu/node/22173 
+(Financial Services Monitor 2014) Financial Services Monitor. 2014. “Mongol Bank Signs 
+New Agreement with the People’s Bank of China,” August 26, 2014. 
+Article discussing 2014 swap agreement between PBOC and BOM. 
+https://ypfs.som.yale.edu/node/22174 
+(Qi 2011) Qi, Stefanie. 2011. “China PBOC- Signed CNY5 Bln Currency Swap Agreement 
+with Mongolia.” Dow Jones, May 6, 2011. 
+Article discussing 2011 PBOC-BOM swap agreement. 
+https://ypfs.som.yale.edu/node/22175/ 
+(Y. Zhang 2017) Zhang, Yunbi. 2017. “Mongolia to Get Help from China.” China Daily, 
+February 21, 2017. 
+Article discussing 2017 China-Mongolia swap arrangement. 
+https://ypfs.som.yale.edu/node/22295 
+Press Releases/Announcements 
+(PBOC 2012) People’s Bank of China (PBOC). 2012. “Establishment of a Bilateral Local 
+Currency Swap Supplemental Agreement between the People’s Bank of China and Bank of 
+Mongolia.” Press release, March 21, 2012. 
+Press release announcing 2012 supplemental agreement to PBOC-Mongolia swap line. 
+https://ypfs.som.yale.edu/node/22178 
+(Xinhua 2013) Xinhua News Agency (Xinhua). 2013. “Outline for Medium and Long-term 
+Development of China-Mongolia Strategic Partnership.” Press release, October 25, 2013. 
+Press release in Chinese announcing the China-Mongolia strategic partnership. 
+https://ypfs.som.yale.edu/node/22176 
+Reports/Assessments 
+(BOM 2012) Bank of Mongolia (BOM). 2012. 2011 Annual Report. 
+The Bank of Mongolia’s annual report for 2011. 
+https://ypfs.som.yale.edu/node/22179 
+(BOM 2013) Bank of Mongolia (BOM). 2013. 2012 Annual Report. 
+The Bank of Mongolia’s annual report for 2012. 
+https://ypfs.som.yale.edu/node/22180 
+(BOM 2014a) Bank of Mongolia (BOM). 2014a. 2013 Annual Report. 
+The Bank of Mongolia’s annual report for 2013. 
+https://ypfs.som.yale.edu/node/22181 
+207
+China: Central Bank Swaps to Mongolia Arnold
+
+--- Page 22 ---
+(BOM 2014b) Bank of Mongolia (BOM). 2014b. “Mongolia’s Foreign Trade Review (2014).” 
+Report, December 31, 2014. 
+Report on Mongolia’s foreign trade in 2014. 
+https://ypfs.som.yale.edu/node/22182/ 
+(BOM 2015) Bank of Mongolia (BOM). 2015. 2014 Annual Report. 
+The Bank of Mongolia’s annual report for 2014. 
+https://ypfs.som.yale.edu/node/22183 
+(BOM 2016) Bank of Mongolia (BOM). 2016. 2015 Annual Report. 
+The Bank of Mongolia’s annual report for 2015. 
+https://ypfs.som.yale.edu/node/22184/ 
+(BOM 2017) Bank of Mongolia (BOM). 2017. 2016 Annual Report. 
+The Bank of Mongolia’s annual report for 2016. 
+https://ypfs.som.yale.edu/node/22185 
+(BOM 2018) Bank of Mongolia (BOM). 2018. 2017 Annual Report. 
+The Bank of Mongolia’s annual report for 2017. 
+https://ypfs.som.yale.edu/node/22186 
+(BOM 2019) Bank of Mongolia (BOM). 2019. 2018 Annual Report. 
+The Bank of Mongolia’s annual report for 2018. 
+https://ypfs.som.yale.edu/node/22187 
+(BOM 2020) Bank of Mongolia (BOM). 2020. 2019 Annual Report. 
+The Bank of Mongolia’s annual report for 2019. 
+https://ypfs.som.yale.edu/node/22188/ 
+(BOM 2021) Bank of Mongolia (BOM). 2021. 2020 Annual Report. 
+The Bank of Mongolia’s annual report for 2020. 
+https://ypfs.som.yale.edu/node/22189 
+(BOM 2022) Bank of Mongolia (BOM). 2022. 2021 Annual Report. 
+The Bank of Mongolia’s annual report for 2021. 
+https://ypfs.som.yale.edu/node/22190/ 
+(BOM n.d.) Bank of Mongolia (BOM). n.d. “Bank of Mongolia - About the Bank.” 
+Webpage discussing the Bank of Mongolia’s purpose and history. 
+https://ypfs.som.yale.edu/node/22215 
+(Choi 2011) Choi, Dale. 2011. “In-n-out FC Liquidity Increased 1.7 Times YoY.,” July 4, 2011. 
+Investment house report on Mongolia’s 2011 foreign exchange disposition. 
+https://ypfs.som.yale.edu/node/22205 
+  
+208
+Journal of Financial Crises Vol. 5 Iss. 1
+
+--- Page 23 ---
+(IMF 2015) International Monetary Fund (IMF). 2015. “Mongolia 2015 Article IV Report.” 
+IMF Country Report No. 15/109, April 2015. 
+IMF 2015 Article IV consultation report for Mongolia. 
+https://ypfs.som.yale.edu/node/22206 
+(IMF 2017) International Monetary Fund (IMF). 2017. “Mongolia 2017 Article IV Report.” 
+IMF Country Report No. 17/140, May 2017. 
+The International Monetary Fund’s Article IV report discussing the state of Mongolia’s 
+economic recovery. 
+https://ypfs.som.yale.edu/node/22207/ 
+(MOFA n.d.) Ministry of Foreign Affairs of Mongolia (MOFA). n.d. “National Security 
+Concept of Mongolia.” Report. 
+Public memorandum describing Mongolia’s national security concept. 
+https://ypfs.som.yale.edu/node/22217 
+(PBOC 2021) People’s Bank of China (PBOC). 2021. “2021 RMB Internationalization 
+Report,” 2021. 
+Report from the People’s Bank of China on renminbi internationalization. 
+https://ypfs.som.yale.edu/node/22208 
+Key Academic Papers 
+(Aizenman, Jinjarak, and Park 2011) Aizenman, Joshua, Yothin Jinjarak, and Donghyun 
+Park. 2011. “Evaluating Asian Swap Arrangements.” ADBI Working Paper 297, July 2011. 
+Study evaluating Asian swap arrangements and their association with the build-up of foreign 
+reserves before the 2007–2009 Global Financial Crisis. 
+https://ypfs.som.yale.edu/node/22211 
+(Bahaj and Reis 2021) Bahaj, Saleem, and Ricardo Reis. 2021. “The Workings of Liquidity 
+Lines between Central Banks.” CEPR Discussion Paper No. DP17096, December 2021. 
+Study describing the functions of central bank swap lines. 
+https://ypfs.som.yale.edu/node/22212 
+(Bahaj and Reis 2022) Bahaj, Saleem, and Ricardo Reis. 2022. “The Economics of Liquidity 
+Lines Between Central Banks,” Annual Review of Financial Economics 14, November 1, 
+2022. 
+Study examining the economics of central bank liquidity lines. 
+https://ypfs.som.yale.edu/node/22296 
+(Gao and Yu 2012) Gao, Haihong, and Yongding Yu. 2012. “Internationalisation of the 
+Renminbi.” BIS Working Papers no. 61, January 11, 2012. 
+Study discussing RMB internationalization. 
+https://ypfs.som.yale.edu/node/21983 
+  
+209
+China: Central Bank Swaps to Mongolia Arnold
+
+--- Page 24 ---
+(Gentile, Musuruana, and Tessmer 2015) Gentile, Patricio Hernán Almeida, Luciano Andrés 
+Jara Musuruana, and Germán Tessmer. 2015. “X-ray of the Argentina-China swap.” Special 
+report, Universidad Nacional de Rosario, Observatorio Ecónómico Social UNR, November 
+2015. 
+Report on the use of the PBOC-BCRA swap line (in Spanish). 
+https://ypfs.som.yale.edu/node/22297/ 
+(Georgiadis, Mehl, Mezo, and Tille 2021) Georgiadis, Georgios, Arnaud Mehl, Helena Le 
+Mezo, and Cedric Tille. 2021. “Fundamentals vs. Policies: Can the US Dollar’s Dominance in 
+Global Trade Be Dented?” ECB Working Paper No. 2574, 2021. 
+Study analyzing the role of PBOC swap lines in renminbi invoicing in the context of 
+international trade. 
+https://ypfs.som.yale.edu/node/22216 
+(Horn et al. 2023) Horn, Sebastian, Bradley C. Parks, Carmen M. Reinhart, and Christoph 
+Trebesch. 2023. “China as an International Lender of Last Resort.” Kiel Institute Working 
+Paper No. 2244, March 2023.  
+Working paper discussing China’s swap lines as part of a broader network of Chinese lender-
+of-last-resort operations. 
+https://ypfs.som.yale.edu/node/22943 
+(IMF 2009) International Monetary Fund (IMF). 2009. “Balance of Payments and 
+International Investment Position Manual,” 2009. 
+IMF manual describing standardized rules for statistical and accounting treatment of central 
+bank reserves. 
+https://ypfs.som.yale.edu/node/22168 
+(Liao and McDowell 2015) Liao, Steven, and Daniel McDowell. 2015. “Redback Rising: 
+China’s Bilateral Swap Agreements and Renminbi Internationalization.” International 
+Studies Quarterly 59, no. 3, September 2015. 
+Study discussing RMB internationalization. 
+https://ypfs.som.yale.edu/node/21987 
+(Maziad and Kang 2012) Maziad, Samar, and Joong Kang. 2012. “RMB Internationalization: 
+Onshore/Offshore Links.” IMF Working Papers No. 12/133, May 2012. 
+Study discussing the onshore and offshore markets’ roles in RMB internationalization. 
+https://ypfs.som.yale.edu/node/21988 
+(McDowell 2019) McDowell, Daniel. 2019. “The (Ineffective) Financial Statecraft of China’s 
+Bilateral Swap Agreements.” Development and Change 50, no. 1, January 2019. 
+Study evaluation the driving factors and efficacy of Chinese swap lines. 
+https://ypfs.som.yale.edu/node/21989 
+(Perks et al. 2021) Perks, Michael, Yudong Rao, Jongsoon Shin, and Kiichi Tokuoka. 2021. 
+“Evolution of Bilateral Swap Lines.” WP/21/210, August 2021. 
+Study documenting existence of and roles of international swap lines. 
+https://ypfs.som.yale.edu/node/21990/ 
+210
+Journal of Financial Crises Vol. 5 Iss. 1
+
+--- Page 25 ---
+(Reeves 2018) Reeves, Jeffrey. 2018. “Mongolia’s Place in China’s Periphery Diplomacy.” In 
+International Relations and Asia’s Northern Tier: Sino-Russia Relations, North Korea, and 
+Mongolia. Asan-Palgrave Macmillan Series. Singapore: Palgrave Macmillan. 
+Book chapter discussing the Bank of Mongolia in the context of Sino-Mongolian relations. 
+https://ypfs.som.yale.edu/node/22214/ 
+(Wright 2015) Wright, Teresa. 2015. Party and State in Post-Mao China. Malden, MA: Polity 
+Press. 
+Book discussing the political system of post-Mao China. 
+https://ypfs.som.yale.edu/node/22345/ 
+(M. Zhang 2015) Zhang, Ming. 2015. “Internationalization of the Renminbi.” Center for 
+International Governance Innovation. Report 2. New Thinking and the New G20 Series, 
+March 2015. 
+Study examining RMB internationalization. 
+https://ypfs.som.yale.edu/node/21993 
+Other 
+(World Bank n.d.a) World Bank. n.d.a. “GDP (Current US$) - Mongolia | Data.” Database. 
+Dataset of gross domestic product for Mongolia compiled by the World Bank. 
+https://ypfs.som.yale.edu/node/22209 
+(World Bank n.d.b) World Bank. n.d.b. “Mongolia Product Imports from China US$000 
+2011- 2019 | WITS Data.” Dataset. 
+Dataset containing Chinese import volume to Mongolia time series. 
+https://ypfs.som.yale.edu/node/22210 
+  
+211
+China: Central Bank Swaps to Mongolia Arnold
+
+--- Page 26 ---
+Appendix 
+Figure 10: Bank of Mongolia’s Tugrik Auctions, 2014–2016 
+ 
+Note: The BOM disclosed charts of this type only for 2014, 2015, and 2016.  
+Sources: BOM 2015; BOM 2016; BOM 2017. 
+  
+212
+Journal of Financial Crises Vol. 5 Iss. 1
+
+--- Page 27 ---
+Figure 11: Bank of Mongolia’s Tugrik Commercial Swaps, 2014–2016 
+ 
+ 
+ 
+Note: The BOM disclosed charts of this type only for 2014, 2015, and 2016.  
+Source: BOM 2015; BOM 2016; BOM 2017. 
+ 
+ 
+Copyright 2023 © Yale University. All rights reserved. To order copies of this material or to receive 
+permission to reprint any or all of th is document, please contact the Yale Program on Financial 
+Stability at ypfs@yale.edu. 
+213
+China: Central Bank Swaps to Mongolia Arnold

@@ -1,0 +1,561 @@
+--- Page 1 ---
+Journal of Financial Crises Journal of Financial Crises 
+Volume 4 Issue 2 
+2022 
+Indonesia Deposit Insurance Corporation Indonesia Deposit Insurance Corporation 
+Lily S. Engbith 
+Yale School of Management 
+Follow this and additional works at: https://elischolar.library.yale.edu/journal-of-financial-crises 
+ Part of the Economic Policy Commons, Finance and Financial Management Commons, 
+Macroeconomics Commons, Policy Design, Analysis, and Evaluation Commons, Policy History, Theory, 
+and Methods Commons, and the Public Administration Commons 
+Recommended Citation Recommended Citation 
+Engbith, Lily S. (2022) "Indonesia Deposit Insurance Corporation," Journal of Financial Crises: Vol. 4 : Iss. 
+2, 399-411. 
+DOI: https://doi.org/10.17132/2693-3179.1303 
+Available at: https://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss2/14 
+This Case Study is brought to you for free and open access by the Journal of Financial Crises and 
+EliScholar – A Digital Platform for Scholarly Publishing at Yale. For more information, please contact 
+journalfinancialcrises@yale.edu.
+
+--- Page 2 ---
+READERS TAKE NOTICE: READERS TAKE NOTICE: 
+As of April 2024, the YPFS Resource Library’s site domain has changed 
+to https://elischolar.library.yale.edu/ypfs-financial-crisis-resource-library/. 
+Please be aware that upon clicking any of the URL references to 
+the former Resource Library domains, either https://ypfs.som.yale.edu 
+or https://ypfsresourcelibrary.blob.core.windows.net/, in the 
+"References/Key Program Documents" section of a case study, 
+readers will encounter a "page not found" error. readers will encounter a "page not found" error. 
+Readers can still retrieve a given resource cited within this case study 
+on the new site  by searching by searching here  for the title cited. for the title cited. 
+This case study is available in Journal of Financial Crises: https://elischolar.library.yale.edu/journal-of-financial-
+crises/vol4/iss2/14
+
+--- Page 3 ---
+Indonesia Deposit Insurance Corporation1 
+Lily S. Engbith2 
+Yale Program on Financial Stability Case Study 
+July 15, 2022 
+Abstract 
+To address the risk of capital flight to neighboring countries during the Global Financial 
+Crisis, the Indonesian government raised the limit on insured deposits 20-fold from IDR 100 
+million to IDR 2 billion per account  (about USD 200,000). The President iss ued two 
+government regulations on October 13, 2008. The first was an emergency decree that 
+authorized the government, in consultation with the Indonesian Parliament, to alter the limit 
+in times of systemic financial distress. The second was a government regulation enacting the 
+actual increase, which has remained in effect since the crisis. All banks operating within 
+Indonesia, including branches of foreign banks conducting business in the country, were 
+required to be members of the IDIC and therefore covered by the guarantee. Covered forms 
+of deposit accounts included current accounts, term deposits, certificates of deposit, savings 
+accounts, and Sharia-based (Islamic) accounts. As a direct result of the insurance increase, 
+total insured deposits doubled to IDR 957.4 trillion between October and December 2008. 
+By year -end 2009, the IDIC had paid out IDR 557.6 billion to eligible depositors at 21 
+relatively small liquidated banks . Evaluations of the program were mixed: although the 
+intervention was seen as having contributed to the stabilization of the banking system, some 
+commentators suggest that the government should have enacted a blanket guarantee for all 
+deposit accounts, which had been in place between 1998 and 2006. 
+Keywords: Account guarantees, Global Financial Crisis, Indonesia , Indonesia Deposit 
+Insurance Corporation, Lembaga Penjamin Simpanan 
+  
+ 
+1 This case study is part of the Yale Program on Financial Stability (YPFS) selection of New Bagehot Project 
+modules considering account guarantee programs. Cases are available from the Journal of Financial Crises at   
+https://elischolar.library.yale.edu/journal-of-financial-crises/. 
+2 Senior Research Associate, YPFS, Yale School of Management. 
+399
+
+--- Page 4 ---
+Overview 
+The Global Financial Crisis (GFC) of 2008 
+severely impacted economies and financial 
+systems around the world, causing 
+widespread market liquidity shortages, 
+bank failures, and precipitous declines in 
+public confidence. Although none of 
+Indonesia’s banks were directly exposed to 
+US subprime mortgage markets, the global 
+contagion prompted an unexpected decline 
+in interbank lending, the depreciation of 
+the Rupiah, and a contraction in non-oil and 
+gas exports (Saheruddin 2017; Asian 
+Development Bank 2009). The government 
+acted swiftly to bolster the central bank’s 
+lender-of-last-resort functio ns, ease 
+liquidity through monetary expansion, and 
+strengthen the administrative and 
+coordinating capacities of the Ministry of 
+Finance, Bank Indonesia, and the Indonesia 
+Deposit Insurance Corporation (IDIC) 
+(Asian Development Bank 2009).  
+These interventions, however, did not 
+completely address the risk of capital 
+outflows from Indonesian banks to 
+neighboring jurisdictions such as 
+Singapore, Malaysia, Australia, and Hong 
+Kong, whose governments had increased 
+their deposit insurance coverage during the 
+crisis (Kariastanto 2011; Hadad et al. 
+2010). To promote confidence in domestic 
+banks, the Indonesian President issued two 
+regulations on October 13, 2008. The first 
+was an emergency decree allowing the 
+government to alter the cap on insured 
+deposits in the case of a substantial threat 
+to the financial system  (GoI 2008a) . The 
+second raised the limit from IDR 100 
+million to IDR 2 billion  (about USD 
+200,000)3 per deposit account (GoI 2008b; 
+GoI 2008b).  
+ 
+3 On Oct. 1, 2008, 1 USD = IDR 9,824, per Yahoo Finance. 
+Key Terms 
+Purpose: To preserve public confidence in the 
+domestic banking sector, prevent capital flight to 
+neighboring countries, and otherwise preempt the 
+potentially severe impacts of the Global Financial 
+Crisis on the Indonesian economy (IDIC 2009; 
+Hadad et al. 2010) 
+Launch Dates Announcement: Oct. 13, 2008 
+Authorization: Oct. 13, 2008 
+Operation: Oct. 13, 2008  
+End Date Permanent change to the 
+deposit insurance system 
+Eligible 
+Institutions 
+All banks that operate within 
+the territory of the Republic of 
+Indonesia 
+Eligible Accounts Current accounts, term 
+deposits, certificates of 
+deposit, savings accounts, and 
+similar Islamic accounts  
+Fees Existing insurance premium of 
+0.1% of the average six-month 
+balance of total monthly 
+deposits; no additional fees  
+Size of Guarantee IDR 2 billion 
+Coverage At year-end 2008, 82.6 million 
+deposit accounts covered, 
+worth IDR 957.4 trillion  
+Outcomes IDR 557.6 billion paid out to 
+depositors at 21 banks by the 
+end of 2009  
+Notable Features The government created the 
+legal authority to alter the 
+deposit insurance limit in 
+response to systemic risk  
+400
+Journal of Financial Crises Vol. 4 Iss. 2
+
+--- Page 5 ---
+Because IDIC membership is compulsory for all banks operating within Indonesia, including 
+branches of foreign banks that conduct business in the country, the deposit insurance 
+increase was involuntary and applied to over 82.6 billion deposit accounts worth IDR 957.4 
+trillion (IDIC 2009). Eligible accounts included current accounts, term deposits, certificates 
+of deposit, savings accounts, and similar Sharia-based (Islamic) accounts (IDIC 2009). The 
+IDIC was initially funded in 2005 with a founding capital injection of IDR 4 trillion. It also 
+collects mandatory membership fees and quarterly insurance premiums, and earns 
+investment returns on its insurance reserves (IDIC n.d.b). Depositors in failed banks could 
+exercise the guarantee by following the procedures normally used in non-crisis times, which 
+could result in payments taking up to 90 days (IDIC n.d.e).  
+On January 13, 2009, the Indonesian Parliament passed Law No. 3/2009, codifying the 
+government’s authority to adjust the limit on insured deposits using the language of the 
+emergency decree (GoI 2009). The IDR 2 billion cap has remained in effect since its 
+establishment (IDIC n.d.a). 
+Summary Evaluation 
+While it is difficult to discern the effect of the deposit insurance increase in isolation, sources 
+provide mixed reviews. In a working paper, IDIC employee Herman Saheruddin (2017) said 
+that the central bank believed the increase in coverage had “successfully restored” stability 
+in the Indonesian banking sector during the crisis (2017). However, he finds “some evidence 
+of material increase” in risk-taking by private banks following the government’s intervention 
+(2017).  
+According to another source, the government was not entirely successful in stemming capital 
+outflows (Jameaba 2018) . Some commentators therefore called for the adoption of a full 
+blanket guarantee, similar to that enacted in Singapore and Malaysia and to the guarantee 
+Indonesia had in place from 1998 to 2006. Basri and Rahardja (2010) demonstrate that this 
+difference in insurance provision led to arbitrage pressures . The authors also report that 
+Indonesia still experienced “flights to quality” as depositors moved their funds to large  
+private banks and state banks of any size, which deepened the balance of liquidity and 
+fragmentation in the banking system (Basri and Rahardja 2010). 
+Despite the improvement in bank capital, the decline in non-performing loans, and an influx 
+of third-party deposits, Indonesia’s banking assets and liabilities were slow to recover in 
+2008 (IDIC 2009). The IDIC directly attributed this phenomenon to the increased cap on 
+deposit insurance (IDIC 2009). 
+  
+401
+Indonesia Engbith
+
+--- Page 6 ---
+Context: Indonesia 2007–2008 
+GDP 
+(SAAR, nominal GDP in LCU  
+converted to USD) 
+$432.4 billion in 2007 
+$532.1 billion in 2008 
+GDP per capita 
+(SAAR, nominal GDP in LCU  
+converted to USD) 
+$1,860 in 2007 
+$2,167 in 2008 
+Sovereign credit rating  
+(five-year senior debt) 
+Data for 2007: 
+Moody’s: Ba3 
+S&P: BB+ 
+Fitch: BB- 
+ 
+Data for 2008: 
+Moody’s: Ba3 
+S&P: BB+ 
+Fitch: BB 
+Size of banking system $147.9 billion in 2007 
+$172.3 billion in 2008 
+Size of banking system  
+as a percentage of GDP 
+34.2% in 2007 
+30.6% in 2008 
+Size of banking system  
+as a percentage of financial system 
+100% in 2007 
+100% in 2008 
+Five-bank concentration of banking system 58.8% in 2007 
+59.3% in 2008 
+Foreign involvement in banking system 23% in 2007 
+23% in 2008 
+Government ownership of banking system Data not available for 2007 
+38% in 2008 
+Existence of deposit insurance Yes, in 2007 
+Yes, in 2008 
+Sources: Bloomberg , World Bank Global Financial Development Database , World 
+Bank Deposit Insurance Dataset. 
+402
+Journal of Financial Crises Vol. 4 Iss. 2
+
+--- Page 7 ---
+Key Design Decisions 
+1. Purpose: The Government of Indonesia instituted the deposit insurance increase 
+to preempt bank runs associated with the Global Financial Crisis (GFC).  
+Indonesia’s President issued two crisis -related regulations to increase the limit on deposit 
+insurance (GoI 2008a; GoI 2008b). Both cited the need to anticipate the effects of the GFC on 
+Indonesia’s banking system , including the potential for bank runs due  to a loss of public 
+confidence (GoI 2008a; GoI 2008b). Observers considered the measure to be an attempt to 
+prevent further capital flight to neighboring jurisdictions that had decided to temporarily 
+adopt unlimited guarantees on deposits, including Singa pore, Malaysia, and Hong Kong 
+(Hadad et al. 2010; Asian Development Bank 2009).  
+2. Part of a Package : In addition to raising the limit on deposit insurance, the 
+Government of Indonesia strengthened Bank Indonesia’s capacities to act as 
+lender of last resort and eased liquidity strains through monetary expansion. 
+Although the direct effects of the GFC on Indonesia’s banking system were not as severe as 
+those in neighboring countries, an unexpected squeeze on US dollar lines and large capital 
+outflows did generate some concern about domestic financial stability (Asian Development 
+Bank 2009) . Meanwhile, interbank lending suffered from a sharp decrease in market 
+liquidity, share prices dropped precipitously, and the Rupiah’s exchange rate tumbled (IDIC 
+2009). In r esponse, the government enacted a series of stabilization measures over the 
+course of October 2008 to promote confidence in the financial system (Asian Development 
+Bank 2009). The package included strengthening Bank Indonesia’s capacity to act as lender 
+of last resort, easing liquidity through monetary expansion, and increasing deposit insurance 
+coverage (Asian Development Bank 2009).  
+The IDIC was also charged with the resolution and restructuring of  PT Bank Century Tbk, a 
+systemically important bank, in November 2008 (IDIC 2009). 
+3. Legal Authority: The President of Indonesia issued two regulations granting the 
+government the authority to raise the limit on deposit insurance and then raising 
+it to IDR 2 billion per account. The Parliament formalized this power in 2009. 
+On October 13, 2008, the President of Indonesia promulgated Government Regulation In 
+Lieu of Law No. 3/2008,4 an emergency decree that allowed the government, in consultation 
+with the Indonesian Parliament, to alter the amount of deposits insur ed if there were a risk 
+that could reduce public confidence in the stability of the financial system (GoI 2008a, 3). In 
+its preamble, the decree cited the necessity of altering the existing law in light of  the 
+destabilizing impacts of the GFC (GoI 2008a). It stipulated that the government  could alter 
+ 
+4 A Government Regulation in Lieu of Law is a statutory regulation that can be stipulated by the President of 
+the Republic of Indonesia during a state of emergency (Hamzah, Narang, and Yusari 2021).  
+403
+Indonesia Engbith
+
+--- Page 8 ---
+the deposit insurance limit in the following situations, after consulting with the Indonesian 
+Parliament:  
+(a) There are simultaneous bank runs, 
+(b) There is significant inflation lasting more than a year, 
+(c) The number of insured depositors accounts for less than 90% of total accounts at all 
+banks, or 
+(d) “There is a threat of crisis which potentially leads to the decrease of public 
+confidence in banking and could harm the stability of the financial system” (GoI 
+2008b, 2). 
+On the same day, the President issued Government Regulation No. 66/2008,  indefinitely 
+increasing the limit for each deposit account from IDR 100 million to IDR 2 billion (GoI 
+2008b, 2).  
+The Indonesian Parliament voted the emergency decree into law on January 13, 2009, 
+preserving the government’s ability to alter the deposit insurance limi t as it deemed 
+necessary (GoI 2009) . This legislation, Law No. 7/2009, noted that public confidence in 
+banking was critical to the stability of the Indonesian financial system (GoI 2009). 
+4. Administration: The IDIC was responsible for administering Indonesia ’s deposit 
+insurance program. 
+Sources consulted did not specify any coordination between the IDIC and other government 
+agencies or private entities.  
+5. Governance: The IDIC was governed by a six-member Board of Commissioners and 
+a chief executive officer.  
+As the decision-making body within the IDIC, the Board of Commissioners was responsible 
+for administering the organization and determining its policies (IDIC 2009) . The Board, 
+which was wholly appointed by the President and led by a chairman, consist ed of s ix 
+individuals: three Ex-Officio members, representing the Ministry of Finance, Bank Indonesia, 
+and the Bank Supervisory Institution ; and three IDIC officials (IDIC 2009). The chairman of 
+the Board and the chief executive officer were chosen internally amo ng the members of the 
+Board (IDIC 2009). 
+All divisions of the IDIC were subject to internal examinations conducted by the Audit 
+Committee, as well as reviews by “external counterparts” (IDIC 2009).  
+Every commercial bank was obligated to submit detailed monthly financial reports, which 
+the IDIC used to calculate individual premiums (IDIC 2009). These reports also included the 
+bank’s balance sheet, a profit and loss statement, an administrative account, and a list of 
+404
+Journal of Financial Crises Vol. 4 Iss. 2
+
+--- Page 9 ---
+liabilities owed to other banks (IDIC n.d.c). Rural banks5 were similarly required to submit 
+semiannual financial reports detailing balance -sheet information, a profit and loss 
+statement, a list of liabilities owed to other banks, and a list of credits extended (IDIC n.d.c).  
+Commercial and rural banks were also mandated to submit deposit status reports on a 
+monthly and semiannual basis, respectively (IDIC n.d.c) . Additionally, any bank that 
+experiences a change in administration, shareholder structure, or controlling structure must 
+also submit a report to the IDIC (IDIC n.d.c). 
+6. Communication: It appears that the Government of Indonesia did not widely 
+publicize the deposit insurance increase. 
+Sources consulted do not describe government communications or public reactions rela ted 
+to the intervention.  
+In its preamble, Government Regulation in Lieu of Law No. 3/2008 cited the necessity of 
+altering the existing law in light of the destabilizing impacts of the Global Financial Crisis 
+(GoI 2008a). The government later reaffirmed its commitment to maintaining public trust in 
+the stability of the Indonesian financial system in Law No. 7/2009 (GoI 2009).  
+7. Size of Guarantees: The Government of Indonesia increased the limit on deposit 
+insurance from IDR 100 million to IDR 2 billion per depositor. 
+The government had implemented a blanket guarantee until March 2006, at which point it 
+gradually lowered the limit to IDR 100 million by March 2007 (IDIC 2007). 
+The monthly balance of total deposits generally increased throughout 2008 (IDIC 2009) . 
+Total insured deposits doubled to IDR 957.4 trillion between  October and December 2008, 
+which the IDIC attributed directly to the new insurance limit (IDIC 2009). The ID IC also 
+reported that it had paid out IDR 557.6 billion to depositors at 21 liquidated banks in 2008 
+and 2009 (IDIC 2010). 
+In the event of a bank failure, the IDIC calculated eligible insured deposits based on each 
+depositor’s balance on the date Bank Indonesia revoked the bank’s license (IDIC 2009). The 
+total amount included the initial balance plus interest (or return, in the case of Islamic banks) 
+and, for discount rate-based deposits, the present value with a discount rate as stated on the 
+applicable biljet (banknote) (IDIC 2009). 
+ 
+5 Commercial banks include foreign banks, joint -venture b anks, privately -owned local banks, regional 
+development banks, and state -owned banks, while rural banks (Bank Perkreditan Rakyat ) are microfinance 
+institutions that serve agrarian populations and do not provide payment transfers (IDIC 2009; Wasiaturrahma 
+et al. 2020). 
+405
+Indonesia Engbith
+
+--- Page 10 ---
+8. Source(s) and Size of Funding:  In addition to the government’s founding IDR 4 
+trillion capital injection, the IDIC derive d its funding from membership fees, 
+insurance premiums, and earnings on its insurance reserve investments. 
+In September 2005, the government established a new deposit insurance agency, Lembaga 
+Penjamin Simpanan (Indonesia Deposit Insurance Corporation), injecting it with initial 
+capital of IDR 4 trillion in allocated state assets (IDIC n.d.b) . The IDIC has sin ce received 
+additional funding from its compulsory one -time membership fees, semesterly insurance 
+premiums, and earnings on its insurance reserve investments (IDIC n.d.b).  
+The IDIC’s goal was to build its deposit insurance fund to 0.5% of estimated insured deposits 
+by 2010 , which represented a target of about IDR 10 trillion  that shifted each year as it 
+improved its data about banks’ risk exposures . The provision for insurance claims —its 
+deposit insurance fund —stood at IDR 5.1 trillion at t he end of 2008 and IDR 7.3 trillion at 
+the end of 2009 (IDIC 2010). 
+The government publicly committed to lending to the IDIC in the case of a liquidity shortage 
+that resulted in its inability to pay deposit insurance claims (IDIC n.d.b). Additionally, with 
+approval from the parliament, the government had the authority to recapitalize the IDIC if it 
+were threatened with insolvency (IDIC n.d.b).  
+9. Eligible Institutions: All commercial banks operating within Indonesia, including 
+branch offices of foreign banks, were required by law to become members of the 
+IDIC. 
+The increase in deposit insurance automatically applied to all IDIC members (GoI 2008b). All 
+commercial banks, branch offices of banks domiciled overseas that conduct business within 
+the Republic o f Indonesia, and conventional or Islamic rural banks were obligated by the 
+government to maintain membership with the IDIC (IDIC n.d.d) . The IDIC does not cover 
+branch offices of banks domiciled in Indonesia that operate outside of the country (IDIC 
+n.d.d).  
+By year-end 2008, the IDIC had registered a total of 2,047 banks, including 124 commercial 
+banks, 1,792 conventional rural banks, and 131 Islamic rural banks (IDIC 2009).  
+10. Eligible Accounts: IDIC insurance covered all bank deposits held within current 
+accounts, term deposits, certificates of deposit, savings accounts, and Sharia -
+based (Islamic) deposits. 
+Sharia-based (Islamic) deposits could take the form of Wadiah -based current accounts and 
+saving accounts, savings accounts or term deposits that adhered  to the principles of 
+Mudharabah Muthlaqah or Mud harabah Muqayyadah and whose risks were borne by the 
+bank, and other Sharia -based deposits approved by both the IDIC and the Banking 
+Supervisory Authority (IDIC 2009).  
+406
+Journal of Financial Crises Vol. 4 Iss. 2
+
+--- Page 11 ---
+11. Fees: Participants did not have to pay additional fees beyond the mandatory IDIC 
+membership contribution and insurance premiums. 
+Each bank pays semiannual premiums equal to 0.1% of the average six -month balance of 
+total monthly deposits (IDIC 2008, 43). The IDIC does not require member  institutions to 
+carry co-insurance or pay risk-based premiums (Saheruddin 2017, 5).6  
+12. Process for Exercising Guarantee : The process for exercising the guarantee 
+remained unchanged from non -crisis times and could result in payments taking 
+up to 90 days. 
+Following the revocation of a bank’s license by Bank Indonesia and the submission of an 
+insurance claim on deposits, the IDIC would initiate a verification and reconciliation process 
+for determining each deposit’s eligibility for payment (IDIC 2009). The IDIC th en had five 
+working days from the starting date of the verification process to begin paying out claims 
+(IDIC 2009). However, the procedure for determining eligibility could take up to 90 working 
+days from the date of license revocation (IDIC 2009). The IDIC was required to announce the 
+date of initial claim submission in at least two nationally circulated publications (IDIC 2009).  
+According to Law No. 24/2004, as amended by Law No. 7/2009, banks could submit 
+insurance claims to the IDIC up to five years fr om the date of license revocation (GoI 2009; 
+IDIC 2009) . Depositors looking to receive an insurance payout through the IDIC had to 
+provide official documentation to prove their identity and deposit ownership; those who 
+were unable to do so were deemed ineligible to receive compensation (IDIC n.d.e).  
+13. Other Restrictions on Eligible Institutions/Accounts: Eligible institutions were not 
+expected to adhere to additional restrictions as a result of the increased 
+guarantee. 
+The IDIC deemed deposits ineligible for  payout if the depositor was considered to have 
+benefited “in an unusual manner” from their account —for example, by taking advantage of 
+interest rates that exceeded the IDIC’s published rates (IDIC 2009).  
+A depositor could also be ineligible if it had contributed in any way to the bank’s failure (for 
+example, if it was a debtor who held a nonperforming loan) (IDIC 2009). Depositors of failed 
+banks whose shareholders elected to undertake their own resolution and restructuring 
+procedures without IDIC assistance were also not eligible to receive insurance coverage 
+(IDIC 2009). 
+ 
+6 For more information on the membership contribution, please refer to Key Design Decision 8: Source(s) and 
+Size of Funding.  
+ 
+407
+Indonesia Engbith
+
+--- Page 12 ---
+14. Duration: The Government of Indonesia did not ann ounce an expiration date for 
+the new deposit insurance limit. 
+The Indonesian program did not specify an end date (GoI 2008b; Saheruddin 2017) . As of  
+June 2022, the IDIC’s deposit insurance remains capped at IDR 2 billion per depositor (IDIC 
+n.d.a).  
+  
+408
+Journal of Financial Crises Vol. 4 Iss. 2
+
+--- Page 13 ---
+References and Key Program Documents 
+Summary of Program 
+(Hamzah, Narang, and Yusari 2021) Hamzah, Hanim, Agnesya M. Narang, and Anggi Yusari. 
+2021. “Legal Systems in Indonesia: Overview.” Thomson Reuters Corporation. Yale Program 
+on Financial Stability Resource Library.  
+Web page summarizing the main facets of the Indonesian legal system.  
+https://ypfs.som.yale.edu/node/18600 
+(IDIC n.d.a) Indonesia Deposit Insurance Corporation (IDIC). n.d.a.  “Deposit Insured.” 
+Accessed October 12, 2021.  
+Web page describing the various types of deposits insured by the IDIC.  
+https://ypfs.som.yale.edu/library/deposit-insured 
+(IDIC n.d.b) Indonesia Deposit Insurance Corporation (IDIC). n.d.b. “F.A.Q.” Accessed October 
+18, 2021.  
+Web page addressing FAQs about the IDIC’s coverage and operations.  
+https://ypfs.som.yale.edu/library/faq 
+(IDIC n.d.c) Indonesia Deposit Insurance Corporation (IDIC). n.d.c. “Member’s Duties.” 
+Accessed October 19, 2021.  
+Web page outlining member institutions’ fees and disclosure requirements.  
+https://ypfs.som.yale.edu/library/members-duties 
+(IDIC n.d.d) Indonesia Deposit Insurance Corporation (IDIC). n.d.d. “Membership.” Accessed 
+October 12, 2021.  
+Web page summarizing which institutions are covered under the IDIC.  
+https://ypfs.som.yale.edu/library/membership 
+(IDIC n.d.e) Indonesia Deposit Insurance Corporation (IDIC). n.d.e. “Reconciliation and 
+Verification of the Insured Deposits.” Accessed October 12, 2021.  
+Web page describing the process for deposit insurance payout once a bank’s license has been 
+revoked by the Bank Supervisory Institution.  
+https://ypfs.som.yale.edu/library/reconciliation-and-verification-insured-deposits 
+Legal/Regulatory Guidance 
+(GoI 2008a) Government of Indonesia (GoI). 2008a. “Government Regulation in Lieu of Law 
+of the Republic of Indonesia Number 3 of 2008 concerning Amendments to Law Number 24 
+of 2004 concerning Deposit Insurance Corporation.” PERPU No 3 Th 2008 ttg Perubahan UU 
+LPS. 
+Emergency decree allowing the government to alter the amount of insured deposits.  
+https://ypfs.som.yale.edu/node/18602 
+(GoI 2008b) Government of Indonesia (GoI). 2008b. “Government Regulation of the Republic 
+of Indonesia Number 66 of 2008 concerning the Amount of Deposit Guaranteed by LPS.” PP 
+409
+Indonesia Engbith
+
+--- Page 14 ---
+No 66 Th 2008 ttg Besaran Nilai Simpanan Dijamin.  
+Emergency decree indefinitely increasing the limit for each deposit account from IDR 100 
+million to IDR 2 billion.  
+https://ypfs.som.yale.edu/node/18603 
+(GoI 2009) Government of Indonesia (GoI). 2009. “Law of the Republic of Indonesia Number 
+7 Year 2009 Regarding the Stipulation of Government Regulation in Lieu of Law Number 3 
+Year 2008 Regarding Amendment to Law Number 24 Year 2004 Regarding Indonesia 
+Deposit Insurance Corporation to Become a Law.”  
+Law codifying the government’s authority to adjust the limit on insured deposits. 
+https://ypfs.som.yale.edu/library/law-republic-indonesia-number-7-year-2009-
+regarding-stipulation-government-regulation-lieu 
+Press Releases/Announcements 
+(IDIC 2007) Indonesia Deposit Insurance Corporation (IDIC). 2007. “Penjaminan Simpanan 
+RP 100 Juta,” March 21, 2007.  
+Press release announcing the increase in the deposit insurance limit to IDR 100 million per 
+depositor. 
+https://ypfs.som.yale.edu/node/18927 
+Key Academic Papers 
+(Asian Development Bank 2009) Asian Development Bank. 2009. “Proposed Loan Republic 
+of Indonesia: Public Expenditure Support Facility Program.” Asian Development Bank. Yale 
+Program on Financial Stability Resource Library.  
+Proposal detailing plans for a loan of USD 10 billion to the Government of Indonesia under the 
+Public Expenditure Support Facility Program.  
+https://ypfs.som.yale.edu/node/18591 
+(Basri and Rahardja 2010) Basri, Muhammad Chatib, and Sjamsu Rahardj a. 2010. “The 
+Indonesian Economy amidst the Global Crisis: Good Policy and Good Luck.” ASEAN Economic 
+Bulletin 27, no. 1: 77–97.  
+Paper evaluating Bank Indonesia and the Government of Indonesia’s responses to the GFC in 
+light of neighboring countries’ policy actions.  
+https://ypfs.som.yale.edu/library/document/indonesian-economy-amidst-global-crisis-
+good-policy-and-good-luck 
+(Hadad, Agusman, Monroe, Gasbarro, and Zumwalt 2010) Hadad, Muliaman D., Agusman 
+Agusman, Gary S. Monroe, Dominic Gasbarro, and James Kenton Zumwalt. 2010. “Market 
+Discipline, Financial Crisis and Regulatory Changes: Evidence from Indonesian Banks.” 
+Journal of Banking & Finance 35, no. 6: 1552–62.  
+Paper examining the impact of regulatory changes on market discipline in Indonesia from 
+1995-2009. 
+https://ypfs.som.yale.edu/library/market-discipline-financial-crisis-and-regulatory-
+changes-evidence-indonesian-banks 
+410
+Journal of Financial Crises Vol. 4 Iss. 2
+
+--- Page 15 ---
+(Jameaba 2018) Jameaba, Muyanja Ssenyonga. 2018. “Deposit Insurance and Financial 
+Intermediation: The Case of Indonesia Deposit I nsurance Corporation.” Edited by David 
+McMillan. Cogent Economics & Finance 6, no. 1: 1468231.  
+Paper analyzing the impact of the establishment of the IDIC on financial intermediation in 
+Indonesia. 
+https://ypfs.som.yale.edu/library/document/deposit-insurance-and-financial-
+intermediation-case-indonesia-deposit-insurance 
+(Kariastanto 2011) Kariastanto, Bayu. 2011. “Blanket Guarantee, Deposit Insurance, and 
+Risk-Shifting Incentive: Evidence from Indonesia.” Munich Personal RePEc Archive  35557, 
+December. 
+Paper presenting evidence that the magnitude of risk -shifting incentives under the deposit 
+insurance regime is higher than under the blanket guarantee regime.  
+https://ypfs.som.yale.edu/node/18594 
+(Saheruddin 2017) Saheruddin, Herman. 2017. “Explicit Deposit Ins urance Coverage, 
+Ownership, and Risk Taking: Evidence from a Natural Experiment.” Indonesia Deposit 
+Insurance Corporation. Yale Program on Financial Stability Resource Library.  
+Paper presenting evidence of a positive relationship between explicit deposit i nsurance 
+coverage and bank risk-taking, consistent with the moral hazard hypothesis.  
+https://ypfs.som.yale.edu/node/18599 
+Reports/Assessments 
+(IDIC 2009) Indonesia Deposit Insurance Corporation (IDIC). 2009. “IDIC Annual Report 
+2008.” Indonesia Deposit In surance Corporation. Yale Program on Financial Stability 
+Resource Library.  
+Annual report detailing the IDIC’s operations, activities, and audited financial statements.  
+https://ypfs.som.yale.edu/node/18587 
+(IDIC 2010) Indonesia Deposit Insurance Corporation (IDIC). 2010. “IDIC Annual Report 
+2009.” Indonesia Deposit Insurance Corporation. Yale Program on Financial Stability 
+Resource Library.  
+Annual report detailing the IDIC’s operations, activities, and audited financial statements.  
+https://ypfs.som.yale.edu/node/18590 
+ 
+Copyright 2022 © Yale University. All rights reserved. To order copies of this material or to receive 
+permission to reprint any or all of this document, please contact the Yale Program on Financial 
+Stability at ypfs@yale.edu. 
+411
+Indonesia Engbith

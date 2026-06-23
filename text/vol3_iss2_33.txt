@@ -1,0 +1,128 @@
+--- Page 1 ---
+Journal of Financial Crises Journal of Financial Crises 
+Volume 3 Issue 2 
+2021 
+Lessons Learned: Diane Ellis Lessons Learned: Diane Ellis 
+Sandra Ward 
+Follow this and additional works at: https://elischolar.library.yale.edu/journal-of-financial-crises 
+ Part of the Economic History Commons, Economic Policy Commons, Finance and Financial 
+Management Commons, Macroeconomics Commons, Public Administration Commons, and the Public 
+Economics Commons 
+Recommended Citation Recommended Citation 
+Ward, Sandra (2021) "Lessons Learned: Diane Ellis," Journal of Financial Crises: Vol. 3 : Iss. 2, 776-778. 
+DOI: https://doi.org/10.17132/2693-3179.1161 
+Available at: https://elischolar.library.yale.edu/journal-of-financial-crises/vol3/iss2/33 
+This Lessons Learned is brought to you for free and open access by the Journal of Financial Crises and 
+EliScholar – A Digital Platform for Scholarly Publishing at Yale. For more information, please contact 
+journalfinancialcrises@yale.edu.
+
+--- Page 2 ---
+READERS TAKE NOTICE: READERS TAKE NOTICE: 
+As of April 2024, the YPFS Resource Library’s site domain has changed 
+to https://elischolar.library.yale.edu/ypfs-financial-crisis-resource-library/. 
+Please be aware that upon clicking any of the URL references to 
+the former Resource Library domains, either https://ypfs.som.yale.edu 
+or https://ypfsresourcelibrary.blob.core.windows.net/, in the 
+"References/Key Program Documents" section of a case study, 
+readers will encounter a "page not found" error. readers will encounter a "page not found" error. 
+Readers can still retrieve a given resource cited within this case study 
+on the new site  by searching by searching here  for the title cited. for the title cited. 
+This lessons learned is available in Journal of Financial Crises: https://elischolar.library.yale.edu/journal-of-financial-
+crises/vol3/iss2/33
+
+--- Page 3 ---
+Yale Program on Financial Stability 
+Lessons Learned  
+ 
+Diane Ellis 
+  
+By Sandra Ward  
+Diane Ellis served as Deputy Director, Insurance and Research, at the Federal Deposit Insurance 
+Corp. during the financial crisis of 2007 -09. The FDIC played a critical role in stabilizing 
+financial conditions and establishing confidence in the financial markets by guaranteeing 
+newly issued debt on a temporary basis for banks and thrifts as well as financial holding 
+companies and eligible bank affiliates. The agency also fully guaranteed certain non -interest-
+bearing transaction deposit accounts. Ellis played an important role in implementing the 
+Temporary Liquidity Guarantee Program that proved so critical in stemming the crisis.  This 
+“Lessons Learned” is based on a phone interview with Ms. Ellis. 
+Although not the first agency to address the crisis, the FDIC played a critical role. 
+In 2007, as the crisis began to unfold, Ellis recalls that the FDIC wasn’t much involved in the 
+discussion of how best to handle what was happening and what could be done to stem a 
+possible meltdown. Its bank examiners had begun to get drawn in—Bear Stearns held some 
+depository institutions that required FDIC supervision, for instance —but it wasn’t until the 
+failure of IndyMac in July 2008 that the crisis landed on the doorstep of th e FDIC as it faced 
+a major resolution problem. Recalls Ellis, 
+We had a reasonably sized institution that we weren’t prepared to resolve. We had to 
+put it in conservatorship for a while, and our resolution specialists were all occupied 
+doing that. It was such a hit to our deposit insurance fund that our deposit insurance 
+fund was getting close to insolvent. To me, that ’s the event when the FDIC really got 
+involved. 
+Still, Ellis remembers, not until Columbus Day weekend 2008, after the historic collapse of 
+Lehman Brothers and in the wake of numerous high -profile bank failures, did the Treasury 
+and Federal Reserve turn to the FDIC about playing a role. The way that role evolved 
+demonstrated some of the challenges of a major crisis when many parties are needed t o 
+implement a viable solution.  
+The Treasury and the Federal Reserve were interested in accessing the FDIC’s systemic risk 
+exception authority that would be required to provide the large -scale relief and debt 
+guarantee programs that would ultimately boost confidence and stabilize the system. Ellis 
+notes that the decision to implement a debt guarantee program was determined by outside 
+agencies and, yet, left for the FDIC to manage.  
+She remembers the pressure, 
+Policymakers were saying “You’v e got to do this debt guarantee program. You have 
+the authority to do this. This is what the U.S. needs. This is what the G7 countries 
+already have. And if you don’t do it, then the collapse of capitalism will be your fault.” 
+776
+
+--- Page 4 ---
+It was thrust upon us. That’s when FDIC Chair Sheila Bair said, “If I’m going to do this, 
+this is what I want: I want to limit the guarantee to only new debt, and I want the 
+Transaction Account Guarantee [TAG],” and so on. 
+According to Ellis, as a result of Bair’s diplomatic approach, the programs proved more 
+palatable, eliminated political resistance from smaller banks , and were seen as critical to 
+stabilizing the financial system. 
+For federal regulatory programs to work best, seek industry input.  
+The Temporary Liquidity Guarantee Program (TLGP), in which the FDIC agreed to guarantee 
+the debt of financial institutions, was an elegant solution to unlock the debt markets and get 
+credit flowing again, notes Ellis. Initially, however, the banks balked at participating, and the 
+hesitancy puzzled regulators. The FDIC contacted industry participants to learn why they 
+were reluctant to participate. Industry’s advice: act as a guarantor and stop acting as an 
+insurer. And that required a restructuring of the design of the program. Says Ellis, 
+That was a big leap for us internally because it was so different from the role we play 
+in terms of providing deposit insurance. We heard we were treating the debt relief as 
+if it were insurance and we were treating the incidence of default like a bank failure. 
+A guarantor steps in and makes timely payments of principal and interest.  
+Eventually, says Ellis, the program was structured as a true debt guarantee, in which timely 
+payment of principal and interest are paid and the guarantee was backed ultimately by the 
+U.S. government. Once the changes were made, banks responded quickly. “When we put that 
+final rule in place, there was a big rush on the part of banks and holding companies to issue 
+debt,” Ellis recalls. 
+All bank problems wind up at the FDIC. 
+The FDIC was formed and operates with a specific mandate. Prior to the 2007-09 crisis, the 
+agency saw its domain as supervising and regulating insured deposit ory institutions, says 
+Ellis, and it viewed investment banks, so -called nonbanks, as a separate world to be 
+monitored and followed but outside its bailiwick. That view changed completely once 
+Lehman Brothers failed and the linkages between the banks and non -banks surfaced. 
+Observes Ellis, 
+Lehman seemed separate from us. Now, we realize, well, maybe it wasn’t quite as 
+separate as we thought.  
+At the time, the press would refer to investment banks as banks. Morgan Stanley was 
+a bank; Goldman Sachs was a bank. They were not banks. Yet, as it t urned out, they 
+were all banks in substance. Without Lehman’s failure, I don’t think there would have 
+been any Columbus Day weekend need to intervene and there would be no TLGP and 
+so on. Maybe there would be no Dodd-Frank or certainly no Title I and Title II rule. 
+777
+Journal of Financial Crises Vol. 3 Iss. 2
+
+--- Page 5 ---
+Ellis add s that one of the key lessons that the FDIC learned from the crisis was the 
+interconnectedness of the whole financial system. She sa ys that before the GFC, the FDIC 
+pretty much lived in its world of insured depository institutions and th ought that all the 
+problems and risks were in the nonbanks. Afterwards, she says, “I gained an appreciation of 
+how everything really comes back to the banks.” 
+  
+_____________________________________ 
+Dated: June 2021 
+YPFS Lessons Learned No: 2019-25 
+ 
+778
+Lessons Learned: Diane Ellis Ward

@@ -1,0 +1,185 @@
+--- Page 1 ---
+Journal of Financial Crises Journal of Financial Crises 
+Volume 4 Issue 1 
+2022 
+Lessons Learned: Brian Stoker Lessons Learned: Brian Stoker 
+Steven H. Kasoff 
+Yale School of Management School of Management 
+Matthew A. Lieber 
+Follow this and additional works at: https://elischolar.library.yale.edu/journal-of-financial-crises 
+ Part of the Economic History Commons, Economic Policy Commons, Finance Commons, Finance and 
+Financial Management Commons, Growth and Development Commons, Policy Design, Analysis, and 
+Evaluation Commons, Public Administration Commons, and the Public Policy Commons 
+Recommended Citation Recommended Citation 
+Kasoff, Steven H. and Lieber, Matthew A. (2022) "Lessons Learned: Brian Stoker," Journal of Financial 
+Crises: Vol. 4 : Iss. 1, 438-441. 
+DOI: https://doi.org/10.17132/2693-3179.1275 
+Available at: https://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss1/19 
+This Lessons Learned is brought to you for free and open access by the Journal of Financial Crises and 
+EliScholar – A Digital Platform for Scholarly Publishing at Yale. For more information, please contact 
+journalfinancialcrises@yale.edu.
+
+--- Page 2 ---
+READERS TAKE NOTICE: READERS TAKE NOTICE: 
+As of April 2024, the YPFS Resource Library’s site domain has changed 
+to https://elischolar.library.yale.edu/ypfs-financial-crisis-resource-library/. 
+Please be aware that upon clicking any of the URL references to 
+the former Resource Library domains, either https://ypfs.som.yale.edu 
+or https://ypfsresourcelibrary.blob.core.windows.net/, in the 
+"References/Key Program Documents" section of a case study, 
+readers will encounter a "page not found" error. readers will encounter a "page not found" error. 
+Readers can still retrieve a given resource cited within this case study 
+on the new site  by searching by searching here  for the title cited. for the title cited. 
+This lessons learned is available in Journal of Financial Crises: https://elischolar.library.yale.edu/journal-of-financial-
+crises/vol4/iss1/19
+
+--- Page 3 ---
+Yale Program on Financial Stability 
+Lessons Learned 
+ 
+Brian Stoker 
+By Steven H. Kasoff and Matthew A. Lieber 
+Brian Stoker served in Merrill Lynch’s structured credit division for seven years, producing and 
+trading asset-backed securities (ABS). In 2005, Stoker moved to Citigroup as a director of ABS 
+CDO (collateralized debt obligation) and CLO (collateralized loan obligation) structuring. After 
+the financial crisis, Stoker was an analyst at Carlson Capital for three years. In 2011, he joined 
+StormHarbour Securities, serving as a managing director until 2018. From 2019 to 2021, he 
+was director of securitization at Korth Direct Mortgage. Presently, Stoker is a licensed real 
+estate agent in Miami. This Lessons Learned summary is based on an interview with Stoker. 
+Block and tackle: To produce a CDO profitably, investment banks had structuring 
+units that did the heavy l ifting: analyzing prospective deals, obtaining rating agency 
+approval, engineering the security, and marketing the tranches to investors. 
+Producing a CDO frequently began in response to an incoming call from a portfolio manager 
+or from Merrill’s sales desk , related Stoker. Sometimes, the structuring unit was more 
+proactive, reaching out to CDO managers to propose a deal. Then, crucially, the structuring 
+group would “figure out whether the economics of the deal work[ed],” evaluating its 
+expected liability spreads to determine if it would be profitable. 
+Interacting with the rating agencies during the process “was mostly about following their 
+rules.” Stoker pushed back somewhat against accounts of ratings shopping, pointing out that 
+“both sides had veto rights on the deal.” 
+We needed Moody’s and S&P on our deals, and if they gave us a bad rating, we were 
+in a world of hurt. We needed to work with them. And they wanted to work with us 
+because they get paid a big fee. 
+“I don’t think we played off Moody’s versus S&P,” Stoker said. Fitch was trying to get into the 
+CDO ratings market, so “we [w]ould start including them as long as they came up with ratings 
+that matched up with the other rating agencies.” Most deals that he worked on had both large 
+agencies involved: “ Moody’s would rate all the capital structure because they might have 
+been a little easier than Standard & Poor’s down the capital structure.” 
+The dealers were strategic, Stoker allowed, but in his account, the interactions with rating 
+agencies were far more subtle than in other reports of ratings shopping. Crucially, the agency 
+had leverage over the dealer too, and any differences between the ratings of one agency and 
+another tended to be marginal. 
+The dealers marketed the CDO tranches based on established investor preferences, Stoker 
+explained. Banks were happy to hold the AAA tranche, often with monoline insurers 
+providing additional protection (known as the negative basis trade). Insurance companies 
+favored the single -A tranche, which National Association  of Insurance Commissioners 
+438
+
+--- Page 4 ---
+(NAIC) rules allowed them to treat as they would a AAA security. Hedge funds pursuing 
+higher returns would take the BBB tranche and equity. 
+Seeking high profits, dealers migrated from just structuring CDOs for a fee to acquiring 
+CDO tranches, accumulating risk that would come back to bite them. 
+Stoker described a key incremental step that led dealers to take on risk as they grew their 
+lucrative CDO structuring business. In the early days of CDO structuring at Merrill, he said, 
+“we would sell the AAA to [five or 10] banks . . . . But then it became a competitive advantage 
+for the dealer to buy some of the AAA [italics added].” 
+Dealers viewed the move to hold on to AAA tranches as a way to increase the profitability of 
+their CDO bus iness. Because dealers did not need to hold much capital against these AAA 
+tranches, the inherent leverage was very high, resulting in a compelling return on capital. 
+The risk was considered to be minimal, so many dealers accumulated massive quantities 
+within one to two years. 
+If it looks too good to be true, it probably is: Citigroup used its commercial paper 
+business to create the appearance of “risk-free profits.” 
+In the case of Citigroup, where Stoker moved in 2005, the firm used its commercial paper 
+(CP) facilities to accumulate AAA CDO tranches. 
+Citigroup could issue commercial paper . . . CP investors would put up all the money 
+to buy that tranche, to buy the AAAs, but Citigroup essentially insured it. But that 
+insurance did not show up on our balance sheet at all. 
+Citigroup’s CP-funded asset warehousing “made an infinite percentage return as a percent 
+of capital because there was no capital [usage].” Internal accounting procedures permitted 
+the business unit to immediately book the next five years’ wo rth of expected profits, 
+providing an even stronger incentive for the individual bankers in those groups. “We’d get 
+paid in full for five years,” Stoker said. 
+To grow the CP-funded asset accumulation, Citigroup created structured investment vehicles 
+(SIVs), also known as asset -backed commercial paper (ABCP) conduits, Stoker explained. 
+“Citigroup had humongous SIVs that Citigroup effectively backstopped also.” The boom -
+fueled accumulation of assets was considered a low-risk or risk-free business. It spiked until 
+it was noticed, and then Citigroup’s managers put on limits. 
+When we got to $40 billion or $35 billion, somebody at the bank finally noticed and 
+said, “Hey, that’s a lot.” They started to impose rules. 
+The SIVs had not been consolidated as part of Citigroup’s balance sheet, Stoker said, but that 
+changed in late 2007 or 2008. “I don’t think they were trying to hide it. I’m sure they were 
+following the rules, but the rules allowed them to book it that way.” 
+439
+Journal of Financial Crises Vol. 4 Iss. 1
+
+--- Page 5 ---
+In 2006, Stoker recalled, investors’ debates about housing prices were intensifying. “I didn’t 
+have to debate it,” he said,” because I was not buying or selling anything. I was just processing 
+spreadsheets and papers.” By the end of the year, reports indicating a bad end to the housing 
+boom were resonating on Wall Street. 
+I came into the office after New Year’s in January 2007. I got sat down by the head of 
+our trading desk and his boss, and they said, “Get all these deals done tomorrow, all 
+of them.” We pushed real hard to get them done as fast as we c ould. We tried to do 
+the riskiest ones first, but the losses were piling up fast. 
+Throughout 2007, Stoker’s group at Citigroup struggled desperately to reduce the firm’s 
+massive subprime exposure in its CDO warehouse. In March, Stoker recalled, his group 
+marked one warehouse down $100 million —“and we hadn’t even marked down the whole 
+portfolio.” Stunned by the losses, they complained to the trading desk. “‘What’s going on 
+here?’ But it got real bad.” 
+He recalled his alarm on hearing the firm’s then -CEO, Chu ck Prince, say later in the year 
+about leveraged buyouts—“As long as the music is playing, you’ve got to get up and dance.” 
+My reaction was, “I need to slip a note under his door and say, ‘You got to pay 
+attention, dude. This is a big freaking problem.”’ 
+Stoker’s astonishment reflected his reality as a midlevel employee in one of the world’s 
+largest banks. For seven months, he and his group had been aware of Citi’s exposure to 
+massive subprime losses and had been striving desperately to clean it up. “In Jul y, he was 
+still dancing,” said Stoker. “And I was thinking, ‘Man, this is bad. We got $40 billion of the 
+stuff with a commercial paper exposure.’” He was struck by the CEO’s seeming ignorance: 
+These banks are so big. I was disappointed that the information  didn’t travel up to 
+senior executives very well, nor was it connected. Nobody told the CDO desk or told 
+Chuck Prince that, “Hey, by the way, these things are starting to go bad. You’re 
+retaining a lot of the ‘super senior.’ You have a lot of exposure ther e. You have 
+humongous warehouses.” 
+Within giant financial organizations, circumstances can look very different from 
+different perspectives. 
+It is well accepted that the crisis tarnished Wall Street’s image in the public’s eye. The legacy 
+is raft with stories of greedy bankers devising complex and faulty products that they then 
+foisted on their clients. Stoker took issue with this sullied image, noting that there was logic 
+to the appeal of securitization. He also defended employees like himself. In his perspective, 
+from the midlevel working ranks, transparency and diligent compliance efforts were what 
+stood out. 
+In general, Wall Street has a bad name, but I thought everybody was up front. I didn’t 
+see fraud or stealing going on. Everybody was first class, trying their best, and banks 
+[were] spending billions to comply with every rule. There were no tricks, and nothing 
+440
+Lessons Learned: Brian Stoker Kasoff and Lieber
+
+--- Page 6 ---
+hidden . . . I thought the securitization market was transparent and a first-class place, 
+actually. 
+Stoker’s emphasis on transparency and r ule-driven behavior in the structured credit 
+world—seemingly idealized at first glance —comes from his firsthand experience. When 
+asked to address the troubling facts of mismanagement at leading Wall Street firms during 
+the period, Stoker expressed disappointment at the lack of communication between different 
+units and levels of the giant organizations and reflected on how his reality did not square 
+with the CEO’s contemporaneous comments. 
+“Cognitive dissonance,” he said, is a concept that he thinks describe s the crisis period well. 
+Stoker saw cognitive dissonance in the incongruence of his experience with the widespread 
+sense of a Wall Street driven by greed. “You hear something so many times in the press about 
+how terrible Wall Street is,” Stoker explained. The stories make people think “that there was 
+terrible stuff going on, but it was not true. I don’t think it was true at all.” 
+But cognitive dissonance could just as well describe the rejection by senior executives and 
+the CEOs of urgent new information from midlevel managers until it was too late. 
+Stoker’s takeaways may be out of step with much of the post-crisis common lore and a good 
+deal of the evidence on the record. It is also true that not much of that record comes from 
+midlevel employees like him. Further, it is useful to remember that behind every nefarious 
+story, there are often thousands of employees going about their jobs the best that they can 
+and, even in the midst of a crisis, doing their best to follow the rules. 
+_____________________________________ 
+Dated: April 2022 
+YPFS Lessons Learned No. 2021-02 
+ 
+441
+Journal of Financial Crises Vol. 4 Iss. 1

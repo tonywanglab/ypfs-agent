@@ -1,0 +1,750 @@
+--- Page 1 ---
+Journal of Financial Crises Journal of Financial Crises 
+Volume 3 Issue 3 
+2021 
+Germany SoFFin Capital Injections Germany SoFFin Capital Injections 
+Priya Sankar 
+Yale School of Management 
+Follow this and additional works at: https://elischolar.library.yale.edu/journal-of-financial-crises 
+ Part of the Economic Policy Commons, Economic Theory Commons, Finance and Financial 
+Management Commons, Policy Design, Analysis, and Evaluation Commons, and the Public Policy 
+Commons 
+Recommended Citation Recommended Citation 
+Sankar, Priya (2021) "Germany SoFFin Capital Injections," Journal of Financial Crises: Vol. 3 : Iss. 3, 
+88-105. 
+DOI: https://doi.org/10.17132/2693-3179.1217 
+Available at: https://elischolar.library.yale.edu/journal-of-financial-crises/vol3/iss3/6 
+This Case Study is brought to you for free and open access by the Journal of Financial Crises and 
+EliScholar – A Digital Platform for Scholarly Publishing at Yale. For more information, please contact 
+journalfinancialcrises@yale.edu.
+
+--- Page 2 ---
+READERS TAKE NOTICE: READERS TAKE NOTICE: 
+As of April 2024, the YPFS Resource Library’s site domain has changed 
+to https://elischolar.library.yale.edu/ypfs-financial-crisis-resource-library/. 
+Please be aware that upon clicking any of the URL references to 
+the former Resource Library domains, either https://ypfs.som.yale.edu 
+or https://ypfsresourcelibrary.blob.core.windows.net/, in the 
+"References/Key Program Documents" section of a case study, 
+readers will encounter a "page not found" error. readers will encounter a "page not found" error. 
+Readers can still retrieve a given resource cited within this case study 
+on the new site  by searching by searching here  for the title cited. for the title cited. 
+This case study is available in Journal of Financial Crises: https://elischolar.library.yale.edu/journal-of-financial-
+crises/vol3/iss3/6
+
+--- Page 3 ---
+Germany SoFFin Capital Injections1 
+Priya Sankar2 
+Yale Program on Financial Stability Case Study 
+November 12, 2021 
+ Abstract 
+The insolvency of Lehman Brothers in September 2008 and the subsequent global liquidity 
+crisis spurred the German state to pass the Financial Market Stabilization Fund Act 
+(Finanzmarktstabilisierungsfondsgesetz, “FMStFG”) establishing the  Federal Agency for 
+Financial Market Supervision (Bundesanstalt für Finanzmarktstabilisierung) , or FMSA. 
+Created in October 2008, it  provided government support to ailing financial institutions. 
+The FMSA supported German banks and maintained the stability of the German banking 
+system, in part by establishing the Financial Market Stabilization Fund (S onderfunds 
+Finanzmarktstabilisierung), or SoFFin. SoFFin could provide capital injections and risk 
+shield measures of €80 billion  and also possessed a guarantee provision of up to €400 
+billion. The actual recapitalizations peaked at €29.4 billion in late 2010. Capital injections 
+rescued overcapitalized banks and assisted in the government takeover of and 
+restructuring of HRE Gruppe. SoFFin was supposed to accept applications until late 2009, 
+but this was extended several times until 2010. SoFFin was later reopened in 2012, finally 
+closing in 2015. Germany has since passed a Restructuring Act that acts as a framework for 
+winding up banks that are “too big to fail,” making systemic risk support op erations a 
+permanent pillar of German banking regulations. Though this law facilitates the resolution 
+of systemically relevant banks, it does not sufficiently clarify interagency coordination , nor 
+does it establish a resolution for other systemically impor tant nonbank financial 
+institutions. As of the end of 2018, SoFFin has €14.6 billion outstanding from capital 
+injections.  
+Keywords: Capital injections, Germany, SoFFin 
+ 
+1 This case study is part of the Yale Program on Financial Stability (YPFS) selection of New Bagehot Project 
+modules considering broad-based capital injection programs. Cases are available from the Journal of Financial 
+Crises at  
+ https://elischolar.library.yale.edu/journal-of-financial-crises/. 
+2 Research Associate, YPFS, Yale School of Management.  
+88
+
+--- Page 4 ---
+At a Glance  
+European liquidity crises and exposure 
+to the subprime mortgage market in the 
+United States created pressure affecting 
+the German  banking sector. The failure 
+of Lehman created interbank liquidity 
+shortages throughout Europe. In a bid to 
+restore confidence in the financial 
+system, European leaders met on 
+October 12, 2008 and decided on a 
+comprehensive framework to preserve 
+financial stability and support banks. 
+Consequently, the German Parliament 
+passed the Financial Market Stabilization 
+Fund Act 
+(Finanzmarktstabilisierungsfondsgesetz, 
+“FMStFG”) on October 17, 2008. It 
+created a Federal Agency for Financial 
+Market Stabilization (Bunde sanstalt für 
+Finanzmarktstabilisierung, “FMSA”), 
+which created and administered the new 
+Financial Market Stabilization Fund 
+(Sonderfonds Finanzmarktstabilisierung 
+“SoFFin”). SoFFin contained provisions 
+for guarantees, capital injections, asset 
+purchases, a nd nationalization of 
+distressed financial institutions in Germany. 
+The recapitalization program was limited to €80 billion , of which a maximum of €29.4 
+billion was outstanding at the end of 2010. Solvent financial institutions with Tier 1  capital 
+over 7% and meeting Basel II regulatory capital requirements plus 2% were eligible if they 
+agreed to limit risk and suspend dividends after recapitalization. 
+The European Commission approved SoFFin and its recapitalizations scheme in accordance 
+with Article 87 (3 )(b) of the EC Treaty, exempting SoFFin from the state aid rules due to 
+serious economic disturbances in Germany. As of December 2018, €14.6 billion was 
+outstanding in Commerzbank, Hypo Real Estate (since nationalized) and Portigon (former 
+Summary of Key Terms 
+Purpose: Strengthen the capital base of German 
+financial institutions and restore confidence in German 
+economy. 
+Announcement Date October 12, 2008 
+Operational Date October 17, 2008 
+End of Issuance 
+Window  
+Dec. 31, 2009 (initial) 
+Dec. 31, 2010 (extended) 
+Reopened in 2012 – closed 
+Dec. 31, 2015  
+Program Size €70 billion with a possible 
+extension of €10 billion  
+Peak Utilization  €29.4 billion (2010) 
+Participants Aareal Bank, Commerzbank, 
+Hypo Real Estate, Portigon 
+(former WestLB) 
+Administrators Federal Agency for Financial 
+Market Stabilization 
+(Bundesanstalt fur 
+Finanzmarktstabilisierung)  
+Germany SoFFin Capital Injections  
+89
+Journal of Financial Crises Vol. 3 Iss. 3
+
+--- Page 5 ---
+WestLB) with no clear exit strategy . Applications for recapitalization aid under SoFFin 
+were initially due in December 2009, later extended to December 20 10. SoFFin was 
+reopened in 2012, with a closure date in 2014, but ultimately extended until 2015. 
+Summary Evaluation  
+SoFFin is generally assessed positively. It was a necessity to maintain financial stability in 
+Germany. It bolstered the capital structure of German financial institutions, easing some 
+pressure from interbank liquidity shortages, and later, the sovereign debt crisis.  It limited 
+the vulnerability of German financial institutions to systemic risk. However, critics had 
+concerns about the stigma associated with seeking aid, and the extensions of the eligibility 
+window as potential issues limiting SoFFin’s effectiveness. 
+90
+Germany SoFFin Capital Injections Sankar
+
+--- Page 6 ---
+Germany Context 2008–2009 
+GDP $3.7 trillion in 2008 
+$3.4 trillion in 2009 
+GDP per capita $45,427 per capita in 2008 
+$41,486 in 2009 
+Sovereign credit rating  
+(five-year senior debt) 
+ 
+As of Q4 2008: 
+Fitch: AAA 
+Moody’s: Aaau 
+S&P: AAA 
+ 
+As of Q4 2009: 
+Fitch: AAA 
+Moody’s: Aaau 
+S&P: AAA 
+Size of banking system $4.0 trillion in 2008 
+$4.0 trillion in 2009 
+Size of banking system as a percentage of 
+GDP 115.2% in 2008 
+118.7% in 2009 
+Size of banking system  
+as a percentage of financial system Data not available for given years 
+Five-bank concentration of  
+banking system 85.6% in 2008 
+85.7% in 2009 
+Foreign involvement in  
+banking system 12% in 2008 
+12% in 2009 
+Government ownership of  
+banking system 35% of banks owned by the state in 
+2008 
+Existence of deposit insurance Entschädigungseinrichtung 
+deutscher Banken 
+Source: Bloomberg , Call et al. “Bank Ownership – Trends and Implications” , World 
+Bank Global Financial Development Database 
+ 
+91
+Journal of Financial Crises Vol. 3 Iss. 3
+
+--- Page 7 ---
+I. Overview 
+Background 
+The financial tensions in Germany stemming from the Global Financial Crisis ( GFC) were 
+exacerbated dramatically in 2008, amidst global turbulence. Germany’s financial market 
+was globally integrated and suffered from exposure to the American subprime mortga ge 
+markets and the subsequent disruptions in international money, interbank lending, and 
+capital markets. These created uncertainties in the market with respect to price 
+developments, transparency of information , and confidence amongst market participants.  
+Market forces were unable to stabilize the financial system and restore confidence in the 
+financial market. 
+To combat the liquidity crises in Europe, Eurozone countries assembled on October  12, 
+2008, and created a comprehensive plan of action to restore t he confidence and proper 
+functioning of European economies. A crucial part of this plan was “providing financial 
+institutions with additional capital resources so as to continue to ensure the proper 
+financing of the economy” and “allowing for an efficient recapitalization of distressed 
+banks” (Summit of Euro Area Countries 2008). It also involved credit lines and guarantees. 
+Germany shortly thereafter passed the Financial Market Stabilization Fund Act 
+(Finanzmarktstabilisierungsfondsgesetz “FMStFG”) which e stablished a Federal Agency for 
+Financial Market Stabilization (Bundesanstalt für Finanzmarktstabilisierung “FMSA”) . The 
+FMSA administered  the Financial Market Stabilization Fund (Sonderfonds 
+Finanzmarktstabilisierung “SoFFin”) (FMStFG 2008) . In 2008, Comm erzbank was 
+undercapitalized, and was recapitalized by SoFFin. By 2009, HRE Gruppe, Aareal Bank, and 
+Portigon (former WestLB) had also sought recapitalization ( FMSA 2019). HRE Gruppe was 
+eventually nationalized by SoFFin. 
+Program Description 
+The Financial Market Stabilization Fund, or SoFFin, was a German federal fund to stabilize 
+the financial market, overcoming liquidity shortages and creating the framework 
+conditions for a strengthening of the capital base of financial institutions. FMStFG had a 
+tripartite strategy for stabilization using SoFFin including guarantees, recapitalization , and 
+risk shields. The FMStFG limited total guarantees to €400 billion, and total recapitalization 
+and risk shield funds to €80 billion. The objective of this recapitalizatio n scheme was to 
+ensure that existing solvent German financial institutions were sufficiently capitalized so 
+that they could withstand potential losses and restore confidence in the German economy 
+(European Commission 2008a). 
+Eligible institutions included a comprehensive list of financial institutions including 
+insurance undertakings, pension funds, investment companies, operators of stock and 
+futures exchanges  and their parent companies , financial holding companies, insurance 
+92
+Germany SoFFin Capital Injections Sankar
+
+--- Page 8 ---
+holding companies, and private -law entrusted owners of Landesbanken  (state owned 
+regional banks)  organized under public law (FMStFG 2008) . Each individual institution 
+needed to be solvent,  with a Tier 1 ratio of at least 7% , or a commitment to reaching this 
+ratio within three months . They must also adhere to the requirement of minimum 
+regulatory capital in Basel II plus two percentage points (European Commission 2008b ). 
+Each institution could apply for a maximum of  €10 billion of recapitalization aid before the 
+deadline of December 31, 2009 (Petrovic and Tutsch 2009).  
+The Federal Ministry of Finance  could decide  on the participation of SoFFin in a 
+recapitalization scheme when there was a substantial interest on the part of the Federation 
+and the purpose sought by the Federation c ould no t better and more economically be 
+achieved by other means. SoFFin c ould participate in the recapitalization of a financial -
+sector enterprise by acquiring shares or silent participations against a contribution and 
+assuming other components of the funds of t hese companies. Institutions receiving capital 
+injections from SoFFin had to pay interest at a rate that averaged from 7-9%, unless SoFFin 
+recapitalized with significant contributions from the private sector (Petrovic and Tutsch 
+2009). The Federal Governme nt could issue ordinances with more detailed provisions of 
+the conditions of the recapitalization, upper limits for the participation in own fund items 
+of individual organizations as well as particular types of fund items, and any other 
+conditions required  to safeguard the purpose of the Act under the context of 
+recapitalization (FMStFG 2008). 
+Financial institutions seeking to utilize one of the stabilization measures in SoFFin had to 
+guarantee a sustainable business policy and reduce or abandon any risky activities. 
+Recapitalized entities were not allowed to pay dividends unless there existed sufficient 
+incentives to repay the State, and compensation for individual management members was 
+limited to €500,000 per annum. Bonuses were disallowed while state capital remained in 
+use, and dividend s were distributable only to the Government. Recapitalized institutions 
+were also obligated to provide loans to SMEs (Petrovic and Tutsch 2009) . The Feder al 
+Government was empowered to issue additional requirements to these organizations on 
+business strategy, use of monies received , and other conditions surrounding 
+recapitalization funds (FMStFG 2008). 
+SoFFin was funded through mandated contributions from i ndividual German states and by 
+issuing debt securities up to a maximum of €100 billion ( Mayer Brown 2009). The Federal 
+Ministry of Finance was empowered to issue up to  €70 billion of total aid within SoFFin’s 
+risk acquisition and recapitalization provision s, with a possible extension of €10 billion  
+with the consent of the Budget Committee of the Deutscher Bundestag. Applications for 
+SoFFin’s stabilization measures were initially due on December 31, 2009, at wh ich time 
+they were no longer accepted , though su bsequent policies extended t his deadline first to 
+2010, then it was reopened in 2012 with a deadline in 2014, and finally  extended to 2015 
+(European Commission 2010 ; Bundesrepublik Deutschland 2019). As of December 2018, 
+€14.6 billion are outstanding in Co mmerzbank, Hypo Real Estate (since nationalized) and 
+Portigon (former WestLB) ( FMSA 2019 ). There are no clear exit strategies for these 
+involvements. 
+93
+Journal of Financial Crises Vol. 3 Iss. 3
+
+--- Page 9 ---
+Though the European Committee Treaty Article 87(1) disallows State Aid to domestic 
+businesses in a manner that affects competition in the EU, the EC approved SoFFin. This 
+was justi fied by EC Treaty Article 87(3) (b), permitting the recapitalizations, guaran tees, 
+and risk assumptions because of economic disturbances in Germany (European 
+Commission 2008a). 
+Outcomes 
+Of a maximum of €80 billion, actual recapitalizations peaked at €29.4 billion in late 2010 
+(International Monetary Fund 2011 ). Capital injections o ccurred throughout 2009 and 
+2010, much of which w ere directed to  HRE Gruppe, later nationalized. The European 
+Commission approved e xtensions of SoFFin dea dlines that made this possible  (European 
+Commission 2011a ). The initial deadline was December 31, 2009 , presuming the crisis 
+lasted that long, but Germany successfully appealed to have it extended  first to June 3, 
+2010, and later to December 31, 2010 (European Commission 2010). 
+As of December 31 , 2018, €14.6 billion  remains outstanding from recapitalizatio n under 
+SoFFin. Substantial amounts of this funding went to HRE Gruppe, peaking at €9.8 billion in 
+late 2011; Commerzbank, peaking at €18.2 billion in late 2010 ; Portigon (former WestLB) 
+peaking at €3 billion in December 2010; and Aareal Bank, peaking at €500 million in 2009 
+(FMSA 2019). Aareal Bank has repaid SoFFin’s contributions while Commerzbank has €5.1 
+billion outstanding, HRE Gruppe has €7.6 billion outstanding, and Portigon has €2 billion 
+outstanding.  
+II. Key Design Decisions 
+1. The SoFFin capital injections scheme was i ntroduced as part of a package  in 
+FMStFG, which also included guarantee and risk-shield provisions. 
+The German government passed  the Financial Market Stabilization Fund Act 
+(Finanzmarktstabilisierungsfondsgesetz “FMStFG”), a package of crisis response measures 
+that created the Financial Market St abilization Agency (FMSA). FMSA was responsible for 
+managing the fund in SoFFin. FMStFG also established SoFFin, which was to be used for 
+three financial stability  strategies: capital injections, guarantees, and risk shields  (FMStFG 
+2008). Section 7 of the FMStFG  authorized the recapitalization scheme in particular . 
+Borrowing by the fund was financed by issuing debt up to a maximum of €100 billion  
+(European Commission 2008a). 
+2. The Fund has no legal capacity.  The legal basis of the recapitalization scheme 
+was the passage of FMStFG, the act which created SoFFin. 
+The Deutsche Bundesbank is responsible for the general jurisdiction of the Fund, which 
+may act, sue , and be sued in its own name. No other measures of compulsory execution 
+against the Fund may be attached (FMStFG 2008). 
+94
+Germany SoFFin Capital Injections Sankar
+
+--- Page 10 ---
+3. The European Commission approved the SoFFin capital injections scheme under 
+Article 87(3)(b) of the EC Treaty. 
+The European Commission ba ns “state aid,”  or government interventions that  privilege a 
+specific company,  industry, or region in a way that distorts trade or competition. Capital 
+injections would normally be considered such a privilege (European Commission 2019 ). 
+However, the European Commission (EC) permitted capital injections from SoFFin due to 
+Article 87(3)(b) of the EC Treaty, which permits state aid to “remedy a serious disturbance 
+in the economy of a Member State” (European Commission 2008a). 
+4. SoFFin and its capital injections schemes were managed by the FMSA, initially 
+under the purview of the Bundesbank, but late r assigned to the Federal Ministry 
+of Finance in July 2009.  
+The Federal Ministry of Finance controls FMSA, a public -law federal agency. It is managed 
+by a three -member Management Committee appointed by the Ministry of Finance in 
+consultation with the Bundesbank. An inter -ministerial Steering Committee decides on 
+agency proposals, though the Federal Ministry of Finance is responsible for the actual 
+administration of the Fund. The Steering Committee is composed of one member each from 
+the Federal Chancellery, Ministry of Finance, Ministry of Justice, Ministry of Economics and 
+Technology, and one member proposed by the Lӓnder. The Federal Government has the 
+capacity to cre ate guidelines that govern administration of the SoFFin fund, and does not 
+required consent of the Bundesrat to do so (FMStFG 2008) . As of January 1 , 2018, SoFFin 
+has been managed by the Federal Ministry of Finance, which has been funding it since its 
+inception in 2008 (Bundesrepublik Deutschland 2019).  
+5. Total funding for SoFFin  and its capital injections and risk -shield strategies, was 
+capped at €80 billion.  
+The Federal Ministry of Finance could take loans of up to €70 billion in order to fund 
+SoFFin and the three strategies for which it is responsible. There was a possible extension 
+of 10 billion additional Euros with the consent of the Budget Committee of the Deutscher 
+Bundestag. Each individual institution was eligible for a maximum of €10 billion of 
+recapitalization funds prior to the deadline of December 31, 2009 (FMStFG 2008). 
+6. Eligible institutions for capital injections under SoFFin included banks and 
+nonbank institutions listed here. 
+The Federal Ministry of Finance would decide on the participation of SoFFin in a 
+recapitalization scheme when there was a substantial interest on the part of the Federation 
+and the purpose sought by the Federation could not  better and more economically be 
+achieved by other means  (FMStFG 2008) . The institutions receiving recapitalization aid 
+from SoFFin were Aareal Bank, Commerzbank, Hypo Real Estate Gruppe (HRE), and 
+Portigon (former West Landesbank). 
+95
+Journal of Financial Crises Vol. 3 Iss. 3
+
+--- Page 11 ---
+SoFFin was mean t to strengthen the capital base of institution s under section 1(1b) of the 
+Banking Act, of insurance undertakings and pension funds under section 1(1) numbers 1 
+and 2 of the Insurance Supervision Act, of investment companies under the Investment Act, 
+as well as of the operators of stock and futures exchanges and their respective parent 
+enterprises, insofar as these financial holding companies, mixed financial holding 
+companies, insurance holding companies or mixed insurance holding companies , and the 
+abovementioned enterprises have their seat in Germany (financial -sector enterprises). 
+Private-law-entrusted owners of  Landesbanken organized under public law, even where 
+the owners are not financial holding companies, were also considered to be financial-sector 
+enterprises within the meaning of the first sentence above (FMStFG 2008).  
+These institutions needed to have a Tier 1 ratio of at least 7%, which was the threshold for 
+solvency. If they did not meet this criterion, they were still eligible to apply f or capital 
+injections under SoFFin if they committed to reaching it within th ree months. This is in 
+contrast to the Basel II Tier 1 ratio requirement of 4% of risk-weighted assets (Basel 2004). 
+There was also a requirement to hold minimum regul atory capital under Basel II (8%) plus 
+two percentage points (European Commission 2008b ). This requirement indicates that 
+SoFFin’s provision to inject capital was targeted towards solvent financial institutions in 
+order to strengthen their capital base so that they co uld better withstand potential losses 
+caused by liquidity crises in Europe and exposure to the U .S. housing market. It was also an 
+attempt to restore confidence in the German economy (European Commission 2008a). 
+7. SoFFin c ould participate in the recapitaliza tion of a financial -sector enterprise 
+by acquiring shares or silent participations against a contribution and assuming 
+other components of the funds of these companies. SoFFin then became  the 
+shareholder of acquisitions from capital injections. 
+Capital injections to Commerzbank were announced on December  19, 2008. SoFFin made a 
+silent participation of €8.2 billion in one tranche as of December  31, 2008, with annual 
+interest of 9% paid on the silent participation (Commerzbank 2008a). Silent participation 
+aid did not dilute shareholder control and g ave the Federal Republic no direct influence on 
+the operations of a bank (Mitchell 2016). In case of insolvency and liquidation, the debt was 
+subordinate to all existing debt, pari  passu with future hybrid offerings, and senior to 
+shareholders. The silent participation is perpetual and c ould be terminated by 
+Commerzbank with approval from the Ministry of Finance. It w ould be redeemed at 
+nominal value (Commerzbank 2008b). There would not be a dividend for the first year, but 
+in years with dividend payments, the interest rate applicable for the silent participation 
+would increase. For each €4.4 million of dividend, one basis point would be added 
+(Commerzbank 2008a ). The first €4.1 bill ion of the contribution ha d an interest rate of 
+8.5% and the second €4.1 billion had an interest rate of 5.5% (Levitin 2008). To avoid legal 
+limits on state aid to individual banks, Commerzbank and Dresdner Bank separately sought 
+additional aid in early 20 09, prior to Commerzbank’s planned acquisition of Dresdner 
+Bank. The state refused this request, but eventually acquiesced to a €10 billion 
+contribution to Commerzbank after threats of abandoning the merger. Dresdner Bank was 
+struggling due to its real est ate investments and would have otherwise required 
+96
+Germany SoFFin Capital Injections Sankar
+
+--- Page 12 ---
+nationalization to save it, which the German state sought to avoid . Of the €10 billion the 
+state contributed, €8.2 billion was an additional silent participation, but €1.8 billion 
+consisted of ordinary shares amounting to a 25% stake (Clark 2011).This was the first time 
+SoFFin had taken a direct position in a financial institution, and its contributions secured it 
+veto power over decisions at Commerzbank. It also received three seats on the bank board, 
+though it did not intend to influence any decision -making, or dilute ownership control by 
+private shareholders (Mitchell 2016 ). Commerzbank had nine members on its board in 
+2009 (Commerzbank 2009). 
+Aareal Bank had sufficient cash and capital base throughout the  2009 financial year, and 
+sought SoFFin support to strengthen it against further turbulence in financial markets . 
+SoFFin injections to Aareal bank in 2009 amounted to €525 million with 9% annual 
+interest (Aareal 2009b). To expedite the repayment of the sil ent participation, Aareal bank 
+did not issue dividends in 2008 or 2009 (Aareal 2009a). 
+In 2009, WestLB, a major Landesbank with €288.1 Billion of assets at year -end 2008, was 
+large enough to be considered a systemic risk (European Commission 2009b). Its exposure 
+to American subprime assets was a problem first realized in losses of €2.5 billion on its 
+subprime portfolio (Mitchell 2016 ). In November 2009, shareholders along with the 
+German government agreed to establish a bad bank, Erste Abwicklungsanstalt. I t took over 
+a portfolio of risk positions and risky assets that would have otherwise negatively impacted 
+the performance of WestLB. The capital injection from SoFFin to WestLB amounted to €3 
+billion in three installments. First, €672 million w as injected on December 23, 2009; €1.5 
+billion was injected on January 4, 2010; and €828 million w as injected on April 30, 2010. 
+The capital injection  was in the form of a non -callable silent participation, which was 
+optionally convertible into ordinary shares after July 1, 2010 (European Commission 
+2011b). The terms dictate d that SoFFin cannot become a majority shareholder of the 
+company. If WestLB sho wed a sufficient year -end profit, the terms of the silent 
+participation provide d for a 10% remuneration per annum. In the case of loss, the silent 
+participation would participate pari passu in the losses and forgo remuneration.  
+Hypo Real Estate (HRE) was nationalized by SoFFin. A credit line was extended to it in 
+2008, and SoFFin subsequently made a public takeover bid to acquire all shares in HRE. 
+Though SoFFin could have nationalized HRE by law had its bid been unsuccessful, it 
+acquired 38.65% of shares in the bid. This gave SoFFin 47.31% stake in HRE, and due to 
+low shareholder attendance in the general assembly, SoFFin had de facto control of HRE 
+(European Commission 2009a ). In April 2009, SoFFin submitted an offer to HRE 
+shareholders to purchase shares at €1.39 per share: 
+ The Management Board and Supervisory Board of Hypo Real Estate Holding AG have 
+resolved to propose an increase of the registered share capital against cash 
+contributions, excluding shareholders ’ pre-emptive subscription rights, pursua nt to 
+sections 182 et seq. AktG in conjunction with section 7 FMStFG, to an Extraordinary 
+General Meeting on June  2, 2009. To strengthen the Company ’s capital base in a 
+sustained manner, it is proposed to increase the Company ’s registered share capital 
+97
+Journal of Financial Crises Vol. 3 Iss. 3
+
+--- Page 13 ---
+(Grundkapital) of € 693,253,560 by cash contributions of up to € 5,639,282,040 to a 
+total of up to € 6,332,535,600, through the issuance of up to 1,879,760,680 new no -par 
+value bearer shares. (Hypo Real Estate 2009) 
+ SoFFin w ould subscribe new shares at the l owest price to obtain a 90% stake in the 
+company. SoFFin intended to increase HRE equity from €700 million to around €6.3 
+billion, diluting the stake of existing shareholders (DW 2009 ). In October of 2009, SoFFin 
+squeezed out remaining minority shareholder s by forcing an offer of €1.30 a share, fully 
+nationalizing HRE . Minority shareholder  firm JC Flowers , along with other shareholders,  
+took legal action against the full nationalization of HRE Gruppe, and filed a complaint with 
+the European Union (Reuters 2009). However, the complainants lost this challenge, and the 
+2011 decision of the Munich courts was that Germany had a legal basis for the forced 
+nationalization of HRE Gruppe (Wilson 2011). 
+As of December 2018, €14.6 billion are outstanding in Commerzbank , Hypo Real Estate 
+(since nationalized) and Portigon (former WestLB) ( FMSA 2019). SoFFin has no clear exit 
+strategy for these involvements. 
+8. The Federal Government could issue ordinances with more detailed provisions 
+of the conditions of the recapitalization. 
+These included the consideration of the recapitalization, upper limits for the participation 
+in own-fund items of individual organizations as well as particular type s of fund items, the 
+conditions under which the Fund could resell its participation in the own -fund items, and 
+any other conditions required to safeguard the purpose of the Act under the context of 
+recapitalization (FMStFG  2008). Financial enterprises seek ing to utilize one of the 
+stabilization measures in SoFFin ha d to guarantee a prudent business policy. (Petrovic and 
+Tutsch 2009) 
+Each applicant to the recapitalization measure in SoFFin had to prove that their business 
+activities were sustainable and that  their risky activities were limited or abandoned. They 
+were obligated to provide loans to SMEs. They were not allowed to pay dividends to any 
+shareholders before the State, and individuals managing each firm were limited to 
+€500,000 in annual compensation . They were not allowed to receive bonuses. (Petrovic 
+and Tutsch 2009) 
+The Federal Government was empowered to issue additional requirements to these 
+organizations on business strategy, use of monies received, remuneration of their bodies 
+and employees, th e level of their own funds, distribution of dividends, the period within 
+which to fulfill requirements, measures to avoid distortions of competition, the way in 
+which account was to be rendered to the Fund, an undertaking on compliance with the 
+above enume rated requirements to be given by the authorized representative body with 
+the consent of the supervisory body and to be published, and any other conditions required 
+to safeguard the purpose of the FMStFG (FMStFG 2008).  
+98
+Germany SoFFin Capital Injections Sankar
+
+--- Page 14 ---
+9. SoFFin’s stabilization measures were initially available until December 31, 2009, 
+but were subject to several extensions. 
+The initial deadline for applications for recapitalization funds was December 31, 2009, 
+provided the crisis lasted that long (European Commiss ion 2008b ). However, with 
+approval from the European Commission, Germany successfully appealed to have the 
+deadline extended three times to December 31, 2010 . SoFFin was reopened in 2012 with a 
+final closure in 2015 (Bundesrepublik Deutschland 2019; European Commission 2010).  
+10.  There are no clear exit strategies for SoFFin’s recapitalization involvement.  
+As of December 2018, €14.6 billion were outstanding in Commerzbank, Hypo Real Estate 
+(since nationalized) and Portigon (former WestLB). SoFFin has announced no clear plans to 
+exit these capital injections, nor does FMStFG delineate clear exit strategies. 
+11.  Germany has new legislation concerning government interventions in the case 
+of financial crisis.  
+Germany passed the Bank Restructuring Act in Janu ary 2011. This act strengthened the 
+coordination of various German federal agencies and European agencies in order to better 
+deal with distressed systemically important banks. It creates procedures to recover 
+struggling banks and reorganize insolvent ones by the Federal Financial Supervisory 
+Authority (BaFin), the successor to FMSA . These measures will be funded by a 
+Restructuring Fund to which all banks are required to contribute (Deutsche Bundesbank 
+2011). 
+III. Evaluation 
+Assessments of SoFFin’s overall effect iveness are generally positive in nature and agree 
+that it contributed to maintaining financial stability and limiting losses in Germany during 
+the global financial crisis. It also create d mechanisms for resolving problem banks with 
+better interagency coor dination and strengthen ed the broader crisis management 
+framework in Germany . SoFFin created mechanisms to combat short term issues of 
+liquidity and confidence, but also helped achieve some long -term goals like encouraging 
+executive responsibility by restr icting compensation while using SoFFin funds. However, it 
+did not adequately address the issues of lack of transparency regarding bank assets and 
+performance. In addition, it d id not address long -term issues of bank concentration or 
+executive liabilities f or losses (Bleuel 2009). SoFFin also d id not have a clear exit strategy, 
+and this is particularly an issue for the recapitalization funds of which €14.6 billion remain 
+outstanding. In addition, the relationship between SoFFin’s restructuring fund and the 
+deposit insurance schemes and mutual protection schemes must be clarified. (International 
+Monetary Fund 2011) SoFFin was not constructed to coordinate with other European and 
+German institutions to comprehensively address failing banks. Germany has since pa ssed a 
+Restructuring Act that finances its recapitalization fund by collecting dues from 
+99
+Journal of Financial Crises Vol. 3 Iss. 3
+
+--- Page 15 ---
+systemically important banks. This Act also contains provisions to recover and restructure 
+illiquid or insolvent banks in coordination with other German and European a gencies, 
+especially if the bank operates across borders (Deutsche Bundesbank 2011). 
+IV. References 
+Aareal Bank. 2009a. “Aareal Bank AG – Annual Report 2009.”  
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/091231_gb_ag_en.pdf. 
+———. 2009b. “Aareal Bank Group – Interim Report: 1 January to 31 March 2009.”  
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/DE0005408116-Q1-2009-
+EQ-E-00.pdf. 
+Basel Committee on Banking Supervision  (Basel). 2004. “International Convergence of 
+Capital Measurement and Capital Standards A Revised Framework.”  
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/bcbs107.pdf. 
+Bleuel, Hans-H. 2009. “The German ba nking system and the global financial crisis: causes, 
+developments and policy responses.” D üsseldorf Working Papers in Applied Management 
+and Economics. 
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Bleuel_2009.pdf. 
+Bundesrepublik Deutschland. 2019. “Financial Market Stabilization.”  
+https://ypfs.som.yale.edu/library/financial-market-stabilisation-fund-fms. 
+Clark, Nick. “German Government Injects €10bn into Commerzbank.” The Independent . 
+Independent Digital News and Media, October 22, 2011.  
+https://ypfs.som.yale.edu/library/german-government-injects-10bn-commerzbank.  
+Commerzbank. 2008 a. “Commerzbank and SoFFin agree loan programme for Mittelstand 
+(SME).” Press release, December 19, 2008.  
+https://ypfs.som.yale.edu/library/commerzbank-and-soffin-agree-loan-programme-
+mittelstand-sme. 
+———. 2008b. “Term Sheet: SoFFin.”  
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/081219_SoFFin_Term-
+Sheet.pdf. 
+———. 2009. “Annual Report 2009.”  
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/CBK_2009_Annual-
+Report_2.pdf. 
+Deutsche Bundesbank. 2011. “Fundamental Features of the German Bank Restructuring 
+Act.” Monthly Report June 2011.  
+100
+Germany SoFFin Capital Injections Sankar
+
+--- Page 16 ---
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/2011-06-fundamental-
+features-german-bank-restructuring-act-data.pdf. 
+DW. 2009. “German Government to take control of Hypo Real Estate.” 
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/German%20government%2
+0to%20take%20control%20of%20Hypo%20Real%20Estate%20_%20Business_%20Econ
+omy%20and%20finance%20news%20from%20a%20German%20perspective%20_%20D
+W%20_%2024.04.2009.pdf. 
+European Commission. October 2008. “C(2008) 6422: State aid scheme No N 512/2008 – 
+Germany Rescue package for credit institutions in Germany.”  
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/227880_882424_41_1.pdf. 
+———. December 2008. “C(2008) 8629 fin: State aid N 625/2008 – Germany Rescue 
+package for financial institutions in Germany.”  
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/228814_961037_27_1.pdf. 
+———. May 2009. “C(2009) 3994: Notification of 14 April 2009 pursuant to Article 4 of 
+Council Regulation (EC) No 139/2004.”  
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/M5508_20090514_20310_2
+65129_EN.pdf. 
+———. October 2009. “IP/09/1434: State aid: Commission approves temporary additional 
+aid to German Landesbank WestLB.  
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/State_aid__Commission_app
+roves_temporary_additional_aid_to_German_Landesbank_WestLB.pdf. 
+———. June 2010. “C(2010) 4261 fin: State aid N 222/2010 – Third Extensions of the 
+German Rescue package for financial institutions in Germany.”  
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/236503_1111002_31_2.pdf. 
+———. July 2011. “C(2011) 5157 fin – Commission Decision of 18 July 2011 ON THE 
+STATE AID C 15/2009 (ex N 196/2009), which Germany implemented and is planning to 
+implement for Hypo Real Estate.”  
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/231241_1279613_551_2.pd
+f. 
+———. December 2011. “C(2013/245 EU: Commission Decision of 20 December 2011 on 
+the State aid C 40/2009 and C 43/2008 for the restructuring of Wes tLB AG (notified under 
+document C(2011) 9395)” Accessed 26 August 2019.  
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/CELEX_32013D0245_EN_TX
+T.pdf. 
+———. 2019. “State Aid Control.”   
+https://ypfs.som.yale.edu/library/state-aid. 
+101
+Journal of Financial Crises Vol. 3 Iss. 3
+
+--- Page 17 ---
+Federal Agency for Financial Market Stabilization ( FMSA). 2019. “Historical Overview of 
+Financial Market Stabilization Fund FMS (SoFFin) Measures.” Accessed 26 August 2019.   
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/FMS-Massnahmen_en.pdf. 
+FMStFG. 2008. “Financial Market Stabilization Fund Act.” Accessed 26 August 2019. 
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Act_on_the_Establishment_o
+f_a_Financial-Market_Stabilisation_Fund_0.pdf. 
+Hypo Real Estate  (HRE). 2009. “ Hypo Real Estate  Holding AG issues Statement regarding 
+the Takeover Offer by SoFFin.” Press release, April 24, 2009.  
+https://ypfs.som.yale.edu/library/hypo-real-estate-holding-ag-issues-statement-
+regarding-takeover-offer-soffin. 
+International Monetary Fund (IMF). 2011. “Germany: Technical Note on Crisis Management 
+Arrangements.” Germany: Technical Note on Crisis Management Arrangements.  
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/cr11368.pdf. 
+Levitin, Michael. “Commerzbank Asks State for €8.2bn - First German Bank to Use Bailout 
+Fund.” The Telegraph. Telegraph Media Group, November 3, 2008.  
+https://ypfs.som.yale.edu/library/commerzbank-asks-state-82bn-first-german-bank-use-
+bailout-fund. 
+Mayer Brown. 2009. “Summary of Government Interventions: Germany.”  
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/0272fin_Summary_Govern
+ment_Interventions_Germany.pdf. 
+Mitchell, Christopher. 2016. Saving the Market from Itself: The Politics of Financial 
+Intervention. Cambridge, UK: Cambridge University Press. 
+Petrovic, Ana , and Ralph Tutsch. 2009. “National Measures in Response to the Current 
+Financial Crisis.” European Central Bank Legal Working Paper Series, No. 8.   
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/National_Rescue_Measures_
+in_Response_to_the_Current_Financial_Crisis.pdf. 
+Pleister, Christopher. 2011. “The Federal Agency for Financial Market Stabilisa tion in 
+Germany: from Rescuing to Restructuring.” OECD Journal: Financial Market Trends 2. 2011.   
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Pleister_2011.pdf. 
+Reuters. 2009. “Hypo Real Estate Is Nationalised  with Squeeze Out.” Thomson Reuters, 
+https://ypfs.som.yale.edu/library/hypo-real-estate-nationalised-squeeze-out. 
+Spiegel Online. March 11, 2008. “Financial Crisis: Germany ’s No. 2 Bank Taps Government 
+Rescue Fund.” https://www.spiegel.de/international/ger many/financial-crisis-germany-s-
+no-2-bank-taps-government-rescue-fund-a-588050.html. 
+102
+Germany SoFFin Capital Injections Sankar
+
+--- Page 18 ---
+Summit of the Euro Area Countries. 2008. “Declaration on a Concerted European Action 
+Plan of the Euro Area Countries.”  
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/EC_Decision_2010_10_12_0.
+pdf. 
+Wilson, James. January 20, 2011. “HRE in Court Victory over Stake Squeeze.” Financial 
+Times. Financial Times. https://ypfs.som.yale.edu/library/hre -court-victory-over-stake-
+squeeze. 
+V. Key Program Documents 
+Summary of Program 
+(FMStFG 2008) Act on the Establishment of a Financial -Market Stabilisation Fund .  
+English translation of FMStFG, legislation authorizing SoFFin.  
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Act_on_the_Establishment_o
+f_a_Financial-Market_Stabilisation_Fund_0.pdf. 
+Legal/Regulatory Guidance 
+(European Commission 2008a) European Commission. October 2008. “C(2008) 6422: State 
+aid scheme No N 512/2008 – Germany Rescue package for credit institutions in Germany.”  
+Letter from the European Commission about SoFFin with respect to the European State Aid 
+rules. 
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/227880_882424_41_1.pdf.  
+(European Commission 2008b) European Commission. December 2008. “C(2008) 8629 fin: 
+State aid N 625/2008 – Germany Rescue package for financial institutions in Germany.”  
+Second letter from the European Commission about SoFFin with respect to the European 
+State Aid rules.  
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/228814_961037_27_1.pdf. 
+(European Commission 2009a) European Commission. May 2009. “C(2009) 3994: 
+Notification of 14 April 2009 pursuant to Article 4 of Council Regulation (EC) No . 
+139/2004.”   
+European Commission letter about the SoFFin takeover of Hypo Real Estate.  
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/M5508_20090514_20310_2
+65129_EN.pdf. 
+(European Commission 2009b) European Commission. October 2009. “IP/09/14 34: State 
+aid: Commission approves temporary additional aid to German Landesbank WestLB. ” 
+European Commission letter approving SoFFin aid to WestLB.   
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/State_aid__Commission_app
+roves_temporary_additional_aid_to_German_Landesbank_WestLB.pdf. 
+103
+Journal of Financial Crises Vol. 3 Iss. 3
+
+--- Page 19 ---
+(European Commission 2010) European Commission. June 2010. “C(2010) 4261 fin: State 
+aid N 222/2010 – Third Extensions of the German Rescue package for financial institutions 
+in Germany.”   
+Another letter from the  European Commission about SoFFin with respect to the European 
+State Aid rules . 
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/236503_1111002_31_2.pdf. 
+(European Commission 2011a) European Commission. July 2011. “C(2011) 5157 fin – 
+Commission Decision of 18 July 2011 ON THE STATE AID C 15/2009 (ex N 196/2009), 
+which Germany implemented and is planning to implement for Hypo Real Estate.”   
+Letter from the European Commission about further capital injections to Hypo Real Estate.   
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/231241_1279613_551_2.pd
+f. 
+(European Commission 2011b) European Commission. December 2011. “C(2013/245 EU: 
+Commission Decision of 20 December 2011 on the State aid C 40/200 9 and C 43/2008 for 
+the restructuring of WestLB AG (notified under document C(2011) 9395) .”  
+European Commission decision about SoFFin aid to WestLB.  
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/CELEX_32013D0245_EN_TX
+T.pdf. 
+(European Commission 2019) European Commission. 2019. “State Aid Control.”   
+European Commission overview about its state aid rules.  
+https://ypfs.som.yale.edu/library/state-aid. 
+Press Releases/Announcements 
+(DW 2009) DW. April 24, 2009. “German Government to take control  of Hypo Real Estate.”  
+Article about the German government takeover of Hypo Real Estate.  
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/German%20government%2
+0to%20take%20control%20of%20Hypo%20Real%20Estate%20_%20Business_%20Econ
+omy%20and%20finance%20news%20from%20a%20German%20perspective%20_%20D
+W%20_%2024.04.2009.pdf. 
+(Levitin) Levitin, Michael. November 3, 2008. “Commerzbank Asks State for €8.2bn - First 
+German Bank to Use Bailout Fund.” The Telegraph. Telegraph Media Group, November 3, 
+2008.  
+Article about Commerzbank’s usage of SoFFin.   
+https://ypfs.som.yale.edu/library/commerzbank-asks-state-82bn-first-german-bank-use-
+bailout-fund. 
+(Reuters 2009) Reuters. October 13, 2009. “Hypo Real Estate Is Nationalised  with Squeeze 
+Out.” Thomson Reuters.   
+Article about nationalization of Hypo Real Estate.  
+ https://ypfs.som.yale.edu/library/hypo-real-estate-nationalised-squeeze-out.  
+104
+Germany SoFFin Capital Injections Sankar
+
+--- Page 20 ---
+(Spiegel) Spiegel Online. March 11, 2008. “Financial Crisis: Germany's No. 2 Bank Taps 
+Government Rescue Fund.”   
+Article about Commerzbank usage of SoFFin.  
+https://ypfs.som.yale.edu/library/germanys-no-2-bank-taps-government-rescue-fund. 
+(Wilson 2011) Wilson, James. January 20, 2011. “HRE in Court Victory over Stake Squeeze.” 
+Financial Times. January 20, 2011 .  
+Article about a court upholding the nationalization of Hypo Real Estate.  
+https://ypfs.som.yale.edu/library/hre-court-victory-over-stake-squeeze. 
+Reports/Assessments 
+(Bleuel 2009) The German banking system and the global financ ial crisis: causes, 
+developments and policy responses.   
+Paper providing context for the Global F inancial Crisis in Germany and analyzing policy 
+responses, including SoFFin.  
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/Bleuel_2009.pdf. 
+(Deutsche Bundesbank 2011) Fundamental Features of the German Bank Restructuring 
+Act. Paper describing the Restructuring Act and how it improves on FMStFG’s flaws.  
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/2011-06-fundamental-
+features-german-bank-restructuring-act-data.pdf. 
+Copyright 2021 © Yale University. All rights reserved. To order copies of this material or to receive 
+permission to reprint any or all of thi s document, please contact the Yale Program on Financial 
+Stability at ypfs@yale.edu.  
+ 
+105
+Journal of Financial Crises Vol. 3 Iss. 3

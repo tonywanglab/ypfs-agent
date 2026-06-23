@@ -1,0 +1,12 @@
+python-dotenv
+pypdf
+beautifulsoup4
+pymupdf
+pymupdf4llm
+tiktoken
+requests
+pinecone
+google-genai
+flask
+gunicorn
+flask-limiter

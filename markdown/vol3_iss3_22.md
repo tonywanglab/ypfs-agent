@@ -1,0 +1,435 @@
+## Mexico Peso Crisis (1994–1995): PROCAPTE[1] 
+
+_Manuel León Hoyos_[2] 
+
+Yale Program on Financial Stability Case Study November 12, 2021 
+
+## **Abstract** 
+
+In December 1994, Mexico entered a financial crisis. The government abandoned its crawling peg exchange rate policy, letting the peso float and devalue substantially. The recently privatized banking sector found difficulties in meeting regulatory minimum capital. The Mexican government assisted with a $52 billion international financial package, enacted multiple programs to contain the crisis. The first program introduced to recapitalize the banks was the Temporary Capitalization Program (PROCAPTE) in February 1995. Banks could issue subordinated debentures to the Bank Fund for Savings Protection (FOBAPROA). These debentures were convertible into equity shares (common stock) with voting rights after five years. Banks would receive cash for the debentures, however, they had to maintain these cash proceeds at the Bank of Mexico. On March 31, 1995, six banks were recapitalized, including Serfin, Inverlat, and Bital—the third-, fourth-, and fifth-largest banks in Mexico. The overall amount of recapitalization was $950 million, increasing banks’ average capitalization ratio from 5.8% to 9.6%. 
+
+**Keywords** : capital injections, crisis, FOBAPROA, Mexico, peso crisis, PROCAPTE, recapitalizations 
+
+> 1 This case study is part of the Yale Program on Financial Stability (YPFS) selection of New Bagehot Project modules considering responses to financial crises that pertain to broad-based capital injections programs. Cases are available from the _Journal of Financial Crises_ at https://elischolar.library.yale.edu/journal-offinancial-crises. 
+
+> 2 Research Associate, YPFS, Yale School of Management. 
+
+
+## **Mexico Peso Crisis (1994–1995): PROCAPTE** 
+
+## **At a Glance** 
+
+## **Summary of Key Terms** 
+
+Mexico completed the privatization of its banking sector in 1992. The North American Free Trade Agreement (NAFTA), binding Mexico to the US and Canada, went into force in 1994. Foreign inflows increased substantially and the debt of Mexican banks to foreign banks increased from $8 billion in 1991 to $16.5 billion in 1994. 
+
+Purpose: To temporarily capitalize the commercial banking system, while each bank was seeking additional capital, without incurring any fiscal cost 
+
+||Announcement date|February 24, 1995|
+|---|---|---|
+||Operational date<br>End of issuance window|March 31, 1995<br>N/A|
+||Legal authority<br>Program size|Law of Credit Institutions<br>Sufficient to raise the<br>capital level of participating<br>banks above 9%|
+||Total utilization|Recapitalizations totaled<br>$950 million|
+||Participants<br>Outcomes|Six banks<br>Average capitalization ratio<br>of the six banks increased|
+|||from 5.8% to 9.6%|
+||Ownership||
+||Notable feat1 break|Bank of Mexico provided|
+||bread slow cooker 8|funding, sterilizing the|
+||hours and workout|monetary impact;|
+||following up Mars team 4<br>get done three pound<br>brisket transit posted<br>attack on top then<br>sprinkled over powder<br>radiant ures|FOBAPROA bought the<br>subordinated debentures<br>with cash. Banks had to<br>maintain the cash at the<br>Bank of Mexico for the<br>duration of the<br>recapitalization; and the<br>Bank of Mexico paid|
+|||interest at the same rate as|
+|||the rate on the debentures.<br>The debt was essentially<br>costless to participating<br>banks|
+
+
+
+After a year of political turmoil, Mexico entered a financial crisis in December of 1994. The country’s international reserves had fallen from $29 billion in February 1994 to $6 billion in December 1994. The Mexican government had kept a crawling peg exchange rate policy that allowed the peso to depreciate gradually. However, on December 20, 1994, the newly elected government widened the band and the peso devalued by 15% against the US dollar. Two days later, Mexico let the peso float freely, resulting in a major depreciation and escalating difficulties. 
+
+Multiple banks had trouble meeting subordinated debentures brisket transit posted regulatory minimum capital with cash. Banks had to attack on top then requirements of 8% of risk-weighted sprinkled over powder maintain the cash at the Bank of Mexico for the assets and increased provisions on radiant ures duration of the nonperforming loans. The first of recapitalization; and the multiple measures the government Bank of Mexico paid introduced to support capitalization was interest at the same rate as the Temporary Capitalization Program the rate on the debentures. The debt was essentially (PROCAPTE) in February 1995. Banks costless to participating could issue subordinated debentures to banks the Bank Fund for Savings Protection (FOBAPROA). These were convertible into equity shares (common stock) with voting rights after five years. Banks would receive cash for the debentures, provided that they 
+
+
+maintained these cash proceeds at the Bank of Mexico. On March 31, 1995, six banks were recapitalized, including Serfin, Inverlat, and Bital—the third-, fourth-, and fifth-largest banks in Mexico. The overall amount of recapitalization was $950 million, increasing banks’ average capitalization ratio from 5.8% to 9.6%. 
+
+## **Summary Evaluation** 
+
+Some have commented that while PROCAPTE sent a clear message that the government was prepared to support the banking system, the market did not appear to view the participation of individual banks as a positive measure. Instead, the market considered participation as a sign of weakness or as a prelude to intervention. Mackey (1999) wrote that “this perception caused some banks to avoid participation in the program entirely and other banks to end their participation in the program in a shorter period than expected.” 
+
+
+|**Mexico Context 1995-1996**|**Mexico Context 1995-1996**|
+|---|---|
+|**GDP**<br>**(SAAR, nominal GDP in LCU**<br>**converted to USD)**|$529.4 billion in 1994<br>$357.8 billion in 1995|
+|**GDP per capita**<br>**(SAAR, nominal GDP in LCU**<br>**converted to USD)**|$5,854 in 1994<br>$3,928 in 1995|
+|**Sovereign credit rating**<br>**(five-year senior debt)**|Data for 1994:<br>Fitch: N/A<br>Moody’s: Baa1<br>S&P: A+<br>Data for 1995:<br>Fitch: N/A<br>Moody’s: Baa3<br>S&P: BBB+|
+|**Size of banking system**|172.2 billion in total assets in<br>1994<br>$119.5 billion in total assets in<br>1995|
+|**Size of banking system**<br>**as a percentage of GDP**|32.5% in 1994<br>33.4% in 1995|
+|**Size of banking system**<br>**as a percentage of financial system**|Data not available for 1994<br>Data not available for 1995|
+|**Five-bank concentration of banking system**|61% of total banking assets|
+|**Foreign involvement in banking system**|4% of total banking assets in<br>1994<br>5% of total banking assets in<br>1995|
+|**Government ownership of banking system **|53%in 1995|
+|**Existence of deposit insurance**|1994: 100% of deposits and all<br>bank liabilities (excepting<br>subordinated debt)<br>1995: 100% of deposits and all<br>bank liabilities (excepting<br>subordinated debt)|
+|_Sources: Bloomberg; Cull et al. 2018; Graf 1999; Haber and Musacchio 2013;_<br>_Musacchio 2012._||
+
+
+
+
+## **I. Overview** 
+
+## **Background** 
+
+In 1982, Mexico experienced a crisis and nationalized its banking sector in response. The sector was reprivatized a decade later (World Bank 1995). That same year, the country signed the North American Free Trade Agreement (NAFTA) together with the US and Canada, which entered into force in the beginning of 1994. In this period, foreign capital inflows increased substantially, primarily driven by demand for Mexican government bonds, both peso-denominated Cetes and dollar-denominated Tesobonos. The debt of Mexican banks to foreign banks increased from $8 billion in 1991 to $16.5 billion in 1994 (Graf 1999). 
+
+The year 1994 was full of political turmoil. The uprising of the Zapatista Army of National Liberation (EZLN) in the southern state of Chiapas dragged on for months. Four months prior to Mexico’s presidential election, Luis Donaldo Colosio, candidate of the long-ruling PRI, was assassinated. Assassinations of other high-level politicians and the kidnapping of renowned businessmen brought a lot of uncertainty about the stability of the country. Fears of a government default siphoned capital from the country. International reserves fell from approximately $29 billion in February 1994 to $6 billion in December 1994 (Whitt 1996). 
+
+On December 1, 1994, the PRI replacement candidate Ernesto Zedillo took office. The Mexican peso had kept a crawling peg exchange rate policy to the US dollar that allowed the peso to fluctuate at most $0.004 per day. However, on December 20, 1994, the government widened the band of acceptable price change and the peso depreciated by 15%. Two days later, Mexico let the peso float freely, resulting in a major depreciation (see Figure 1). 
+
+
+[FIGURE id=vol3_iss3_22_f1 type=figure label="Figure 1" file=figure_1.png caption="Mexican peso depreciation"]
+### **Figure 1: Mexican peso depreciation**
+![Figure 1](assets/vol3_iss3_22/figure_1.png)
+
+
+
+
+_Source: FRED 2020._ 
+
+Initially, financial markets were rattled, as the Mexican government seemed slow to respond, waiting until January 3, 1995, to announce a limited economic program known as the Agreement of Unity to Overcome the Economic Emergency ( _Acuerdo de Unidad para Superar la Emergencia Económica_ ). The program committed the government to austerity, in hopes that the exercise would allow Mexico to access an International Monetary Fund (IMF) Stand-By Arrangement and reassure foreign investors (GAO 1996). Two months later, on March 3, 1995, the government announced a revised and much broader financial package that contained specific measures to strengthen the financial system. This included fiscal and monetary adjustments, programs to deal with troubled banks, and an increase in the social safety net. Mexico received financial support through a $52 billion loan package from the international financial community, of which the US Treasury Department contributed $20 billion, the International Monetary Fund $17.8 billion, and the Bank for International Settlements $10 billion, with the rest coming from other bilateral and multilateral sources (World Bank 1995). 
+
+The Mexican authorities in charge of overseeing the banking sector were the Bank of Mexico, the Ministry of Finance (SHCP), the National Banking and Securities Commission (CNBV)[3] and the Bank Fund for Savings Protection (FOBAPROA). FOBAPROA served as a mechanism for “preventive support” to commercial banks and to protect savings. It was the government agency responsible for dealing with bank insolvencies (Graf 1999). It played the roles of bank restructuring, deposit insurance, and in some cases, lender of last resort 
+
+> 3 In May 1995, the National Banking Commission (CNB) and the National Securities Commission (CNV) were merged to become the CNBV. The CNBV is a dependency of the Ministry of Finance. Its President was appointed by the Minister of Finance. 
+
+
+(World Bank 1995). FOBAPROA went beyond simple deposit insurance. It provided a blanket guarantee of all unsubordinated liabilities of the commercial banks. FOBAPROA had broad powers to extend credit to banks to permit them to meet their obligations to depositors and other liability holders (World Bank 1995; 1998). 
+
+FOBAPROA was financed by monthly contributions from banks based on their liabilities. The Bank of Mexico was authorized to extend loans to FOBAPROA. FOBAPROA could also borrow from the Ministry of Finance (World Bank 1995). 
+
+The Bank of Mexico administered the daily operations of FOBAPROA. Meanwhile, FOBAPROA’s policy decisions were made by its nine-member Technical Committee. Four were from the Ministry of Finance, one being the Minister. Three were from the Bank of Mexico, one being the Governor. And two were from the CNBV, one being the President. The chairman of the Technical Committee was from the Ministry of Finance and had the deciding vote (Mackey 1999, 20; World Bank 1995). The CNBV had been the only agency with complete access to bank information. It was mainly the CNBV, with assistance from FOBAPROA’s staff, that prepared the technical documents that set the foundation for many of the Technical Committee’s decisions. The Bank of Mexico acted as the trustee of FOBAPROA, responsible for carrying out the Technical Committee’s resolutions, and signed all agreements involving FOBAPROA’s financial assistance (Mackey 1999). 
+
+Some of FOBAPROA’s objectives, as outlined by the Ministry of Finance included: limiting the risk of bank runs and preserving financial stability; protecting depositors and bank creditors; supporting the liquidity and solvency of institutions; minimizing fiscal costs by allocating them over time; and attracting foreign banks (Mackey 1999; Graf 1999). 
+
+During the first months of 1995, Mexican banking authorities, to mitigate the negative impacts of the peso crisis, put forward a number of measures that included provisions of liquidity, exhaustive inspections of banks that resulted in increased provisions, and a Temporary Recapitalization Program (PROCAPTE) for banks (World Bank 1995). The depreciation of the peso increased the peso value of loans denominated in foreign currency. The capital-asset ratio of the banking system fell from 9.3% by year-end 1994 to less than 8% two months later, and the ratio for half of the commercial banks dropped below the 8% minimum (Graf 1999). Banks with US dollar liabilities had to set aside an increasing amount of capital to cover potential losses from the currency devaluation. Meanwhile, higher interest rates increased the number of loan defaults by businesses and consumers across Mexico (Bloomberg 1995a). Eduardo Fernandez, President of the CNBV at the time, said that as a consequence of the devaluation and the abrupt increase in interest rates, the whole Mexican banking system was bankrupt and their equity was negative, including Banamex and Bancomer, two of the largest banks with approximately 50% of the whole market, and 35% of their assets in mortgages. 
+
+## **Program Description** 
+
+On February 22, 1995, the CNBV required all banks to increase provisions to the higher of: (a) 4% of the loan portfolio; or (b) 60% of nonperforming loans (NPLs); or (c) provisions required from quarterly loan classifications under previous rules (World Bank 1998). This arose from a concern that loan classification and provisioning had become difficult for 
+
+
+banks to handle in the face of a widespread economic downturn. Under the new formula, all banks were required to increase provisions, and several fell short of meeting the required 8% capitalization (Karaoglan and Lubrano 1995; Mackey 1999). In early March 1995, the average reserves for NPLs were about 47.5% (WSJ 1995). 
+
+Bank stocks collapsed after the December 20 devaluation. The market capitalization of the whole financial system fell from $26.8 billion to $7.24 billion by early March 1995. Banks found it unfeasible to issue new equity, and the prospects of finding foreign equity partners for the more distressed banks seemed even more unlikely (FT 1995). 
+
+The Bank of Mexico was essential to the design and implementation of the Temporary Capitalization Program (PROCAPTE), introduced on February 24, 1995, in a circular the Bank of Mexico sent to all Mexican commercial banks (Mackey 1999). PROCAPTE was designed to temporarily recapitalize banks that, due to the economic situation, were unable to recapitalize themselves. Additionally, it aimed to signal to the financial markets that the government was prepared to support the banking system. PROCAPTE was not intended to provide new, permanent capital, as was the case with other government programs later introduced (Mackey 1999; see YPFS case by Leon Hoyos and Nye 2021 on FOBAPROA’s broad-based asset purchases). FOBAPROA acted as the administrator of PROCAPTE (World Bank 1995; Mackey 1999). 
+
+Earlier in February 1995, the Mexican government had amended the Law of Credit Institutions to allow for recapitalizations of commercial banks. All commercial banks were eligible to apply for PROCAPTE, and participation was voluntary (Mackey 1999). However, if a bank whose capital was below the regulatory minimum of 8% of risk-weighted assets chose not to participate, it risked losing its banking charter (World Bank 1995). 
+
+Funding for PROCAPTE came from the Bank of Mexico. In March 1995, the World Bank and the Inter-American Development Bank provided a $3.25 billion loan to the Mexican government, $2.25 billion of which was earmarked for support to the banking system, particularly to avoid bank insolvencies and help with accounting, public reporting standards, and regular inspections (DJ 1995). 
+
+Through PROCAPTE, banks issued subordinated debentures to FOBAPROA in accordance with Article 4 of the Law of Credit Institutions. These were convertible into equity shares (common stock) with voting rights after five years. FOBAPROA could convert the debentures earlier if the bank fell below 2% of risk-weighted assets or if its capitalization ratio deteriorated at a rate exceeding 25% of the rate of deterioration of the rest of the PROCAPTE banks. After five years, any unpaid amounts would be converted to ordinary capital and sold by the government. PROCAPTE aimed to support banks rather than shareholders and did not intend to handle insolvencies (OECD 1995). 
+
+FOBAPROA bought the subordinated debentures with cash. However, banks had to deposit and maintain the cash proceeds at an account at the Bank of Mexico for the duration of the recapitalization (see Figure 2). The Bank of Mexico paid the same rate of interest as the rate on the debentures. The size of the issue was sufficient to raise the capital level above 9% for the six banks that participated (Karaoglan and Lubrano 1995; World Bank 1995). 
+
+
+Participating banks were not allowed issue dividends, additional capital debt, or additional mandatorily convertible subordinated debentures until they repaid FOBAPROA or unless these were issued aligned with PROCAPTE (Mackey 1999). If a bank remained in trouble, the government could take over the bank (WSJ 1995). If the bank’s capital ratio fell below 8.5%, FOBAPROA would acquire more subordinated debentures to reach the 9%. If a bank's capitalization ratio increased to more than 9%, the bank could redeem, partially or fully, the subordinated debentures held by FOBAPROA before their conversion (Karaoglan and Lubrano 1995). 
+
+[FIGURE id=vol3_iss3_22_f2 type=figure label="Figure 2" file=figure_2.png caption="PROCAPTE recapitalization mechanism"]
+### **Figure 2: PROCAPTE recapitalization mechanism**
+
+[FIGURE id=vol3_iss3_22_f3 type=figure label="Figure 2" file=figure_2.png caption="PROCAPTE recapitalization mechanism"]
+### **Figure 2: PROCAPTE recapitalization mechanism**
+![Figure 2](assets/vol3_iss3_22/figure_2.png)
+
+
+
+
+_Source: (Mackey 1999)_ 
+
+At the request of Mexican authorities, the Mexican Congress modified bank ownership laws to allow foreign financial institutions to control domestic banks that were in trouble. This accelerated the opening of Mexico's banking system to foreign participation (World Bank 1998). 
+
+## **Outcomes** 
+
+On March 31, 1995, six banks participated in PROCAPTE, including Serfin, Inverlat, and Bital—the third-, fourth-, and fifth-largest banks in Mexico. All six banks failed to meet the government’s 8% capital requirement and risked losing their banking charters if they did not participate (Bloomberg 1995a; see Figure 3). 
+
+
+[FIGURE id=vol3_iss3_22_f4 type=figure label="Figure 3" file=figure_3.png caption="PROCAPTE recapitalizations on March 31, 1995"]
+### **Figure 3: PROCAPTE recapitalizations on March 31, 1995**
+
+|Banka|%<br>of<br>Mexica<br>n<br>bankin<br>g<br>assets|PROCAPTE<br>capitalizatio<br>n in Mexican<br>pesos<br>(MXN)b|USD<br>equivalen<br>t|Exit of<br>PROCAPT<br>E|Governmen<br>t<br>interventio<br>n|Acquisition|
+|---|---|---|---|---|---|---|
+|Serfin|12.1%|3.2 billion|$469<br>million|June 1995|None|HSBC: 20%|
+|Inverlat|5.6%|1.4 billion|$205<br>million||Dec. 1995|Scotiabank: 55%|
+|Bital|5.2%|700 million|$102<br>million|Nov.<br>1995|Sep. 1995|Central<br>Hispano:<br>20%|
+|Confia|2.1%|425 million|$62<br>million|June 1996||Citibank: 100%|
+|Del<br>Centro<br>(Bancen<br>)|2.0%|452 million|$66<br>million|Aug. 1995|June 1995|Banorte acquired<br>branch<br>network,<br>assets,<br>and<br>liabilities|
+|Oriente|0.5%|311 million|$46<br>million|Sep. 1996|Dec. 1994<br>Oct. 1995|Bilbao<br>Vizcaya<br>acquired<br>branch<br>network<br>via<br>Probursa|
+|Total:||6.49 billion|$950<br>million||||
+|aBy the end of February 1995, nine banks were below the 8% capitalization ratio<br>requirement. The three banks that did not participate in the government’s recapitalization<br>program were Banpais, Mexicano, and Probursa (World Bank 1995).<br>_Banpais_had been part of an intervention in February 1995 when the Bank of Mexico placed<br>four banks—Obrero, Union, Cremi, and Banpais—under management without recapitalizing<br>them (Gutscher 1995).<br>_Mexicano_raised enough capital through a share capital increase and issuance of<br>subordinated debt to increase its capitalization ratio above 8% (World Bank 1995).|||||||
+
+
+
+
+_Probursa_ requested assistance from PROCAPTE. However, the CNBV deferred because the Spanish bank Bilbao-Vizcaya (BBV) had placed a bid to acquire a majority interest in Probursa. At the time, CNBV anticipated that the investment would increase the bank’s capital above the required level, making PROCAPTE assistance unnecessary (LAD 1995b). This transaction was ultimately facilitated by a separate FOBAPROA capitalization program that included the purchase of troubled loans (World Bank 1998). 
+
+In April, 1995, the CNBV stated that all other Mexican banks met the government's minimum capitalization requirements and would not need PROCAPTE assistance in the near term (LAD 1995b). 
+
+b Exchange rate on March 31, 1995, was MXN 6.82 = $1 (FRED 2020). 
+
+_Sources: Author’s compilation, based on: LAD 1995b; Bloomberg 1995b; Bloomberg 1995c; Graf 1999, table 4; Cypher 1996; Reuters 1996; World Bank 1995._ 
+
+The combined equity of the six banks totaled MXN 10.2 billion at the end of 1994 (22.8% of the system’s total equity) and decreased by about MXN 3 billion by the end of February 1995.[4] The banks’ average capitalization ratio fell from 8.1% to 5.8% in this period. PROCAPTE’s MXN 6.5 billion in issues increased the banks’ average capitalization ratio to 9.6% (Karaoglan and Lubrano 1995; World Bank 1995). Banks that did not seek PROCAPTE in the first round of recapitalizations were not excluded from applying in subsequent years (MXBU 1995). 
+
+Analysts expected a greater number of banks to participate in PROCAPTE. According to the CNBV, the banks that did not sell convertible bonds met reserve and capital requirements (Bloomberg 1995b). It is unclear from the research whether receiving new capital from shareholders was a precondition to participating in the program. 
+
+By the fall of 1995, only three banks remained in PROCAPTE, two of which were recapitalized through FOBAPROA's purchase of their loan portfolio and the other through an intervention (Karaoglan and Lubrano 1995). By June 1996, PROCAPTE holdings decreased to MXN 2.9 billion, with only two banks participating. By the end of 1996, this number rose to MXN 11.9 billion when one of the banks needed additional support. By June 1997, both banks had liquidated their debts. Of the six banks that participated in PROCAPTE, only two remained under control of their original shareholders; three were eventually taken over by the authorities, and the other was taken over by another bank (Graf 1999; OECD 1998). Overall, PROCAPTE concluded within a year, as participating banks secured private capitalizations or were part of other interventions (World Bank 1998). 
+
+In June 1995, Serfin left PROCAPTE after the bank repurchased MXN 3.2 billion of its mandatorily convertible subordinated debentures and raised MXN 2.17 billion in new capital (Reuters 1995a). A top Serfin official estimated that the bank’s capitalization level 
+
+> 4 Exchange rate on March 31, 1995, was MXN 6.82 = $1 (FRED 2020). 
+
+
+would surpass 9% once the operation was completed. He said that PROCAPTE gave the bank a capitalization ratio of more than 10% (Reuters 1995b). In June 1996, Confia also terminated its participation in PROCAPTE (Bloomberg 1997). 
+
+All PROCAPTE recapitalizations were repaid, except for the capital injected to Inverlat of MXN 1.4 billion, plus accrued interest of MXN 700 million. This was converted into equity shares of the bank. However, the value of these shares was zero, the balance was written off, and FOBAPROA recognized the losses (Mackey 1999). 
+
+Following the PROCAPTE recapitalization, the Mexican banking system began to attract foreign capital. Canada’s Scotiabank managed the operations of lnverlat with an option to acquire majority ownership in 2000. Citibank acquired Confia. All these transactions were facilitated by additional government support, most of it in the form of FOBAPROA’s purchases of troubled loans. Serfin, Mexico's third-largest bank, operated under an agreement in which HSBC acquired a 20% stake in the bank and played an active role in its management. Bital was largely controlled by a foreign financial institution. About 20% of the system’s assets were controlled by foreign financial institutions; including Serfin, the number would reach 30% (World Bank 1998). 
+
+## **II. Key Design Decisions** 
+
+## **1. Part of package: Following the peso devaluation in December 1994, Mexico implemented multiple programs to contain the crisis.** 
+
+On January 3, 1995, the Mexican government announced a limited economic program. The program, known as the Agreement of Unity to Overcome the Economic Emergency ( _Acuerdo de Unidad para Superar la Emergencia Económica_ ) committed the government to austerity, in hopes that the exercise would allow Mexico to access an IMF Stand-By Arrangement and reassure foreign investors (GAO 1996). Two months later, on March 3, 1995, the government announced a revised and much broader financial package that contained specific measures to strengthen the financial system. It included fiscal and monetary adjustments, programs to deal with troubled banks, and an increase in the social safety net. Mexico received financial support through a $52 billion loan package from the international financial community, of which the US Treasury Department contributed $20 billion, the International Monetary Fund $17.8 billion, and the Bank for International Settlements $10 billion, with the rest coming from other bilateral and multilateral sources (World Bank 1995). 
+
+The first program introduced to recapitalize the banks was the Temporary Capitalization Program (PROCAPTE) in February 1995. PROCAPTE was intended to be a temporary program and was followed by further government measures such as the Capitalization and Loan Purchase of Bank Portfolio Program (CLPP) (World Bank 1995; see YPFS case by Leon Hoyos and Nye 2021 on FOBAPROA's broad-based asset purchases). 
+
+
+## **2. Legal authority: The Mexican Congress amended the Law of Credit Institutions in February 1995 to provide for public recapitalizations.** 
+
+In February 1995, the Mexican Congress amended the Law of Credit Institutions to remove legal restrictions for injecting capital into banks. The subordinated debentures were issued in accordance with Article 4 of the Law of Credit Institutions (Mackey 1999). 
+
+The Temporary Capitalization Program (PROCAPTE) was announced through a Bank of Mexico circular of February 24, 1995, sent to commercial banking institutions and entered into effect on March 31, 1995 (World Bank 1995). 
+
+## **3. Purpose: PROCAPTE was introduced to support the banking system and temporarily capitalize banks.** 
+
+Through PROCAPTE, the Mexican government aimed to provide a strong signal that it was prepared to support the banking system. PROCAPTE was designed to temporarily recapitalize banks that, due to the economic situation, were unable to recapitalize themselves. 
+
+Banks had to deposit the cash from the temporary recapitalizations in the Bank of Mexico and could not use the cash proceeds from recapitalizations for new lending. However, the capital could be used to absorb losses if necessary. With this, the government aimed to demonstrate to the public, particularly foreigners, that it would not withdraw its support (Mackey 1999). 
+
+## **4. Administration: The Bank Fund for Savings Protection (FOBAPROA) administered PROCAPTE.** 
+
+FOBAPROA acted as the administrator of PROCAPTE (World Bank 1995, 50–51, 97; Mackey 1999). The Bank of Mexico managed PROCAPTE separately from other programs (World Bank 1995). 
+
+FOBAPROA was established in 1990[5] as a trust ( _fideicomiso_ ) managed by the Bank of Mexico. It served as a preventive support mechanism for commercial banks, as well as for savings protection. FOBAPROA was the government agency in charge of bank insolvencies (Graf 1999; World Bank 1995). It also played the roles of bank restructuring, deposit insurance, and in some cases, lender of last resort (World Bank 1995). FOBAPROA offered more than simple deposit insurance. It provided a blanket guarantee of all unsubordinated liabilities of the commercial banks (World Bank 1998). FOBAPROA had broad authority to provide credit to banks to help them fulfill their obligations to depositors and other liability holders (World Bank 1995). 
+
+> 5 FOBAPROA is regulated by Article 122 of the Credit Institutions Law (Ley de Instituciones de Crédito), which became effective on July 18, 1990 and governs commercial and development banks (World Bank 1995). 
+
+
+The Bank of Mexico managed the day-to-day operations of FOBAPROA. Meanwhile, FOBAPROA’s policy decisions were made by its nine-member Technical Committee: four from the Ministry of Finance, one being the Minister; three from the Bank of Mexico, one being the Governor; and two from the CNBV, one being the President (World Bank 1995). The chairman of the Technical Committee was from the Ministry of Finance and held the deciding vote (Mackey 1999). Although the CNBV contributed only two members to the Committee, it was mainly the CNBV, with the support of FOBAPROA staff, that prepared the technical documents that set the foundation for the decisions of the Technical Committee. The Bank of Mexico acted as the trustee of FOBAPROA, responsible for carrying out the Technical Committee’s resolutions and signed all agreements involving FOBAPROA’s financial assistance (Mackey 1999). 
+
+FOBAPROA had the right to request a review performed by the CNBV or an external auditor of the accounting records of a participant bank while the bank participated in the program or for six months after its participation. Conversion rates could be adjusted based on the results these reviews (World Bank 1995). 
+
+Eduardo Fernandez, former President of the CNBV, said that during the crisis, a tripartite committee not recognized in law operated permanently as an organ of decision and execution. It was integrated by the Ministry of Finance and Public Credit, the Bank of Mexico (including FOBAPROA), and the National Banking and Securities Commission (CNBV) in which the CNBV served as the coordinator of this ad-hoc committee and matters were resolved in a very dynamic way. 
+
+**5. Size and timing: On March 31, 1995, six banks were recapitalized, including three of the five largest Mexican banks.** 
+
+On March 31, 1995, six banks were recapitalized, including Serfin, Inverlat, and Bital—the third-, fourth-, and fifth-largest banks in Mexico. The overall amount was $950 million. The size of the issue for each bank was sufficient to raise the capital level of each to 9% (World Bank 1995). The banks’ average capitalization ratio increased from 5.8% to 9.6% (Karaoglan and Lubrano 1995; World Bank 1995). 
+
+**6. Source of funding: PROCAPTE was funded by the Bank of Mexico through a loan by the World Bank and the Inter-American Development Bank.** 
+
+PROCAPTE was funded by the Bank of Mexico (World Bank 1995). The central bank offset the monetary impact of the program by requiring banks to deposit compensating reserves with the central bank (OECD, 1995). 
+
+PROCAPTE was created principally through a loan of $3.25 billion provided by the InterAmerican Development Bank and the World Bank. Of that, $2.25 billion went directly to support the banking system, and $1 billion was directed toward helping banks support government social programs. The two international institutions, together with Mexican authorities, agreed to strengthen accounting and public reporting standards and conduct regular audits of their accounts to ensure the solvency of Mexican banking system (DJ 1995). 
+
+
+Eduardo Fernandez, former President of the CNBV, said that funding for PROCAPTE was never required from the loan made available by the World Bank and the Inter-American Development Bank. 
+
+**7. Eligible institutions: All Mexican commercial banks receiving shareholder approval could apply to PROCAPTE; banks with inadequate capital who chose not to participate faced mandatory recapitalization or charter suspension.** 
+
+Participation in PROCAPTE was voluntary and open to all Mexican commercial banks. However, banks whose capital fell below 8% of risk-weighted assets faced mandatory recapitalization by FOBAPROA or the loss of their banking charter if they did not participate. 
+
+Banks seeking PROCAPTE assistance were required to submit a letter signed by the bank’s general manager during the last week of the month prior to receiving the recapitalization, with the obligation of later providing the financial details required by FOBAPROA and also the stockholder’s approval of corresponding agreements. The agreements for the issuance of the convertible debentures included recognizing any losses suffered before the conversion date. Shareholders of undercapitalized banks were required to submit a recapitalization plan within one month. If they did not, PROCAPTE would impose a recapitalization (World Bank 1995). 
+
+## **8. Capital characteristics: Banks issued subordinated debentures to FOBAPROA, mandatorily convertible after five years into equity shares.** 
+
+Through PROCAPTE, banks issued subordinated debentures to FOBAPROA in accordance with Article 4 of the Law of Credit Institutions. These were convertible into equity shares (common stock) with voting rights after five years. FOBAPROA could convert the debentures earlier if the bank’s capital fell below 2% of risk-weighted assets or if its capitalization ratio deteriorated at a rate exceeding the rate of deterioration of the rest of the PROCAPTE banks by more than 25% (World Bank 1995). After five years, any unpaid amounts would be converted to ordinary capital and sold by the government. PROCAPTE aimed to support banks rather than shareholders and did not intend to handle insolvencies (OECD 1995). 
+
+FOBAPROA bought the subordinated debentures with cash. However, banks had to deposit and maintain the cash proceeds in an account at the Bank of Mexico for the duration of the recapitalization (see Figure 2). The Bank of Mexico paid interest on the accounts at the same rate as the rate on the debentures. As a result, the debt was essentially costless to participating banks. The size of the issues were such that bank capital levels floated above 9% (World Bank 1995). 
+
+Banks participating in PROCAPTE had to maintain a capital ratio of at least 9% of net capital to risk-weighted assets (World Bank 1995). Banks were allowed to count the debentures to fulfill regulatory capital requirements (World Bank 1998). This requirement could be decreased to 8.5% if this decrease was the result of the establishment of preventive reserves. If a bank remained in trouble, the government could take over the 
+
+
+bank. If the capital ratio fell below 8.5%, FOBAPROA would acquire more subordinated debentures to reach the 9%. If a bank’s capitalization ratio increased above 9%, the bank could redeem, partially or fully, the subordinated debentures held by FOBAPROA before their conversion (Karaoglan and Lubrano 1995). The administrators of PROCAPTE reserved the right, in the event that market conditions improved, to demand that the bank recapitalize itself by purchasing all or part of the subordinate debentures upon one year’s notice (World Bank 1995). 
+
+The issuer could acquire all or part of the debentures in the same proportion that it raised its capitalization level. The capitalization needed to support any growth had to come from the bank's own resources, such as profits and surplus, or from subordinated debentures not convertible into stock (World Bank 1995). 
+
+Banks were not allowed issue dividends, additional capital debt, or additional mandatorily convertible subordinated debentures until they repaid FOBAPROA or unless these were issued aligned with PROCAPTE (Mackey 1999; World Bank 1995). 
+
+## _**Conversion terms**_ 
+
+FOBAPROA set the following formula for converting the subordinated debentures into equity. The institution would deliver the amount of shares resulting from the application of the following formula: 
+
+
+[FIGURE id=vol3_iss3_22_f5 type=figure label="Exhibit 5" file=exhibit_5.png caption=""]
+![Exhibit 5](assets/vol3_iss3_22/exhibit_5.png)
+
+
+
+
+Where: 
+
+NA = Number of shares acquired as a result of the conversion. 
+
+CC = The accounting capital on the last day of the month preceding the conversion date, or the arithmetic average of the accounting capital on the last day of the three months preceding that date, whichever was less. The CNBV and an external auditor had to approve the statistics. 
+
+OS = Amount of the debentures issued for PROCAPTE added with their yields. 
+
+A = Number of shares in circulation on the conversion date. If a bank had issued other mandatory convertible debentures, the amount obtained by applying the conversion formula agreed would be added to the number of shares. 
+
+PROCAPTE was designed such that, under normal circumstances, FOBAPROA would not convert the debentures. But if FOBAPROA did exercise its right of conversion, it would dispose of the shares as soon as possible (World Bank 1995). 
+
+## **9. Other conditions: Participating banks were subject to tighter supervision.** 
+
+PROCAPTE banks were subject to tighter supervision from the CNBV. Institutions suspended dividend payments and limited new loans (World Bank 1995). 
+
+
+## **10. Exit strategy: Banks could exit PROCAPTE by injecting new capital before the five-year term of the debentures expired.** 
+
+To exit PROCAPTE, banks had to inject new capital before the five-year term of the mandatorily convertible debentures expired. Some banks were able to do so with additional government support via the Capitalization and Loan Purchase of Bank Portfolio program (CLPP). Other banks failed to raise capital and were taken over by FOBAPROA, with the CNBV intervening in some cases (Mackey 1999). 
+
+FOBAPROA could convert the debentures earlier if the bank’s capital fell below 2% of riskweighted assets or if its capitalization ratio deteriorated at a rate exceeding the rate of deterioration of the rest of the PROCAPTE banks by more than 25%. When FOBAPROA reached the status of majority shareholder of a bank, it would dilute or replace completely the previous shareholders and restructure the bank. To minimize this transitory situation, FOBAPROA would establish principles and programs for the resolution, restructuring, and sale of those banks. FOBAPROA followed several objectives in this process: to reduce systemic risk; to ensure safety and soundness of banks and saving institutions, and not shareholders; to promote public confidence; to minimize restructuring costs; to prevent interventions by acting in a timely fashion; and to minimize public-sector participation (World Bank 1995). 
+
+PROCAPTE was designed such that, under normal circumstances, FOBAPROA would not convert the debentures. But if FOBAPROA did exercise its right of conversion, it would dispose of the shares as soon as possible (World Bank 1995). 
+
+## **11. Fate of banks’ existing board and management: If participating banks’ capital ratio dropped below a certain threshold, FOBAPROA could replace management.** 
+
+If a bank’s capital adequacy ratio fell below zero, FOBAPROA would convert the subordinated debentures and replace the bank’s management. FOBAPROA would become the owner of the bank through the write-off of the previous capital and the subscription of a new capital issue. FOBAPROA then would put in place a program to recapitalize or rehabilitate, close, liquidate, sell, or merge the banks under its control (World Bank 1995). 
+
+This was based upon the World Bank’s advice that retaining the same management and ownership during a recapitalization “is likely to be unfair and perverse, because it would provide incentives for bad management; and ineffective, since the same problems are likely to recur” (World Bank 1995). 
+
+**12. Changes in relevant regulation: To foster the entry of new capital, the Mexican Congress, at the urging of the authorities, modified bank ownership laws to permit foreign financial institutions to take control of troubled domestic banks.** 
+
+At the request of Mexican authorities, the Mexican Congress modified bank ownership laws to allow foreign financial institutions to control domestic banks that were in trouble. This accelerated the opening of Mexico's banking system to foreign participation (World Bank 1998). 
+
+
+## **III. Evaluation** 
+
+Initially, financial markets were rattled, as the Mexican government seemed slow to respond, announcing only a limited economic program on January 3, 1995. Two months later, on March 3, 1995, the government announced a revised and much broader financial package that contained specific measures to strengthen the financial system. It included fiscal and monetary adjustments, programs to deal with troubled banks, and an increase in the social safety net (World Bank 1995). 
+
+The introduction of PROCAPTE was met with mixed reactions. Although many bankers celebrated the effort to create a new source of capital for struggling banks, they expressed concern that the new system would increase government’s influence over commercial banks (LAD 1995a). One banking analyst commented that “the problem was that PROCAPTE involvement was not widely understood . . . . Banks which entered into the scheme acquired a sort of stigma, which damaged confidence” (Dombey 1995). The President of the CNBV added another perspective: “The only way current stockholders can maintain their control of the banks is if they inject fresh capital, otherwise their stake will be diluted in favor of FOBAPROA” (Dombey 1995). 
+
+Moreover, the PROCAPTE Temporary Recapitalization Program was criticized because bad loans remained in the banks and the Bank of Mexico kept substantial sums of bank debt, convertible into equity after five years (Dombey 1995). In August 1995, Standard & Poor's assessed that PROCAPTE helped restore investor confidence during the difficult early months of 1995 and offered an opportunity to shareholders to restore their banks’ capital to adequate levels over the course of five years. The disadvantage was that “. . . it provided no cash to the banks, and a five-year period to restore capital to minimum levels could be viewed as generous” (WE 1995). 
+
+Mackey (1999) comments that, while PROCAPTE sent a clear message that the government was ready to support the banking system as a whole, the market did not appear to view the participation of the individual banks in PROCAPTE as a positive measure. The market considered participation as a sign of weakness or as a prelude to intervention. This perception caused some banks to avoid participation in the program entirely and other banks to end their participation in the program in a shorter period than expected. 
+
+Because of the negative public perception regarding participation in PROCAPTE, banks attempted to avoid participation by increasing their capital on their own. However, many banks were unable to raise capital during this period. As a result, additional measures were required following PROCAPTE. 
+
+PROCAPTE was not designed to provide new, permanent capital on its own. Mackey (1999) concludes by noting that 
+
+While the temporary capital could not be utilized by the banks because the proceeds of the subordinated debentures were required to be deposited in the central bank, such capital was available to be used to absorb losses (if required) and this was considered important 
+
+
+in demonstrating, especially to foreigners, that the government would not withdraw its support from the banks. 
+
+Mackey also states that the banks “essentially complied with the program and the supervision of the program was adequate. Overall, PROCAPTE appears to have been relatively effective if compared to its narrowly defined objectives of sending a clear message to the market that the government would support the banks” (Mackey 1999). 
+
+Eduardo Fernandez, former President of the CNBV said that PROCAPTE bought precious time for the Mexican government to attract new capital, without injecting a single peso to the banking system. Banks were “legally recapitalized,” the domestic run was avoided, and the external funding of the largest Mexican banks was maintained. The rating agencies did not downgrade the Mexican banking system excessively. While in the meantime, by different means, banks were able to strengthen their capital base. 
+
+
+## **IV. References** 
+
+Bloomberg. 1995a. “Mexico Bails Out Six Banks With $957 Million Loan.” _Bloomberg News_ , March 31, 1995. https://ypfs.som.yale.edu/library/mexico-bails-out-six-banks-957million-loan. 
+
+———. 1995b. “Mexico to Help Six Banks Raise 6.49 Billion Pesos in Capital.” _Bloomberg News_ , March 31, 1995. https://ypfs.som.yale.edu/library/mexico-help-six-banks-raise649-billion-pesos-capital. 
+
+———. 1995c. “Mexico’s Banorte Agrees to Acquire Banco Del Centro.” _Bloomberg News_ , August 24, 1995. https://ypfs.som.yale.edu/library/mexicos-banorte-agrees-acquirebanco-del-centro. 
+
+———. 1997. “ABACO Financial Group Announces Fourth Quarter and Year-End Results.” _Bloomberg News_ , February 21, 1997. https://ypfs.som.yale.edu/library/abaco-financialgroup-announced-fourth-quarter-and-year-end-results. 
+
+Cull, Robert, Maria Soledad Martinez Peria, and Jeanne Verrier. 2018. “Bank Ownership: Trends and Implications _._ ” World Bank Policy Research Working Paper No. 8297, January 2018.  https://ypfs.som.yale.edu/library/bank-ownership-trends-and-implications. 
+
+Cypher, James M. 1996. “Mexico: Financial Fragility or Structural Crisis?” _Journal of Economic Issues_ 30, No. 2: 451–61. https://ypfs.som.yale.edu/library/mexico-financialfragility-or-structural-crisis. 
+
+Dow Jones (DJ). 1995. “Mexico To Get $3.25 Billion For Fobaproa Fund In Part.” _Dow Jones News Service_ , March 9, 1995. https://ypfs.som.yale.edu/library/mexico-get-325-bliionfobaproa-fund-part. 
+
+Dombey, Daniel. 1995. “Serfin Scheme May Be Inadequate: Can Mexico Afford to Subsidize Its Banking Sector?” _American Banker. LDC Debt Report_ , June 19, 1995. https://ypfs.som.yale.edu/library/serfin-scheme-may-be-inadequate-can-mexico-affordsubsidize-its-banking-sector. 
+
+Federal Reserve Economic Data (FRED). 2020. “Mexico/US Foreign Exchange Rate (DEXMXUS).” https://ypfs.som.yale.edu/library/mexico-us-foreign-exchange-ratedexmxus. 
+
+Financial Times (FT). 1995. “Harsh World for Mexican Banks.” _Financial Times_ , March 6, 1995.https://ypfs.som.yale.edu/library/harsh-world-mexican-banks. 
+
+General Accounting Office (GAO). 1996. “Mexico's Financial Crisis: Origins, Awareness, Assistance, and Initial Efforts to Recover: Report to the Chairman, Committee on Banking and Financial Services, House of Representatives.” Washington, D.C.: General Accounting Office.  https://ypfs.som.yale.edu/library/mexicos-financial-crisis-origins-awarenessassistance-and-initial-efforts-recover. 
+
+
+Graf, Pablo. 1999. “Policy Responses to the Banking Crisis in Mexico.” _BIS Policy Series_ , 10. https://ypfs.som.yale.edu/library/policy-responses-banking-crisis-mexico. 
+
+Gutscher, Cecile. 1995. “Banpais Gets Bailout: But Will Fobaproa Have Enough for All?” _American Banker. LDC Debt Report_ , March 13, 1995. 
+
+https://ypfs.som.yale.edu/library/banpais-gets-bailout-will-fobaproa-have-enough-all. 
+
+Haber, Stephen, and Aldo Musacchio. 2013. “These _Are_ the Good Old Days: Foreign Entry and the Mexican Banking System.” Harvard Business School Working Paper No. 13-062. January 10, 2013. https://ypfs.som.yale.edu/library/these-are-good-old-days-foreignentry-and-mexican-banking-system. 
+
+Karaoglan, Roy A., and Mike Lubrano. 1995. “Mexico’s Banks after the December 1994 Devaluation—A Chronology of the Government’s Response Symposium: The New American Debt Regime.” _Northwestern Journal of International Law & Business_ 16, No. 1: 24–43. https://ypfs.som.yale.edu/node/4200. 
+
+Latin American Database (LAD). 1995a. “Banking Sector Facing Increasing Strain from Peso Devaluation.” _Latin American Database. Sourcemex Economic News & Analysis on Mexico_ , March 8, 1995. https://ypfs.som.yale.edu/library/banking-sector-facing-increasing-strainpeso-devaluation. 
+
+———. 1995b. “Six Banks Receive Assistance from State-Run Bank Capitalization Fund.” _Latin American Database. Sourcemex Economic News & Analysis on Mexico_ , April 12, 1995. https://ypfs.som.yale.edu/library/six-banks-receive-assistance-state-run-bankcapitalization-fund. 
+
+Leon Hoyos, Manuel and Nye, Alexander. 2021. "Mexico: FOBAPROA Capitalization and Loan Purchase of Bank Portfolio Program (CLPP)," The Journal of Financial Crises: Vol. 3: Iss. 2, 301-319. https://elischolar.library.yale.edu/journal-of-financialcrises/vol3/iss2/15. 
+
+Mackey, Michael W. 1999. “Report of Michael W. Mackey on the Comprehensive Evaluation of the Operations and Functions of the Fund for the Protection of Bank Savings ‘FOBAPROA’ and Quality of Supervision of the FOBAPROA Program 1995–1998.” https://ypfs.som.yale.edu/node/4532. 
+
+Musacchio, Aldo. 2012. “Mexico’s Financial Crisis of 1994–1995.” _Harvard Business School Working Paper_ , No. 12–101: 29. https://ypfs.som.yale.edu/library/mexicos-financial-crisis1994-1995. 
+
+MXBU. 1995. “Banking/Finance: Bank Funding.” Mexico Business Monthly, May 1, 1995. https://ypfs.som.yale.edu/library/bankingfinance-bank-funding. 
+
+Organisation for Economic Co-operation and Development (OECD). 1995. “OECD Economic Surveys: Mexico 1995.” https://ypfs.som.yale.edu/library/oecd-economic-surveys-mexico1995. 
+
+
+———. 1998. “OECD Economic Surveys: MEXICO 1998.” https://ypfs.som.yale.edu/library/oecd-economic-surveys-mexico-1998. 
+
+Reuters. 1995a. “Mexico’s Serfin Mixed on Restructuring,” June 13, 1995. https://ypfs.som.yale.edu/library/mexicos-serfin-mixed-restructuring. 
+
+———. 1995b. “Serfin to Keep Capitalization above 9 Percent,” June 14, 1995. https://ypfs.som.yale.edu/library/serfin-keep-capitalization-above-9-percent. 
+
+———. 1996. “BBV Buys Mexico’s Cremi, Oriente Branches,” August 8, 1996. https://ypfs.som.yale.edu/library/bbv-buys-mexicos-cremi-oriente-branches. 
+
+Worldtrade Executives (WE). 1995. “Mexican Banks Shift Bad Debt to Government.” _Worldtrade Executives. U.S. Mexico Free Trade Reporter_ , August 21, 1995. https://ypfs.som.yale.edu/library/mexican-banks-shift-bad-debt-government. 
+
+Whitt, Joseph A. 1996. “The Mexican Peso Crisis.” _Economic Review. Federal Reserve Bank of Atlanta_ , 20. https://ypfs.som.yale.edu/library/mexican-peso-crisis. 
+
+World Bank. 1995. “Report No. 9-6616-ME. Report and Recommendation of the President of the International Bank for Reconstruction and Development to the Executive Directors on a Proposed Loan in an Amount Equivalent to US$1,000 Million to Nacional Financiera, S.N.C with the Guarantee of the United Mexican States for a Financial Sector Restructuring Program.”https://ypfs.som.yale.edu/library/report-no-9-6616-me-recommendation-andproposed-loan-us1000-million-national-financiera. 
+
+———. 1998. “Report No. 18012 – Mexico – Financial Sector Restructuring Loan Project [Loan 3911-ME].” Report No. 18012. https://ypfs.som.yale.edu/library/report-no-18012mexico-financial-sector-restructuring-loan-project-loan-3911-me. 
+
+Wall Street Journal (WSJ). 1995. “Mexico Overhauls Banks Amid Turmoil - Takeover of Banpais Is Latest Result of Effort.” _Wall Street Journal_ , March 6, 1995, US edition. https://ypfs.som.yale.edu/library/mexico-overhauls-banks-amid-turmoil-takeoverbanpais-latest-result-effort. 
+
+## **V. Key Program Documents** 
+
+## **Legal/Regulatory Guidance** 
+
+(World Bank 1995) Report No. 9-6616-ME. Report and Recommendation of the President of the International Bank for Reconstruction and Development to the Executive Directors on a Proposed Loan in an Amount Equivalent to US$1,000 Million to National Financiera, S.N.C with the Guarantee of the United Mexican States for a Financial Sector Restructuring Program 
+
+_World Bank report of Mexican government programs in the Mexican peso crisis._ https://ypfs.som.yale.edu/library/report-no-9-6616-me-recommendation-and-proposedloan-us1000-million-national-financiera. 
+
+
+(World Bank 1998) Mexico - Financial Sector Restructuring Loan Project [Loan 3911-ME].” Report No. 18012 
+
+_World Bank report of Mexican government programs in the Mexican peso crisis._ https://ypfs.som.yale.edu/library/report-no-18012-mexico-financial-sector-restructuringloan-project-loan-3911-me. 
+
+## **Media Stories** 
+
+(Bloomberg 1995a) Mexico Bails out Six Banks With $957 Million Loan _News article reporting the action of Mexico’s central bank to help recapitalize 6 banks_ . https://ypfs.som.yale.edu/library/mexico-bails-out-six-banks-957-million-loan. 
+
+(Bloomberg 1995b) Mexico to Help Six Banks Raise 6.49 Billion Pesos in Capital _News article reporting the start of the PROCAPTE program to help recapitalize banks._ https://ypfs.som.yale.edu/library/mexico-help-six-banks-raise-649-billion-pesos-capital. 
+
+## **Reports/Assessments** 
+
+(Graf 1999) Policy Responses to the Banking Crisis in Mexico 
+
+_Comprehensive paper detailing the Mexican government’s response to the 1994–1995 Mexican peso crisis._ https://ypfs.som.yale.edu/library/policy-responses-banking-crisismexico. 
+
+(Mackey 1999) Report of Michael W. Mackey on the Comprehensive Evaluation of the Operations and Functions of the Fund for the Protection of Bank Savings ‘FOBAPROA’ and Quality of Supervision of the FOBAPROA Program 1995-1998 
+
+_Comprehensive report conducted by Michael W. Mackey on the Mexican government programs._ 
+
+https://ypfs.som.yale.edu/node/4532. 
+
+
+Copyright 2021 © Yale University. All rights reserved. To order copies of this material or to receive permission to reprint any or all of this document, please contact the Yale Program on Financial Stability at ypfs@yale.edu.

@@ -1,0 +1,53 @@
+## Yale Program on Financial Stability Lessons Learned 
+
+## Veerathai Santiprabhob 
+
+By Maryann Haggerty 
+
+_Veerathai Santiprabhob was the governor of the Bank of Thailand from 2015 to 2020, a period that included the onset of the COVID-19 pandemic. Earlier in his career, he was an economist at the International Monetary Fund. At the time of the 1997–1998 Asian Financial Crisis, he returned to his home country to take a position at the Ministry of Finance. There, he was involved with the government response to that financial crisis. From 2000 to 2015, he held private-sector finance jobs before going to lead the Bank of Thailand. This Lessons Learned is based on an interview with Santiprabhob in October 2021; the full transcript can be accessed here._ 
+
+## **During a crisis, it is critical that the central bank have good data.** 
+
+Without good data, planning for and reacting to crises are both hobbled, Santiprabhob said. He explained, 
+
+When we entered the 1997 financial crisis, key data were not there. So, we could not accurately diagnose the problems and prescribe what needed to be done in a timely manner. Thus, the first thing is to ensure that we have good and comprehensive information on the health of the financial system. And it has to be detailed information bank by bank and go deep into different types of businesses that they are involved with. 
+
+I’ll give you an example. During the 1997 financial crisis, some of the reporting standards that we used were not up to the international standards. For instance, classifications of nonperforming loans [NPLs] were based on 12-month nonpayment, while international standards for nonperforming loans were based on three-month nonpayment. When the crisis hit, everyone thought that the banks were in fine shape, but indeed, they were not. The true size of the NPLs was much larger than what we had thought before. Therefore, when planning for a crisis, it's very important that we look at all the possible data that could indicate the true health of financial institutions. 
+
+## **When doing crisis planning, think about chain effects; contagion is a material risk.** 
+
+Crisis planning requires thinking about “chain effects,” Santiprabhob cautioned, considering “how problems of one bank or one financial institution could lead to the others and spread to the financial system at large.” He said: 
+
+We have a slogan at the Bank of Thailand when we think of these issues: Detect the smoke quickly, put out the fire as quickly as we can, and stop the fire from spreading. Therefore, we always ask these questions when we do crisis planning. How can we detect the smoke quickly? How can we put out the fire, and how can we ring-fence that so that it won’t spread through the network? 
+
+
+Both planning and data collection need to look beyond banks, he emphasized. Problems may begin outside banks, as they did in the Global Financial Crisis. He pointed to the nonbank financial activities of big banks, which were common in Thailand, where banks also sell mutual fund and insurance products to their deposit customers. Central bankers must be aware of the activities of large nonfinancial corporations, which can have systemic impacts as borrowers. 
+
+According to Santiprabhob, the impacts of technology also require attention in crisis planning: “I’m not talking only about cybersecurity risks—but think of how new types of crypto assets and financial transactions based on smart contracts and blockchain could have implications for the financial system during normal time and crisis time.” He believes that good visibility and understanding of modern financial technology is critical not just because of cybersecurity concerns, but also because of the role of technologies such as payment systems. 
+
+## **During a crisis, credible public disclosure is key to enhance the crisis response and reinforce the central bank’s independence.** 
+
+In 1997, Santiprabhob said, credible communication with the public was needed to prevent panic from escalating, but insufficient data complicated the situation. He explained, 
+
+The problem at that time was the inability of the public to differentiate between insolvent and solvent finance companies. Obviously, during a panic, there were thousands of rumors. But then it was also very difficult for the authorities to differentiate between the solvent and insolvent ones, because the situation was very fluid. When there was a severe shortage of liquidity, interest rates went up very high. Financial institutions started to hoard their liquidity, not lending to other financial institutions. Then good finance companies that had a severe liquidity shortage could also become insolvent. 
+
+And this is related to the point that I made early on about the importance of data. We didn’t have proper data on the true health of the financial system. And we had not disclosed them on a regular basis before the crisis. So, by disclosing sensitive data during a crisis, it could trigger even more panic. But it would not be possible to build public confidence without disclosing important data. . . . The authority had to weigh very carefully what to disclose, how to disclose, and what would be the outcome of the disclosure. It’s not disclosing information alone; we had to disclose information together with supportive measures, the necessary measures that would calm the market and address the true questions in the minds of the public. 
+
+In a time of crisis, what’s important is “communication on the measures that authorities would like to implement, the rationales of these measures, the expected outcomes, and whether these measures have met the objectives,” he said. Another thing to be clear about is the health of banks and financial institutions. Santiprabhob explained that in a crisis , no one wanted to see a bank or financial institution fail, but, he cautioned, “If there is a problem in 
+
+
+the financial system leading to a crisis, there is no way that we can help every financial institution.” 
+
+One thing that I learned from the different crises is that we need to separate the good ones [financial institutions] from the not so good ones right from the beginning with very clear criteria. And that’s how the authorities can establish credibility in the eyes of the public. 
+
+## **The central bank must be seen as professional, not political.** 
+
+Financial system regulators and central bankers must work with a nation’s fiscal and political authorities in times of financial crisis, Santiprabhob said, because those authorities control resources. At the same time, regulators must maintain professional independence. 
+
+When a crisis gets enlarged, when you have to do large-scale financial sector restructuring with someone providing financial backstop, or when you need to change or amend certain laws to address a financial crisis like announcing a blanket deposit guarantee, obviously you have to bring in the fiscal authorities and the government. From the outset of a financial crisis, we need to keep the government informed of our analysis and measures. What needs to be seen by the public is that these measures are based on professionalism of the regulators without political interference. 
+
+One thing that I learned from my times as the governor, when I had to deal with turmoil in money markets and mutual funds, is that I had to emphasize to the public and politicians that our measures were proposed purely by the central bank. It was important to take away the perceptions that the central bank might have been ordered or requested by the government to come up with special facilities to help certain companies or certain groups of investors. 
+
+Dated: December 2022 
+
+YPFS Lessons Learned No. 2021–24

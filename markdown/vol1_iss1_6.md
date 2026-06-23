@@ -1,0 +1,288 @@
+## The Lehman Brothers Bankruptcy E: The Effects on Lehman’s U.S. Broker-Dealer[1] 
+
+## _Rosalind Z. Wiggins[2] Andrew Metrick_[3] 
+
+Yale Program on Financial Stability Case Study 2014-3e-v1 October 1, 2014, Revised: July 13, 2015 
+
+## **Abstract** 
+
+Lehman’s U.S. broker-dealer, Lehman Brothers Inc. (LBI), was excluded from the parent company’s bankruptcy filing on September 15, 2008, because it was thought that the solvent subsidiary might be able to wind down its affairs in a normal fashion. However, the force of the parent’s demise proved too strong, and within days, LBI and dozens of Lehman subsidiaries around the world were also in liquidation. As a regulated broker-dealer, LBI was required to comply with the Securities and Exchange Commission financial-responsibility rules for broker-dealers, including maintaining customer assets separately. However, the corporate complexity and enterprise integration that characterized the Lehman group conflicted with this mandate. Omnibus cash accounts and wide-flung assets complicated the liquidation. It became clear in the course of the liquidation that the broker-dealer rules did not adequately address these issues or others raised by the infrastructure complexity and global reach of the companies to which they applied. This led some observers to question whether the rules should be revised and whether the broker-dealer should be excluded from all but minimal integration into the holding company’s non-regulated businesses. 
+
+> 1 References in this case study are hyperlinked to original sources wherever possible. This case study is one of eight Yale Program on Financial Stability (YPFS) case modules considering the Lehman Brothers Bankruptcy: 
+
+- _The Lehman Brothers Bankruptcy A: Overview._ 
+
+- _The Lehman Brothers Bankruptcy B: Risk Limits and Stress Tests_ 
+
+- _The Lehman Brothers Bankruptcy C: Managing the Balance Sheet Through the Use of Repo 105_ 
+
+- _The Lehman Brothers Bankruptcy D: The Role of Ernst & Young_ 
+
+- _The Lehman Brothers Bankruptcy E: The Effects on Lehman’s U.S. Broker-Dealer_ 
+
+- _The Lehman Brothers Bankruptcy F: Introduction to the ISDA Master Agreement_ 
+
+- _The Lehman Brothers Bankruptcy G: The Special Case of Derivatives_ 
+
+- _The Lehman Brothers Bankruptcy H: The Global Contagion_ 
+
+Cases are available from the Journal of Financial Crises. 
+
+> 2   Director, The Global Financial Crisis Project and Senior Editor, YPFS, Yale School of Management. **The authors acknowledge the helpful comments of Giulio Girardi.** 
+
+> 3   Michael H. Jordan Professor of Finance and Management, and YPFS Program Director, Yale School of Management 
+
+
+## **1.   Introduction** 
+
+At the time of its bankruptcy, Lehman Brothers was the fourth largest United States (U.S.) investment bank with assets of $639 billion and revenues of $4.4 billion. Although appearing outwardly as one integrated company, Lehman was actually a complex network of thousands of separate entities. One reason for this structure was to provide containment in the case of a rupture in any part of the company. However, once its parent company, Lehman Brothers Holdings Inc. (LBHI), began having trouble and then filed for bankruptcy on September 15, 2008, third parties only saw one Lehman without distinction and aggressively acted to protect their interests against any Lehman-related entity. 
+
+Lehman Brothers Inc. (LBI), Lehman’s U.S. broker-dealer, was excluded from the parent company’s bankruptcy because it was thought that the solvent company would be able to wind down its affairs in a normal fashion. However, the actions of customers and counterparties to avoid Lehman and protect their interests greatly exacerbated LBI’s efforts to stay afloat. Moreover, LBHI’s bankruptcy compelled the United Kingdom (U.K.) regulator of that time, the Financial Services Authority (FSA), to take Lehman’s U.K. broker-dealer subsidiary, Lehman Brothers International (Europe) (LBIE), into administration. This meant that LBI could not settle billions of dollars in open trades with LBIE. Within days the Securities Investor Protection Corporation (SIPC) decided that it had no option but to liquidate LBI. Its separateness had not protected it. 
+
+As a regulated broker-dealer, LBI had to comply with Securities and Exchange Commission (SEC) financial responsibility rules for broker-dealers, which required among other things, that it maintain certain capital reserves, segregate customer accounts, and limit its dealings with affiliate companies. In addition, the Lehman group was regulated by the SEC under its consolidated supervised entity (CSE) program. Yet, Lehman administered many functions on an enterprise-wide manner that meant omnibus customer accounts, global cash management, and rehypothecation of securities that disbursed them throughout the organization and sent them out of the country. 
+
+Although the liquidation of LBI eventually returned 100% of the value of accounts to customers,[4] the time and difficulty it took to complete raised questions about the effectiveness of the system and how well it fit the infrastructure complexity and global reach of the companies it governed. This module (1) introduces participants to the complex corporate structure maintained by large investment banks such as Lehman and the reasons why such structures exist, (2) explores the pros and cons of such a structure, (3) examines interconnectedness between Lehman and its U.S. and U.K. broker-dealers as examples of how these structures operate and their consequences, and (4) considers what challenges complex corporate structures pose for regulators. 
+
+The balance of this case is organized as follows: Section 2 discusses the reasons for and challenges of a complex corporate structure; Section 3 describes LBI, the Lehman U.S. broker-dealer; Section 4 explains how LBI was regulated; Section 5 describes Lehman’s U.K. broker-dealer; and Section 6 concludes by discussing the ramifications of Lehman’s bankruptcy on its subsidiary broker-dealers. 
+
+_____________________________________________________________________ 
+
+> 4 Compare this figure to the estimated 21 cents on the dollar that general unsecured creditors are expected to receive from the bankruptcy proceeding (Louis 2011). 
+
+
+## **Questions** 
+
+1. Should the SEC have acted to protect the broker-dealer from its parent’s risky actions? 
+
+2. What could it have done? 
+
+3. Should greater separation from the parent be required? 
+
+4. How can regulators better evaluate risks stemming from group interconnections? 
+
+5. Is the current system of broker-dealer liquidation effective given the global reach and complexity of today’s organizations? 
+
+## **2.   Why a Complex Corporate Structure?** 
+
+Although they outwardly appear as unified companies, most large multinational businesses, such as Lehman, are really multi-tiered networks of entities, collections of corporations, limited liability corporations (LLCs), partnerships, and special-purpose entities. By 2008, Lehman was a sophisticated global financial enterprise sitting atop a multi-tiered corporate structure that comprised 8,000 legal entities in 40 countries. Most customers undertook business with the enterprise without knowing exactly with which subsidiary they were contracting business. Many did not care, since the regular use of guarantees (by the parent) and cross-default provisions often minimized the risk that some small affiliate might fail to perform. (See Lehman Brothers 2007 summarizing Lehman’s corporate structure.) 
+
+## _**Limited Liability**_ 
+
+Large multinational corporations structure themselves as corporate webs for a number of reasons. One of the most significant reasons is that by separating the business into small legal parts, corporations are able to contain exposures and limit liabilities. Inherent in the corporate form is its identity as an entity separate from its owners or shareholders. Shareholders’ liability to third parties doing business with the corporation is limited to the amount of their investment (shareholders’ equity). In theory, a customer doing business with Lehman would be limited to seeking redress from the particular company named in its agreement and would not have access to the greater assets of the entire group.[5] However, as noted above, the use of guarantees and cross-default provisions served to neutralize most of this limited liability. 
+
+## _**Regulatory Arbitrage**_ 
+
+A second reason influencing corporate structure is that corporations situate businesses where they can take the greatest advantage of regulatory and tax schemes. Sometimes termed “regulatory arbitrage,” this practice enables businesses to maximize profits while minimizing the impact that taxes and regulatory costs have on the business. For example, when Lehman was unable to find a U.S. law firm to give a “true sale” opinion regarding its Repo 105 transactions, its U.K. subsidiary secured such an opinion from a U.K. firm and 
+
+> _____________________________________________________________________ 
+
+> 5 While there are exceptions to this rule, when the shareholders are held to have greater liability, this “piercing the corporation veil” is a rare occurrence and in practice the use of cross-default provisions and guarantees neutralize much of the original limited liability. 
+
+
+transferred funds from the U.S. to LBIE, its U.K. broker-dealer, which entered into the transactions. (Wiggins, et al. 2014C discusses this issue in detail.) 
+
+## _**Separation for Operational Efficiency**_ 
+
+A third reason that companies organize themselves into various entities is to separate regulated businesses from nonregulated businesses. This enables the company to operate a smaller footprint within the regulated sphere, while leaving the balance of the business unrestrained. This permits containment of any specialized procedures, additional costs, and liabilities associated with the regulated business, such as additional employee training or specialized screening of transactions with affiliated entities. Such an easily identified separation of operations also facilitates regulatory reporting. For example, by establishing LBI as a separate company, Lehman was able to better ensure compliance with the SEC’s broker-dealer requirements by a containable unit rather than subjecting the entire enterprise to these requirements. 
+
+Corporate segmentation also facilitates compliance with rules that differ across jurisdictions. For example, by incorporating LBIE in the U.K., Lehman was able to service customers located in the U.K. using a U.K. company that followed U.K. securities and customer protection rules and which was subject to other U.K. laws. 
+
+## **3.   The Role of Lehman Brothers Inc. in the Lehman Group** 
+
+LBI was a separate, wholly owned U.S. subsidiary of LBHI and a regulated broker-dealer registered with the SEC. (See Section 4 for a description of the broker-dealer regulatory regime). It was also a member of the New York Stock Exchange, and as such, it was also subject to regulation by the Financial Industry Regulatory Authority. 
+
+LBI was intricately woven into Lehman’s corporate structure. It operated as the principal broker-dealer for the entire Lehman group, clearing all U.S. trades (including those originating outside the U.S.), and transacted non-U.S. trades originating in the U.S. through its Lehman broker-dealer affiliates in other countries. One such entity was LBIE, discussed in Section 5 below, which would have a direct and significant impact on LBI’s last days. 
+
+LBI was also party to numerous other intercompany transactions with various Lehman affiliates (see Figure 1) and was parent to two subsidiaries that held some of Lehman’s riskier businesses: 
+
+_Lehman Commercial Paper, Inc. (LCPI)_ was a wholly owned subsidiary of LBI, which despite its name, was primarily engaged in buying assets such as residential and commercial mortgages, home equity loans, and government and corporate bonds from other Lehman affiliates. LCPI would then, through special-purpose vehicles, bundle the assets into securitized deals. LCPI was funded through repurchase agreements, bank credit facilities and borrowings from LBHI, which were funneled through LBI, which in turn funded LCPI (Trustee’s Report, 47-8). 
+
+_Lehman Brothers Special Financings Inc. (LBSF)_ was a wholly owned subsidiary of LBI and Lehman’s principal dealer in over-the-counter (OTC) derivative products, including interest rates, currency, and credit and mortgage derivatives. LBSF’s wholly owned subsidiary, Lehman Brothers Commodity Services Inc., conducted commodities trading worldwide in oil, natural gas and other energy markets. It also dealt in related financial products, including futures, swaps, options, and structured 
+
+
+products. LBSF benefited from a full guarantee from LBHI, and its bankruptcy filing was a default under many of LBSF’s outstanding agreements[6] (Examiner’s Report, Vol. 5, 1618-22; Trustee’s Report, 49-50). 
+
+As Lehman’s situation worsened during the summer 2008, Lehman personnel explored the possibility of transferring LCPI and LBSF out from under LBI, but the transactions were never executed. (See pages 25-56 of the Trustee’s Report for further description of LBI’s businesses and its role within the Lehman organization.) 
+
+[FIGURE id=vol1_iss1_6_f1 type=figure label="Figure 1" file=figure_1.png caption="Lehman’s U.S. Broker-Dealer and Subsidiaries"]
+### **Figure 1: Lehman’s U.S. Broker-Dealer and Subsidiaries**
+![Figure 1](assets/vol1_iss1_6/figure_1.png)
+
+
+_Note: DE=Delaware; NY=New York Source: Lehman Brothers 2007_ 
+
+## _**Coordination for Enterprise Efficiency**_ 
+
+Lehman’s complex corporate structure was designed to create the most regulatory and economically efficient corporate infrastructure for the firm as a whole, while limiting risks and liabilities. Even though comprised of many entities, companies try to maximize efficiencies and minimize costs by operating as one consolidated business and coordinating their assets, operations, and personnel, and leveraging their market power. Outwardly, this is usually manifested in such mechanisms as corporate enterprise branding, consolidated financial reporting, and aggressive cross-selling of products. 
+
+There are also many benefits and attributes of enterprise-wide operations that occur internally. Significant support services and infrastructure systems are sourced on a joint basis, employing the greater enterprise’s combined scale to an advantage. Lehman operated corporate functions, such as finance, risk compliance, legal regulatory, and human resources 
+
+_____________________________________________________________________ 
+
+> 6 McNamara and Metrick 2014F discusses how such default provisions operate, and Wiggins et al., 2014G analyzes how Lehman’s derivatives were discharged as a result of the bankruptcy. 
+
+
+on an integrated and consolidated basis. LBI also acted as paymaster and processed accounts payable across the group. 
+
+But beyond administrative functions, core operations were also coordinated. As discussed below, LBI operated as the primary broker-dealer for the group. This pattern of specialized subsidiaries that served a function for the group was common. It was also common practice that assets were held by whichever entity was most advantageous. LBI held securities for other Lehman entities, and some LBI assets were held by Lehman affiliates, some outside the U.S. 
+
+Lehman managed its cash on an enterprise-wide basis; subsidiaries issued cash dividends upstream as directed and received capital infusions or loans downstream as needed. Lehman’s operations were supported by a global integrated information technology system that interfaced and communicated constantly with systems belonging to third parties that provided needed services such as clearing services. (LBI’s main agreement for clearing services was in fact a three-way agreement between the Lehman parent, LBI, and JPMorgan Chase.) When Barclays purchased the substantial part of Lehman’s North America operations just days after it declared bankruptcy, it gained control over many of the key technology systems and records. Barclays denied access to LBI, other Lehman entities, and the SIPA trustee, which caused delay in the processing of outstanding trades and settling of the books. The many coordinated collaborations that proved so beneficial and efficient during normal operations quickly became liabilities as Lehman’s situation worsened. 
+
+## _**The Downturn in the Summer of 2008**_ 
+
+A significant portion of LBI’s daily repo business by which it funded its operations, was done with other Lehman entities (Trustee’s Report, 41-44). LBI operated effectively throughout 2007 and was solvent and in compliance with regulations governing U.S. broker-dealers as of May 31, 2008 (Ibid. 26). However, beginning in the second half of 2008, its parent corporation’s troubles began to impact LBI’s operations and particularly the businesses of its subsidiaries. Also, its intercompany financing became restricted, creating liquidity problems for LBI. “Tangible negative effects on LBI from the crisis in confidence affecting Lehman as a whole rendered LBI unable to obtain adequate financing on an unsecured or even secured basis, caused the departure of customers, and spurred an increase in failed transactions and additional demands for collateral by clearing banks and others” (Ibid.). 
+
+The interconnections between affiliates and the cross-default provisions in many of Lehman’s agreements led to a web of transactions that could unravel from one incident of failure. As its situation worsened in September 2008, Lehman faced increasing demands for additional collateral from its clearing banks. One Lehman executive noted the potential “snowball effect” that a bank’s failure to fund LBI’s clearing accounts would have: “then at the close of business on Monday [September 15, 2008] LBI will be in default on its overnight repo book and security lending by failing to repay. “[I]f default by LBI becomes a default on a single material LBHI corporate indebtedness in excess of $100 million, that would cause a cascade into the LBSF swaps business, permitting the LBSF swap counterparties to liquidate immediately at the end of Monday” (Ibid., 41). 
+
+
+## **4.   Regulation of U.S. Broker-Dealers** 
+
+As a registered broker-dealer, LBI was regulated by the SEC and was required to comply with numerous regulations, including the Financial Responsibility Rules.[7] These rules required LBI to maintain (taking into consideration the CSE program discussed below) net capital equal at least $500 million with a tentative net capital of at least $1 billion (Ibid., 19-21). 
+
+The rules also addressed segregation and protection of customer funds, books and records, and notifications. LBI was required to maintain customer funds separately and to not use these for its own account. It also had to maintain fully paid customer property separately from its own assets and could not use excess margin for proprietary purposes. If, however, a customer purchased securities on margin (i.e., with funds lent to the customer by LBI), LBI could repledge those securities to a third party for cash to finance its trading inventory positions, settle accounts, or meet customer needs. Identifying and repatriating customer securities after the bankruptcies of LBHI and LBIE were particular challenges (Ibid., 57-9). 
+
+LBI was also to maintain written policies and procedures for monitoring and controlling financial and operational risks (including risks to its net capital or liquidity) posed by the operations, trading positions, and assumed risks of its affiliates, and to make quarterly reports to the SEC regarding the same. These rules were designed to provide the SEC with advanced warning of any problematic issues facing the broker-dealer so that it could take corrective steps. However, LBI’s balance sheet, filed as part of its May 31, 2008, Financial and Operational Combined Uniform Single (FOCUS) Report, showed a firm that was on solid footing and in compliance with applicable regulations (Ibid., 19-21). (See PwC 2013 for a summary of recently updated broker-dealer financial responsibility rules. U.S. Securities and Exchange Commission 2013 provides the full text.) 
+
+## _**SEC Regulation of LBI’s Parent**_ 
+
+In 2004, LBHI voluntarily became subject to the SEC’s consolidated supervised entity (CSE) program. The CSE program permitted an alternative method for calculating net capital for broker-dealers that had adopted risk management practices and were part of a holding company structure, provided that the ultimate parent voluntarily submitted to the SEC supervision on a group-wide basis. 
+
+The Securities and Exchange Commission regularly met with Lehman to discuss its business operations, and after the fire sale of Bear Stearns in March 2008, SEC personnel were embedded at Lehman on a continuous basis and regularly received financial data regarding its operations. Although the CSE rules empowered the SEC to make additional requirements of any supervised entity to avoid or alleviate risk to a regulated entity, the SEC did not exercise these powers.[8] The Lehman bankruptcy examiner was later highly critical of the 
+
+_____________________________________________________________________ 
+
+> 7 U.S. Securities and Exchange Commission 2013. 
+
+> 8 The CSE rules permitted the SEC to impose additional conditions on the broker-dealer or the holding company to protect the interests of customers or the public. “These conditions might include, for example: restricting the broker’s or dealer’s business on a product-specific, category-specific, or general basis; submitting to the Commission a plan to increase the broker’s or dealer’s net capital or tentative net capital; filing more frequent reports with the Commission; modifying the broker’s or dealer’s internal risk management control procedures; or computing the broker-dealer’s deductions for market and credit risk in accordance with [a statutory formula], as appropriate” (Trustee’s Report, 23). 
+
+
+agency in the wake of Lehman’s demise. (See Wiggins and Metrick 2014B for further description of the CSE regulatory scheme.) 
+
+## **5.   Lehman Brothers International (Europe) (LBIE)** 
+
+Lehman Brothers sourced its European businesses from a group of companies incorporated in the U.K., which operated as its European regional headquarters. As shown in Figure 2, separate U.K. corporations were established for each of Lehman’s three main businesses: broker-dealer, investment banking, and asset management. Its European operations were conducted through dozens of companies located in, and formed under the jurisdictions of, several European countries. In addition, a services company provided support and administrative services for the European group as a whole. A U.K. holding company helped establish the relationship between the companies and further distanced them from the U.S. parent. 
+
+[FIGURE id=vol1_iss1_6_f2 type=figure label="Figure 2" file=figure_2.png caption="Lehman’s U.K. Group Of Companies"]
+### **Figure 2: Lehman’s U.K. Group Of Companies**
+![Figure 2](assets/vol1_iss1_6/figure_2.png)
+
+
+_Source: Lehman Brothers 2007._ 
+
+LBIE was Lehman’s European broker-dealer, whose activities included trading and brokering fixed income financial instruments in many major and some emerging markets. LBIE was authorized by the FSA and was a member of the London Stock Exchange and also of various continental European exchanges. LBIE operated with a full guarantee from LBHI and daily received funding from various Lehman entities. It entered into a substantial number of repos with LBI, and the companies made intercompany paydowns in cash to each other. As LBIE neared FSA administration, it was prohibited from transferring cash out of the company; the cash became trapped and unavailable to other Lehman entities. 
+
+LBIE settled almost all the European trades from Lehman entities, including LBI. To support this role, LBIE purchased securities on behalf of LBI as local settlement agent and held these securities in London. After LBIE was taken into administration by the FSA, several of its affiliates, including LBI, made claim to some of these assets, claiming beneficial ownership as the true owner. (Trustee’s Report, 56-60). 
+
+
+## **6.   The Ramifications of Lehman’s Troubles** 
+
+SIPA Trustee Giddens identified four negative effects on LBI from Lehman’s growing troubles that led to the downward spiral of LBI: (1) an inability to obtain financings on an unsecured or even secured basis, (2) the departure of clients, (3) an increase in failed transactions, and (4) additional demands for collateral by clearing banks and others (Ibid., 26). 
+
+## _**An Inability to Obtain Financing**_ 
+
+LBI assets at May 31, 2008, and August 31, 2008, primarily were made up of reverse repos, stock borrow agreements and financial instruments owned. These transactions represented 94.1% of assets at May 31 and 92.4% at August 31” (Ibid., 28). As shown in Figure 3, during the summer of 2008, LBI’s ability to borrow began to decline as third parties demanded greater collateral. These challenges at Lehman illustrate the broader “run on repo” that drained financing from intermediaries throughout the financial system, as described by Gorton and Metrick 2012. During September, its funding sources became even more impaired, as third parties began decreasing their exposure to Lehman entities. Its triparty repo transactions decreased from approximately $80 billion in May 2008 to less than $650 million on September 19 (Trustee’s Report, 29). At the same time, the percentage of its funding from Lehman affiliates decreased as they struggled to meet their own liquidity needs. LBI also experienced an increasing number of failed foreign currency transactions as parties refused to return margin, even as LBI continued to perform (Ibid.). 
+
+[FIGURE id=vol1_iss1_6_f3 type=chart label="Figure 3" file=figure_3.png caption="LBI’s Repos and Stock Borrowings (in US$ millions)"]
+### **Figure 3: LBI’s Repos and Stock Borrowings (in US$ millions)**
+
+||5/31/08|8/31/08|9/19/08|
+|---|---|---|---|
+|Repurchase agreements – affiliates|63,982|43,427|11,132|
+|Repurchase agreements –<br>nonaffiliates|77,195|100,046|68,980|
+|Repurchase agreements – total|141,177|143,473|80,112|
+|Securities loans – affiliates|81,174|61,942|41,032|
+|Securities loans – nonaffiliates|6,492|6,220|745|
+|Securities loans – total|87,666|68,162|41,777|
+|**Total repos and securities loans**|**228,843**|**211,635**|**121,889**|
+|**Affiliate Percentage**|**63%**|**50%**|**43%**|
+
+
+
+_Source: Trustee’s Report, 29._ 
+
+## _**The Departure of Clients**_ 
+
+LBI’s records show a rapid departure of hedge fund clients during the summer of 2008. Unfortunately, this evidences that these larger (and presumably most sophisticated) clients left at a greater rate than others, reflecting the dreary prospects that they saw for Lehman. Significant withdrawals by hedge funds reduced LBI’s assets, and in particular, its free credits (cash held against liabilities immediately payable to customers) were reduced by 50%, from $4 billion to $2 billion, during this period. These demands for payment added extra strain to LBI’s liquidity challenges. (See Figure 4.) 
+
+
+[FIGURE id=vol1_iss1_6_f4 type=chart label="Figure 4" file=figure_4.png caption="LBI’s Free Credit Balances (in US$ millions)"]
+### **Figure 4: LBI’s Free Credit Balances (in US$ millions)**
+
+||5/31/08|8/31/08|
+|---|---|---|
+|Net Payable to Customers|14,478|8,519|
+|Amount required to be segregated for|customer transactions under regulations||
+|-Securities Transactions|4,013|4,933|
+|-Commodity Transactions|8,603|7,546|
+|Free Credits in Customer Accounts|3,978|2,014|
+
+
+
+_Source: Trustee’s Report, 31 (Footnotes omitted)._ 
+
+## _**An Increase in Failed Transactions**_ 
+
+During the first weeks of September 2008, the FSA closely monitored the reports regarding Lehman’s situation—its efforts to find a purchaser or major investor, the third quarter loss of $3.9 billion, and that it would spin off its commercial real estate assets. Lehman's shares continued to drop and, by the close of business on September 10, Moody’s Investors Service announced that it would downgrade Lehman on Monday, September 15, if a purchaser had not been found. 
+
+In light of these developments and in acknowledgement that LBHI managed centrally substantially all of the material cash resources of the Lehman group, the FSA sought guarantees that LBIE would be funded on Monday, September 15. LBHI's failure to fund or settle obligations on behalf of LBIE at any time would render LBIE insolvent. When such assurances were not forthcoming and when it looked like LBHI would be filing for bankruptcy, FSA made plans to take LBIE and the other Lehman U.K. companies into administration, leading to an immediate freezing of their assets on September 15. 
+
+In the U.S., however, LBI continued to operate, and its customers continued to enter into U.K. and European trades, which normally would have been processed by LBIE. Instead, many such trades became trapped in Lehman’s IT systems, which were suddenly shut off from LBI as each entity isolated itself and third parties ceased providing access. By September 19, there were “over 95,000 ‘failed to receive from LBI’ trades across approximately 4,600 unique securities, and an additional 105,000 ‘failed to deliver to LBI’ trades across 5,200 unique securities.” The vast majority of these showed activity after September 12 (Trustee’s Report, 38). 
+
+## _**Additional Demands for Collateral by Clearing Banks and Others**_ 
+
+During the summer of 2008, LBI’s key clearing banks, and in particular, JPMorgan, its principal clearing bank, made a number of demands for increased collateral under threat that it would stop clearing trades. As illustrated below in discussing the JPMorgan relationship, the frequency and size of these demands greatly strained LBI’s cash and liquidity. Similar protective actions by parties in the U.K. relating to LBIE once it was taken into administration also impacted LBI positions and collateral that were held through LBIE. 
+
+
+As Lehman’s principal clearing bank, JPMorgan sometimes advanced Lehman up to $100 billion a day. Between July and September 2008, JP Morgan’s demands for additional collateral totaled $17 billion in cash and securities. On September 9, it requested an additional $5 billion in collateral from Lehman, which Lehman was unable to raise, providing only an additional $3 billion. On September 12, JPMorgan again requested an additional $5 billion in collateral. Scrambling to locate unencumbered assets across the organization, Lehman’s treasury requisitioned $2.7 billion of cash from LBI, a significant reduction in LBI's operating cash, which it delivered to JPMorgan, along with an additional $2.3 billion pulled from other Lehman affiliates (Ibid., 34-36). 
+
+In late August 2008, JP Morgan secured favorable amendments to its main Lehman clearance agreement and also entered into a new security agreement and guaranty agreement, which sought to net JP Morgan’s liability to all Lehman entities to which it provided clearance advances through LBI, providing JP Morgan liens against the assets of these other entities. A September 9 amendment to the security agreement extended JP Morgan's security interest in LBI’s property so that its lien secured any indebtedness that LBI had to JP Morgan, not just indebtedness relating to the clearance activity (Ibid.). (See pages 25-39 of the Trustee’s Report detailing these impacts on LBI. Also see pages 60-74 for discussion of the technical difficulties accompanying these issues.) 
+
+## _**Lack of Planning**_ 
+
+Many of the issues that the trustee highlighted were a result not only of Lehman’s integrated corporate structure, but also of the fact that there was no roadmap of that structure and that advance planning regarding the bankruptcy had not been done. This led to confusion about the ownership of certain assets and also to an inability to access customer records and critical technologies within days of the filing because of the sale of portions of the business to Barclays and several other governmental actions, such as the FSA takeover of LBIE. Bryan Marsal, co-chief executive officer of Alvarez & Marsal, who administered the Lehman bankruptcy estate, said that the bankruptcy was “an unconscionable waste of value” and that “an orderly plan to wind down Lehman should have been pursued” (Louis 2011). 
+
+Title I of The Dodd-Frank Act Wall Street Reform and Consumer Protection Act (Dodd-Frank) requires that significantly important financial institutions, such as Lehman, prepare a detailed plan identifying key resources and policies (a living will) so that any bankruptcy or winding down could be conducted in an orderly fashion. Title II of Dodd-Frank granted new powers to the FDIC, empowering it to conduct an orderly liquidation of a financial institution in order to avoid or minimize some of the negative effects and costs that occurred in the Lehman collapse. In April 2011, the FDIC issued a report, _The Orderly Liquidation of Lehman Brothers Holdings Inc. Under the Dodd-Frank Act,_ in which it makes the case that it would have been able to dismantle the company in a much more orderly fashion and at little cost to the taxpayers if the new laws had been in effect in 2008. While the FDIC’s optimism has been disputed (see for example Louis 2011 and Sprayregen and Hessler 2011), one must consider whether an outcome under Dodd-Frank would be preferable to a Lehman-type bankruptcy. 
+
+## **References** 
+
+Colby, Robert L.D., _Prudential Supervision of U.S. Securities Firms,_ Testimony Before the U.S. House Subcommittee on Financial Institutions and Consumer Credit, September 14, 2006. 
+
+FDIC, _The Orderly Liquidation of Lehman Brothers Holdings Inc. under the Dodd-Frank Act_ , FDIC Quarterly, Early release for the upcoming 2011, Volume 5, No. 2, 1. 
+
+
+Giddens, James W., Trustee. Trustee’s Preliminary Investigative Report and Recommendations. In re: Lehman Brothers Inc., Debtor. (Case No. 08-01-1420 (JMP) SIPA), pp. 18-74. (Trustee’s Report.) 
+
+Gorton, Gary and Andrew Metrick. 2012. _Securitized Banking and the Run on Repo_ , Journal of Financial Economics, Volume 104, Issue 3 (June). 
+
+Lehman Brothers, Company Overview (Third Quarter 2007), Lehman Brothers Bankruptcy Examiner’s Report, Exhibit LBEX-LL 2165164. 
+
+Louis, Meera, _Dodd-Frank Would Have Rescued Lehman Creditors, FDIC Says, Bloomberg.com,_ Apr 18, 2011 4:22 PM ET. 
+
+McNamara, Christian M., and Andrew Metrick, _The Lehman Brothers Bankruptcy F: Introduction to the ISDA Master Agreement_ , Yale Program on Financial Stability Case Study 2014-3F-V1, November 2014. 
+
+PwC, Regulatory Brief: Broker-Dealers: New FOCUS on financial responsibility, September 2013. 
+
+Report and Recommendations of the SIPC Modernization Task Force, Presented to the Board of Directors Securities Investor Protection Corporation, February 2012. 
+
+Sprayregen, James H.M. and Stephen E. Hessler, _Too Much Discretion To Succeed: Why A Modified Bankruptcy Code Is Preferable To Title II Of The Dodd-Frank Act_ (May 31, 2011) (submitted in response to Federal Reserve request for information relating to Dodd-Frank Act Section 216 study regarding the resolution of financial companies under the Bankruptcy Code), available at online.wsj.com/public/resources/documents/KirklandDoddFrank.pdf. 
+
+United States Securities and Exchange Commission, _Release No. 34-70072, File No. S7-08-07 Financial Responsibility Rules for Broker-Dealers (17 CFR Part 240)_ , July 30, 2013. (SEC 2013). 
+
+__________, _SEC Adopts Amendments to Financial Responsibility Rules for Broker-Dealers_ , 2013140, July 31, 2013. (SEC 2013A.) 
+
+Valukas, Anton R., Report of Examiner, United States Bankruptcy Court, Sydney, In Re. Lehman Brothers Holdings, Inc., et al, Chapter 11 case no. 08-13555, Vol. 4. (Examiner’s Report.) 
+
+Wiggins, Rosalind Z., Thomas Piontek, and Andrew Metrick, _The Lehman Brothers Bankruptcy A: Overview,_ Yale Program on Financial Stability Case Study 2014-3A-V1, October 2014. 
+
+Wiggins, Rosalind Z., and Andrew Metrick, _The Lehman Brothers Bankruptcy B: Risk Limits and Stress Tests,_ Yale Program on Financial Stability Case Study 2014-3B-V1, October 2014. 
+
+Wiggins, Rosalind Z., and Andrew Metrick, _The Lehman Brothers Bankruptcy C: Managing the Balance Sheet through the Use of Repo 105_ , Yale Program on Financial Stability Case Study 2014-3C-V1, October 2014. 
+
+Wiggins, Rosalind Z., Rosalind L. Bennett and Andrew Metrick, _The Lehman Brothers Bankruptcy D: The Role of Ernst & Young_ Yale Program on Financial Stability Case Study 2014-3D-V1, October 2014. 
+
+
+Wiggins, Rosalind Z., and Andrew Metrick, _The Lehman Brothers Bankruptcy G: The Special Case of Derivatives_ , Yale Program on Financial Stability Case Study 2014-3G-V1, November 2014. 
+
+Development of this case has been supported by a generous grant from the Alfred P. Sloan Foundation to the Yale Program on Financial Stability. 
+
+Copyright 2014, 2019 © Yale University. All rights reserved. To order copies of this material or to receive permission to reprint any or all of this document, please contact the Yale Program for Financial Stability at ypfs@yale.edu.

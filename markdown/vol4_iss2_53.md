@@ -1,0 +1,467 @@
+## United States: Aldrich-Vreeland Emergency Currency during the Crisis of 1914[1] 
+
+_Sean Fulmer[2]_ 
+
+Yale Program on Financial Stability Case Study June 15, 2022 
+
+## **Abstract** 
+
+As geopolitical tensions in Europe began to devolve into World War I, international investors began selling stocks and securities on the New York Stock Exchange (NYSE), converting the proceeds into gold. A massive outflow of gold from the United States would have likely sparked a banking panic. To avert this, the Treasury secretary pushed for the closure of the NYSE and authorized banks to issue emergency currency at the start of August 1914 under powers granted by the Aldrich-Vreeland Act of 1908. This move allowed national banks to issue additional bank notes against privately issued assets such as commercial paper, warehouse receipts, and securities in general. This emergency currency could be used to satisfy depositor withdrawal requests, although it could not be counted as legal reserves. Participating banks issued about $386 million in emergency currency, less than one-quarter of the maximum available to them. Contemporary evaluations praised the issuance of emergency currency as a necessity that calmed money markets and showed the utility of a government-backed response to financial crises. However, early leaders of the Federal Reserve System claimed that the real end of the panic came from the eventual opening of the Federal Reserve later in 1914. 
+
+**Keywords:** Aldrich-Vreeland Act, emergency currency, New York Clearing House Association, NYCH, World War I 
+
+> 1 This case study is part of the Yale Program on Financial Stability (YPFS) selection of New Bagehot Project modules considering broad-based emergency lending programs. Cases are available from the _Journal of Financial Crises_ at https://elischolar.library.yale.edu/journal-of-financial-crises/. 
+
+> 2 Research Associate, YPFS, Yale School of Management. The author would like to thank Margaret Jacobson for her insightful comments on this article. Please note that any information contained in this study that may be attributed to Margaret Jacobson reflects her personal views and not necessarily those of the Federal Reserve Board of Governors or the Federal Reserve System. 
+
+
+## **Overview** 
+
+After the Panic of 1907, Congress decided that the United States would benefit from a central bank that could serve as a “reserve of lending power,” rather than relying on private lender-of-last-resort operations conducted by clearinghouse associations (Sprague 1910, 319). Congress would eventually create the Federal Reserve System in 1913 (not operational until late 1914). The Aldrich-Vreeland Act in 1908 was a stopgap measure to handle crises in the interim period. The Aldrich-Vreeland Act granted the US Treasury Department the authority to allow national banks to form national currency associations that had the power to issue emergency currency backed by securities other than US government bonds. National banks could also approach the Treasury Department individually for emergency currency backed by state and local government bonds (this was barely utilized in 1914). They could use this emergency currency to satisfy depositor withdrawals and other obligations but not as reserves (Jacobson and Tallman 2015; Silber 2008, 76). 
+
+As geopolitical tensions in Europe grew into the First World War during the summer of 1914, European stock exchanges shuttered and European investors began selling their US stocks, exchanging the proceeds for gold (Sablik 2013; Silber 2008, 21–22). Massive gold outflows from the United States would have sparked widespread panic about the potential suspension of convertibility, which could then have led to bank runs. During the week leading up to August 1, the reserves of member banks in the New York Clearing House (NYCH) declined $44 million (OCC 1914). In response, Treasury Secretary William McAdoo announced on July 31, 1914, that the Treasury Department would 
+
+## **Key Terms** 
+
+Purpose: To allow eligible banking institutions to issue additional currency backed by securities other than US bonds to project confidence and stability amid geopolitical tensions 
+
+||Launch Dates|Announcement:|
+|---|---|---|
+|||July 31, 1914|
+|||Authorization:|
+|||August 3, 1914<br>First issuance:<br>August 3 or 4, 1914|
+||Expiration Dates|Final issuance:|
+|||February 13, 1914|
+||Legal Authority|Final retirement:<br>July 1, 1915<br>Aldrich-Vreeland Act of<br>1908, as amended by|
+|||the Federal Reserve Act|
+|||of 1913|
+||Peak Outstanding<br>Participants|$364 million<br>All national banks and<br>some state banks and|
+|||trust companies|
+||Rate|3% for the first three|
+|||months, rising 50 basis|
+|||points every<br>subsequent month up to<br>a 6% ceiling|
+||Collateral|Any securities held by a|
+|||national bank|
+||Loan Duration<br>Notable Features|No set maturity<br>Stopgap solution until<br>the Federal Reserve was<br>operational|
+||Outcomes|Significant usage, and|
+|||widespread banking|
+|||panics avoided|
+
+
+
+
+authorize the issuance of up to $500 million in emergency currency, depending on requests ( _WSJ_ 1914). 
+
+In many ways, the Aldrich-Vreeland Act based the structure of the national currency associations it authorized on the existing clearinghouse model, in which private financial institutions formed a single corporate body for the purposes of alleviating financial panic. The Aldrich-Vreeland Act allowed groups of at least 10 national banks to form national currency associations, which would be the issuers of emergency currency. National banks could join only one national currency association, of which there could be only one in each city (Aldrich-Vreeland Act 1908, vol. 35, sec. 1). These associations were supposed to be formed prior to crises so that they could immediately act during a panic. In September 1914, there were 45 national currency associations, covering all but two states and representing more than 2,000 national banks (or 29% of the total national banks at the time) (Dodge 1922). The associations managed collateral and issued emergency currency during crises (Aldrich-Vreeland Act 1908). 
+
+Emergency currency, in essence national bank notes backed by securities other than Treasury notes, contained an escalating interest rate structure, starting at 3% for the first three months and then rising monthly by 50 basis points (bps) until reaching a ceiling at 6% (August 4 Amendment 1914). This allowed emergency currency to initially function at attractive rates, while incentivizing early redemption as conditions normalized. 
+
+According to the Aldrich-Vreeland Act, collateral that was eligible to secure the emergency currency consisted of “any securities, including commercial paper, held by a national [currency] association” (Aldrich-Vreeland Act 1908, vol. 35, sec. 1). This broad classification included state and local bonds, miscellaneous securities, commercial paper, and warehouse receipts. The state and local bonds received a guideline haircut of about 15%, while the remaining collateral categories had a uniform 25% haircut. However, borrowing banks overcollateralized emergency currency issuance beyond the guideline haircut, possibly at the instruction of the Treasury Department (OCC 1915). 
+
+Although useful as a crisis tool, emergency currency did not serve as a perfect substitute for cash. The Aldrich-Vreeland Act stated that emergency currency had “lawful money” status, as opposed to legal tender (Aldrich-Vreeland Act 1908, vol. 35, sec. 12). Although lawful money could be used to satisfy depositor withdrawals, it could not be considered reserves by banks overseen by the US Office of the Comptroller of the Currency (OCC). On the other hand, legal tender can be used for both, making it a more valuable form of money. Therefore, banks could maintain their reserves by satisfying withdrawals with the emergency currency rather than gold and silver certificates, which were legal tender (Silber 2008, 86). 
+
+Congress passed a law on August 4, 1914, that amended the emergency currency authorization to grant the Treasury secretary the authority to suspend the limit on issuance and expanded the eligible participants to include previously ineligible national banks, as well as state banks and trust companies if they agreed to join the Federal Reserve System (August 4 Amendment 1914). However, few state banks and trust companies signed up due to the 
+
+
+stringent costs associated with their membership in the Federal Reserve System (Jacobson and Tallman 2015). 
+
+In total, 1,363 borrowing banks in 41 national currency associations issued $386 million in emergency currency, with a peak outstanding of about $364 million on October 24, 1914. This total reached only one-quarter of the maximum emergency currency potentially available to banks. The banks retired the entire sum of emergency currency by July 1, 1915, except for a nominal sum later recovered. None of the emergency currency issuance incurred a loss (OCC 1915). See Figure 1 for a visualization of peak outstanding emergency currency issuance and the retirement path. 
+
+[FIGURE id=vol4_iss2_53_f1 type=figure label="Figure 1" file=figure_1.png caption="Total Outstanding Emergency Currency versus Retirement"]
+### **Figure 1: Total Outstanding Emergency Currency versus Retirement**
+![Figure 1](assets/vol4_iss2_53/figure_1.png)
+
+
+_Source: Author’s creation._ 
+
+## **Summary Evaluation** 
+
+The comptroller of the currency stated in the OCC’s annual report that the issuance of emergency currency: 
+
+[E]nabled [banks] to maintain currency payments throughout the entire country, a record they were unable to make in 1893 and in 1907, and in previous crises infinitely less far-reaching than [the Crisis of 1914]. (OCC 1915) 
+
+
+In agreement, O.M.W. Sprague (1915), a prominent contemporaneous scholar on financial crises, states, “In no former crisis was the aid rendered by the government so immediate and effective,” as banks expanded lending which did not typically happen during previous crises. On the other hand, Silber (2008, 88) notes that the rapid influx of emergency currency did not result in an immediate decrease in interest rates, which indicated that the currency simply replaced withdrawals rather than generating excess liquidity. Additionally, Silber refers to the previously mentioned comptroller of the currency quote as a “self-serving evaluation,” as the comptroller was involved in implementing the emergency currency issuance (Silber 2008, 88). 
+
+According to Jacobson and Tallman (2015), the “emergency currency was crucial in preventing a panic in 1914.” They also note that clearinghouse loan certificates (CLCs) issued by organizations such as the New York Clearing House played a “secondary, but still consequential, role in forestalling financial panic” in 1914, since emergency currency was accessible only to national banks (Jacobson and Tallman 2015). 
+
+While the issuance of emergency currency seemingly prevented widespread domestic suspensions of convertibility, it did not help with foreign exchange markets. Emergency currency could not be used as an international note of exchange, a role served only by gold at the time. Emergency currency was limited to preventing domestic bank runs and projecting stability, while failing to halt gold outflows to foreign nations (Silber 2008, 89). 
+
+In his memoir, Treasury Secretary McAdoo states his opinion on the need for and success of emergency currency: 
+
+I brought this clumsy act out of the legislative garret and succeeded in getting Congress to amend it radically so that it would work . . . while it was in use it served fairly well, in spite of its obvious disadvantages, for the crisis was acute in August, 1914, and anything that promised relief, on any terms, was welcome. (McAdoo 1931, 215) 
+
+The nascent Federal Reserve also helped alleviate pressure on banks, albeit not until after the acute phase of the crisis occurred in August 1914. A provision in the Federal Reserve Act that took effect on November 16, on the establishment of the reserve banks, lowered member banks’ reserve requirements. The change in reserve requirements released “a very considerable amount of funds which had previously had to be held idle by the banks in order to bring or keep themselves within the requirements of the law,” according to the Fed’s first annual report (Fed 1915a). 
+
+Early senior members of the Federal Reserve did not share positive opinions about the effect of emergency currency (Tallman and Jacobson 2019). The first chairman of the Federal Reserve, Charles Hamlin, stated in a 1916 speech that “emergency currency, while offering a supply of currency, yet this currency in itself did not reestablish confidence” because of the illiquid collateral pledged and the small 5% redemption fund (Hamlin 1916). According to Hamlin, the intervention worked because it demonstrated a “sound banking system had been established,” through the eventual opening of the Federal Reserve System (Hamlin 1916). 
+
+
+W.P.G. Harding, an early member of the Federal Reserve Board of Governors, directly credits the Federal Reserve’s creation for halting a further panic, stating: 
+
+Relief was afforded by the issue of . . . emergency [currency], and following the establishment of the Federal Reserve banks on November 16, 1914 **there was a rapid return to more normal conditions** . (Harding 1918, emphasis added) 
+
+In its first annual report through December 31, 1914, the Federal Reserve suggested that it could have done more if it had been fully operational: “Had the Federal Reserve Banks been in operation at the beginning of August they would naturally have supplied the great volume of currency which was called for” (Fed 1915a). 
+
+As a counterpoint, Tallman and Jacobson (2019) express skepticism about how much the Federal Reserve could have done in its early years, as its operations were consumed by the administrative and bureaucratic challenges of launching a large organization. They say it is unlikely that the Federal Reserve could have addressed the crisis on its own, as it only began to “gain traction in 1917” (Tallman and Jacobson 2019). As evidence, they show that Federal Reserve notes made up less than 10% of the currency base in the United States until 1917; the Federal Reserve might not have been able to achieve the same result as emergency currency during the Crisis of 1914. 
+
+
+|**Context: United States 1914–1915**|**Context: United States 1914–1915**|
+|---|---|
+|**Total assets of national banks**|$11.5 billion in 1914<br>$13.2 billion in 1915|
+|**Reserves held by national banks**|$1.6 billion in 1914<br>$2.1 billion in 1915|
+|**Loans and discounts by national banks**|$6.3 billion in 1914<br>$7.2 billion in 1915|
+|**Number of national currency associations**|45 in 1914|
+|**Number of banks represented by a national**<br>**currency association**|2,197 in 1914|
+|**Percent of total banks represented by national**<br>**currency associations**|29.15% in 1914|
+|**Number of banks that applied for emergency**<br>**currency through a national currency**<br>**association**|1,366 in 1914|
+|_Source: OCC 1915._||
+
+
+
+
+## **Key Design Decisions** 
+
+**1. Purpose: When confidence in the banking system eroded as the First World War erupted, the Treasury Department allowed banks to issue emergency currency to preserve their reserves and calm money markets since the Federal Reserve System was not yet operational.** 
+
+As geopolitical tensions rose in Europe during the buildup to the First World War in the summer of 1914, European stock market exchanges closed and the United States experienced significant gold outflows (Jacobson and Tallman 2015; Sablik 2013). Foreign investors began dumping their securities on the New York Stock Exchange (NYSE) as a means to easily and quickly liquidate their holdings (Silber 2007). On August 1, the member banks of the New York Clearing House reported that reserves had fallen by almost $44 million in the previous week, with a deficiency of $17 million (OCC 1914). As a response, Treasury Secretary McAdoo, at the direction of President Woodrow Wilson, spoke directly with the NYSE and requested that it close for an undefined period, which it did. It reopened four months later, on December 12, 1914 (Silber 2007; _WSJ_ 1914). 
+
+In previous crises, the banking system largely relied on the emergency liquidity efforts of clearinghouse associations, which served as private lenders of last resort (LOLRs). After the Panic of 1907, Congress formed the National Monetary Commission, which recommended the creation of the Federal Reserve. The Fed would enshrine the LOLR activities of the private clearinghouse associations in a quasi-governmental institution. However, the Fed was not functional at the outbreak of the Crisis of 1914, as Senate nominations dragged on and administrative plans faced delays (Silber 2008, 73). 
+
+On July 31, Secretary McAdoo announced that he planned to exercise the Treasury’s powers under the Aldrich-Vreeland Act to allow banks to issue emergency currency, backed by a much wider range of collateral than usually allowed for note issuance. 
+
+McAdoo had previously indicated in 1913 a willingness to utilize emergency currency by announcing that $500 million in emergency currency would be available in response to a possible banking panic. The announcement of this power calmed the markets, and emergency currency was never needed or issued at that time (Silber 2007). This event marked a public willingness from the Treasury Department to use its ability to issue emergency currency to arrest a banking panic, which it did in 1914. 
+
+**2. Legal Authority: The Aldrich-Vreeland Act authorized the issuance of emergency currency, while the Federal Reserve Act, as amended on August 4, 1914, revised some key aspects of the Aldrich-Vreeland Act for the impending crisis.** 
+
+In 1908, Congress passed the Aldrich-Vreeland Act, which granted the Treasury Department the power to issue up to $500 million in “additional circulating notes,” or “emergency currency,” backed by collateral other than US bonds (Aldrich-Vreeland Act 1908, vol. 35, sec. 5). National bank notes at the time were backed by US bonds. The Federal Reserve Act, 
+
+
+passed on December 23, 1913, reauthorized the Aldrich-Vreeland Act until June 30, 1915; the former act was set to expire on June 30, 1914, under the initial legislation (AldrichVreeland Act 1908, vol. 35, sec. 20; Federal Reserve Act 1913, sec. 27). The Federal Reserve Act also revised the Aldrich-Vreeland Act, lowering the interest rate charged on emergency currency (Aldrich-Vreeland Act 1908, vol. 35, sec. 9; Federal Reserve Act 1913, sec. 27). This would prove to be a key decision that helped prevent the Crisis of 1914 from spiraling into a full panic. It appears that the Aldrich-Vreeland Act, and the powers contained within, was not extended beyond June 1915. 
+
+As the crisis unfolded, Secretary McAdoo requested on July 31, 1914, that Congress amend the Federal Reserve Act to address two main issues: the eligibility of large banks to participate and the $500 million limit on total issuance of emergency currency. The Senate debated the amendment for only 10 minutes before passing it (Silber 2008, 77). On August 4, 1914, the amendment officially became law (Silber 2008, 79).[3] This amendment is discussed later in the case study as the “August 4 Amendment.” 
+
+Media coverage during the early days of issuance of the emergency currency noted that some questions regarding its legality were raised, as this was the first (and would be the only) usage of the Treasury’s authority to issue emergency currency. The _New York Times_ referenced many meetings between government officials to settle certain debates ( _NYT_ 1914b).[4] 
+
+## **3. Part of a Package: Clearinghouses issued a total of $212 million in clearinghouse loan certificates as a complement to emergency currency.** 
+
+Many banking institutions were not able to issue emergency currency because they did not meet the eligibility standards. As in previous crises, local clearinghouses acted as private lenders of last resort, with the NYCH taking a leading role (Fulmer 2022). The NYCH issued clearinghouse loan certificates to member banks, which used the CLCs as temporary substitutes for legal tender when settling clearing balances. This allowed member banks to avoid contracting lending and liquidating their assets in order to make payment. The Aldrich-Vreeland Act modeled emergency currency’s structure and function on CLCs, albeit with several significant changes discussed later in this case study (Jacobson and Tallman 2015). 
+
+CLCs could not be used outside the NYCH or for any other purposes. However, other clearinghouses (particularly those in the South) allowed CLCs to circulate outside their memberships (Andrew 1908). At its peak, 12 clearinghouses across the United States issued almost $200 million in CLCs to member banks, with the NYCH accounting for $109 million of that total (Fulmer 2022). Denomination was a significant difference between CLCs and 
+
+> 3 Representative Victor Murdock, one of only six representatives to vote against the amendment, stated, “Ordinarily [this amendment] would not pass Congress without days of debate, if it could pass at all” (Silber 2008, 78). 
+
+> 4 For example, the deposit location of the collateral backing emergency currency and the exact application form proved contentious (the government decided to keep them with the national currency associations instead of the Subtreasury) ( _NYT_ 1914b). 
+
+
+emergency currency in New York. The NYCH issued CLCs only in denominations larger than $5,000, while emergency currency largely came in denominations less than $100. This illuminates the different use of the emergency measures in New York, as CLCs circulated in interbank transactions at larger denominations while emergency currency could be used to handle depositor withdrawals at lower denominations (Jacobson and Tallman 2015). 
+
+A study by Jacobson and Tallman (2015) focusing on New York concludes that emergency currency and CLCs were not substitutes for New York banks but rather complements that together constituted a replacement for legal tender. Emergency currency issuance grew the money supply available to banks, while CLCs granted banks greater flexibility in handling payment for settling clearing balances and could be issued to the state banks and trust companies that were barred from utilizing emergency currency (discussed in Key Design Decision No. 6, Eligible Participants). Many New York banks took out both forms of liquidity, implying that there were unique benefits to both (Jacobson and Tallman 2015). 
+
+Outside of New York, Sprague (1915) notes, emergency currency was preferred to CLCs, as banks could use emergency currency across regions, outside set clearinghouse associations. Additionally, the law as revised on August 4 set the interest rate on emergency currency much lower initially than the rate on CLCs (3% versus 6%), leading borrowing banks to prefer emergency currency while creditor banks preferred CLCs. There was a significant decline in CLC usage in 1914 compared to the crisis of 1907. The number of clearinghouse associations that issued CLCs dropped from 51 in 1907 to 12 in 1914, while the peak outstanding amount of CLCs went from $227 million to $196 million (OCC 1915). 
+
+## **4. Management: The Treasury Department and national currency associations worked together to manage the emergency currency program.** 
+
+Both the Treasury Department and national currency associations operated as managers of the emergency currency program. The Treasury Department had to approve the formation of national currency associations, which consisted of a board filled with one representative of each member bank. Additionally, each association had a president, vice president, treasurer, secretary, and five-person executive committee. The Treasury Department required associations to file bylaws for its approval. Furthermore, the Treasury secretary had the authority to make “any such rules and regulations and exercise such control over the organization and management of national currency associations” (Aldrich-Vreeland Act 1908). 
+
+At the end of 1913, there were 21 national currency associations in operation, representing 352 national banks (OCC 1914). This would increase to 45 associations, representing 2,197 banks, by the end of 1914 (OCC 1915). It does not appear that national currency associations had any significant role to play after the opening of the Federal Reserve System. In 1913– 1915, the annual reports of the OCC contain entire sections on national currency associations, while the 1916 annual report does not mention them once. The AldrichVreeland Act expired in 1915, and there does not appear to be any indication that national currency associations continued to exist beyond that expiration. 
+
+
+## **5. Administration: The Treasury Department approved applications for emergency currency issuance, which could be used for depositor withdrawals and other payments but not as reserves.** 
+
+If a bank wished to issue emergency currency during the crisis, it submitted an application to its national currency association along with the pledged collateral, which was held in trust by the association. If the association approved this application, the application as well as a schedule of pledged collateral, were forwarded to the comptroller of the currency and the secretary of the Treasury. Once the secretary of the Treasury approved the issuance of emergency currency, the bank notes were shipped to the borrowing bank (OCC 1914). 
+
+In the opening days of emergency currency issuance, newspapers reported concerns from bankers about the administration and efficiency of the program. In the _New York Times_ on August 3, one banker remarked that the Treasury lagged in its printing, claiming that less than half of the more than $100 million available to New York City banks had been printed and brought to the city ( _NYT_ 1914a). The Aldrich-Vreeland Act directed the Treasury Secretary to print the emergency currency after its passage in 1908, which it did and stored in a DC vault (Silber 2008, 80). When Secretary McAdoo authorized the issuance on August 3, the Treasury immediately shipped $46 million of notes to New York City, which was the amount eligible for the initial set of New York City banks ( _NYT_ 1914a). However, extra lastminute printing and shipping was required for the remaining $100 million. Therefore, while the banker is correct that the Treasury needed to print and ship more currency, it was not a predictable change that could have been anticipated. 
+
+The NYCH swiftly began issuance of CLCs on August 3 after the emergency currency authorization, likely due to its institutional experience in crisis fighting. The _New York Times_ explicitly made the comparison between the NYCH’s prompt action and the Treasury Department’s slower rollout of relief ( _NYT_ 1914b). 
+
+**6. Eligible Participants: Members of national currency associations could issue emergency currency, as well as state banks and trust companies if they joined the Federal Reserve System.** 
+
+According to the Aldrich-Vreeland Act, a group of at least 10 national banks could form a national currency association, which would serve as the only association in its city. Membership to these associations, and consequently access to emergency currency, was limited to only national banks at the time of passage of the act in 1908. This excluded state banks and trust companies from participating in the issuance of emergency currency. The Federal Reserve Act required every national bank to join the Federal Reserve System upon its creation (Federal Reserve Act 1913). 
+
+The Aldrich-Vreeland Act and the Federal Reserve Act established that a national bank could borrow emergency currency only if it had outstanding national bank notes equal to at least 40% of its capital stock (Aldrich-Vreeland Act 1908, vol. 35, sec. 3; Federal Reserve Act 1913, sec. 27). This requirement restricted many national banks from borrowing emergency currency as they had not issued enough national bank notes (Sablik 2013). However, as war 
+
+
+in Europe erupted, Congress amended the Federal Reserve Act on August 4 to allow the Treasury secretary to suspend the 40% condition at the secretary’s discretion (August 4 Amendment 1914).[5] 
+
+Additionally, in the August 4 Amendment, Congress gave the Treasury secretary the authority to grant access to state banks and trust companies, on the condition that they join the Federal Reserve System by August 19 (August 4 Amendment 1914). Despite the set of eligible participants technically widening, state banks and trust companies largely declined to join the Federal Reserve System because membership imposed high administrative and cost burdens (Jacobson and Tallman 2015; Sablik 2013). By May 1915, only 17 trust companies and state banks had joined the Federal Reserve System, compared to 7,605 national banks in the system (Fed 1915b). Therefore, the vast majority of these institutions were not eligible for emergency currency and had to rely on clearinghouse loan certificates if eligible in their cities. 
+
+In total, 1,366 banks in 41 national currency associations issued emergency currency. There were 45 national currency associations at the time, with 2,197 members in total (OCC 1915). Therefore, about 62% of eligible national banks issued emergency currency. 
+
+Alternatively, individual national banks could apply directly to the Treasury Department for emergency currency, without the need to join a national currency association. A bank applying for emergency currency in this manner could utilize only state, county, and municipal bonds as collateral, subject to a 10% discount (Aldrich-Vreeland Act 1908, vol. 35, sec. 3). In total, only eight national banks took this option, for a small total of $910,500 (OCC 1915). However, more than $70 million of state, county, and municipal bonds were pledged as collateral for emergency currency (OCC 1915). Therefore, national banks pledged the vast majority of this type of collateral through national currency associations, despite the ability to directly request emergency currency from the Treasury Department. This implies that national banks likely preferred the risk-pooling dynamic of the national currency associations and the ability to pledge commercial assets as collateral for emergency currency. Additionally, it cannot be ruled out that dealing directly with the Treasury Department was administratively and bureaucratically slow, since this was the first issuance of emergency currency. 
+
+## **7. Funding Source: National currency association memberships were jointly liable for the issuance of emergency currency.** 
+
+According to the Aldrich-Vreeland Act, the national currency association member banks were jointly liable for the emergency currency issuance. If member banks failed and were unable to pay off their emergency currency, the federal government had a lien on the assets of “all banks belonging to the association” (Aldrich-Vreeland Act 1908, vol. 35, sec. 1). This resembled the structure of CLCs, which were jointly guaranteed by the clearinghouse membership. 
+
+> 5 Congressional deliberations revealed that some in Congress viewed this amendment as unfairly supporting and prioritizing the needs of New York City banks (Silber 2008, 78). 
+
+
+Under the Aldrich-Vreeland Act, if any currency association had outstanding emergency currency, it had to pay into a redemption fund 5% of the outstanding amount.[6] If banks did not pay into or failed to maintain the redemption fund, the Treasury could remove money from the redemption funds of other banks in the same currency association to account for this issue (Aldrich-Vreeland Act 1908). 
+
+## **8. Program Size: Participating institutions faced a legislative limit on emergency currency issuance, although the August 4 Amendment allowed the Treasury secretary to suspend this limit.** 
+
+The Aldrich-Vreeland Act set a hard cap on outstanding emergency currency issuance at $500 million (Aldrich-Vreeland Act 1908, vol. 35, sec. 5). However, the August 4 Amendment allowed the Treasury secretary to discretionarily suspend this ceiling (August 4 Amendment 1914, 13:683). Although the amendment did not establish a new limit and the Treasury secretary did not announce a new limit, news reports estimated that eligible banks could issue more than $1 billion in emergency currency, based on the collateral available to them ( _NYT_ 1914b). After the Crisis of 1914, the comptroller of the currency estimated that the theoretical limit on emergency currency issuance in 1914 was almost $1.5 billion (OCC 1915). 
+
+In total, participants issued $386 million in emergency currency, with a peak outstanding of about $364 million on October 24, 1914. Therefore, banks issued less than one-quarter of the theoretical limit on emergency currency. Emergency currency functioned as a temporary relief measure before the Federal Reserve System was operational. Eighty percent of the issuance during the Crisis of 1914 occurred in cities that hosted Federal Reserve banks. Figure 2 shows the state-level data on emergency currency issuance as a share of the theoretical limit. This can serve as a proxy for financial stress, as states with a larger utilization of their limits (which is a function of banking sector size) indicate a greater need for additional liquidity. Issuance appears most concentrated in New York and the Southern states. Banks in nine states did not issue any emergency currency (OCC 1915). 
+
+> 6 Unrelated to the issuance of emergency currency, banks at the time already maintained a redemption fund at the Treasury equal to 5% of circulation of national bank notes backed by US bonds (Laughlin 1908). 
+
+
+[FIGURE id=vol4_iss2_53_f2 type=chart label="Figure 2" file=figure_2.png caption="State-Level Emergency Currency Issuance, Based on the Size of the Banking Sector (as a % of Theoretical Limit)"]
+### **Figure 2: State-Level Emergency Currency Issuance, Based on the Size of the Banking Sector (as a % of Theoretical Limit)**
+![Figure 2](assets/vol4_iss2_53/figure_2.png)
+
+
+_Source: Author’s creation; OCC 1915._ 
+
+**9. Individual Participation Limits: Borrowing banks could issue up to 125% of their capital.** 
+
+The August 4 Amendment limited individual participating institution issuance to 125% of their capital and surplus (August 4 Amendment 1914). Additionally, the Aldrich-Vreeland Act restricted issuance of emergency currency within each state to its proportion of the nation’s total capital and surplus. However, the Treasury secretary could reallocate the emergency currency issuance cap of states that had not used their full issuance amount to states within the same region that wished to exceed their limits (Aldrich-Vreeland Act 1908, vol. 35, sec. 7). Research could not confirm whether individual currency associations had internal participation limits. 
+
+**10. Rate Charged: Emergency currency had an escalating interest rate structure that was set at 3% for the first three months and rose after nine months to 6%, which was the rate on clearinghouse loan certificates.** 
+
+According to the Federal Reserve Act, emergency currency carried an interest rate (“tax”) of 3% for the first three months, based on the average amount of emergency currency in circulation held by the institution. After that point, the interest rate increased 50 bps until a 
+
+
+ceiling of 6% was reached, in the ninth month (August 4 Amendment 1914). The AldrichVreeland Act initially established an interest rate of 5% for the first month, which then increased by 1% every month until a ceiling of 10% was reached (Aldrich-Vreeland Act 1908, vol. 35, sec. 9). The comptroller of the currency referred to this initial rate as “onerous” (OCC 1914). He then claimed the lower rate charged in the Federal Reserve Act was “practicable and efficient” (OCC 1914). 
+
+The interest charged on emergency currency went to the Division of Redemption of the Treasury (Aldrich-Vreeland Act 1908, vol. 35, sec. 9). This amounted to almost $3 million for the entirety of the program (OCC 1915). 
+
+The interest rate did not vary by jurisdiction. At least initially, emergency currency had a much lower interest rate than clearinghouse loan certificates at the New York Clearing House Association, which had a uniform 6% rate (Fulmer 2022). Figure 3 presents money market rates in New York City during 1914, as there is no nationwide interest rate data to compare emergency currency against. In New York City alone, it appears that emergency currency had a below-market price, at least before the escalating structure kicked in. However, this rising rate stopped at 6%, which could still be considered a market rate, per Figure 3. 
+
+
+[FIGURE id=vol4_iss2_53_f3 type=chart label="Figure 3" file=figure_3.png caption="Money Market Rates in New York City during the Crisis of 1914"]
+### **Figure 3: Money Market Rates in New York City during the Crisis of 1914**
+![Figure 3](assets/vol4_iss2_53/figure_3.png)
+
+
+Note: Shaded area represents the period in which the New York Clearing House Association issued CLCs generally reflecting the crisis period. The dashed horizontal line shows the 3% initial rate charged on emergency currency, although this rate began increasing after three months to a maximum of 6%. The dotted horizontal line shows the 6% rate charged on CLCs. Data was provided monthly as a range. 
+
+_Source: Author’s creation; OCC 1914; OCC 1915._ 
+
+## **11. Eligible Collateral: Any security held by a national banking association could be used as collateral for issuing emergency currency.** 
+
+According to the Aldrich-Vreeland Act, eligible collateral for emergency currency included “any securities, including commercial paper, held by a national banking association” (Aldrich-Vreeland Act 1908, vol. 35, sec. 1). Seemingly _any_ securities held by national banking associations were eligible as collateral.[7] 
+
+For state and municipal bonds, the state or locality had to exist for at least 10 years and not have defaulted in the same period (Aldrich-Vreeland Act 1908, vol. 35, sec. 4). There was no limitation on the issuance size of state and municipal bonds as a proportion of the state’s or municipality’s capital and surplus. 
+
+> 7 Laughlin (1908) claims that the Aldrich-Vreeland granted “sweeping” powers, by simply referring to “any securities.” Laughlin states that some members of Congress assumed that they were limiting the securities to “legitimate commercial paper,” but the wording clearly indicated that “any securities” were allowed (Laughlin 1908). 
+
+
+As for commercial paper, the act defined it as “notes representing actual commercial transactions . . . [that] bear the names of at least two responsible parties and have not exceeding four months to run” (Aldrich-Vreeland Act 1908, vol. 35, sec. 1). Consistent with banking in the early 20th century, the act did not indicate what qualified a party as responsible. Borrowing banks could not use commercial paper to issue emergency currency in excess of 30% of their capital and surplus (OCC 1914). 
+
+In the 1915 annual report by the OCC, the Treasury divided pledged collateral for emergency currency into four categories: 
+
+- State, municipal, and county bonds; 
+
+- Miscellaneous securities, including industrial bonds, and other securities, mainly city and town notes and warrants; 
+
+- Commercial paper; and 
+
+- Notes secured by warehouse receipts for cotton, tobacco, and naval stores (OCC 1915).[8] 
+
+The national currency associations had the authority to request either additional collateral or a collateral substitute if the securities deposited failed to meet its standards. Ten days after a borrowing bank failed, the association could sell the deposited collateral on the market and return the proceeds to the Treasury. If this sale was not enough to cover the emergency currency, the association had a lien on the assets of the failed bank (AldrichVreeland Act 1908, vol. 35, sec. 1). 
+
+The Aldrich-Vreeland Act established that the state and municipal bonds received at least a 15% haircut, while commercial paper and all other securities received at least a 25% haircut (Aldrich-Vreeland Act 1908, vol. 35, sec. 1). However, as can be seen in Figure 4, stricter haircuts were applied to every type of collateral pledged. 
+
+> 8 This category appears to have been a concession to Southern states, especially the inclusion of cotton receipts (Silber 2008, 87). 
+
+
+[FIGURE id=vol4_iss2_53_f4 type=figure label="Figure 4" file=figure_4.png caption="Pledged Collateral Breakdown"]
+### **Figure 4: Pledged Collateral Breakdown**
+![Figure 4](assets/vol4_iss2_53/figure_4.png)
+
+
+
+
+_Source: OCC 1915._ 
+
+## **12. Loan Duration: Emergency currency did not have a set maturity.** 
+
+Emergency currency functioned similarly to notes secured on US bonds in that they could be retired at any time without a set maturity (OCC 1914). 
+
+## **13. Other Conditions: Research did not determine any additional conditions on emergency currency.** 
+
+Research did not determine other conditions attached to emergency currency. 
+
+## **14. Impact on Monetary Policy Transmission: Emergency currency had a significant, but short-term, effect on the money supply due to the widespread issuance.** 
+
+Due to the period of history that this case focuses on, this Key Design Decision assesses the effect of emergency currency on the money supply, rather than monetary policy, as the gold standard was in effect. The issuance of emergency currency had a significant effect on the money supply. According to Silber (2008, 86, citing Friedman and Schwartz 1963), the money supply grew by an annual rate of almost 10% in the first three months of the crisis. At the time, news reports stoked fears of excessive issuance of currency. Silber details an opinion piece from the _New York Times_ that starts by supporting the emergency currency issuance but ends with a strong warning of potential negative consequences of excessive issuance. Additionally, he documents a _Wall Street Journal_ article that attacks the relatively low interest rate charged on emergency currency, referring to the “craze for easy money” (Silber 2008, 87). 
+
+However, these concerns about excessive currency issuance proved unnecessary, as banks quickly retired their emergency currency and money supply growth from August-December actually declined when compared to previous years (Silber 2008, 87). 
+
+
+## **15. Other Options: Research did not uncover additional options considered prior to the issuance of emergency currency.** 
+
+Research did not determine other options considered by the government to respond to the Crisis of 1914, as the Federal Reserve was not operational at the time. Dodge (1922) says that many businesspeople believed that the emergency currency issued were actually Federal Reserve notes, due to the timing of the issuance of the currency amid significant promotion of the new central bank, which began to issue notes only in November. 
+
+## **16. Similar Programs in Other Countries: Research did not determine any international coordination in the emergency currency program.** 
+
+The emergency currency program did not involve any international coordination. 
+
+## **17. Communication: The Treasury secretary announced details of the program in the newspapers.** 
+
+In one of the first media mentions of the possibility of emergency currency issuance, Secretary McAdoo told the _Wall Street Journal_ on August 1, 1914: 
+
+The Aldrich-Vreeland Act, as amended by the Federal Reserve Act, is still in force, and the terms upon which currency may be issued under that act are now so favorable that resort may be made quickly and effectively to it to meet any emergency . . . there is in the Treasury, printed and ready for issue, USD 500,000,000 of currency. ( _WSJ_ 1914) 
+
+This indicated a proactive willingness to use the Aldrich-Vreeland Act to position the Treasury Department as a lender of last resort rather than a midcrisis decision. Secretary McAdoo officially announced the authorization of emergency currency on August 3 in the newspapers (Silber 2008, 79; _NYT_ 1914a). Newspapers reported on further updates to the emergency currency operation. Additionally, the annual report of the OCC provided detailed information and data on the emergency currency issuance (OCC 1914; OCC 1915). 
+
+## **18. Disclosure: The Treasury Department did not release individual issuance amounts during the Crisis of 1914.** 
+
+Section 9 of the Aldrich-Vreeland Act required national currency associations to provide monthly reports to the Treasury Department of outstanding emergency currency in order to calculate the interest charges accumulated (Aldrich-Vreeland Act 1908). 
+
+Research could not determine any individual bank-level disclosure of usage during the Crisis of 1914 by the Treasury Department. The annual reports of the OCC  seem to have provided the sole source of data on emergency currency issuance, albeit at a highly aggregated level. 
+
+However, some disclosure of individual emergency currency issuance appeared in a contemporary newspaper article. The _New York Tribune_ published on August 6 the names of four banks that requested emergency currency and the amount granted to them. It is unclear from the language used in the article (“it was learned”) if this was found through 
+
+
+investigative reporting or as a public announcement from the banks or Treasury Department ( _New York Tribune_ 1914). Research could not determine if this was a single instance of disclosure or a common practice. 
+
+## **19. Stigma Strategy: The Aldrich-Vreeland Act designed emergency currency to look like national bank notes, likely to prevent depositors from discriminating against accepting emergency currency.** 
+
+The Aldrich-Vreeland Act made individual emergency currency notes appear almost identical to national bank notes (Aldrich-Vreeland Act 1908, vol. 35, sec. 11). Banners along the top of national bank notes said, “Secured by United States Bonds Deposited with the Treasurer of the United States”; similar banners along the top of emergency notes said, “Secured by United States Bonds or Other Securities” (Jacobson and Tallman 2015). This would imply that the law intended to block disclosure of individual usage of emergency currency, since holders did not have information on whether the notes were secured by US bonds or other securities (Silber 2008, 76). As a result, depositors asking for withdrawals from their banks likely could not have easily determined if their banks issued emergency currency. 
+
+## **20. Exit Strategy: The escalating interest rate structure on emergency currency encouraged holders to retire it as soon as the crisis subsided.** 
+
+The escalating interest rate structure on emergency currency encouraged borrowers to retire notes quickly. Additionally, it seems that Congress did not extend the Aldrich-Vreeland Act beyond mid-1915, which removed the ability to issue emergency currency. 
+
+Although the Federal Reserve became operational in November 2014, Federal Reserve notes did not immediately replace emergency currency. Banks continued to request emergency currency despite the availability of the Federal Reserve notes, indicating that they were not perfect substitutes. Therefore, according to Dodge (1922), emergency currency was simply a necessity during a panic, while institutions used Federal Reserve notes for more regular business activities. However, the Federal Reserve Bank of Cleveland indicated in 1915 that the quick retirement of emergency currency required the reserve bank to issue Federal Reserve notes in response (Fed 1916). 
+
+The comptroller of the currency announced that borrowing banks had retired all of the emergency currency issued by July 1, 1915, except for a small sum issued to a failed bank. This nominal amount ($200,000) was recovered by December 1915. As a result, the emergency currency program did not face any losses (OCC 1915). See Figure 1 for a depiction of outstanding emergency currency along with its subsequent aggregate retirement. 
+
+
+## **References and Key Program Documents** 
+
+Documents cited in the text are introduced with a parenthetical author-date citation. Documents that are relevant to this case but have not been cited in text do not include this parenthetical reference. 
+
+## **Legal/Regulatory Guidance** 
+
+(Aldrich-Vreeland Act 1908) An Act to Amend the National Banking Laws (AldrichVreeland Act). May 30, 1908. Public Law 60-169, 35 Stat 546. 60th Congress, 1st Session. _Legislation known as the Aldrich-Vreeland Act, which allowed for the issuance of emergency currency_ . 
+
+https://ypfs.som.yale.edu/library/act-amend-national-banking-laws 
+
+(August 4 Amendment 1914) An Act to Amend Section Twenty-Seven of an Act Approved December Twenty-Third, Nineteen Hundred and Thirteen, and Known as the Federal Reserve Act (August 4 Amendment) _._ August 4, 1914. Public Law 63-163, 13 Stat 682. 63rd Congress, 2nd session. 
+
+_Amendment to the Federal Reserve Act that expanded the institutions eligible for emergency currency issuance_ . 
+
+https://ypfs.som.yale.edu/library/act-amend-section-twenty-seven-act-approveddecember-twenty-third-nineteen-hundred-and 
+
+(Federal Reserve Act 1913) Federal Reserve Act: Public Law 63-43, 63d Congress, H.R. 7837: An Act to Provide for the Establishment of Federal Reserve Banks, to Furnish an Elastic Currency, to Afford Means of Rediscounting Commercial Paper, to Establish a More Effective Supervision of Banking in the United States, and for Other Purposes (Federal Reserve Act). December 23, 1913. Public Law 63-43, 63rd Congress, H.R. 7837. _Federal Reserve Act, which extended some provisions of the Aldrich-Vreeland Act_ . https://ypfs.som.yale.edu/library/federal-reserve-act-public-law-63-43-63d-congress-hr7837-act-provide-establishment-federal 
+
+## **Media Stories** 
+
+( _New York Tribune_ 1914) _New York Tribune_ . 1914. “No Rush Here for Emergency Currency,” August 6, 1914. 
+
+_Newspaper article that revealed the names of some banks that requested emergency currency_ . 
+
+https://ypfs.som.yale.edu/library/no-rush-here-emergency-currency 
+
+( _NYT_ 1914a) _New York Times (NYT)_ . 1914a. “M’Adoo Meets Bankers Here,” August 3, 1914. _Article about Treasury Secretary William McAdoo traveling to New York City to discuss the crisis and interventions with bankers_ . 
+
+https://ypfs.som.yale.edu/library/madoo-meets-bankers-here 
+
+( _NYT_ 1914b) _New York Times (NYT)_ . 1914b. “Grants Billion Currency Issue,” August 4, 1914. 
+
+
+_Article about the approval of the issuance of emergency currency by Secretary McAdoo_ . https://ypfs.som.yale.edu/library/grants-billion-currency-issue 
+
+( _WSJ_ 1914) _Wall Street Journal (WSJ)_ . 1914. “President Takes Steps to Protect the Country,” August 1, 1914. 
+
+_News article from August 1, 1914, detailing the possible issuance of $500 million in emergency currency to alleviate the Crisis of 1914_ . 
+
+https://ypfs.som.yale.edu/library/president-takes-steps-protect-country 
+
+## **Reports/Assessments** 
+
+(Fed 1915a) Federal Reserve Board (Fed). 1915a. First Annual Report of the Federal Reserve Board 1914. January 15, 1915. 
+
+_First annual report of the Federal Reserve Board of Governors_ . https://ypfs.som.yale.edu/library/first-annual-report-federal-reserve-board-1914 
+
+(Fed 1915b) Federal Reserve Board (Fed). 1915b. Federal Reserve Bulletin - May 1915. May 1, 1915. 
+
+_A bulletin from the Federal Reserve that discusses note issuance_ . 
+
+https://ypfs.som.yale.edu/library/federal-reserve-bulletin-may-1915 
+
+(Fed 1916) Federal Reserve Board (Fed). 1916. Second Annual Report of the Federal Reserve Board. February 1, 1916. Washington, D.C.: Government Printing Office. _Second annual report of the Federal Reserve, which contains information on emergency currency and Federal Reserve Note issuance_ . 
+
+https://ypfs.som.yale.edu/library/second-annual-report-federal-reserve-board 
+
+(OCC 1914) Office of the Comptroller of the Currency (OCC). 1914. Annual Report of the Comptroller of the Currency. December 7, 1914. 
+
+_Annual report of the OCC, which details CLCs and emergency currency_ . https://ypfs.som.yale.edu/library/document/annual-report-comptroller-currency-1914 
+
+(OCC 1915) Office of the Comptroller of the Currency (OCC). 1915. Annual Report of the Comptroller of the Currency. December 6, 1915. 
+
+_Annual report of the OCC, which details CLCs and emergency currency_ . 
+
+https://ypfs.som.yale.edu/library/document/annual-report-comptroller-currency-1915 
+
+## **Key Academic Papers** 
+
+(Andrew 1908) Andrew, A. Piatt. 1908. “Substitutes for Cash in the Panic of 1907.” _Quarterly Journal of Economics_ 22, no. 4 (August): 497–516. _Article describing CLC issuance and payment limitations around the US_ . https://ypfs.som.yale.edu/node/20012 
+
+(Dodge 1922) Dodge, Homer Joseph. 1922. “The Aldrich-Vreeland Emergency Currency.” _Annals of the American Academy of Political and Social Science_ 99: 49–55. _Contemporary journal article on the conditions and structure of emergency currency during_ 
+
+
+_the Crisis of 1914, while specifically noting that bankers believed emergency currency were Federal Reserve Notes_ . 
+
+https://ypfs.som.yale.edu/library/aldrich-vreeland-emergency-currency 
+
+(Fulmer 2022) Fulmer, Sean. 2022. “United States: New York Clearing House Association, The Crisis of 1914.” _Journal of Financial Crises_ 4, no. 2. 
+
+_Case study of the New York Clearing House Association’s response to the outbreak of World War I through the issuance of clearinghouse loan certificates_ . 
+
+https://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss2/ 
+
+(Hamlin 1916) Hamlin, Charles. 1916. Speech delivered before the Massachusetts State Board of Trade, Boston, October 25, 1916. 
+
+_Speech by a leader of the Federal Reserve on the effect of emergency currency_ . https://ypfs.som.yale.edu/library/speech-delivered-massachusetts-state-board-tradeboston-mass 
+
+(Harding 1918) Harding, W.P.G. 1918. “The Federal Reserve Note, Its Functions and Limitations.” From an address before the Convention of the Ohio Bankers Association, Columbus, OH, September 5, 1918. 
+
+_Speech by a governor of the Federal Reserve Board on emergency currency_ . https://ypfs.som.yale.edu/library/federal-reserve-note-its-functions-and-limitationsaddress-convention-ohio-bankers 
+
+(Jacobson and Tallman 2015) Jacobson, Margaret, and Ellis W. Tallman. 2015. “Liquidity Provision during the Crisis of 1914: Private and Public Sources.” _Journal of Financial Stability_ 17: 22–34. 
+
+_Article that compares the structure and usage of CLCs and emergency currency during the Crisis of 1914_ . 
+
+https://ypfs.som.yale.edu/library/liquidity-provision-during-crisis-1914-private-andpublic-sources 
+
+(Laughlin 1908) Laughlin, J. Laurence. 1908. “The Aldrich-Vreeland Act.” _Journal of Political Economy_ 16, no. 8 (October): 489–513. 
+
+_Contemporary journal article after the passage of the Aldrich-Vreeland Act that documented the provisions within and how emergency currency came to fruition_ . https://ypfs.som.yale.edu/library/aldrich-vreeland-act 
+
+(McAdoo 1931) McAdoo, William G. 1931. _Crowded Years: The Reminiscences of William G. McAdoo_ . Boston and New York: Houghton Mifflin Company. 
+
+_The Treasury secretary’s memoir_ . 
+
+https://ypfs.som.yale.edu/library/crowded-years-reminiscences-william-g-mcadoo 
+
+(Sablik 2013) Sablik, Tim. 2013. “The Last Crisis before the Fed.” _Econ Focus_ . _Short summary of the Crisis of 1914 and the response to it_ . https://ypfs.som.yale.edu/library/last-crisis-fed 
+
+
+(Silber 2007) Silber, William L. 2007. “The Great Financial Crisis of 1914: What Can We Learn from Aldrich-Vreeland Emergency Currency?” _American Economic Review_ 97, no. 2: 285–89. 
+
+_Article about the issuance of emergency currency in 1914_ . 
+
+https://ypfs.som.yale.edu/library/great-financial-crisis-1914-what-can-we-learn-aldrichvreeland-emergency-currency 
+
+(Silber 2008) Silber, William L. 2008. _When Washington Shut Down Wall Street: The Great Financial Crisis of 1914 and the Origins of America’s Monetary Supremacy_ . Princeton, NJ: Princeton University Press. 
+
+_Book about the Crisis of 1914 with details about the Treasury secretary’s involvement in issuing emergency currency_ . 
+
+https://ypfs.som.yale.edu/library/document/when-washington-shut-down-wall-streetgreat-financial-crisis-1914-and-origins 
+
+(Sprague 1910) Sprague, Oliver Mitchell Wentworth. 1910. _History of Crises under the National Banking System_ . National Monetary Commission. 61st Congress, 2nd Session, No. 538. Washington, DC: US Government Printing Office. 
+
+_Definitive account of the NYCH crises, leading to the creation of the Federal Reserve_ . https://ypfs.som.yale.edu/library/document/history-crises-under-national-bankingsystem 
+
+(Sprague 1915) Sprague, Oliver Mitchell Wentworth. 1915. “The Crisis of 1914 in the United States.” _American Economic Review_ 5, no. 3: 499–533. _Article on the usage of emergency currency and CLCs during the Crisis of 1914_ . https://ypfs.som.yale.edu/library/crisis-1914-united-states 
+
+(Tallman and Jacobson 2019) Tallman, Ellis W., and Margaret Jacobson. 2019. “The Federal Reserve System and World War I: Designing Policies without Precedent.” In _Les Banques Centrales Pendant La Grande Guerre_ , edited by O. Feiertag and M. Margairaz, 5–32. Paris, France: Les Press de Sciences Po. 
+
+_Journal article detailing the creation of a new tool, emergency currency_ . https://ypfs.som.yale.edu/library/federal-reserve-system-and-world-war-i-designingpolicies-without-precedent 
+
+Copyright 2022 © Yale University. All rights reserved. To order copies of this material or to receive permission to reprint any or all of this document, please contact the Yale Program on Financial Stability at ypfs@yale.edu.

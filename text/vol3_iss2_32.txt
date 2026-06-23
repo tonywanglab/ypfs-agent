@@ -1,0 +1,222 @@
+--- Page 1 ---
+Journal of Financial Crises Journal of Financial Crises 
+Volume 3 Issue 2 
+2021 
+Comment Letters May Have Helped Shape Federal Reserve’s Comment Letters May Have Helped Shape Federal Reserve’s 
+Municipal Liquidity Facility (MLF) and Main Street Lending Municipal Liquidity Facility (MLF) and Main Street Lending 
+Program (MSLP) Program (MSLP) 
+Steven Kelly 
+Yale School of Management 
+Follow this and additional works at: https://elischolar.library.yale.edu/journal-of-financial-crises 
+ Part of the Economic Policy Commons, Finance and Financial Management Commons, 
+Macroeconomics Commons, Policy Design, Analysis, and Evaluation Commons, Public Administration 
+Commons, and the Public Policy Commons 
+Recommended Citation Recommended Citation 
+Kelly, Steven (2021) "Comment Letters May Have Helped Shape Federal Reserve’s Municipal Liquidity 
+Facility (MLF) and Main Street Lending Program (MSLP)," Journal of Financial Crises: Vol. 3 : Iss. 2, 
+772-775. 
+DOI: https://doi.org/10.17132/2693-3179.1194 
+Available at: https://elischolar.library.yale.edu/journal-of-financial-crises/vol3/iss2/32 
+This Archive Note is brought to you for free and open access by the Journal of Financial Crises and 
+EliScholar – A Digital Platform for Scholarly Publishing at Yale. For more information, please contact 
+journalfinancialcrises@yale.edu.
+
+--- Page 2 ---
+READERS TAKE NOTICE: READERS TAKE NOTICE: 
+As of April 2024, the YPFS Resource Library’s site domain has changed 
+to https://elischolar.library.yale.edu/ypfs-financial-crisis-resource-library/. 
+Please be aware that upon clicking any of the URL references to 
+the former Resource Library domains, either https://ypfs.som.yale.edu 
+or https://ypfsresourcelibrary.blob.core.windows.net/, in the 
+"References/Key Program Documents" section of a case study, 
+readers will encounter a "page not found" error. readers will encounter a "page not found" error. 
+Readers can still retrieve a given resource cited within this case study 
+on the new site  by searching by searching here  for the title cited. for the title cited. 
+This archive note is available in Journal of Financial Crises: https://elischolar.library.yale.edu/journal-of-financial-
+crises/vol3/iss2/32
+
+--- Page 3 ---
+Yale Program on Financial Stability 
+Archive Note 
+ 
+Comment Letters May Have Helped Shape Federal Reserve’s 
+Municipal Liquidity Facility (MLF) and Main Street Lending Program 
+(MSLP) 
+|By Steven Kelly  
+ 
+In support of the Yale Program on Financial Stability’s (YPFS) efforts to archive primary and 
+secondary materials that shed light on financial crises, Cezary Podkul 1 of the Wall Street 
+Journal has shared documents with us resulting from a Freedom of Information Act (FOIA) 
+request. The request, initiated on April 23, 2020, was for: 
+ 
+. . . all comment letters received by the Fed since March 1 regarding any of the 
+emergency loan facilities established by the Fed in March and April 2020 under its 
+13(3) emergency lending powers . . . [and] also include letters send [sic] directly to 
+Chairman Powell regarding these facilities, including any Congressional 
+correspondence related to the facilities. 
+ 
+In response to the request, the Federal Reserve released all letters regarding the Municipal 
+Liquidity Facility (MLF) and the Main Street Lending Program (MSLP)  sent to the central 
+bank during the requested period .2 The Fed stated that it was releasing letters regarding 
+these two facilities as they were the only two for which it had invited public comment.  
+ 
+Requesting public comment with respect to a proposed rule, or a lending facility, is one of 
+the customary ways that an agency or the Fed can solicit input to evaluate response s to a 
+rule or program before it becomes final. Such comment s can be particularly helpful in 
+controversial matters or, as in this case, in areas of first impression; the MLF and MSLP were 
+new types of lending facilities for the Fed. The released correspondence reflects a wide array 
+of congressional and stakeholder  concerns: some recurring, others specific to individual 
+officials. The Fed ultimately incorporated s ome of the changes and additions requested in 
+these comment letters into the respective facilities. 
+ 
+Municipal Liquidity Facility 
+ 
+The Fed designed3 the MLF to “help state and local governments manage cash flow stresses 
+caused by the coronavirus pa ndemic” by purchasing short-term notes directly from states 
+ 
+1 The Yale Program on Financial Stability (YPFS) thanks Mr. Podkul for sharing these documents with us. 
+2 The FOIA request was received by the Fed on April 24 and granted on November 23, 2020. Letters released 
+date from March 1 to approximately the date of the request; several of the released MLF comments are dated 
+to late April and early May.  
+3 Board of Governors of the Federal Reserve System (BdofGov), “Federal Reserve takes additional actions to 
+provide up to $2.3 trillion in loans to support the economy” (April 9 , 2020). Unless otherwise specified, all 
+resources mentioned in the footnotes, are available by searching the YPFS Resource Library at: 
+https://ypfs.som.yale.edu/. 
+772
+
+--- Page 4 ---
+Yale Program on Financial Stability 
+Archive Note 
+ 
+(as well as the District of Columbia ), counties , and cities . The MLF had a stated lending 
+capacity of $500 billion , and t he Treasury supported the MLF with $35 billion of equity 
+funding allocated by the Coronavirus Aid, Relief, and Economic Security Act (CARES Act). 
+ 
+The MLF release includes letters and comments from  both congressional sources and  non-
+congressional ones, suc h as trade groups, state/territory officials, and other individuals.  
+Among the many issues raised in the letters, the commenters nearly unanimously called for 
+the Fed to lower the population thresholds  needed for a municipality’s notes to be eligible 
+for the facility to purchase. The Fed’s first iteration4 of the MLF’s terms, released on April 9, 
+2020, limited eligibility to “U.S. states (including the District of Columbia), U.S. counties with 
+a population of at least two million residents, and U.S. cities with a population of at least one 
+million residents.” Several of the commenters noted that this would only cover 10 cities and 
+15 counties in the nation and would disproportionately exclude Black communities. On April 
+27, the Fed revised5 the terms of the MLF to allow for “ U.S. counties with a population of at 
+least 500,000 residents, and U.S. cities with a population of at least 250,000 residents.” Later, 
+the Fed further eased6 population thresholds by allowing state governors with less than two 
+total eligible cities and counties to designate additional municipalities for eligibility —until 
+the state had at least two eligible jurisdictions. 
+ 
+Many of the MLF comment letters called  for the Fed to lengthen the maturity of the notes 
+eligible for purchase —with one letter noting the discrepancy between the MLF’s maturity 
+limits and those in the Fed’s corporate credit facilities. As part of the April 27, 2020 
+modifications, the Fed exten ded the maturity limit of eligible notes from 24 to 36 months. 
+However, the facility never received maturity parity with the corporate facilities, which 
+extended to four and five years. 
+ 
+Several letters called for lower interest rates on the facility. On August 11, 2020, the Fed 
+lowered7 the MLF’s rates across all credit ratings by a uniform 50 basis points (and slightly 
+eased the adjusted rate for taxable notes).  
+ 
+Numerous letters also called for the Fed to expand MLF eligibility to  U.S. territories and 
+Tribes, with several  commenters noting that Section 4002 (10) of the CARES Act —the 
+legislation that provided for the Treasury funds allocated to the MLF  and encouraged the 
+creation of such a facility —specifically includes territories and Tribes in its definition of 
+“State.” The Fed never expanded eligibility to these jurisdictions. 
+ 
+ 
+4 BdofGov, “Federal Reserve takes additional actions to provide up to $2.3 trillion in loans to support the 
+economy” (April 9, 2020). 
+5 BdofGov, “Federal Reserve Board announces an expansion of the scope and duration of the Municipal 
+Liquidity Facility” (April 27, 2020). 
+6 BdofGov, “Federal Reserve Board announces an expansion in the number and type of entities eligible to 
+directly use its Municipal Liquidity Facility” (June 3, 2020). 
+7 BdofGov, “Federal Reserve Board announces revised pricing for its Municipal Liquidity Facility” (August 11, 
+2020). 
+773
+Journal of Financial Crises Vol. 3 Iss. 2
+
+--- Page 5 ---
+Yale Program on Financial Stability 
+Archive Note 
+ 
+Several letters, including one signed by over 40 members of Congress,  requested the Fed 
+intervene directly in the secondary market for municipal securities . Despite these requests, 
+the Fed never expanded the MLF or created an additional facility for such a purpose.  The 
+MLF extended8 approximately $6.5 billion of credit before Congress closed9 the facility. 
+ 
+Main Street Lending Program 
+ 
+The Fed designed10 the MSLP to “ensure credit flows to small and mid-sized businesses with 
+the purchase of up to $600 billion in loan s.” Treasury supported the MSLP with $75 billion 
+of equity from the CARES Act funds.  
+ 
+While commenters similarly raised many topics of interest regarding the MSLP, almost all 
+the congressional letters call ed on the Fed to expand the facility to include nonprofits as 
+eligible borrowers, which were not eligible per the original, April 9, 2020 announcement of 
+the MSLP. On April 30, the Fed said,11 “The Board recognizes the critical role that nonprofit 
+organizations play throughout the economy and is evaluating a separate approach to meet 
+their unique needs.” On June 15, the Fed released12 a proposal for public comment , and on 
+July 17, the Fed expanded13 the MSLP to include two new nonprofit lending facilities. 
+ 
+Many of the comment letters called for the Fed to grant flexibility with respect to EBITDA -
+based eligibility requirements. The April 9, 2020, term sheets limited the size of MSLP loans 
+based on, among other factors, the borrower’s 2019 earnings before interest, taxes, 
+depreciation, and amortization (EBITDA). Many members of Congress suggested that such a 
+standard would undesirably exclude certain firms, such as growth or startup firms that have 
+yet to show material earnings, or firms that, for idiosyncratic reasons, had weak earnings in 
+2019 but were otherwise strong earners. However, as the Fed modified and expanded the  
+MSLP facilities, eligible loan sizes for for -profit firms continued to be based on the 
+borrower’s 2019 EBITDA. The MSLP extended14 approximately $17.5 billion in credit before 
+Congress closed15 the facility. 
+ 
+ 
+ 
+8 BdofGov, “Municipal Liquidity Facility transaction-specific disclosures - 5/10/21” (May 10, 2020). 
+9 Kelly, Steven. “Redux: Outlook for 13(3) and Fed Crisis Response.” Yale Program on Financial Stability 
+Systemic Risk Blog. 
+10 BdofGov, Federal Reserve takes additional actions to provide up to $2.3 trillion in loans to support the 
+economy” (April 9, 2020). 
+11 BdofGov, “Federal Reserve Board announces it is expanding the scope and eligibility for the Main Street 
+Lending Program” (April 30, 2020). 
+12 BdofGov, “Federal Reserve Board announces it will be seeking public feedback on proposal to expand its 
+Main Street Lending Program to provide access to credit for nonprofit organizations” (June 15, 2020). 
+13 BdofGov, “Federal Reserve Board modifies Main Street Lending Program to provide greater access to credit 
+for nonprofit organizations such as educational institutions, hospitals, and social service  organizations” (July 
+17, 2020). 
+14 Saraiva, Catarina, “Fed’s Aid Program for Midsize Businesses Spent Only 3% of Its Total .”  
+15 Kelly, Steven. “Redux: Outlook for 13(3) and Fed Crisis Response.” Yale Program on Financial Stability.   
+774
+Comment Letters May Have Helped Shape Federal Reserve’s Municipal Liquidity Facility (MLF) and Main Street Lending Program (MSLP)Kelly
+
+--- Page 6 ---
+Yale Program on Financial Stability 
+Archive Note 
+ 
+As the above discussion illustrates, public comment can be a source of valuable information 
+that assists the Fed (and government agencies in general) in calibrating rules, processes, and 
+facilities in order to better implement mission  goals. The comment letters discussed above 
+can be accessed through the YPFS Resource Library:  
+• Cover letter of Federal Reserve FOIA response: 
+https://ypfs.som.yale.edu/library/wall-street-journal-federal-reserve-foia-2020-
+fed-cover-letter  
+ 
+• Municipal Liquidity Facility letters: 
+https://ypfs.som.yale.edu/library/municipal-liquidity-facility-comment-letters-fed 
+  
+• Main Street Lending Program letters: 
+https://ypfs.som.yale.edu/library/main-street-lending-program-congressional-
+comments-fed-march-1  
+ 
+In response to the FOIA request, the Fed released only congressional comment letters 
+relating to the MSLP. However, it indicated that non-congressional comments received by 
+the Board regarding the MSLP are accessible at the following website: 
+https://www.federalreserve.gov/monetarypolicy/mainstreetlending.htm. 
+ 
+The YPFS Resource Library collects primary and secondary sources that YPFS consulted in 
+creating case studies and other sources relating to our research on financial crises. While at 
+this time the majority of our Resource Library materials relate to the Global Financial Crisis 
+(2007-09), an increasing number concern other crises. YPFS Archive Notes highlight 
+noteworthy content or additions to the library. 
+775
+Journal of Financial Crises Vol. 3 Iss. 2

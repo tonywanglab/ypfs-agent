@@ -1,0 +1,60 @@
+## Yale Program on Financial Stability Lessons Learned 
+
+## Mike Leahy 
+
+By Yasemin Sim Esmen 
+
+_Mike Leahy was associate director at the Federal Reserve Board’s Division of International Finance between 2008 and 2010. He was instrumental in establishing swap lines with foreign central banks and reviewed and reported on excess reserve balances and required interest payments to depository institutions. This Lessons Learned is based on a phone interview with Leahy on October 22, 2020; the full transcript may be accessed here._ 
+
+## **Paying interest on banks’ reserves is a good way to control interest rates during a crisis where liquidity is a cause for concern.** 
+
+Leahy explained that because banks were, at the time of the Global Financial Crisis (GFC), required to hold reserves at the Federal Reserve against certain types of accounts, and historically the Fed did not pay interest on reserves, they would engage in behaviors to minimize the amount of reserves they would have to maintain. One tactic was to automatically sweep the funds out of accounts that required reserves right before reserve requirements were to be assessed and then move the funds back into these accounts once the assessment was completed. This was an inefficient use of resources, generating numerous extra transactions for the sole purpose of avoiding having to deposit reserves. 
+
+This circumstance prompted Congress to pass a law in 2006 authorizing the Federal Reserve to pay interest on banks’ reserves. The law was to take effect in 2011 to allow time for institutions to adjust. However, the Fed was injecting substantial amounts of liquidity into the banking system to effect its emergency lending and crisis-time monetary policy. As a result, the necessity to implement the payment of interest on reserves became urgent, so the Fed could implement its monetary policy rate independently of its financial markets interventions. Paying interest provided the Federal Reserve with an instrument to control interest rates. Leahy explained, 
+
+The Fed was injecting lots of liquidity into the market to meet the liquidity concerns of financial institutions. That was driving the interest rates in the market, in particular the fed funds rate, below what the Fed was targeting. Paying interest on reserves seemed to provide a way to separate the provision of liquidity, which was needed to support financial institutions, and control over the fed funds rate, which was needed to manage overall economic activity and inflation. The power to pay interest on reserves was seen as offering a second tool that the Fed could use to influence market rates. It is always better to have more tools to achieve your goals. 
+
+Foreign central banks had used this instrument before, but the Federal Reserve had not, as it never had authority to pay interest on banks’ reserves. 
+
+Once that authority could be utilized, a related issue appeared, recalled Leahy. Because the legislation only authorized payment of interest to banks, the Fed still could not pay interest 
+
+
+on the large deposits that it held for the giant government-sponsored enterprises (GSEs), Freddie Mac and Fannie Mae. “So, that technicality in the law complicated things,” said Leahy. Because such financial institutions could not receive interest on their reserves with the Fed, they were willing to lend at a rate lower than the Fed floor rate to earn a return on their funds. This, in turn, could cause the fed funds rate to drop below the Fed’s interest rate on reserves, causing a “leaky floor.” 
+
+The Fed was resourceful and creative in finding a solution to this challenge, Leahy stated. A “reverse repurchase facility” allowed the GSEs to deposit their extra liquidity at the Fed temporarily in exchange for Treasury securities. The repurchase agreements priced the Treasuries so that the GSEs bought them at one price and sold them back the next day at a slightly higher price. “In that way,” said Leahy, “the GSEs could essentially get the same floor rate as banks could get if they had funds they could leave on deposit at the Fed.” During the time that the target was close to the rate of interest paid on reserves, continued Leahy, “the strategy actually helped quite a bit in keeping rates pretty close to the target the FOMC had set for the fed funds rate.” 
+
+## **In a crisis, careful attention needs to be paid to disruptions in dollar funding markets abroad, as they may spill back into the United States.** 
+
+Because the US dollar is used around the world, when dollar funding seized up during the GFC, it became a global phenomenon as the shortage of dollar funding in one market spread to others. Further, because international markets were open and linked, disruptions in dollar markets in Europe or Asia could easily spill back to the US and disrupt the economy. To avoid this, the Federal Reserve turned to central bank currency swap lines, which it had used in the past. Said Leahy, “They were used as a tool for intervening in foreign exchange markets for many years, during the Bretton Woods period when exchange rates were pegged, but we have been away from that for quite a while.” 
+
+The Fed would do a swap transaction with, say, the European Central Bank (ECB) where it received euros as collateral for providing an agreed-upon amount of US dollars. The ECB would then decide who to lend to in their jurisdictions. 
+
+It was up to the ECB to assess the conditions in its jurisdictions. Were their financial institutions just facing a nonfunctioning market, or were they in trouble? Did they have credit risk? The ECB would have to make a decision on whether it should lend to those institutions or not, but that is something that they can do because they followed those institutions in those markets and the Federal Reserve did not. 
+
+After some set time, the transaction would be unwound. At the end of the transaction, the ECB would return the dollars to the Fed, which would return the euros held as collateral to the ECB,. There was a lot of interest on the part of foreign central banks to receive these swap lines, explained Leahy; they were also well received: “There was a lot of familiarity with the central banks that were party to the agreements in the past. It wasn’t hard to set up the lines; it was not setting up something from scratch.” 
+
+
+The swap lines helped foreign central banks better deal with the conditions in their markets and helped foreign markets gain confidence that there was dollar liquidity available to them, which, in turn, helped keep funding costs down. 
+
+The basic idea was to try to meet dollar funding needs outside the United States and to help the foreign central banks play the role that only they could play in figuring out how to help keep funding functioning in their local markets. In my assessment, it worked amazingly well, it really was quite successful. The Federal Reserve provided liquidity, the foreign central banks always returned that dollar liquidity, there were never any losses that the Fed had to bear. 
+
+## **To avoid a financial crisis, we need to pay attention to systemic risk, not just to individual banks.** 
+
+“Part of the problem,” said Leahy, “was that [prior to the GFC], the global financial community did not really look at this risk in a systemic way.” Leading up to the Global Financial Crisis, many bank supervisors looked at individual banks and did not pay attention to systemic risk. Often banks looked like they had little risk because their risk was hedged. Leahy pointed out the weaknesses in this traditional approach: 
+
+However, all hedging does is shift risk—it doesn’t make risk go away. In this case, one of the initial problems was that there were some bad loans made for real estate housing that could not be paid back, and then once the losses started, they propagated quickly throughout the financial system. The subprime mortgage market was riskier than many had appreciated. 
+
+Part of the risk was systemic. Financial institutions all thought they were hedging somehow. You could package these risky loans and sell them off, thinking somebody else would hold the risk. However, the risk did not go away, it was just getting redistributed, in ways that were not transparent. 
+
+This lack of transparency meant that as soon as concerns about those mortgage loans surfaced, markets seized up because one could not make sure which institutions had bad loans in their portfolios and how to assess a counterparty’s risk. This caused wide panic and led to banks being reluctant to lend. 
+
+During the financial crisis, there was essentially a seizing up of markets. People did not want to lend to one another because they were concerned that they would never get their money back if they lent it out. “Many firms were failing, which led people in the market to be suspicious about the health of the financial counterparties that they were dealing with. Instead of lending, financial institutions hoarded funds, and their unwillingness to lend imposed a huge constraint on the ability to do business. That was a key part of the problem with the global financial crisis: The panic in the financial market made it difficult for households and businesses to get the funds they needed to conduct normal economic activities.” 
+
+
+Leahy points out that since the GFC, there has been widespread recognition of systemic risks and systemic elements have been incorporated into supervisory surveillance: “For example, the Federal Reserve set up a financial stability function and began conducting regular stress tests for financial institutions, among other things.” 
+
+## **We need to pay attention to risks involved with new financial instruments.** 
+
+Financial markets are creative and come up with new instruments. “I think that the lesson from the Global Financial Crisis,” stated Leahy, “is that sometimes innovation is a good thing, but we need to pay attention to the risk.” We need to be mindful of the risks associated with new instruments and try to assess what risks they bring and whether they might pose bigger, systemic risks. It is not always easy to foresee risks associated with them. “That could be the key challenge: understanding the risks associated with new things,” said Leahy. And “the thing with the US is that, if we’re talking about a risk to dollar credit markets, that becomes almost instantly an international problem because the dollar still has a pretty important role in global funding.” 
+
+Dated: December 2022 YPFS Lessons Learned No: 2020–25

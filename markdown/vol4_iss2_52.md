@@ -1,0 +1,607 @@
+## United Kingdom: Indexed Long-Term Repo Operations[1] 
+
+## _Sean Fulmer[2]_ 
+
+Yale Program on Financial Stability Case Study June 15, 2022; revised October 12, 2022 
+
+## **Abstract** 
+
+Before the Global Financial Crisis of 2007–09, the Bank of England regularly used monthly Long-Term Repo (LTR) operations at a range of maturities to manage its balance sheet. As market liquidity tightened in late 2007, the Bank introduced the Extended Collateral LongTerm Repo (ELTR) program to lend larger amounts of sterling cash against a wider set of collateral at three-month maturities. In June 2010, the Bank replaced the ELTRs with the Indexed Long-Term Repo (ILTR) program to make the wider set of collateral a permanent part of its toolkit. The ILTR operations auctioned liquidity at three- and six-month maturities against an expanded set of collateral and at cheaper rates than the ELTRs. The Bank designed the ILTRs as a multi-good auction, a new technique that had the advantages of auctioning liquidity against specific levels of collateral that varied in quality. According to officials at the Bank, this is a unique innovation in liquidity provision. Counterparties could submit bids against a “narrow” set of collateral, a “wider” set, or both in a “paired” bid. In times of stress, the ILTRs automatically allocate a greater proportion of liquidity against less-liquid collateral. All successful bidders paid the lowest accepted bid on each collateral set. In 2014, the Bank made changes to the ILTR operations by standardizing the maturity offered, introducing a variable liquidity supply, expanding the collateral, and recalibrating to yield lower prices. The new ILTR operations respond to market-wide stress by lending a greater proportion of funds against less-liquid collateral and an increased amount of overall liquidity due to the lack of a fixed supply 
+
+**Keywords:** Auction theory, Bank of England, Indexed-Long-Term Repo, ILTR, Sterling Monetary Framework, United Kingdom 
+
+> 1 This case study is part of the Yale Program on Financial Stability (YPFS) selection of New Bagehot Project modules considering broad-based emergency lending programs. Cases are available from the _Journal of Financial Crises_ at https://elischolar.library.yale.edu/journal-of-financial-crises/. 
+
+> 2 Research Associate, YPFS, Yale School of Management. The author would like to thank Paul Klemperer and Charlotte Grace for their insightful comments. 
+
+
+## **Overview** 
+
+Prior to the Global Financial Crisis (GFC), the Bank of England (the Bank) used long-term repo operations (LTRs) at a range of maturities to manage its balance sheet (Frost, Govier, and Horn 2015). The operations did not provide a significant amount of liquidity to the banking sector, but that changed in 2007. To restore liquidity to frozen funding markets, especially against less liquid collateral, the Bank in December 2007 introduced Extended Collateral Long-Term Repo (ELTR) operations (Fulmer 2022b). The ELTRs exchanged sterling cash for an expanded set of less liquid collateral at threemonth maturities. The ELTRs utilized a discriminatory price auction in which successful bidders paid their own bid, and a single-good auction format wherein counterparties initially bid against a single pool of eligible collateral and later faced different minimum bids across collateral sets within the same auction (Frost, Govier, and Horn 2015). 
+
+As the stress of the GFC passed, the Bank decided to make the broader pool of collateral a permanent feature of its LTRs. In June 2010, the Bank of England replaced the ELTRs with Indexed Long-Term Repo (ILTR) operations, which utilized a much more sophisticated design derived from auction theory. The ILTRs used a multi-good auction format; counterparties split their eligible collateral into two pools: “narrow,” which consisted of high-quality sovereign securities, and “wider,” which included a wide range of highly rated but less liquid securities (Frost, Govier, and Horn 2015). Counterparties submitted bids simultaneously against either set of eligible collateral or both, using a “paired” bid (Bank of England 2010a). All successful bidders paid the lowest accepted bid on each 
+
+## **Key Terms** 
+
+Purpose: To “provide liquidity insurance without distorting banks’ incentives for prudent liquidity management, and whilst minimising the risk being taken onto the Bank’s own balance sheet” (Bank of England 2010a) 
+
+||Launch Dates|June 2010|
+|---|---|---|
+|||(first iteration)|
+|||February 2014<br>(second iteration)|
+||Expiration Dates|n/a|
+||Legal Authority<br>Peak Outstanding|Pre-existing authority<br>GBP 29 billion (July<br>2020)|
+||Participants|Banks and building|
+|||societies|
+||Rate|Successful bidders paid|
+||Collateral|the lowest accepted bid<br>on each collateral set<br>Two, later three, sets of<br>eligible collateral that<br>were bid on separately|
+||Loan Duration|Initially three- and six-|
+|||month maturity<br>options; later<br>standardized to only six<br>months|
+||Notable Features|Standing facility;|
+|||sophisticated auction|
+|||theory; variable supply;<br>participants could bid<br>on separate sets of<br>collateral|
+||Outcomes|No notable issues or|
+|||breakdowns in liquidity|
+|||provision|
+
+
+
+collateral set, expressed as a spread to the Bank Rate (Fisher, Frost, and Weeken 2011). 
+
+
+Every calendar quarter, the Bank offered two ILTR auctions at a term of three months and one auction at a term of six months (Bank of England 2010a). 
+
+In 2012, the Bank of England released the Winters Review, an independent review which assessed how the Bank provided liquidity to the financial system and considered the new programs created during the Global Financial Crisis (Winters 2012). This report recommended that the Bank of England combine the ILTR facility with the Extended Collateral Term Repo facility (ECTR), a shorter-term liquidity facility the Bank had created in 2011 during the euro crisis that accepted a broader range of collateral than the ILTRs. Instead of merging these two facilities, the Bank of England decided to significantly expand the ILTR facility in 2014 by setting the maturity for all auctions at six months, further extending the eligible set of collateral by introducing a third set, tying the quantity of liquidity offered to market conditions, and recalibrating to yield lower prices (Bank of England 2013). Additionally, they retained the ECTR facility as an adaptable contingent facility in case of a future crisis (Fulmer 2022a). For this case, ILTRs prior to 2014 will be referred to as “the first iteration” and those occurring in or after 2014 will be referred to as “the second iteration.” 
+
+## **Summary Evaluation** 
+
+The Bank of England has boasted of the ILTR’s design and implementation. The former Governor of the Bank of England referred to the ILTR design as “a marvellous application of theoretical economics to a practical program of vital importance” (The Economist 2012). A Deputy Governor called the operations “a world first in central banking... potentially a major step forward in practical policies to support financial stability” (Klemperer 2018). 
+
+While the ILTRs were nearly fully subscribed at the start, uptake dropped significantly around 2012 (see Figure 1). The Winters Review (2012) provided three factors that may explain this low uptake. First, there was low demand for reserves against a narrow set of collateral as a result of the Bank’s quantitative easing program, as well as widespread availability on the private market. Second, in the aftermath of the Global Financial Crisis, banks had reduced their holding of assets that would fall into the wider set of collateral. The value of this wider collateral dropped as a result of stricter regulatory changes that ruled some of these assets illiquid. Thus, banks had a much lower need to obtain liquidity against the collateral pool targeted by the facility. Last, the relatively short term of the ILTRs did not help the banks reach their regulatory liquidity requirements, a common reason to borrow from refinancing operations. The post-crisis regulatory requirements only recognized funding with more than three months of remaining maturity, which excluded the majority of ILTR funding (Winters 2012). 
+
+
+[FIGURE id=vol4_iss2_52_f1 type=figure label="Figure 1" file=figure_1.png caption="Allocation of ILTRs in the First Iteration"]
+### **Figure 1: Allocation of ILTRs in the First Iteration**
+![Figure 1](assets/vol4_iss2_52/figure_1.png)
+
+
+_Source: Bank of England n.d.b._ 
+
+In 2018, the Bank of England released an updated evaluation of its liquidity facilities, including the ILTRs. In the section regarding the ILTRs, the Bank stated that, “As we understand, no other central bank has employed such a sophisticated approach” (Independent Evaluation Office 2018). While there was some increased usage around the EU referendum, the Bank noted in 2018 that “the auction mechanism is yet to be tested in a severe liquidity stress” (Independent Evaluation Office 2018). Indeed, participants only paid above the minimum price in two auctions from 2013–16. However, the Covid pandemic has somewhat tested the system since, shown by a large increase in usage (and higher prices) in March 2020. (See Figure 2 for the allocation of ILTRs in the second iteration across the three collateral sets. Note that this figure uses a slightly different y-axis scale than Figure 1.) 
+
+
+[FIGURE id=vol4_iss2_52_f2 type=figure label="Figure 2" file=figure_2.png caption="Allocation of ILTRs in the Second Iteration"]
+### **Figure 2: Allocation of ILTRs in the Second Iteration**
+![Figure 2](assets/vol4_iss2_52/figure_2.png)
+
+
+_Source: Bank of England n.d.a._ 
+
+
+|**Context: United Kingdom 2010–2011**|**Context: United Kingdom 2010–2011**|
+|---|---|
+|**GDP**<br>**(SAAR, nominal GDP in LCU**<br>**converted to USD)**|$2.482 trillion in 2010<br>$2.662 trillion in 2011|
+|**GDP per capita**<br>**(SAAR, nominal GDP in LCU**<br>**converted to USD)**|$39,436 in 2010<br>$42,039 in 2011|
+|**Sovereign credit rating**<br>**(five-year senior debt)**|Data for 2010:<br>Moody’s: Aaa<br>S&P: AAA<br>Fitch: AAA<br>Data for 2011:<br>Moody’s: Aaa<br>S&P: AAAu<br>Fitch: AAA|
+|**Size of banking system**|$4.635 trillion in 2010<br>$4.708 trillion in 2011|
+|**Size of banking system**<br>**as a percentage of GDP**|186.72% in 2010<br>176.83% in 2011|
+|**Size of banking system**<br>**as a percentage of financial system **|Data not available for 2010<br>Data not available for 2011|
+|**Five-bank concentration of banking system**|76% in 2010<br>76%in 2011|
+|**Foreign involvement in banking system**|15% in 2010<br>15% in 2011|
+|**Government ownership of banking system**|26% in 2010<br>Datanot availablefor 2011|
+|**Existence of deposit insurance**|100% insurance on deposits up to<br>£85,000 in 2010<br>100% insurance on deposits up to<br>£85,000in 2011|
+|_Sources: Bloomberg, World Bank Global Financial Development Database, World_<br>_Bank Deposit Insurance Dataset, Cull et al. “Bank Ownership–Trends and_<br>_Implications.”_||
+
+
+
+
+## **Key Design Decisions** 
+
+**1. Purpose: The ILTR program was a standing facility that the Bank of England used to provide liquidity insurance to the banking sector.** 
+
+During the Global Financial Crisis (GFC), the Bank of England expanded its open market operations (OMOs), both in size and eligible collateral (Bank of England 2010a). While the specific actions the Bank took during the crisis were nominally temporary, the Bank stated in a 2008 consultative paper that it intended to permanently expand the eligible collateral of long-term repo operations (Bank of England 2008c). The ILTRs replaced the three-month, extended-collateral, long-term (ELTR) repos that the Bank had created in December 2007, at the height of the crisis. It also replaced the regular three-, six-, nine-, and twelve-month long-term repos the Bank conducted (Bank of England 2010b). 
+
+In a position paper describing the structure of the ILTRs, the Bank stated the guiding purpose of the operations (Bank of England 2010a): 
+
+The primary objective of the new operations is to provide liquidity insurance without distorting banks’ incentives for prudent liquidity management, and whilst minimising the risk being taken onto the Bank’s own balance sheet. 
+
+In the explanation of the second iteration of the ILTRs, the Bank provided another description of the ILTRs’ purpose (Bank of England 2013): 
+
+Banks seeking a regular source of liquidity against the widest range of collateral should expect to rely primarily on the monthly ILTR auctions… with the Bank being willing to supply an increasing amount of liquidity as signs of market stress rise. 
+
+**2. Legal Authority: The Bank of England utilized its pre-existing authority to implement financial operations in times of stress to create the ILTRs.** 
+
+In 2006, HM Treasury, the Bank of England, and the Financial Services Authority signed a memorandum of understanding establishing their individual responsibilities and powers as they relate to matters of financial stability. This memorandum stated that the Bank of England operates in “the markets to deal with fluctuations in liquidity” and can undertake, in times of crisis, “financial operations … in order to limit the risk of problems in or affecting particular institutions spreading to other parts of the financial system” (HMT, BOE, FSA 2006). The memorandum further provided instructions on how the Bank can respond to a crisis of financial stability. 
+
+The Bank would have specific responsibility for (HMT, BOE, FSA 2006, sec. 17[ii]): 
+
+maintaining, through its market operations and as banker to the banking system, operational contacts with market participants so as to monitor and, as necessary, facilitate the functioning of UK markets; this may include the provision of liquidity assistance or other support operations. 
+
+
+Consistent with the memorandum of understanding, the Bank relied on its pre-existing authority to implement financial operations in times of stress to create the ILTRs. The Bank never refers to specific legislation in any of its discussion of ILTRs, and research could not determine legislation that narrowly authorized a program like the ILTRs. The Winters Review, which analyzed the Bank’s approach to liquidity provision, never mentioned legislation or statutory authority, instead focusing on the wide range of authority vested in the Governor of the Bank (Winters 2012). Therefore, it seems likely that the Bank is relatively unrestricted in its power to implement lending programs. 
+
+## **3. Part of a Package: The Bank of England did not introduce the ILTRs in a package with other facilities, but changes in 2013–14 to the ILTRs accompanied adjustments to the Bank’s liquidity provision framework.** 
+
+In 2008, the Bank released a consultative paper on the development of the Bank’s market operations. In this paper, the Bank stated that it intended to permanently expand the temporary ELTR operations but sought consultations from market participants first in order to determine the best structure. Therefore, the Bank did not unveil the ILTR operations in 2010 in response to financial instability, but rather as a result of lessons learned from the GFC. In fact, the paper stated that it focused on “plans for a permanent framework that will persist once the current crisis has eventually passed” (Bank of England 2008c). Due to this, the Bank did not create the ILTRs in a package along with other facilities. 
+
+In 2013–14, the Bank adjusted its long-term repo operations again. This time, the Bank responded to critiques of its liquidity provision facilities in the Winters Report. In addition to changes to the ILTRs, the Bank repriced and adjusted the Discount Window Facility to make it more accessible to participants, broadened the collateral eligible for its liquidity facilities, agreed to work closer with regulators to ensure that liquidity provision did not hinder regulatory efforts, and implemented stronger governance of its liquidity provision framework, along with other changes (Bank of England 2013). 
+
+## **4. Management: The Bank of England managed the ILTR operations as a permanent facility in its Sterling Monetary Framework.** 
+
+The Bank of England operated the ILTR operations as a part of its Sterling Monetary Framework (Bank of England 2010b). Since the ILTRs are an adapted form of its regular open market operations, the Bank of England did not implement specific oversight measures. It did, however, commission its Independent Evaluation Office in 2016 to assess its liquidity provision framework (including the ILTR), with the results released in 2018. This report states that the Financial Policy Committee received “formal authority” in 2017 to approve adjustments to the liquidity facilities operated by the Bank (Independent Evaluation Office 2018). Prior to this, it had a merely advisory role, with the Governor of the Bank maintaining sole authority over the ILTR program. 
+
+
+**5. Administration: The ILTRs allocate liquidity to bidders using a sophisticated design structure informed by theoretical auction theory.** 
+
+## **Auction Design** 
+
+The ELTR program, which was the precursor to the ILTR, functioned as a single-good auction with discriminatory pricing. Under this design, counterparties bid against a single pool of collateral and, if successful, paid the rate that they bid (Frost, Govier, and Horn 2015). As the Bank expanded the eligible set of collateral for ELTRs, it introduced a minimum bid of 50 basis points for bids against the expanded, less-liquid set of collateral (Bank of England 2008b). (See Figure 3 for a breakdown of changes in auction design.) 
+
+
+[FIGURE id=vol4_iss2_52_f3 type=figure label="Figure 3" file=figure_3.png caption="Comparison of Major Components of ELTRs and ILTRs"]
+### **Figure 3: Comparison of Major Components of ELTRs and ILTRs**
+
+|**Program**|**ELTR**<br>**(precursor to the**<br>**ILTR)**|**ILTR**<br>**(First Iteration)**|**ILTR**<br>**(Second Iteration)**||
+|---|---|---|---|---|
+|Type of Auction|Single-good auction<br>with discriminatory<br>pricing (modified to<br>include different<br>minimum bids across<br>collateral sets)|Product-mix, multi-<br>good auction with<br>uniform pricing|Product-mix, multi-good<br>auction with uniform<br>pricing||
+|Collateral Groups|One pool|Two pools|Three pools||
+|Permitted Bids|10 bids allowed, but<br><20% of the total<br>funds available during<br>an auction|Unlimited but <30%<br>of the total funds<br>available during an<br>auction|Unlimited number of bids<br>and quantity of requested<br>liquidity||
+|Rate<br>Determination|Bank accepts bids,<br>high to low, until all<br>amounts allocated|Bank determines cut-<br>off price for each pool<br>of collateral (Clearing<br>Spread)|Bank determines cut-off<br>price for each pool of<br>collateral (Clearing<br>Spread)||
+|Rate Paid by<br>Successful<br>Bidders|Rate Bid|Cut-off price for the<br>pool|Cut-off price for the pool||
+|Allocation|Highest bids accepted<br>until all offered funds<br>allocated|All bids above the cut-<br>off price are accepted|All bids above the cut-off<br>price are accepted||
+|Frequency|Varied (from weekly<br>to monthly)|Monthly|Monthly (weekly during<br>times of stress)||
+|Fixed vs. Variable<br>Supply of<br>Liquidity|Fixed|Fixed|Variable||
+
+
+
+_Sources: Fisher, Frost, and Weeken 2011; Bank of England 2010a._ 
+
+In 2010, the new ILTR operations utilized a multi-good auction with uniform pricing, which the Bank called a “product-mix auction” (Frost, Govier, and Horn 2015; Fisher, Frost, and Weeken 2011).[3] In a product-mix auction, multiple products are available and participants can bid multiple times, both within and across varieties (Fisher, Frost, and Weeken 2011). For example, a participant could submit a single bid to purchase 50 units of the premium 
+
+> 3 Paul Klemperer invented the concept for a product-mix auction in 2007–08 for the Bank (Klemperer 2018). 
+
+
+quality good for $100 per unit _or_ to purchase 50 units of the standard quality good for $75 per unit. The auctioneer would then consider all of the bids submitted and determine a cutoff price per unit for each variety of product.[4] The auctioneer would accept every bid above the cut-off price and the bidders would pay the cut-off price (Fisher, Frost, and Weeken 2011). 
+
+In the first iteration of the ILTRs, the bidders were the counterparties eligible for the operations and the products were the “wider” and “narrow” sets of eligible collateral. Eligible counterparties could bid for sterling cash against either set of eligible collateral or both, known as a “paired” bid (Bank of England 2010a). The Bank called the accepted cut-off price the “clearing spread.” 
+
+The other dimension by which liquidity operations can vary is the size of allotment. The Bank of England did not fix the proportion of funds allocated to the wider and narrow sets of collateral (Fisher, Frost, and Weeken 2011). Instead, the proportion of liquidity provided to each collateral pool depended on the intersection point of two important components: the allocation frontier and the relative supply schedule (RSS). 
+
+ILTR auctions determine one cut-off price for each set of collateral. The Bank does this by first constructing a demand curve, known as the allocation frontier, from the submitted bids. This allocation frontier maps out the difference between the two cut-off prices against the proportion of liquidity demanded against the wider collateral set. The intersection of this frontier with the Bank's supply schedule then determines the percentage allocated to wider collateral and the difference between the cutoff prices, from which it is possible to determine the actual cut-off price for each set of collateral (Fisher, Frost, and Weeken 2011). See Figure 4 for an example of this. In terms of the economics, this means that the auction automatically adjusts to implement the competitive equilibrium. Since the ILTRs allow banks to submit more sophisticated bids that more closely resemble their funding needs, cut-off prices, especially for the wider set of collateral, therefore rise during times of systemic stress, providing the Bank with an “early warning indicator” (Fisher, Frost, and Weeken 2011). 
+
+The relative supply schedule represented the supply preferences of the Bank of England (Fisher, Frost, and Weeken 2011). The Bank determined this supply schedule (prior to the auction) according to three considerations: 
+
+- The Bank wanted to regularly allocate funds against wider collateral in times of financial stability, in order to ensure that counterparties understood the design and process. 
+
+- The Bank should not undermine counterparties’ incentives to prudently manage 
+
+> 4 In the case of a paired bid where more than one of the sub-bids are accepted, the auctioneer accepts the bid that is the greatest distance above its respective cut-off price. Using the same example, if the cut-off price for the premium and standard quality goods were $90 and $70, respectively, then the bidder would receive 50 units of the premium good at $90 per unit, since the bidder gets $10 of value from that exchange (the difference between her bid and the price she pays) relative to $5 for the standard quality good (Fisher, Frost, and Weeken 2011). 
+
+
+their liquidity (the moral hazard concern). 
+
+- In times of stress, the ILTR auctions should allocate a greater proportion of funds against wider collateral. 
+
+The Bank of England has not publicly released its actual relative supply schedule, further reducing any scope for counterparties to game the system (Fisher, Frost, and Weeken 2011). 
+
+Figure 4 provides a highly stylized example of how the Bank used the allocation frontier and the relative supply schedule to determine the allocation of liquidity. The downward-sloping step-wise functions are the allocation frontiers, depending on the level of stress affecting the banking sector. The upward-sloping red line represents the relative supply schedule of the Bank. The point of intersection between the two components represents the equilibrium level of liquidity allocation. Note that a situation with systemic stress results in an expansion in lending against wider collateral, while a single instance of stress to one bank does not typically affect the allocation. However, a very large, systemically important institution with a high-liquidity request could cause the allocation to increase. 
+
+[FIGURE id=vol4_iss2_52_f4 type=figure label="Figure 4" file=figure_4.png caption="Stylized Equilibrium Example"]
+### **Figure 4: Stylized Equilibrium Example**
+![Figure 4](assets/vol4_iss2_52/figure_4.png)
+
+
+_Source: Fisher, Frost, and Weeken 2011._ 
+
+This process became more complex with the addition of a third set of collateral in the second iteration of the ILTRs (see Key Design Decision No. 11, “Eligible Collateral”). The Bank referred to the new set as “Level C;” narrow collateral was “Level A;” and the original wider set was “Level B.” Along with three closing spreads, the new ILTRs used two supply curves. The first curve determined the proportion of liquidity allocated to Levels B and C collateral combined. The second curve then split that proportion between Levels B and C. For example, if the prices and quantities bid on Levels B and C were relatively high compared to Level A, a greater proportion of liquidity would go to Levels B and C. Likewise, if the prices and quantities bid on Level C were relatively high compared to Level B, a greater proportion of funds would go to Level C (Frost, Govier, and Horn 2015). 
+
+
+Again, the Bank did not reveal the details of the two supply curves it used to determine allocations. However, the Bank did state the following two principles guiding the curves: 
+
+- The Bank wants to lend a limited proportion of liquidity against each collateral set, likely so that participants understand the process for times of stress and 
+
+- the ILTR operations should automatically provide more liquidity against a collateral set if the demand for liquidity against that set increases (Frost, Govier, and Horn 2015). 
+
+## **Frequency** 
+
+Initially, ILTR operations occurred once a month (Bank of England n.d.b). 
+
+In September 2014, the Bank’s Governors considered increasing the frequency of ILTRs to prepare for the upcoming Scotland independence referendum. If the “yes” side won the referendum, the Bank planned to immediately announce weekly ILTR operations until the already scheduled operation in October. The Financial Policy Committee (FPC) of the Bank advised avoiding pre-announcements of these operations as it could spark unintended panic (Bank of England 2014b). However, this contingency was not activated as the “yes” side failed (Independent Evaluation Office 2018). 
+
+As the EU Referendum approached in June 2016, the Bank again began preparing contingency plans in March 2016 (Bank of England 2016). The FPC welcomed the Bank’s early announcement of weekly ILTR operations timed around the referendum, which contrasted with the FPC’s reticence to announce weekly ILTRs prior to the Scotland referendum (Independent Evaluation Office 2018). From June to September 2016, the Bank conducted weekly ILTRs (Bank of England n.d.a). (See Figure 5 for a graphical representation of how ILTR operations allocate more funds in times of financial stress, as the Scotland referendum failed but the EU referendum passed.) 
+
+
+[FIGURE id=vol4_iss2_52_f5 type=figure label="Figure 5" file=figure_5.png caption="ILTR Allocation around the Scotland and EU Referenda"]
+### **Figure 5: ILTR Allocation around the Scotland and EU Referenda**
+![Figure 5](assets/vol4_iss2_52/figure_5.png)
+
+
+_Source: Independent Evaluation Office 2018._ 
+
+As the UK came closer to officially leaving the EU, the Bank again implemented weekly ILTRs from mid-March to the end of April 2019 (Bank of England n.d.a). The Bank continuously extended weekly ILTRs until October 2019, when the Bank announced that the ILTRs would be weekly until further notice (Bank of England 2019a; 2019b). Soon after the United Kingdom officially left the European Union on January 31, 2020, the COVID-19 pandemic spread globally, ensuring that the ILTRs continued to operate on a weekly basis (Bank of England n.d.a). 
+
+## **6. Eligible Participants: Institutions that could participate in open market operations at the Bank and report Eligible Liabilities to the Bank were eligible for the ILTR operations.** 
+
+Institutions that could both participate in open-market operations at the Bank and report Eligible Liabilities to the Bank were eligible for the ILTR operations (Bank of England 2010b). The Bank allowed the following institutions to participate in OMOs: 
+
+- Banks and building societies[5] eligible to participate in the reserves scheme 
+
+- Other banks, building societies, and securities dealers authorized under the Financial Services and Markets Act 2000 that are active intermediaries in the sterling markets (Bank of England 2008a) 
+
+In its explanation of the second iteration of the ILTRs, the Bank noted that banks had expressed uncertainty about who was eligible for the facilities in the Sterling Monetary Framework, which includes the ILTRs. The Bank stated that all banks and building societies 
+
+> 5 A building society is a financial institution owned by its members that provides mortgage loans and savings accounts. 
+
+
+authorized by the Prudential Regulation Authority (PRA) should have full access to the Sterling Monetary Framework (Bank of England 2013). 
+
+The Bank of England noted that the ILTR operations were not Shari’ah compliant. Islamic banking prohibits the payment or receipt of interest and the ILTRs were interest-based. To account for this, the Bank of England created a secondary liquidity facility for Islamic banks that could not access liquidity through the Sterling Monetary Framework (Rahman 2017). 
+
+## **7. Funding Source and Allocation: The Bank of England funded the ILTR operations on its balance sheet.** 
+
+Like its regular OMOs, the Bank of England financed the ILTRs on its balance sheet. The Bank did not predetermine an amount allocated to ILTR operations as they were a permanent standing facility in the Sterling Monetary Framework. 
+
+**8. Program Size: Initially, ILTR auctions had a fixed supply of liquidity available, but the second iteration transitioned to a variable supply dependent on market conditions.** 
+
+The ILTRs served as a permanent standing facility in the Sterling Monetary Framework and thus, did not have a set total size. In the position paper detailing the operations, the Bank anticipated that about GBP 15 billion would be offered in each calendar quarter, across three auctions. However, the Bank noted that it could increase this amount if the bids revealed strained financial conditions (Bank of England 2010a). 
+
+During the first iteration of the ILTRs (from June 2010 to February 2014), the Bank actually undershot this framework, offering two GBP 5 billion auctions at a three-month maturity and one GBP 2.5 billion auction at a six-month maturity every calendar quarter for a total of GBP 12.5 billion. In total, during the first iteration, the Bank lent about GBP 71 billion across 44 auctions. While the ILTRs were nearly fully subscribed at the start, uptake dropped significantly around 2012, with the remaining operations only once reaching above 10% subscription (Bank of England n.d.b).[6] See Figure 6 for this dynamic over time. This figure shows the cumulative sum of bids against the narrow and wider set of collateral, relative to the cumulative sum of auction sizes (known as a cover ratio). That is, in the entirety of the first iteration of the ILTRs, participants had bid on a little more than half of the liquidity offered in auctions by the Bank. At the start of the ILTRs, this is much higher, as earlier auctions were oversubscribed, but as market conditions normalized, less demand for liquidity for the Bank brings this cumulative cover ratio down. 
+
+> 6 While the Bank of England did make significant changes to the ILTR design in 2014, the drop-off in ILTR usage from 2012 to 2014 might have been demand-driven, due to the introduction of other facilities (such as the Funding for Lending Scheme and ECTR operations) and increased liquidity supply from the Euro area. For more detailed information regarding other facilities, see Fulmer 2022a and Churm et al 2012. 
+
+
+[FIGURE id=vol4_iss2_52_f6 type=figure label="Figure 6" file=figure_6.png caption="Cumulative Cover Ratio for the First Iteration of ILTRs"]
+### **Figure 6: Cumulative Cover Ratio for the First Iteration of ILTRs**
+![Figure 6](assets/vol4_iss2_52/figure_6.png)
+
+
+_Source: Bank of England n.d.b._ 
+
+In the second iteration of the ILTRs, the Bank removed the fixed-total-size element of its auctions. Instead, the ILTR operations provided a greater amount of liquidity in each auction if the pattern of bids submitted indicated an increase in market stress (Bank of England 2014a). 
+
+If the Bank of England continued to use a fixed auction amount, this would have resulted in higher spreads paid by successful bidders in times of crisis. In contrast, moving to a variable supply allowed for both a lower price of participation and a higher quantity of liquidity provided to the system. Although the Bank has not made its exact supply function public information, it is an upward-sloping supply curve (Frost, Govier, and Horn 2015). Figure 7 provides the Bank’s stylized depiction of the dynamic at play in the supply of ILTRs. 
+
+
+[FIGURE id=vol4_iss2_52_f7 type=figure label="Figure 7" file=figure_7.png caption="Variable versus Fixed Supply"]
+### **Figure 7: Variable versus Fixed Supply**
+![Figure 7](assets/vol4_iss2_52/figure_7.png)
+
+
+_Source: Frost, Govier, and Horn 2015._ 
+
+Since the second iteration of the ILTRs removed the fixed supply of liquidity on offer, it is not possible to graph the cover ratio of each ILTR operation over time. Instead, Figure 8 shows the cumulative amount of liquidity allocated by collateral type. As a result of the new variable supply function in the ILTRs, an increased amount of liquidity allocated should signal systemic instability. 
+
+[FIGURE id=vol4_iss2_52_f8 type=figure label="Figure 8" file=figure_8.png caption="Cumulative Amount Allocated to Bidders in the Second Iteration"]
+### **Figure 8: Cumulative Amount Allocated to Bidders in the Second Iteration**
+![Figure 8](assets/vol4_iss2_52/figure_8.png)
+
+
+_Source: Bank of England n.d.a._ 
+
+
+As an example, Figure 9 shows the allocation percentages in individual auctions across the collateral sets during the COVID crisis in 2020. In February and March of that year, the amount of ILTR operations allocated against bids using the least liquid set of collateral clearly demonstrates the market stress faced by participants at that time. 
+
+[FIGURE id=vol4_iss2_52_f9 type=figure label="Figure 9" file=figure_9.png caption="Allocation during 2020 across Collateral Sets"]
+### **Figure 9: Allocation during 2020 across Collateral Sets**
+![Figure 9](assets/vol4_iss2_52/figure_9.png)
+
+
+_Source: Bank of England n.d.a._ 
+
+## **9. Individual Participation Limits: The Bank of England initially limited the overall size of participant bids but removed this restriction along with the fixed supply of liquidity.** 
+
+The Bank did not initially place a limit on the number of bids that a counterparty could submit during an auction. However, the combined bids could not exceed 30% of the total funds offered. The Bank allowed a minimum bid of GBP 5 million, and higher bids at GBP 1 million increments (Bank of England 2010b). 
+
+Along with other changes, the second iteration of the ILTRs removed the maximum limits on bid size since the amount of liquidity being offered was no longer limited. However, the minimum bid and minimum bid increments remained at GBP 5 million and GBP 1 million, respectively (Bank of England 2014a). 
+
+
+## **10. Rate Charged on Operations: ILTR operations utilized a uniform pricing structure, where successful bidders paid the lowest accepted spread.** 
+
+The ILTR operations used a uniform pricing structure, in which successful bidders paid the clearing spread applicable to each set of collateral (Bank of England 2010b). Bidders expressed their offers as a spread above the Bank Rate (in whole basis points)(Fisher, Frost, and Weeken 2011). The Bank calculated the interest charged on the ILTRs on a daily basis, using the sum of the Bank Rate at the close of the business day plus the applicable clearing spread for the set of collateral used in the operation. The total interest due for an ILTR drawing was the sum of those daily accruals (Bank of England 2010b). 
+
+The Bank noted in its position paper describing the operations that indexing the operations to the Bank Rate allowed it to avoid exposure to market fluctuations and freed banks from projecting the future path of interest rates (Bank of England 2010a). Previously, the ELTRs did not index their rates to the Bank Rate, which created this exposure to market risk (Fisher, Frost, and Weeken 2011). (See Figure 10 for clearing spreads during the first iteration of ILTRs, with spreads on the wider collateral significantly higher for the six-month ILTRs.) 
+
+[FIGURE id=vol4_iss2_52_f10 type=chart label="Figure 10" file=figure_10.png caption="Clearing Spreads for the First Iteration of the ILTRs"]
+### **Figure 10: Clearing Spreads for the First Iteration of the ILTRs**
+![Figure 10](assets/vol4_iss2_52/figure_10.png)
+
+
+_Source: Bank of England n.d.b._ 
+
+In the second iteration of the ILTRs, the Bank introduced a refinement of the minimum spread, which initially was zero for all collateral pools (Fisher, Frost, and Weeken 2011). The new rule allowed minimum spreads to be zero basis points for Level A collateral, five basis points for Level B, and 15 basis points for Level C collateral (Bank of England 2014a). The clearing spreads on the ILTRs have only rarely exceeded these minima. (See Figure 11 for a depiction of clearing spreads over time. Note that the high clearing spreads in 2020 occurred 
+
+
+the week before and the day after the UK government went into lockdown due to the COVID19 pandemic.) 
+
+[FIGURE id=vol4_iss2_52_f11 type=chart label="Figure 11" file=figure_11.png caption="Clearing Spreads on Second Iteration of the ILTRs"]
+### **Figure 11: Clearing Spreads on Second Iteration of the ILTRs**
+![Figure 11](assets/vol4_iss2_52/figure_11.png)
+
+
+_Source: Bank of England n.d.a._ 
+
+## **11. Eligible Collateral: The ILTR operations initially utilized two sets of eligible collateral, but the second iteration added a third set.** 
+
+## **First Iteration** 
+
+From creation until June 2014, the ILTRs had two sets of eligible collateral: “narrow” and “wider” (Bank of England 2010b). The narrow set of collateral contained the securities usually eligible for the Bank’s short-term repo operations, which were the highest quality sovereign securities. The wider set included a larger range of high-quality, but less-liquid debt securities (Frost, Govier, and Horn 2015). (See Appendix A for a full list of eligible collateral at creation.) 
+
+All of the collateral used for ILTRs had to have underlying cash assets, not synthetic; in other words, they could not be backed by derivatives positions. Covered bonds and asset-backed securities issued by—or containing assets originated by—the counterparty were not eligible. Eligible collateral could be denominated in sterling, euro, US dollars, Australian dollars, Canadian dollars, Swedish krona, Swiss francs, or Japanese yen (Bank of England 2010b). 
+
+The Bank applied the same haircuts to the narrow set of eligible collateral that it uses for the Bank’s regular set of short-term repo operations. For securities in the wider set of collateral, 
+
+
+the Bank varied haircuts depending on their interest rates, maturity lengths, and type of collateral pledged (Bank of England 2010b). 
+
+Securities denominated in foreign currencies received an additional haircut of six percentage points, with yen-denominated securities getting an additional two-percentage-point haircut. Collateral without an observable market price received a haircut add-on of five percentage points, and the Bank could apply an unspecified haircut to corporate bonds that were not well diversified (Bank of England 2010b). (See Appendix B for the full haircut schedule at the start of the ILTRs.) 
+
+## **Second Iteration** 
+
+Along with the other adjustments the Bank made to the ILTRs in 2014, the Bank expanded the eligible sets of collateral, changed their terminology, and standardized the sets across facilities. The narrow set of collateral became Level A, comprised of high-quality and highly liquid sovereign securities. The wider set became Level B and consisted of high-quality liquid collateral such as sovereign, supranational, mortgage, and corporate bonds. In a new addition, the Bank created Level C, which included less-liquid securitizations, own-name securities and portfolios of loans (Bank of England 2014a).[7] 
+
+Collateral used in ILTR operations faced the standard Sterling Monetary Framework haircuts used in other Bank of England operations (Bank of England 2014a).[8] These haircuts varied depending on type of security, maturity of the securities, and whether the security paid a coupon. There continued to be additional haircuts for currency volatility, inability to observe a market price, and poorly diversified portfolios of corporate bonds. Since own-name covered bonds became eligible in the second iteration, they received an additional haircut of five percentage points (Bank of England 2014c). 
+
+The Bank encouraged participants to pre-position their collateral with the Bank ahead of ILTR operations, with the pre-positioning of Level C collateral required (Bank of England 2014a). 
+
+## **12. Maturity: Initially, the Bank offered both three- and six-month maturities on its operations but simplified this to only six-month maturities in 2014.** 
+
+For the first iteration of the ILTRs, the Bank offered two ILTRs with three-month maturities and one six-month ILTR in each calendar quarter (Bank of England 2010b). Regulatory liquidity requirements only recognized funding with more than three months of remaining maturity, which removed the majority of ILTR funds from consideration (Winters 2012). Along with the other changes made in 2014, the Bank simplified the ILTRs to provide lending 
+
+> 7 A full list of eligible securities can be found at https://ypfs.som.yale.edu/index.php/library/summarycollateral-eligible-banks-operations. 
+
+> 8 These standard haircuts can be found at https://ypfs.som.yale.edu/library/summary-haircuts-securitieseligible-banks-lending-operations. 
+
+
+only on six-month terms (Frost, Govier, and Horn 2015). According to the Bank, this adjustment allowed for “greater certainty of committed funding” (Bank of England 2013). 
+
+## **13. Other Conditions: There did not appear to be any notable additional conditions attached to liquidity support.** 
+
+Research did not determine other conditions involved in the ILTR operations. 
+
+## **14. Impact on Monetary Policy Transmission: The Bank lent sterling cash in ILTR auctions, leading to an impact on the supply of reserves in circulation.** 
+
+Since the ILTRs were lending sterling cash against eligible collateral, they had an impact on the supply of reserves to the banking system (Winters 2012). 
+
+By indexing the auction interest rates paid by bidders to the Bank Rate, the Bank and the participants avoided interest-rate risk that could be disruptive to their operations. Additionally, the Bank conducted comprehensive risk management and monitoring of collateral used in the operations (including appropriate haircuts) in order to minimize losses (Frost, Govier, and Horn 2015). (See Figure 12 for an overview of the impacts of central bank operations depending on the asset involved in the repo agreement.) 
+
+[FIGURE id=vol4_iss2_52_f12 type=figure label="Figure 12" file=figure_12.png caption="Impact of Operations on a Central Bank"]
+### **Figure 12: Impact of Operations on a Central Bank**
+
+||**Repo ofgovernment bonds**|**Repo ofprivate-sector assets**|
+|---|---|---|
+|**Central bank income**|Positive when backing banknotes<br>and unremunerated reserves;<br>none when backing renumerated<br>reserves|Positive when backing banknotes<br>and unremunerated reserves;<br>potentially positive backing<br>remunerated reserves depending<br>on the price charge on collateral|
+|**Market risk**|Small|Modest, depending on collateral|
+|**Credit risk**|None|Modest, depending on collateral|
+|**Churn risk**|High, increases as term of repo<br>decreases|High, increases as term of repo<br>decreases|
+|**Central bank liquidity**|High|Depending on the liquidity of the<br>underlying asset|
+
+
+
+_Source: Rule 2015._ 
+
+## **15. Other Options: The Winters Review suggested that the Bank merge the ILTRs with the Extended Collateral Term Repo (ECTR), which the Bank decided not to do.** 
+
+In 2012, the Bank of England released the Winters Review, which assessed the Bank of England’s liquidity provision facilities within the context of the Global Financial Crisis. The report offered recommendations to the Bank on how to improve its facilities to prepare for the next crisis. One of these recommendations was to merge the ILTR operations with the Extended Collateral Term Repo (ECTR), which is a contingency liquidity facility that can be activated in times of market-wide stress. The ECTRs accepted a much wider set of collateral 
+
+
+than the ILTRs such as “illiquid but transferrable securities” and “own-name securities and loans,” but at a high penalty rate (Winters 2012). On the other hand, the ILTR facility typically accepted collateral that could also be financed on the private market. This had the potential to cause serious dislocations due to uncertainty surrounding contingent activation of the ECTRs and the difference in pricing and collateral (Winters 2012). The Winters Review advised this combination as it would allow the Bank of England to have a regular auction facility that allowed banks to access term funding against a wider set of collateral (Bank of England 2013). 
+
+The Bank of England stated in 2013 that, while it agreed with the “underlying objective” of this recommendation by the Winters Review, it would not be merging the ILTRs and ECTRs (Bank of England 2013). Instead, the Bank created the second iteration of the ILTRs, which greatly expanded the eligible set of collateral, extended the term to six months, provided for full allotments, and recalibrated to yield lower prices. It retained the ECTR program in order to keep an expansive contingent facility in case of a crisis but changed its name to the Contingent Term Repo Facility (Bank of England 2013). 
+
+## **16. International Coordination: The Bank referred to the ILTR design as “a world first in central banking.”** 
+
+There does not appear to have been any international coordination in designing the ILTRs. In fact, a Deputy Governor of the Bank of England referred to the ILTRs as: “A world first in central banking…potentially a major step forward in practical policies to support financial stability” (Klemperer 2018). 
+
+The academic responsible for creating the auction format utilized in the ILTRs, Dr. Paul Klemperer, did present a similar proposal to the US Treasury for its Troubled Asset Relief Program (TARP), along with Dr. Paul Milgrom. The Treasury intended to use elements of the product-mix auction for TARP, but Treasury Secretary Hank Paulson dropped this plan in November 2008 (Klemperer 2018). 
+
+## **17. Communication: The Bank of England released market notices announcing the auction schedule and changes to the program, as well as communicating directly with counterparties to educate them on the auction design.** 
+
+The Bank of England released market notices announcing the auction schedule, as well as minor changes. The Bank also released a position paper (2010a) explaining the ILTRs, as well as another paper (2013) to announce the changes in the second iteration to the ILTRs. 
+
+Increased usage of ILTR operations during the EU Referendum in 2016 led one auction above the minimum rate (a rarity), which meant that some participants did not receive any funds. In response, the Bank held educative conference calls with counterparties to discuss how bidding behaviors interact with the ILTR auction design (Independent Evaluation Office 2018). 
+
+
+## **18. Disclosure: The Bank released aggregated results of the auctions on the day that they occurred.** 
+
+The Bank released the results of the operations ten minutes after bidding closed. These public results included aggregate data on the total amount bid, the amount allocated, the stop-out spread, and the cover ratio. The results reported these statistics for each collateral set (Bank of England 2010b). 
+
+## **19. Stigma Strategy: The Bank did not believe that the ILTR operations suffered from stigma, as a result of their structure and uniform pricing.** 
+
+The Winters Review (2012) found little evidence that the ILTR operations suffered from stigma. In announcing the second iteration of the ILTRs, the Bank of England agreed with that conclusion (Bank of England 2013). 
+
+The Bank does not believe that the effectiveness of its market-wide facilities is materially impaired by stigma … But, to the extent that liquidity insurance is focused on risks more extreme than those encountered in normal market conditions, complete elimination of stigma in all cases would be unrealistic. 
+
+An evaluation of the Bank’s liquidity operations in 2018 determined that the second iteration of the ILTRs had little-reported stigma issues (Independent Evaluation Office 2018). 
+
+The ILTR operations utilize a uniform pricing structure, where all successful bidders pay the lowest accepted price (the clearing spread). This style of pricing largely removes the incentive for bidders to “game” the auctions or attempt to predict other bidders’ choices (Fisher, Frost, and Weeken 2011). This, paired with the anonymous disclosure of results, lessened the risk of stigma, since all participants paid the same amount without their true bids and preferences revealed to the market. 
+
+## **20. Exit Strategy: ILTR operations are a permanent facility in the Sterling Monetary Framework.** 
+
+The Bank of England established ILTR operations as a permanent standing facility to provide liquidity support to the banking sector (Bank of England 2010a). As a result of the auction design, a lower proportion of available funds are lent against less-liquid collateral in times of relative stability (Bank of England 2010b). As of 2021, the Bank still conducted weekly ILTRs. 
+
+
+## **References and Key Program Documents** 
+
+Documents cited in the text are introduced with a parenthetical author-date citation. Documents that are relevant to this case but have not been cited in text do not include this parenthetical reference. 
+
+## **Program Summaries** 
+
+(Bank of England n.d.a) Bank of England. n.d.a. “Indexed Long-Term Repo OMOs by Operation.” 
+
+_ILTR results from the second iteration_ . 
+
+https://ypfs.som.yale.edu/library/indexed-long-term-repo-omos-operation 
+
+(Bank of England n.d.b) Bank of England. n.d.b. “Indexed Long-Term Repo OMOs by Operation (Jun-10 - Jan-14).” 
+
+_ILTR results from the first iteration_ . 
+
+https://ypfs.som.yale.edu/library/indexed-long-term-repo-omos-operation-jun-10-jan-14 
+
+(Churm et al 2012) Churm, Rohan, Radia, Amar, Leake, Jeremy, Srinivasan, Sylaja, Whisker, Richard. 2012. “The Funding for Lending Scheme.” 
+
+_Quarterly bulletin describing the launch of the Funding for Lending Scheme._ https://ypfs.som.yale.edu/library/funding-lending-scheme 
+
+(Fisher, Frost, and Weeken 2011) Fisher, Paul, Tarkus Frost, and Olaf Weeken. 2011. “Pricing Central Bank Liquidity through Product-Mix Auctions – the First Anniversary of the Bank of England’s Indexed Long-Term Repo Operations.” Bank of England. _Paper explaining the product-mix auction design used by the ILTRs_ . 
+
+https://ypfs.som.yale.edu/library/pricing-central-bank-liquidity-through-product-mixauctions-first-anniversary-bank-englands 
+
+## **Implementation Documents** 
+
+(Bank of England 2008a) Bank of England. 2008a. “The Framework For the Bank of England’s Operations in the Sterling Money Markets.” 
+
+_Documentation of terms and conditions for participation in the Bank’s Sterling Monetary Framework_ . 
+
+https://ypfs.som.yale.edu/library/framework-bank-englands-operations-sterling-moneymarkets 
+
+(Bank of England 2008b) Bank of England. 2008b. “Bank of England Market Notice: Extended Collateral Long-Term Repo Operations (10/03/08).” October 3, 2008. _Extension of weekly ELTR until at least November 18, 2008, while expanding the eligible collateral set_ . 
+
+https://ypfs.som.yale.edu/library/bank-england-market-notice-extended-collateral-longterm-repo-operations-100308 
+
+
+(Bank of England 2010a) Bank of England. 2010a. “Bank of England Position-Paper: Proposed Framework for Permanent Long-Term Repo Operations.” March 23, 2010. _Position paper establishing the proposed framework for the ILTRs_ . 
+
+https://ypfs.som.yale.edu/library/bank-england-position-paper-proposed-frameworkpermanent-long-term-repo-operations 
+
+(Bank of England 2010b) Bank of England. 2010b. “Bank of England Market Notice: Indexed Long-Term Repo Operations; US Dollar Repo Operations.” May 26, 2010. _Initial market notice detailing the ILTRs_ . 
+
+https://ypfs.som.yale.edu/library/bank-england-market-notice-indexed-long-term-repooperations-us-dollar-repo-operations 
+
+(Bank of England 2014a) Bank of England. 2014a. “Indexed Long-Term Repo Operations and Contingent Term Repo Facility.” January 16, 2014. 
+
+_Market notice for the second iteration of the ILTRs with a third set of collateral_ . https://ypfs.som.yale.edu/library/indexed-long-term-repo-operations-and-contingentterm-repo-facility 
+
+(Bank of England 2014b) Bank of England. 2014b. “Record of the Financial Policy Committee Meeting 26 September 2014.” October 10, 2014. 
+
+_Financial Policy Committee Meeting notes on the potential for increased ILTR operations around the Scotland referendum_ . 
+
+https://ypfs.som.yale.edu/library/record-financial-policy-committee-meeting-26september-2014 
+
+(Bank of England 2014c) Bank of England. 2014c. “Summary of Haircuts for Securities Eligible for the Bank’s Lending Operations.” November 13, 2014. 
+
+_Schedule of haircuts on securities eligible for the Bank of England’s facilities_ . https://ypfs.som.yale.edu/library/summary-haircuts-securities-eligible-banks-lendingoperations 
+
+(Bank of England 2016) Bank of England. 2016. “Record of Financial Policy Committee Meeting Held on 23 March 2016.” April 5, 2016. 
+
+_Financial Policy Committee Meeting notes about the Bank’s reaction to the upcoming EU Referendum_ . 
+
+https://ypfs.som.yale.edu/library/record-financial-policy-committee-meeting-held-23march-2016 
+
+(Bank of England 2019a) Bank of England. 2019a. “Extension of Weekly Indexed LongTerm Repo Operations.” April 2, 2019. 
+
+_Market notice announcing the extension of weekly ILTRs until the end of June 2019_ . https://ypfs.som.yale.edu/library/extension-weekly-indexed-long-term-repo-operations 
+
+(Bank of England 2019b) Bank of England. 2019b. “Extension of Weekly Indexed LongTerm Repo Operations - Market Notice October 2019.” October 1, 2019. 
+
+_Market notice making the ILTRs weekly on an indefinite basis_ . 
+
+
+https://ypfs.som.yale.edu/library/extension-weekly-indexed-long-term-repo-operationsmarket-notice-october-2019 
+
+## **Legal/Regulatory Guidance** 
+
+(HMT, BOE, FSA 2006) HM Treasury, Bank of England, and Financial Services Authority (HMT, BOE, FSA). 2006. “Memorandum of Understanding between HM Treasury, the Bank of England and the Financial Services Authority.” 
+
+_Memorandum of understanding establishing the financial stability responsibilities of British government agencies_ . 
+
+https://ypfs.som.yale.edu/library/memorandum-understanding-between-hm-treasurybank-england-and-financial-services-authority 
+
+## **Media Stories** 
+
+(The Economist 2012) The Economist. 2012. “A Golden Age of Micro,” October 19, 2012. _Article that contains a quote regarding the ILTR operations_ . 
+
+https://www.economist.com/free-exchange/2012/10/19/a-golden-age-of-micro 
+
+## **Reports/Assessments** 
+
+(Bank of England 2008c) Bank of England. 2008c. “The Development of the Bank of England’s Market Operations.” 
+
+_Report from the Bank of England detailing its market operations and future changes that might be implemented_ . 
+
+https://ypfs.som.yale.edu/library/development-bank-englands-market-operations 
+
+(Bank of England 2013) Bank of England. 2013. “Liquidity Insurance at the Bank of England: Developments in the Sterling Monetary Framework.” 
+
+_Paper that discusses the changes to the ILTRs and the ECTRs_ . 
+
+https://ypfs.som.yale.edu/library/liquidity-insurance-bank-england-developmentssterling-monetary-framework 
+
+(Frost, Govier, and Horn 2015) Frost, Tarkus, Nick Govier, and Tom Horn. 2015. “Innovations in the Bank’s Provision of Liquidity Insurance via Indexed Long-Term Repo (ILTR) Operations.” Bank of England. 
+
+_Report detailing the successor facility to ELTR_ . 
+
+https://ypfs.som.yale.edu/library/innovations-banks-provision-liquidity-insuranceindexed-long-term-repo-iltr-operations 
+
+(Independent Evaluation Office 2018) Independent Evaluation Office. 2018. “Evaluation of the Bank of England’s Approach to Providing Sterling Liquidity.” Bank of England. _Paper evaluating the second iteration of the ILTRs in 2018, as well as the governance of the Bank’s facilities_ . 
+
+https://ypfs.som.yale.edu/library/evaluation-bank-englands-approach-providing-sterlingliquidity 
+
+
+(Winters 2012) Winters, Bill. 2012. “Review of the Bank of England’s Framework for Providing Liquidity to the Banking System.” Bank of England. 
+
+_Report presented to the Court of the Bank of England on the BoE operations to provide liquidity during the Global Financial Crisis_ . 
+
+https://ypfs.som.yale.edu/library/review-bank-englands-framework-providing-liquiditybanking-system 
+
+## **Key Academic Papers** 
+
+(Fulmer 2022a) Fulmer, Sean. 2022a. “United Kingdom: Extended Collateral Term Repo Facility.” _Journal of Financial Crises_ 4, no. 2. 
+
+_YPFS case study on the Bank of England’s contingent liquidity facility_ . 
+
+https://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss2/51 
+
+(Fulmer 2022b) Fulmer, Sean. 2022b. “United Kingdom: Extended-Collateral Long-Term Repo.” _Journal of Financial Crises_ 4, no. 2. 
+
+_YPFS case study on the ELTR facility from the Bank of England_ . https://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss2/50 
+
+(Klemperer 2018) Klemperer, Paul. 2018. “Product-Mix Auctions.” Nuffield College Working Paper 2018-W07. 
+
+_Paper describing how product-mix auctions function written by their inventor_ . https://ypfs.som.yale.edu/library/product-mix-auctions 
+
+(Rahman 2017) Rahman, Arshadur. 2017. “Islamic Banks and Central Banking.” _Bank of England Quarterly Bulletin_ , no. Q3: 156–69. 
+
+_Paper on Islamic banking which includes a discussion of the ILTRs not being Shari’ah compliant_ . 
+
+https://ypfs.som.yale.edu/library/islamic-banks-and-central-banking 
+
+(Rule 2015) Rule, Garreth. 2015. “Understanding the Central Bank Balance Sheet.” Handbook. Centre for Central Banking Studies. Bank of England. 
+
+_Paper detailing the balance sheet of the Bank of England and the risks associated with repo agreements_ . 
+
+https://ypfs.som.yale.edu/library/understanding-central-bank-balance-sheet 
+
+
+## **Appendixes** 
+
+## **Appendix A: Wider Set of Collateral at the Creation of the ILTR Operations** 
+
+|**Type of Collateral**|**Rating**|
+|---|---|
+|Bonds issued by G10 sovereigns|Aa3/AA- or higher|
+|Bonds issued by G10 government agencies explicitly guaranteed by national<br>governments|AAA|
+|Conventional debt security issues of Fannie Mae, Freddie Mac, and the Federal<br>Home Loan Banks system|AAA|
+|The most senior tranches of UK and Dutch Prime Residential mortgage-backed<br>securities (RMBS); un-listed RMBS not eligible|AAA|
+|UK, German, French, and Spanish regulated covered bonds with an issue size<br>greater than £1 billion or €1 billion; underlying assets may be UK or EEA social<br>housing loans, public-sector debt, or prime residential mortgages|AAA|
+|The most senior tranches of UK, US, and EEA asset-backed securities (ABS)<br>backed by credit cards issued to prime borrowers; un-listed ABS not eligible|AAA|
+|The most senior tranches of UK, US, and EEA prime ABS backed by auto loans<br>and certain equipment leases; un-listed ABS not eligible|AAA|
+|The most senior tranches of UK, US, and EEA prime ABS backed by student and<br>consumer loans; un-listed ABS not eligible|AAA|
+|Bank and building society debt guaranteed under HM Government’s Credit<br>Guarantee Scheme for bank debt|n/a|
+|Senior bank debt that is guaranteed under certain non-UK sovereign bank<br>debt-guarantee schemes|n/a|
+|Portfolios of senior corporate bonds and commercial paper issued by non-<br>financial companies in the UK, US, and EEA; diversification requirement that<br>no more than 10% of the total value of the portfolio may be from one issuer|A3/A-<br>(corporate<br>bonds)<br>A2/P2/F2<br>(commercial paper)|
+
+
+
+_Source: Bank of England 2010b._ 
+
+
+## **Appendix B: Initial Haircuts on Wider Collateral Set during the First Iteration** 
+
+
+[FIGURE id=vol4_iss2_52_f13 type=figure label="Exhibit 13" file=exhibit_13.png caption=""]
+![Exhibit 13](assets/vol4_iss2_52/exhibit_13.png)
+
+
+_Source: Bank of England 2010b._ 
+
+Copyright 2022 © Yale University. All rights reserved. To order copies of this material or to receive permission to reprint any or all of this document, please contact the Yale Program on Financial Stability at ypfs@yale.edu.

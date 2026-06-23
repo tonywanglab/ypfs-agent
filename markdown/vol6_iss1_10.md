@@ -1,0 +1,490 @@
+## Hungary: Magyar Külkereskedelmi Bank Restructuring, 2014[1] 
+
+_Lakshimi Swaminathan[2]_ 
+
+Yale Program on Financial Stability Case Study March 28, 2024 
+
+## **Abstract** 
+
+In September 2014, the Hungarian state acquired Magyar Külkereskedelmi Bank (MKB), the country’s fifth-largest foreign-owned commercial bank, from Bayerische Landesbank (BayernLB) of Germany, at a depressed price. Before the sale, BayernLB recapitalized MKB by waiving its outstanding claims on the bank. The European Union had required BayernLB to sell MKB by the end of 2016 as a condition for its approval of the official support BayernLB received during the Global Financial Crisis of 2007–09. But the Hungarian central bank, Magyar Nemzeti Bank (MNB), remained concerned about the risk of further losses in MKB’s commercial and residential real estate loan portfolio. Hungarian officials declared that they had no intention of injecting capital into the bank. On December 16, 2014, MNB’s supervisory department notified the MNB’s resolution department that MKB was insolvent or likely to be insolvent within a year without state support and that its resolution was therefore in the public interest; consequently, the MNB’s resolution department put MKB into resolution. In 2015, a state-run asset management vehicle purchased nonperforming assets from MKB at a subsidized price, effectively recapitalizing the bank. In December 2015, the European Commission approved that transaction, which it considered a form of State Aid for MKB. MKB was the first bank in Hungary to be resolved under the Hungarian law implementing the European Union’s Bank Recovery and Resolution Directive (BRRD). On June 29, 2016, MNB concluded the resolution process by selling MKB to a consortium of three private buyers for HUF 37 billion, roughly one third of its reported book value at the time. Although the asset management vehicle continues to exist, as of the writing of this case, no bank resolutions have occurred in Hungary since 2016. 
+
+**Keywords:** asset management vehicle, BRRD, Hungary, MKB, MNB, resolution 
+
+> 1 This case study is part of a Yale Program on Financial Stability (YPFS) selection of New Bagehot Project modules considering bank resolutions and restructurings. A survey of all the cases in this series (McNamara et al. 2024) and the individual cases underlying it are available from the _Journal of Financial Crises_ at https://elischolar.library.yale.edu/journal-of-financial-crises/vol6/iss1. 
+
+> 2 Research Associate, YPFS, Yale School of Management . The author would like to thank Ádám Balog for his valuable suggestions on this case. 
+
+
+## **Overview** 
+
+## **Key Terms** 
+
+This module is about the restructuring and resolution of Magyar Külkereskedelmi Bank (MKB) in Hungary in 2014–16. 
+
+In July 2014, the Hungarian state agreed to acquire 100% of MKB from Bayerische Landesbank (BayernLB), a German stateowned lender, for a reported purchase price of EUR 55 million. However, the actual net cost of the transaction was EUR 215 million in favor of the Hungarian state, as BayernLB agreed to recapitalize MKB at the time of the acquisition by writing off EUR 270 million in outstanding loans to MKB (EC 2015). 
+
+BayernLB faced a deadline imposed by the European Union (EU) to sell the bank, and, despite the depressed price it received for the sale of MKB to the Hungarian state, BayernLB’s chief executive called the transaction “a huge relief.” The EU had ordered BayernLB to sell MKB by the end of 2016 (originally 2015) as a condition of its approval of BayernLB’s EUR 10 billion bailout by the German state of Bavaria in 2008 (Eddy 2014; Suess and Balazs 2014). The book value of MKB’s net assets was EUR 618 million at the time of the sale. Bayern LB reported a loss of EUR 1.1 billion on the sale, including the write-down of its loans to MKB and other losses MKB incurred in 2014. For context, the total size of MKB’s credit portfolio was EUR 7.8 billion at the end of 2013 (Bayern LB 2014). The purchase of MKB was part of a broader Hungarian government strategy to consolidate and increase domestic ownership of the country’s banking sector (Feher and Dauer 2014). 
+
+The Hungarian state wanted eventually to sell off MKB after stabilizing it (Eddy 2014; Láhm et al. 2016; Suess and Balazs 2014). 
+
+Purpose: The MNB stated that it had resolved MKB to restore its profitability and lending capacity and because it was concerned the bank’s capital would fall below supervisory requirements within a year 
+
+||Size and Nature of|Fifth-largest foreign-owned|
+|---|---|---|
+||Institution|bank in Hungary|
+||Source of Failure|The MNB’s supervision|
+|||department determined that|
+||Start Date<br>End Date|MKB’s capital was likely to fall<br>below required levels owing to<br>nonperforming real estate<br>loans<br>Dec. 18, 2014<br>June 29, 2016|
+||Approach to|The MNB sold certain|
+||Resolution and|nonperforming loans, then|
+||Restructuring|transferred nonperforming<br>assets from the good bank to<br>an asset management vehicle.<br>MNB eventually privatized the|
+|||good bank|
+||Outcomes|MKB sold loans worth HUF|
+|||130 billion and transferred|
+|||nonperforming loans with face|
+|||value of HUF 214 billion to an<br>asset management vehicle. The<br>cleaned-up bank was sold to a<br>consortium of private buyers<br>in 2016 for HUF 37 billion,|
+|||roughly one third of its book|
+|||value at the end of 2015|
+||Notable Features|First bank to be resolved using|
+|||BRRD in Hungary;<br>BayernLB recapitalized MKB<br>by writing off EUR 270 million<br>in outstanding loans at the<br>time of MKB’s sale to the|
+|||Hungarian state in Sept. 2014;|
+|||resolution was precautionary,<br>as it was based on projected<br>losses; no bail-in was applied<br>to other creditors in the|
+|||resolution; deputy central|
+|||bank governor Ádám Balog|
+|||resigned from his position to|
+|||lead MKB as CEO and<br>chairman and later took a 10%<br>stake in the bank|
+
+
+
+
+MKB had been persistently racking up losses. An asset quality review by the European Central Bank (ECB) released in October 2014 included confidential analysis of MKB’s real estate loan portfolios, as the bank had been a subsidiary of BayernLB at the time the review began. The ECB found that those portfolios were underprovisioned by EUR 437 million, or HUF 140 billion, at the end of 2013. These problem portfolios were projected to lower MKB’s capital adequacy ratio below the MNB’s customized supervisory requirement of 16% (EC 2015). 
+
+On December 16, 2014, the supervisory department of the Hungarian central bank, Magyar Nemzeti Bank (MNB), informed MNB’s resolution department that MKB was likely to fail within 12 months. “Likely to fail” meant that the supervisor believed the bank would “infringe its capital requirements in a way that would justify the withdrawal of its banking license,” according to a later report by the European Commission (EC). On December 17, 2014, Hungarian officials declared that they had no intention of injecting further capital into MKB. The resolution department of MNB then took over ownership of MKB from the Hungarian state and placed it under resolution. The resolution plan, which is not public, made use of the sale of business and asset separation tools, after initiating some internal reorganization measures. In its 2014 financial results, released after the government announced the resolution of the bank, MKB reported losses of HUF 144 billion[3] (EUR 456 million), owing to high impairments and loss provisions, close to the asset quality review estimate, mostly from real estate, and a capital ratio of 14.1% after accounting for those losses (EC 2015). 
+
+The following year, the MNB was able to sell 54 loans with a face value of HUF 130 billion for HUF 100 billion to market players. On December 17, 2015, unsold portions of MKB’s troubled asset portfolio, consisting of 104 loans with a face value of HUF 214 billion, were separated from the bank through the asset separation tool and transferred to an asset management vehicle (Láhm et al. 2016). The central bank, in announcing these transactions, stated that they would enable MKB to reach a capital position required to maintain long-term viability, without specifying what capital level the central bank viewed as viable (Matolcsy 2015). The bank reported a capital ratio of 11.3% at the end of 2015, including the impact of these measures and further loan loss provisions (Helgi Library n.d.). 
+
+The Hungarian authorities informed the EC that the resolution of MKB would involve a component of State Aid, owing to the transfer of the troubled asset portfolio to the asset management company at a value above the market price (EC 2015). To receive the State Aid, MNB and MKB negotiated a set of 17 commitments, and BlackRock was appointed by the EC to monitor the fulfillment of these commitments. 
+
+On March 31, 2016, the MNB declared a consortium of private investors to be the winning bidders in an auction for the sale of MKB. By June 29, 2016, the MNB had sold the bank to them for HUF 37 billion, roughly one third the book value of the bank’s equity at the end of 2015 (MNB 2016a; MNB 2016e). After privatization, MNB mandated a capital adequacy ratio of only 8% (as opposed to 16% under Basel standards) for MKB (MKB 2017). MKB’s 
+
+> 3 According to OANDA Data Services, EUR 1 = HUF 316 on December 17, 2015. 
+
+
+resolution is significant, as it was the first bank in Hungary to be resolved under the law Hungary passed to conform with the Bank Recovery and Resolution Directive (BRRD), the framework for resolving banks adopted in the EU following the Global Financial Crisis (GFC) (Láhm et al. 2016). The asset management vehicle continues to exist, although no other bank resolutions have been completed in Hungary as of 2016 (MSZVK n.d.). 
+
+The timeline in Figure 1 summarizes the events pertinent to MKB’s resolution. 
+
+[FIGURE id=vol6_iss1_10_f1 type=diagram page=6 label="Figure 1" file=figure_1.png caption="Timeline of MKB’s Resolution"]
+### **Figure 1: Timeline of MKB’s Resolution**
+
+|**Date**|**Event**|
+|---|---|
+|||
+|September 2014|Hungarian state takes 100% stake in MKB from BayernLB for HUF 55 billion, although the<br>government gained HUF 215 billion net on the transaction, as BayernLB first recapitalized<br>the bank by writing off HUF 270 billion in MKB obligations.|
+|December 16, 2014|Supervisory department of the MNB determines that MKB’s capital is likely to fall below<br>supervisory requirements within 12 months.|
+|December 18, 2014|Resolution department of the MNB takes ownership of MKB from the prime minister’s<br>office, arguing the transaction is in the public interest and MKB was at risk of becoming<br>insolvent otherwise within 12 months. The resolution department of MNB begins to<br>implement restructuring and resolution measures.|
+|February 25, 2015|MNB completes its resolution plan to resolve MKB.|
+|October 2, 2015|MNB announces the commencement of the sale process of MKB.|
+|December 17, 2015|EU accepts the restructuring and resolution proposal and the EU commitments; MNB<br>transfers troubled assets worth HUF 214 billion that could not be sold to the asset<br>management vehicle (the asset separation tool) after selling assets with a face value of<br>HUF 130 billion for HUF 100 billion to market players using sale of business tool.|
+|March 31, 2016|MKB receives a winning bid worth HUF 37 billion from a consortium of three buyers: Blue<br>Robin Investments S.C.A. (Luxembourgish firm), METIS Private Capital Fund (Hungarian<br>firm), and Pannónia Pension Fund (Hungarian firm), with stakes of 45-45-10 percent,<br>respectively.|
+|June 29, 2016|MNB successfully completes the sale of MKB and terminates the resolution. The asset<br>management vehicle continues to exist, although no other resolutions have occurred as of<br>2023.|
+
+
+
+_Source: Author’s analysis._ 
+
+## **Summary Evaluation** 
+
+In February 2016, before the announcement of the private-sector buyers and the details of the transaction, the International Monetary Fund (IMF) in its 2016 Article IV report welcomed the Hungarian authorities’ measures to privatize MKB bank in a transparent manner (IMF 2016). A December 2016 EC State Aid report on the resolution of MKB commended Hungarian authorities for their commitment to comply with monitoring requirements, implement restructuring measures beginning in December 2014, and impose restrictions on the bank (such as a ban on acquisitions) (EC 2015). 
+
+
+The MNB’s report on the resolution of MKB, published in September 2016 following the resolution of MKB and coauthored by one of the four resolution commissioners who ran the bank in the first half of 2015, deemed the resolution to be “successful” and cited the improvement in the rating accorded by Moody’s Investors Service to MKB’s long-term deposits from stable to positive in July 2016 as evidence. The MNB report also stated that the resolution was successful because of the efficient cooperation between the government, the MNB, the Resolution Fund, and the asset management vehicle (Láhm et al. 2016). 
+
+However, in an article in the _Budapest Sentinel,_ reporter Éva Várhegyi noted that the consortium of buyers that took over MKB in 2016 had questionable sources of funding and ownership. She also noted that one of the shareholders of the newly privatized MKB, which had been recapitalized at taxpayer expense, was the cousin of MNB governor György Matolcsy (Várhegyi 2017). 
+
+
+|**Context: Hungary, MKB, 2015–2016**|**Context: Hungary, MKB, 2015–2016**|
+|---|---|
+|**Assets**|**HUF 1.9 billion**as of Dec. 31, 2015<br>**HUF 2.1 billion**as of Dec. 31, 2016|
+|**Liabilities**|**HUF 1.8 billion**as of Dec. 31, 2015<br>**HUF 2 billion**as of Dec. 31, 2016|
+|**Deposits**|**HUF 1.4 billion**as of Dec. 31, 2015<br>**HUF 1.5 billion**as of Dec. 31, 2016|
+|**Capital Ratio**<br>**(Capital Adequacy Ratio)**|**11.28%**as of Dec. 31, 2015<br>**12.04%**as of Mar. 31, 2016|
+|**Nonperforming Loans**|**HUF 259 billion**as of Dec. 31, 2015<br>**HUF 161 billion**as of Dec. 31, 2016|
+|**Market Share**|**13.4%**of corporate lending market<br>as of Sept. 29, 2015<br>**8.2%**of corporate lending market<br>as of Dec. 31, 2016|
+|**Banking System, % of GDP**|**54.8%**as of Dec. 31, 2015<br>**55.1%**as of Mar. 31, 2016|
+|_Sources: EC 2015; MKB 2017._||
+
+
+
+
+## **Key Design Decisions** 
+
+**1. Purpose: The MNB decided to resolve MKB in December 2014 to restore its profitability and enable it to continue lending.** 
+
+On December 16, 2014, the supervisory department of the MNB determined that MKB was at risk of becoming insolvent within 12 months, as defined by the risk that its capital would fall below the minimum supervisory capital requirement of 16% that the MNB had set for the bank based on its idiosyncratic risks, under EU Regulation No. 575/2013. The central bank stated publicly that, to protect the financial stability of the Hungarian economy, a resolution was the only feasible method of restoring the long-term profitability of MKB without invoking taxpayer money (EC 2015; Láhm et al. 2016; MNB 2016b). The next day, the declaration by Hungarian officials that they would not be considering injecting capital into MKB led the resolution department of MNB to conclude that all conditions for the resolution of the bank had been met (EC 2015). 
+
+On the following day, December 18, 2014, the resolution department of MNB took over ownership of MKB and placed it under resolution (EC 2015). The MNB stated in its press release that in addition to reorganizing the bank and cutting costs, it also aimed to clean up the bank’s portfolio of nonperforming loans. MNB described this cleanup as a short-term effort aimed at improving efficiency, with hope that the resulting profitability would contribute to an improved capital and lending position for the bank that would also be favorable for the whole Hungarian financial intermediary system (MNB 2014a). 
+
+The MNB determined that MKB met the necessary preconditions for resolution; namely, (a) the MNB in its capacity as the supervisory authority determined that the enterprise was failing or was likely to fail, (b) the MNB in its capacity as the resolution authority determined that all alternative measures had been exhausted, and (c) a resolution was in the public interest (Láhm et al. 2016). According to a decision by the European Commission, the phrase “likely to fail” meant that the supervisor believed the bank would “infringe its capital requirements in a way that would justify the withdrawal of its banking license” within 12 months without further action (EC 2015). 
+
+The MNB listed the following as the objectives of resolution: 
+
+- protecting public funds by not relying on State Aid as much as possible, 
+
+- 
+
+   - ensuring continuity of critical functions, 
+
+- eliminating instances that could jeopardize financial stability or terminate such instances if they have already occurred, 
+
+- protecting all the deposits insured by the deposit and investment protection system, and 
+
+
+- protecting the assets and funds of customers and maintaining the confidence of investors and depositors in the financial intermediary system (MNB 2014b; MNB 2014e). 
+
+Following the EU’s BRRD, Hungarian law required the resolution authority to base its actions on an independent valuation of a bank’s assets and liabilities, if possible, but allowed for it to conduct provisional valuations if timing did not allow for an independent valuation. On December 18, along with the press release announcing that it was putting the bank into resolution, the MNB released a brief statement signed by its president in which he “approved the provisional assessment carried out for the institution” upon which the MNB based the decision. Research uncovered no further information about this provisional assessment. In February 2015, the MNB approved a resolution action plan for MKB that outlined the following: (a) rationalize the operation of the MKB, reduce costs, transform group-level investments and improve efficiency and restore profitability, (b) implement resolution using the sale of business and asset separation tools, and (c) sell MKB under market conditions (Láhm et al. 2016). 
+
+MKB’s portfolio of troubled assets, worth HUF 214 billion (gross value), was ultimately transferred to the asset management vehicle Magyar Szana la si Vagyonkezelo  Zrt. (MSzVK Zrt.) at a price above the market value. Consequently, this constituted State Aid and required approval from the EC (EC 2015; Láhm et al. 2016). To get EC approval, the MNB and MKB had to negotiate a set of 17 commitments, the fulfillment of which took until 2019. By the end of 2015, an independent appraiser appointed by the EC assessed the market value of MKB and concluded that the equity amounted to somewhere between negative EUR 20 million and zero. The appraiser also ascertained the value of MKB under a liquidation scenario and determined that the equity value would be between negative EUR 60 million to negative EUR 20 million in that scenario. This made resolution preferable to liquidation, since it satisfied the “no creditor worse off” principle. Since the core value of the bank was lower than the State Aid component, the resolution plan of the Hungarian authorities required that the equity of the existing shareholder—the Hungarian state—to be fully wiped out. Subsequently, MSzVK Zrt. became the sole shareholder of the bank (EC 2015). 
+
+To value the troubled assets in the portfolio, the MNB appointed PriceWaterhouseCoopers (PwC) to put an individual valuation on each loan that was transferred to the asset management vehicle. Coldwell Banker Richard Ellis (CBRE), a global real estate consulting firm, and accounting firm Ernst & Young would carry out a parallel valuation for a selected sample of the real estate assets to be transferred. The EC determined that both these valuations were compatible with each other as well as with the MNB’s valuation of the assets (EC 2015). 
+
+## **2. Part of a Package: There were no other interventions that MKB was subjected to in connection with its resolution.** 
+
+The resolution of MKB took place in accordance with the template established by the BRRD that was transposed into Hungarian law on July 18, 2014. The resolution did not involve any other interventions (Hungarian Government 2014). However, in a press conference 
+
+
+organized on December 18, 2014, the central bank governor stated that MNB would guarantee the full liquidity position of MKB over the course of its restructuring (Szakacs and Than 2014). 
+
+## **3. Legal Authority: The resolution of MKB followed the procedures laid down in Act XXXVII of 2014, which transposed the BRRD into Hungarian law.** 
+
+Hungary transposed the BRRD into national law with the passage of the Act XXXVII of 2014 on Further Development of the Institutional Framework to Strengthen the Safety of Certain Actors in the Financial Intermediation System on July 18, 2014 (Hungarian Government 2014). Hungary became the first country in the EU to adopt the BRRD, weeks before the effective date; it was this national law that was relevant to MKB’s resolution (Láhm et al. 2016). 
+
+Figure 2 shows the relevant sections of the act. 
+
+[FIGURE id=vol6_iss1_10_f2 type=figure page=11 label="Figure 2" file=figure_2.png caption="Sections of Act XXXVII of 2014 Relevant to the Resolution of MKB"]
+### **Figure 2: Sections of Act XXXVII of 2014 Relevant to the Resolution of MKB**
+
+|**Section.**|**Description**|
+|---|---|
+|||
+|Section 2|Defines resolution to be “the process of restructuring an institution or group with<br>a view to ensuring the continuity of its essential functions, preserving the stability<br>of the financial intermediation system and restoring the viability of all or part of<br>the institution or group”|
+|Section 4|Designates the MNB as the official resolution authority and recognizes it to be a<br>supervisory authority as well; this section also empowers the MNB to determine<br>whether resolution is the preferred strategy to normal insolvency proceedings and<br>to prepare resolution plans for entities under resolution|
+|Section 5|Requires the resolution department of the MNB to inform the supervision<br>department of the MNB regarding any changes made to the resolution plan|
+|Section 6|Prohibits the resolution department of the MNB from seeking any information<br>pertaining to supervision, macroprudential or central banking from the entity in<br>resolution; they can seek such information from the respective departments of the<br>MNB instead|
+|Section 10|Empowers the resolution department of the MNB to assess resolvability of the<br>institution in question|
+|Section 16|Lays down the resolution objectives (see KDD No.1, Purpose, for more<br>information)|
+|Section 17|Enlists the conditions for resolution, including conditions for "failing or likely to<br>fail" (FOLTF) assessment and capital injection under resolution|
+|Section 21|Enables the MNB to terminate resolution if all objectives have been determined to<br>be fulfilled|
+|Section 34|Recognizes sale of business and asset separation as tools of resolution and<br>mentions that asset separation tool can be used only in combination with one of<br>the other recognized resolution tools|
+|Section 36|States that the use of the sale of business tool may involve the MNB transferring<br>all or some of the assets, liabilities, or shares of the entity under resolution. It also<br>states that the sale may happen only on commercial terms|
+
+
+
+
+|Section 37|Mentions that all proceeds from the sale of business shall go to the new owners of|
+|---|---|
+||the entity under resolution once the MNB and the Resolution Fund have been|
+||reimbursed for anycosts of resolution involved|
+|Section 42|Lists all the procedural requirements pertaining to the application of the sale of|
+||business tool, such as objective and transparent sale process, value maximization|
+||etc.|
+|Section 53|Lists all the procedures and conditions for application of the asset separation tool|
+|||
+|Section 84|Empowers the MNB to request information from the entity under resolution and|
+||enables the MNB to assume ownership, exercise management rights over the|
+||institution and transfer shares of the entity to another institution if required; also|
+||empowers the MNB to implement resolution without the consent of any other|
+||person|
+|Section 84|Empowers the MNB to appoint a resolution commissioner to the entity under|
+||resolution who would assume the responsibility of the board of directors for that|
+||entity|
+|Section 94|States that more than one resolution commissioner may be appointed by the MNB|
+|||
+|Section 108|Mentions that the MNB will have to submit an investigation report to the entity|
+||under resolution within nine months of the commencement of the resolution|
+||proceedings;this timeperiod maybe extended bya maximum of six months|
+|Section 126|Recognizes the establishment of a Resolution Fund created for the purpose of<br>financing the resolution|
+|Section 145|Empowers the governor of the MNB to establish by decree the costs entailed by<br>the resolution, resolution plan, and any restrictions|
+
+
+
+_Source: Hungarian Government 2014._ 
+
+## **4. Administration: The MNB administered the resolution of MKB.** 
+
+Since October 1, 2013, the MNB had been designated as the official resolution authority. This designation helped expand the scope of powers that the central bank already had, such as the supervisory function, enabling it to take ownership of the failing institution and exercise management rights in crisis situations (Láhm et al. 2016). 
+
+On December 16, 2014, the supervisory department of the MNB informed the resolution department that MKB was likely to fail, and the MNB took over MKB in its capacity as the resolution authority on December 18, 2014 (EC 2015). Four resolution commissioners appointed by the MNB were in charge of the MKB Board and general meeting. The powers assigned to these commissioners were recalled in July 2015, as the resolution plan was being executed according to plan and the leadership of MKB was allowed to exercise their management rights, although the ownership rights were still with the MNB (which executed these rights through the Financial Stability Council) (Láhm et al. 2016). On July 20, 2015, deputy governor of MNB Ádám Balog resigned from the MNB to work as CEO and chairman of MKB (MNB 2015a). 
+
+The resolution plan required that the assets (outstanding loans) chosen for sale through the sale of business tool be subjected to a transparent sale process to achieve the highest possible bids. Further, the sale procedure required that any distinction among potential 
+
+
+buyers be made only on the basis of objective criteria; no buyer could have an unfair advantage. In an open-market procedure, potential investors could apply to purchase assets as a package or individually. Additional information on the portfolio was available from a data room. One of the sale transactions to a syndicated loan partner was not an open sale, which the MNB justified by stating that the omission of the portfolio transfer would have affected the efficiency of the sale of business tool. This deviation was in line with the exceptions recognized under the act and EU law (Láhm et al. 2016). 
+
+**5. Governance: The resolution department of the MNB was under the control of Hungary's deputy governor in charge of monetary policy, financial stability, and lending incentives.** 
+
+MNB’s supervisory and resolution departments coordinated with each other on decision making and implementation of the resolution of MKB. The MNB sought approval from the EC before deploying the asset separation tool, as it was used to purchase assets above the market price (EC 2015). To get approval from the EC, MKB and MNB negotiated a list of 17 commitments they would fulfill. 
+
+The MNB kept the EC informed about its decisions. The EC appointed an independent adviser to corroborate the market value of MKB’s troubled assets, since transfer of these assets to the asset management vehicle at above market value was considered by the EC to count toward State Aid in favor of MKB. The EC was also involved in the monitoring of the resolution process and its impact on competition through the appointment of BlackRock as monitoring trustee, which was to provide half-yearly reports within 30 days of the end of each six-month period (EC 2015). BlackRock was also responsible for ensuring that all the 17 commitments were fulfilled by MKB in its resolution process. The monitoring process lasted until the end of 2019, and BlackRock informed MKB that the process was concluded through a release email in July 2020. 
+
+The organizational and operational rules of the MNB mandated that the resolution function was to be kept separate from the supervisory function; the resolution department was under the direct control of the deputy governor in charge of monetary policy, financial stability, and lending incentives (MNB n.d.a). The roles and functions of the resolution department were governed by the act (see Key Design Decision No. 3, Legal Authority). The Hungarian Parliament, through the adoption of the act, designated the resolution department of the MNB as the official national resolution authority, as they felt that the supervisory and macroprudential role performed by the central bank would make it an apt authority for implementing resolution, instead of setting up a separate entity under the government. Certain decisions by the resolution department still required government approval, although such approval does not seem to have been required in this case (MNB n.d.b). MNB approved all the parameters of the State Aid, such as the market price, sale price, and size of the assets MKB had. 
+
+
+## **6. Communication and Disclosure: MNB’s official press release announcing the resolution stated that MKB’s liquidity and solvency were satisfactory, and that the takeover of the bank was done to improve profitability.** 
+
+The MNB’s official press release announcing the resolution on December 18, 2014, stated: “the capital and liquidity situation of [MKB] is satisfactory, but at the same time the banking group generates significant losses.” The release stated that the takeover of the bank was done to improve the bank’s profitability (MNB 2014a). The same press release outlined the resolution objectives and the intention of the MNB to assume control of MKB for a year (MNB 2014a). At a joint news conference attended by central bank governor György Matolcsy and Prime Minister Viktor Orbán, Matolcsy stated that the central bank would guarantee the full liquidity of MKB over the course of its restructuring (Szakacs and Than 2014). 
+
+On December 30, 2014, the MNB published additional documentation in a press release, following a decision by the government’s Financial Stability Board, the organization that ensured financial stability in Hungary, that the information should be made public. The release included three one-page statements signed by the MNB president and dated December 18, 2014. The statements described MNB’s decisions that (a) put MKB into resolution, (b) determined the “provisional valuation” of the bank, and (c) appointed the four resolution commissioners. Each statement referred to the relevant part of the law that the MNB followed in making its decision. The statement on the resolution decision noted that the MNB’s supervision department had determined that the bank was “insolvent or . . . expected to be insolvent,” as required by paragraph (1) of Section 17 of the Act XXXVII of 2014 (MNB 2014b; MNB 2014c; MNB 2014d; MNB 2014e). 
+
+On October 2, 2015, the MNB issued a press release announcing the commencement of the sale process of MKB and inviting tenders from prospective investors (MNB 2015b). 
+
+On March 31, 2016, the MNB informed the public that the winning bidders had been chosen and were being vetted by the EC. The same press release detailed the nuances of the resolution process, including the amount transferred to the asset management vehicle and the bidding process (MNB 2016c). On April 6, 2016, the MNB issued a clarifying press release addressing the controversy that had arisen after numerous press articles had reported about the MNB’s selection of buyers, who happened to be related to the governor, and their questionable sources of funding. The MNB cautioned the public against believing such stories, stating that they could bring down MKB's market value and cause damage to the bank (MNB 2016d). The final press release MNB issued in connection with the resolution of MKB came on June 30, 2016, announcing the successful termination of the resolution of MKB following its sale to the winning bidders. This announcement explicitly stated that MNB was able to successfully implement the resolution without invoking the bail-in tool and that in doing so, it protected the funds of all customers and creditors (MNB 2016e). 
+
+Besides the official press releases, Hungarian media covered the takeover of MKB by the Hungarian state and the resolution decisions in detail. One source indicated that Hungarian Prime Minister Orbán mentioned in a speech that MKB should have “never been sold to foreigners” (regarding the initial sale to BayernLB) (Daily News Hungary 2014). 
+
+
+The resolution authorities notified the EC about its resolution decisions, and these details were presented in the EC’s State Aid document (EC 2015). The document redacted information of the financial health and projection of MKB as it fell under the protection of Article 108 of the Treaty on the Functioning of the European Union which covered it under professional secrecy (EC 2015). Information pertaining to the resolution was disclosed in the annual reports of MKB and the MNB as well as on the website of Hungary’s Resolution Fund, the body responsible for providing financial support to banks under resolution (MKB 2014; MNB 2018; Resolution Fund 2015). The MNB was required under Section 22(10) of the act to publish the list of independent valuers and members of the selection committee (who chose the independent valuers) on its website (Hungarian Government 2014, 9). 
+
+**7. Source and Size of Funding: The cost and expenses of resolving MKB were borne by the Resolution Fund, funded by loans from domestic banks.** 
+
+The resolution of MKB was financed by the Resolution Fund, an independent legal entity that was established with the passage of the act to finance resolution activities (Hungarian Government 2014, 38; Láhm et al. 2016). The Resolution Fund was financed by payments from market players and an annual risk-based fee from credit and investment firms (Láhm et al. 2016). 
+
+The asset management vehicle MSzVK Zrt was established as a 100% subsidiary of the Resolution Fund in the fall of 2015 (Láhm et al. 2016). The Resolution Fund provided financing worth HUF 100 billion to implement the sale of business and asset separation resolution tools (Láhm et al. 2016). As a new organization, the Resolution Fund had not yet accumulated the necessary funding from fees to perform the resolution of MKB. Thus, it had to resort to external financing to help MSzVK purchase MKB’s troubled asset portfolio (Láhm et al. 2016; Resolution Fund 2018a). The Resolution Fund took loans of HUF 45.5 billion and EUR 166.5 million (HUF 64 billion), or roughly HUF 110 billion combined, on December 16, 2015, from a consortium of banks, collateralized by a state suretyship (Láhm et al. 2016; Resolution Fund 2018a; Resolution Fund 2018b). These mechanisms were in accordance with Section 133 of the act (Hungarian Government 2014, 39). 
+
+According to EC rules, the use of funds from the Resolution Fund to pay a price above the market value of the transferred assets qualified as State Aid (Láhm et al. 2016). 
+
+On July 23, 2018, the Fund prepaid the loan it had taken from the consortium of banks because the asset management company was able to realize better prices than expected for MKB’s legacy assets. This decision was independent from the restructuring and resolution process of MKB (Resolution Fund 2018a). 
+
+**8. Approach to Resolution and Restructuring: MKB was resolved through the sale of business and asset separation tools.** 
+
+## **Acquisition by the MNB and Placement under Resolution** 
+
+On December 18, 2014, MNB, Hungary’s central bank and national resolution authority took over MKB, after MNB concluded that MKB’s failure met all the conditions for resolution and 
+
+
+no private sector alternatives could prevent its failure (Láhm et al. 2016). The resolution plan prepared by the MNB on February 25, 2015, listed the following approach: (a) reorganize MKB’s operations to restore profitability, (b) implement resolution through the asset separation and sale of business tools, and (c) sell MKB under market conditions after resolution (EC 2015; Láhm et al. 2016). Figure 3 details the plan proposed by the resolution authorities. 
+
+## **Reorganization** 
+
+To improve MKB’s capital position, the MNB terminated the bank’s unprofitable noncore business lines. In December 2014, as part of the transformation program, MKB sold off its stakes in its insurance, fleet management and car trading, and brokerage and finance businesses (Láhm et al. 2016). 
+
+## **Sale of Assets** 
+
+The MNB intended to sell off 158 of MKB’s nonperforming loans; any unsold assets were to be placed in a separate asset management vehicle overseen by the MNB (EC 2015; Láhm et al. 2016). An international firm advised MNB in the selection and sale of these assets and managed the process for investors to apply for the purchase of assets in whole or in part (Láhm et al. 2016; MNB 2016a). Ultimately, the MNB was able to sell 54 loan lines worth HUF 130 billion for HUF 100 billion (Láhm et al. 2016). For details on the sale of assets, see Key Design Decision No. 11, Treatment of Assets. 
+
+## **Asset Management Vehicle** 
+
+On December 17, 2015, unsold portions of MKB’s portfolio of troubled loans, comprising 104 loans with a face value of HUF 214 billion, were separated from the bank through the asset separation tool and transferred to two separate vehicles that began as subsidiaries of MKB: MKB Pénzügyi Zrt. received the receivables portfolio, and Resideal Zrt. received the real estate portfolio (Láhm et al. 2016; Matolcsy 2015). 
+
+The shares issued by these two subsidiaries, along with the loan receivables of MKB from MKB Pénzügyi Zrt., were transferred to the asset management vehicle, MSzVK (Láhm et al. 2016). 
+
+MSzVK had to pay real economic value (REV) for these shares, which was determined to be HUF 96.1 billion, equivalent to 45% of gross book value (EC 2015). This price was HUF 32 billion above the market value and was considered to be State Aid as per EU law (Láhm et al. 2016). State Aid obligations required that shareholders incur losses associated with impaired assets to the maximum extent possible before the asset transfer. Subsequently, the MNB transferred all issued shares of MKB to MSzVK for a symbolic purchase price. The MNB said that the transfer of assets to MSzVK would enable MKB to reach a capital position required to maintain long-term viability (EC 2015; Matolcsy 2015). Following the transfer of assets, MKB Pénzügyi Zrt. was renamed Szanálási Követeléskezeló Zrt. (SZKK Zrt.) to highlight its separation (Láhm et al. 2016). The 17 EC commitments MKB had to fulfill were the key compensating factor of the State Aid received by the bank. 
+
+
+## **Sale of MKB** 
+
+Following the resolution and restructuring of MKB, MNB was required by the EC to sell off MKB (Láhm et al. 2016). To fulfill this requirement, MNB announced that it would follow an open, transparent sale process. MNB asked prospective purchasers to submit binding bids by February 22, 2016 (MNB 2016a). MNB appointed JP Morgan as the financial adviser to help carry out this sale (MNB 2016a). Ownership was awarded to the highest of the three bids received, worth HUF 37 billion: on March 31, 2016, Blue Robin Investments S.C.A., a Luxembourgish firm, and METIS Private Capital Fund, a Hungarian firm, each took a 45% stake, and Pannónia Pension Fund, a Hungarian firm, took a 10% stake (MNB 2016a). The sale was successfully completed on June 29, 2016, after EC approval (MNB 2016e). 
+
+[FIGURE id=vol6_iss1_10_f3 type=figure page=17 label="Figure 3" file=figure_3.png caption="Asset Separation for MKB"]
+### **Figure 3: Asset Separation for MKB**
+![Figure 3](assets/vol6_iss1_10/figure_3.png)
+
+
+_Source: Láhm et al. 2016._ 
+
+Figure 4 outlines the positions of MKB in 2013 and 2014. 
+
+
+[FIGURE id=vol6_iss1_10_f4 type=figure page=18 label="Figure 4" file=figure_4.png caption="Financial Data of MKB in 2013 and 2014"]
+### **Figure 4: Financial Data of MKB in 2013 and 2014**
+![Figure 4](assets/vol6_iss1_10/figure_4.png)
+
+
+_Sources: EC 2015._ 
+
+## **9. Treatment of Creditors and Equity Holders: The resolution of MKB did not involve the application of the bail-in tool to creditors.** 
+
+Before the sale of MKB to the Hungarian state, as a condition of the sale, Bayern LB wrote down EUR 270 million of MKB’s outstanding debt (Feher and Dauer 2014). As the transfer of nonperforming assets to the asset management vehicle could not take place above market value, the equity stake of the Hungarian state was wiped out and the asset management vehicle became the 100% shareholder of the bank (EC 2015). 
+
+The resolution of MKB did not involve a bailing-in of creditors or depositors (Láhm et al. 2016; MNB 2016e). The central bank’s 2017 annual report stated that the independent valuation carried out by the appointed valuer confirmed that the Resolution Fund had no obligation to the former owner (the Hungarian state) and creditors (MNB 2018). Creditors incurred no losses (Láhm et al. 2016). 
+
+## **10.Treatment of Clients: All customer accounts were transferred to the new owners. All customers were fully protected.** 
+
+MKB’s resolution was successfully implemented through its sale to the new owners without any losses incurred by the customers, whose funds were fully protected (MNB 2016e). 
+
+**11. Treatment of Assets: The MNB chose 158 impaired loans with a face value of EUR 1.2 billion (HUF 410 billion) for sale in the resolution process. Of these, the MNB sold 54 loans with a face value of EUR 411.3 million (HUF 130 billion) for EUR 316** 
+
+
+## **million (HUF 100 billion) and transferred the remaining 104 loans, which had a face value of EUR 677 million (HUF 214 billion), to an asset management vehicle.** 
+
+To implement the asset separation tool for the resolution of MKB, the MNB chose 158 loans from the former commercial real estate portfolio of the bank. These loans were to be sold in the market through the data room method, bilateral negotiations (predominantly to syndicated partners), and miscellaneous methods such as loan workout processes and refinancing by other institutions (EC 2015). 
+
+Using the data room method, two data rooms were established, the first of which involved the sale of non-cash-flow-based speculative financing deals and commercial real estate loans that received no compliant bids. Data room two witnessed the sale of two shopping centers. Syndicated loan partners purchased seven loan exposures from MKB using the bilateral negotiation method (EC 2015). Figure 5 summarizes the original plan for asset divestiture of MKB. 
+
+[FIGURE id=vol6_iss1_10_f5 type=figure page=19 label="Figure 5" file=figure_5.png caption="Assets of MKB to be Divested, as of Fourth Quarter 2014"]
+### **Figure 5: Assets of MKB to be Divested, as of Fourth Quarter 2014**
+
+||**Item**|**No. of**|**Gross Exposure**|**Net Exposure**||
+|---|---|---|---|---|---|
+|||**Items**|**(EUR millions)**|**(EUR millions)**||
+||Former commercial real estate portfolio|233|<br>1,993|<br>1,200-1,500||
+||Assets selected for divestiture|158|<br>1,311|<br>650-900||
+||Data room 1|127|<br>738|<br>250-350||
+||Data room 2|4|<br>308|<br>250-300||
+||Not eligible for data room|27|<br>265|<br>150-250||
+
+
+
+_Source: EC 2015._ 
+
+Ultimately, MKB would sell gross exposure worth HUF 130 billion for a purchase price of HUF 100 billion through the sale of business tool, which incorporated all three methods (Láhm et al. 2016). The remaining portfolio of nonperforming assets, which was composed of 104 loans with a face value totaling HUF 214 billion, was transferred to the asset management vehicle (EC 2015). For more information on the asset management vehicle, see Key Design Decision No. 8, Approach to Resolution and Restructuring. 
+
+## **12. Treatment of Board and Management: The MNB replaced MKB’s management with four resolution commissioners on December 22, 2014.** 
+
+On December 22, 2014, after the resolution department took over MKB for resolution, it appointed four resolution commissioners to exercise management rights over MKB (Láhm et al. 2016). This was in accordance with Sections 93 and 94 of the act, which mandated the appointment of a resolution commissioner (and more than one if needed) to take over the responsibilities of the board of directors of the entity under resolution (Hungarian Government 2014, 31). The powers of these commissioners were terminated in July 2015, as the resolution proceedings were progressing according to plan and the new management of MKB was allowed to exercise management rights over the bank even as it was still under 
+
+
+resolution (Láhm et al. 2016). This was in accordance with Section 93 of the act, which stated that resolution commissioners may be appointed for a maximum of one year (Hungarian Government 2014, 31). On July 20, 2015, MNB Deputy Governor Ádám Balog resigned from the MNB to work as CEO and Chairman of MKB (MNB 2015a). 
+
+**13. Cross-border Cooperation: Our research found no evidence of cross-border cooperation.** 
+
+Our research found no evidence of cross-border cooperation involved in the resolution of MKB. 
+
+## **14. Other Conditions: The EC imposed 17 obligations that MKB had to fulfill.** 
+
+As part of its approval of the State Aid to MKB, the EC required the Hungarian authorities to ensure that the privatized bank keep 17 commitments related to the management and financial standing of the company. Negotiation of these commitments was an important part of the approval process. Among the commitments, the EC required MKB to reduce total assets below a target, which the EC’s public decision stated was in the range of HUF 1.8 trillion–HUF 2.0 trillion, by the end of 2019. In addition, growth of the balance sheet was not to exceed the growth rate of nominal GDP each year during the restructuring period. The EC also required the bank to reduce its risk-weighted assets continually during the restructuring period and banned the bank from making any acquisitions before the end of 2018 (EC 2015). 
+
+The commitments also included the requirement that MKB sell loss-generating business lines, terminate commercial real estate lending, reduce its existing loan portfolios, reduce costs, improve risk management systems, limit certain investments (such as purchase of low-rated credit securities), notify the EC of changes in the restructuring plan, appoint a monitoring trustee for the duration of restructuring, introduce shares of MKB on the regulated market, sell 100% of MKB shares by June 30, 2016, impose an upper limit on remuneration until repayment of State Aid, and limit marketing expenses (EC 2015). 
+
+The EC also imposed a ban on retail foreign exchange lending, dividend payments, aggressive sales practices, and references to State Aid in advertisements (EC 2015). 
+
+## **15.Duration: The resolution process of MKB lasted 18 months, six months longer than the initial resolution plan had envisioned.** 
+
+In its December 18, 2014, press release announcing the resolution of MKB, the MNB said that it looked to own MKB for a maximum of one year (MNB 2014a). The EC report on the State Aid provided to MKB stated that the restructuring period would last until December 31, 2019 (EC 2015). The MNB announced in a press release on June 30, 2016, that it had terminated the resolution of MKB by following the successful sale of the bank to the buyers—Blue Robin Investments, METIS Private Capital Funds, and Pannónia Pension Funds—on June 29, 2016 (MNB 2016e). Although the asset management vehicle continues to exist, as of the writing of this case, no Hungarian bank resolutions have occurred since 2016 (MSZVK n.d.). 
+
+
+## **References and Key Program Documents** 
+
+## **Summary of Program** 
+
+(MNB n.d.a) Magyar Nemzeti Bank (MNB). n.d.a. “About Resolution in Brief.” _Web page detailing the role of Hungary’s resolution fund_ . https://ypfs.som.yale.edu/node/24239 
+
+(MNB n.d.b) Magyar Nemzeti Bank (MNB). n.d.b. “Questions and Answers.” _Web page of the MNB that answers common questions pertaining to the MNB’s approach to resolution_ . 
+
+https://ypfs.som.yale.edu/node/24240 
+
+(MSZVK n.d.) Magyar Szanálási Vagyonkezelő Zártkörűen Működő Részvénytársaság (MSZVK). n.d. “MSZVK Group Website.” Accessed August 9, 2023. _Website of the Hungarian asset management vehicle (in Hungarian)_ . https://elischolar.library.yale.edu/ypfs-documents2/2371 
+
+(Matolcsy 2015) Matolcsy, Gyorgy. 2015. “Publication of Magyar Nemzeti Bank’s Resolution Action with Regards to MKB Bank Zrt.,” December 17, 2015. 
+
+_Summary decision of MKB Bank’s resolution published by the governor of the MNB_ . https://ypfs.som.yale.edu/node/24237 
+
+(MNB 2016a) Magyar Nemzeti Bank (MNB). 2016a. “Annex to Letter Central Bank of Hungary to Andrea Enria.” Press release, 2016. 
+
+_Summary of the MNB’s decision to use the sale of business tool to resolve MKB Bank_ . https://ypfs.som.yale.edu/node/24238 
+
+## **Legal/Regulatory Guidance** 
+
+(Hungarian Government 2014) Hungarian Government. 2014. Act XXXVII of 2014 on Further Development of the Institutional Framework to Strengthen the Safety of Certain Actors in the Financial Intermediation System. 
+
+_Act transposing the BRRD into Hungarian national law_ . https://ypfs.som.yale.edu/node/24534/ 
+
+## **Media Stories** 
+
+(Daily News Hungary 2014) Daily News Hungary. 2014. “State Ups Stake by Unexpected Purchase of MKB.” Daily News Hungary, August 11, 2014. 
+
+_News article detailing the nationalisation of MKB Bank_ . https://elischolar.library.yale.edu/ypfs-documents2/2376 
+
+(Eddy 2014) Eddy, Kester. 2014. “Hungary Nationalises German-Owned MKB Bank.” Financial Times, July 24, 2014. 
+
+_News article announcing the nationalization of MKB Bank by the Hungarian state_ . https://elischolar.library.yale.edu/ypfs-documents2/2374 
+
+
+(Feher and Dauer 2014) Feher, Margit, and Ulrike Dauer. 2014. “Hungary Buys Bank from Germany’s BayernLB.” _Wall Street Journal_ , July 24, 2014. _News article on the sale of MKB Bank to the Hungarian State_ . https://ypfs.som.yale.edu/node/24527/ 
+
+(Suess and Balazs 2014) Suess, Oliver, and Edith Balazs. 2014. “BayernLB to Sell MKB Bank to Hungary for $74 Million.” _Bloomberg,_ July 24, 2014. _News article on the sale of MKB Bank to the Hungarian State_ . https://elischolar.library.yale.edu/ypfs-documents2/2373 
+
+(Szakacs and Than 2014) Szakacs, Gergely, and Krisztina Than. 2014. “Hungary Cbank to Draw Safety Net around MKB Bank.” Reuters, December 18, 2014. _News article on the conference of December 18, 2014 that took place soon after the restructuring decision of MKB Bank was announced_ . https://ypfs.som.yale.edu/node/24528/ 
+
+(Várhegyi 2017) Várhegyi, Éva. 2017. “György Matolcsy’s Cousin, Lieutenant Buy Shares on Credit in Bank Recapitalized at Taxpayer Expense,” May 6, 2017. _News article on the takeover of MKB Bank in Hungary_ . https://ypfs.som.yale.edu/node/24529/ 
+
+## **Press Releases/Announcements** 
+
+(MNB 2014a) Magyar Nemzeti Bank (MNB). 2014a. “MNB to Restore the Profitability of MKB Bank.” Press release, December 18, 2014. 
+
+_Press release announcing MNB’s decision to resolve MKB_ . https://ypfs.som.yale.edu/node/24225 
+
+(MNB 2014b) Magyar Nemzeti Bank (MNB). 2014b. “SZAN-I-3/2014 Decision No. on Ordering and Initiating the Resolution Procedure for MKB Bank Zrt.” Press release, December 18, 2014. 
+
+_Press release on the initiation of resolution procedures for MKB Bank (in Hungarian)_ . https://ypfs.som.yale.edu/node/24533/ 
+
+(MNB 2014c) Magyar Nemzeti Bank (MNB). 2014c. “The Hungarian National Bank SZANIH-4/2014. Decision No. on the Appointment of Resolution Commissioners to MKB Bank Zrt.” Press release, December 18, 2014. 
+
+_Press release on the appointment of resolution commissioners to MKB Bank (in Hungarian)_ . https://ypfs.som.yale.edu/node/24524/ 
+
+(MNB 2014d) Magyar Nemzeti Bank (MNB). 2014d. “The Hungarian National Bank SZANIV-3/2014. Order No. on the Approval of a Temporary Assessment Regarding MKB Bank Zrt.” Press release, December 18, 2014. 
+
+_Article on the temporary assessment of MKB Bank (in Hungarian)_ . https://ypfs.som.yale.edu/node/24530/ 
+
+
+(MNB 2014e) Magyar Nemzeti Bank (MNB). 2014e. “The MNB Is Speeding Up the Reorganization of MKB Bank.” Press release, December 30, 2014. _Press release from the MNB on restructuring MKB Bank (in Hungarian)_ . https://ypfs.som.yale.edu/node/24525/ 
+
+(MNB 2015a) Magyar Nemzeti Bank (MNB). 2015a. “Deputy Governor Ádám Balog Resigns.” Press release, July 20, 2015. _Press releasing announcing the appointment of Balog as the CEO of MKB Bank_ . https://ypfs.som.yale.edu/node/24226 
+
+(MNB 2015b) Magyar Nemzeti Bank (MNB). 2015b. “Selling Process of MKB Bank to Start.” Press release, October 2, 2015. 
+
+_Press release announcing the commencement process of the sale of MKB Bank_ . https://ypfs.som.yale.edu/node/24224 
+
+(MNB 2016b) Magyar Nemzeti Bank (MNB). 2016b. “Publication of Magyar Nemzeti Bank’s Administrative Action with Regards to MKB Bank Zrt.” Press release, 2016. _Press release on the resolution of MKB Bank_ . https://ypfs.som.yale.edu/node/24227 
+
+(MNB 2016c) Magyar Nemzeti Bank (MNB). 2016c. “New Owners of MKB Bank Zrt Selected under Close Supervision by the European Commission.” Press release, March 31, 2016. _Press release on the sale of MKB Bank to a consortium of private investors_ . https://ypfs.som.yale.edu/node/24228 
+
+(MNB 2016d) Magyar Nemzeti Bank (MNB). 2016d. “False Information Can Endanger the Successful Closing of the Sale of MKB Bank.” Press release, April 6, 2016. 
+
+_Press release from the MNB cautioning the public against believing in certain press coverage relating to the selection of buyers of MKB_ . https://ypfs.som.yale.edu/node/24558 
+
+(MNB 2016e) Magyar Nemzeti Bank (MNB). 2016e. “Magyar Nemzeti Bank Closes the Restructuring of MKB after a Successful Market-Based Sales Procedure.” Press release, June 30, 2016. 
+
+_Press release announcing the end of restructuring MKB_ . https://ypfs.som.yale.edu/node/24229 
+
+(Resolution Fund 2015) Resolution Fund, Hungary (Resolution Fund). 2015. “The Bad Part of MKB Bank Has Been Separated.” Press release, December 23, 2015. 
+
+_Press release from the Hungarian resolution fund announcing the reorganization of MKB Bank_ . 
+
+https://elischolar.library.yale.edu/ypfs-documents2/2375 
+
+
+(Resolution Fund 2018a) Resolution Fund, Hungary (Resolution Fund). 2018a. “The Resolution Fund Repaid All of Its External Debt Prior to Its Maturity.” Press release, August 3, 2018. _Press release announcing the prepayment of all the fund’s external debt_ . https://ypfs.som.yale.edu/node/24230 
+
+## **Reports/Assessments** 
+
+(Bayern LB 2014) Bayern LB. 2014. “Bayern LB 2014 Annual Report and Accounts,” 2014. _Annual Report of Bayern LB for the financial year 2014_ . https://ypfs.som.yale.edu/node/24526/ 
+
+(EC 2015) European Commission (EC). 2015. “State Aid SA.40441 (2015/N) — Hungary Restructuring of Magyar Kereskedelmi Bank Zrt.,” December 16, 2015. _EC report on the resolution of MKB Bank_ . https://ypfs.som.yale.edu/node/24231 
+
+(Helgi Library n.d.) Helgi Library. n.d. “MKB Bank — Capital Adequacy Ratio.” Accessed January 5, 2024. 
+
+_Snapshot of MKB Bank’s capital ratios over the years_ . https://ypfs.som.yale.edu/node/24536/ 
+
+(MKB 2014) Magyar Külkeresdelemi Bank (MKB). 2014. Annual Report. _Annual report of MKB Bank for the year 2015_ . https://ypfs.som.yale.edu/node/15694 
+
+(MKB 2017) Magyar Külkereskedelmi Bank (MKB). 2017. “Annual Report 2016,” 2017. _Annual report of MKB Bank for the year 2016_ . https://ypfs.som.yale.edu/node/24232 
+
+(MNB 2018) Magyar Nemzeti Bank (MNB). 2018. “Annual Report 2017,” 2018. _Annual report of MNB for 2017_ . https://ypfs.som.yale.edu/node/15696 
+
+(Resolution Fund 2018b) Resolution Fund, Hungary (Resolution Fund). 2018b. “Resolution Fund Annual Report,” 2018. 
+
+_Annual report of the Hungarian Resolution Fund_ . https://ypfs.som.yale.edu/node/24531/ 
+
+## **Key Academic Papers** 
+
+(IMF 2016) International Monetary Fund (IMF). 2016. “Hungary: Article IV Consultation Concluding Statement of the IMF Mission,” February 16, 2016. _IMF report on Hungary’s economy_ . https://ypfs.som.yale.edu/node/24236 
+
+
+(Láhm et al. 2016) Láhm, Krisztina Földényi, András Kómár, Antal Stréda, and Róbert Szegedi. 2016. “Bank Resolution as a New MNB Function — Resolution of MKB Bank.” _Financial and Economic Review_ , September. _Case study on the resolution of MKB Bank_ . https://ypfs.som.yale.edu/node/24252 
+
+(McNamara et al. 2024) McNamara, Christian M., Carey K. Mott, Salil Gupta, Greg Feldberg, and Andrew Metrick. 2024. “Survey of Resolution and Restructuring in Europe, Pre- and Post- BRRD.” Journal of Financial Crises 6, no.1, 2024. 
+
+_Survey of YPFS case studies examining 21st-century bank resolutions and restructuring in Europe before and after the existence of the Bank Recovery and Resolution Directive_ . https://elischolar.library.yale.edu/journal-of-financial-crises/vol6/iss1/1 
+
+Copyright 2024 © Yale University. All rights reserved. To order copies of this material or to receive permission to reprint any or all of this document, please contact the Yale Program on Financial Stability at ypfs@yale.edu.

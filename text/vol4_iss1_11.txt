@@ -1,0 +1,378 @@
+--- Page 1 ---
+Journal of Financial Crises Journal of Financial Crises 
+Volume 4 Issue 1 
+2022 
+Wall Street’s Subprime Debacle: Firsthand Accounts from Inside Wall Street’s Subprime Debacle: Firsthand Accounts from Inside 
+the CDO Machine the CDO Machine 
+Matthew A. Lieber 
+Steven H. Kasoff 
+Yale School of Management 
+Follow this and additional works at: https://elischolar.library.yale.edu/journal-of-financial-crises 
+ Part of the Economic History Commons, Economic Policy Commons, Finance Commons, Finance and 
+Financial Management Commons, Growth and Development Commons, Policy Design, Analysis, and 
+Evaluation Commons, Public Administration Commons, and the Public Policy Commons 
+Recommended Citation Recommended Citation 
+Lieber, Matthew A. and Kasoff, Steven H. (2022) "Wall Street’s Subprime Debacle: Firsthand Accounts 
+from Inside the CDO Machine," Journal of Financial Crises: Vol. 4 : Iss. 1, 371-378. 
+DOI: https://doi.org/10.17132/2693-3179.1267 
+Available at: https://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss1/11 
+This Lessons Learned is brought to you for free and open access by the Journal of Financial Crises and 
+EliScholar – A Digital Platform for Scholarly Publishing at Yale. For more information, please contact 
+journalfinancialcrises@yale.edu.
+
+--- Page 2 ---
+READERS TAKE NOTICE: READERS TAKE NOTICE: 
+As of April 2024, the YPFS Resource Library’s site domain has changed 
+to https://elischolar.library.yale.edu/ypfs-financial-crisis-resource-library/. 
+Please be aware that upon clicking any of the URL references to 
+the former Resource Library domains, either https://ypfs.som.yale.edu 
+or https://ypfsresourcelibrary.blob.core.windows.net/, in the 
+"References/Key Program Documents" section of a case study, 
+readers will encounter a "page not found" error. readers will encounter a "page not found" error. 
+Readers can still retrieve a given resource cited within this case study 
+on the new site  by searching by searching here  for the title cited. for the title cited. 
+This lessons learned is available in Journal of Financial Crises: https://elischolar.library.yale.edu/journal-of-financial-
+crises/vol4/iss1/11
+
+--- Page 3 ---
+Wall Street’s Subprime Debacle: 
+Firsthand Accounts from Inside the CDO Machine* 
+Matthew A. Lieber† and Steven H. Kasoff‡ 
+The primary catalyst that triggered the Global Financial Crisis (GFC) of 2007 –09 was the 
+market for subprime mortgage securities in the US. The engine driving the subprime surge, 
+collateralized debt obligations —CDOs—have been much cited but less well understood. 
+Using new securitization and derivative products, along with unprecedented leverage, CDOs 
+enabled dealers and investors to multiply and concentrate subprime risk to the point that it 
+became a systemic threat. This market grew rapidly during the years preceding the crisis, 
+fueled by aggressive (and often fraudulent) mortgage loan underwr iting, unrealistic 
+expectations for continued growth in home prices, and highly levered institutions with 
+access to artificially low interest rates. 
+The observations, perceptions, and actions of participants in the subprime markets remain 
+poorly documented  and incompletely understood. Seeking to deepen our understanding, 
+this study has produced seven interview summaries and one article telling the story of a 
+hypothetical CDO deal. 
+This article is organized in four parts. First, it presents our research questions and methods 
+in relation to the existing knowledge on the topic. Second, it describes what we think are the 
+study’s main contributions. Third, it previews the Lessons Learned summaries and 
+interviews from each of the participants. And last, it identif ies what we believe are some of 
+the unique values from the project. 
+1. Research Questions, Existing Knowledge, and Our Methods 
+The aims of this study are to document and probe the mix of economic assumptions, 
+investment strategies, and incentives at work—and to test the validity of certain well -
+established narratives. We interviewed a set of individual market participants —financial 
+engineers, marketers, executives, analysts, and investors —who collectively made up “the 
+CDO machine.” In one-to-two-hour-long interviews, we asked them about their experiences 
+at the forefront of CDO markets in relation to the following questions: 
+• How did the novel capabilities unleashed by the CDO markets interact with the 
+strategic mindsets and operational thinking inside Wall Street dealer firms?
+ 
+* This article is part of a special project of the Yale Program on Financial Stability Lessons Learned Oral History 
+Project: Inside the CDO Machine, which can be accessed at our website here,  
+https://som.yale.edu/centers/program-on-financial-stability/lessons-learned-oral-history-project. 
+† Interviewer, Yale Program on Financial Stability Lessons Learned Oral History Project.  
+‡ Yale School of Management Fellow and former equity partner and head of real estate and structured products 
+investments at the Elliott Management Corp., a global hedge fund.  
+371
+
+--- Page 4 ---
+• What motivated hedge funds and other investors to short subprime securities? And 
+how did their thinking and actions evolve from 2004 to 2008? 
+• Were the buyers of CDOs naive? What made CDOs so appealing to them? 
+• Why were the rating agencies incapable of accurately assessing the risk of CDOs? 
+• What led Wall Street dealers to shift from producing CDOs for sale to taking risk 
+positions in them? 
+Research involving the subprime collapse has tended to follow one of two tracks. On the one 
+hand, scholars and policy experts investigating the financial crisis have focused on 
+institutional factors such as excessive leverage, regulatory fragmentation, and a vulnerable 
+shadow banking regime.1 
+These structural accou nts identify the subprime debacle as the trigger of a larger financial 
+crisis that was driven by multiple causes. 2 Not surprisingly, multistranded explanations 
+replete with impersonal, and often arcane, causes are hard for even the most informed 
+observers to digest and disseminate. 
+On the other hand, narrative treatments of the subprime CDO markets featuring human-level 
+accounts have reached a wider audience. In these works, journalists and filmmakers tell 
+compelling stories and provide more salient, monocausal explanations. 3 Their narrative 
+accounts offer vivid human color and suspense, with a seductive Wall Street v illain lurking 
+at any turn. The adaptation of these works to film was natural, appropriate, and broadly 
+influential.4 
+ 
+1 Financial Crisis Inquiry Commission (FCIC), The Financial Crisis Inquiry Report  (Washington, DC: US 
+Government Printing Office, 2011) [URL: https://ypfs.som.yale.edu/financial-crisis-inquiry-commission-0]. 
+See also Gary Gorton and Andrew Metrick, “The Financial Crisis of 2007 –2009,” in Routledge Handbook of 
+Major Events in Economic History, eds. Robert Whaples and Randall Parker  (Abingdon: Routledge, 2013) 
+[URL: http://ssrn.com/abstract=2003388]. 
+2 FCIC Report 2011, and Frederic S. Mishkin, “Over the Cliff: From the Subprime to the Global Financial Crisis,” 
+Journal of Economic Perspectives 25, no. 1 (2011): 49–70. 
+3 Two important books are Michael Lewis, The Big Short: Inside the Doomsday Machine  (New York: W.W. 
+Norton, 2011) and Gregory Zuckerman, The Greatest Trade Ever: The Behind -the-Scenes Story of How John 
+Paulson Defied Wall Street and Made Financial History (New York: Broadway Business, 2009). Andrew Ross 
+Sorkin’s Too Big to Fail: The Inside Story of How Wall Street and Washington Fought to Save the Financial 
+System (New York: Penguin Books, 2010) also reports on CDO markets within the urgent crisis dealings of big 
+bank CEOs and Washington leaders. 
+4 The film The Big Short  (directed by Adam McKay, Paramount Pictures, 2015, 130 minutes) grossed 
+$133 million worldwide. Margin Cal l (J.C. Chandor, Lionsgate, 2011, 109 minutes) is a critically acclaimed 
+thriller inspired by Lehman Brothers. Inside Job (Charles Ferguson, Sony Pictures Classics, 2010, 108 minutes) 
+won the 2010 Academy Award for Best Documentary. The film Too Big to Fai l (Curtis Hanson, HBO Films, 
+2011, 98 minutes), based on the Sorkin book, featured William Hurt as Hank Paulson and Paul Giamatti as 
+Ben Bernanke and earned 10 Emmy award nominations. 
+372
+Journal of Financial Crises Vol. 4 Iss. 1
+
+--- Page 5 ---
+Analytically, the methods involved in the narrative recountings have a number of issues. 
+Beginning with the raw material, first person ac counts of key market actors can be difficult 
+to access and assemble. They are time-consuming (if not impossible) to collect, and they are 
+one-sided by definition. The statements can be unreliable if the human source is motivated 
+to embellish or obfuscate. Moving along, creating a narrative from the anecdotal data —the 
+journalist’s art—is another major step. Packaging these narratives into a book with an arc 
+and then dramatizing the book into a gripping film are third and fourth levels of art. For the 
+reporting that they do and the powerful narratives that they create, these books and films 
+have contributed a good deal to public and elite understanding of the financial crisis. And 
+then they stopped, around 2011. No one wanted to read the story anymore. 
+Not sur prisingly, much of the storytelling in the narrative treatments of the crisis (and 
+particularly in the subprime CDO markets) paints an unrealistic, binary picture in which 
+some people were fools and others had perfect knowledge and vision. What 
+misunderstandings the narrative works have created and popularized is an open question. 
+Thus, the key focus in our interviews has been on the omissions in both strands of the 
+literature: 
+• What important details and events did the writers cut from the books and the fil ms 
+because they were too arcane, too messy, or morally ambiguous? 
+• What did market actors know, see, experience, or later realize? And how does their 
+intelligence square or not with institutional knowledge from the more academic 
+accounts?  
+One other factor limiting the popular works is their timing. Concentrated around 2010, the 
+books and films lack the perspective and knowledge available to us and our interviewees in 
+2021. For example, the popular works tend to lump together the subprime debacle and the 
+GFC, even though it is not obvious why the subprime bust spread as widely as it did.5 
+Why and how did a small amount of subprime mortgages trigger a systemic financial crisis? 
+As we now know, 6 the permissive stance of regulators, rating agencies, and centra l banks 
+created the conditions in which the largest, most globally integrated Wall Street dealer firms 
+used derivatives to recklessly amass excessive leverage. Multiple weak spots together made 
+the system vulnerable in a big way. The subprime CDO bust was an intervening event, related 
+to the systemic vulnerability in multiple ways. Yet, the predominant person-based narratives 
+turn the CDO business into a monolithic Wall Street actor and the main cause of the GFC. The 
+linkage between subprime markets and the Global Financial Crisis goes beyond such extant 
+ 
+5 Gary Gorton, “The Big Short Shrift,” review of The Big Short and The Greatest Trade Ever, Journal of Economic 
+Literature 49, no. 2 (June 2011) [URL: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1768032 ]. 
+Gorton criticizes the books by Lewis  and Zuckerman for the limits of their economic vision and the absence 
+of a larger explanation. 
+6 See Larry Cordell, Greg Feldberg, and Danielle Sass, “The Role of ABS CDOs in the Financial Crisis,” Journal of 
+Structured Finance 25, no. 2 (Summer 2019): 10–27. [URL: https://papers.ssrn.com/abstract=3443043]. See 
+also FCIC Report 2011, Mishkin 2011, and Gorton and Metrick 2013. 
+373
+Wall Street’s Subprime Debacle Lieber and Kasoff
+
+--- Page 6 ---
+CDO machine -based popular explanations. “There is no substitute for digging into the 
+workings of the financial machine,” as Adam Tooze writes, for it is “there we will find both 
+the mechanism that tore the w orld apart and the reason why that disintegration came as 
+such a surprise.”7 The findings from the interviews help us understand what went wrong. 
+2. A Deeper Understanding 
+This study contributes in three ways toward a richer, more accurate understanding of the 
+mindsets and incentives at work in the subprime CDO machine. First, by interviewing 
+financial industry professionals who were leading players in the market at the time, it offers 
+a valuable window into the mindset of market participant s. With their firsthand knowledge 
+of the CDO machine, market participants bring a perspective and intelligence that are distinct 
+from those of regulators, analysts, or scholars. The legal and reputational concerns that they 
+have as financial industry leaders, however, often make it difficult if not impossible to access 
+their views in detail as this study has done. By collecting input from seven actors across the 
+industry, the study offers a sampling of market thinking and a more balanced picture than 
+reports focusing on one person or institution. The interviewees represent a cross section of 
+the industry. They include voices from the structuring units, institutional sales, executive 
+ranks, the buy side, a rating agency, and hedge funds; represented are investors taking both 
+short and long positions. 
+Second, the collection summarizes the most important lessons learned from each of its 
+interviewees and highlights distinctive perspectives of each. The insights from the human 
+source narratives have been enriched from hindsight. The intervening years have allowed 
+the interviewees to reflect on the period and to incorporate the latest knowledge of the 
+financial crisis, including, for example, the relationship between the subprime boom and the 
+GFC. 
+Third, in the “ Anatomy of a Trade : The Making of a Subprime CDO” article, the collection 
+presents an integrated snapshot —in fictionalized form —of the CDO machine and how it 
+worked. The reader will recognize the patterns identified in the summaries. The Anatomy of 
+a Trade article integrates the different perspectives in the form of one hypothetical deal, 
+sketching for the reader how the various pieces and agents involved in this one trade fit 
+together. 
+Considering the interviews as a unit, a number of common themes emerge. Fi rst, there was 
+enormous complexity and uncertainty about the direction of the market, even as it began to 
+unravel in 2007. Second, in their own way, each participant spotted warning signs well 
+before the crisis hit. Simultaneously, it made sense for each —industry norms and market 
+forces exerted pressure on them—to continue to support the production of CDOs in greater 
+volumes and further on the timeline than they otherwise might have. Third, the application 
+of financial models developed for conventional cred it instruments to housing -backed 
+ 
+7 Adam Tooze, Crashed: How a Decade of Financial Crises Changed the World (London: Penguin Books, 2018), 
+22. 
+374
+Journal of Financial Crises Vol. 4 Iss. 1
+
+--- Page 7 ---
+securities was mistaken, but this mistake was murky at the time (and it remains so). The 
+rating agencies, under new financial pressure, played a key role as gatekeeper sanctioning 
+subprime CDO investments. Fourth, an overwh elming force that all actors testify to is the 
+remarkable demand for higher -yield credit at the time. Meanwhile, fifth, the regulatory 
+regime enabled large institutions to leverage positions on highly rated CDOs without limit. 
+Sixth, the regulatory authori ties allowed institutions to invent and operate a subprime 
+market without reliable guardrails. Seventh, excessive leverage at banks was becoming a 
+systemic flaw. Large financial institutions made many large mistakes, though they varied in 
+their capability to correct, absorb, and recover from them. Eighth, large mistakes became 
+massive and systemically destructive only within those institutions that had thrown off the 
+controls and removed risk management tasks and responsibilities from their operational 
+units. 
+By sharing with us their recollections and their keenest lessons learned over the ensuing 
+decade, our interviewees provide accounts that help us put together the pieces of the 
+systemic debacle. These market participants explain in detail a number of ways that the CDO 
+market failed to function. Crucial to their testimonials, however, is the dilemma of localized 
+market intelligence and tunnel vision. While each participant recognized certain warning 
+signs during 2007 –08, at the time, none of them could ent irely see the broader picture of 
+dysfunction. Each was wrapped up in a subsection of the CDO market, a midlevel operator 
+or a rising executive, unable or unwilling to see the big picture. Describing a kind of financial 
+“fog of war,” their accounts reveal h uman and institutional elements of uncertainty, career 
+hierarchies, and personal interactions within the CDO market that influenced their actions. 
+3. Highlights from the Individual Interviewees 
+The following summaries and the full interviews give voice to a v ariety of individual 
+experiences and takeaways, which we summarize here. 
+Kicking off the interview series, our coauthor Steve Kasoff provides background on the credit 
+derivatives business. From his experience in the 1990s with Wall Street dealers, he trace s 
+the development of CDOs in their first instance to distressed debt from commercial real 
+estate failures. Hedge funds recognized an investment opportunity, Kasoff explains, giving 
+wind to the sector. CDOs made up of pools of debt from various industries g one wrong 
+enabled them to extract value from undervalued assets. 
+In the early 2000s, the inclusion of residential mortgage debt in CDOs and the ensuing 
+demand from large banks and insurers triggered a further round of innovation. The “pay-as-
+you-go” credit  default swap (CDS) enabled more investors, on a global scale, to join the 
+subprime boom using synthetic CDOs. Kasoff explains how the regulatory regime and the 
+role of the rating agencies were crucial to the CDO machine. Notably, regulators did not 
+require insurers to hold capital against CDS exposures. Meanwhile, rating agencies provided 
+the AAA ratings that institutional investors needed, using faulty models and brushing off 
+criticism on their way to record profits from CDO issuances. Shorting subprime C DOs was 
+more fraught, lonely, and costly than many imagine, Kasoff explains. When the downturn did 
+375
+Wall Street’s Subprime Debacle Lieber and Kasoff
+
+--- Page 8 ---
+come, it occurred far more suddenly and massively than anyone in the market had been 
+expecting—including short sellers. 
+Few parts of the subprime CDO machine  gained more infamy from the events of 2007 –08 
+than the rating agencies. Eric Kolchinsky, a former Moody’s analyst, explains how a once 
+stodgy, marginal institution transformed into a competitive oligopoly bent on maximizing 
+profits—and why the agencies fe ll short in their risk assessment. Formerly private 
+partnerships, the rating agencies became publicly held companies dedicated to shareholder 
+value during this time. The surging credit derivative industry presented major challenges to 
+the agencies, which w ere not accustomed or equipped to analyze complex structured 
+products. In the absence of an optimal methodology, profit incentives spurred agency 
+directors to normalize the use of inapt models and faulty assumptions. A whistleblower in 
+2009, Kolchinsky ref lects on rating agency reform a decade later: while there has been 
+widespread recognition that rating agency shortcomings were central to the subprime boom 
+and bust, post-crisis reforms were relatively minor. In contrast to bank regulation, the rating 
+agency regime continues along the same general lines —and with some of the same 
+vulnerabilities. 
+The generalized blindness to systemic risk in 2005 –07 takes specific form in Sohail Khan’s 
+discussion of investment mindsets among dealers and institutional clients . As managing 
+director for fixed-income sales at Citigroup during the period, Khan handled accounts of both 
+large institutional investors and hedge funds. In his interview, Khan identifies what he calls 
+three “fundamental truths” —core assumptions that were  absolutely unquestionable in the 
+minds of market participants at the time: (1) housing prices never go down nationally; (2) 
+any losses will be normally distributed; and (3) you can break up debt products. Khan’s 
+anecdotes provide more than one breathtakin g example of these kinds of blindness, which 
+were shared by producers, rating agencies, and investors. The overriding priority of dealers 
+was to maximize revenue from fees by producing and moving greater CDO volumes. At peak 
+boom, Wall Street firms shifted  to holding tranches of CDOs they had produced. But not all 
+of the big dealers were reckless in the same measure —a crucial detail that emerges from 
+Khan’s interview. What he calls the “provenance” of the CDO structuring group —where it 
+originated from and sat in relation to the firm’s institutional hierarchy—shaped its approach 
+to risk management. 
+Brian Stoker offers a strong argument for the logic of US credit markets, a damning 
+indictment of top leadership at two Wall Street firms, and criticism of the financial regulatory 
+regime before and after the crisis. As a midlevel banker at Merrill Lynch and Citigroup, Stoker 
+structured CDOs, managed the warehouses, and then helped liquidate the firm’s book as the 
+market began to tank in 2007. He explains how regulatory practices facilitated the expansion 
+of CDO issuance. Allowing insurers to allocate zero capital against their swap exposures 
+made the negative basis trade easy. It became advantageous for dealers to buy and hold AAA 
+tranches, Stoker explains, detailin g their off-balance-sheet maneuvers to grow their upside 
+exposure. Investors and dealers were not behaving fraudulently, Stoker makes clear, but 
+rather in a self -interested way within the permissive rules and norms of the system. The 
+glaring malpractice he  attests to occurred at the senior management level of the largest 
+376
+Journal of Financial Crises Vol. 4 Iss. 1
+
+--- Page 9 ---
+banks, who closed their eyes to the growing risk in the interests of short -term profits. 
+Financial crises happen every 10 years, Stoker concludes, yet each one tends to be dismissed 
+as an unforeseen “100-year event.” 
+Dubbed “the grandfather of CDOs,” Chris Ricciardi brings a perspective that encompasses his 
+successive roles as pioneering financial engineer, field general running production armies, 
+and buy-side executive. The essential purpose of a CDO, Ricciardi clarifies, is to create long -
+term leverage on an illiquid asset. He takes issue with several popular conceptions: short 
+selling did not cause the financial crisis, nor were rating agencies to blame for modeling 
+home values using the i nflated prices that they had been appraised at; furthermore, the 
+volume of asset -backed securities (ABS) issuance was too small to have caused the GFC. 
+Rather, Ricciardi highlights the “funding mismatch” within large institutions that took long -
+term risk while funding it with very short-term liabilities. The concentration of risk in certain 
+large overleveraged investment banks created a systemic vulnerability. In the absence of any 
+regulatory limit on short selling, the massive volume of shorts drove other CDO investors to 
+sell at massive losses. Had the securities been held to maturity, the recovery in housing 
+prices would have undone any major losses. Ricciardi expresses support for a limit on the 
+volume of shorts. 
+As the boom accelerated, it spawned  a cottage industry known as the CDO manager. 
+Overwhelming demand for CDOs spurred dealer firms to outsource the management of the 
+CDOs. Veteran Wall Street insider Jim Finkel takes us through the short rise and fall of the 
+CDO manager niche from his exper ience. The CDO manager would select the portfolio of 
+assets for a CDO, working closely with the dealer that would market the CDO to investors. 
+The CDO manager then managed those assets over the lifetime of the CDO. The business 
+model was fee based with rel atively fixed costs and a strong incentive to increase assets 
+under management. 
+The prudent investment philosophy that Finkel instilled in his firm soon ran against the 
+pressures of the market. He saw the CDO manager’s role as clearly on the buy side, but many 
+manager firms aligned more with the dealers in their behavior. With global investors 
+crowding into the market on the buy side, Wall Street dealers pushed CDO managers to select 
+dubious investments. Finkel’s Dynamic Credit Partners avoided buying the most toxic assets; 
+he later discovered that some of these were designed for short sellers. The problem of CDOs 
+as an asset class, Finkel concludes, was not the design of the security but rather the velocity 
+and volume of the debt being securitized during th e boom. The rating agencies succumbed 
+to a perverse incentive to sign off on senior CDO tranches as being AAA quality. Major dealer 
+firms were riven and out of control, addicted to fee revenue from CDO issuance. US 
+regulators were mistaken, Finkel suggests, in failing to rein in these players. 
+Stephen King shares a vivid perspective on the subprime CDO market saga from his position 
+as head of an ABS correlation desk at Barclays. Managing a delta -hedged portfolio of credit 
+derivatives required King to constantly evaluate market assumptions in relation to his own 
+assumptions. Hedging to limit risk, constantly updating his model, and stress testing his 
+portfolio before the crisis enabled King and his team to emerge whole—an exception among 
+377
+Wall Street’s Subprime Debacle Lieber and Kasoff
+
+--- Page 10 ---
+CDO market makers. They observed the surge in demand on the part of large banks for AAA 
+risk. The high yields from CDOs enabled the banks to subsidize their corporate credit lending 
+operations, a core business, that were hard -pressed by the low interest rate environment. 
+The h erd behavior into CDOs made a mistaken market consensus even more damaging, 
+worsening the collapse that would come. 
+4. Bringing It All Together; Looking Back and Looking Ahead 
+Considered together, the testimonials of these market participants provide a perspe ctive 
+distinct from those of the crisis response actors commonly profiled—the lawyers, regulators, 
+and economists leading the government authorities. Interestingly, in comparison to the 
+government actors, the market participants we interviewed are equally nuanced in their 
+assessments of 2007 and 2020 but consistently more negative about the present and future 
+crisis outlook. Regarding the pandemic crisis and the sharp but brief recession it caused, they 
+recognize the crucial success of the federal intervent ions of 2020. Looking forward, they 
+express concerns about the risks from moral hazard, overborrowing, and the unintended 
+consequences of repeated massive interventions. 
+Lastly, in addition to the interview summaries, the “Anatomy of a Trade” article prese nts a 
+parable, a sketch in eight parts of a single fictitious subprime CDO transaction. Informed by 
+expert interviews, documentary research, and the author’s firsthand experience, the 
+anatomy breaks down the different parts of the CDO origination process and shows the ways 
+that they connect. It reveals the sequence of key events in the creation of a typical CDO. 
+Beginning with a hedge fund manager’s proposal, moving to a large Wall Street dealer, then 
+proceeding to a buy -side investor’s discussion, each sce ne reveals different players 
+interacting with each other. Their give and take reflects the various perspectives 
+documented in the expert interviews within one imaginary deal. 
+Delving into the details of the subprime CDO trade of 2005–07 is potentially valuable in two 
+regards. First, it helps us better understand the Global Financial Crisis, specifically the ways 
+that the subprime market was connected to structural vulnerabilities that propelled 
+contagion through a global system. Second, beyond the GFC, we s uspect that students of 
+financial crises will recognize patterns in the CDO machine that transcend this particular era 
+and relate to other crises—past, present, and future. 
+ 
+378
+Journal of Financial Crises Vol. 4 Iss. 1

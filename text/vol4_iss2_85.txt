@@ -1,0 +1,1007 @@
+--- Page 1 ---
+Journal of Financial Crises Journal of Financial Crises 
+Volume 4 Issue 2 
+2022 
+United States: Term Asset-Backed Securities Loan Facility II United States: Term Asset-Backed Securities Loan Facility II 
+Lily S. Engbith 
+Yale School of Management 
+Follow this and additional works at: https://elischolar.library.yale.edu/journal-of-financial-crises 
+ Part of the Economic Policy Commons, Finance and Financial Management Commons, 
+Macroeconomics Commons, Policy Design, Analysis, and Evaluation Commons, Policy History, Theory, 
+and Methods Commons, and the Public Administration Commons 
+Recommended Citation Recommended Citation 
+Engbith, Lily S. (2022) "United States: Term Asset-Backed Securities Loan Facility II," Journal of Financial 
+Crises: Vol. 4 : Iss. 2, 1880-1903. 
+DOI: https://doi.org/10.17132/2693-3179.1374 
+Available at: https://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss2/85 
+This Case Study is brought to you for free and open access by the Journal of Financial Crises and 
+EliScholar – A Digital Platform for Scholarly Publishing at Yale. For more information, please contact 
+journalfinancialcrises@yale.edu.
+
+--- Page 2 ---
+READERS TAKE NOTICE: READERS TAKE NOTICE: 
+As of April 2024, the YPFS Resource Library’s site domain has changed 
+to https://elischolar.library.yale.edu/ypfs-financial-crisis-resource-library/. 
+Please be aware that upon clicking any of the URL references to 
+the former Resource Library domains, either https://ypfs.som.yale.edu 
+or https://ypfsresourcelibrary.blob.core.windows.net/, in the 
+"References/Key Program Documents" section of a case study, 
+readers will encounter a "page not found" error. readers will encounter a "page not found" error. 
+Readers can still retrieve a given resource cited within this case study 
+on the new site  by searching by searching here  for the title cited. for the title cited. 
+This case study is available in Journal of Financial Crises: https://elischolar.library.yale.edu/journal-of-financial-
+crises/vol4/iss2/85
+
+--- Page 3 ---
+United States: Term Asset-Backed Securities  
+Loan Facility II1 
+Lily S. Engbith2 
+Yale Program on Financial Stability Case Study 
+July 15, 2022 
+Abstract 
+The outbreak of the COVID -19 pandemic in early 2020 caused widespread economic 
+uncertainty, prompting government officials to act swiftly to combat potentially severe 
+fallout. On March 23, 2020, the Federal Reserve announced a series of monetary policy 
+measures and established several emergency lending facilities to assist the US economy. 
+Among t hese, the Fed revived the Term Asset -Backed Securities Loan Facility (TALF), a 
+Global Financial Crisis (GFC) -era facility that used a special purpose vehicle (SPV) to 
+encourage the issuance of asset-backed securities (ABS). Its main purpose was to restore the 
+flow of credit to households and businesses. TALF II made $100 billion in loans available; 
+each loan had a term of three years, was non-recourse to the borrower, and was secured by 
+eligible AAA-rated ABS. Borrowers could post a wider range of collatera l than in the earlier 
+TALF program. Eligible collateral included certain newly issued non -mortgage-backed ABS, 
+certain types of legacy commercial mortgage -backed securities (CMBS), and static 
+collateralized loan obligations (CLOs). After operating for abou t six months, the TALF was 
+closed by an act of Congress and ceased extending credit on December 31, 2020. Early 
+evaluations of the TALF concluded that its announcement helped to calm markets and 
+normalize interest rate spreads, despite relatively low usage of $4.4 billion.  
+Keywords: asset-backed securities (ABS), commercial mortgage-backed securities (CMBS), 
+lending, loan, securitization  
+  
+ 
+1 This case study is part of the Yale Program on Financial Stability (YPFS) selection of New Bagehot Project 
+modules considering market support programs in response to COVID-19. Cases are available from the Journal 
+of Financial Crises at https://elischolar.library.yale.edu/journal-of-financial-crises/. 
+2Senior Research Associate, YPFS, Yale School of Management.  
+1880
+
+--- Page 4 ---
+Overview 
+The sudden onset of the COVID -19 crisis in 
+the United States led to a precipitous decline 
+in market confidence and related disruptions 
+in short -term funding and credit markets 
+more broadly. Liquidity dried up as access to 
+financing longer than overnight tenors 
+became scarce, the cost of household and 
+corporate borrowing spiked, and demand for 
+assets with any form of credit risk fell 
+sharply. Of particular concern was the fact 
+that issuances of non -agency 
+securitizations,3 which had greatly increased 
+in the second half of 2019, had come to a near 
+halt by mid-March 2020 (FRB 2020k).  
+Despite major d isturbances resulting from 
+the Global Financial Crisis (GFC) of 2007–09, 
+the securitization market has continued to 
+serve as a critical source of funding for a vast 
+range of commercial activities, consumers, 
+and small businesses. More than $300 billion 
+in asset-backed securities (ABS) were 
+brought to market in 2019, increasing 
+through February 2020 before declining 
+abruptly by more than 70% at the outset of 
+the pandemic (Caviness and Sarkar 2020).   
+In addition to this sudden drop -off in 
+issuance, the inter est rate spreads on these 
+securities sharply increased, signaling a 
+magnification of both credit risk from loan 
+losses and liquidity risk from wary investors. 
+According to the Federal Reserve Bank of 
+New York (FRBNY), spreads on AAA -rated 
+tranches of comme rcial mortgage -backed 
+securities (CMBS) with a five-year maturity 
+increased by nearly 250 basis points (bps) 
+between February 20 and March 19, while 
+spreads on AAA-rated tranches of three-year 
+maturity prime auto loan ABS increased by 
+almost 180 bps (Caviness and Sarkar 2020). 
+ 
+3 Agency securities are guaranteed by a government-sponsored enterprise or by the federal government. 
+Key Terms 
+Purpose: To indirectly support the flow of credit to 
+consumers and businesses by enabling the issuance 
+of asset-backed securities  in exchange for a wide 
+range of collateral, including legacy CMBS and static 
+CLOs.  
+Launch Dates Authorized:  
+March 22, 2020  
+Announced:  
+March 23, 2020  
+Operational Date June 18, 2020  
+End Date December 31, 2020  
+Legal Authority Section 13(3) of the 
+Federal Reserve Act  
+U.S.C. 31 § 5302 
+Exchange Stabilization 
+Fund  
+Source of Funding Section 4027 of the 
+Coronavirus Aid, Relief, 
+and Economic Security 
+Act  
+Administrators Federal Reserve Bank of 
+New York  
+US Department of the 
+Treasury  
+Overall Size $100 billion in loans 
+available  
+Term Three years  
+Haircut Rate  Based on type of 
+collateral  
+Eligible Collateral Newly issued non-
+mortgage-backed ABS, 
+certain legacy CMBS  
+Peak Utilization $3.7 billion in TALF 
+loans  
+1881
+Journal of Financial Crises Vol. 4 Iss. 2
+
+--- Page 5 ---
+To address COVID-related disruptions in the securitization market, the Board of Governors 
+of the Federal Reserve  (the Fed) , with the approval of the Treasury Secretary, used its 
+emergency lending powers under Section 13(3) of the Fede ral Reserve Act to establish the 
+Term Asset-Backed Securities Loan Facility. The credit facility served as a funding backstop 
+to facilitate the issuance of eligible asset -backed securities (ABS), allowing borrowers to 
+access credit on more reasonable terms and generally stabilizing the market.  
+Under this program, the FRBNY committed to lend to TALF II LLC, a special purpose vehicle 
+(SPV), on a recourse basis. The SPV made $100 billion in loans available; each loan had a 
+term of three years, was non-recourse to the borrower, and was secured by eligible ABS. The 
+Treasury Department backed the facility with a $10 billion equity investment. Deviating 
+from the GFC-era TALF terms, the Fed broadened its definition of eligible collateral in 2020 
+to include certain types of legacy CMBS and static collateralized loan obligations (CLOs).  
+The TALF became operational on June 18, 2020, nearly three months after its announcement. 
+Peak utilization amounted to $3.7 billion in loans made by the SPV to eligible borrowers as 
+of October 31, 2020 (FRB 2020m). The facility initially offered one subscription per month 
+but increased subscriptions to two per month in July and four per month in August. Although 
+the FRBNY initially scheduled the TALF to terminate on September 30, 2020,  it later 
+extended the facility’s operations to December 31, 2020, because of prevailing pandemic-
+related market volatility.  
+By the end of its operations on December 31, 2020, the TALF had extended 224 loans totaling 
+$4.4 billion to 20 investment funds, more than half of which were foreign based (COC 2021a). 
+The majority of transactions were concentrated in securities backed by commercial 
+mortgages and small business loans guaranteed by the Small Business Administration (SBA) 
+(GAO 2020). The Congressional Oversight Committee (COC) reported in August 2021 that 
+although the TALF had issued only $4.4 billion in loans, improvements in the funding 
+markets allowed $304 billion in capital to reach borrowers over the course of 2020 (COC 
+2021b).  
+Summary Evaluation 
+According to FRBNY Executive Vice President Daleep Singh, markets were highly responsive 
+to the Federal Reserve’s recovery efforts because the economic uncertainty of COVID -19 
+stemmed from a health crisis rather than originating in the financial sector. It  was difficult 
+to determine the TALF’s exact impact in isolation, since  it was one of many fiscal programs 
+and monetary policy decisions designed to combat the economic and financial effects of the 
+virus (Singh 2020b). 
+Still, Singh also noted in an early assessment , despite limited usage, the lending facilities 
+played a large and sustained role in restoring confidence to private -sector borrowers. This 
+reinforced the principle that the Fed intended such programs to be used as a funding 
+backstop; early evaluators thus viewed the lack of take-up by borrowers as a positive sign of 
+recovery following a short period of volatility (Singh 2020b). For instance, spreads on AAA-
+rated, five-year tranches of CMBS decreased rapidly from 307 bps to 244 bps between March 
+23 and the week of April 9, 2020 (Caviness and Sarkar 2020). More specifically, the FRBNY 
+1882
+United States Engbith
+
+--- Page 6 ---
+also reported that lending under the TALF continued at low levels over the remainder of 
+2020 as pricing for ABS became “marginally attractive” for certain collateral types (FRBNY 
+2020d, 27).   
+Federal Reserve Chair Jerome H. Powell later testified before the House Select Subcommittee 
+on the Coronavirus Crisis, stating that “[the] announcement and presence of the TALF 
+substantially helped improve liquidity in the asset -backed securities markets  . . . and 
+contributed to rapid improvement in c redit markets for consumers and business” (Powell 
+2021, 5) . The Financial Stability Oversight Council (FSOC) corroborated Chair Powell’s 
+statement in its 2020 Annual Report (FSOC 2020).  
+In its regular reports to Congress, the COC raised concerns about the TALF’s three-year loan 
+terms’ effect on taxpayers; it was difficult to discern what market conditions would look like 
+when the loans matured in 2023. However, the COC acknowledged that the TALF had 
+recourse to the ABS collateral securing the loans, and th at lending haircuts applied to each 
+ABS at the time of the loan origination provided a further layer of protection against taxpayer 
+loss. Furthermore, many borrowers had reduced borrowing risk by voluntarily prepaying 
+their TALF loans (COC 2021b).   
+Based on a quarterly Fed assessment conducted on March 31, 2021, there were no credit 
+impairments in TALF’s holdings (COC 2021b). The Congressional Budget Office estimated 
+that the income and costs associated with additional lending under the CARES Act would 
+roughly offset each other ; the program would  therefore not affect the federal deficit 
+(Congressional Budget Office 2020). As of March 10, 2022, the Fed said it continued to expect 
+that TALF will not result in losses to the Federal Reserve. It also reported that the total value 
+of collateral pledged to secure the SPV’s loans to eligible borrowers amounted to $2.7 billion, 
+relative to the $1.3 billion in total SPV loans outstanding (FRB 2022a, 2). 
+   
+1883
+Journal of Financial Crises Vol. 4 Iss. 2
+
+--- Page 7 ---
+US Context: 2019–2020 
+GDP 
+(SAAR, Nominal GDP in LCU converted to USD) 
+$21.7 trillion in 2019 
+$21.5 trillion in 2020 
+GDP per capita 
+(SAAR, Nominal GDP in LCU converted to USD) 
+$65,280 in 2019 
+$63,414 in 2020 
+Sovereign credit rating (five-year senior debt) 
+ 
+Data for 2019: 
+Moody’s: Aaa 
+S&P: AA+u 
+Fitch: AAA 
+ 
+Data for 2020: 
+Moody’s: Aaa 
+S&P: AA+u 
+Fitch: AAA 
+Size of banking system 
+ 
+$13.8 trillion in 2019 
+$15.9 trillion in 2020 
+Size of banking system as a percentage of GDP 
+ 
+63.7% in 2019 
+74% in 2020 
+Size of banking system as a percentage of 
+financial system 
+ 
+27.1% in 2019 
+27.3% in 2020 
+Five-bank concentration of banking system 
+ 
+45.7% in 2019 
+46.2% 2020 
+Foreign involvement in banking system Data not available for 2019 
+Data not available for 2020 
+Government ownership of banking system Data not available for 2019 
+Data not available for 2020 
+Existence of deposit insurance Yes, in 2019 
+Yes, in 2020 
+Sources: Bloomberg; FRED; World Bank Global Financial Development Database; World Bank 
+Deposit Insurance Dataset. 
+ 
+ 
+1884
+United States Engbith
+
+--- Page 8 ---
+Key Design Decisions 
+1. Purpose: To combat disruptions in the securitization markets associated with the 
+COVID-19 pandemic, the Federal R eserve established the second iteration of the 
+Term Asset-Backed Securities Loan Facility (TALF).  
+The Federal Reserve Board of Governors authorized the establishment of the TALF on March 
+22, 2020, as one of several market liquidity programs meant to serve as a funding backstop 
+for troubled term securitization markets. In stabilizing ABS markets, the Fed intended to 
+support a freer flow of credit to households and businesses by facilitating the issuance of 
+ABS at more normal interest rate spreads.    
+2. Part of a Package: The Fed created the TALF as part of a slate of programs intended 
+to support market functioning at the outset of the COVID-19 pandemic.   
+The Fed took extensive measures to enable the flow of credit to the economy through 
+programs such as the Primary and Secondary Market Corporate  Credit Facilities, the 
+Commercial Paper Funding Facility (CPFF), the Primary Dealer Credit Facility (PDCF), and 
+the Money Market Mutual Fund Liquidity Facility (MMLF).  
+3. Legal Authority: The Federal Reserve used its authority under Section 13(3) of the 
+Federal Reserve Act to authorize establishment of the TALF , with the approval of 
+the Treasury Secretary. 
+The Fed authorized the  TALF by invoking its authority under Section 13(3) of t he Federal 
+Reserve Act (FRB 2020f). Section 13(3) permits the Fed, in “unusu al and exigent 
+circumstances,” to “discount for any participant in any program or facility with broad-based 
+eligibility” (FRB 2017). The invocation of Section 13(3) allowed the Fed to provide liquidity 
+more broadly than its monetary policy and discount window authorities allowed.  
+The Dodd-Frank Wall Street Reform and Consumer Protection Act of 2010 required prior 
+approval of the Treasury for the facility’s establishment. The Treasury also committed a first-
+loss equity investment to the TALF, using funds appropriated by Section 4027 of the CARES 
+Act (CARES Act 2020, sec. 4027). Although Treasury approval was not required for the GFC-
+era iteration of the TALF, the Treasury had worked closely with the Fed on that program and 
+provided $20 billion in TARP funds as additional security for that facility (CRS 2020, 19). 
+4. Governance: Section 13(3)(c) of the Federal Reserve Act required the Fed to 
+provide Congress with periodic updates regarding the TALF’s usage. 
+The Fed submitted mandated reports to both the Senate Committee on Banking, Housing, 
+and Urban Affairs and the House Committee on Financial Services. Each report included a 
+brief description of the TALF’s operations and any significant updates to its terms  and 
+conditions. Provisions specified in Sec. 4026(b)(1)(B) of the CARES Act also required the Fed 
+1885
+Journal of Financial Crises Vol. 4 Iss. 2
+
+--- Page 9 ---
+to publish these reports on its website seven days after submitting them to Congress (116th 
+US Congress 2020). 
+In addition to scrutiny in House and Senate co mmittee hearings, TALF operations were 
+subject to oversight by the Congressional Oversight Commission and the Special Inspector 
+General for Pandemic Recovery (SIGPR), both of which were established to monitor the 
+government’s CARES Act facilities. The Gove rnment Accountability Office also published 
+reports on the Fed’s emergency lending activities. 
+5. Administration: Several private entities assisted in the FRBNY’s administration of 
+the TALF. 
+While the FRBNY acted on behalf of the Fed in managing the TALF, the  program utilized 
+several parties to manage the loan transactions and to assess the collateral values and 
+eligibility of borrowers: 
+• In May 2020, the FRBNY appointed Pacific Investment Management Company LLC 
+(PIMCO) to act as the collateral monitor for the TALF. That same month, the FRBNY 
+designated the Bank of New York Mellon (BNYM) to serve as custodian and 
+administrator of the facility. PIMCO and BNYM were chosen for their experience in 
+the ABS markets and, in the case of the latter, prior involvement wit h the Global 
+Financial Crisis-era iteration of the TALF (FRBNY 2020a).  
+• Designated TALF Agents—primary dealers and other investors party to the Master 
+Loan and Security agreement —were responsible for supporting loan issuance on 
+behalf of their customers, the borrowers. Among other duties, they were tasked with 
+the intermediary roles of collecting loan requests, delivering to the custodian any 
+administrative fees, and managing the relationship between the borrowers and 
+delivering counterparties (if applicable) (FRBNY 2020b). 
+6. Communication: From the outset of the COVID -19 pandemic, the Fed committed 
+itself to supporting the flow of credit to households and businesses  through 
+capital markets.   
+In its initial press release, the Fed committed to “using its full range of tools” to provide credit 
+support for households, businesses, and the general US economy throughout the COVID -19 
+crisis (FRB 2020g). It reported that the TALF, along with other emergency lending and asset 
+purchase programs, would assist a wide range of markets and institutions while promoting 
+maximum employment and ensuring price stability (FRB 2020g).  
+7. Disclosure: TALF operations were subject to additional reporting requirements 
+because the facility received CARES Act funding. 
+The Fed announced on April 23, 2020, that it would publicly disclose on a monthly basis the 
+companies that borrowed under its CARES Act emergency lending programs. The Fed 
+emphasized that this new information w ould accompany its “already robust financial 
+reporting, including a comprehensive weekly balance sheet and annual audited financial 
+1886
+United States Engbith
+
+--- Page 10 ---
+statements” (FRB 2020e, 1). Following up on its announcement in a press release dated May 
+12, 2020, the Fed began publishing the names of each participant in the TALF , respective 
+amounts borrowed, interest rates charged, and value of pledged collateral  (FRB 2020f) . 
+These reports also included information on the costs, revenues, and fees associated with the 
+overall facility.  On December 30, 2021, the Fed released its TALF-specific Disclosures 
+Regarding the Emergency Lending Response to COVID -19, Pursuant to Section 11(s) of the 
+Federal Reserve Act (FRB 2021).  
+Additionally, the Fed published annual audited financial statements specific to the SPV, Term 
+Asset-Backed Securities Loan Facility  II LLC; two have been published  as of this writing  
+(FRBNY 2021b; FRBNY 2022).   
+8. Use of SPV: The FRBNY established a special purpose vehicle (SPV) to operate the 
+TALF. 
+The Fed has viewed use of the SPV structure as providing management, accounting, and legal 
+advantages to an intervention —especially when the Fed operates multiple Section 13(3) 
+programs in parallel. 4 Use of an SPV allows the Fed to better tailor a 13(3) program to the 
+goals of the intervention (Baxter 2009, 12–13). Each intervention has its own specific terms, 
+timeline, capital structure, and management team. The management teams may also be in 
+geographically separate reserve banks, depending on which is administering a given 
+intervention. 
+The SPV structure simplifies the reporting of income and the management of any sales of 
+assets discounted by the facility. As noted in Key Design Decision No. 7, Disclosure, the Fed 
+provided separate annual financial statements for the TALF that were independently audited 
+by an outside accounting firm. These statements provided greater detail and transparency 
+than existed for Fed facilities that did not utilize the SPV structure (Bernanke, Geithner, and 
+Paulson 2020, 157; FRB 2022b). Moreover, the degree of corporate separation from both the 
+Fed and other 13(3) interventions provided by an SPV structure may provide those other 
+entities some protection in the event a 13(3) program is sued. 
+SPVs are also typically easy and inexpensive to set up. The Fed has viewed its creation of the 
+structures as falling under the “incidental powers as shall be necessary to carry on the 
+business of banking within the limitations” of the Federal Reserve Act ( FRB n.d.; Bernanke, 
+Geithner, and Paulson 2020, 156, fn 28). 
+9. Size: The Fed made $100 billion in loans available under the TALF program. 
+Peak utilization amounted to $3.7 billion in loans made to eligible borrowers as of October 
+31, 2020 (FRB 2020m). The majority of transactions were concentrated in securities backed 
+by commercial mortgages and small business loans guaranteed by the Small Business 
+Administration (SBA). Overall issuances of ABS declined substantially year -over-year 
+between January and September 2020 (GAO 2020).  
+ 
+4 See also Bernanke, Geithner, and Paulson 2020, 156–158.  
+1887
+Journal of Financial Crises Vol. 4 Iss. 2
+
+--- Page 11 ---
+According to the Fed’s disclosures, TALF utilization increased significantly in July 2020, with 
+106 loans totaling $1.6 billion provided to 36 different borrowers, up from 19 loans totaling 
+$252 million to five different borrowers in June 2020 (COC 2020). 
+By the end of its operations on December 31, 2020, the TALF had extended 224 loans totaling 
+$4.4 billion to 20 investment funds, more than half of which were foreign -based companies 
+(COC 2021a). Total usage represented 4% of the facility’s initial $100 billion capacity (COC 
+2021b). 
+10. Source of Funding: The TALF was funded by both the Fed and Treasury and was 
+secured by all assets of the SPV.  
+As with the GFC-era version of the TALF, the FRBNY committed to lend to a special purpose 
+vehicle (SPV), TALF II LLC, on a recourse basis.  
+In addition to granting authorization for the facility, the Treasury Department made a $10 
+billion equity investment in the SPV using funds appropriated to the Exchange Stabilization 
+Fund (ESF). Treasury was required to use existing ESF funds because the Fed announced the 
+establishment of the TALF prior to the passage of the Coronavirus Aid, Relief, and Economic 
+Security (CARES) Act on March 27, 2020. As of the TALF term sheet dated May 12, 2020, 
+however, Treasury had supplanted the ESF funds with those allocated under section 4027 of 
+the CARES Act (FRB 2020c). 
+11. Eligible Institutions: Participation in the TALF was open to  any solvent US 
+business that owned eligible collateral.  
+In practice, all TALF borrowers were investment funds. Eligible borrowers included 
+investment funds created or organized in the US and overseen by an investment manager 
+created or organized in the US. These included (1) any type of pooled investment vehicl e 
+organized as a business entity or institution, such as a hedge fund, private equity fund, or 
+mutual fund; (2) any type of single -investor vehicle organized as a business entity or 
+institution; (3) any newly formed investment funds, so long as they met ot her relevant 
+eligibility criteria (FRBNY 2020b).  
+Eligible participants must have (1) been created or organized in the US or under the laws of 
+the US; (2) had significant operations and a majority of its employees based in the US; and 
+(3) maintained an account relationship with a TALF Agent. Initially, the FRBNY Term Sheet 
+dated May 12, 2020, had described a requirement wherein this account relationship would 
+have to be maintained with a primary dealer. This was updated on J uly 28, 2020, to include 
+all designated TALF Agents (FRB 2020d).  
+A business that named a foreign government as a Material Investor (defined by FRBNY as 
+owning “directly or indirectly, 10 % or more of any outstanding class of securities of an 
+entity”) was not eligible to borrow (FRBNY 2020b, 2). The TALF terms considered sovereign 
+wealth funds to be equivalent to foreign governments for the purposes of these restrictions. 
+It similarly deemed ineligible any pension plan in which foreign governments owned, 
+directly or indirectly, 10% or more of any outstanding class of securities. 
+1888
+United States Engbith
+
+--- Page 12 ---
+In a departure from GFC -era TALF terms, the FRBNY required COVID -era TALF borrowers 
+to submit to their respective TALF Agents proof of eligibility throughout the duration of the 
+outstanding loan term. The Fed added t hese requirements to the 2020 TALF conditions 
+following Congress’s post -GFC amendments to Section 13(3) and the Fed’s subsequent 
+amendments to Regulation A, the authority’s implementing rule. Congress amended Section 
+13(3) to mandate that recipients of suc h assistance could not be  insolvent. While Section 
+13(3) had already required that the Fed “obtain evidence that such participant . . . is unable 
+to secure adequate credit accommodations from other banking institutions,” the Fed 
+amended Regulation A to spe cifically mention a certification of such from the borrower as 
+“relevant evidence” (FRB 2015, 78963).    
+Regulation A allowed borrowers to cite one or more of the following when proving eligibility 
+for the TALF: (1) unusual economic conditions in a sector of the ABS market(s) intended to 
+be addressed by the TALF, such as elevated spreads in the primary and secondary ABS 
+markets in sectors for which the borrower sought to use as collateral for the loan; or (2) 
+increased rates or haircuts in the financing mar ket (e.g., the repurchase agreement, “repo,” 
+market) relevant for the collateral that the borrower sought to use for a TALF loan (FRBNY 
+2020b).   
+12. Auction or Standing Facility: The FRBNY designed the TALF as a standing facility 
+wherein borrowers would submit subscriptions to buy at preannounced rates set 
+by the Fed. 
+This design feature was a holdover from the first iteration of the TALF. Each month, 
+borrowers were able to request loans on each of the two preannounced subscription dates . 
+The TALF then disbursed loans to the borrower, pending receipt by the custodian of eligible 
+collateral, administrative fee, and applicable margin to cover the haircut. To support market 
+functioning, the TALF made loans at a premium above the market rate that would prevail  
+under otherwise normal conditions (Caviness and Sarkar 2020).  
+13. Loan or Purchase: The SPV made available non-recourse loans up to an aggregate 
+$100 billion under the TALF.  
+Because the loans were non-recourse to the borrower, the SPV was able to “enforce its rights 
+in the collateral” if the loan w ere not repaid (FRBNY 2020b, 1) . FRBNY staff members 
+Elizabeth Caviness and Asani Sarkar considered this to be an unconventional feature of 
+market financing in non-crisis times (Caviness and Sarkar 2020). 
+One of the designers of the GFC-era TALF emphasized that the non-recourse feature was key 
+to the program design. If the market price of the ABS declined, whether because of risk -
+aversion in the market or because of mounting credit losses, the borrowers’ capital los s 
+would be limited by the collateral haircut. They could then exit the loan agreement, leaving 
+the collateral ABS with the Federal Reserve. This aspect of the program highlights that the 
+purpose of the TALF was to heal the securitization markets and motiva te investors to be 
+involved in that process (Rhee 2020). 
+1889
+Journal of Financial Crises Vol. 4 Iss. 2
+
+--- Page 13 ---
+14. Eligible Collateral: The Fed modified its definition of eligible collateral from that 
+used for the GFC -era TALF, allowing the COVID -era TALF to accept static  
+collateralized loan obligations (CLOs). 
+A borrower could pledge only a single type of eligible collateral per TALF loan. Eligible 
+collateral for a particular borrower could not be backed by loans originated or securitized 
+by the borrower or by an affiliate of the borrower. There were two exceptions, however: (1) 
+A borrower was able to use Small Business Administration (SBA) ABS as collateral for its 
+TALF loan if the loans underlying were originated by the borrower or its affiliates, so long as 
+the borrower had no prior knowledge thereof; and (2) a borrower was also able to use 
+syndicated CLOs as collateral for its TALF loan even if the underlying loans were originated 
+by the borrower or affiliates as part of its syndicate.  
+Eligible collateral included US dollar -denominated cash (i.e., not synthet ic) ABS that had 
+received AAA credit ratings from two qualified, nationally recognized statistical rating 
+organizations (NRSROs) and possessed no lower rating from any NRSRO . Although 
+outstanding TALF loans backed by downgraded ABS were not affected by rat ing changes, 
+downgraded ABS could not be used as collateral for any new TALF loans until it regained its 
+status as eligible collateral. 
+For ABS to be eligible as collateral, the FRBNY required that it consist of one of the following 
+underlying credit exposures: 
+• Auto loans and leases 
+• Student loans 
+• Credit card receivables (both consumer and corporate) 
+• Equipment loans and leases 
+• Floorplan loans 
+• Premium finance loans for property and casualty insurance  
+• Certain small business loans guaranteed by the SBA 
+• Leveraged loans, or 
+• Commercial mortgages. 
+The March 23, 2020, term sheet included eligible servicing advance receivables in its list of 
+acceptable collateral. However, the Fed excluded them from its April 9, 2020, term sheet, 
+instead adding leveraged loans and commercial mortgages.  
+Eligible ABS must also have been issued on or after March 23, 2020, with the exception of 
+CMBS and SBA Pool Certificates (7 [a] loans) or Development Company Participation 
+1890
+United States Engbith
+
+--- Page 14 ---
+Certificates (504 loans). Collateral falling into the latter two  categories must have been 
+issued on or after January 1, 2019. 
+The Fed announced on April 9, 2020, that it would permit certain types of CMBS and static 
+CLOs to be used as collateral . Spreads on these assets had initially tightened following the 
+announcement of the TALF but tightened further following the collateral expansion  
+(Caviness and Sarkar 2020).  
+All, or substantially all, of the credit exposures underlying the eligible ABS must (1) for newly 
+issued ABS, except for CLOs, have been originat ed by US -organized entities (including US 
+branches or agencies of foreign banks) ; (2) for CLOs, have had a lead or a co -lead arranger 
+that is a US-organized entity (including a US branch or agency of a foreign bank); and (3) for 
+all ABS (including CLOs and CMBS), have been US-domiciled obligors or with respect to real 
+property located in the United States or one of its territories.  
+ABS that bore interest payments that stepped up or down to predetermined levels on specific 
+dates were ineligible. Additionall y, underlying credit exposures of eligible collateral could 
+not include exposures that were themselves cash ABS or synthetic ABS . Single-asset single-
+borrower CMBS, non-static CLOs, and commercial real estate CLOs were also ineligible. 
+The FRBNY also requi red eligible collateral to undergo clearance procedures through the 
+Depository Trust Company. As was the case during the GFC, “this review provided a layer of 
+due diligence beyond that of the credit rating agencies and investors, putting the public 
+sector in a better position to manage adverse selection” (Rhee 2020, 295).  
+There were no penalties for investors who failed to provide a security on the settlement date; 
+however, a delay would result in the cancellation of that portion of the loan and the 
+withholding of the administrative fee. 
+15. Loan Amounts: The FRBNY determined loan amounts based on the market value 
+of the underlying CMBS or ABS. 
+Although the FRBNY required borrowers to request a minimum of $5 million per loan 
+application, there were no maximum amounts imposed. The FRBNY determined the value of 
+the loans collateralized by both CMBS and ABS by the base value minus the base dollar 
+haircut, defined by the following FRBNY guidelines: 
+ 
+CMBS:  
+• The base value was equal to the least of ( 1) the dolla r purchase price on the 
+applicable trade date, ( 2) the market value as of the subscription date, and ( 3) a 
+value based on the New York Fed’s collateral review, provided, however, that the 
+base value was not to be greater than par. 
+• The base dollar haircut w as equal to: ( 1) for CMBS with an average life under five 
+years, 15% or (2) for CMBS with an average life beyond five years, 15 % plus one 
+percentage point for each additional year of average life beyond the five -year date. 
+No CMBS could have an average life of 10 years or longer. 
+1891
+Journal of Financial Crises Vol. 4 Iss. 2
+
+--- Page 15 ---
+• If the base value was less than the base haircut, the CMBS was ineligible.  
+ 
+ABS: 
+• The base value for seasoned collateral was equal to the least of: ( 1) the dollar 
+purchase price on the applicable trade date, ( 2) the market value as  of the 
+subscription date, and ( 3) a value based on the New York Fed’s review, provided, 
+however, that, other than SBA ABS, the base value was not greater than par.  
+• For SBA ABS with a market value greater than par, the Fed lent an amount equal to 
+market value, subject to a cap of 105% of par value, minus a haircut. 
+• The base value for newly issued collateral was equivalent to the dollar purchase 
+price on the applicable trade date. 
+• The base dollar haircut varied with the asset class and average life of the ABS.  
+• If the base value was less than the base haircut, the ABS was ineligible (FRBNY 
+2020b). 
+The weighted average life of a CMBS asset was calculated on the basis of (1) “the current 
+composition of the mortgage pool, as reflected in recent servicer and trustee reports, (2) the 
+entitlement of the legacy CMBS to make distributions, (3) the assumption that “anticipated 
+repayment dates” are maturity dates, and (4) a 0% conditional payment rate and the absence 
+of future defaults” (FRBNY 2020b, 13 –14). Loans in d efault or special servicing were 
+considered as if they had not defaulted, and previously modified loans were considered 
+according to their modified terms.  
+ 
+FRBNY required CMBS to bear interest at a pass -through rate that was fixed or based on a 
+weighted average of underlying fixed mortgage rates.  
+16. Haircuts: The Fed set a haircut schedule similar, though not identical, to that of 
+the GFC-era TALF. 
+The haircut schedule (see Figure 1) was mostly consistent with that of the GFC-era iteration 
+of the TALF, with a few notable exceptions: The 2008 predecessor never bought leveraged 
+loans but did include newly issued CMBS (FRB 2020d, 3; Rhee 2020, 290).  
+  
+1892
+United States Engbith
+
+--- Page 16 ---
+Figure 1: Initial Haircut Schedule for TALF II LLC 
+ 
+Source: FRB 2020d, 3. 
+17. Interest Rates: Interest rates on TALF loans were fixed or floating depending on 
+the underlying collateral, and they were generally high relative to the historical 
+coupon rate on ABS and CMBS. 
+The FRBNY determined interest rates on TALF loans based on the type of collateral securing 
+the loan, setting them one day prior to the subscription date. A borrower then had a 30 -day 
+grace period during which to pay interest if the net interes t pledged on the ABS was not 
+sufficient to cover the interest payment associated with the TALF loan.  
+Pricing was determined as follows:  
+ 
+1893
+Journal of Financial Crises Vol. 4 Iss. 2
+
+--- Page 17 ---
+• For collateralized loan obligations (CLOs), the interest rate was 150 bps over the 30-
+day average secured overnight financing rate (SOFR). 
+• For SBA Pool Certificates (7 [a] loans) the interest rate was the top of the federal 
+funds target range plus 75 bps. 
+• For SBA Development Company Participation Certificates (504 loans), the interest 
+rate was 75 bps over the three-year federal funds overnight index swap (OIS) rate.  
+• For all other eligible ABS, the interest rate was 125 bps over the two-year OIS rate 
+for securities with a weighted average life less than two years, or 125 bps over the 
+three-year OIS rate for securities with a weighted average life of two years or greater 
+(FRB 2020d).5 
+Similar to its GFC -era predecessor, the interest rates on TALF loans were generally high 
+relative to the historical coupon rate on ABS and CMBS (Caviness and Sarkar 2020).  
+18. Fees: The FRBNY charged borrowers an administrative fee equal to 10 b ps of the 
+TALF loan amount.  
+Upon settlement of collateral, the FRBNY required borrowers to pay to the TALF II LLC an 
+administrative fee equaling 10 basis points of the loan amount.  
+19. Term/Repayment: Each TALF loan carried a maturity of three years. 
+Loans offered under the GFC iteration of the TALF initially carried terms of three years. 
+However, the FRBNY later extended these terms because of  a mismatch between the 
+maximum three-year range of the loans and the maximum five-year range of their underlying 
+assets (Rhee 2020).  
+Despite the extension of the previous version of the program, the TALF II terms specified a 
+three-year maturity for each loan. As noted in Figure 1, the maximum maturity for the 
+underlying collateral remained much longer than three, or even five, years.  
+Upon receipt of a Prepayment Notice, the FRBNY allowed borrowers to prepay a TALF loan, 
+in full or in part and without penalty. The borrower then received collateral securing the 
+relevant TALF loan on a pro-rata basis. Despite this prepayment provision, borrowers were 
+not permitted to substitute collateral during the term of the loan. 
+20. Other Restrictions on Eligible Participants: Participants accessing funds through 
+the TALF were not subject to the compensation, stock repurchase, or capital 
+ 
+5 Rates per the March 23, 2020, term sheet were based on LIBOR rather than SOFR (for CLOs) or OIS (all 
+other asset classes). The FRBNY began using the latter benchmarks beginning with the publicatio n of the 
+term sheet dated April 9, 2020 (FRB 2020a, 2; FRB 2020b, 2). 
+1894
+United States Engbith
+
+--- Page 18 ---
+distribution restrictions that applied to direct loan programs implemented under 
+section 4003(c)(3)(A)(ii) of the CARES Act. 
+Furthermore, there were no additional regulatory capital requirements for securities 
+financed by a TALF loan. Borrowers were, however, subject to the conflicts of interest 
+requirements outlined in section 4019 of the CARES Act.  
+As with the first iteration of TALF, the principle underlying executive comp ensation 
+restrictions needed not apply to TALF borrowers because they were not the ultimate 
+recipients of emergency credit (FRBNY 2020b). 
+21. Regulatory Relief: The Fed did not implement any regulatory changes to assist 
+with the operation of—or participation in—the program. 
+Sources consulted do not indicate the existence of regulatory concessions. 
+22. International Coordination: The Fed did not coordinate with other jurisdictions 
+when designing or operating the TALF. 
+Sources consulted do not indicate that the Fed consulted with international parties. 
+23. Duration: The FRBNY scheduled the TALF to terminate on September 30, 2020, 
+but later extended its operations through December 31, 2020. 
+Due to prevailing pandemic-related market volatility and slow national economic rec overy, 
+the Fed announced a three-month extension on July 28, 2020 (FRB 2020h).  
+On November 19, 2020, Treasury Secretary Steven T. Mnuchin formally requested that the 
+Fed return unused funding for CARES Act facilities (including the TALF, among others) to the 
+Treasury (Mnuchin 2020). Although the Fed initially expressed reservations about the early 
+closure, Chair Powell later indicated that he would defer to Treasury (Powell 2020) . 
+Following Secretary Mnuchin’s request, Congress passed an amendment to the Consolidated 
+Appropriations Act (CAA) of 2021 that would explicitly prevent the Fed from reinstating any 
+of the CARES Act facilities, with the notable exception of the TALF (House of Representatives 
+2021, 966). According to a CRS report, the CAA may have excluded the TALF because it was 
+the only program backed by CARES Act funding initially established during the GFC (Labonte 
+2021).  
+On January 7, 2021, the FRBNY and Treasury amended the TALF II Limited Liability 
+Company Agreement to provide for “an interim distribution to Treasury of a portion of its 
+previously contributed capital” (FR BNY 2021 a, 1). This return of equity amounted to 
+approximately $10 billion, less the amount of outstanding loans (FRBNY 2021a). 
+ 
+References and Key Program Documents 
+1895
+Journal of Financial Crises Vol. 4 Iss. 2
+
+--- Page 19 ---
+Summary of Program 
+(Caviness and Sarkar 2020) Caviness, Elizabeth, and Asani Sarkar. August 7, 2020. “Securing 
+Secured Finance: The Term Asset-Backed Securities Loan Facility.” Federal Reserve Bank of 
+New York.  
+Editorial program summary published by FRBNY staff describing the terms and evaluating the 
+early effects of the program.  
+https://ypfs.som.yale.edu/library/securing-secured-finance-term-asset-backed-securities-
+loan-facility 
+(FRBNY 2020a) Federal Reserve Bank of New York (FRBNY). March 2020. “Term Asset -
+Backed Securities Loan Facility.”  
+Summary published by the FRBNY describing key terms , dates, and operational details for 
+potential TALF participants.  
+https://ypfs.som.yale.edu/library/term-asset-backed-securities-loan-facility 
+(FRBNY 2020b) Federal Reserve Bank of New York (FRBNY). November 2, 2020. “FAQs: 
+Term Asset -Backed Securities Lo an Facility (Effective November 2, 2020).”  
+Government document detailing FAQs pertaining to the TALF upon establishment as well as 
+any subsequent changes.  
+https://ypfs.som.yale.edu/library/faqs-term-asset-backed-securities-loan-facility 
+(Mnuchin 2020) Mnu chin, Steven T. November 19, 2020. “Letter from Secretary Steven T. 
+Mnuchin on the Status of Facilities Authorized Under Section 13(3) of the Federal Reserve 
+Act.” 
+Official letter written to Chair Jerome H Powell requesting that the unused CARES Act 
+emergency lending facility funds be returned to Treasury.   
+https://ypfs.som.yale.edu/library/letter-secretary-steven-t-mnuchin-status-facilities-
+authorized-under-section-133-federal 
+(Powell 2020) Powell, Jerome H. (Powell). November 20, 2020. “Letter from Chair Powell to 
+Secretary Mnuchin Regarding Emergency Lending Facilities.” Board of Governors of the 
+Federal Reserve System.  
+Letter from Chair Powell to Secretary Mnuchin acknowledging the latter’s request to return 
+Treasury’s excess capital in the CARES Act facilities.  
+https://ypfs.som.yale.edu/library/letter-chair-powell-secretary-mnuchin-regarding-
+emergency-lending-facilities 
+Implementation Documents 
+(FRB 2020a)  Board of Governors of the Federal Reserve System (FRB). March 23, 2020. 
+“Term Asset-Backed Securities Loan Facility Term Sheet (Effective March 23, 2020).”  
+Official government document describing the initial terms of the second iteration of the TALF 
+upon establishment.  
+https://ypfs.som.yale.edu/library/term-asset-backed-securities-loan-facility-term-sheet-
+effective-march-23-2020 
+1896
+United States Engbith
+
+--- Page 20 ---
+(FRB 2020b)  Board of Governors of the Federal Reserve System (FRB). April 9, 2020. “Term 
+Asset-Backed Securities Loan Facility Term Sheet (Effective April 9, 2020).”   
+Official government document describing the terms and conditions of the TALF’s operations as 
+of April 9, 2020.  
+https://ypfs.som.yale.edu/library/term-asset-backed-securities-loan-facility-term-sheet-
+effective-april-9-2020 
+(FRB 2020c)  Board of Governors of the Federal Reserve System (FRB). May 12, 2020. “Term 
+Asset-Backed Securities Loan Facility Term S heet (Effective May 12, 2020).”  
+Official government document describing the terms and conditions of the TALF’s operation as 
+of May 12, 2020.  
+https://ypfs.som.yale.edu/library/term-asset-backed-securities-loan-facility-term-sheet-
+effective-may-12-2020-0 
+(FRB 2020d)  Board of Governors of the Federal Reserve System (FRB). July 28, 2020. “Term 
+Asset-Backed Securities Loan Facility Term Sheet (Effective July 28, 2020).”   
+Official government document describing the most recently updated terms of the second 
+iteration of the TALF.  
+https://ypfs.som.yale.edu/library/term-asset-backed-securities-loan-facility-term-sheet-
+july-28-2020 
+(FRBNY 2021 a) Federal Reserve Bank of New York (FRBNY). January 7, 2021. “Second 
+Amended and Restated Limited Liability Company Agreement of TALF II LLC.”  
+Official document amending the terms of the TALF’s limited liability agreement after its closure 
+on December 31, 2020.  
+https://ypfs.som.yale.edu/library/second-amended-and-restated-limited-liability-
+company-agreement-talf-ii-llc 
+Legal/Regulatory Guidance 
+(116th US Congress 2020) 116th US Congress. March 27, 2020. Public Law 116 -136: The 
+Coronavirus Aid, Relief, and Economic Security Act (The “CARES Act”). 116–136.  
+Economic stimulus bill passed in response to the COVID-19 pandemic.  
+https://ypfs.som.yale.edu/library/public-law-116-136-coronavirus-aid-relief-and-
+economic-security-act-cares-act 
+(Baxter 2009) Baxter, Thomas C, Jr. January 19, 2009. “The Legal Position of the Central 
+Bank: The Case of the Federal Reserve Bank of New York.”  Federal Reserve Bank of New 
+York.            
+Speech discussing Fed legal authorities.   
+https://ypfs.som.yale.edu/node/19775 
+(CARES Act 2020) US Congress (CARES Act). March 27, 2020. “Coronavirus Aid, R elief, and 
+Economic Security Act (CARES Act).” Government Printing Office.  
+Third wave of US federal coronavirus relief.  
+https://ypfs.som.yale.edu/node/18114 
+1897
+Journal of Financial Crises Vol. 4 Iss. 2
+
+--- Page 21 ---
+(FRB n.d.) “Section 4 of the Federal Reserve Act.” Public Law 63-43. No date. Federal Reserve 
+Board of Governors. Accessed February 10, 2022.      
+Section of the Federal Reserve Act describing the Federal Reserve banks.                
+https://ypfs.som.yale.edu/library/document/federal-reserve-act-section-4-federal-
+reserve-banks 
+(FRB 2015) Board of Governors of the Federal Reserve System (FRB). December 18, 2015. 
+12 CFR Part 201—Regulation A: Extensions of Credit by Federal Reserve Bank. 78959.  
+Final rule amending Regulation A to implement emergency lending authorities under Section 
+13(3) of the FRA.  
+https://ypfs.som.yale.edu/library/document/12-cfr-part-201-regulation-extensions-
+credit-federal-reserve-bank 
+(FRB 2017) Board of Governors  of the Federal Reserve System (FRB). February 13, 2017. 
+Federal Reserve Act, Section 13. Power of Federal Reserve Banks.  
+Excerpt from the Federal Reserve Act describing the powers of the Federal Reserve Banks.  
+https://ypfs.som.yale.edu/node/14426 
+(House of Representatives 2021) House of Representatives. September 30, 2021. H.R. 133: 
+Consolidated Appropriations Act, 2021.  
+Bill including the amendment that prevents the Fed from reinstating any of the CARES Act 
+facilities, except for the TALF.  
+https://ypfs.som.yale.edu/node/18090 
+Press Releases/Announcements 
+(FRB 2020e) Board of Governors of the Federal Reserve System (FRB). April 23, 2020. 
+“Federal Reserve Board Outlines the Extensive and Timely Public Information It Will Make 
+Available Regarding Its Prog rams to Support the Flow of Credit to Households and 
+Businesses and Thereby Foster Economic Recovery.”  
+Press release describing the new information about the CARES Act facilities that the Fed would 
+disclose on a monthly basis.  
+https://ypfs.som.yale.edu/library/federal-reserve-board-outlines-extensive-and-timely-
+public-information-it-will-make 
+(FRB 2020f) Board of Governors of the Federal Reserve System (FRB). May 12, 2020. 
+“Federal Reserve Publishes Updates to the Term Sheet for the Term Asset-Backed Securities 
+Loan Facility (TALF) and Announces Information to Be Disclosed Monthly for the TALF and 
+the Paycheck Protection Program Liquidity Facility.”  
+Press release announcing additional information regarding borrower and collateral eligibility 
+criteria for the TALF and updates on disclosures for the TALF and PPPLF.  
+https://ypfs.som.yale.edu/library/federal-reserve-publishes-updates-term-sheet-term-
+asset-backed-securities-loan-facility 
+(FRB 2020g) Federal Reserve Board of Governors (FRB). March 23, 2020. “Fe deral Reserve 
+Announces Extensive New Measures to Support the Economy.”  
+Fed press release announcing purchase of agency MBS securities, establishment of PMCCF, 
+1898
+United States Engbith
+
+--- Page 22 ---
+SMCCF, TALF, MMLF, and CPFF.  
+https://ypfs.som.yale.edu/library/federal-reserve-announces-extensive-new-measures-
+support-economy 
+(FRB 2020h)  Federal Reserve Board of Governors (FRB). July 28, 2020. “Federal Reserve 
+Board Announces an Extension through December 31 of Its Lending Facilities That Were 
+Scheduled to Expire on or around September 30.”  
+Press release announcing extension of 13(3) facility end dates.  
+https://ypfs.som.yale.edu/library/federal-reserve-board-announces-extension-through-
+december-31-its-lending-facilities-were 
+Key Academic Papers 
+(Congressional Budget Office 2020) Congressional  Budget Office. 2020. Cost Estimate to 
+Mike Enzi. April 27, 2020. “Re: Preliminary Estimate of the Effects of H.R. 748, the CARES Act, 
+Public Law 116 -136, Revised, With Corrections to the Revenue Effect of the Employee 
+Retention Credit and to the Modification of a Limitation on Losses for Taxpayers Other Than 
+Corporations.”  
+CBO preliminary cost estimate projecting the fiscal impact of Economic Impact Payments.  
+https://ypfs.som.yale.edu/library/preliminary-estimate-budgetary-effects-hr-748-cares-
+act 
+(Rhee 2020) Rhee, June. 2020. “Term Asset-Backed Securities Loan Facility (U.S. GFC).” SSRN 
+Electronic Journal.  
+YPFS case study on the version of TALF first implemented during the Global Financial Crisis . 
+https://ypfs.som.yale.edu/library/term-asset-backed-securities-loan-facility-talf-us-gfc 
+Reports/Assessments 
+(Bernanke, Geithner, and Paulson 2020) Bernanke, Ben, Timothy F. Geithner, and Henry M. 
+Paulson, Jr., with J. Nellie Liang, eds . 2020. First Respon ders: Inside the U.S. Strategy for 
+Fighting the 2007-2009 Global Financial Crisis. Yale University Press.  
+Book describing US response to the Global Financial Crisis.  
+https://ypfs.som.yale.edu/library/document/first-responders-inside-us-strategy-fighting-
+2007-2009-global-financial-crisis 
+(COC 2020) Congressional Oversight Commission (COC). August 21, 2020. “The Fourth 
+Report of the Congressional Oversight Commission.” Yale Program on Financial Stability 
+Resource Library.  
+Official government oversight repo rt detailing the findings of the COC regarding lending 
+facilities established under the CARES Act.  
+https://ypfs.som.yale.edu/node/18521  
+(COC 2021a) Congressional Oversight Commission (COC). January 28, 2021. “The Ninth 
+Report of the Congressional Oversig ht Commission.” Yale Program on Financial Stability 
+Resource Library.  
+Official government oversight report detailing the findings of the COC regarding lending 
+1899
+Journal of Financial Crises Vol. 4 Iss. 2
+
+--- Page 23 ---
+facilities established under the CARES Act.  
+https://ypfs.som.yale.edu/node/18525 
+(COC 2021b) Congressional Oversight Commission (COC). August 31, 2021. “The Sixteenth 
+Report of the Congressional Oversight Commission.” Yale Program on Financial Stability 
+Resource Library.  
+Official government oversight report detailing the findings of the COC regardi ng lending 
+facilities established under the CARES Act.  
+https://ypfs.som.yale.edu/node/18520 
+(CRS 2020) Congressional Research Service  (CRS). March 27, 2020. “Federal Reserve: 
+Emergency Lending (Updated March 27, 2020).”   
+Official government report assessing early actions taken in response to COVID-19 in the context 
+of lessons learned from 2008.  
+https://ypfs.som.yale.edu/library/federal-reserve-emergency-lending-updated-march-27-
+2020 
+(FRB 2020i)  Board of Governors of the Federal Reserve System (FRB) . March 30, 2020. 
+“Report to Congress Pursuant to Section 13(3) of the Federal Reserve Act: Term Asset -
+Backed Securities Loan Facility (March 30, 2020).”  
+Official government report detailing the purpose and terms of establishment of the COVID -era 
+TALF. 
+https://ypfs.som.yale.edu/library/report-congress-pursuant-section-133-federal-reserve-
+act-term-asset-backed-securities-loan 
+(FRB 2020j) Board of Governors of the Federal Reserve System (FRB). April 28, 2020. 
+“Periodic Report: Update on Outstanding Lending F acilities Authorized by the Board under 
+Section 13(3) of the Federal Reserve Act (April 28, 2020).”  
+Official government report summarizing the updated usage of the emergency lending facilities 
+established in response to the COVID-19 pandemic.  
+https://ypfs.som.yale.edu/library/periodic-report-update-outstanding-lending-facilities-
+authorized-board-under-section-133-0 
+(FRB 2020k)  Board of Governors of the Federal Reserve System (FRB). May 2020. “Financial 
+Stability Report (May 2020).” Financial Stability Report.  
+Official government assessment describing early evaluations of the monetary policy actions 
+taken and facilities established in response to COVID-19.  
+https://ypfs.som.yale.edu/library/financial-stability-report-may-2020 
+(FRB 2020l) Board of Governors of the Federal Reserve System (FRB). June 27, 2020. 
+“Periodic Report: Update on Outstanding Lending Facilities Authorized by the Board under 
+Section 13(3) of the Federal Reserve Act (June 27, 2020).”  
+Official government report summarizing the updated usage of the emergency lending facilities 
+established in response to the COVID-19 pandemic.  
+https://ypfs.som.yale.edu/library/periodic-report-update-outstanding-lending-facilities-
+authorized-board-under-section-133-2 
+1900
+United States Engbith
+
+--- Page 24 ---
+(FRB 2020m) Board of Governors of the Federal Reserve System (FRB). November 6, 2020. 
+“Periodic Report: Update on Outstanding Lending Facilities Authorized by the Board under 
+Section 13(3) of the Federal Reserve Act (November 6, 2020).”  
+Official government report summarizing the updated usage of the emergency lending facilities 
+established in response to the COVID-19 pandemic.  
+https://ypfs.som.yale.edu/library/periodic-report-update-outstanding-lending-facilities-
+authorized-board-under-section-133 
+(FRB 2020n) Federal Reserve Board of  Governors (FRB). August 2020. “Report on the 
+Federal Reserve’s Balance Sheet (August 2020).”  
+Fed report summarizing operational developments for each of the COVID -19 Section 13(3) 
+lending facilities.  
+https://ypfs.som.yale.edu/library/report-federal-reserves-balance-sheet-august-2020 
+(FRB 2021) Federal Reserve Board of Governors (FRB). December 30, 2021 . “Disclosures 
+Regarding the Emergency Lending Response to COVID -19, Pursuant to Section 11(s) of the 
+Federal Reserve Act.” 
+Excel sheet containing transaction-specific disclosures for the TALF.  
+https://ypfs.som.yale.edu/library/document/disclosures-regarding-emergency-lending-
+response-covid-19-pursuant-section-11s-0  
+ 
+(FRB 2022 a) Board of Governors of the Federal Reserve System (FRB). March 10 , 2022. 
+“Periodic Report: Update on Outstanding Lending Facilities Authorized by the Board under 
+Section 13(3) of the Federal Reserve Act, March 10, 2022.”  
+Official government report summarizing the updated usage of the emergency lending facilities 
+established in response to the COVID-19 pandemic.  
+https://ypfs.som.yale.edu/library/document/periodic-report-update-outstanding-lending-
+facilities-authorized-board-under-9 
+(FRB 2022 b) Federal Reserve Board of Governors (FRB). March 21, 2022. “Fed Financia l 
+Statements – 2020.” Data.     
+Site showing Fed system’s 2020 financial statements, including for SPVs.                
+https://ypfs.som.yale.edu/library/document/fed-financial-statements-2020 
+(FRBNY 2020d)  Federal Reserve Bank of New York (FRBNY). 2020. “ Open Market 
+Operations During 2020.” Yale Program on Financial Stability Resource Library.  
+Report presented to the Federal Open Market Committee describing the Fed’s open market 
+operations and other actions related to monetary policy implementation during the calendar 
+year 2020.  
+https://ypfs.som.yale.edu/node/18538 
+(FRBNY 2021 b) Federal Reserve Bank of New York (FRBNY). March 17, 2021. “Audited 
+Annual Financial Statements: Term Asset -Backed Securities Loan Facility LLC .” Federal 
+Reserve Board of Governors. 
+Audited annual financial statement detailing the financial position and history of the TALF II 
+SPV as of 12/31/2020.  
+1901
+Journal of Financial Crises Vol. 4 Iss. 2
+
+--- Page 25 ---
+https://ypfs.som.yale.edu/library/document/audited-annual-financial-statements-term-
+asset-backed-securities-loan-facility-llc 
+ 
+(FRBNY 2022) Federal Reserve Bank of New York (FRBNY). March 1 0, 202 2. “Audited 
+Annual Financial Statements: Term Asset -Backed Se curities Loan Facility LLC .” Federal 
+Reserve Board of Governors. 
+Audited annual financial statement detailing the financial position and history of the TALF II 
+SPV as of 12/31/2021.  
+https://ypfs.som.yale.edu/library/document/audited-annual-financial-statements-term-
+asset-backed-securities-loan-facility-0 
+(FSOC 2020) Financial Stability Oversight Council (FSOC). December 3, 2020. “FSOC 2020 
+Annual Report.” Yale Program on Financial Stability Resource Library.  
+Report summarizing the activities of the FSOC, significant financial market and regulatory 
+developments, and potential emerging threats to financial stability.  
+https://ypfs.som.yale.edu/node/18532 
+(GAO 2020) Government Accountability Office (GAO). December 10, 2020. “Use of CARES 
+Act-Supported Program s Has Been Limited and Flow of Credit Has Generally Improved.” 
+Federal Reserve Lending Programs GAO-21-180. Report to Congressional Committees.  
+Government oversight report discussing Federal Reserve emergency lending facilities.  
+https://ypfs.som.yale.edu/library/federal-reserve-lending-programs-use-cares-act-
+supported-programs-has-been-limited-and-flow 
+(Kelly 2020) Kelly, Steven. December 22, 2020. “Redux: Outlook for 13(3) and Fed Crisis 
+Response.” Yale Program on Financial Stability.  
+Article discussing the year-end closure of 13(3) facilities and their potential future use.   
+https://ypfs.som.yale.edu/node/17302 
+(Labonte 2021) Labonte, Marc. February 8, 2021. “The Federal Reserve’s Response to 
+COVID-19: Policy Issues.”  
+Report evaluating the Fed’s policy actions in response to COVID-19.  
+https://ypfs.som.yale.edu/node/18518 
+(Powell 2021) Powell, Jerome H. (Powell). June 22, 2021. “The Federal Reserve’s Response 
+to the Coronavirus Pandemic.” Board of Governors. Yale Program on Financial Stability 
+Resource Library.  
+Fed chair testimony summarizing Fed response to COVID-19.  
+https://ypfs.som.yale.edu/index.php/node/18042 
+(Singh 2020a) Singh, Daleep. April 17, 2020. “Implementing the Fed’s Facilities: Moving at 
+Maximum Speed with Maximum Care.” April 17, 2020.  
+Early-stage discussion detailing the rationale behind the Fed’s C OVID-era interventions by 
+FRBNY Executive Vice President Daleep Singh.  
+https://ypfs.som.yale.edu/library/implementing-feds-facilities-moving-maximum-speed-
+maximum-care 
+1902
+United States Engbith
+
+--- Page 26 ---
+(Singh 2020b) Singh, Daleep. July 8, 2020. “The Fed’s Emergency Facilities: Usage, Impact, 
+and Early Lessons.” July 8, 2020.  
+Early-stage discussion describing the Fed’s C OVID-era interventions by FRBNY Executive Vice 
+President Daleep Singh.  
+https://ypfs.som.yale.edu/library/feds-emergency-facilities-usage-impact-and-early-
+lessons 
+Copyright 2022 © Yale University. All rights reserved. To order copies of this material or to receive 
+permission to reprint any or all of this document, please contact the Yale Program on Financial 
+Stability at ypfs@yale.edu. 
+1903
+Journal of Financial Crises Vol. 4 Iss. 2

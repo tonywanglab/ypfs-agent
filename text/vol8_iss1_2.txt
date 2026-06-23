@@ -1,0 +1,1007 @@
+--- Page 1 ---
+Journal of Financial Crises Journal of Financial Crises 
+Volume 8 Issue 1 
+2026 
+How the FDIC Sourced Crisis-Time Fed Funding through the Failed How the FDIC Sourced Crisis-Time Fed Funding through the Failed 
+Banks of 2023 Banks of 2023 
+Steven Kelly 
+Yale Program on Financial Stability 
+Follow this and additional works at: https://elischolar.library.yale.edu/journal-of-financial-crises 
+Recommended Citation Recommended Citation 
+Kelly, Steven (2026) "How the FDIC Sourced Crisis-Time Fed Funding through the Failed Banks of 2023," 
+Journal of Financial Crises: Vol. 8 : Iss. 1, 30-55. 
+DOI: https://doi.org/10.17132/2693-3179.1679 
+Available at: https://elischolar.library.yale.edu/journal-of-financial-crises/vol8/iss1/2 
+This Note is brought to you for free and open access by the Journal of Financial Crises and EliScholar – A Digital 
+Platform for Scholarly Publishing at Yale. For more information, please contact journalfinancialcrises@yale.edu.
+
+--- Page 2 ---
+READERS TAKE NOTICE: READERS TAKE NOTICE: 
+As of April 2024, the YPFS Resource Library’s site domain has changed 
+to https://elischolar.library.yale.edu/ypfs-financial-crisis-resource-library/. 
+Please be aware that upon clicking any of the URL references to 
+the former Resource Library domains, either https://ypfs.som.yale.edu 
+or https://ypfsresourcelibrary.blob.core.windows.net/, in the 
+"References/Key Program Documents" section of a case study, 
+readers will encounter a "page not found" error. readers will encounter a "page not found" error. 
+Readers can still retrieve a given resource cited within this case study 
+on the new site  by searching by searching here  for the title cited. for the title cited. 
+This note is available in Journal of Financial Crises: https://elischolar.library.yale.edu/journal-of-financial-crises/vol8/
+iss1/2
+
+--- Page 3 ---
+POLICY NOTE 
+ 
+How the FDIC Sourced Crisis-Time Fed Funding 
+through the Failed Banks of 20231 
+Steven Kelly2  
+April 2025 
+This article was originally published online on August 20, 2024, and updated  
+in April 2025 following the Federal Reserve’s release of new data. 
+Abstract 
+During the Banking Crisis of 2023, the Federal Deposit Insurance Corporation (FDIC) had to 
+contend with the liquidity demands of the second-, third-, and fourth-largest bank failures in 
+US history , all in a compressed timeframe. Facing uncer tainty over its liquidity needs , 
+particularly if additional banks were to fail, and optics and political challenges over accessing 
+its standing credit lines with the Treasury —which itself was brushing against the federal 
+debt ceiling—the FDIC relied on two creative forms of financing itself. First, the agency kept 
+open the Federal Reserve (Fed) loans taken on by the failed banks, eschewing its standard 
+practice of immediately paying down the Fed loans  of banks in receivership. The FDIC kept 
+these loans despite selling the underlying collateral that the failed banks had posted to the 
+Fed; it accomplished this by replacing the collateral at the Fed with FDIC corporate 
+guarantees. Second, the FDIC used the failed banks’ FDIC -run bridge banks to obtain ne w 
+and, in one case, uncollateralized loans from the Fed —again securing the Fed with an FDIC 
+guarantee that the loans would be paid back . In taking these steps, the FDIC implemented a 
+novel mechanism to supplement its liquidity in crises , notwithstanding the other potential 
+motivations for making expansive use of this funding  strategy and the legal uncertainties 
+around it. However, the costs and risks of supplementing the FDIC’s crisis-time liquidity this 
+way must also be considered. 
+Keywords: Banking Crisis of  2023, Federal Deposit Insurance Corporation, First Republic 
+Bank, resolution financing, Signature Bank, Silicon Valley Bank 
+  
+ 
+1 This note was first published on the Yale School of Management’s Systemic Risk blog on August 20, 2024. This 
+April 2025 update incorporates since-released Federal Reserve data on discount window borrowing and adds 
+additional Federal Deposit Insurance Corporation history. 
+2 At the time of writing, Steven Kelly was Associate Director of Research, Yale Program on Financial Stability, 
+Yale School of Management.  An earlier draft of the original note benefitted from many  insightful comments 
+from Boaz Goldwater, Meg Tahyar, and Randy Guynn of Davis Polk, and for the many helpful discussions on 
+these topics with several FDIC officials. 
+30
+
+--- Page 4 ---
+POLICY NOTE 
+ 
+Introduction 
+Much ado was made during the Banking Crisis of 2023 when the previously empty line item 
+“Other Credit Extensions” be came the largest lending category on the Federal Reserve’s 
+balance sheet. The line item represented the Fed loans to banks that had subsequently been 
+put into Federal Deposit Insurance Corporation (FDIC) receivership —inclusive of new  
+lending to the failed banks that were temporarily reopened as FDIC-run bridge banks. 
+While the “ado” about these loans largely faded after they were paid off on November 30, 
+2023, a July 2024  speech by then–FDIC Vice Chair Travis Hill provided the first official 
+discussion of this lending  (Hill 2024; US Treasury 2024) . Hill observed [ emphasis added 
+throughout]: 
+The failures of SVB and Signature (and subsequently, but to a lesser extent, First 
+Republic) placed substantial liquidity demands on the FDIC. The FDIC ini tially met 
+these demands through borrowings from the Federal Reserve and did not pay off 
+the borrowings in full until nearly nine months later.  The unprecedented nature of 
+these borrowings, and the substantial cost incurred, have raised a number of questions. 
+(Hill 2024) 
+As Vice Chair Hill noted, the FDIC did not immediately pay back the Fed upon the closing of 
+the Silicon Valley Bank (SVB) and Signature Bank bridge banks or of First Republic Bank. The 
+FDIC instead sold many of the assets collateralizing th e Fed loans, swapping an FDIC 
+corporate guarantee for the collateralization and keeping the Fed loans outstanding.  While 
+this is atypical, there is some historical precedent for this, as discussed below —if not in the 
+modern era. 
+Two things were particularl y unprecedented about this arrangement. First, the FDIC -run 
+bridge banks engaged in extensive new discount window borrowing during their bridge 
+period. Second—and not discussed by Hill or elsewhere —the bridge banks’ new discount 
+window borrowings  included uncollateralized borrowing. The  FDIC made this “naked” 
+borrowing possible by providing its corporate guarantee—backed by the full faith and credit 
+of the United States—to the Fed as security. 
+The initial use of Fed liquidity for the bridge banks seems to have been driven by a desire to 
+preserve liquidity in the face of uncertainty. Notwithstanding the other potential motivations 
+for making expansive use of this funding  (discussed in the section titled “ So, Why the New 
+Liquidity Mechanism?”), the FDIC had implemented a novel mechanism to supplement its 
+liquidity in crises. However, the “substantial cost incurred” must also be considered, 
+particularly when thinking about how this mechanism fits within the FDIC’s legal authorities. 
+What Happened? 
+When resolving a bank, the FDIC is legally  required to choose the resolution option that 
+results in the least cost to the Deposit Insurance Fund (DIF)  (US Government 2024 ). The 
+31
+Journal of Financial Crises Vol. 8 Iss. 1
+
+--- Page 5 ---
+POLICY NOTE 
+ 
+“systemic risk exception,” however, provides that if the Treasury secretary, in consultation 
+with the president, and a supermajority of the FDIC and Fed boards agree that following the 
+least-cost resolution requirement “would have serious adverse effects on economic 
+conditions or financial stability,” the FD IC need not execute a least -cost resolution  (US 
+Government 2024). 
+On March 12, 2023, the federal banking agencies jointly announced the invocation of the  
+systemic risk exception  (Fed, FDIC, and US Treasury 2023) . Thus, the FDIC was able to 
+consider financial stability when resolving SVB and Signature and take pursuant actions that 
+did not represent the least cost to the DIF. (A least -cost resolution, in this case, would have 
+involved imposing losses on uninsured depositors [FDIC 2023b].) Also on March 12, the Fed 
+invoked its Section 13(3) emergency liquidity provision authority and announced the Bank 
+Term Funding Program (BTFP) —under which the Fed would lend to banks against the 
+par value of their government securities (Fed 2023c).3  
+Additional FDIC announcements explained that the failed Silicon Valley Bank and Signature 
+Bank would see all their uninsured deposits protected; all deposits would be transferred —
+along with the banks’ assets and some liabilities —to Silicon Valley Bridge Bank (SVBB) and 
+Signature Bridge Bank (SBB) (FDIC 2023c; FDIC 2023d). Following this announcement, the 
+line item on the Fed’s weekly balance sheet called Other Credit Extensions suddenly shot up 
+from zero (see Figure 1). 
+Figure 1: Discount Window Primary Credit vs. “Other Credit Extensions” vs. the Bank 
+Term Funding Program in 2023, Weekly 
+ 
+Source: Federal Reserve Economic Data (FRED). 
+ 
+3 Notably, in the Fed staff memo to the Fed Board that laid out the need for the BTFP, the staff listed among the 
+program’s justifications that there was “considerable pressure” on the DIF; see US GAO (2023, 32). 
+32
+How the FDIC Sourced Crisis-Time Fed Funding through the Failed Banks of 2023 Kelly
+
+--- Page 6 ---
+POLICY NOTE 
+ 
+The Fed added a footnote to its balance sheet saying4 that Other Credit Extensions, 
+includes loans that were extended to depository institutions that were subsequently 
+placed into Federal Deposit Insurance Corporation (FDIC) receivership, including 
+depository institutions established by the FDIC. The Federal Reserve Banks ’ loans to 
+these depository institutions are secured by pledged collateral and the FDIC provides 
+repayment guarantees. (Fed 2023f) 
+In a June 2023 notice5 on this line item, the Fed further clarified, 
+In 2023, the Federal Reserve extended loans under its ordinary discount window 
+lending authority (se ction 10B of the Federal Reserve Act), as well as, in one instance, 
+under its emergency lending authority through the Bank Term Funding Program (BTFP) 
+(established under section 13(3) of the Federal Reserve Act), to depository institutions 
+that were later placed into FDIC receivership. Discount window loans were extended to 
+Silicon Valley Bank, Signature Bank, and First Republic Bank, and BTFP loans were 
+extended to First Republic Bank , in each case, before the depository institutions were 
+placed into receivership. (Fed 2023g) 
+Other Credit Extensions has historically carried a zero balance; see Appendix A for a history 
+of this balance sheet line item. 
+The June 2023 Fed notice added that Signature’s discount window loans were transferred to 
+its bridge bank (SVB had none outstanding at failure6) and that both SBB and SVBB then took 
+on new discount window borrowings: 
+The Signature Bank discount window loans that were outstanding when the depository 
+institution was placed into receivership were assumed by Signature Bridge Bank, N.A., 
+an [Office of the Comptroller of the Currency – (OCC-)]-chartered insured depository 
+institution. In addition, new 10B discount window loans were extended to Signature 
+Bridge Bank, N.A. and Silicon Valley Bridge Bank, N.A.,  both OCC-chartered insured 
+depository institutions that were eligible discount window borrowers under the Federal 
+Reserve Act. (Fed 2023g) 
+Notably, SVBB and SBB did not borrow from the more-generous BTFP, despite some of their 
+discount window borrowing’s being against BTFP-eligible Treasury and agency securities. It 
+is not immediately clear why that occurred or if the bridge banks were precluded from doing 
+so. Loans from discount window and Section 13(3) facilities are both required to be “secured 
+ 
+4 After the failures of SVB and Signature (when the footnote was originally added), and before the failure of 
+First Republic on May 1, the footnote read slightly differently: “Includes loans that were extended to depository 
+institutions established by the F ederal Deposit Insurance Corporation (FDIC). The Federal Reserve Banks' 
+loans to these depository institutions are secured by collateral and the FDIC provides repayment guarantees” 
+(Fed 2023d). 
+5 For the slightly updated version of this notice, see Fed (2024a). 
+6 SVB borrowed $5.3 billion on the day before its failure, but it did not have any outstanding discount window 
+borrowings at the time of its failure (Fed 2024a; US Congress 2023a, 123). 
+33
+Journal of Financial Crises Vol. 8 Iss. 1
+
+--- Page 7 ---
+POLICY NOTE 
+ 
+to the satisfaction” of the Fed, and both avenues have stipulations against lending to 
+insolvent firms. Both bridge banks were gr anted status as otherwise -normal operating 
+national banks (Lybarger 2023a; Lybarger 2023b). 
+The Fed added that the discount window loans (and, in the case of First Republic, the BTFP 
+loans) remained outstanding and were not assumed by the failed or bridge banks’ acquirers, 
+but were instead left behind in the FDIC receiverships of the failed banks: 
+Upon the two bridge depository institutions and First Republic Bank being placed into 
+receivership, the discount window and BTFP loans were not assumed by the acq uiring 
+depository institutions. In each case, the outstanding discount window and BTFP 
+loans are being repaid from the proceeds of the sales to the acquiring depository 
+institutions, if any, and the recovery on the collateral that was left behind in the 
+receivership, supported by the FDIC guarantees of repayment. (Fed 2023g) 
+Despite the sales of these franchises within weeks of their initial failure —SBB on March 19, 
+SVBB on March 26, and the immediate sale of First Republic to JPMorgan Chase on May 1 (in 
+other words, without establishing a bridge bank) —this Other Credit Extensions category 
+remained substantial until the end of November 2023 (FDIC 2023e; FDIC 2023f; FDIC 
+2023h). 
+The weekly data (see Figure 1) shows that Other Credit Extensions peaked at $228 billion on 
+May 3, 2023, the first reporting date following the First Republic failure. 
+Where Does the FDIC Normally Get Its Money? 
+While FDIC obligations have the “full faith and credit” status of US Treasuries, the FDIC is not 
+funded by congressional appropriation; it is funded primarily by the fees it assesses on the 
+banking industry. The Deposit Insurance Fund ended 2022 with a balance of $128 billion 
+and Q1 2023 with $116 billion (FDIC 2024b, 30). 
+The FDIC also has a $100 billion line of credit with the US Treasury and had an additional 
+$100 billion line with the Treasury’s Federal Financing Bank (which is also funded by the 
+issuance of Treasury debt) 7 (FDIC 2023a, 125). The FDIC can also borrow from the Federal 
+Home Loan Banks (FHLBs) and from banks themselves  (US Government 2021). It has no 
+specific statutory authority to borrow from the Fed. Total FDIC borrowing is subject to a 
+formulaic, statutory cap (see Figure 2). 
+  
+ 
+7 The Federal Financing Bank limit is not statutory but based on  an agreement between it and the FDIC (FDIC 
+2018, 10; FDIC 2023a, 125; US Government 2021). Separately, the FDIC can monetize illiquid assets by 
+securitizing them through the FFB, with the purchases ultimately funded by Treasury debt issuance (FFB 
+2024). The FDIC securitized $50 billion of assets through the FFB in September 2023 and approximately $47 
+billion in January 2024 (FDIC 2024a, 144, 147; Hill 2024).  
+34
+How the FDIC Sourced Crisis-Time Fed Funding through the Failed Banks of 2023 Kelly
+
+--- Page 8 ---
+POLICY NOTE 
+ 
+Figure 2: Screenshot from the FDIC’s 2023 Annual Report Describing Its Maximum 
+Obligation Limitation (MOL) 
+ 
+Source: FDIC 2024a. 
+FDIC guarantees would apply toward this cap on an expected cost basis, rather than by the 
+total nominal amount covered. (FDIC guarantees would not count against the national debt 
+ceiling, which limits the amount of issued debt securities.) 
+FDIC Funding during the GFC 
+The FDIC borrowed  from the Federal Financing Bank  during its cleanup of the banking 
+stresses of the 1980s and 1990s  (FDIC 1991) .8 Yet, when the DIF balance went negative 
+during the Global Financial Crisis of 2007–2009 (GFC), the FDIC didn’t do any borrowing, in 
+part because of Fed liquidity provision—from policies unrelated to the FDIC or the DIF.  
+As shown in Figure 3, the DIF balance went negative in 2009. The “balance,” however, adjusts 
+for expected losses; it is not an accounting of the FDIC’s liquidity. In fact, the DIF stayed very 
+liquid without any FDIC borrowing. 
+As Figure 3 shows, the FDIC imposed a small special assessment o f $5.5 billion on banks in 
+June 2009. However, it later increased its liquidity through an elegant mechanism: a 
+prepayment from banks of their regular FDIC insurance premiums. In December 2009, it 
+raised more than $45 billion by requiring banks to pay their normal quarterly payment, plus 
+the next 12 quarters’ worth, so the DIF could stay liquid despite a temporarily negative 
+balance (see Figure 3). 
+  
+ 
+8 The Financial Institutions Reform, Recovery, and Enforcement Act of 1989 (FIRREA) provided the authority 
+for the FDIC to borrow from the FFB. 
+35
+Journal of Financial Crises Vol. 8 Iss. 1
+
+--- Page 9 ---
+POLICY NOTE 
+ 
+Figure 3: DIF Balance vs. DIF Liquidity during the GFC 
+ 
+Source: FDIC 2017. 
+The FDIC wanted to avoid drawing on its credit lines for political reasons during the GFC. As 
+Diane Ellis, then an FDIC director, explained in 2013: 
+During the most recent crisis, the banking industry had been beneficiaries of 
+extraordinary government assistance, and the industry and public were suffering 
+from what was termed bailout fatigue. It was believed that drawing on a 
+borrowing line with the Treasury, which is backed by the U.S. taxpayer, would 
+exacerbate matters, even though the borrowing would be only for liquidity purpos es 
+and would be repaid with interest. (Ellis 2013) 
+The FDIC had also wanted to avoid imposing another special assessment because that would 
+be booked as a large expense for the already-fragile banking system. As the FDIC later said, 
+“In the second quarter of 2009, when the [$5.5 billion]  special assessment was charged, 
+FDIC-insured commercial banks and savings institutions reported an aggregate net loss of 
+$3.7 billion” (FDIC 2017, 160). A prepayment of their regular assessments, by contrast, had 
+the benefit of enabling banks to book it as an asset, while booking the expense slowly over 
+time.9 This is where Fed liquidity proved helpful, if entirely indirectly. 
+ 
+9 There was also a built-in exemption process—FDIC discretion or an individual bank application—for any bank 
+that would have been materially adversely affected by the FDIC’s liquidity pull (FDIC 2009). 
+36
+How the FDIC Sourced Crisis-Time Fed Funding through the Failed Banks of 2023 Kelly
+
+--- Page 10 ---
+POLICY NOTE 
+ 
+At this chronic, less -acute stage of the crisis in late 2009, liquidity was no longer in short 
+supply. The Fed had injected then -record amounts of liquidity through quantitative easing 
+(QE), and the FDIC thus determined that banks were essentially sitting on excess liquidity  
+(Ellis 2013; FDIC 2017) . In this sense, the FDIC’s liquidity could be  viewed as being 
+supported by the Fed—but only fortuitously.10 
+The FDIC as Assumer of Failed-Bank Discount Window Loans 
+The FDIC typically pays off immediately any discount window loans in resolution in 
+exchange for the Fed’s freeing up of the encumbered collateral. Discount window loans have 
+a relatively short maturity (typically 90 days or less and historically overnight), and the Fed 
+has a statutory “super -lien” on the collateral. In addition to being a secured lender , whose 
+first protection is the value of the collateral, which is typically in excess of the loan value, the 
+Fed’s discount window claim is senior to that of depo sitors (in other words,  the FDIC) in 
+resolution. For a typical secured lender, any claim on a failed bank in excess of the fair value 
+of the collateral is treated as an unsecured claim and will only receive payment pro rata with 
+other unsecured creditors. However, the Federal Reserve Banks and the Federal Home Loan 
+Banks are protected by 12 U.S.C. Section 1821(d)(5)(D)(iii). In the unlikely event that the fair 
+value of the collateral backing the Fed and FHLB loans is not sufficient to cover the principal 
+balance of their claims, they retain a senior claim for the difference. 
+While the FDIC’s us e of its guarantee to replace discount window collateral even after that 
+collateral had been sold , and to do so  for new, uncollateralized bridge bank borrowing , 
+appears to be unprecedented, there is at least a history of the Fed’s extension of the duration 
+of discount window loans taken over by the FDIC. This history is outlined in Appendix B. 
+The 2023 Liquidity-Conserving Measures 
+1. Instead of immediately paying down the Fed loans to free up the backing 
+collateral, the FDIC swapped its guarantee for the collateral encumbered at the 
+Fed. 
+The public data on Fed lending is difficult to interpret in the Silicon Valley Bridge Bank and 
+Signature Bridge Bank cases because the  buyer of each franchise took only part of the 
+balance sheet (FCB 2023; NYCB 2023). It is not clear which SVBB and SBB assets were posted 
+at the Fed’s discount window, which were purchased by their acquirers, and where those 
+asset pools overlap . Moreover, even the greater detail in the Fed’s two -year-delayed 
+disclosures on discount window activity do not reveal partial paydowns of discount window 
+loans (Fed n.d.; Fed 2023a; Fed 2023b). The same goes for the BTFP lagged -disclosure data 
+ 
+10 Notably, the FDIC funding issues of the GFC occurred well into a recession, when the Fed was executing QE 
+and concerned about deflation. The 2023 concerns over FDIC funding were occurring in the exact opposite 
+environment. As described, the FDIC wa s worried the acute phase of the banking crisis was not over; for the 
+Fed’s part, some money market participants feared its quantitative tightening was going to overshoot the so -
+called lowest comfortable level of [liquidity] reserves in the banking system. It’s thus not clear how comfortable 
+the FDIC (and Fed) would have been with an industry prepayment this time around.  
+37
+Journal of Financial Crises Vol. 8 Iss. 1
+
+--- Page 11 ---
+POLICY NOTE 
+ 
+(Fed 2025) . Thus, there are no visible updates to the outstanding loan and respective 
+collateral amounts after the acquisitions of SVBB and SBB out of resolution —which would 
+have revealed the extent to which the discount window loans remained outstanding even 
+after the collateral was turned over to the FDIC. 
+The First Republic data is clearer. First Republic was able to borrow from the BTFP (the other 
+two banks failed before it was established) and the discount window; in addition, JPMorgan 
+Chase took “substantially all of the assets” immediately upon First Republic’s failure. So, we 
+are able to glean in the public data that the FDIC kept most of First Republic’s Fed loans 
+outstanding despite selling the underlying collateral. 
+In its last pre-failure earnings release, First Republic shared having about $14 billion of BTFP 
+borrowing and $64 billion from the discount window as of March 31, 2023  (First Republic 
+2023). In its order  taking possession of the bank, the California state regulator said First 
+Republic had a total $93.2 billion in borrowings from the Federal Reserve as of close of 
+business Friday, April 28, before its  end-of-weekend failure in the early hours of Monday, 
+May 1 (CADFPI 2023). In the Wednesday snapshots of the Fed’s balance sheet that bookend 
+the date of First Republic’s failure, Other Credit Extensions increased by $58 billion, 
+suggesting First Republic’s total Fed borrowing still stood at least at that latter number  on 
+May 3 (in other words, the FDIC likely paid down, as an upper bound, $ 35 billion of the Fed 
+borrowings) (see Figure 4). 
+Figure 4: Discount Window Primary Credit vs. “Other Credit Extensions” vs. the Bank 
+Term Funding Program Surrounding the Time of First Republi c’s Failure and Sale to 
+JPMorgan Chase, Weekly 
+ 
+Source: Federal Reserve Economic Data (FRED). 
+In addition, Other Credit Extensions did not fall back to its pre–First Republic failure balance 
+for a couple months, and First Republic’s BTFP loans remained outstanding. This was visible 
+by comparing two different types of Fed reports. Supplemental to the Fed’s Wednesday 
+38
+How the FDIC Sourced Crisis-Time Fed Funding through the Failed Banks of 2023 Kelly
+
+--- Page 12 ---
+POLICY NOTE 
+ 
+balance sheet reports, the Fed also report ed BTFP month-end balances to Congress. For 
+several months starting in May, these reports showed BTFP totals consistently 
+approximately $14 billion above what the Fed reported in its weekly balances (Fed 2024b). 
+For instance, May 31, 2023, was both a month -end and a Wednesday; the Fed’s weekly 
+balance sheet reported a total of $93 billion outst anding at the BTFP, while its report to 
+Congress said $107 billion (Fed 2023f; Fed 2023h) . On August 30, the Fed balance sheet 
+listed $107 billion of BTFP loans outstanding, while the August 31 report to Congress listed 
+$121 billion. This difference was the outstanding First Republic BTFP loans. 
+What does this mean? Well, certainly in the case of First Republic, effectively all the collateral 
+that was posted to the Fed was sold to JPMorgan  Chase; there was thus no collateral left at 
+the Fed associated with First Republic. So, the FDIC kept for itself at least $58 billion of the 
+Fed loans to First Republic, by replacing First Republic’s collateral (which the FDIC had sold 
+to JPMorgan Chase) with an FDIC guarantee of repayment. 
+There may have also been other loan balances like this from the bridge banks’ discount 
+window borrowings; as noted, however, that data is less decipherable. 
+2. The bridge banks took on substantial new discount window borrowin g, some of 
+which was uncollateralized in the case of Signature Bridge Bank. 
+SVB’s and Signature Bank’s struggles to borrow from the discount window in their final 
+hours have now been well documented by official reports  (Fed 2023e; FDIC 2023g) . 
+Regulators closed SVB on March 10, 2023, with no discount window loans outstanding11 and 
+Signature on March 12 with $5.6 billion outstanding (NYDFS 2023). When both reopened as 
+bridge banks on March 13, Signature’s discount window loans transferred to its bridge bank, 
+SBB. As nationally chartered bridge banks, SVBB and SBB we re able to borrow from the 
+discount window in the normal course of operation  (Lybarger 2023a; Lybarger 2023b). 
+SBB’s ultimate resolution came on March 19 and SVBB’s on March 26, when  the deposit 
+franchises and some assets  were sold to other banks and the bridge banks put into  final 
+receivership (FDIC 2023e; FDIC 2023f). 
+Then–FDIC Chair Martin Gruenberg, responding to congressional questions for the record, 
+wrote in 2023 that SVBB had $126.5 billion of discount window borro wing outstanding by 
+the time of resolution, and SBB had $53.6 billion—a substantial increase in borrowing in two 
+weeks operating for SVBB and one week for SBB12 (US Congress 2023b, 189). 
+ 
+11 SVB borrowed $5.3 billion on the day before its failure, but it did not have any outstanding discount window 
+borrowings at the time of its failure (Fed 2024a; US Congress 2023a, 123). 
+12 Notably, when it took over SVB’s deposit franchise, SVBB was advertis ing that it had unlimited FDIC deposit 
+insurance for both existing and new deposits—and yet continued to face outflows (FDIC 2023i; SVB 2023b; SVB 
+2023a). 
+39
+Journal of Financial Crises Vol. 8 Iss. 1
+
+--- Page 13 ---
+POLICY NOTE 
+ 
+Transaction-level discount window data, which the Fed is required to release on an eight-
+quarter lag , provide more detail. 13 This data shows SVBB’s discount window borrowing 
+peaked at $127.5 billion on March 20, against collateral with a lendable value of $127.7 
+billion. SBB’s borrowing peaked at $58.6 billion on March 13, and it rolled that amount 
+through March 16. In contrast  to SVBB’s borrowing, however, this lending was only about 
+half collateralized; the collateralization level hit a low on March 14, when SBB’s $58.6 billion 
+of borrowing was supported by $24.1 billion of collateral (Fed 2023a). 
+For the avoidance of doubt, i t’s clear the Fed was not unsecured; it had the FDIC guarantee. 
+Rather, the loans were simply partially uncollateralized. 
+Thus, the valuation details show that even before the FDIC sold the failed bank franchises, it 
+was creating liquidity for itself at the discount window by simply providing FDIC guarantees 
+as security.  This goes a step further than Measure No. 1 described earlier, which 
+demonstrated that the FDIC appeared to be creating liquidity  in some cases  by selling the 
+underlying collateral of the F ed loans without immediately paying back the loans. This 
+additional information suggests that, irrespective of the failed banks’ collateral in the bridge 
+banks, the FDIC was using the bridge banks for new  borrowing, and  uncollateralized 
+borrowing in SBB’s case—creating liquidity with just the FDIC’s guarantees as security. 
+So, Why the New Liquidity Mechanism? 
+Why wouldn’t the FDIC have paid back the Fed immediately upon putting banks into 
+resolution like it normally does? 
+Uncertainty 
+One reason for the FDIC’s sourcing of liquidity through the failed banks in 2023 was the 
+substantial uncertainty over the ultimate duration and size of the banking stress —and thus 
+how much liquidity the FDIC would ultimately need—especially given the failed institutions’ 
+relative size (see Figure 5). 
+ 
+13 The original version of this note released before the Fed’s lagged discount window disclosures, also relied on 
+Gruenberg’s responses to congressional questions for the record to assess the level of uncollateralized new 
+borrowing. Gruenberg said that SVBB’s collateral had a book value of $152.2 billion and a “fair value” of $127.5 
+billion—implying a haircut of less than 1% . As noted, however, the Fed data shows a lendable value (in other 
+words, a haircut-adjusted fair value) of $127.9 billion.  Gruenberg also said SBB’s outstanding $53.6 billion of 
+discount window borrowing at the time of its failure was backed by collateral with a book value of $65.3 billion 
+and a “fair value” of $42.3 billion—implying a haircut of negative 27%. The Fed data instead shows a lendable 
+value of $37.5 billion of collateral. 
+40
+How the FDIC Sourced Crisis-Time Fed Funding through the Failed Banks of 2023 Kelly
+
+--- Page 14 ---
+POLICY NOTE 
+ 
+Figure 5: Total Assets of Failed Banks vs. Total Number of Failed Banks, by Year 
+ 
+Source: FDIC n.d. 
+FDIC Chair Gruenberg wrote in his response to congressional questions for the record: 
+Since these bridge banks were open and operating national banks that had access to the 
+Federal Reserve’s discount window, it was preferable to use this liquidity option to 
+conserve the funds in the DIF for any potential subsequent resolution activity 
+and/or other needs. (US Congress 2023b, 190) 
+This answer directly addresses the FDIC’s additional Fed borrowing while the bridge banks 
+were open. It does not address any liquidity creation through loans beyond the value of the 
+collateral or maintaining the loans after the underlying collateral was sold, though a similar 
+motivation presumably held. 
+Moreover, because of the scale of the discount window borrowing of SVBB and SBB, and the 
+fact that their acquirers left many assets behind, the FDIC may have wished to conserve the 
+discount wind ow liquidity until the underlying assets were sold. The FDIC got only 
+$10.6 billion of cash in the First Republic sale and no cash inflow s in the SVB and Signature 
+sales (JPM 2023) . As noted, however, that explanation does not carry over to the First 
+Republic case —where effectively all the assets were assumed by JPMorgan —nor to the 
+uncollateralized borrowing activity of SBB. 
+The Debt Ceiling 
+Another reason the FDIC may have resorted to this novel method of sourcing liquidity over 
+its direct methods of borrowing was the then -binding limits on outstanding government 
+debt. The US statutory debt ceiling became binding in January 2023, preventing any additive 
+federal debt issuance  (US Trea sury n.d.) . The Treasury was approaching the so -called X -
+date—at which it would not be able to pay its bills without further borrowing —potentially 
+as early as June 2023 (Akabas, Snyderman, and Fano 2023). While the congressional standoff 
+41
+Journal of Financial Crises Vol. 8 Iss. 1
+
+--- Page 15 ---
+POLICY NOTE 
+ 
+over the debt ceiling continued, the FDIC was constrained in its ability to call on the Treasury 
+or issue its own debt —both of which would count against the public debt limit. 14 In June 
+2023, however, Congress and the president suspended the debt ceiling until 2025, alleviating 
+this constraint (Cowan and Slattery 2023). 
+Borrowing aside, though, the FDIC can call on the existing funds of the DIF —which are 
+invested in Treasury securities—without any net impact on the national debt. Vice Chair Hill 
+said, however, that “there were significant challenges and frictions” in drawing on DIF funds 
+“because of sensitivities related to the debt ceiling” (Hill 2024). 
+When asked in a congressional hearing if the FDIC was discouraged from drawing on its 
+Treasury credit line owing to debt ceiling concerns, FDIC Chair Gruenberg opened his answer 
+with, “I think there were discussions in regard to that  . . .” (GOP Financial Services 2023, 
+04:12:00). However, in a written response to follow-up questions, he said, “The FDIC was not 
+denied access nor discouraged from accessing its line of credit” (US Congress 2023b, 188). 
+Cost? 
+Another reason for tapping the Fed might be if the funding were somehow subs idized. As 
+discussed more in the following sections, though, it was relatively expensive compared to 
+the FDIC’s other contingent funding options, at least from a pure accounting perspective —
+that is, not considering political capital or other optics and stigma issues. For instance, FDIC 
+Vice Chair Hill said, “I suspect we may overestimate the impact that the DIF’s temporary 
+liquidity position has on depositor confidence,” suggesting that some policymakers view 
+drawing on the DIF as a suboptimal choice for the FDIC to source its liquidity (Hill 2024). 
+The “Substantial Cost Incurred” and Tensions with the FDIC’s Authority 
+The Fed’s June 2023 notice on Other Credit Extensions said that it began charging a 100 -
+basis-point (bp) upcharge on the outstanding discount  window and BTFP loans once the 
+bridge banks and First Republic went into receivership. Vice Chair Hill’s July 2024 speech 
+revealed the behind-the-scenes causes15 for that upcharge: 
+When the bridge banks were dissolved, and when First Republic was sold, th e Federal 
+Reserve viewed the advances as in default, which, under the Federal Reserve’s Operating 
+Circular, results in a 500 basis point increase in the interest rate charged. After some 
+negotiation, the Federal Reserve reduced the penalty rate to 100 basis points. (Hill 2024) 
+That the Fed continued to charge a penalty rate despite the strength of the FDIC guarantee 
+clearly shows some continued discomfort with the loans on the Fed’s part. As Hill went on to 
+note, FDIC guarantees are of the same credit quali ty as US Treasuries:  “Yet, the FDIC [had] 
+ 
+14 Oddly, while the FDIC’s borrowing statute makes it clear that FDIC debt issued to banks applies toward the 
+debt ceiling, it does not say so for issuing debt to the FHLBs (US Government 2021). 
+15 In addition to this negotiation, Chair Gruenberg’s response for the congressional record added that the FDIC 
+had established agreements with the Fed that “all loans will be repaid in full before December 31, 2023” (US 
+Congress 2023b, 189). 
+42
+How the FDIC Sourced Crisis-Time Fed Funding through the Failed Banks of 2023 Kelly
+
+--- Page 16 ---
+POLICY NOTE 
+ 
+fully guaranteed the borrowings, and, as banks are required by law to tell their customers, 
+the FDIC is backed by the full faith and credit of the U.S. government.” (Hill 2024) 
+He also provided a conservative estimate of the additional cost resulting from the penalty 
+surcharge: 
+The 100 basis point penalty rate was extremely costly given the volumes involved and 
+the time it took to pay it off, ultimately costing the FDIC roughly $1 billion. In effect, 
+this was a shadow tax on the banking industry, primarily charged through the special 
+assessment, that in the short run decreases the Federal Reserve’s losses and in the long 
+run increases the “earnings” the Federal Reserve sends to Treasury. (Hill 2024) 
+And, as he also said, the FDIC’s alternative funding sources discussed above wouldn’t have 
+come with that penalty rate: 
+The most obvious places the FDIC could turn are the Federal Financing Bank (FFB) and 
+the Treasury Department, which would have charged a cheaper rate than the Federal 
+Reserve’s penalty rate. [ . . . ] Nonetheless, the FDIC chose to continue paying the 
+Federal Reserve’s penalty rate for months even after the debt ceiling was raised, 
+rather than borrow from the FFB or Treasury. (Hill 2024) 
+Regulators invoked the systemic risk exception to establish the bridge banks and protect 
+SVB’s and Signature’s uninsured depositors. Notably, they did  not resolve First Republic 
+under the systemic risk exception, and, as noted, the FDIC paid the 100 -bp penalty on some 
+of the Fed’s previous loans to First Republic. It’s unclear how this borrowing choice fit with 
+the “least-cost” resolution standard.16  
+Some Early Implications 
+As discussed, the 100 -bp Fed premium relative to other FDIC funding options p erhaps 
+complicates any use of this mechanism within the confines of the least -cost test. That is, 
+bringing FDIC guarantees to the discount window may be legally appropriate only in the case 
+of invocation of the systemic risk exception —despite its use in th e First Republic case. 
+Moreover, as noted, even the 100 -bp surcharge was the result of a negotiation (the 
+contractual language demanded a 500 -bp surcharge); there’s no guarantee that the Fed 
+would be willing to engage in such negotiation in the future. 
+ 
+16 Moreover, while the FDIC funds the DIF through assessments on all insured banks, it is required to implement 
+a special assessment for costs attributable to the systemic risk exception (US Government 2024). The special 
+assessment is subject to the FDIC’s  design, where it is required by statute to consider, among other things, 
+which institutions benefited from the exception’s invocation. The FDIC decided to recover the costs of the 2023 
+systemic risk exception invocation based on each surviving bank’s amount of uninsured deposits, excluding the 
+first $5 billion of uninsured deposits at every bank (FDIC 2023j) . The FDIC thus estimated the special 
+assessment will be levied on just 146 depositories, belonging to just 114 banking organizations. The costs of 
+the penalty rate charged by the Fed are thus being largely allocated to this subset of banks in the SVB and 
+Signature cases, but to all banks (which will refund the DIF through regular assessments) in the First Republic 
+case (Mitchell 2023). 
+43
+Journal of Financial Crises Vol. 8 Iss. 1
+
+--- Page 17 ---
+POLICY NOTE 
+ 
+That said, and while a full discussion of the possibilities under this novel funding mechanism 
+is beyond the scope of this article —as it would entail exploring several hypotheticals —
+several particularly plausible implications rise to the surface. 
+As we saw al ready, there were implications for expanding the universe of the FDIC’s 
+available funding in crisis—particularly for identifying an option that avoids the federal debt 
+ceiling constraint. By contrast, so-called Title II resolution—a post-GFC framework for non-
+bankruptcy-code FDIC resolution of systemically important financial companies, which 
+utilizes the creation of bridge financial institutions —uses the Orderly Liquidation Fund 
+(OLF) for providing receivership liquidity at the holding company level (FDIC 2024c). While 
+the OLF losses would ultimately be recouped by assessments on large banks, it is initially 
+funded by the Treasury; thus, there is a temporary debt ceiling impact. Using the depository 
+institution subsidiary to directly obtain further funding from th e discount window in such 
+instances may thus be preferable.17  
+It’s also possible that, given the strength of the FDIC guarantee, other lenders might be more 
+comfortable than the Fed was. While the Dodd -Frank Act of 2010 curtailed the use FDIC 
+assistance to open banks under the systemic risk exception, such assistance remains possible 
+(12 U.S.C. § 1823[c]) for the FDIC if it fits within the limitations of the least -cost resolution 
+test (US Government 2024). For instance, while the Fed continued lending to F irst Republic 
+through April 28 (the Friday before its weekend failure), the F ederal Housing Finance 
+Agency advised the Federal Home Loan Bank of San Francisco on March 17 to not provide 
+any new loans to First Republic  (US GAO 2024) . This decision might hav e changed if First 
+Republic had been backed by the full faith and credit of the United States through an FDIC 
+guarantee. 
+Similarly, the reason First Republic ultimately ran out of Fed funding is that the supervisory 
+downgrades it received on April 28 moved  it from the Fed’s standard discount window 
+facility (primary credit) to so -called secondary credit , which comes with higher collateral 
+haircuts, among other stricter terms (FDIC 2023i) . To the extent the FDIC can enable 
+uncollateralized lending from the Fed by providing its guarantee, such supervisory 
+downgrades need not bind. 
+Certainly, to the extent there is due or undue reticence toward accessing both the standing 
+DIF funds and the FDIC’s backup credit lines —and to the extent the debt ceiling binds —the 
+FDIC may feel its hands are tied. Thus, the Fed’s discount window and other lending facilities 
+ 
+17 It would likely  be materially helpful only for the depository subsidiary itself; Sections 23A and 23B of the 
+Federal Reserve Act constrain the depository’s ability to send that funding to other subsidiaries or upstream it 
+to the holding company, absent crisis -time exempt ions (US Government 2017a; US Government 2017b; 
+Omarova 2011). 
+In the event other crisis conditions call for additional Section 13(3) emergency liquidity facilities from the Fed, 
+other subsidiaries (such as a broker -dealer), may be able to do similar such borrowing to the bank subsidiary 
+while the holding company remains an FDIC-controlled bridge financial company. 
+ 
+44
+How the FDIC Sourced Crisis-Time Fed Funding through the Failed Banks of 2023 Kelly
+
+--- Page 18 ---
+POLICY NOTE 
+ 
+may, in a twist of discount window irony, represent the least stigmatized option for the FDIC 
+to preserve its liquidity in future crises (FRBNY 2015; Sablik 2024).  
+45
+Journal of Financial Crises Vol. 8 Iss. 1
+
+--- Page 19 ---
+POLICY NOTE 
+ 
+References 
+Akabas, Shai, Rachel Snyderman, and Arianna Fano. 2023. “May 2023 Debt Limit Analysis.” 
+Bipartisan Policy Center, May 23, 2023.  
+https://elischolar.library.yale.edu/ypfs-documents2/4897 
+Armantier, Olivier, Helene Lee, and Asani Sarkar (FRBNY). 2015. “History of Discount 
+Window Stigma.” Federal Reserve Bank of New York, Liberty Street Economics, August 10, 
+2015. 
+ https://elischolar.library.yale.edu/ypfs-documents/12020/ 
+Board of Governors of the Federal Reserve System (Fed). 2008a. “Federal Reserve Balance 
+Sheet: Factors Affecting Reserve Balances [March 2008].” H.4.1 Statistical Release, March 
+20, 2008.  
+https://elischolar.library.yale.edu/ypfs-documents2/4885 
+———. 2008b. “Board Releases Minutes of Its Meetings on March 14 and March 16, 2008.” 
+Press release, June 27, 2008.  
+https://elischolar.library.yale.edu/ypfs-documents2/4521 
+———. 2009. “Report Pursuant to Section 129 of the Emergency Economic Stabilization 
+Act of 2008: Bridge Loan to the Bear Stearns Companies Inc. through JPMorgan Chase Bank, 
+N.A.,” February 15, 2009.  
+https://elischolar.library.yale.edu/ypfs-documents2/4524 
+———. 2023a. “Discount Window Lending, 2023 Q1,” 2023. 
+https://elischolar.library.yale.edu/ypfs-documents2/5607 
+———. 2023b. “Discount Window Lending, 2023 Q2,” 2023. 
+https://elischolar.library.yale.edu/ypfs-documents2/5606 
+———. 2023c. “Federal Reserve Board Announces It Will Make Available Additional 
+Funding to Eligible Depository Institutions to Help Assure Banks Have the Ability to Meet 
+the Needs of All Their Depositors.” Press release, March 12, 2023. 
+https://elischolar.library.yale.edu/ypfs-documents2/4781 
+———. 2023d. “Federal Reserve Balance Sheet: Factors Affecting Reserve Balances [March 
+15, 2023].” H.4.1 Statistical Release, March 16, 2023. 
+https://elischolar.library.yale.edu/ypfs-documents2/5469 
+———. 2023e. “Federal Reserve Board Announces the Results from the Review of the 
+Supervision and Regulation of Silicon Valley Bank, Led by Vice Chair for Supervision Barr,” 
+April 28, 2023.  
+https://elischolar.library.yale.edu/ypfs-documents2/4863 
+  
+46
+How the FDIC Sourced Crisis-Time Fed Funding through the Failed Banks of 2023 Kelly
+
+--- Page 20 ---
+POLICY NOTE 
+ 
+———. 2023f. “Federal Reserve Balance Sheet: Factors Affecting Reserve Balances [May 
+31, 2023].” H.4.1 Statistical Release, June 1, 2023.  
+https://elischolar.library.yale.edu/ypfs-documents2/4886 
+———. 2023g. “Additional Information on Other Credit Extensions [June 2023],” June 9, 
+2023. https://elischolar.library.yale.edu/ypfs-documents2/4883 
+———. 2023h. “Periodic Report: Update on Bank Term Funding Program Authorized by 
+the Board under Section 13(3) of the Federal Reserve Act,” June 12, 2023. 
+https://elischolar.library.yale.edu/ypfs-documents2/4864 
+———. 2024a. “Additional Information on Other Credit Extensions [January 2024],” 
+January 4, 2024. https://elischolar.library.yale.edu/ypfs-documents2/5267 
+———. 2024b. “Bank Term Funding Program,” October 11, 2024. 
+https://elischolar.library.yale.edu/ypfs-documents2/4865 
+———. 2025. “Bank Term Funding Program: Final Disclosure of Transaction Data Pursuant 
+to 11(s) of the Federal Reserve Act,” April 2025. https://elischolar.library.yale.edu/ypfs-
+documents2/5608 
+———. n.d. “Discount Window Lending Transaction Data.” Accessed February 15, 2026. 
+https://www.federalreserve.gov/regreform/discount-window.htm 
+Board of Governors of the Federal Reserve System, Federal Deposit Insurance Corporation, 
+and US Department of the Treasury (Fed, FDIC, and US Treasury). 2023. “Joint Statement by 
+the Department of the Treasury, Federal Reserve, and FDIC.” Press release, March 12, 2023. 
+https://elischolar.library.yale.edu/ypfs-documents2/4777 
+Cowan, Richard, and Gram Slattery. 2023. “US Congress Averts Historic Default, Approves 
+Debt-Limit Suspension.” Reuters, June 2, 2023.  
+https://elischolar.library.yale.edu/ypfs-documents2/4896 
+Ellis, Diane. 2013. “Deposit Insurance Funding: Assuring Confidence.” FDIC Staff Paper, 
+November 2013.  
+https://elischolar.library.yale.edu/ypfs-documents2/4867 
+Federal Deposit Insurance Corporation (FDIC). 1975. “1974 Annual Report,” August 15, 
+1975.  
+https://archive.fdic.gov/view/fdic/617 
+———. 1976. 1975 Annual Report. March 15, 1976. 
+https://archive.fdic.gov/view/fdic/616 
+———. 1982. 1981 Annual Report. June 15, 1982. 
+https://fraser.stlouisfed.org/title/annual-report-federal-deposit-insurance-corporation-
+3768/annual-report-1981-476789 
+47
+Journal of Financial Crises Vol. 8 Iss. 1
+
+--- Page 21 ---
+POLICY NOTE 
+ 
+———. 1983. “FDIC Announces Deposit Assumption of First National Bank of Midland.” 
+Press release, October 14, 1983.  
+https://archive.fdic.gov/view/fdic/11701 
+———. 1984a. “The First Fifty Years - A History of the FDIC 1933-1983,” 1984. 
+https://www.fdic.gov/resources/publications/first-fifty-years/book/first-fifty-years.pdf 
+———. 1984b. 1983 Annual Report. June 1, 1984.  
+https://archive.fdic.gov/view/fdic/606 
+———. 1985. 1984 Annual Report. May 15, 1985.  
+https://archive.fdic.gov/view/fdic/605 
+———. 1991. 1991 Annual Report. July 20, 1991.  
+https://archive.fdic.gov/view/fdic/652 
+———. 1998. “Managing the Crisis: The FDIC and RTC Experience.” 
+https://www.fdic.gov/publications/managing-crisis-fdic-and-rtc-experience 
+———. 2009. “Prepaid Assessments.” 12 CFR Part 327, 74 Fed. Reg. 59,056. November 17, 
+2009.  
+https://elischolar.library.yale.edu/ypfs-documents2/5268 
+———. 2017. Crisis and Response: An FDIC History, 2008–2013. Washington, DC: Federal 
+Deposit Insurance Corporation.  
+https://elischolar.library.yale.edu/ypfs-documents/3836 
+———. 2018. “Federal Deposit Insurance Corporation Corporate Investment Policy 
+(2018).”  
+https://elischolar.library.yale.edu/ypfs-documents2/5484 
+———. 2023a. Annual Report 2022.  
+https://elischolar.library.yale.edu/ypfs-documents2/5483 
+———. 2023b. “FDIC Creates a Deposit Insurance National Bank of Santa Clara to Protect 
+Insured Depositors of Silicon Valley Bank, Santa Clara, California.” Press release, March 10, 
+2023.  
+https://elischolar.library.yale.edu/ypfs-documents2/4873 
+———. 2023c. “FDIC Establishes Signature Bridge Bank, N.A., as Successor to Signature 
+Bank, New York, NY.” Press release, March 12, 2023. 
+https://elischolar.library.yale.edu/ypfs-documents2/4874 
+———. 2023d. “FDIC Acts to Protect All Depositors of the Former Silicon Valley Bank, 
+Santa Clara, California.” Press release, March 13, 2023. 
+https://elischolar.library.yale.edu/ypfs-documents2/4871 
+48
+How the FDIC Sourced Crisis-Time Fed Funding through the Failed Banks of 2023 Kelly
+
+--- Page 22 ---
+POLICY NOTE 
+ 
+———. 2023e. “Subsidiary of New York Community Bancorp, Inc., to Assume Deposits of 
+Signature Bridge Bank, N.A., from the FDIC.” Press release, March 19, 2023. 
+https://elischolar.library.yale.edu/ypfs-documents2/4879 
+———. 2023f. “First–Citizens Bank & Trust Company, Raleigh, NC, to Assume All Deposits 
+and Loans of Silicon Valley Bridge Bank, N.A., from the FDIC.” Press release, March 26, 
+2023.  
+https://elischolar.library.yale.edu/ypfs-documents2/4878 
+———. 2023g. “FDIC Releases Report Detailing Supervision of the Former Signature Bank, 
+New York, New York.” Press release, April 28, 2023. 
+https://elischolar.library.yale.edu/ypfs-documents2/4876 
+———. 2023h. “JPMorgan Chase Bank, National Association, Columbus, Ohio Assumes All 
+the Deposits of First Republic Bank, San Francisco, California,” May 1, 2023. 
+https://elischolar.library.yale.edu/ypfs-documents2/4778/ 
+———. 2023i. “FDIC Releases Report Detailing Supervision of the Former First Republic 
+Bank, San Francisco, California.” Press release, September 8, 2023. 
+https://elischolar.library.yale.edu/ypfs-documents2/4875 
+———. 2023j. “FDIC Board of Directors Issues a Final Rule on Special Assessment Pursuant 
+to Systemic Risk Determination.” Press release, November 16, 2023. 
+https://elischolar.library.yale.edu/ypfs-documents2/4872 
+———. 2024a. Annual Report 2023.  
+https://elischolar.library.yale.edu/ypfs-documents2/4884/ 
+———. 2024b. “Quarterly Banking Profile: First Quarter 2024.” FDIC Quarter 18, no. 2. 
+https://elischolar.library.yale.edu/ypfs-documents2/4881 
+———. 2024c. “Overview of Resolution under Title II of the Dodd-Frank Act,” April 2024. 
+https://elischolar.library.yale.edu/ypfs-documents2/4882 
+———. n.d. “Bank Failures in Brief – Summary.” Database, accessed November 14, 2024. 
+https://elischolar.library.yale.edu/ypfs-documents2/4880 
+Federal Financing Bank (FFB). 2024. Annual Report 2023. 
+https://elischolar.library.yale.edu/ypfs-documents2/5477 
+First Citizens (FCB). 2023. “First Citizens Bank Enters into Whole Bank Purchase of Silicon 
+Valley Bridge Bank, N.A.” Press release, March 27, 2023.  
+https://elischolar.library.yale.edu/ypfs-documents/15057 
+First Republic Bank (First Republic). 2023. “First Republic Reports First Quarter 2023 
+Results.” Press release, April 24, 2023.  
+https://elischolar.library.yale.edu/ypfs-documents2/4785 
+49
+Journal of Financial Crises Vol. 8 Iss. 1
+
+--- Page 23 ---
+POLICY NOTE 
+ 
+GOP Financial Services. 2023. “Hearing Entitled: The Federal Regulators’ Response to 
+Recent Bank Failures.” Streamed Live on March 29, 2023. YouTube Video, 05:37:15. 
+https://elischolar.library.yale.edu/ypfs-video/97 
+Hill, Travis. 2024. “Reflections on Bank Regulatory and Resolution Issues.” Remarks at the 
+American Enterprise Institute, July 24, 2024.  
+https://elischolar.library.yale.edu/ypfs-documents2/4901 
+Isaac, William M. 1984. “Statement on Federal Assistance to Continental Illinois 
+Corporation and Continental Illinois National Bank, Presented to the Subcommittee on 
+Financial Institutions Supervision, Regulation and Insurance of the House Committee on 
+Banking, Finance and Urban Affairs,” October 4, 1984. 
+https://archive.fdic.gov/view/fdic/12156 
+JP Morgan Chase & Co. (JPM). 2023. “JPMorgan Chase Acquires Substantial Majority of 
+Assets and Assumes Certain Liabilities of First Republic Bank,” May 1, 2023. 
+https://elischolar.library.yale.edu/ypfs-documents/15060 
+Lybarger, Stephen A. 2023a. “Application to Charter Signature Bridge Bank, National 
+Association Charter No.: 25296, OCC Control No.: 2023-BridgeBank-331276.” Office of the 
+Comptroller of the Currency, March 12, 2023.  
+https://elischolar.library.yale.edu/ypfs-documents2/4898 
+———. 2023b. “Application to Charter Silicon Valley Bridge Bank, National Association 
+Charter No.: 25298, OCC Control No.: 2023-BridgeBank-331278.” Office of the Comptroller 
+of the Currency, March 13, 2023.  
+https://elischolar.library.yale.edu/ypfs-documents2/4899 
+Mitchell, Patrick. 2023. “Memo to the FDIC Board of Directors, Re: Restoration Plan 
+Semiannual Update.” Federal Deposit Insurance Corporation, April 18, 2023.  
+https://elischolar.library.yale.edu/ypfs-documents2/4895 
+New York Community Bank (NYCB). 2023. “New York Community Bancorp, Inc. through Its 
+Bank Subsidiary, Flagstar Bank, N.A., Acquires Certain Assets and Assumes Certain 
+Liabilities of Signature Bridge Bank from the FDIC.” March 20, 2023. 
+https://web.archive.org/web/20230320125236/https://ir.mynycb.com/news-and-
+events/news-releases/press-release-details/2023/NEW-YORK-COMMUNITY-BANCORP-
+INC.-THROUGH-ITS-BANK-SUBSIDIARY-FLAGSTAR-BANK-N.A.-ACQUIRES-CERTAIN-
+ASSETS-AND-ASSUMES-CERTAIN-LIABILITIES-OF-SIGNATURE-BRIDGE-BANK-FROM-
+THE-FDIC/default.aspx 
+New York State Department of Financial Services (NYDFS). 2023. “New York State 
+Department of Financial Services Announces the Results from the Review of the 
+Supervision and Closure of Signature Bank.” Press release, April 28, 2023. 
+https://elischolar.library.yale.edu/ypfs-documents2/4894 
+  
+50
+How the FDIC Sourced Crisis-Time Fed Funding through the Failed Banks of 2023 Kelly
+
+--- Page 24 ---
+POLICY NOTE 
+ 
+Omarova, Saule T. 2011. “From Gramm-Leach-Bliley to Dodd-Frank: The Unfulfilled 
+Promise of Section 23A of the Federal Reserve Act.” North Carolina Law Review 89, no. 5: 
+1683–1776.  
+https://elischolar.library.yale.edu/ypfs-documents/13059 
+Sablik, Tim. 2024. “Central Bank Lending Lessons from  the 2023 Bank Crisis.” Econ Focus 
+24, no. 2 (Third Quarter): 4–7.  
+https://elischolar.library.yale.edu/ypfs-documents2/4900 
+Silicon Valley Bank (SVB). 2023a. “Silicon Valley Bridge Bank – Open for Business.” Press 
+release, March 13, 2023.  
+http://elischolar.library.yale.edu/ypfs-documents2/4892 
+———. 2023b. “Update from Silicon Valley Bridge Bank CEO.” Press release, May 14, 2023. 
+https://elischolar.library.yale.edu/ypfs-documents2/4893 
+Spero, Joan Edelman. 1979. The Failure of the Franklin National Bank: Challenge to the 
+International Banking System. Beard Books, reprint, 1999. 
+https://beardbooks.com/beardbooks/the_failure_of_the_franklin_national_bank.html 
+State of California Department of Financial Protection and Innovation (CADFPI). 2023. 
+“First Republic Bank – Order Taking Possession,” May 1, 2023. 
+https://elischolar.library.yale.edu/ypfs-documents2/4819 
+Todd, Walker. 1992. “FDICIA’s Discount Window Provisions,” December 15, 1992. 
+https://www.clevelandfed.org/publications/economic-commentary/1992/ec-19921215-
+fdicias-discount-window-provisions 
+US Congress. 2023a. “Recent Bank Failures and the Federal Regulatory Response.” Hearing 
+before the Committee on Banking, Housing, and Urban Affairs, US Senate, 118th Cong., 1st 
+Sess., on Examining the Recent US Bank Failures and the Federal Regulators’ Response, 
+March 28, 2023. https://elischolar.library.yale.edu/ypfs-documents2/4906 
+———. 2023b. “The Federal Regulators’ Response to Recent Bank Failures.” Hearing before 
+the Committee on Financial Services, US House of Representatives: 118th Cong., 1st Sess., 
+Serial No. 118–12, March 29, 2023. https://elischolar.library.yale.edu/ypfs-
+documents2/4907 
+US Department of the Treasury (US Treasury). 2024. “Daily Treasury Statement (DTS).” 
+Bureau of the Fiscal Service, Treasury Fiscal Data, November 14, 2024. 
+https://elischolar.library.yale.edu/ypfs-documents2/4902 
+——— (US Treasury). n.d. “Debt Limit.” Accessed November 12, 2024. 
+https://elischolar.library.yale.edu/ypfs-documents2/4904 
+  
+51
+Journal of Financial Crises Vol. 8 Iss. 1
+
+--- Page 25 ---
+POLICY NOTE 
+ 
+———. 2017b. “Restrictions on Transactions with Affiliates.” Federal Reserve Act, Section 
+23B, February 14, 2017.  
+https://elischolar.library.yale.edu/ypfs-documents/11980 
+———. 2021. “Section 14. Borrowing Authority.” Federal Deposit Insurance Act, August 31, 
+2021.  
+https://elischolar.library.yale.edu/ypfs-documents2/4870 
+———. 2024. “Federal Deposit Insurance Act. Section 13. Corporate Monies [2024].” 12 
+U.S.C. § 1823. November 8, 2024. 
+https://elischolar.library.yale.edu/ypfs-documents2/4903  
+US Government Accountability Office (US GAO). 2023. “Bank Regulation: Preliminary 
+Review of Agency Actions Related to March 2023 Bank Failures.” Report to the Committee 
+on Financial Services, House of Representatives, GAO-23-106736, April 28, 2023. 
+http://elischolar.library.yale.edu/ypfs-documents2/4889 
+——— (US GAO). 2024. “Federal Home Loan Banks: Actions Related to the Spring 2023 
+Bank Failures.” Q&A Report to the Committee on Financial Services, House of 
+Representatives, GAO-24-106957, March 8, 2024. https://elischolar.library.yale.edu/ypfs-
+documents2/4821 
+  
+52
+How the FDIC Sourced Crisis-Time Fed Funding through the Failed Banks of 2023 Kelly
+
+--- Page 26 ---
+POLICY NOTE 
+ 
+Appendix A 
+A Brief History of “Other Credit Extensions”  
+The Federal Reserve added the category of “Other Credit Extensions” to its weekly balance 
+sheet report in March 2008, when it provided assistance to Bear Stearns to help Bear survive 
+until the weekend (Fed 2008a). While this line item shows no amounts on the Fed’s balance 
+sheet snapshot data of its Wednesday balances, its “week average” figures reveal the Bear 
+loan (see Figure 7). 
+Figure 7: “Other Credit Extensions: Wednesday Level” vs. “Other Credit Extensions: 
+Week Average” in 2008 
+ 
+Source: Federal Reserve Economic Data (FRED). 
+As a bridge solution to get to the weekend when JPMorgan Chase ultimately bought most of 
+Bear, the Fed provided an emergency loan to Bear , through JPMorgan,  on Friday morning  
+(Fed 2008b). The loan of $12.9 billion was paid off in full on the following Monday morning—
+hence its nonexistence on the bookending Wednesday reports (Fed 2009). The Fed invoked 
+its Section 13(3) emergency liquidity authority but structured the loan as a back -to-back 
+loan through the discount window: the Fed lent to JPMorgan (without recourse), which on -
+lent to Bear and took Bear’s collateral to the window. It was thus filed under Other Credit 
+Extensions. There was no Federal Deposit Insurance Corporation involvement in this case. 
+  
+53
+Journal of Financial Crises Vol. 8 Iss. 1
+
+--- Page 27 ---
+POLICY NOTE 
+ 
+Appendix B 
+An Overview of the Fed ’s Offering Maturity Forbearance to the 
+FDIC on Failed-Bank Discount Window Loans 
+By the nature of (the typical lack of) public information on such transactions, what follows 
+is not necessarily an exhaustive accounting. 18 There are at least several known examples. 
+The FDIC assumed failed-bank discount window loans (and received maturity forbearance) 
+for the failures of several large banks between 1974 and 1989: 
+• At the time of its October 8, 1974, failure, Franklin National  Bank had $1.7 billion 
+outstanding at the discount window, representing almost half its $3.7 billion balance 
+sheet. The Fed released to the FDIC the collateral backing the discount window loans 
+in exchange for an FDIC -issued note co mmitting it to paying back the Fed over the 
+course of three years (FDIC 1984a, 90, 92). The interest rate was set to approximate 
+the rate on the Fed’s portfolio of Treasuries (Spero 1979). At the end of the year, the 
+FDIC still recorded $1.7 billion of assets from Franklin and the matching liability to 
+the Fed (FDIC 1975) . The FDIC paid down this obligation as it liquidated the 
+corresponding assets (FDIC 1976). 
+• When Greenwich Savings Bank failed on November 4, 1981, the FDIC assumed $428 
+million of debt to the Federal Reserve Bank of New York. The FDIC agreed to pay this 
+back over three years at an interest rate of the average three -month Treasury yield 
+plus 50 basis points (FDIC 1982).  
+• First National Bank of Midland failed on October 14, 1983, and the FDIC assumed $1.2 
+billion of assets and a $664 million obligation to the Federal Reserve Bank of Dallas 
+(FDIC 1983). This obligation remained outstanding at year -end 1983 (FDIC 1984b). 
+The level of maturity forbearance is unclear from public statements, but then –FDIC 
+Chair William Isaac called it a “similar” transaction to the ones with Franklin National, 
+Greenwich Savings, and Continental, suggestive of a three - to five-year maturity at a 
+market rate of interest (Isaac 1984). 
+• When providing open-bank assistance to Continental Illinois National Bank and Trust 
+Company of Chicago in 1984 (the bank didn’t technically fail; policymakers rescued it 
+as an open bank), the FDIC purchased $2 billion of tr oubled loans (face value of $3.7 
+billion), a $1.5 billion Continental promissory note, and a $1 billion preferred stock 
+investment. This transaction “was, in part, funded by the assumption of $3.5 billion of 
+indebtedness to the Federal Reserve Bank of Chic ago.” The FDIC paid back the 
+Chicago Fed over five years “ by making quarterly remittances of its collections, less 
+expenses” (FDIC 1985) . Payments to the Fed were a high priority for the FDIC’s 
+ 
+18 These are all the cases listed by then –FDIC Chair Isaac in a 1984 congressional statement that discusses 
+whether there was precedent for the discount window forbearance provided in the Continental rescue (Isaac 
+1984). The accounting is therefore likely exhaustive at least to 1984. 
+54
+How the FDIC Sourced Crisis-Time Fed Funding through the Failed Banks of 2023 Kelly
+
+--- Page 28 ---
+POLICY NOTE 
+ 
+resolution: It applied portfolio liquidation proceeds first to  administrative expenses 
+for the asset pool, then to interest on the Fed loans, and thirdly to Fed principal (FDIC 
+1998). 
+The FDIC said that the obligation to the Chicago Fed “will bear interest at specified 
+rates established by the [Chicago Fed] and the U.S. Treasury” (FDIC 1985). In 1984, 
+Chair Isaac said, “The Federal Reserve debt bears a market rate of interest, so there is 
+no subsidy” (Isaac 1984). He added that, “The FDIC could have purchased the loans 
+using its own cash, but assuming the Federal Reserve debt enables the FDIC fund 
+to conserve its liquidity.” A 1992 Federal Reserve Bank of Cleveland research note 
+would later say that the Continental transaction represented the “the largest amount 
+and the longest forbearance ” provided by the Fed’s discou nt window to the FDIC 
+(Todd 1992). 19 
+All these examples occurred before the “least-cost test” became the statutory requirement 
+in the 1991 passage of  the Federal Deposit Insurance Corporation Improvement Act  
+(FDICIA). 
+This open access article is distributed under the terms of the CC-BY-NC-ND 4.0 license, which allows 
+sharing of this work provided the original author and source are cited. The work may not be changed 
+or used commercially. 
+ 
+ 
+ 
+19 The FDIC also assumed notably large Federal Reserve loans in the resolutions of bridge banks for First 
+Republic Bank in 1988 ($1 billion) and MCorp in 1989 ($1.5 billion). It could not be determined whether 
+maturity forbearance was granted in these cases, though FDIC annual reports show limited maturities for 
+outstanding “federal indebtedness” in those years, suggesting that any maturity forbearance was limited or 
+unneeded (FDIC 1998). 
+55
+Journal of Financial Crises Vol. 8 Iss. 1

@@ -1,0 +1,796 @@
+--- Page 1 ---
+Journal of Financial Crises Journal of Financial Crises 
+Volume 4 Issue 2 
+2022 
+Hungary: National Deposit Insurance Fund Hungary: National Deposit Insurance Fund 
+Zijin (Phoebe) Lei 
+Yale School of Management, Asset Managment 
+Ezekiel Vergara 
+Yale School of Management 
+Follow this and additional works at: https://elischolar.library.yale.edu/journal-of-financial-crises 
+ Part of the Economic Policy Commons, Finance and Financial Management Commons, 
+Macroeconomics Commons, Policy Design, Analysis, and Evaluation Commons, Policy History, Theory, 
+and Methods Commons, and the Public Administration Commons 
+Recommended Citation Recommended Citation 
+Lei, Zijin (Phoebe) and Vergara, Ezekiel (2022) "Hungary: National Deposit Insurance Fund," Journal of 
+Financial Crises: Vol. 4 : Iss. 2, 352-370. 
+DOI: https://doi.org/10.17132/2693-3179.1301 
+Available at: https://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss2/12 
+This Case Study is brought to you for free and open access by the Journal of Financial Crises and 
+EliScholar – A Digital Platform for Scholarly Publishing at Yale. For more information, please contact 
+journalfinancialcrises@yale.edu.
+
+--- Page 2 ---
+READERS TAKE NOTICE: READERS TAKE NOTICE: 
+As of April 2024, the YPFS Resource Library’s site domain has changed 
+to https://elischolar.library.yale.edu/ypfs-financial-crisis-resource-library/. 
+Please be aware that upon clicking any of the URL references to 
+the former Resource Library domains, either https://ypfs.som.yale.edu 
+or https://ypfsresourcelibrary.blob.core.windows.net/, in the 
+"References/Key Program Documents" section of a case study, 
+readers will encounter a "page not found" error. readers will encounter a "page not found" error. 
+Readers can still retrieve a given resource cited within this case study 
+on the new site  by searching by searching here  for the title cited. for the title cited. 
+This case study is available in Journal of Financial Crises: https://elischolar.library.yale.edu/journal-of-financial-
+crises/vol4/iss2/12
+
+--- Page 3 ---
+Hungary: National Deposit Insurance Fund1 
+Zijin (Phoebe) Lei2 and Ezekiel Vergara3 
+Yale Program on Financial Stability Case Study 
+July 15, 2022 
+Abstract 
+At the height of the Global Financial Crisis (GFC), Hungary announced changes to its deposit-
+insurance system on October 8, 2008. The government said that it would increase the 
+deposit-insurance cap from HUF 6 million to HUF 13 million (about USD 31,000 to about USD 
+68,000), the equivalent of roughly EUR 50,000 (about USD 68,000), in line with a European 
+Union (EU) recommendation. Hungary’s finance minister also announced that the state 
+would temporarily provide an unlimited deposit guarantee, following the actions of several 
+European countries. The unlimited guarantee was political, meaning it was not implemented 
+through official legislation. It was effective immediately, while the increased coverage came 
+into effect on October 15, 2008. The National Deposit Insurance Fund (NDIF), Hungary’s 
+deposit insurer, administered Hungary’s crisis-time deposit guarantee as an extension of its 
+statutory authority; membership was compulsory for most deposit-taking institutions. The 
+following year, in response to an EU directive, Hungary raised the deposit-insurance cap to 
+the Hungarian forint (HUF) equivalent of EUR 100,000, among other measures. In February 
+2010, the NDIF and government made good on their respective guarantees when one 
+institution failed . Another failure occurred in January 2011, for which each depositor 
+received the HUF equivalent of EUR 100,000. 
+Keywords: account guarantee, Global Financial Crisis, Hungary, National Deposit Insurance 
+Fund, unlimited deposit guarantee 
+  
+ 
+1 This case study is part of the Yale Program on Financial Stability (YPFS) selection of New Bagehot Project 
+modules considering account guarantee programs. Cases are available from the Journal of Financial Crises at   
+https://elischolar.library.yale.edu/journal-of-financial-crises/. 
+2 Research Assistant, Asset Management, Yale School of Management.  
+3 Research Associate, YPFS, Yale School of Management. 
+352
+
+--- Page 4 ---
+Overview 
+At the height of the Global Financial Crisis 
+(GFC), Germany enacted a  temporary 
+unlimited deposit guarantee on October 5, 
+2008 (Gow and Chrisafis 2008) . Two days 
+later, the European Union (EU)’s Economic 
+and Financial Council (ECOFIN) met to 
+coordinate the EU’s response to the GFC 
+(EC 2008) . Among ECOFIN’s 
+recommendations was that EU member 
+states harmonize the amounts insured 
+under their respective deposit -insurance 
+schemes at  a minimum of  EUR 50,000 
+(about USD 68,000).4 Most member states 
+that did  not already cover that amount 
+raised their insurance caps in response to 
+the guidance. S everal countries also 
+followed Germany  and announced 
+unlimited deposit guarantees , including 
+Austria, Slovenia, and Slovakia  (AFP 2008; 
+Sydney Morning Herald  2008; Bajuk a nd 
+Kranjec 2008).  
+Hungary took both measures : raising its 
+insurance cap and announcing a temporary 
+unlimited guarantee  (NDIF 2008a) . On 
+October 8, 2008, the National Deposit 
+Insurance Fund (NDIF), the existing deposit 
+insurer, increased its insurance cove rage 
+per depositor from Hungarian forint (HUF) 
+6 million to HUF 13 million  (about USD 
+31,000 to about USD 68,000) , which was 
+then equivalent to roughly EUR 50,000 .5 
+The legislature authorized this increase on 
+October 14, 2008, with the increase coming 
+into effect the next day (Government of 
+Hungary 2008) . The legislature also 
+eliminated co -insurance, under which 
+depositors were on the hook for 10% of 
+amounts between HUF 1 million and HUF 6 
+million. In other words,  prior to 2008, the 
+ 
+4 On October 7, 2008, EUR 1 = USD 1.36, per Yahoo Finance. 
+5 Per Yahoo Finance, on October 7, 2008, USD 1 = HUF 184 and EUR 1 = HUF 250. 
+Key Terms 
+Purpose: To protect depositors, bolster trust in the 
+banking system, and match guarantees made by 
+international competitors 
+Launch Dates Limit increased 
+Announcement: Oct. 8, 2008 
+Authorization: Oct. 14, 2008 
+Operation: Oct. 15, 2008 
+Political guarantee 
+Announced: Oct. 8, 2008 
+Operation: Oct. 8, 2008 
+End Dates Increases adopted as 
+permanent. Unclear when 
+political guarantee ended  
+Eligible 
+Institutions 
+All Hungarian-registered 
+institutions 
+Eligible Account(s) Various deposit accounts 
+Fees Uniform fees, no more than 
+0.2% on eligible deposits 
+Size of Guarantee Unlimited political guarantee. 
+Legal guarantee of HUF 13 
+million (then roughly EUR 
+50,000), and ultimately EUR 
+100,000 
+Coverage HUF 7.6 trillion 
+Outcomes HUF 12.4 billion in payouts 
+Notable Features Abolition of co-insurance 
+ 
+Unlimited political guarantee 
+with no clear end date 
+ 
+Cooperation between 
+government and NDIF to pay 
+out unlimited guarantee 
+353
+Journal of Financial Crises Vol. 4 Iss. 2
+
+--- Page 5 ---
+NDIF had guaranteed depositors HUF 1 million in full, and 90% of amounts between HUF 1 
+million and HUF 6 million, for a total of HUF 5.5 million (OECD 2008).  
+The NDIF was a government -owned legal entity (Government of Hungary 2010a, Article 
+110). Membership was compulsory for most deposit-taking institutions, and the NDIF levied 
+flat-rate fees on member institutions for its coverage (Government of Hungary 2010a, 
+Articles 119-21).  
+Also on October 8, 2008, Hungary’s finance minister announced that the government would 
+temporarily guarantee all bank deposits in Hungary (NDIF 2008) . This unlimited deposit 
+guarantee, the finance minister stated, came into effect immediately. Hungarian officials gave 
+no indication as to how long the unlimited deposit guarantee would remain in place.   
+Despite the announcements, international investors continued to dump Hungarian  
+government bonds and other assets and the forint continued to depreciate, creating liquidity 
+pressures for banks  (IMF 2011) . At the request of the Hungarian government, the 
+International Monetary Fund (IMF), EU, and World Bank (WB) agreed in October 2008 to a 
+USD 25.1 billion package to p rovide Hungary with sufficient foreign-currency reserves to 
+meet its external obligations, even in extreme market conditions (IMF 2008a). Hungarian 
+officials sign ed a Stand -By Arrangement (SBA) describing this package with the IMF in 
+November 2008 (IMF 2008b).  
+In March 2009, the EU required member states to increase their deposit-insurance coverage 
+first to EUR 50,000, and then to EUR 100,000 by December 31, 2010 (EP/EC 2009) . The 
+directive also required member states to reduce their payout times to 20 working days.  
+In response, Hungary’s legislature raised the NDIF’s deposit -insurance cap to the HUF 
+equivalent of roughly EUR 50,000 in Act XLI of 2009 (Government of Hungary 2009, Article 
+14). The law shortened the payout time to a maximum of 20 working day s (Government of 
+Hungary 2009, Article 3). The law also granted the Hungarian supervisor more authority and 
+required the NDIF to regularly test its payout capacity (Government of Hungary 2009, Article 
+6). The changes to the deposit-insurance limit came into effect on June 30, 2009; the changes 
+to the payout time, among other changes, came into effect on January 1, 2010 (Government 
+of Hungary 2009, Article 13). 
+Hungarian authorities later raised the deposit -insurance coverage to the HUF equivalent of 
+EUR 100,000, beginning on January 1, 2011, to comply with the EU’s directive (Government 
+of Hungary 2011, Article 101; NDIF 2012).  
+On February 11, 2010, the Hungarian supervisor withdrew the license of Általános 
+Közlekedési Hitelszövetkezet (AKH) , a credit co operative, triggering the NDIF’s guarantee. 
+The NDIF insured HUF 3. 3 billion in AKH’s deposits, which were owed to 1,190 depositors. 
+The NDIF insured depositors up to the insured cap of EUR 50,000, or HUF 13.6 million per 
+depositor. The ministry of finance covered balances above that cap (Government of Hungary 
+2010b; NDIF 2011) . In 2010, the NDIF had over HUF 90 billion in assets  to make such 
+payouts. 
+354
+Hungary Lei and Vergara
+
+--- Page 6 ---
+On January 3, 2011, the Hungarian supervisor withdrew the license of Jógazda Szövetkezeti 
+Takarékpénztár (JST), a cooperative savings bank (NDIF 2012). The NDIF covered HUF 9.1 
+billion for 5,329 depositors. Each depositor received up to the HUF equivalent of EUR 
+100,000, and from the sources consulted, it appears that the unlimited deposit guarantee 
+was no longer in effect. 
+Summary Evaluation 
+IMF officials noted Hungary’s deposit reforms and temporary unlimited guarantee as 
+elements of the country’s financial stabilization package, in their evaluation of Hungary’s 
+request for aid through an SBA (IMF 2008b). 
+  
+355
+Journal of Financial Crises Vol. 4 Iss. 2
+
+--- Page 7 ---
+Context: Hungary 2008–2010 
+GDP 
+(SAAR, nominal GDP in LCU  
+converted to USD) 
+$159.9 billion in 2008 
+$132.2 billion in 2009 
+$132.5 billion in 2010 
+GDP per capita 
+(SAAR, nominal GDP in LCU  
+converted to USD) 
+$15,777 in 2008 
+$13,082 in 2009 
+$13,223 in 2010 
+Sovereign credit rating  
+(five-year senior debt) 
+Data for 2008: 
+Moody’s: A3 
+S&P: BBB 
+Fitch: BBB+ 
+ 
+Data for 2009: 
+Moody’s: Baa1 
+S&P: BBB- 
+Fitch: BBB+ 
+ 
+Data for 2010: 
+Moody’s: Baa3 
+S&P: BBB- 
+Fitch: BBB 
+Size of banking system 
+$134.3 billion in 2008 
+$100.7 billion in 2009 
+$101.6 billion in 2010 
+Size of banking system  
+as a percentage of GDP 
+84.0% in 2008 
+76.2% in 2009 
+76.7% in 2010 
+Size of banking system  
+as a percentage of financial system Data not available for 2008–2010  
+Five-bank concentration of banking system 
+89.3% in 2008 
+93.4% in 2009 
+92.6% in 2010 
+Foreign involvement in banking system 
+67% in 2008 
+64% in 2009 
+63% in 2010 
+Government ownership of banking system Data not available for 2008–2010  
+Existence of deposit insurance Yes, in 2008–2010  
+Sources: Bloomberg; World Bank Global Financial Development Database; World 
+Bank Deposit Insurance Dataset. 
+356
+Hungary Lei and Vergara
+
+--- Page 8 ---
+Key Design Decisions 
+1. Purpose: Officials modified the Hungarian deposit -insurance system to protect 
+depositors, bolster depositor trust, and match other European countries.  
+In October 2008, the European Union (EU)’s Economic and Financial Council (ECOFIN) 
+advised member states to incr ease their deposit-insurance coverage to EUR 50,000 . 
+Hungarian officials followed that guidance, increasing the maximum amount of deposit -
+insurance coverage to HUF 13 million, then equivalent to roughly EUR 50,000 (Government 
+of Hungary 2008).  
+However, s everal countries  adopted unlimited deposit guarantees, including Germany, 
+Austria, Slovenia, and Slovakia (AFP 2008; Sydney Morning Herald 2008; Bajuk and Kranjec 
+2008). Given pressures from countries that had announced unlimited guarantees, Hungarian 
+officials announced that the Hungarian government would also provide a temporary 
+unlimited deposit guarantee.  The unlimited guarantee was political, meaning it was not 
+implemented through official legislation. 
+2. Part of a Package:  In October 2008, Hungarian officials adopted a bank -debt 
+guarantee and a recapitalization program backed by an International Monetary 
+Fund Stand-By Arrangement, neither of which was widely used.  
+By mid -October 2008, Hungarian officials began discussions with the International 
+Monetary Fund (IMF) on a Stand-By Arrangement (SBA) in response to capital flight and the 
+rapid depreciation of the forint. In late October, the IMF, EU, and W orld Bank (WB) agreed 
+to a US D 25.1 billion package , mostly to restore the central bank’s currency reserves (IMF 
+2008a; IMF 2011). Hungary also allocated USD 2.7 billion evenly between a recapitalization 
+program6 to bolster capital ratios at Hungarian banks and a voluntary program to guarantee7 
+interbank loans issued by Hungarian banks and wholesale debt contracts with foreign 
+counterparties (Gárdos 2008; IMF 2011; Buchholtz 2020; Buchholtz 2021). Both programs 
+came into effect on December 23, 2008 (Petrovic and Tutsch 2009) . Both were 
+undersubscribed by eligible banks:  only one bank requested capital, and none applied for 
+the guarantee.  
+As a result of minimal participation in these two programs and lingering liquidity pressures, 
+Hungary in 2009 allocated the IMF -EU funds to a  new liquidity program (IMF 2011). The 
+program, which was introduced on March 11, 2009, provided eligible institutions with loans 
+(Petrovic and Tutsch 2009) . The program would provide up to HUF 1.1 trillion (USD 4.9 
+billion) in foreign-exchange liquidity to domestic credit institutions and subsidiaries of 
+ 
+6 For more information on Hungary’s 2008 Recapitalization Scheme, see Buchholtz  2021. Hungary also 
+implemented a recapitalization scheme alongside a loan consolidation program in response to a recession in 
+1992; for more information, see Dreyer 2021.  
+7 For more information on Hungary’s 2008 Guarantee Scheme, see Buchholtz  2020. 
+357
+Journal of Financial Crises Vol. 4 Iss. 2
+
+--- Page 9 ---
+foreign banks (Kroes 2010). By January 2010, the liquidity scheme had lent HUF 690 billion 
+(USD 3 billion) to three domestic banks. For more, see Mott and Buchholtz 2022. 
+3. Legal Authorit y: To increase depositor coverage, Hungarian officials passed 
+amendments to Act CXII of 1996. Hungary’s unlimited guarantee was political, 
+meaning it was not subject to legislative approval. 
+Articles 97 to 130 of Act CXII 1996 set out the Hungarian deposit -insurance system 
+(Government of Hungary 2010a, Articles 97-130). Prior to October 15, 2008, Hungarian law 
+protected depositors fully up to HUF 1 million, with partial coverage up to HUF 6 million 
+(OECD 2008) . Due to financial turbulence a ssociated with the GFC, on October 8, 2008, 
+Hungarian officials announced that they would increase the maximum amount insured by 
+the guarantee and abolish the partial coverage of deposits (NDIF 2008a). On October 14, 
+2008, the Hungarian national assembly a dopted an amendment, which increased the 
+deposit-insurance coverage to HUF 13 million with no coinsurance (NDIF 2008b; 
+Government of Hungary 2008). The amendment came into effect the following day.  
+On October 8, 2008, Hungary’s finance minister announced that all bank deposits in Hungary 
+would receive full protection (NDIF 2008a). The finance minister  said that the unlimited 
+political guarantee would come into effect immediately and that the guarantee was not 
+subject to parliamentary approval. 
+On March 11, 2009, EU authorities required EU member states to first increase their deposit-
+insurance coverage to EUR 50,000, and then to EUR 100,000 by December 31, 2010 (EP/EC 
+2009). To comply with this directive, Hungarian officials adopted an amendment to Act CXII 
+of 1996, raising the deposit -insurance limit to the HUF equivalent of roughly EUR 50,000 
+(Government of Hungary 2009, Article 1) . The change came into effect on June 30, 2009 
+(Government of Hungary 2009, Article 13). Later, to meet the EU’s requirements, Hungarian 
+authorities raised the deposit -insurance coverage to the HUF equivalent of EUR 100,000, 
+beginning on January 1, 2011 (Government of Hungary 2011, Article 101; NDIF 2012). To do 
+so, the government adopted another amendment to Act CXII of 1996.  
+4. Administration: The NDIF administered Hungary’s deposit -insurance system. It 
+cooperated with the ministry of finance on the unlimited deposit guarantee.  
+Pursuant to Act CXII of 1996, the NDIF was established to administer Hungary’s deposit -
+insurance system (Government of Hungary 2010a, Articles 97 -8). The NDIF was a legal, 
+state-owned public entity (Government of Hungary 2010a, Article 108) . The NDIF also 
+administered guarantees on deposits (Government of Hungary 2010a, Article 103; NDIF 
+2021).8 As such, the NDIF administered the increased deposit -insurance coverage as an 
+extension of its statutory authority. 
+A managing director carried out the NDIF’s day -to-day operations and implemented the 
+decisions of the NDIF’s board of directors (Government of Hungary 2010a, Article 113). The 
+ 
+8 The state had guaranteed all deposits in full prior to 1993, when banks were government -owned under the 
+Communist system. 
+358
+Hungary Lei and Vergara
+
+--- Page 10 ---
+board of directors appointed and could dismiss the managing director (Government of 
+Hungary 2010a, Article 112). 
+The NDIF cooperated with the Hungarian supervisor and the Hungarian central bank to 
+collect data about credit institutions (Government of Hungary 2010a, Article 115). The NDIF 
+could also request data from specific credit institutions in order to carry out its statutory 
+functions. 
+The NDIF cooperated with the ministry of finance to implement the government’s unlimited 
+political guarantee. The NDIF paid depositors in full and received reimbursement from the 
+government (Government of Hungary 2010b; NDIF 2011). 
+Hungarian law also permitted a voluntary deposit -insurance system, subject to various 
+restrictions (Government of Hungary 2010a, Articles 128 -30). From the relevant 
+documentation, it appears that there was no voluntary deposit-insurance system in Hungary. 
+5. Governance: A board of directors governed the NDIF. The NDIF was also subject to 
+audits. 
+A board of directors was responsible for governing the NDIF (Government of Hungary 2010a, 
+Article 110). The board was composed of public and private individuals. Board members 
+included the ministry of finance’s administrative undersecretary, the vice president of the 
+Hungarian central bank, the chairman of the Hungarian financial supervisor, two 
+representatives from credit institutions, and the managing director (NDIF 2009). A chairman 
+and a vice president would be selected from these members, though the managing director 
+was barred from holding either post. The board’s powers included the ability to decide the 
+budget, determine the arrangements of payouts, and establish the NDIF’s fee policy, among 
+others (Government of Hungary 2010a, Article 111) . To fulfill these tasks, the NDIF could 
+utilize the Hungarian supervisor’s services. 
+The NDIF was also subject to audits by the State Audit Office (Government of Hungary 2010a, 
+Article 109). 
+6. Communication: The government communicated that their original changes to the 
+Hungarian deposit-insurance system were meant to bolster depositor confidence. 
+Later changes, they said, were adopted in compliance with EU law.  
+On October 8, 2008, when Hungarian officials announced both changes to the de posit-
+insurance system and the temporary unlimited political guarantee, they stressed that the 
+changes were adopted to further depositor trust and to compete with guarantees adopted in 
+other countries (NDIF 2008a; Sydney Morning Herald  2008). The governor of Hungary’s 
+central bank, who was present at this announcement, said that there was neither demand 
+nor need for central -bank action. The preamble to the amendment increasing depositor 
+coverage in 2008 further stated that such a change was meant to secure deposits and further 
+trust in the banking system (Government of Hungary 2008). 
+359
+Journal of Financial Crises Vol. 4 Iss. 2
+
+--- Page 11 ---
+By October 13, Hungarian officials were in negotiations with the IMF for an SBA. When they 
+signed the SBA in November, they suggested that the government had taken supererogatory 
+action by increasing depositor coverage and providing an unlimited deposit guarantee (IMF 
+2008b). Nevertheless, they said that they remained ready to take further action if necessary. 
+Following changes to EU law, Hungarian officials increased the maximum amount that the 
+NDIF insured (Government of Hungary 2009, Article 1) . This change, Hungarian officials 
+noted, was a direct response to the 2009 EU directive on deposit insurance (Government of 
+Hungary 2009, Article 14).  
+The NDIF later said that it had effectively communicated these program changes through 
+printed and electronic materials and provided assistance to banks with respect to the 
+changes (NDIF 2009; NDIF 2010). 
+7. Size of Guarantees: The NDIF raised its guarantee to HUF 13 million per depositor, 
+then the equivalent of roughly EUR 50,000, and later to EUR 100,000. The 
+government also announced an unlimited political guarantee. 
+Prior to the GFC, the NDIF insured HUF 1 million in full, and 90%  of amounts above HUF 1 
+million, up to HUF 6 million (total of HUF 5.5 million) per depositor per institution (OECD 
+2008). Following the changes in October 2008, the NDIF guaranteed HUF 13 million per 
+depositor per institution, eliminating the 10% co -insurance provision (Government of 
+Hungary 2008, Article 1).  
+Directive 2009/14/EC required all EU member states to insure at least EUR 50,000 
+immediately, and to further increase their respective coverage to EUR 100,000 by December 
+31, 2010 (EP/EC 2009) . To comply with this directive, Hungarian officials increased 
+coverage to the HUF equivalent of EUR 50,000, starting on June 30, 2009 (Government of 
+Hungary 2009, Article 1) . Hungarian officials later increased depositor coverage to EUR 
+100,000 beginning January 1, 2011, to comply with the EU’s directive (Government of 
+Hungary 2011, Article 101; NDIF 2012). 
+In addition to these legislative changes, the government also adopted a temporary unlimited 
+political guarantee, beginning on October 8, 2008 (NDIF 2008a) . In an International 
+Association of Deposit Insurers (IADI) survey, Hungarian officials said that they had ended 
+their unlimited deposit guarantee in an immediate fashion (IADI 2012). It is unclear when 
+this occurred and whether it coincided with the changes to increase depositor coverage to 
+EUR 100,000 on January 1, 2011.    
+The NDIF covered 48% of bank depo sits and 83% of deposits in credit and other 
+cooperatives at the end of 2009, b ased on the HUF 13 million deposit -insurance cap (NDIF 
+2010). 
+360
+Hungary Lei and Vergara
+
+--- Page 12 ---
+8. Sources and Size of Funding:  The NDIF had various sources of funding, including 
+one-time fees, annual fees, and funds from liquidation. The NDIF could borrow to 
+fulfill its obligations and then impose special fees to repay the loan.  The 
+government’s unlimited political guarantee was funded by the central budget. 
+Articles 118 to 122 set out the funding sources available  to the NDIF (Government of 
+Hungary 2010a, Articles 118 -22). The NDIF was allowed to collect one -time membership 
+fees, worth 0.5% of the institution’s capital base, along with annual fees. The NDIF’s annual 
+fees were uniform. Annual fees, however, were capped at 0.2% of an institution’s insured 
+deposits. The NDIF could also collect additional fees if institutions engaged in risky behavior, 
+which could not exceed 0.3% of covered deposits. Hungarian law allowed the NDIF to invest 
+its funds in government se curities or to deposit its funds with the Hungarian central bank. 
+The NDIF also received 80% of fines collected by the Hungarian supervisor.  
+The NDIF could borrow from the central bank or credit institutions in order to make 
+depositor payouts. To repay th ese loans, the NDIF could impose extraordinary fees on 
+member institutions, which could not exceed 0.2%. In the case of payouts, the NDIF received 
+the right to the liquidated assets (Government of Hungary 2010a, Article 107). 
+At the beginning of 2008, the NDIF’s deposit insurance covered HUF 5.8 trillion in deposits 
+(NDIF 2009). That rose 24% to HUF 7.2 trillion at the beginning of 2009 with the higher 
+insurance limit (NDIF 2010). Figure 1 illustrates this growth in the NDIF’s insured deposits.  
+The NDIF had HUF 69 billion in liquid assets at the beginning of 2008 available to pay 
+depositors in the event of a bankruptcy. That resulted in a fund coverage ratio of 1.2% , as 
+the NDIF calculated it. The ratio remained above 1% from 2008 to 2010 (Figure 1). 
+Figure 1: NDIF Insured Deposits (HUF billions) and Fund Ratio (January 1) 
+  
+Source: NDIF 2011. 
+361
+Journal of Financial Crises Vol. 4 Iss. 2
+
+--- Page 13 ---
+As for the government’s unlimited deposit guarantee, the guarantee was funded through the 
+government’s central budget , as noted in the case of AKH  (NDIF 2011; Government of 
+Hungary 2010b). 
+9. Eligible Institutions: Membership in the NDIF was mandatory for most credit 
+institutions. It is unclear which institutions received coverage under the 
+government’s unlimited guarantee. 
+All Hungarian -registered institutio ns were required to join the NDIF (Government of 
+Hungary 2010a, Article 97). To apply for a banking license in Hungary, applicants needed to 
+include a copy of their declaration of accession to the NDIF (Government of Hungary 2010a, 
+Article 18) . Foreign bra nches of Hungarian institutions were required to join the NDIF, 
+though they could receive coverage from their host country as well. Foreign banks operating 
+in Hungary but domiciled in the EU were not required to join the NDIF , as EU law required 
+such banks to be covered in their home country. Foreign banks operating in Hungary but 
+based outside of the EU could receive coverage from the NDIF unless prohibited by their 
+home country. If a foreign-bank branch did not join the NDIF, the institution was required to 
+inform customers about any depositor protection s, undertakings by the parent company to 
+compensate depositors, or agreements to ensure depositor compensation. 
+By year-end 2008, the NDIF insured 178 institutions (NDIF 2009). That number fell to 174 
+by year-end 2009 due to mergers (NDIF 2010). The NDIF insured 172 institutions  at year-
+end 2010 after one failure and one merger (NDIF 2011). Figure 2 illustrates this trend over 
+time. While most of the insured institutions by number were cooperatives, banks accounted 
+for more than 80% of insured deposits because of their larger average size. 
+Figure 2: Total Number of NDIF-Insured Institutions 
+ 
+Source: NDIF 2011. 
+362
+Hungary Lei and Vergara
+
+--- Page 14 ---
+It is unclear which ba nks received coverage under the government’s unlimited political 
+guarantee. When the political guarantee was announced, Hungary’s finance minister did not 
+specify whether coverage extend ed to all banks, only Hungarian -authorized banks in 
+Hungary, foreign b ranches domiciled elsewhere, or foreign-bank branches of Hungarian 
+institutions (NDIF 2008a). 
+10. Eligible Accounts: Both the NDIF and the government guarantee covered a variety 
+of deposit accounts. 
+The NDIF covered all deposit accounts  that were not excluded by Article 100 of Act CXII of 
+1996 (Government of Hungary 2010a, Article 99) . Excluded deposits included those 
+deposited by  state-owned companies, financial institutions, and the central bank 
+(Government of Hungary 2010a, Article 100) . The NDIF covered foreign-currency deposits 
+denominated in euros , in the legal tender of EU member states, or the legal tender of 
+Organization for Economic Cooperation and Development (OECD) states. 
+When Hungary’s finance minister announced the unlimited political guarantee on October 8, 
+2008, he stated that the range of guaranteed deposits would not change, giving the 
+appearance that the government planned to full y insure all NDIF -insured deposit types 
+(NDIF 2008a). 
+11. Fees (A): The NDIF collected one -time admissions fees and uniform annual fees 
+from member institutions.  It could levy a dditional fees if institutions engaged in 
+risky activities. 
+Article 119 of Act CXII of 1996 permitted the NDIF to collect fees from member institutions 
+(Government of Hungary 2010a, Article 119). The NDIF was allowed to charge institutions a 
+one-time fee, calculated as 0.5% of the institution’s capital base (Government of Hungary 
+2010a, Article 120). The NDIF also levied annual uniform fees on member institutions, which 
+considered an institution’s standing with respect to NDIF regulations and whether the 
+institution was subject to other insurance arrangements (Government of Hungary 2010a, 
+Article 121) . The NDIF could also use credit ratings to determine fees. Fees were paid 
+quarterly, and Hungarian law stipulated that fees could not exceed 0.2% on covered deposits.  
+If an institution engaged in risky activities, the NDIF could levy additional fees (Government 
+of Hungary 2010a, Article 121) . This addition al fee c ould not exceed 0.3% of covered 
+deposits. In such a case, the NDIF could request opinions from the Hungarian central bank 
+and supervisor, and the credit institution could comment. 
+The premium rate was 0.009% at the beginning of 2008. At the end of 2008, the NDIF’s board 
+more than doubled the premium rate to 0.02%, effective at the beginning of 2009 . After 
+doubling the compensation limit to EUR 100,000, the NDIF set the premium rate at 0.06% in 
+2011 (NDIF 2009; NDIF 2012). 
+In 2008, the NDIF collected HUF 1.0 billion in annual fees ; it collected  no one-time fees or 
+risk-taking fees  in that year (NDIF 2009) . In 2009, the NDIF collected HUF 2. 3 billion in 
+annual fees and HUF 10 million in one-time admissions fees (NDIF 2010). In 2010, the NDIF 
+363
+Journal of Financial Crises Vol. 4 Iss. 2
+
+--- Page 15 ---
+collected HUF 2.4 billion in annual fees and HUF 228,000 from two members for risk-taking 
+(NDIF 2011). 
+Fees (B): The NDIF could charge special fees to repay loans. 
+Article 119 of Act CXII of 1996 allowed the NDIF to borrow from either the central bank or 
+credit institutions. To repay these loans, the NDIF could levy additional, special fees on NDIF-
+insured institutions (Government of Hungary 2010a, Article 121) . Arti cle 121 of Act CXII 
+required that these fees be uniform, and that the extent and timing of the fees be in 
+accordance with the loan-repayment conditions. The same article prohibited these fees from 
+exceeding 0.2% of insured deposits. 
+12. Process for Exercising Guarantee (A): Three triggers could activate the NDIF’s 
+exercise. The NDIF would then pay out depositors , including those under the 
+unlimited political guarantee. The legislature changed the law in 2009 to shorten 
+the amount of time allowed for payouts. 
+Articles 105 and 106 of Act CXII of 1996 set out the NDIF’s exercise process. The NDIF could 
+be triggered by the freezing of deposits, supervisory action, or the initiation of liquidation 
+proceedings. The NDIF was required to publish news of the guarantee’ s exercise, and the 
+payout procedure, in two national dailies. Following Hungary’s 2009 amendment to the 
+deposit-insurance system, the NDIF also had to post this information on its website 
+(Government of Hungary 2009, Article 4) . The NDIF would reach an ag reement with the 
+failed institution as to how to perform the tasks associated with payouts. The NDIF would 
+then pay depositors up to the insured limit, with the NDIF gaining the right to reimbursement 
+in liquidation (Government of Hungary 2010a, Articles 105, 107). Payments would be made 
+via transfer to another credit institution, check, or direct payment. The NDIF would not pay 
+compensation of HUF 500 or less.  
+Under the Hungarian government’s unlimited political guarantee, the ministry of finance 
+entered into an agreement with the NDIF, according to which the NDIF would cover balances 
+above the deposit -insurance limit, which would be reimbursed from the central budget 
+(NDIF 2011; Government of Hungary 2010b). 
+Following Directive 2009/14/EC, the EU required all member states to reduce their payout 
+times to 20 working days (EP/EC 2009) . In line with this directive, in 2009, Hungarian 
+authorities passed Act XLI of 2009, which reduced the payout time to a maximum o f 20 
+working days, with the possibility of a 10-day extension (Government of Hungary 2009, 
+Article 4). To meet this new timetable, Hungarian authorities required both the NDIF and 
+credit institutions to maintain up -to-date information systems and to test t heir payout 
+capacity (Government of Hungary 2009, Article 6) . The NDIF reported that, to meet this 
+requirement, it implemented a new high -capacity server and purchased new data software 
+(NDIF 2010).  
+In 2010, AKH failed, and the NDIF was activated (NDIF 2011). The NDIF insured HUF 3. 3 
+billion in deposits, which were owed to 1,190 depositors. The government’s political 
+guarantee provided for compensation above the threshold (Government of Hungary 2010b). 
+364
+Hungary Lei and Vergara
+
+--- Page 16 ---
+In 2011, JST failed, and the NDIF was again activated (NDIF 2012) . In the case of JST, 
+depositors were reimbursed the HUF equivalent of EUR 100,000, totaling HUF 9.1 billion 
+owed to 5,329 depositors. 
+Process for Exercising Guarantee  (B): The NDIF was required to test its payout 
+capacity. 
+Following changes to the deposit -insurance system in light of Directive 2009/14/EC, the 
+NDIF was required to regularly test its payout capacity, so as to ensure a maximum payout 
+time of 20 days (Government of Hungary 2009, Articles 3, 6). This provision came into effect 
+on January 1, 2010 (Government of Hungary 2009, Article 13).  
+13. Other Restrictions on Eligible Institutions/Accounts:  NDIF-insured institutions 
+were subject to heightened monitoring and data requirements. 
+According to Act XLI of 2009, which increased Hungary’s dep osit insurance to the HUF 
+equivalent of EUR 50,000, the Hungarian supervisor was allowed to monitor institutions’ 
+compliance with deposit -insurance regulations, particularly with respect to data 
+(Government of Hungary 2009, Article 6) . Notably, institution s were required to maintain 
+data to allow for the potential payout of deposits. 
+14. Duration: The changes to the deposit-insurance limit were adopted as permanent. 
+It was unclear when the temporary unlimited political guarantee expired. 
+When the government legislated to increase the Hungarian deposit -insurance limit, the 
+changes were adopted as permanent, first to HUF 13 million, and then to EUR 50,000 and 
+EUR 100,000 (Government of Hungary 2008; Government of Hungary 2009, Article 1; 
+Government of Hungary 2011, Article 101).  
+On October 8, 2008, when the Hungarian finance minister announced an unlimited deposit 
+guarantee for deposits in Hungary, he did not say when that political guarantee would expire 
+(NDIF 2008a) . Even after the initial announce ment, it was unclear when the unlimited 
+guarantee would be removed (FSB 2010; IADI 2011). In an IADI survey, Hungarian officials 
+said that they had ended their unlimited deposit guarantee in an immediate fashion. It is 
+unclear when this occurred and whether it coincided with the changes to increase depositor 
+coverage to EUR 100,000 on January 1, 2011.    
+  
+365
+Journal of Financial Crises Vol. 4 Iss. 2
+
+--- Page 17 ---
+References and Key Program Documents 
+Documents cited in the text are introduced with a parenthetical author -date citation. 
+Documents that are relevant to  this case but have not been cited in text do not include this 
+parenthetical reference. 
+Program Summaries 
+(IMF 2011) International Monetary Fund (IMF). 2011. “Hungary: Ex Post Evaluation of 
+Exceptional Access Under the 2008 Stand-By Arrangement.” IMF Country Report No. 
+11/145, June 2011. 
+An overview of Hungary’s IMF Stand-by Arrangement. 
+https://ypfs.som.yale.edu/library/hungary-ex-post-evaluation-exceptional-access-under-
+2008-stand-arrangement 
+(Kroes 2010) Kroes, Neelie. 2010.“Letter to Péter Balázs, Foreign Minister of Hungary, 
+January 14, 2010. 
+Letter to the Hungarian foreign minister regarding Hungary’s liquidity scheme. 
+https://ypfs.som.yale.edu/library/document/state-aid-nn-682009-hungary-liquidity-
+scheme-banks 
+Legal/Regulatory Guidance 
+(EP/EC 2009) European Parliament and European Council (EP/EC). 2009. “Directive 
+2009/14/EC of the European Parliament and of the Council of 11 March 2009 Amending 
+Directive 94/19/EC on Deposit-Guarantee Schemes as Regards the Coverage Level and the 
+Payout Delay.” Official Journal of the European Union 68/3, March. 
+Directive requiring EU member states to update their deposit-guarantee systems, in 
+accordance with principles established by the ministers of finance. 
+https://ypfs.som.yale.edu/library/document/directive-200914ec-european-parliament-
+and-council-11-march-2009-amending 
+(Government of Hungary 2008) Government of Hungary. 2008. “Act LVI of 2008.” 
+Law increasing Hungarian deposit-insurance coverage to HUF 13 million. 
+https://ypfs.som.yale.edu/library/act-lvi-2008 
+(Government of Hungary 2009) Government of Hungary. 2009. “Act XLI of 2009.” 
+Law amending the Hungarian deposit-insurance system in light of EU Directive 2009/14/EC. 
+https://ypfs.som.yale.edu/library/act-xli-2009 
+(Government of Hungary 2010a) Government of Hungary. 2010a. “Act CXII of 1996 on 
+Credit Institutions and Financial Undertakings.” 
+Law laying out the Hungarian deposit-insurance system. 
+https://ypfs.som.yale.edu/library/act-cxii-1996-credit-institutions-and-financial-
+undertakings 
+366
+Hungary Lei and Vergara
+
+--- Page 18 ---
+(Government of Hungary 2010b) Government of Hungary. 2010b. “49/2010. (III. 5.) 
+Government Decree.” 
+Decree establishing how the Hungarian government would pay depositors given its political 
+deposit guarantee. 
+https://ypfs.som.yale.edu/library/492010-iii-5-government-decree 
+(Government of Hungary 2011) Government of Hungary. 2011. “Act CXII of 1996 on Credit 
+Institutions and Financial Undertakings.” 
+Amended law setting out the Hungarian deposit-insurance system. 
+https://ypfs.som.yale.edu/library/act-cxii-1996-credit-institutions-and-financial-
+undertakings-0 
+Media Stories 
+(AFP 2008) Agence France-Presse (AFP). 2008. “Austria Announces Unlimited Guarantee 
+for Bank Savings,” October 8, 2008. 
+Agence France-Presse article about Austria’s unlimited deposit guarantee. 
+https://ypfs.som.yale.edu/library/document/austria-announces-unlimited-guarantee-
+bank-savings 
+(Gow and Chrisafis 2008) Gow, David, and Angelique Chrisafis. 2008. “German Deposits 
+Guarantee Blows Hole in EU’s Action Plan.” The Guardian, October 5, 2008. 
+Article discussing Germany’s decision to implement an unlimited deposit guarantee. 
+https://ypfs.som.yale.edu/library/german-deposits-guarantee-blows-hole-eus-action-plan 
+(Sydney Morning Herald 2008) Sydney Morning Herald. 2008. “Hungary to Guarantee All 
+Bank Deposits,” October 9, 2008. 
+News article discussing Hungary’s unlimited deposit guarantee. 
+https://ypfs.som.yale.edu/library/hungary-guarantee-all-bank-deposits 
+Press Releases/Announcements 
+(Bajuk and Kranjec 2008) Bajuk, Andrej, and Marko Kranjec. 2008. “Joint Statement of the 
+Government of the Republic of Slovenia and the Bank of Slovenia.” Press release, October 8, 
+2008. 
+Statement in which Slovenian officials announced the Unlimited Deposit Guarantee. 
+https://ypfs.som.yale.edu/library/document/joint-statement-government-republic-
+slovenia-and-bank-slovenia 
+(EC 2008) European Council (EC). 2008. “2894th Council Meeting Economic and Financial 
+Affairs, Luxembourg, 7 October 2008.” Press release no. C/08/279. 2894th Council 
+meeting, Luxembourg. 
+Press release summarizing the Council’s coordinated response to the GFC. 
+https://ypfs.som.yale.edu/library/2894th-council-meeting-economic-and-financial-affairs-
+luxembourg-7-october-2008 
+367
+Journal of Financial Crises Vol. 4 Iss. 2
+
+--- Page 19 ---
+(NDIF 2008a) National Deposit Insurance Fund of Hungary (NDIF). 2008a. “The Protection 
+of Domestic Bank Deposits Is Rising Significantly.” Press release, October 9, 2008. 
+Media release focusing on changes to the Hungarian deposit-insurance system, including the 
+government’s political guarantee. 
+https://ypfs.som.yale.edu/library/protection-domestic-bank-deposits-rising-significantly 
+(NDIF 2008b) National Deposit Insurance Fund of Hungary (NDIF). 2008b. “The Amount of 
+Deposit Insurance Increased to HUF 13 million.” Press release, October 14, 2008. 
+Media release discussing an increase to Hungary’s deposit-insurance coverage. 
+https://ypfs.som.yale.edu/library/amount-deposit-insurance-increased-huf-13-million 
+Reports/Assessments 
+(FSB 2010) Financial Stability Board (FSB). 2010. “Update on Unwinding Temporary 
+Deposit Insurance Arrangements.” 
+Report examining how to exit deposit-insurance schemes. 
+https://ypfs.som.yale.edu/library/document/update-unwinding-temporary-deposit-
+insurance-arrangements 
+(Gárdos 2008) Gárdos, István. 2008. “IMF, European Union and World Bank Support Credit 
+Crisis Relief Measures.” 
+Overview of Hungary’s initial crisis-response measures, including the guarantee and 
+recapitalization schemes. 
+https://ypfs.som.yale.edu/index.php/library/imf-european-union-and-world-bank-
+support-credit-crisis-relief-measures 
+(IADI 2012) International Association of Deposit Insurers (IADI). 2012. “Transitioning from 
+a Blanket Guarantee or Extending Coverage to a Limited Coverage System.” 
+Report discussing how to transition from unlimited or extended deposit insurance to a more 
+limited scheme. 
+https://ypfs.som.yale.edu/library/document/transitioning-blanket-guarantee-or-
+extending-coverage-limited-coverage-system 
+(IMF 2008a) International Monetary Fund (IMF). 2008a. “IMF Executive Board Approves 
+12.3 billion Euro Stand-By Arrangement for Hungary.” Press release, November 6, 2008. 
+Official IMF announcement of the Stand-By Arrangement. 
+https://ypfs.som.yale.edu/library/imf-executive-board-approves-eu123-billion-stand-
+arrangement-hungary 
+(IMF 2008b) International Monetary Fund (IMF). 2008b. “Hungary: Request for Stand-By 
+Arrangement-Staff Report.” IMF Country Report No. 08/361, November 2008. 
+Document pressing Hungary’s request for a Stand-By Arrangement in 2008. 
+https://ypfs.som.yale.edu/library/hungary-request-stand-arrangement 
+(NDIF 2009) National Deposit Insurance Fund of Hungary (NDIF). 2009. Annual Report 
+2008. 
+368
+Hungary Lei and Vergara
+
+--- Page 20 ---
+Annual report discussing the NDIF’s activities. 
+https://ypfs.som.yale.edu/library/ndif-annual-report-2008 
+(NDIF 2010) National Deposit Insurance Fund of Hungary (NDIF). 2010. Annual Report 
+2009. 
+Report discussing the NDIF’s activities in 2009. 
+https://ypfs.som.yale.edu/library/ndif-annual-report-2009 
+(NDIF 2011) National Deposit Insurance Fund of Hungary (NDIF). 2011. Annual Report 
+2010. 
+Annual report focusing on the NDIF’s activities in 2010. 
+https://ypfs.som.yale.edu/library/ndif-annual-report-2010 
+(NDIF 2012) National Deposit Insurance Fund of Hungary (NDIF). 2012. Annual Report 
+2011. 
+Report examining the NDIF’s activities in 2011. 
+https://ypfs.som.yale.edu/library/ndif-annual-report-2011 
+(NDIF 2021) National Deposit Insurance Fund of Hungary (NDIF). 2021. “Compass to 
+Deposit Insurance.” 
+Document discussing the NDIF and its coverage. 
+https://ypfs.som.yale.edu/library/compass-deposit-insurance 
+(OECD 2008) Organisation for Economic Co-Operation and Development (OECD). 2008. 
+“Financial Crisis: Further Issues Regarding Deposit Insurance and Related Financial Safety 
+Net Aspects.” 
+Document examining deposit insurance in light of the GFC. 
+https://ypfs.som.yale.edu/library/financial-crisis-further-issues-regarding-deposit-
+insurance-and-related-financial-safety 
+Key Academic Papers 
+(Buchholtz 2020) Buchholtz, Alec. 2020. “The Hungarian Guarantee Scheme (Hungary 
+GFC).” Journal of Financial Crises 2, no. 3: 739–56. 
+Case study discussing Hungary’s bank-debt guarantee program. 
+https://ypfs.som.yale.edu/node/4694 
+(Buchholtz 2021) Buchholtz, Alec. 2021. “Hungary Recapitalization Scheme.” Journal of 
+Financial Crises 3, no. 3: 152–68. 
+YPFS case study on Hungary’s Recapitalization Scheme, which only saw one participant. 
+https://ypfs.som.yale.edu/node/4579 
+(Dreyer 2021) Dreyer, Mallory. 2021. “The Hungarian Loan Consolidation Program.” 
+Journal of Financial Crises 3, no. 2: 231–46. 
+Case study discussing Hungary’s loan-consolidation program. 
+https://ypfs.som.yale.edu/library/hungarian-loan-consolidation-program 
+369
+Journal of Financial Crises Vol. 4 Iss. 2
+
+--- Page 21 ---
+(IADI 2011) International Association of Deposit Insurers (IADI). 2011. “Discussion Paper 
+on Cross Border Deposit Insurance Issues Raised by the Global Financial Crisis.” 
+IADI paper summarizing the cross-border implications of deposit-insurance events arising 
+from the 2008 GFC. 
+https://ypfs.som.yale.edu/library/document/discussion-paper-cross-border-deposit-
+insurance-issues-raised-global-financial 
+(Mott and Buchholtz 2022) Mott, Carey, and Alec Buchholtz. 2022. “Hungary: Liquidity 
+Scheme, 2009–2013.” Journal of Financial Crises, Broad-Based Emergency Liquidity 4, no. 2. 
+Case study examining liquidity support in Hungary. 
+https://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss2/42 
+(Petrovic and Tutsch 2009) Petrovic, Ana, and Ralf Tutsch. 2009. “National Rescue 
+Measures in Response to the Current Financial Crisis.” Legal Working Paper Series, No. 8, 
+July 2009. 
+Piece detailing financial responses to the GFC by country. 
+https://ypfs.som.yale.edu/node/4151 
+ 
+Copyright 2022 © Yale University. All rights reserved. To order copies of this material or to 
+receive permission to reprint any or all of this document, please contact the Yale Program on 
+Financial Stability at ypfs@yale.edu. 
+370
+Hungary Lei and Vergara

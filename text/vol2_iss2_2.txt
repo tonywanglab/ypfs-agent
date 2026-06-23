@@ -1,0 +1,1243 @@
+--- Page 1 ---
+Journal of Financial Crises Journal of Financial Crises 
+Volume 2 Issue 2 
+2020 
+The Federal Reserve’s Financial Crisis Response A: Lending & The Federal Reserve’s Financial Crisis Response A: Lending & 
+Credit Programs for Depository Institutions Credit Programs for Depository Institutions 
+Rosalind Z. Wiggins 
+Yale School of Management 
+Andrew Metrick 
+Yale School of Management 
+Follow this and additional works at: https://elischolar.library.yale.edu/journal-of-financial-crises 
+ Part of the Economic History Commons, Economic Policy Commons, Finance Commons, International 
+Economics Commons, Macroeconomics Commons, and the Policy History, Theory, and Methods 
+Commons 
+Recommended Citation Recommended Citation 
+Wiggins, Rosalind Z. and Metrick, Andrew (2020) "The Federal Reserve’s Financial Crisis Response A: 
+Lending & Credit Programs for Depository Institutions," Journal of Financial Crises: Vol. 2 : Iss. 2, 34-66. 
+DOI: https://doi.org/10.17132/2693-3179.1064 
+Available at: https://elischolar.library.yale.edu/journal-of-financial-crises/vol2/iss2/2 
+This Case Study is brought to you for free and open access by the Journal of Financial Crises and 
+EliScholar – A Digital Platform for Scholarly Publishing at Yale. For more information, please contact 
+journalfinancialcrises@yale.edu.
+
+--- Page 2 ---
+READERS TAKE NOTICE: READERS TAKE NOTICE: 
+As of April 2024, the YPFS Resource Library’s site domain has changed 
+to https://elischolar.library.yale.edu/ypfs-financial-crisis-resource-library/. 
+Please be aware that upon clicking any of the URL references to 
+the former Resource Library domains, either https://ypfs.som.yale.edu 
+or https://ypfsresourcelibrary.blob.core.windows.net/, in the 
+"References/Key Program Documents" section of a case study, 
+readers will encounter a "page not found" error. readers will encounter a "page not found" error. 
+Readers can still retrieve a given resource cited within this case study 
+on the new site  by searching by searching here  for the title cited. for the title cited. 
+This case study is available in Journal of Financial Crises: https://elischolar.library.yale.edu/journal-of-financial-
+crises/vol2/iss2/2
+
+--- Page 3 ---
+The Federal Reserve ’s Financial Crisis Response A:  
+Lending & Credit Programs for Depository Institutions1 
+ 
+Rosalind Z. Wiggins 2 and Andrew  Metrick 3,4 
+Yale Program on Financial Stability Case Study 2015-1a-v2 
+July 15, 2015, revised: July 15, 2020 
+Abstract 
+Beginning in summer 2007 , the Federal Reserve (the Fed) was called upon to address a 
+severe disruption in the interbank lending markets sparked by a downturn in the subprime 
+mortgage market. As these developments began to impact the ability of banks to raise 
+adequate funding, the Fed encouraged them to utilize the Discount Window (DW), its 
+standing facility for lending to depository institutions, and repeatedly decreased the lending 
+rate to make the facility more accessible. Despite the Fed’s efforts, for a number of reasons, 
+including historical perceptions of stigma, banks were reluctant to utilize the DW. In 
+December 2007, the Federal Reserve introduced the Term Auction Facility (TAF), which 
+provided term loans via auction utilizing the same collateral that could have been used at the 
+DW. The TAF was immediately and aggressively utilized and would become one of the largest 
+facilities employed by the Fed to combat the financial crisis . Ultimately, the Fed lent a total 
+of $3.8 trillion to 416 banks under the TAF. This case examines the Fed’s use of the DW and 
+the TAF to provide liquidity to depository institutions in fighting the financial crisis. 
+_____________________________________________________________________ 
+1 This case study is one of five Yale Program on Financial Stability (YPFS) case modules considering the Federal 
+Reserve’s credit and lending responses to the global financial crisis:  
+• The Federal Reserve’s Financial Crisis Response A: Lending & Credit Programs for De pository 
+Institutions. 
+• The Federal Reserve’s Financial Crisis Response B: Lending & Credit Programs for Primary 
+Dealers. 
+• The Federal Reserve’s Financial Crisis Response C: Providing U.S. Dollars to Foreign Central Banks. 
+• The Federal Reserve’s Financial Crisis Response D: Commercial Paper Market Facilities. 
+• The Federal Reserve’s Financial Crisis Response E: The Term Asset -Backed Securities Loan 
+Facility.  
+Cases are available from the Journal of Financial Crises at https://elischolar.library.yale.edu/journal -of-
+financial-crises/. 
+2 Director, The Global Financial Crisis Project and Senior Editor, Yale Program on Financial Stability (YPFS), 
+Yale School of Management.  
+3 Janet L. Yellen Professor of Finance and Management, and YPFS Program Director, Yale School of Management. 
+4 The authors would like to thank Patricia Mosser, Senior Research Scholar, School of International and Public 
+Affairs, Columbia University for her comments on this paper. 
+34
+
+--- Page 4 ---
+1.  Introduction 
+On August 9, 2007, the French bank BNP Paribas 5 announced that it was suspending 
+redemptions from two of its investment funds that held substantial portfolios of subprime 
+mortgages because of an inability to value the funds. The increasing turmoil in the subprime 
+mortgage market was creating illiquidity in the secondary market. This announcement set 
+off a panic among investors that led to a sudden contraction in lending as institutions pulled 
+back from investments that they perceived as having increased risk. The downturn in the 
+subprime mortgage market quickly collapsed the asset-backed securities commercial paper 
+(ABCP) market, which incorporated many subprime mortgages, and then spread to other 
+parts of the interbank funding markets. Despite having large depository sources of funds, 
+banks also relied on ABCP and securitization to fund their operations. As these markets 
+contracted, banks and other financial institutions soon experienced difficulty in meeting 
+their funding needs. There was concern that institutions would begin to tighten their lending 
+standards slowing their lending to business and households and impacting th e economy 
+beyond the financial system. 
+The Federal Reserve (the Fed) responded quickly to the tightening in the credit markets by 
+cutting the primary credit rate, the main rate at which it lends to depository institutions 
+through its Discount Window (DW), its main standing facility for providing liquidity to 
+eligible institutions. However, banks were reluctant to borrow from the DW for a number of 
+reasons including that they were afraid that doing so would be perceived as a sign of financial 
+weakness. When pressures in the credit markets continued, the Fed enacted, in December 
+2007, the Term Auction Facility (TAF), an innovative auction funding program to make 
+needed liquidity accessible to depository institutions and maintain the flow of credit 
+throughout the economy. 
+In this case we explore the Fed’s use of its conventional monetary policy tools as lender of 
+last resort to provide critical liquidity to depository institutions during the Global Financial 
+Crisis. Section 2 discusses the basics of the Fed’s lending powers; Section 3 discusses the DW, 
+while Section 4 discusses the problems of stigma associated with the DW; Section 5 explains 
+in detail the TAF; and lastly, Section 6 examines the impact of the DW and TAF lending during 
+the crisis.   
+_____________________________________________________________________ 
+5 See Bloyd (2007).  
+35
+Journal of Financial Crises Vol. 2 Iss. 2
+
+--- Page 5 ---
+Questions 
+1. What is the primary function of the Discount Window and was it an effective tool in 
+the Federal Reserve’s efforts to combat the crisis? Why? Why not?  
+2. The Fed reduced the federal funds rate 10 times between August 2007 and December 
+2008 to an unprecede nted low level. During that same period, it also adjusted the 
+spread between the federal funds rate and the D W’s primary credit rate. Considering 
+the timing and magnitude of these changes, were they effective in serving their 
+intended purpose?  
+3. What other options were available to the Fed to provide banks with the needed 
+liquidity? Why do you think these other options were not implemented?  
+4. What were the intended advantages of the TAF over the DW? What elements of the 
+TAF affected these advantages? Were these advantages realized in the operation of the 
+TAF? 
+5. Did the DW and TAF effectively complement each other? Were there redundancies 
+that could have been avoided? What does the co -existence of these two programs 
+reveal about the Fed’s tools for fighting the crisis?  
+2. The Federal Reserve’s Lending Powers  
+In its role as lender of last resort (LOLR) and keeper of monetary policy , the Fed has three 
+basic tools: reserve requirements, the DW and open market operations (OMOs). The Fed sets 
+the amount of reserves that depository institutions are required to maintain with it to secure 
+their operations. The Fed makes loans available to depository institutions 6 through the DW 
+at rates established by the Fed, the d iscount rate. Through adjustments via its OMOs (repo 
+and reverse repo loans with primary dealers), the Fed influences the demand for and amount 
+of balances that depository institutions in aggregate hold at the Fed, and therefore the 
+targeted federal funds rate.  
+Traditionally, the prime credit rate at the DW has been 100 basis points higher than the 
+target federal funds rate.7 This made the DW less attractive and more expensive, consistent 
+with the Fed’s role a s LOLR. DW loans are made to banks by their re gional Federal Reserve 
+Bank with which they have established a relationship  and posted collateral . DW lending is 
+_____________________________________________________________________ 
+6 The Fed only has authority to lend to depository institutions and bank holding companies through its Discount 
+Window. A broader group of firms, including the primary dealers, some who are not deposit ory institutions, 
+may borrow from the OMOs, and thus, access funds at the federal funds rate. (See Wiggins and Metrick 2016B 
+for a discussion of the Fed’s use of these mechanisms to provide liquidity to Primary Dealers during the crisis.) 
+7 There are actually three rates at the Discount Window. The primary credit rate is available to banks in sound 
+financial condition. The secondary credit rate is available to banks that are not eligible for the primary credit 
+rate. The seasonal credit rate applies to loans provided to usually smaller banks that experience a recurring 
+variation in seasonal liquidity demand, usually banks serving agriculture, tourism , or other similar industries. 
+(Gilbert et al. 2012, 224). 
+36
+The Federal Reserve’s Financial Crisis Response A Wiggins and Metrick
+
+--- Page 6 ---
+usually for overnight terms and must be fully secured by collateral. By tradition, not 
+requirement, the 12 Reserve Banks complied with common c ollateral rules. It should be 
+noted, however, as will be discussed later, for a number of reasons DW lending to banks has 
+historically been fairly minimal.  
+In addition, the Fed has the ability to make loans through its OMOs on an as-needed basis in 
+order to offset other changes in its balance sheet and adjust the amount of reserves that it 
+holds in order to maintain the federal funds rate around the target established by the Federal 
+Open Market Committee (FOMC).8 This lending was usually in the form of overnight repo or 
+reverse repo lending through its primary dealers  against highly restricted classes of 
+collateral that are limited by statute, specifically, U .S. Treasury and U.S. government agency 
+securities, including mortgage -backed securities issued b y Fannie Mae, Freddie Mac , and 
+Ginnie Mae. 
+Collateral for Discount Window Loans  
+All DW loans (and later loans under the TAF) were made with recourse to the borrower and 
+also had to be “secured to the satisfaction of the Federal Reserve” bank making the loan and 
+supported by “acceptable collateral.” Acceptable collateral included most performing loans 
+and most investment -grade securities, although for some types of securities (including 
+commercial mortgage-backed securities, collateralized debt obligations,  collateralized loan 
+obligations, and certain non -dollar-denominated foreign securities) only AAA -rated 
+securities were accepted. Instruments that were issued by the borrower or its affiliates were 
+not acceptable as collateral.  
+Banks had to establish a bo rrowing relationship and deposit collateral with a Federal 
+Reserve bank before they could execute a loan.  Therefore, some banks would set up a 
+relationship and deposit collateral just to ensure that they would be able to borrow from the 
+Fed should the need  arise. Assets accepted as collateral were assigned a “lendable value ,” 
+roughly fair market value less an applicable haircut . 9 Haircuts varied greatly based on the 
+type of asset and its duration. Haircuts were lowest for high-quality assets of very short-term 
+duration and greatest for low-quality assets of long-term duration. Haircuts applied only to 
+assets for which there were market prices being quoted. For assets for which a market price 
+could not readily be obtained, even AAA-rated assets (such as certain collateralized bonds 
+during the crisis ), an internally modeled fair market value estimate based on comparable 
+_____________________________________________________________________ 
+8 The discount rates and reserve req uirements are proposed by the board of directors of the regional Reserve 
+Banks and are approved by the Board of Governors of the Federal Reserve System. The Federal Open Market 
+Committee (FOMC) is responsible for open market operations and setting the fede ral funds rate.  
+9 “Lendable value is determined as the market price of the asset less a haircut , or, when a market price is not 
+available, an internally modeled fair market value estimate less a haircut. Haircuts reflect credit risk and, for 
+traded assets, the historical volatility of the asset ’s price and the liquidity or illiquidity of the market in which 
+the asset is traded. The Federal Reserve’s haircuts are generally in line with typical market practice. The Federal 
+Reserve applies larger haircuts—and thus assigns lower lendable values—to assets for which no market price 
+is available than to comparable assets for which a market price is available. Borrowers may be required to 
+pledge additional collateral if their financial condition weakens” (Fed. Res.  website).  
+37
+Journal of Financial Crises Vol. 2 Iss. 2
+
+--- Page 7 ---
+assets was assigned. And in the case of loans, the margin for assets with a term greater than 
+ten years was applied10.  
+3. Discount Window Lending During the Crisis 
+On August 10, 2007, the day after BNP Paribas made its announcement, the Federal Reserve 
+announced that it was available to provide liquidity “to facilitate the orderly functioning of 
+financial markets” in light of the current circumstances where “depository institutions may 
+experience unusual funding needs because of dislocations in money and credit markets.”  At 
+that time the Fed did not take any action to make its DW funding any more attractive. Its 
+stance was one of reassurance. It had money to lend and banks could borrow at the then 
+primary credit rate of 6.25% (Fed. Res. Aug. 10, 2007).  
+However, one week later, on August 17, the Fed lowered its primary credit rate by 50 basis 
+points to a rate of 5.75%. Significantly, this halved the traditional 100 basis point spread 
+between the DW rate and the federal funds rate. Also, in response to a shortening of credit 
+tenure in the market, the Fed changed the term of its DW lending from overni ght to permit 
+loans for up to 30 days. It further committed to maintain these liberal terms until it 
+“determine[d] that market liquidity has improved materially” in order to “provide 
+depositories with greater assurance about the cost and availability of funding” (Fed Res. Aug. 
+17, 2008). 
+A month later, on September 18, 2007, the Fed again made a 50-basis-point reduction in the 
+primary credit rate. As shown in Figure 1, it would repeat this action and continue to reduce 
+the rate aggressively over the next 90 days in an effort to stimulate the banks to borrow. By 
+December 2007, the fed funds rate and primary credit rate were at 4.25% and 4.75%, 
+respectively. A year later, in the midst of the worst financial upheaval since the Great 
+Depression, the rates would stand at .25% and .50%, respectively. 
+This aggressive campaign by the Fed was recognition of the brewing volatility in the credit 
+markets as the subprime mortgage market corrected. As early as August 10, 2007, the credit 
+markets began to react to increased  concerns about counterparty risk and liquidity by 
+demanding increased rates for funding, especially with respect to unsecured lending. The 
+Fed’s actions were an attempt to ensure the banks and the investment community that the 
+Fed would provide the liquid ity needed. By assuring that the liquidity would be available,  
+the Fed hoped to prevent the problems in the mortgage market from spilling over to other 
+credit markets and ultimately impacting the greater economy.  
+However, volatility continued. Soon, some ABCP issuers found it difficult to roll  over their 
+maturing paper (which sometimes incorporated subprime mortgages ), and a run on ABCP 
+ensued. The types of collateral that lenders would accept became more constrained as 
+worries about structured securities increased. Banks, both foreign and domestic,  which 
+relied on securitization to manage loan inventory and fund future lending were faced with 
+_____________________________________________________________________ 
+10 For more details regarding the Fed’s DW loan collateral program, see The Federal Reserve System Guide to 
+Discount Window Collateral, accompanying Collateral Margins Table, and Operating Circular No. 10.  
+38
+The Federal Reserve’s Financial Crisis Response A Wiggins and Metrick
+
+--- Page 8 ---
+having to take assets onto their balance sheets and also a retraction in their funding sources. 
+They scrambled to fund these new assets and fill their funding gaps through a combination 
+of unsecured CP, repos, and notably, U.S. banks financed mortgages through loans from the 
+Federal Home Loan Bank System.11 These alternative sources enabled banks to moderate the 
+effects of the market upheaval. However, there still was concern that to preserve their 
+liquidity, banks in this situation might begin to tighten the credit that they made available to 
+households and businesses, weakening in the economy (Fed. Res. Sept. 17, 2007).   
+ 
+FIGURE 1: Changes to Federal Lending Rates—2007 to 2010  
+Source: Federal Reserve 2008 Developments.  
+The continued disruption in the credit markets compelled the Fed to seek ways to make the 
+DW more effective. In December 2007, it introduced the Term Auction Facility (discussed 
+below), a mechanism that would make DW funds available to banks through a mark et 
+(auction) determined price for term loans every two weeks. The TAF would be aggressively 
+utilized even as the DW was still shunned.  
+Even so, on March 16, 2008, following the near collapse of Bear Stearns, and significant 
+continued deterioration in the term funding markets, the Federal Reserve announced that it 
+_____________________________________________________________________ 
+11 For a discussion of Federal Home Loan  Bank System lending during the crisis see Ashcraft, Bech and Frame 
+(2008). 
+ 
+Date 
+ 
+Discount rate (change) Fed funds target rate/range 
+(change) 
+Jan - July, 2007 6.25% 5.25% 
+August 17, 2007 5.75% (−50 bp) 5.25% (no change) 
+September 18, 2007 5.25% (−50 bp) 4.75% (−50 bp) 
+October 31, 2007 5.00% (−25 bp) 4.50% (−25 bp) 
+December 11, 2007 4.75% (−25 bp) 4.25% (−25 bp) 
+January 22, 2008 4.00% (−75 bp) 3.50% (−75 bp) 
+January 30, 2008 3.50% (−50 bp) 3.00% (−50 bp) 
+March 16, 2008 3.25% (−25 bp) 3.00% (no change) 
+March 18, 2008 2.50% (−75 bp) 2.25% (−75 bp) 
+April 30, 2008 2.25% (−25 bp) 2.00% (−25 bp) 
+October 8, 2008 1.75% (−50 bp) 1.50% (−50 bp) 
+October 29, 2008 1.25% (−50 bp) 1.00% (−50 bp) 
+December 16, 2008 0.50% (−75 bp) 0–0.25% (−75 bp) 
+January 16, 2009 0.50% (no change) 0-0.25% (no change) 
+February 18, 2010 0.75% (+25bp) 0−0.25% (no change) 
+39
+Journal of Financial Crises Vol. 2 Iss. 2
+
+--- Page 9 ---
+was reducing the spread for DW lending over the federal funds rate to 25 basis points, (to 
+3.25% and 3.00% respectively) (Fed. Bd of Gov. March 16, 2008). This was quickly followed 
+by a further 75-basis-point reduction in both the federal funds rate (to 2.25%) and the DW 
+rate (down to 2.5%) (Fed Bd of Gov., March 18, 2008). The Fed also increased the maximum 
+maturity for DW loans to 90 days.  
+Although at this time, the TAF had supplanted the DW as the main source of government 
+funding utilized by banks in need (See Figure 2 .), these actions by the Fed in lowering the 
+discount rate recognized that the already stressed market might yet be overtaxed by the 
+effects of Bear Stearns. It was also recogniti on of the sudden nature of Bear’s demise. 12 A 
+rash of investors refusing to roll over funding could similarly cause an otherwise solvent 
+bank to experience a severe hole in its funding. The TAF provided for periodic auctions, but 
+only the DW could be accessed by any bank on any day for an immediate  injection of funds 
+to squelch a sudden liquidity need.  
+At no prior time in the Fed’s history had it so aggressively reduced the borrowing rates. The 
+federal funds rate was reduced ten times between August 2007 and December 2008, 
+dropping by five points (from 5.25% to .25%), and the spread between that rate and the DW 
+primary credit rate dropped from 1 percent to 25 basis points. As shown in Figure 2, 
+however, the Fed’s aggressive lowering of the borrowing rates had little success in 
+persuading banks to borrow directly from the DW, especially prior to September 2008. (See 
+discussion at page 15.)  
+Administrative details regarding the Fed’s DW lending may be found at the following 
+webpages: https://www.frbdiscountwindow.org/ (Federal Reserve) and 
+http://www.newyorkfed.org/banking/discountwindow.html (Federal Reserve Bank of 
+New York). 
+4. The Problem of Stigma 
+Despite the availability of the Federal Reserve to provide funding as L OLR through the DW, 
+there were several reasons why eligible banks were often reluctan t to access these funds, 
+even in the midst of the financial crisis. The fact that reserves didn’t pay interest had a 
+notably distorting influence on bank reserves management by banks, including their use (or 
+lack thereof) of the DW. The Fed set very low, often zero, reserve requirements on deposits.  
+Most reserve requirements were met by banks holding “vault cash ,” i.e., cash in their ATMs, 
+not through their deposits at the Fed. As a result, depository institutions’ deposits/reserves 
+at the Fed were small. Of course, when overnight rates were positive, the banks didn’t want 
+to hold any reserves ⎯required or excess ⎯because reserves didn’t pay interest.  Instead 
+they could loan funds out and earn interest. Banks employed many mechanisms to keep 
+required reserves low and excess reserves near zero. The tiny size of (non -currency) 
+reserves, meant that when a bank was accidentally “short” of reserves at the end of the day, 
+_____________________________________________________________________ 
+12 Bear, an investment bank, followed a highly -leveraged business model like most of its peers and financed a 
+substantial portion of its balance sheet with short -term lending (and b y March 2008, even overnight repo) . 
+When lenders refused to roll over its debt, it had no LOLR to turn to. 
+40
+The Federal Reserve’s Financial Crisis Response A Wiggins and Metrick
+
+--- Page 10 ---
+the size of their miss was typically small as well. Therefore, the cost of paying a ver y high 
+market interest rate to borrow reserves for one day in the Fed funds market (at a rate above 
+the discount rate) was “small change,” and doing so was more convenient than accessing the 
+DW.  
+ However, the most significant reason that banks refused to access the DW was fear that 
+doing so would signal that they had unusual funding needs and or that they could not raise 
+funds in the market. To access the DW , the bank had to initiate the transaction and it might 
+have been the only entity borrowing from the  DW at the time. Although, prior to the Dodd -
+Frank Wall Street Reform and Consumer Protection Act (Pub. L. 111-203, H.R. 4173) the Fed 
+did not publicly disclose the names of banks that borrowed from the window, there were 
+nevertheless incidents when this i nformation was released by the media and perceived 
+negatively (Armantier et al., 2013, 2-3). Further, the Fed did report DW lending in its weekly 
+H4.1 report, which, although it did not identify borrowers, did identify borrowing by region, 
+which could lead to troubling and or harmful speculation.13 
+The issue of stigma and DW lending has a long history due to changes in the Fed’s policies 
+and practices over time. Established by the Federal Reserve Act of 1913, the Fed’s DW was 
+intended to provide a mechanism  for the Fed to operate as the LOLR, anticipating and 
+preventing bank runs by providing needed liquidity rather than merely lending into the run 
+(Gorton and Metrick 2013, 6).  In its early years, the DW lending rates were below market , 
+and the new regime was successful in preventing runs of eligible national banks throughout 
+the 1920s as banks freely borrowed from the DW. However, the Fed soon became concerned 
+that some banks were borrowing too freely and or borrowing to speculate in th e securities 
+markets. 
+The Fed began to discourage DW borrowing and throughout the decade it quietly shifted its 
+monetary policy to pressuring bank reserves through open market operations, while  
+encouraging banks to be “reluctant to borrow” from the DW. The  Fed promoted DW 
+borrowing for temporary periods and unusual circumstances, rather than continuous 
+borrowing for ordinary needs. In light of these new parameters, banks that did borrow were 
+looked upon as weak, suffering a stigma (Ibid., 9 -12). And so, as banks began to experience 
+troubles during the Great Depression , they refused to borrow from the DW. Depositors 
+panicked and sought to withdraw their funds. Many banks were unable to meet their 
+obligations and failed. Bank runs broadened as depositors realized that despite the Fed’s role 
+as LOLR, their banks couldn’t pay them.  
+The Fed’s “reluctance to borrow” policy persisted and over time became formalized in rules 
+that required banks seeking to borrow to exhaust other sources of lending before borrowing 
+_____________________________________________________________________ 
+13 The H4.1 report provides borrowing by Fed district. Many felt it increased the DW stigma, because any 
+disclosure of DW lending led to speculation a bout which bank, particularly which large bank, in a region was 
+doing the borrowing. For example, if the 12th district (San Francisco Fed) reported any sizable DW borrowing 
+for the week, market participants would immediately begin to speculate which large California bank (e.g. Wells, 
+Fargo) was “in trouble” with the expected consequences.  In this way borrowing from the DW could be 
+particularly stigmatizing for the big banks.  
+41
+Journal of Financial Crises Vol. 2 Iss. 2
+
+--- Page 11 ---
+at the DW, and to explain their need for the funds. The introduction of federal depository 
+insurance after the Depression mitigated the effects of this policy, since even if the banks 
+didn’t borrow, depositors would be protected (Ibid.).  
+In 2003, the Fed finally changed course and created a “no ask” policy removing the need for 
+banks to prove that they had exhausted other sources of borrowing or to explain why they 
+were borrowing (Armantier et al., 2013, 7 ). Its new program, which also introduced the 
+three-tier borrowing levels, was intended to “reduce institutions’ reluctance to use the 
+window as a source of back -up, short -term liquidity” (Fed. Res. Bd. Gov. 2003) . 
+Simultaneously, the primary credit rate was raised above the Federal funds rate. As a result, 
+a bank could borrow from the DW for any reason, not just because it could not access other 
+funding, but at a premium rate (Ibid.).  
+However, few banks did borrow. Despite the 2003 changes, banks continued to fear that they 
+would be perceived as being troubled if they sought funding from the DW. The consequences 
+of stigma could be severe for any bank and might include: sparking a run on deposits, a loss 
+of confidence by analysts, a drop in the bank’s stock price, or withdrawal of market sources 
+of liquidity (Ibid., 1). Given these risks (which could be particularly dire for an institution 
+experiencing real financial weakness), many banks decided that borrowing funds from the 
+DW was too risky. However, failing to access the DW could also weaken a bank’s situation by 
+compelling it to borrow at higher rates or conduct sales of assets at fire -sale prices to meet 
+liquidity needs. Further, banks’ reluctance to borrow from the DW limited the Fed’s ability 
+to inject liquidity into the economy and thus fulfill its pri mary mission as overseer of 
+monetary policy (Ibid., 7). (Also see Di Leo and Randall (2011) for further discussion of the 
+stigma phenomenon.) 
+The Impact of Stigma during the Crisis 
+It is clear from the FOMC meeting transcripts that the Fed understood that this stigma 
+continued to affect DW borrowing when the credit markets became disturbed in late 2007:  
+The second issue that we have been looking at is how to address the stigma of the 
+discount window. Are there ways to provide liquidity that  would help normalize 
+money markets, particularly term money markets, and would allow banks to make 
+use of the enormous amount of collateral they have at the discount window , b ut 
+would avoid the stigma and create a more efficient system? The solution that the staff 
+came up with on that was to have an auction facility that would essentially set an 
+endogenous price and, because it was an auction, it might look more like a good 
+business proposition rather than like a move of desperation and, therefore, would not 
+have the same stigma. (FOMC Trans. Sept. 18, 2007, 128) 
+This continued to be the Fed’s viewpoint at its December 2007 meeting where it finally 
+adopted the TAF. In so doing , it also noted the different environments faced by the central 
+banks in Europe and the United Kingdom:  
+The term funding spreads in the euro area are a bit narrower than those in the United 
+States and the United Kingdom. This may reflect, in part, the term funding operations 
+42
+The Federal Reserve’s Financial Crisis Response A Wiggins and Metrick
+
+--- Page 12 ---
+of the European Central Bank. The ECB monetary policy framework permits the ECB 
+to provide a large amount of term funds to many different depository institutions that 
+are secured by a broad range of collateral. In addition, little stigma appears to be 
+associated with the use of the ECB’s standing facility, in contra st to the United 
+Kingdom and the United States, where stigma plays a much more important role in 
+limiting borrowing from such facilities. (FOMC Trans. Dec. 6, 2007, 3-4) 
+This sentiment regarding stigma was also later confirmed by Chairman Bernanke: 
+In August 2007…banks were reluctant to rely on discount window credit to address 
+their funding needs. The banks’ concern was their recourse to the discount window, 
+if it became known, might lead market participants to infer weakness —the so-called 
+stigma problem. (Bernanke 2009) 
+As noted earlier, DW borrowing was limited even as the Fed continuously and aggressively 
+lowered the primary credit rate. Armantier, Krieger, and McAndrews (2008) argue that this 
+could have been because there was other well -priced market funding available, especially 
+because the market’s most severe strains were with respect to term funding not (yet) 
+overnight funding. However, one must consider this possible explanation in light of the 
+immediate and aggressive use of the TAF after implementation, as shown in Figure 2, and as 
+discussed below.14  
+Figure 2: Amount of Discount Window Primary Credit and TAF Loans 
+Outstanding 
+ 
+Source: Gilbert et al. 2012.  
+_____________________________________________________________________ 
+14 In a later paper, Armantier, et al. (2013) show that stigma was evidenced by ban ks’ utilization of the TAF 
+rather than the DW, and by their willingness to pay a premium to borrow from the TAF over the DW. Also see 
+discussion at page 7. 
+43
+Journal of Financial Crises Vol. 2 Iss. 2
+
+--- Page 13 ---
+5. The Term Auction Facility  
+The Term Auction Facility (TAF) was announced on December 12, 2007 , and, as shown by 
+the FOMC meeting transcripts, was specifically created to address perceptions of stigma that 
+prevented banks from accessing the DW by requiring banks to step up to participate in the 
+auctions en mass e on a g iven day rather than to self -initiate the borrowing process 15 
+(Armantier et al. 2013, 10).  
+The TAF was the result of many months of deliberate study and intense work by the staffs of 
+the Federal Reserve Board and the Reserve Bank of New York,16 which, beginning in August 
+2007, were tasked with how to make the DW more effective. The Fed Board and FOMC first 
+considered a proposal for a TAF-like facility at their September 18, 2007, joint meeting but 
+delayed implementation since market conditions had improved somewhat. The facility was 
+later reconsidered and the TAF approved in December as conditions in the interbank lending 
+markets continued to deteriorate, pressuring the banks.17 
+Other options considered in lieu of the TAF were (1) a temporary reduction in the spread 
+between the primary credit rate and the target federal funds rate18 and (2) the adoption of a 
+term credit program, under which term credit could be extended, potentially at a lower rate 
+than the primary credit rate, at a borrower’s initiative (FOMC Trans. Dec. 6, 2007, 5) . 
+_____________________________________________________________________ 
+15 The following answer was given in response to the question of how the facility addresses the stigm a issue: 
+“MR. MADIGAN: Well, partly by auctioning credit, so institutions are coming to the Federal Reserve voluntarily 
+and paying a price that is market based. Another point is that the institutions are regarded as generally sound. 
+They have to meet a cer tain qualification standard to get to the discount window, and we would be taking 
+certain steps in terms of our reports to try to distinguish this from other discount window credit. Now, that 
+said, I think we have to admit that we’re not sure the degree to which this would deal with the stigma issue. 
+MR. FISHER. I mean, aren’t they still saying that they are distressed?  
+MR. DUDLEY. No. No, the economics are better because you have to think about the minimum rate. The 
+minimum rate is the swap rate plus 10 basis points, which is well below one-month LIBOR and well below the 
+one-month term fed funds rate. So , there is that room in -between. You could actually criticize a bank for not 
+participating in this. They are somehow leaving money on the table by not taki ng advantage of this” (FOMC 
+Trans. Sept. 18, 2007, 140). 
+16 FOMC Trans. Sept. 18, 2007, 131. 
+17 “In addition, participants noted that some intermediaries were facing balance -sheet pressures and could 
+become constrained by concerns about rating-agency or regulatory capital requirements. Among other factors, 
+banks were experiencing unanticipated growth in loans as a result of continuing illiquidity in the market for 
+leveraged loans, persisting problems in the commercial paper market that had sparked draws on back-up lines 
+of credit, and, more recently, consolidation of assets of off -balance-sheet affiliates onto banks’ balance sheets .   
+. . . Concerns about credit risk and the pressures on banks’ balance -sheet capacity appeared to be contributing 
+to diminished liquidity in interbank markets and to pronounced widening in term spreads for periods 
+extending through year-end” (FOMC Mins Dec. 11, 2007, 6).  
+18 The Fed did do this on March 16, 2008 , when it narrowed the spread between the primary credit rate and 
+the federal funds rate to only 25 basis points. It also lengthened the permitted maturity to up to 90 days 
+(Armantier et al. 2011, 10). These changes did result in higher borrowings from the DW. (See Figures 1 and 2.)   
+44
+The Federal Reserve’s Financial Crisis Response A Wiggins and Metrick
+
+--- Page 14 ---
+However, the TAF was selected in part because it had several advantages relative to the other 
+two options.  
+First, it allowed the Federal Reserve to control when liquidity was released into the market 
+and to retain close control over the supply of reserves because auction size would determine 
+the auction amounts—at least assuming that the minimum bid rate was not binding. Second, 
+the facility arguably had a better chance of avoiding stigma, because the auction format 
+required all banks to bid at the same time, so there is no “first mover ” disadvantage. In  
+addition, the auction implied that no institution was being forced to borrow. Third, each 
+auction revealed information about the strength of the demand for funds. Finally, a TAF could 
+also have potential longer -run benefits for managing reserves and condu cting monetary 
+policy both in routine circumstances and in circumstances of financial stress (Ibid., 6-7). 
+In adopting the TAF , the Fed was also addressing the broader U.S. dollar funding issue and 
+in connection therewith approved the first U.S. dollar swaps with the European Central Bank 
+(ECB) and the Swiss National Bank (FOMC Mins. Dec. 11, 2007, 6). Prior to September 2008, 
+the U.S. dollar swaps were very closely connected to the TAF auctions but were disconnected 
+thereafter as the central banks executed  more control over their auctions given the 
+tremendous market upheaval that had to be dealt with. (See Wiggins and Metrick 2016C for 
+consideration of the U.S. dollar swaps program.) 
+Figure 3: Comparison Between the Discount Window and the Term Auction Lending 
+Facilities 
+ Discount Window (Primary 
+Credit) 
+Term Auction Facility (TAF) 
+Similarities   
+Collateral and 
+haircut 
+Same collateral and haircut 
+calculations as TAF for 28-day 
+loans 
+Same collateral and haircut 
+calculations as TAF for 28-day 
+loans 
+eligibility All banks with reserve account 
+and high supervisory rating 
+Primary credit eligible banks 
+with enough collateral to make 
+the minimum TAF bid  
+Minimum bid or 
+loan amount 
+None $10 million until February 1, 
+2008,  
+$5 Million after that 
+identification  Identities of DW borrowers 
+were not revealed until 
+December 23, 2011 
+Identities of TAF participant were 
+not revealed until December 1, 
+2010 
+Differences   
+Frequency Any time during normal 
+business hours 
+Generally, once every two weeks 
+Loan Term Overnight through 30 days 
+before March 16, 2008, and 90 
+days thereafter as determined 
+Generally, 28 or 84 days as 
+determined by the Fed 
+45
+Journal of Financial Crises Vol. 2 Iss. 2
+
+--- Page 15 ---
+Source: Armantier et al. 2013. 
+Design Features of the TAF 
+As shown in Figure 3, the TAF operationally utilized many of the same administrative 
+mechanisms of the DW since it was in essence an auction of DW loans. Participating banks 
+were required to have in place their respective Federal Reserve Bank standard borr owing 
+agreements and collateral, just as with DW lending; similar agreements were utilized. The 
+same collateral standards and haircuts were also applied. The Fed changed the pricing 
+mechanism of DW lending and by so doing succeeded in repackaging an unsuccessful lending 
+program into one that was highly  utilized. (See FOMC Trans. Sept. 18, 2007, 131 -33 for a 
+detailed description of the operational aspects of the TAF.) 
+Eligibility 
+Any bank that was solvent and met the Fed’s standards of eligibility for the DW  primary 
+credit rate, and which had adequate collateral could participate. A higher standard —“well 
+capitalized and well managed ⎯the financial holding company type standards ” had  been 
+discussed but was abandoned for fear that it might lead to administrative  complication and 
+perception problems.19  
+It was also considered that large banks that were troubled might participate and co -opt the 
+funding giving the impression that the facility was aimed at specific large institutions⎯ that 
+it was a “big institutional facility”⎯ rather than a solution aimed at the broad market (Ibid., 
+135-40). These concerns were addressed in part by a reduction in the maximum bid from 
+20% of the allotted funds to 10%, ensuring that at every auction at least 10 banks would 
+participate.  
+_____________________________________________________________________ 
+19 There was concern that if a higher standard were imposed, it might disqualify some banks that met the 
+standard for the primary credit rate and send a signal that the Fed thought those banks were weak (FOMC Sept. 
+18, 2007, 141). 
+by the borrower; renewable by 
+borrower 
+Maximum bid or 
+loan amount 
+Up to available collateral 10% of auction size or up to 
+available collateral (whichever is 
+smaller) 
+prepayment Allowed without penalty Not allowed 
+rate Spread over fed funds target 
+rate (target+50 bp until March 
+16, 2008; target +25 bp 
+thereafter) 
+Determined through competitive 
+bidding at an auction  
+Settlement Credited on the same day Credited to the winning bidders 
+three days after the auction  
+46
+The Federal Reserve’s Financial Crisis Response A Wiggins and Metrick
+
+--- Page 16 ---
+Another design change was a reduction in the minimum amount that could be bid to $10 
+million, lowered from an original proposed $50 mil lion in order to make the facility more 
+accessible to smaller institutions (FOMC Trans. Dec. 6, 20 07, 8). Additionally, beginning on 
+February 1, 2008, the minimum bid was further reduced to $5 million in order to “facilitate 
+participation by smaller instit utions” (Fed. Res. Feb. 1, 2008 ). (See footnote 2 3 for how 
+amounts were allocated to bidders.) 
+With respect to the issue of whether failing banks took advantage of the TAF, Gilbert et al. 
+(2012) concluded that during the crisis only 53 banks borrowed from the Fed (DW and TAF) 
+while undercapitalized and for only short periods, and well within the Federal limits.20 They 
+found that over 90% of the banks that became undercapitalized during the crisis did not 
+borrow from the Fed while undercapitalized (Gilbert et al. 2012, 232).  
+Foreign Banks  
+U.S. branches of foreign banks were consolidated and treated as a single bidder for purposes 
+of the TAF limits. And it was debated whether to permit “double dipping,” in essence allowing 
+the U.S. subsidiaries of foreign banks to borrow from the TAF while their foreign parents 
+could borrow U.S. dollars f rom their home central banks under the swap agreements. 
+Ultimately it was recognized that this duality was consistent with the Fed’s monetary policy 
+role, promoted the maintenance of the interconnected global dollar markets, and that U.S. 
+banks had a similar dual ability (FOM C Trans. Sept. 18, 2007, 133 -39). In practice, U.S. 
+subsidiaries of foreign banks were some of the most frequent and heaviest borrowers under 
+the TAF as shown in Figures 4 and 5. The Fed  was criticized for this when the information 
+was later revealed.21 (See also Yang et al. [2010], Keoun [2011], and Appendices C and D.) 
+Collateral  
+TAF loans were fully collateralized and applied DW collateral standards and haircuts. (See 
+discussion at page 4.) For any auction, a bank’s bid and award could also be limited so that 
+all outstanding DW and TAF loans would not exceed 50% of its pledged collateral, a 
+reduction from an initially proposed 80% limit (FOMC Trans. Dec. 6, 2007, 8).  
+It should also be noted that use of the TAF by foreign banks was extensive. Slightly more than 
+58% of TAF funds were borrowed by foreign banks which pledged a larger portion of asset-
+backed securities and residential mortgages than did U .S. banks (Benmelech 2012, 27). U.S. 
+banks on the other hand, pledged more whole loan collateral such as commercial real estate 
+loans, private label MBS and CDOs. Nevertheless, the majority of collateral pl edged by U .S. 
+and foreign banks was highly opaque, hard to value, and increasingly illiquid.  
+  
+_____________________________________________________________________ 
+20 Changes in the law adopted in 1991, the Federal Deposit Insurance Corporation Improvement Act (FDICIA), 
+after the savings and loan crisis limited the amounts that the Federal Reserve could loan to distressed banks.  
+21 The Fed did not publish the results of the TAF auctions until two years later, to militate against stigma.  
+47
+Journal of Financial Crises Vol. 2 Iss. 2
+
+--- Page 17 ---
+Figure 4: Most Frequent Term Auction Facility Borrowers*  
+ 
+Figure 5: Top 5 TAF Borrowers, in Billions 
+Source: Federal Reserve and GAO; Note: Also see Appendix C. 
+Rates  
+Rates for loans under TAF were established to make the facility attractive. Prior to January 
+12, 2009, the minimum bid rate was based on a measure of the average expected overnight 
+fed funds rate over the term of the credit being auctioned. From January 12, 2009, to the 
+conclusion of the program, the minim um bid rate was set equal to the rate that Reserve 
+Institution Number of 
+Borrowings 
+Average 
+Amount 
+Borrowed 
+Maximum Amount 
+Borrowed 
+Mitsubishi UFJ Trust and Banking 
+Corp. 
+55 0.4                                           1.2 
+Sumitomo Mitsui Banking Corp. 49 1.2 2.8 
+Mizuho Corporate Bank Ltd. 47 1.1 3.5 
+Arab Banking Corp. 46 0.6 1.4 
+Bayerische Hypo and Vereins 
+Bank 
+43 0.8 2.2 
+Bank of Scotland PLC 40 4.5 9.0 
+DZ Bank AG Deutsche Zentral 38 1.0 3.0 
+Barclays Bank PLC 37 5.1 15.0 
+Bayerische Landesbank 37 2.9 7.0 
+Dresdner Bank AG 37 3.3 7.5 
+All 416 program borrowers 4,214 0.9 15.0 
+*New York branches were borrowing entities for all 10 institutions listed. Average and 
+maximum amounts borrowed by institutions are per operation and in billions of dollars. 
+Maximum amounts borrowed by institutions at a given time can and do exceed the per -
+operation maximum because of overlapping borrowing periods for the various operations.  
+Source: Fleming 2012.  
+Parent Company  Total TAF Loans Percent of Total 
+Bank of America Corporation $260 7.3% 
+Barclays PLC (United Kingdom) 232 6.1 
+Royal Bank of Scotland Group PLC 
+(United Kingdom) 
+212 5.5 
+Royal Bank of Scotland PLC 
+(United Kingdom) 
+181 4.7 
+Wells Fargo 154 4.2 
+48
+The Federal Reserve’s Financial Crisis Response A Wiggins and Metrick
+
+--- Page 18 ---
+Banks paid on excess reserve balances  so as to prevent arbitrage . Bidders had to bid above 
+the minimum rate. Loan rates were set through the auction process with one rate (the stop-
+out rate) being applied to all funds lent at that auction. The stop -out rate is the lowest 
+accepted bid rate.22 
+Also see TAF Terms and Conditions and TAF Frequently Asked Questions for additional 
+operational details regarding the TAF. Other detailed historical materials and transaction 
+data are available at http://www.federalreserve.gov/monetarypolicy/taf.htm. 
+6. Use and Impact of the Discount Window and T AF 
+A few banks utilized the Discount Window, mostly smaller ones and the U.S. subsidiaries of 
+foreign institutions. Primary c redit loans remained near zero until March 2008 , when the 
+interbank funding markets became even more strained in the turmoil around Bear Stearns, 
+and when the spread between the prime credit rate and the Federal funds rate was lowered 
+to 25 basis points. A t that time, borrowing activity increased and Discount Window loans 
+peaked in late 2008 at a maximum amount outstanding of approximately $100 billion. 
+Without doubt, however, TAF loans accounted for the overwhelming majority of liquidity 
+assistance to depository institutions during the crisis. 
+Extensive Usage of TAF 
+The TAF was an “immediate success in terms of amounts borrowed” and “seems to have been 
+designed effectively to remove stigma concerns” (Armantier et al. 2011, 4, 15) . Evidence of 
+utilization of the TAF is evidence of the market’s need for it —it would become one of the 
+largest liquidity programs instituted by the Fed, second only behind the amounts funded 
+thorough the central bank liquidity swaps that maintained the flow of U.S. dollars around the 
+world and which were originally coordinated with the TAF auctions. (See Wiggins and 
+Metrick 2015C.) It should also be noted that use of the TAF by foreign banks was extensive. 
+Slightly more than 58% of TAF funds were borrowed by foreign banks  (Benmelech 2012, 
+27). 
+Approximately 60 TAF auctions were held every two weeks between December 2007 and 
+March 2010, when the TAF was terminated. For each auction the Fed would specify an 
+amount of funds that was available, usually varying between $20 billi on to as high as $150 
+billion at the peak of the crisis in October 2008. The loans were for 28 -day terms initially, 
+and after August 11, 2008 , were for 84 days. Beginning with the auction held on October 6, 
+2008, the Fed significantly increased the offer amount for 84-day maturities and for the first 
+_____________________________________________________________________ 
+22 The process for determining the TAF auction allocation and the stop -out rate was as follows: Bids were 
+ordered from the highest to the lowest rate. Bids were then accepted startin g with the highest rate submitted, 
+down to successively lower rates, until the Offering Amount of the auction had been allocated or until the 
+Minimum Bid Rate was reached (whichever occurred first). The lowest accepted interest rate was the “stop-
+out rate.” Bids at interest rates above the stop -out rate were allocated the full amount of TAF Advance bid for. 
+Bids at the stop-out rate were subject to being prorated if allocating the full amount requested would cause the 
+total amount allocated in the auction to exceed the Offering Amount (TAF Frequently Asked Questions). 
+49
+Journal of Financial Crises Vol. 2 Iss. 2
+
+--- Page 19 ---
+time provided full allotments to all bidders, lending the full amounts bid at the minimum bid 
+stop-out price.  
+This action by the Fed was similar to actions taken by the ECB at this time to provide 
+increased U.S. dollar liquidity to its banks. Unlike the ECB, however, the Fed did not announce 
+or commit to providing full allotments. Instead, it just increased the auction offer amount to 
+$150 billion, for each monthly auction of one-month loans, and for all three monthly auctions 
+of three-month loans, bringing total potential credit available to $600 b illion. This amount 
+was greater than the oversubscribed total bids that it had been recently receiving. As 
+discussed below, with the increase in the size of the aucti on, the stop -out rate for the first 
+time equaled the minimum bid rate, whereas previously in the oversubscribed auctions the 
+stop-out rate had exceeded the minimum rate. Thus, bidders were more likely to receive the 
+maximum amount of funds that they requested at a lower cost. (See Appendices A and B, for 
+examples of TAF auction announcements and settlements.) 
+Figure 6: Size of TAF Auctions  
+ 
+Source: Benmelech 2012, 17. 
+During its tenure the Fed would lend a total of $3.8 trillion to 416 banks pursuant to 4,214 
+TAF loans (Gilbert et al. 2012, 224) (Felkerson 2011, 7). Peak monthly borrowing occurred 
+in January 2009 at $347 billion and the peak amount outstanding of $493 billion occurred 
+on March 2, 2009 (Felk erson 2011, 8 -9). Of the 416 unique participants, 92 percent 
+borrowed more than $10 billion. The top 25 banks, all of which borrowed in excess of $47 
+billion, comprised 72 percent of total TAF borrowing (Ibid.) . Fleming (2011) found such 
+widespread usage to be consistent with the Federal Reserve’s role as LOLR.  
+50
+The Federal Reserve’s Financial Crisis Response A Wiggins and Metrick
+
+--- Page 20 ---
+It is interesting to note that 19 of the 25 largest borrowers were headquartered in foreign 
+countries. Of the $2.8 trillion borrowed by the largest 25 participants, 69 percent ($1.9 
+trillion) was bo rrowed by foreign institutions. (See Appendices C and D for more detail 
+regarding borrowings by individual institutions.) 
+Auction Premium 
+Further evidence of the TAF’s effectiveness is that banks were willing to pay a premium to 
+borrow from the TAF. The stop-out rate for a TAF auction could be higher or lower than the 
+DW lending rate, depending on the bids submitted. If the stop-out rate was determined to be 
+higher than the primary credit rate, for example, the overall cost of $50 billion in loans under 
+TAF could cost more than the same loans under the DW. And, as shown in Figure 4, for 
+periods during 2008, prior to the changes made in Octobe r, funding under the TAF was 
+consistently more expensive than at the DW (Armantier 2013, 27).  
+For example, for the auction conducted on September 22, 2008, when the DW rate was 
+2.25%, the minimum bid was a rate of 1.949% and the stop-out rate was 3.75%. The amount 
+bid was $13 4 billion, and the amount awarded was the preannounced $75 billion, leaving 
+many bids unfulfilled (Appendix A), illustrative of the fact that at that time the TAF auctions 
+were consistently oversubscribed. Once the offering amounts wer e expanded, in essence to 
+provide full allotment (the maximum was raised to historical bid levels), the stop -out rates 
+dropped to the minimum bid rate, which were lower than the DW rate. This was the case 
+with the October 6, 2008, auction, when the DW rate was then 2.25%. The minimum bid rate 
+and the stop-out rate were the same (1.39%) as were the amount bid and the amount allotted 
+($138.0921 billion) (Appendix B).   
+Select Research Findings  
+Armantier, et al. (2013) found that participating banks bid for TAF loans at prices greater 
+than the primary credit rate approximately half the time. (See Figure 7.) As a result, there 
+was a higher cost of $300 million, $6.56 million per auction for each participating bank, on 
+average, to borrow under the TAF than to borrow the amount under the window. They 
+attribute the banks’ willingness to pay this premium to the DW stigma. The spread between 
+the DW and the TAF was greatest during the fall after the bankruptcy of Lehman Brothers 
+(prior to the expansion of the auc tion amounts), when the aggregate per -auction premium 
+over DW reached $2.5 billion. The authors see this premium as “conclusive evidence of DW 
+stigma” during the crisis (Ibid., 23).   
+51
+Journal of Financial Crises Vol. 2 Iss. 2
+
+--- Page 21 ---
+Figure 7: TAF Bids Above the DW Rate and Frequency Distribution  
+ 
+Note: The figure above shows the share of banks that submit a TAF bid above the DW rate. 
+If a bank submits two bids, only the bid with the highest rate is considered. Auctions with 
+a stop-out rate above the DW rate are indicated by solid circles, while auctions with a stop-
+out rate below the DW rate have hollow circles. The reduction in the DW penalty from 50 
+to 25 basis points on March 16, 2008, is indicated by the first vertical line, and the date of 
+the Lehman Brothers bankruptcy, September 15, 2008, by the second vertical line.  
+Source: Armantier 2013. 
+In their paper regarding the effectiveness of the TAF, McAndrews, Sarkar, and Wang (2008) 
+found that the facility had the effect of lowering the three -month LIBOR–OIS spread on the 
+dates of announcement of TAF auctions and on the actual settlement dates. Wu (2011) found 
+52
+The Federal Reserve’s Financial Crisis Response A Wiggins and Metrick
+
+--- Page 22 ---
+similar results and that the differences occurring were between 50 and 70 ba sis points 
+lower.23  
+Wind Down 
+As the credit markets improved and as the cost of market funding declined, utilization of the 
+TAF decreased, as had been planned. On September 24, 2009, the Fed announced that it 
+would scale back the TAF , and the auction amounts were reduced for both the 24 -day and 
+84-day terms. The last TAF auction was held on March 8, 2010, maturing on April 8 , 2010. 
+All TAF loans were repaid in full, with interest, and the facility expired in March 2010. 
+ 
+References 
+Applebaum, Binyamin and Jo Caren McBody, The Fed’s Crisis Lending: A Billion Here, a 
+Thousand There, The New York Times, Ma rch 31, 2011, 
+http://www.nytimes.com/2011/04/01/business/economy/01fed.html?_r=0.  
+Armantier, Olivier, Eric Ghysels, Asani Sarkar, and J effrey Shrader, Discount Window Stigma 
+During the 2007 -2008 Financial Crisis , Federal Reserve Bank of New York Staff Report No. 
+483, January 2011, Revised September 2013.  
+Armantier, Oliver, Sandy Krieger, and James McAndrews, The Federal Reserve’s Term Auction 
+Facility. Federal Reserve Bank of New York Current Issues in Economics and Finance 15, no. 
+5, July 2008. 
+Artuc, Erhan, and Selva Demiralp, Provision of Liquidity Through the Primary Credit Facility 
+During the Financial Crisis: A Structural Analysis , FRBNY Economic Policy Review/August 
+2010, 43-51. 
+Ashcraft, Adam, Morten L, Bech, and W. Scott Frame, The Federal Home Loan Bank System: 
+The Lender of Next-to-Last Resort? FRBNY Staff Report no 357, Nov. 2008. 
+Benmelech, Efraim, An Empirical Analysis of the Fed’s Term Auction Facility , Cato Papers on 
+Public Policy, Vol. 2, 2012. 
+Bernanke, Ben, The Federal Reserve’s Balance Sheet: An Update, Speech at the Federal 
+Reserve Board Conference on Key Developments to Monetary Policy, Washington DC 2009. 
+Bloyd, Sebastian, BNP Paribas Freezes Funds as Loan Losses Roil Markets (Update5) , 
+Bloomberg.com, August 9, 2007, 
+http://www.bloomberg.com/apps/news?pid=newsarchive&sid=aW1wj5i.vyOg.  
+_____________________________________________________________________ 
+23 See Fleming (2012) for discussion of additional studies.  
+ 
+53
+Journal of Financial Crises Vol. 2 Iss. 2
+
+--- Page 23 ---
+Board of Governors of the Federal Reserve System, DISCOUNT AND ADVANC E RATES —
+Reduction in the Primary credit rate from 3 -1/2 percent to 3-1/4 percent, Approved March 
+16, 2008. 
+__________, DISCOUNT AND ADVANCE RATES —Reduction in the primary credit rate from 3 -
+1/4 percent to 2-1/2 percent, Approved March 18, 2008. 
+__________, Interagency Advisory on: The Use of the Federal Reserve’s Primary Credit Program 
+in Effective Liquidity Management, 2003. 
+__________, Press Release,  Federal Reserve will offer $75 billion in 28 -day credit through its 
+Term Auction Facility today, September 22, 2008. 
+__________, Press Release, Federal Reserve announces results of auction of $75 billion in 28 -
+day credit held on September 22, 2008, September 23, 2008. 
+__________, Press Release, Federal Reserve will offer $150 billion in 8 5-day credit through its 
+Term Auction Facility today, October 6, 2008. 
+__________, Press Release, Federal Reserve announces results of auction of $150 billion in 8 5-
+day credit held on October 6, 2008, October 7, 2008. 
+De Leo, Luca and Maya Jackson Randall, Banks Face Borrowing  Stigma, The Wall Street 
+Journal, April 1, 2011. 
+Federal Reserve Bank of New York, website—http://www.newyorkfed.org/, (FRBNY 
+website). 
+__________, (Discount Window Lending): 
+http://www.newyorkfed.org/banking/discountwindow.html 
+__________, Press Release: Statement Regarding System Open Market Account Activity, March 
+7, 2008. 
+Federal Reserve Open Market Committee, Transcript of the Federal Open Market Committee 
+Conference Call on December 6, 2007. 
+__________, Transcript of the Federal Open Market Committee Meeting on September 18, 2007. 
+__________, Transcript of the Federal Open Market Committee Meeting on December 11, 2007. 
+__________, Transcript of the Federal Open Market Committee Conference Call on March 10, 
+2008. 
+Federal Reserve System, Discount Window website: https://www.frbdiscountwindow.org/, 
+(FRDW website). 
+__________, Extensions of Credit by Federal Reserve Banks, 12 CFR Part 201, (Federal 
+Register/Vol.79, No.3 January 6, 2014). 
+54
+The Federal Reserve’s Financial Crisis Response A Wiggins and Metrick
+
+--- Page 24 ---
+__________, The Federal Reserve System Guide to Discount Window Collateral   
+https://www.frbdiscountwindow.org/~/media/Documents/FRcollguidelines.ashx?la=en, 
+(FRDW collateral). 
+__________, Operating Circular No. 10. 
+Fleming, Michael J., Federal Reserve Liquidity Provision during the Financial Crisis of 2007 -
+2009, Annu. Rev. Finance. Econ. 2012.4:161-77. 
+Geithner, Timothy, F., Actions By The New York Fed in Response to Liquidity Pressure in 
+Financial Markets, Testimony of Mr. Timothy F. Geithner, President and Chief Executive 
+Officer of the Federal Reserve Bank of New York, before t he U.S. Senate Committee on 
+Banking, Housing and Urban Affairs, Washington DC, 3 April 2008.  
+Gilbert, Alton R., Kevin L. Kliesen, Andrew P. Meyer, and David C. Wheelock, Federal Reserve 
+Lending to Troubled Banks During the Financial Crisis, 2007-2010, Federal Reserve Bank of 
+St. Louis Review, May/June 2012, 221-243. 
+Gorton, Gary and Andrew Metrick, The Federal Reserve and Financial Regulation: The First 
+Hundred Years, July 1, 2013. 
+Keoun, Bradley, Foreign Banks Used Fed Secret Lifeline Most at Crisis Peak,  Bloomberg 
+Business, April 1, 2011, http://www.bloomberg.com/news/articles/2011 -04-01/foreign-
+banks-tapped-fed-s-lifeline-most-as-bernanke-kept-borrowers-secret 
+Sakar, Asani, Liquidity Risk, Credit Risk, and the Federal Reserve’s Responses to the Crisis, 
+Federal Reserve Bank of New York Report No. 389, September 2009. 
+Wiggins, Rosalind and Andrew Metrick, The Federal Reserve’s Financial Crisis Response B: 
+Lending & Credit Programs for Primary Dealers , Yale Program on Financial Stability Case 
+Study Case Number 2015-1B-v1, Feb. 1, 2016. 
+__________,The Federal Reserve’s Financial Crisis Response C: P roviding U.S. Dollars to Foreign 
+Central Banks , Yale Program on Financial Stability Case Study Case Number 2015-1C-v1, 
+Feb.1, 2016. 
+Yang, Jia Lynn, Neil Irwin , and David S. Hilzenrath, Fed aid in financial Crisis went beyond 
+U.S. banks to industry, foreign firms, WashingtonPost.com, December 2, 2010 , 
+http://www.washingtonpost.com/wp-
+dyn/content/article/2010/12/01/AR2010120106870.html 
+ 
+Development of this case has been supported by a generous grant from the Alfred P. Sloan 
+Foundation to the Yale Program on Financial Stability. 
+Copyright 2015, 2016, 2020 © Yale University. All rights reserved. To order copies of this 
+material or to receive permission to reprint any or all of this document, please contact the 
+Yale Program for Financial Stability at ypfs@yale.edu.  
+55
+Journal of Financial Crises Vol. 2 Iss. 2
+
+--- Page 25 ---
+Appendix A: TAF Auction Announcement - September 22, 2008 
+ 
+Release Date: September 22, 2008  
+For release at 10:00 a.m. EDT  
+ 
+On September 22, 2008, the Federal Reserve will offer $75 billion in 28-day credit through 
+its Term Auction Facility. Additional information regarding the auction is listed below; the 
+auction will be conducted as specified in this announcement, Regulation A, and the terms 
+and conditions of the Term Auction Facility 
+(www.federalreserve.gov/monetarypolicy/taf.htm).  
+ 
+Note: Some key deadlines have changed for this TAF auction. Please review the 
+following parameters. For a list of key times to be used in upcoming auctions, see 
+http://www.federalreserve.gov/monetarypolicy/tafdates20080811.htm  
+ 
+Description of Offering and Auction Parameters 
+Offering Amount:  $75 billion 
+Term:  28-day loan 
+Bid Submission Date:  September 22, 2008 
+ Opening Time:  11:00 a.m. EDT 
+ Closing Time:  12:30 p.m. EDT 
+Notification Date:  September 23, 2008 
+Settlement Date:  September 25, 2008 
+Maturity Date:  October 23, 2008 
+Minimum Bid Amount (per bid):  $5 million 
+Bid Increment:  $100,000 
+Maximum Bid Amount (per institution):  $7.5 billion (10% of Offering Amount) 
+Minimum Bid Rate:  1.94 percent 
+Incremental Bid Rate:  0.001 percent 
+Minimum Award:  $10,000 
+Maximum Award:  $7.5 billion (10% of Offering Amount) 
+ 
+Submission of Bids 
+Participants must submit bids by phone to their local Reserve Bank between the opening 
+time and closing time on the bid submission date. 
+ 
+56
+The Federal Reserve’s Financial Crisis Response A Wiggins and Metrick
+
+--- Page 26 ---
+Notification 
+Summary auction results will be published on the website of the Board of Governors of the 
+Federal Reserve System (www.federalreserve.gov/monetarypolicy/taf.htm) at 
+approximately 10:00 a.m. EDT on the notification date. Between 10:00 a.m. and 11:30 
+a.m. EDT on the notification date, Reserve Banks will notify individual institutions in their 
+districts that have submitted winning bids of their awards. Participants have until 12:30 
+p.m. EDT on the notification date to inform their local Reserve Bank of any error.  
+ 
+Rounding Convention 
+Pro rata awards will be rounded to multiples of $10,000. Normal rounding convention will 
+be used, except that awards under $10,000 will be rounded to $10,000. 
+ 
+Source: Federal Reserve Website. 
+  
+57
+Journal of Financial Crises Vol. 2 Iss. 2
+
+--- Page 27 ---
+Appendix A-1: TAF Auction Results—September 23, 2008 
+ 
+Release Date: September 23, 2008  
+For release at 10:00 a.m. EDT  
+ 
+On September 22, 2008, the Federal Reserve conducted an auction of $75 billion in 28 
+-day credit through its Term Auction Facility. Following are the results of the auction:  
+ 
+Stop-out rate: 3.750 percent 
+      
+Total propositions submitted: $133.562 billion 
+Total propositions accepted: $ 75.000 billion 
+Bid/cover ratio: 1.78 
+      
+Number of bidders: 85 
+ 
+Bids at the stop-out rate were prorated at 58.10% and resulting awards were rounded to 
+the nearest $10,000 (except that all awards below $10,000 are rounded up to $10,000). 
+ 
+The awarded loans will settle on September 25, 2008, and will mature on October 23, 
+2008. The stop-out rate shown above will apply to all awarded loans. 
+ 
+Institutions that submitted winning bids will be contacted by their respective Reserve 
+Banks by 11:30 a.m. EDT on September 23, 2008. Participants have until 12:30 p.m. EDT 
+on September 23, 2008, to inform their local Reserve Bank of any error. 
+ 
+Source: Federal Reserve Website. 
+  
+58
+The Federal Reserve’s Financial Crisis Response A Wiggins and Metrick
+
+--- Page 28 ---
+Appendix B: TAF Auction Announcement—October 6, 2008 
+ 
+Release Date: October 6, 2008  
+For immediate release  
+ 
+On October 6, 2008, the Federal Reserve will offer $150 billion in 85-day credit through its 
+Term Auction Facility. Additional information regarding the auction is listed below; the  
+auction will be conducted as specified in this announcement, Regulation A, and the terms 
+and conditions of the Term Auction Facility 
+(www.federalreserve.gov/monetarypolicy/taf.htm).  
+ 
+Description of Offering and Auction Parameters 
+ 
+Offering Amount:  $150 billion 
+Term:  85-day loan 
+Bid Submission Date:  October 6, 2008 
+ Opening Time:  11:00 a.m. EDT 
+ Closing Time:  12:30 p.m. EDT 
+Notification Date:  October 7, 2008 
+Settlement Date:  October 9, 2008 
+Maturity Date:  January 2, 2009 
+Minimum Bid Amount (per 
+bid):  $5 million 
+Bid Increment:  $100,000 
+Maximum Bid Amount (per 
+institution): 
+ $15 billion (10% of Offering 
+Amount) 
+Minimum Bid Rate:  1.39 percent 
+Incremental Bid Rate:  0.001 percent 
+Minimum Award:  $10,000 
+Maximum Award:  $15 billion (10% of Offering 
+Amount) 
+ 
+Submission of Bids 
+Participants must submit bids by phone to their local Reserve Bank between the opening 
+time and closing time on the bid submission date.  
+59
+Journal of Financial Crises Vol. 2 Iss. 2
+
+--- Page 29 ---
+Notification 
+Summary auction results will be published on the website of the Board of Governors of the  
+Federal Reserve System (www.federalreserve.gov/monetarypolicy/taf.htm) at  
+approximately 10:00 a.m. EDT on the notification date. Between 10:00 a.m. and 11:30 
+a.m. EDT on the notification date, Reserve Banks will notify individual institutions in their 
+districts that have submitted winning bids of their awards. Participants have until 12:30 
+p.m. EDT on the notification date to inform their local Reserve Bank of any error.  
+ 
+Rounding Convention 
+Pro rata awards will be rounded to multiples of $10,000. Normal rounding convention will 
+be used, except that awards under $10,000 will be rounded to $10,000. 
+ 
+ 
+Source: Federal Reserve Website. 
+  
+60
+The Federal Reserve’s Financial Crisis Response A Wiggins and Metrick
+
+--- Page 30 ---
+Appendix B-1: TAF Auction Results—October 7, 2008 
+ 
+Release Date: October 7, 2008  
+For release at 10:00 a.m. EDT  
+ 
+On October 6, 2008, the Federal Reserve conducted an auction of $150 billion in 85-day credit 
+through its Term Auction Facility. Following are the results of the auction:  
+Stop-out rate: 1.390 percent 
+      
+Total propositions submitted: $138.092 billion 
+Total propositions accepted: $138.092 billion 
+Bid/cover ratio: 0.92 
+      
+Number of bidders: 71 
+ 
+The awarded loans will settle on October 9, 2008, and will mature on January 2, 2009. The 
+stop-out rate shown above will apply to all awarded loans. 
+ 
+Institutions that submitted winning bids will be contacted by their respective Reserve Banks 
+by 
+11:30 a.m. EDT on October 7, 2008. Participants have until 12:30 p.m. EDT on October 7, 2008, 
+to inform their local Reserve Bank of any error. 
+ 
+Source: Federal Reserve Website. 
+ 
+  
+61
+Journal of Financial Crises Vol. 2 Iss. 2
+
+--- Page 31 ---
+Appendix C: Largest TAF Borrowers 
+ 
+ 
+Source: Benmelech 2012. 
+  
+62
+The Federal Reserve’s Financial Crisis Response A Wiggins and Metrick
+
+--- Page 32 ---
+Appendix D: Details re: The 50 Largest TAF Borrowers 
+ 
+Rank 
+ 
+Bank 
+Total 
+Loan 
+Amount 
+(Millions) 
+Average 
+Loan Size 
+(Millions) 
+ 
+Number of 
+Loans 
+ 
+Country 
+1 Barclays $232,283 $4,740.5 49 UK 
+2 Bank of American $212,617 $14,144.5 15 U.S. 
+3 Royal Bank of 
+Scotland 
+$180,920 $4,523.0 40 UK 
+4 Wells Fargo $153,953 $8,102.9 19 U.S. 
+5 Wachovia $147,025 $6,392.4 23 U.S. 
+6 Société Générale $124,377 $4,442.0 28 France 
+7 Dresdner Bank $123,328 $3,333.2 37 Germany 
+8 RBS Citizens $117,510 $4,039.7 29 U.S. 
+9 Citibank $110,350 $4,244.2 26 U.S. 
+10 Bayerische 
+Landesbank 
+$108,190 $2,924.1 37 Germany 
+11 Dexia $105,167 $4,382.0 24 Belgium 
+12 Norinchukin Bank $105,010 $3,281.6 32 Japan 
+13 JP Morgan Chase $98,782 $4,939.1 20 U.S. 
+14 WestLB $78,406 $2,178.0 36 UK 
+15 Deutsche Bank $76,882 $3,844.1 20 Germany 
+63
+Journal of Financial Crises Vol. 2 Iss. 2
+
+--- Page 33 ---
+16 Regions Bank $72,444 $3,149.7 23 U.S. 
+17 Unicredit $62,210 $2,592.1 24 Italy 
+18 Fortis Bank $58,650 $1,725.0 34 Belgium 
+19 Sumitomo $56,400 $1,151.0 49 Japan 
+20 UBS $55,500 $3,468.8 16 Switzerland 
+21 Bank of Scotland $53,500 $8,916.7 6 UK 
+22 HSH Nordbank $52,550 $1,545.6 34 Germany 
+23 Mizuho $51,284 $1,091.2 47 Japan 
+24 Commerzbank $51,161 $2,046.5 25 Germany 
+25 Debfa Bank $46,798 $2,600.0 18 Ireland 
+26 First Tennessee $45,419 $1,297.7 35 U.S. 
+27 Fifth Third Bank $44,478 $1,533.7 29 U.S. 
+(Continued on the next page) 
+ 
+  
+64
+The Federal Reserve’s Financial Crisis Response A Wiggins and Metrick
+
+--- Page 34 ---
+Appendix D: Details re: The 50 Largest TAF Borrowers (continued) 
+ 
+Rank 
+ 
+Bank 
+Total 
+Loan 
+Amount 
+(Millions) 
+Average 
+Loan Size 
+(Millions) 
+ 
+Number 
+of 
+Loans 
+ 
+Country 
+28 State Bank $42,000 $2,100.0 20 U.S. 
+29 Keybank $40,214 $1,827.9 22 U.S. 
+30 DZ Bank $39,477 $1,038.9 38 Germany 
+31 Citizens Bank $39,380 $1,790.0 22 U.S. 
+32 Bank of Tokyo $35,900 $1,087.9 33 Japan 
+33 Royal Bank of 
+Canada 
+$34,734 $1,085.4 32 Canada 
+34 Allied Irish $34,700 $1,927.8 18 Ireland 
+35 Bayerische Hypo $34,390 $802.1 43 Germany 
+36 Natixis $32,817 $1,131.6 29 France 
+37 BNP Paribas $31,275 $1,303.1 24 France 
+38 Toronto Dominion $27,465 $1,445.5 19 Canada 
+39 Bank of Nova Scotia $26,465 $661.6 40 Canada 
+40 Arab Banking 
+Corporation 
+$26,350 $572.8 46 Bahrain 
+41 Standard Chartered $25,100 $896.4 28 UK 
+65
+Journal of Financial Crises Vol. 2 Iss. 2
+
+--- Page 35 ---
+42 Mitsubishi UFJ $24,457 $444.7 55 Japan 
+43 Crédit Industriel  et 
+Commercial 
+$23,910 $703.2 34 France 
+44 Rabobank $23,751 $2,375.0 10 Netherlands 
+45 BB&T $22,700 $2,522.2 9 U.S. 
+46 Landesbank Baden $22,580 $1,411.3 16 Germany 
+47 Ally Bank $21,600 $1,963.6 11 U.S. 
+48 Marshall & Ilsley $21,045 $841.8 25 U.S. 
+49 Countrywide $20,750 $6,916.7 3 U.S. 
+50 Union Bank $20,100 $1,182.4 17 U.S. 
+Source: Benmelech 2012. 
+ 
+66
+The Federal Reserve’s Financial Crisis Response A Wiggins and Metrick

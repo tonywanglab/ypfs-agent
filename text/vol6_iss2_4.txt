@@ -1,0 +1,676 @@
+--- Page 1 ---
+Journal of Financial Crises Journal of Financial Crises 
+Volume 6 Issue 2 
+2024 
+FHLB Dividends: Low-Hanging Fruit for Reconfiguring FHLB FHLB Dividends: Low-Hanging Fruit for Reconfiguring FHLB 
+Lending Lending 
+Steven Kelly 
+Yale Program on Financial Stability, Yale School of Management 
+Susan McLaughlin 
+Yale Program on Financial Stability, Yale School of Management 
+Andrew Metrick 
+Yale Program on Financial Stability, Yale School of Management 
+Follow this and additional works at: https://elischolar.library.yale.edu/journal-of-financial-crises 
+ Part of the Finance and Financial Management Commons, Policy Design, Analysis, and Evaluation 
+Commons, Policy History, Theory, and Methods Commons, and the Public Administration Commons 
+Recommended Citation Recommended Citation 
+Kelly, Steven; McLaughlin, Susan; and Metrick, Andrew (2024) "FHLB Dividends: Low-Hanging Fruit for 
+Reconfiguring FHLB Lending," Journal of Financial Crises: Vol. 6 : Iss. 2, 85-104. 
+DOI: https://doi.org/10.17132/2693-3179.1562 
+Available at: https://elischolar.library.yale.edu/journal-of-financial-crises/vol6/iss2/4 
+This Note is brought to you for free and open access by the Journal of Financial Crises and EliScholar – A Digital 
+Platform for Scholarly Publishing at Yale. For more information, please contact journalfinancialcrises@yale.edu.
+
+--- Page 2 ---
+READERS TAKE NOTICE: READERS TAKE NOTICE: 
+As of April 2024, the YPFS Resource Library’s site domain has changed 
+to https://elischolar.library.yale.edu/ypfs-financial-crisis-resource-library/. 
+Please be aware that upon clicking any of the URL references to 
+the former Resource Library domains, either https://ypfs.som.yale.edu 
+or https://ypfsresourcelibrary.blob.core.windows.net/, in the 
+"References/Key Program Documents" section of a case study, 
+readers will encounter a "page not found" error. readers will encounter a "page not found" error. 
+Readers can still retrieve a given resource cited within this case study 
+on the new site  by searching by searching here  for the title cited. for the title cited. 
+This note is available in Journal of Financial Crises: https://elischolar.library.yale.edu/journal-of-financial-crises/vol6/
+iss2/4
+
+--- Page 3 ---
+POLICY NOTE  
+FHLB Dividends: Low-Hanging Fruit  
+for Reconfiguring FHLB Lending1 
+Steven Kelly,2 Susan McLaughlin,3 and Andrew Metrick4 
+July 23, 2024 
+Abstract 
+In the United States, the lender-of-last-resort tool is the Federal Reserve’s discount window. 
+Despite countervailing policy efforts , substantial market stigma remains associated with 
+borrowing from the discount window. It is in this context that market participants have come 
+to view the Federal Home Loan Banks (FHLBs) as an alternative to the Fed’s discount 
+window for backstop liquidity needs—despite the FHLBs’ relatively constrained abilities to 
+play this role. Notably, however, the FHLBs don’t just benefit from discount window stigma; 
+the FHLBs reinforce discount window stigma with their subsidized pricing. 
+The FHLBs are government -sponsored enterprises —and as such can fund themselves at 
+government rates—but they operate as cooperatives that are privately owned by the banks 
+and other financial institutions eligible to borrow from them. Under t his setup, the FHLBs 
+partially reimburse their borrowing members by distributing the bulk of their dividends 
+based on the amount a member borrowed in a given quarter. This dividend structure reduces 
+the “all-in” cost for FHLB borrowers—changing the cost of borrowing relative to the discount 
+window and incentivizing banks to rely more on the FHLB System structurally than is 
+optimal from a financial stability perspective (which favors using the Fed). 
+Given the Federal Housing Finance Agency’s (FHFA’s) recently expressed desire to focus on 
+realigning the FHLB System toward its housing mission, the FHFA should redirect the FHLBs’ 
+favorable advance rates and dividends toward members that are most serving the FHFA ’s 
+housing goals. Redirecting FHLB dividends away from simply subsidizing FHLB borrowing 
+could support housing finance (and the banks providing housing finance) while also 
+directionally getting the FHLB System out of the way of the Fed’s financial stability mandate 
+to be an effective lender of last resort.  
+Keywords: discount window, emergency liquidity assistance, Federal Home Loan Banks, 
+Federal Reserve, stigma 
+  
+ 
+1 A version of this note was published on the Yale School of Management’s Systemic Risk blog on January 18, 
+2024. The authors thank Vincient Arnold for his fantastic research support. 
+2 Steven Kelly, associate director of research, YPFS, Yale School of Management, steven.kelly@yale.edu . 
+3 Susan McLaughlin, executive fellow, YPFS, Yale School of Management, susan.mclaughlin@yale.edu . 
+4 Andrew Metrick, Janet L. Yellen Professor of Finance and Management and program director, YPFS, Yale 
+School of Management, andrew.metrick@yale.edu. 
+85
+
+--- Page 4 ---
+POLICY NOTE  
+Introduction  
+A core part of the financial stability tool kit in any country’s financial system is the central 
+bank’s lender-of-last-resort tools—namely, the liquidity backstops that the central bank 
+stands ready to provide to the banking system to weather temporary disruptions to funding 
+markets access. Such backstops are typically provided both to bridge temporary disruptions 
+in individual banks’ access to funding and more extended disruptions to funding markets. In 
+the United States, the lender-of-last-resort tool is the Federal Reserve’s discount window. 
+Yet, for a number of reasons well documented elsewhere, substantial stigma is associated 
+with borrowing from the discount window (Armantier, Lee, and Sarkar 2015) . Perhaps for 
+this reason, over time, some market participants have come to view the Federal Home Loan 
+Banks (FHLBs) as an alternative to the Fed’s discount window for backstop liquidity needs, 
+even terming them “lender of next-to-last-resort”—despite their limited ability to play this 
+role relative to the Fed. The FHLBs are government-sponsored enterprises (GSEs) that 
+borrow in debt markets primarily to make loans—termed “advances”—against real estate 
+and government collateral to their nearly 6,500 members, which include credit unions, 
+thrifts, insurance companies, community development financial institutions (CDFIs), and 
+effectively the entire banking system (US Government 2008a). (For this article, we focus on 
+the FHLBs’ lending to banks.) In addition to benefiting from discount window stigma, the 
+FHLB System reinforces discount window stigma because of its ability to pass on subsidized 
+funding to its members.  
+There is little public data on the interest rates the FHLBs charge, and what is public often 
+appears to be comparable to or more expensive than the Fed. Yet, the FHLBs partially 
+reimburse their borrowing members by distributing the bulk of their dividends based on the 
+amount a member borrowed in a given quarter—a refund that is actively marketed to 
+members. We demonstrate this dynamic and share examples of FHLB marketing materials. 
+This dividend structure reduces the “all-in” cost for FHLB borrowers, changing its 
+comparison to the discount window’s primary credit rate and incentivizing banks to 
+structurally rely more on the FHLB System than is optimal from a financial stability 
+perspective. 
+On November 7, 2023, the Federal Housing Finance Agency (FHFA) released a 
+comprehensive review of the FHLB System, in anticipation of the System’s centennial in 
+2032. The report examines the current FHLB System against its core missions, offers a vision 
+for a modernization, and reflects on lessons from the March 2023 banking stress, noting that:  
+The ongoing market stress highlighted the need for a clearer distinction between the 
+appropriate role of the FHLBanks, which provide funding to support their members’ 
+liquidity needs across the economic cycle, and that of the Federal Reserve, which 
+maintains the primary financing facility for troubled institutions with immediate, 
+emergency liquidity needs. (FHFA 2023) 
+FHFA regulation already makes clear that the mission of the FHLB System is to provide 
+financial services to its members to “assist and enhance” the financing of housing and 
+86
+Journal of Financial Crises Vol. 6 Iss. 2
+
+--- Page 5 ---
+POLICY NOTE  
+community lending (FHFA 2010). Given the FHFA’s clear desire to focus on realigning the 
+FHLB System toward its core missions and away from its tendency to function as a quasi-
+central bank, now is the time to redirect its favorable advance rates and dividends toward 
+the mission and away from simply subsidizing borrowing. 
+Roles of the Discount Window and the FHLB System 
+Importantly, the FHFA report pushes back against the problematic concept of FHLBs playing 
+the role of lender of next-to-last resort (Ashcraft, Bech, and Frame 2008; FHFA 2023), noting 
+[emphasis ours throughout] that: 
+The role of the FHLBanks in providing secured advances must be distinguished from the 
+Federal Reserve’s financing facilities . . . Due to operational and financing limitations of 
+the market intermediation process, the FHLBanks cannot functionally serve as lender of 
+last resort, particularly for large, troubled members that can have significant borrowing 
+needs over a short period of time. (FHFA 2023) 
+And further,  
+The reliance of some large, troubled members on the FHLBanks, rather than the Federal 
+Reserve, for liquidity during periods of significant financial stress may be inconsistent 
+with the relative responsibilities of the FHLBanks and the Federal Reserve. (FHFA 2023)  
+The Federal Reserve has a statutory mandate to serve as lender of last resort to the banking 
+system, in connection with its ability to create bank reserves, which enables it to meet highly 
+elastic demand for liquidity in times of financial market stress. By contrast, the FHFA report 
+notes that the FHLBs’ lending capacity is constrained by their ability to raise debt financing 
+in the capital markets, and that the FHLBs are limited in their ability “to meet sizable liquidity 
+requests late in the day or after debt markets close” (FHFA 2023). Yet, in March 2023, some 
+troubled banks “were effectively using the FHLBs as their lender of last resort” (FHFA 2023). 
+See Figures 1 and 2 for FHLB System advances and Fed lending, respectively, in recent 
+history. 
+  
+87
+FHLB Dividends: Low-Hanging Fruit Kelly et al.
+
+--- Page 6 ---
+POLICY NOTE  
+Figure 1: Total FHLB System Advances (in $ billions)  
+ 
+Source: Federal Reserve; quarterly data as of end of quarter. 
+Figure 2: Total Discount Window & TAF Lending (in $ billions) 
+  
+Note: In addition to discount window primary credit volume, this graph charts volume at the Term Auction 
+Facility (TAF). The TAF was a Fed program during the Global Financial Crisis of 2007–2009 to auction discount 
+window credit and was open to all banks eligible for primary credit (Fed n.d.b). 
+Source: Federal Reserve; weekly data, Wednesday level. 
+As described in McLaughlin (2024), some banks were completely unprepared to borrow 
+from the discount window as growing deposit outflows increased their needs for liquidity in 
+the spring of 2023. The discount window can provide credit against a much broader universe 
+of collateral than the FHLBs, which can lend only against housing-related collateral and 
+government securities (Fed 2021; US Government 2008a). 
+3/15/2023 
+3/25/2020 
+10/29/2008 
+3/11/2009 
+88
+Journal of Financial Crises Vol. 6 Iss. 2
+
+--- Page 7 ---
+POLICY NOTE  
+Banks’ operational readiness to use the discount window and to move collateral from the 
+FHLBs to their regional Federal Reserve Bank was certainly an issue in the spring of 2023. 
+In its report, the FHFA says it (1) will provide guidance to the FHLBs to work with members 
+to ensure all have established the capability to borrow from the discount window, and (2) 
+expects all FHLBs to establish agreements with their local Reserve Bank to support timely 
+pledges to the discount window (FHFA 2023). But these measures do not go far enough to 
+realign the relative roles of the discount window and FHLB advances. 
+Discount Window Stigma Relative to FHLBs 
+It is well known that discount window borrowing continues to carry stigma. One driver of 
+this stigma is the requirement, established by the Dodd-Frank Act of 2010, that the Fed must 
+disclose all details of all discount window loans made, including borrower names—albeit 
+with a two-year lag. The FHLB System, despite its public status, faces no such requirement—
+which likely appeals to potential borrowers. Moreover, the Fed discloses total discount 
+window borrowing weekly, and the market can break this down  by Fed district—which 
+helps it parse potential suspects for having taken a loan (Fed 2024b; Timiraos 2023) . The 
+FHLBs disclose each district’s advances only at a quarterly cadence. 
+However, some stigma also derives from the advantageous terms at which banks can borrow 
+from the FHLBs relative to the Fed. The lack of transparency to the public about the terms of 
+FHLB lending has likely shielded this driver of discount window reticence and stigma from 
+broader public scrutiny; t he FHLB System is less transparent than the Fed about the 
+economics of its lending. The Fed publishes its primary and secondary credit rates in real 
+time, and also makes historical data on rates publicly available to download. By contrast, 
+most FHLBs make rate data available only to member banks; only FHLB Des Moines and 
+FHLB Pittsburgh provide historical time series on advance rates (with the latter’s data going 
+back only to 2020) (FHLB n.d.; FHLB Pittsburgh n.d.a) . FHLB Boston allows the public to 
+query advance rates for a specific historical date, and some FHLBs publish the current day’s 
+advance rates (FHLB Boston n.d.) 
+But the time series data that is published by FHLBs is on a gross basis and does not reflect 
+the equity payouts that the FHLBs make to their borrowers. These dividend payments serve 
+to reduce the borrower’s effective funding cost, frequently to a rate below that on equivalent-
+maturity discount window loans. Although the Fed and other bank supervisors are 
+increasing their efforts with banks to encourage discount window preparedness and usage, 
+supervisory efforts cannot address the lower cost of FHLB advances. 
+FHLB System Preferential Treatment 
+The low cost of FHLB credit stems from the FHLBs’ preferential status in debt markets as 
+government-sponsored enterprises. As the FHFA report notes, this status allows the FHLBs 
+to issue  
+89
+FHLB Dividends: Low-Hanging Fruit Kelly et al.
+
+--- Page 8 ---
+POLICY NOTE  
+debt in the capital markets at rates only slightly higher than those on comparable 
+Treasury instruments. This ability arises from the joint and several nature of 
+consolidated obligations, as well as the perception that the federal government would 
+provide support in the event of a default by the FHLBanks (FHFA 2023). 
+This GSE status gives the FHLB significant advantages as an issuer of debt. It makes FHLB 
+debt eligible for purchase by government money market mutual funds and provides for 
+favorable treatment in banks’ capital and liquidity requirements. GSE status also makes 
+FHLB debt eligible for purchase by the Federal Reserve in its monetary policy operations 
+(Tarullo 2022). Indeed, in September 2008, when solvency issues at GSEs Fannie Mae and 
+Freddie Mac led to market pressure on FHLB debt as well, the Fed announced its intent to 
+purchase FHLB debt under its standard monetary policy authority, ultimately buying 
+$14.5 billion (Ashcraft, Bech, and Frame 2008; FRBNY 2010; FRB 2008). The Federal Reserve 
+Bank of New York reported that, as a result of this announcement, “discount note yields 
+declined up to 60 basis points ahead of the first operation and spreads to comparable U.S. 
+Treasury securities narrowed”5 (FRBNY 2009) .The FHLBs are also exempt from most taxes, 
+and investors in their debt are exempt from state and local taxes on the interest income 
+(Getter 2020). 
+The FHLB System leverages its advantages as a debt issuer mainly to fund advances to 
+members, but FHLBs also use the favorable access to debt markets to supplement their 
+income (and enhance their dividends to borrowers) by funding a relatively stable-sized 
+portfolio of long-term investment securities ($187 billion as of Q3 2023) and mortgage loans 
+($60 billion) (FHLB 2024a). 
+FHLB advance pricing faces few statutory constraints; FHFA regulation just requires that the 
+FHLBs not price their advances below the marginal cost to the FHLB of raising matching 
+funds, plus the administrative costs of the advance (FHFA 2010). The FHFA report notes, 
+“Minimizing their debt issuance cost allows the FHLBs to pass benefits to members in the 
+form of favorable advance pricing (relative to other funding sources) since the debt issuance 
+cost is the core driver of advance pricing” (FHFA 2023). However, it does not note that this 
+benefit accrues mainly to members that borrow from the FHLB System—nor does the report 
+describe how this benefit is often effected through dividends paid disproportionately to 
+those members. 
+ 
+5 Sitting between the relatively low legal hurdles of the Fed’s “standard” monetary policy authorities—of 
+Section 14 of the Federal Reserve Act—and the relatively high legal hurdles of the Section 13(3) emergency 
+lending authority is the Fed’s Section 13(13) authority (Fed 1913). This authority allows the Fed to provide 
+emergency loans against Treasuries and agency obligations—the latter of which the FHLBs issue by definition. 
+This authority was used to provide standing credit lines to Fannie Mae and Freddie Mac in July 2008; it could, 
+in theory, do the same for the FHLBs—which represents another government safety net feature bestowed by 
+the GSE status (Fed 2008). 
+See also the Fed’s study of alternative assets, inclusive of FHLB debt, for effecting monetary policy when the US 
+was running budget surpluses (and thus running down th e supply of Treasury securities that are purchased 
+and sold to implement policy): (Fed 2002) . 
+90
+Journal of Financial Crises Vol. 6 Iss. 2
+
+--- Page 9 ---
+POLICY NOTE  
+FHLB Self-Capitalization Model 
+Unlike the Fed, the FHLB System is exposed to default risk and, as a result, subject to capital 
+requirements. The FHLBs are required by statute to maintain 4% capital to assets, in 
+addition to other risk-adjusted ratios (US Government 2008b). While FHLB System members 
+are required to hold nominal amounts of “membership stock,” the FHLBs mainly capitalize 
+their lending activity through activity-based stock. This is a unique structure that allows the 
+FHLBs to “self-capitalize” as activity grows (FHLB 2024b). 
+How does “activity-based stock” work in practice? When an FHLB member borrows from an 
+FHLB, they must invest a percentage of the loan in FHLB equity; this is called “activity-based” 
+stock. The exact percentage varies slightly across FHLBs but typically amounts to 4% to 5% 
+of the loan. While the borrower pays interest on the full amount of the loan, the amount 
+invested is not simply lost liquidity; it receives a dividend like any equity investment.6 
+FHLB Dividends Incentivize Borrowing 
+The FHLBs’ dividend rates on activity-based stock consistently exceed the stated rate 
+charged on advances—meaning borrowers effectively receive a discount to the stated 
+advance rate. Since FHLBs primarily capitalize through activity-based stock—which is 
+issued to those that take advances—the FHLBs pay the bulk of their dividends to those that 
+borrow the most from the FHLB System. Moreover, several FHLBs also explicitly pay much 
+higher dividends on activity-based stock than membership stock—further tilting the 
+payouts toward members that are active borrowers. 
+Indeed, a 2019 FHLB Des Moines presentation for members showed that while the 
+membership stock dividend was simply in line with benchmark short-term interest rates, 
+the activity-based stock dividend had historically received an additional 250 to 350 basis 
+points (bps) (FHLB Des Moines 2019) . The presentation specifically stated that the activity 
+stock dividend level was “a deliberate measure to pay shareholders for using [the FHLB 
+System] cooperative” (FHLB Des Moines 2019) (see Figure 3). 
+  
+ 
+6 This equity investment receives a risk weight of 20% for regulatory capital purposes. This contrasts with a 
+300% risk weight for publicly traded equities and 400% for nonpublic equity stakes (FDIC 2020). 
+91
+FHLB Dividends: Low-Hanging Fruit Kelly et al.
+
+--- Page 10 ---
+POLICY NOTE  
+Figure 3: FHLB Des Moines’s Stable Dividend History  
+ 
+Note: Red markup is ours.  
+Source: FHLB Des Moines 2019. 
+Although public information about FHLB advances is relatively sparse, it’s clear that FHLB 
+members are aware of the effect of FHLBs’ dividends on their total cost of borrowing. Some 
+of the marketing of this benefit is in the public domain. For instance, a page on the FHLB 
+Chicago website from 2019 shows how the dividend paid to activity-based stock (B1 in 
+Figure 4) consistently exceeded the dividend paid to general membership capital (B2 in the 
+figure) (FHLB Chicago 2019) . It also charts the size of the effective discount on the stated 
+advance rate as a result of dividends over previous quarters; the discount hovered between 
+7 and 14 bps.
+ 
+  
+92
+Journal of Financial Crises Vol. 6 Iss. 2
+
+--- Page 11 ---
+POLICY NOTE  
+Figure 4: FHLB Chicago’s Dividend Rates and “All-In” Rates, Q2 2014–Q4 2019  
+ 
+Source: FHLB Chicago 2019.
+Another page shows the calculation for the third quarter of 2023, offering a 13-bp reduction 
+to the stated advance rate (FHLB Chicago n.d.). Similarly, although FHLB Chicago—like most 
+of the FHLBs—does not publicly provide historical advance rates, its homepage does provide 
+a daily term sheet. In addition to effective advance rates, this sheet provides members the 
+“all-in” rate they can expect to pay after adjusting for the expected dividend income (FHLB 
+Chicago 2024). Figure 5 shows a snapshot from that sheet on December 20, 2023 (FHLB 
+Chicago 2023). 
+93
+FHLB Dividends: Low-Hanging Fruit Kelly et al.
+
+--- Page 12 ---
+POLICY NOTE  
+Figure 5: Advanced Rates Snapshot, December 20, 2023 
+ 
+Note: Red markup is ours.  
+Source: FHLB Chicago 2023. 
+As of the date of this term sheet, the Fed ’s discount window was charging 5.5% for loans of 
+up to 90 days. Meanwhile, the FHLB was charging a headline rate of 5.49% for three-month 
+loans, and the post -dividend rate shown led members to expect a further 13 bps refunded 
+through dividends.7 
+FHLB Pittsburgh similarly advertises the benefit of the dividend and provides a 
+demonstration on its website of the refund ’s impact  for the FHLB’s members  (FHLB 
+Pittsburgh n.d. a; FHLB Pittsburgh n.d. b). As of this writing, the example is for a one-year 
+advance taken on October 23, 2023. It shows that while the stated rate on the advance was 
+5.72%, expected dividends mean a member can expect to effectively pay 5.39% —a 33-bp 
+discount (see Figure 6).  
+ 
+7 While we note the three-month tenor because that’s what was currently on offer from the discount window 
+(statute limits the discount window to a maximum tenor of four months), one can see in Figure 5 that the entire 
+FHLB Chicago term structure was below the discount window rate—and even more so after accounting for the 
+dividend refund. 
+94
+Journal of Financial Crises Vol. 6 Iss. 2
+
+--- Page 13 ---
+POLICY NOTE  
+Figure 6: FHLB Pittsburgh’s Dividend Impact Demonstration 
+ 
+Source: FHLB Pittsburgh n.d.b.  
+(Notably, however, the FHLB Pittsburgh calculation in Figure 6 divides the interest cost by 
+the full advance amount of $1 million rather than the actual liquidity provided to the 
+borrower, which would be $0.96 million. After that adjustment, the rebate is only 11 bps.) 
+In a document on its webpage dated June 30, 2020, FHLB Atlanta illustrates a 21-bp discount 
+on a one-year advance as a result of dividends paid to borrowers, as shown in Figure 7 (FHLB 
+Atlanta 2020): 
+95
+FHLB Dividends: Low-Hanging Fruit Kelly et al.
+
+--- Page 14 ---
+POLICY NOTE  
+Figure 7: FHLB Atlanta’s One-Year Dividend Demonstration  
+ 
+Source: FHLB Atlanta 2020. 
+FHLB Des Moines provides members a dividend discount calculator, and a 2019 presentation 
+for members demonstrates a 19-bp discount on a one-year advance (see Figure 8)  (FHLB 
+Des Moines 2019; FHLB Des Moines n.d.). 
+Figure 8: FHLB Des Moines Overview 
+ 
+Source: FHLB Des Moines 2019. 
+96
+Journal of Financial Crises Vol. 6 Iss. 2
+
+--- Page 15 ---
+POLICY NOTE  
+FHLB Dividends: A Market Incentive to Avoid the Discount 
+Window 
+While publicly available time series data from the FHLBs is limited, we can apply the type of 
+calculation advertised by the FHLBs shown in the previous section to time series we obtained 
+from the FHLB Des Moines and FHLB Pittsburgh websites. In Figure 9 , we plot the Fed’s 
+primary credit rate, the stated FHLB Des Moines advance rate for a comparable maturity to 
+the discount window, and the “all-in” FHLB advance rate that reflect the actual cost of 
+borrowing after accounting for dividends paid to borrowers. (The precise calculation 
+methodology is described in the Appendix.)  
+FHLB Des Moines data, which is available from 2000, shows that the all-in cost of the FHLB 
+advance has typically been markedly lower than the cost of primary credit (FHLB n.d.). The 
+exceptions occurred when FHLB advances became more expensive than the Fed in the latter 
+half of 2008 and throughout 2009, as well as in 2022 and 2023—before falling below the 
+primary credit rate again recently (see Figure 9). 
+Figure 9: FHLB Des Moines and the Discount Window, 2003–2023 
+ 
+* Calculated to account for activity-based stock dividends. 
+Sources: FHLB Des Moines; Federal Reserve; authors’ calculations.  
+FHLBank Pittsburgh data, available only back through 2020, shows that while its stated 
+advance rate has typically listed at a slight premium to the Fed’s primary credit rate, the all-
+in borrowing cost was lower than the primary credit rate for most of 2020 and all of 2021. 
+The all-in FHLB cost then moved to a notable premium throughout 2022 and 2023, before 
+tightening again recently (see Figure 10). 
+97
+FHLB Dividends: Low-Hanging Fruit Kelly et al.
+
+--- Page 16 ---
+POLICY NOTE  
+Figure 10: FHLB Pittsburgh and the Discount Window, 2020–2023 
+ 
+* Calculated to account for activity-based stock dividends. 
+Sources: FHLB Pittsburgh; Federal Reserve; authors’ calculations. 
+At the outset of the COVID-19 pandemic, the Fed lowered the spread charged by the discount 
+window over the upper bound of the federal funds rate (its monetary policy rate) to zero,8 
+where it has remained. Despite this reduction in discount window pricing, which left the 
+stated advance rates of both FHLB Des Moines and FHLB Pittsburgh higher than the Fed’s 
+primary credit rate, the after-rebate cost at both FHLBs remained cheaper through 2020 and 
+2021. Moreover, it is notable that both FHLBs then went from providing favorable rates to 
+charging a premium throughout 2022 and 2023—just as demand for liquidity was picking 
+up. A similar effect can be observed for FHLB Des Moines during the Global Financial Crisis 
+of 2007–2009 (GFC; see Figure 11).9 
+ 
+8 Before the GFC, the discount window charged a 100-bp premium to the fed funds rate; the Fed lowered this 
+premium to 25 bps during the crisis. After the crisis, the Fed restored the premium to 50 bps above what was 
+then the upper bound of the fed funds target range (a 25-bp range in which the Fed targeted the middle). This 
+spread has been zero since being lowered on March 15, 2020. For background on these discount window 
+adjustments, see Fed (2024a) and Fed (n.d.a).  
+9 The FHLBs also manage their collateral policy procyclically, increasing their haircuts during episodes of 
+volatility. By contrast, the Fed manages its collateral policy to avoid the need to raise discount window haircuts 
+during episodes of market stress. 
+98
+Journal of Financial Crises Vol. 6 Iss. 2
+
+--- Page 17 ---
+POLICY NOTE  
+Figure 11: FHLB Advance Rate Spread over Primary Credit, 2003–2023 
+ 
+Sources: FHLB Des Moines; FHLB Pittsburgh; Federal Reserve; authors’ calculations. 
+This shift in FHLB lending posture should further underline to banks and regulators the 
+advantages of having collateral pre-positioned at the Fed (McLaughlin 2024) . (At a 
+minimum, establishing arrangements to readily move collateral from the FHLBs to the Fed 
+and being operationally prepared to use the discount window would be directionally 
+helpful—as the FHFA report notes .) If FHLB advance rates are consistently below the Fed’s 
+primary credit rate—particularly during less volatile times, when banks are pre-positioning 
+their collateral—the FHLB System may find it difficult to extract itself from playing a central 
+role in banks’ contingency liquidity management, a role that the FHFA makes clear in its 
+report is the Fed’s, not the FHLBs’. 
+Reforming the FHLB Dividend Construct 
+In thinking about the current way FHLB credit is priced and the adverse impact it appears to 
+have on discount window stigma, two statements from the recent FHFA report demonstrate 
+the FHFA’s clear desire to reconfigure the incentives of the FHLB System, particularly given 
+its public mission: 
+The FHLBanks receive certain advantages from their status as GSEs, and a greater 
+portion of these benefits should be passed through to consumers and communities. 
+FHFA supports the view that the unique advantages of the GSE status come with 
+corresponding responsibilities for the FHLBanks to support their public mission. (FHFA 
+2023) 
+And: 
+Congress has vested the FHLBanks with certain market advantages that enable  them to 
+provide low-cost wholesale funding and other services to their members. Therefore, it 
+99
+FHLB Dividends: Low-Hanging Fruit Kelly et al.
+
+--- Page 18 ---
+POLICY NOTE  
+is reasonable to expect that the benefits of FHLBank membership should  accrue 
+predominantly to institutions that demonstrate a meaningful commitment to supporting 
+the housing and community development mission of the FHLBanks. (FHFA 2023) 
+Although the FHFA Report does not specifically mention the borrower-favoring dividends or 
+the effect thereof on banks’ contingency funding preferences, it does say the following: 
+To encourage members to increase their support for the FHLBank mission, FHFA plans 
+to undertake a rulemaking and issue related guidance, as appropriate, whereby each 
+FHLBank would provide added benefits—such as discounted advance rates or 
+differential dividends on capital stock—to members with a strong and demonstrable 
+connection to the FHLBanks’ overall mission. (FHFA 2023) 
+In evaluating any reforms to how the FHLBs lend, the advance rates and the dividend rate 
+must be considered together, as the all-in cost of borrowing reflects both. As the United 
+States General Accounting Office said in 2003:  
+FHLBank officials said that there can be a connection between the advance interest rate 
+that they charge and the dividend rate that they pay. That is, an FHLBank choosing to 
+pay a relatively high dividend may need to charge a relatively high advance rate to earn 
+sufficient profits to cover the costs associated with the dividend. In contrast, other 
+FHLBanks may decide to provide value to their members through lowering their 
+advance rates, which may mean a decrease in their dividend. (US GAO 2003) 
+If FHLB credit remains structurally competitive with—and often cheaper than—the Fed’s 
+primary credit, discount window stigma will remain. Thus, the starting place for 
+implementing reforms desirable for both financial stability and FHFA mission alignment 
+should be for the FHFA to promulgate FHLB regulations calling for the following: 
+• FHLBs’ stated advance rates must be set at some minimum premium to the Fed’s 
+primary credit rate; 
+• Dividend payments and share classes shall distinguish between degrees of 
+mission-consistent activity—that is, looking beyond simply borrowing from the 
+FHLB System and to the nature of the borrowing member’s activity and its degree 
+of alignment with advancing housing goals and community lending; and 
+• The “all-in” cost of borrowing after accounting for dividends shall not fall below 
+the primary credit rate except in cases of lending that is directly mission 
+consistent. 
+Now is the time to revisit the FHLBs’ dividend practices, both to better align FHLB lending 
+with the System’s mission of funding housing and community development and to reduce 
+the incentives for banks to prefer FHLB credit over the Fed as a contingent source of liquidity. 
+Addressing both these goals could mean altering the FHLB rate structure and creating a new 
+class of “activity stock” that would be held against lending that supports housing and 
+community development—and paying FHLB dividends principally on that stock. 
+100
+Journal of Financial Crises Vol. 6 Iss. 2
+
+--- Page 19 ---
+POLICY NOTE  
+References  
+Armantier, Olivier, Helene Lee, and Asani Sarkar. 2015. “History of Discount Window 
+Stigma.” Federal Reserve Bank of New York, Liberty Street Economics (blog). 
+https://elischolar.library.yale.edu/ypfs-documents/12020/ 
+Ashcraft, Adam B., Morten L. Bech, and Scott Frame. 2008. “The Federal Home Loan Bank 
+System: The Lender of Next-to-Last Resort?” Federal Reserve Bank of New York Staff Report 
+No. 357. November 2008, 2008.  
+https://elischolar.library.yale.edu/ypfs-documents/6850/ 
+Federal Deposit Insurance Corporation (FDIC). 2020. “Schedule RC-R - Part II. Risk-
+Weighted Assets,” 2020.  
+https://elischolar.library.yale.edu/ypfs-documents2/4113/  
+Federal Home Loan Bank (FHLB). n.d. “ Advances - FHLB Des Moines.” Accessed May 15, 
+2024. https://elischolar.library.yale.edu/ypfs-documents2/4115/ 
+Federal Home Loan Bank of Atlanta (FHLB Atlanta). 2020. “ Advantages of Advances: 
+Compare FHLBank Atlanta Funding and Save.,” June 2020. 
+https://elischolar.library.yale.edu/ypfs-documents2/2629/ 
+Federal Home Loan Bank of Boston (FHLB Boston). n.d. “Historical Rates.” Accessed June 5, 
+2024.  
+https://elischolar.library.yale.edu/ypfs-documents2/4111 
+Federal Home Loan Bank of Chicago (FHLB Chicago). 2019. “How the FHLBank Chicago 
+Dividend Reduces Your Borrowing Costs: Q3 2019,” 2019. 
+https://elischolar.library.yale.edu/ypfs-documents2/2621/ 
+———. 2023. “Rate Indications.” Dataset, December 20, 2023. 
+https://elischolar.library.yale.edu/ypfs-documents2/2630/ 
+———. 2024. “FHLBank Chicago Announces Q1 2024 Financial Highlights,” 2024. 
+https://elischolar.library.yale.edu/ypfs-documents2/2619/ 
+———. n.d. “Lower Your Borrowing Costs: The Dividend Effect.” Accessed January 5, 2024. 
+https://elischolar.library.yale.edu/ypfs-documents2/2620/ 
+Federal Home Loan Bank of Des Moines (FHLB Des Moines). 2019. “Regional Member 
+Meeting,” May 9, 2019. 
+https://elischolar.library.yale.edu/ypfs-documents2/2622/ 
+———. n.d. “Dividend Benefits.” Accessed June 5, 2024. 
+https://elischolar.library.yale.edu/ypfs-documents2/2628/ 
+101
+FHLB Dividends: Low-Hanging Fruit Kelly et al.
+
+--- Page 20 ---
+POLICY NOTE  
+Federal Home Loan Bank of Pittsburgh (FHLB Pittsburgh). n.d.a. “ Advance Resources.” 
+Accessed January 9, 2024.  
+https://elischolar.library.yale.edu/ypfs-documents2/2626/ 
+———. n.d.b. “How Our Dividend Lowers Your Borrowing Costs.” 
+https://elischolar.library.yale.edu/ypfs-documents2/2625/ 
+Federal Housing Finance Agency (FHFA). 2010. “Part 1265—Core Mission Activities. 12 CFR 
+1265.2,” February 24, 2010.  
+https://elischolar.library.yale.edu/ypfs-documents2/4107 
+———. 2023. “FHLBank System at 100: Focusing on the Future,” November 7, 2023. 
+https://elischolar.library.yale.edu/ypfs-documents2/2624/ 
+Federal Reserve Bank of New York (FRBNY). 2009. “Domestic Open Market Operations 
+During 2008,” January 2009.  
+https://elischolar.library.yale.edu/ypfs-documents/369 
+———. 2010. “Domestic Open Market Operations During 2009.” Report for the Federal 
+Open Market Committee Prepared by the Markets Group of the FRBNY, January 2010. 
+https://elischolar.library.yale.edu/ypfs-documents2/4104 
+Federal Reserve Board (FRB). 2008. “Federal Reserve Board Announces Two Enhancements 
+to Its Programs to Provide Liquidity to Markets.” Press release, September 19, 2008. 
+https://elischolar.library.yale.edu/ypfs-documents/8280/ 
+———. 2024a. “Discount Window Lending.” Web page.  
+https://elischolar.library.yale.edu/ypfs-documents2/4040 
+———. n.d.a. “Credit and Liquidity Programs and the Balance Sheet.” Web page. 
+https://elischolar.library.yale.edu/ypfs-documents2/4101/  
+Federal Reserve System (Fed). 1913. “Federal Reserve Act. Section 13: Powers of Federal 
+Reserve Banks.” .  
+https://elischolar.library.yale.edu/ypfs-documents2/4108 
+———. 2002. “ Alternative Instruments for Open Market and Discount Window Operations.” 
+Federal Reserve System Study Group, December 2002.  
+https://elischolar.library.yale.edu/ypfs-documents2/4099 
+———. 2008. “Discount Window Lending -- Proposal to Lend to Fannie Mae and Freddie 
+Mac through Advances Secured by Obligations of the United States or Any U.S. Agency,” July 
+13, 2008.  
+https://elischolar.library.yale.edu/ypfs-documents2/4102 
+102
+Journal of Financial Crises Vol. 6 Iss. 2
+
+--- Page 21 ---
+POLICY NOTE  
+———. 2021.  “Collateral Information.” Discount Window/Payment System Risk, December 
+14, 2021.  
+https://elischolar.library.yale.edu/ypfs-documents2/4103 
+———. 2024b. “Federal Reserve Balance Sheet: Factors Affecting Reserve Balances - H.4.1.” 
+Press release, May 2, 2024.  
+https://elischolar.library.yale.edu/ypfs-documents2/4109 
+———. n.d.b. “Term Auction Facility.” Accessed May 15, 2024. 
+https://elischolar.library.yale.edu/ypfs-documents2/4114 
+FHLB Office of Finance (FHLB). 2024a. “Investor Presentation: January 2024,” January 
+2024. https://elischolar.library.yale.edu/ypfs-documents2/2623 
+———. 2024b. “Investor Presentation: May 2024,” June 2024. 
+https://elischolar.library.yale.edu/ypfs-documents2/4112 
+General Accounting Office (US GAO). 2003. “Federal Home Loan Bank System: Key Loan 
+Pricing Terms Can Differ Significantly,” September 8, 2003. 
+https://elischolar.library.yale.edu/ypfs-documents2/4106 
+Getter, Darryl E. 2020. “The Federal Home Loan Bank (FHLB) System and Selected Policy 
+Issues.” Congressional Research Service, R46499, August 27, 2020. 
+https://elischolar.library.yale.edu/ypfs-documents/12933/ 
+McLaughlin, Susan. 2024. “Note: Lessons for the Discount Window from the March 2023 
+Bank Failures.” Journal of Financial Crises 6, no. 2. 
+https://elischolar.library.yale.edu/journal-of-financial-crises/vol6/iss2/3/ 
+Tarullo, Daniel K. 2022. “Commentary: How to Limit the Risks to Financial Stability Posed 
+by the Federal Home Loan Bank System.” Brookings Institution, July 11, 2022. 
+https://elischolar.library.yale.edu/ypfs-documents2/4100 
+Timiraos, Nick. 2023. “Fed Data: Most Emergency Lending Was in the West.” Wall Street 
+Journal, March 17, 2023.  
+https://elischolar.library.yale.edu/ypfs-documents2/4105 
+US Government. 2008a. “‘ Advances to Members.’ Federal Home Loan Bank Act, 12 U.S. Code 
+§ 1430, July 30, 2008.”  
+https://elischolar.library.yale.edu/ypfs-documents/13120/ 
+———. 2008b. “12 U.S. Code § 1426 - Capital Structure of Federal Home Loan Banks,” July 
+30, 2008. 
+https://elischolar.library.yale.edu/ypfs-documents2/4097 
+  
+103
+FHLB Dividends: Low-Hanging Fruit Kelly et al.
+
+--- Page 22 ---
+POLICY NOTE  
+Appendix: Methodology 
+To provide a more accurate picture of the cost of borrowing from Federal Home Loan Banks 
+(FHLBs), we have calculated an “all-in” cost measure, which accounts for the rebate from 
+activity stock dividends paid to borrowers as part of the FHLB borrowing process. For 
+purposes of calculating all-in rates on FHLB advances, we have broadly adopted the 
+methodology in Ashcraft, Bech, and Frame (2008, app.), which captures (1) the cost of the 
+advance rate plus (2) the cost of funding any haircut and the required capital stock purchase 
+less (3) the capital stock dividend. We have made three methodological changes.  
+First, we have assumed haircuts are nonbinding. This choice allows us to analyze the more 
+“normal” positioning of these parallel borrowing mechanisms. To the extent FHLB haircuts 
+were to bind before the discount window, FHLB advances would become more expensive—
+unless market funding was cheaper than the FHLB, in which case the borrower would likely 
+not be using an FHLB advance—or the borrower would likely be forced to (try to) move to 
+the discount window.  
+Second, to account for changes in discount window lending durations over time, where 
+Ashcraft, Bech, and Frame  consistently uses a 30-day FHLB advance rate, we have used 
+advance rates aimed at matching that of the discount window at that time (for example, if on 
+a given date the discount window lent for a maximum of 90 days, we have used 90-day FHLB 
+advance rates). Owing to an absence of data, when the discount window lent overnight, we 
+have used one-week-duration FHLB advance rates, the shortest duration rates available for 
+the entirety of our FHLB Des Moines dataset; for FHLB Pittsburgh, we have one-day duration 
+data available.  
+Third, similarly, where Ashcraft, Bech, and Frame use s the London Interbank Offered Rate  
+as a proxy for th e cost of the capital stock purchase, we have used double -A-rated financial 
+commercial paper of a duration matching that of the discount window (and therefore also 
+the FHLB advance data) at that time (for example, if on a given date the discount window 
+lent for a maximum of 90 days, we have used 90-day double-A financial commercial paper 
+rates); we have used the 30-day measure for the brief period when the discount window’s 
+maximum duration was 28 days. Where interest rate data was unavailable for a particular 
+day, we have used the previous day’s data point. For Q4 2023 data, we have assumed the 
+FHLB dividends will be the same as in the previous quarter.  As is the case with the FHLB -
+provided calculation examples and Ashcraft, Bech, and Frame, we have made no adjustment 
+for the precise timing of the quarterly dividend payment. All interest rate data is from the 
+Federal Reserve. Data on advance rates and di vidends is from the applicable FHLBs. (For 
+duration changes for the discount window, see Fed (2024a) and Fed (n.d.a). We have set the 
+activity-based capital stock purchase requirement to 4.5% throughout for FHLB Des Moines, 
+and 4.0% for Pittsburgh, consist ent with publicly available data and the FHLBs’ capital 
+requirements. 
+This open access article is distributed under the terms of the CC-BY-NC-ND 4.0 license, which allows 
+sharing of this work provided the original author and source are cited. The work may not be changed 
+or used commercially. 
+104
+Journal of Financial Crises Vol. 6 Iss. 2

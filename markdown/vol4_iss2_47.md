@@ -1,0 +1,332 @@
+## United Kingdom: Bank of England Lending during the Panic of 1825[1] 
+
+_Sean Fulmer[2]_ 
+
+Yale Program on Financial Stability Case Study June 15, 2022 
+
+## **Abstract** 
+
+Although historians continue to debate what exactly sparked the Panic of 1825, it is clear that by December of that year, a widespread bank run had erupted, and bankers flocked to the discount window of the Bank of England. While not yet the central bank, the Bank had special legal authority over note issuance and banking, which led to its operation as a semipublic bank. The Bank refused to accept any explicit commitment to act as a lender of last resort, despite being perceived as such by the market. The Bank initially restricted lending to protect its reserves. This policy backfired, and the Bank swiftly switched to a more expansionary approach to lending. During the depths of the panic, the Bank purchased almost 9 million British pounds sterling (GBP) in bills of exchange (discounts) and made GBP 7 million in advances, which were loans secured against collateral with an agreement to repurchase at a later day (akin to modern day repurchase agreements). This assistance nearly made the Bank insolvent. The Bank also expanded the collateral that it was willing to lend against, including accepting longer maturities. These actions calmed the British money markets, with the activity at the Bank’s discount window subsiding largely by December 24, 1825. Despite this successful crisis intervention, banking sector fragility continued into 1826, when 10% of the banks in England and Wales failed. 
+
+**Keywords:** Bank of England, discount, Panic of 1825, private lender of last resort 
+
+> 1 This case study is part of the Yale Program on Financial Stability (YPFS) selection of New Bagehot Project modules considering broad-based emergency lending programs. Cases are available from the _Journal of Financial Crises_ at https://elischolar.library.yale.edu/journal-of-financial-crises/. 
+
+> 2 Research Associate, YPFS, Yale School of Management. 
+
+
+## **Overview** 
+
+In the lead-up to the Panic of 1825, the British economy experienced a notable boom from 1819 to 1825, with real GDP growing by almost 25% and trade rising by almost 50% (Pickering 2018). The Bank of England effectively conducted an expansionary monetary policy during this time frame in order to finance the government’s fiscal policy. At the same time, country banks outside London created a stock market bubble by financing risky stock market investments (Bordo 1998). To fund their operations, these country banks kept accounts at London commercial banks, which in turn often discounted notes with the Bank. 
+
+During this period, British banks also actively purchased high-yield sovereign bonds issued by the newly independent nations of South America. Poor underwriting, fraud, and an ignorance of these nascent states’ ability to make payment on these emerging-market securities created serious default risks (Neal 1998). 
+
+Although the exact causes of the Panic of 1825 discussed earlier are still debated, it is clear that the stock and bond markets in London crashed in April 1825 (Morgan and Narron 2015). This crash resulted in commercial failures and a steep decline in collateral values, making it difficult to find reasonable sources of financing (Bordo 1998; Neal 1998). By December 1825, nervous depositors had unleashed significant bank runs throughout the country (Morgan and Narron 2015). 
+
+The Bank, which was at the time a private bank with some public responsibilities, initially responded to the Panic of 1825 by protecting its reserves, refusing to lend to wide swaths of the banking sector (James 
+
+## **Key Terms** 
+
+Purpose: In response to bank runs, the Bank of England operated as a lender of last resort and drastically expanded lending to counteract the lack of confidence in the banking sector 
+
+||Launch Dates|Early December 1825|
+|---|---|---|
+||Expiration Dates|December 24, 1825|
+||Legal Authority<br>Peak Outstanding|Not applicable<br>GBP 9 million in<br>discounts and GBP|
+|||7 million in advances|
+||Participants|London residents, with|
+|||further criteria|
+||Rate|The bank rate, which<br>was raised from 4% to<br>5% amidst the panic|
+||Collateral|The Bank had high|
+|||standards for the bills it|
+|||accepted and securities|
+|||it advanced loans on|
+||Loan Duration|Initially, bills purchased<br>had to be under 65<br>days, but later terms<br>expanded to include|
+|||bills with more than 95|
+||Notable Features|days to run<br>The Bank initially<br>restricted lending but<br>reversed course when|
+|||the panic worsened|
+||Outcomes|The panic subsided by|
+|||the new year due to|
+|||Bank’s liquidity<br>support; however,<br>widespread commercial<br>bank failures still|
+|||occurred|
+
+
+
+
+2012; Pickering 2018). This monetary contraction only served to exacerbate fears and worsen bank runs in London. 
+
+As the panic reached its peak during the week of December 11, the Bank swiftly changed course and began to lend freely through daily discounts, which were outright purchases of bills of exchange. Bills of exchange were nearly risk-free unsecured short-term debt. The Bank increased daily discounts by a factor of six from about 160,000 British pounds sterling (GBP) in the previous month to more than GBP 966,000. Furthermore, the Bank agreed to discount longer-term bills of exchange and long-term government securities. At the same time, the Bank contradicted this new expansionary approach to discounting by raising the bank rate from 4% to the legal maximum of 5% (James 2012). 
+
+The expansion in lending still focused on nearly risk-free operations, with the newly accepted borrowers and bills having “irreproachable security who nevertheless had been barred by previous limitations” (James 2012, citing Hawtrey 1932). The Bank funded these operations using its reserves, which were nearly depleted except for a late influx of cash and gold (Ogden 1988). 
+
+The expanded lending by the Bank largely subsided by December 24. From December 10 until this end date, the Bank increased circulation of its notes by 42%. In that time frame, the Bank discounted almost GBP 9 million of bills, a significant increase in discounting activity (Pickering 2018). One member of Parliament later stated that the Bank also lent GBP 7 million through advances during the panic, but it is unclear what time frame that was measured over (Committee of Secrecy 1832, 16). 
+
+## **Summary Evaluation** 
+
+Contemporaries blamed the Bank of England for its monetary expansionary in the lead-up to the Panic of 1825 and subsequent initial discount restrictions (Ogden 1988). However, the Bank eventually did respond to the resulting liquidity crisis. There is a well-known and oftcited quote from a former governor of the Bank, Jeremiah Harman, regarding the Bank’s eventual acceptance of its lender-of-last-resort role. 
+
+We lent it by every possible means and in modes we had never adopted before; we took in stock on security, we purchased Exchequer bills, we made advances on Exchequer bills, we not only discounted outright, but we made advances on the deposit of bills of exchange to an immense amount, in short, by every possible means consistent with the safety of the Bank, and we were not on some occasions over-nice. Seeing the dreadful state in which the public were, we rendered every assistance in our power. (Committee of Secrecy 1832, 154) 
+
+Despite this positivity regarding the Bank’s eventual robust response to the Panic of 1825, many scholars criticize the Bank for its initial failure to respond and its contractionary actions. Calomiris, Flandreau, and Laeven (2016) specifically note three lessons learned from the Panic of 1825. First, the markets could not expect the Bank to play a reliable role as a lender of last resort due to its initial contractionary response. Additionally, the Bank’s status as a private, profit-motivated bank limited its ability to properly serve as a lender of last 
+
+
+resort once the Panic of 1825 began. Instead, it acted procyclically by oversupplying liquidity during the boom and then, initially, retracting support during the crisis. Finally, the centralization of the British banking system in London due to the monopolies granted to the Bank caused financial instability in the countryside, which did not have access to the Bank’s discount window. Neal (1998) and Bordo (1998) both argue that the Bank contributed to the disastrous overexpansion and then acted too slowly to alleviate the panic. 
+
+In W.T.C. King’s seminal book on the London banking industry, he states that “the crisis must clearly be regarded as a milestone in the history of central banking . . . [the Bank] gradually assumed functions which are now considered as the ordinary duties of a central bank” (King 1936). James (2012) notes, “however imperfect it may have been, the Bank seems to have been acting as a de facto lender of last resort.” 
+
+
+|**Context: England 1824–1826**|**Context: England 1824–1826**|
+|---|---|
+|**GDP**<br>**(Nominal GDP at market prices, Great Britain**<br>**and Northern Ireland)**|GBP 449 million in 1824<br>GBP 496 million in 1825<br>GBP 435million in 1826|
+|**GDP per capita**<br>**(Nominal GDP at market prices, Great Britain**<br>**and Northern Ireland)**|GBP 27.47 in 1824<br>GBP 29.94 in 1825<br>GBP 25.90 in 1826|
+|**Bank of England Total Assets**|GBP 54.60 million in 1824<br>GBP 55.65 million in 1825<br>GBP60.36million in 1826|
+|**Bankers’ balances at the Bank of England**|Not Available|
+|**Bank of England unconsolidated balance sheet**<br>**as a percentage of nominal GDP (Great Britain**<br>**and Northern Ireland)**|13.09% in 1824<br>12.40% in 1825<br>12.17% in 1826|
+|**Total commercial bills drawn**|Not Available|
+|**Total net public liabilities of commercial banks,**<br>**England and Wales (private and joint stock**<br>**banks)**|GBP 256.1 million in 1865<br>GBP 254.7 million in 1866<br>GBP 254.2 million in 1867|
+|_Sources: Huang and Thomas “Annual data on the Bank of England’s balance sheet, 1696-_<br>_2014”; Hills, Thomas and Dimsdale “A millennium of macroeconomic data.”_||
+
+
+
+
+## **Key Design Decisions** 
+
+**1. Purpose: A bank run spread throughout London in December 1825, causing the Bank of England to reverse its restrictive discount policy and lend freely.** 
+
+While the causes of the Panic of 1825 are unclear, the stock market crashed in early 1825, resulting in commercial failures and, by fall 1825, a series of bank failures (Bordo 1998; Morgan and Narron 2015). By mid-November, a prominent banker observed that the Bank was “restricting their discounts” and that “almost all the bankers are more or less distressed” (Pickering 2018). In December, two major London banks collapsed. The Bank extended a secret GBP 400,000 loan to Pole, Thornton, and Co., a major London bank, on December 6, 1825, only to see the bank fail just six days later. Pole, Thornton operated as a significant connection for many country banks, as 44 country banks held accounts with it (Pickering 2018). This meant that the failure of Pole, Thornton resulted in contagious bank runs and failures against the connected country banks. As they fell, this caused a general run on other country banks and quickly spread to London, forcing bankers to the Bank of England, since country banks were not eligible for the Bank’s discount window (Neal 1998). 
+
+Therefore, it appears that the Panic of 1825 began with the failure of a few systemically connected London banks, which caused disruptions for country banks in general. This contagion ended up bringing the panic back to London with a widespread banking run. In previous crises, the Bank had not expressed a significant interest in serving as a backstop to the London money market. In that vein, the Bank initially attempted to ration credit during the Panic of 1825, through more stringent discounting (James 2012). This tactic seemingly backfired and resulted in the need for the Bank to operate as a private lender of last resort amidst the panic by expanding lending through the discount window. 
+
+In the years prior to 1825, the Bank of England’s interest in crisis fighting was “limited, episodic and inconsistent” (James 2012). However, “[t]he one exception in which the Bank was forced into a more active role was in the midst of the panic of 1825” (James 2012). 
+
+The idea of the Bank as a lender of last resort to the British banking sector originated in the 1790s. While some scholars argue that the Bank acted as a lender of last resort, other historians believe that the Bank was “considered an essentially private business” (James 2012). It appears that while the Bank avoided assuming any explicit role as a lender of last resort, it still functioned as a _de facto_ lender of last resort, as it stepped in at times of illiquidity and crisis (James 2012). 
+
+## **2. Legal Authority: The Bank of England occupied a middle ground between a private bank and a central bank during the Panic of 1825, with an implicit role as lender of last resort without government backing.** 
+
+According to Bordo (1998), the Bank functioned more as a public bank, rather than a central bank in 1825. The Bank occupied an awkward middle ground among three different constituencies: its shareholders that demanded profitability, the British government that 
+
+
+granted it certain privileges, and commercial bankers that relied on the Bank for ensuring financial stability (Bordo 1998). According to Bagehot ([1873] 1979), the Bank “does make enormous advances in every panic . . . but, on the other hand . . . it does not distinctly acknowledge that it is its duty.” Because the Bank was not a central bank, its actions as the lender of last resort did not necessarily come from any explicit legal authority, but rather from its unique position in the banking system at the time. 
+
+At the time of the panic, the Bank had a monopoly on London note issuance and on jointstock banking in the country. Bank of England notes counted as cash reserves for both country banks and private London banks, as opposed to just gold. Pickering (2018) states that this possibly allowed country banks to engage in riskier behavior through more speculative lending and note issuance, which could have played a role in the Panic of 1825. If country banks could only issue banknotes backed by their own gold reserves, the limit on issuance would have been much firmer. 
+
+When asked by a Secret Committee of Parliament if the Bank’s actions had any backing from the government, J. Horsley Palmer, a governor of the Bank after the panic, replied that the actions of the Bank were done entirely independently from the government (Committee of Secrecy 1832, 47). However, there are indications that the Bank consulted the government several times during the Panic of 1825. For example, the Bank spoke with the government about its decision to expand its discounting of longer-term bills and government securities. Additionally, the Bank asked the government for assistance when its gold reserves began to dwindle, although the government refused to help the Bank by suspending payments (James 2012). 
+
+## **3. Part of a Package: There did not appear to be any other programs conducted during the Panic of 1825.** 
+
+There were no related programs operated by the Bank or the government during the Panic of 1825. 
+
+## **4. Management: The Bank of England had a Drawing Office that was responsible for discount window lending, advised by discount and advance committees.** 
+
+The Bank of England maintained discount and advance committees during the 19th century; these committees acted as advisory watchdogs, analyzing past lending and proposing future adjustments to the Bank’s discount operations (Ogden 1988).[3] 
+
+The Bank was likely not prepared for the volume of lending during the Panic of 1825. The Drawing Office, which was responsible for discounts, cut its staff significantly in the lead-up to the panic, and the remaining staff were frequently reassigned temporarily (Neal 1998). In the early 19th century, the Bank typically discounted bills only on Thursdays (James 2012). This does not appear to have been the case, however, during the worst of the Panic of 1825, 
+
+> 3 However, it does not appear that these committees had the best documentation and research. For example, Ogden (1988) finds that the Special Discount Committee of 1867 paid no attention to the Panic of 1866 in its review of the previous year’s discount activities despite a serious and significant panic in the discount market. 
+
+
+which implies that the panic forced the Bank to increase its discount window availability to a daily basis (Pickering 2018). 
+
+**5. Administration: The Bank of England offered both purchases of short-term unsecured debt (discounts) and loans against collateral, with an agreement to repurchase the collateral at later points (advances).** 
+
+The Bank had two major avenues for lending during the Panic of 1825. The Bank conducted discounts—outright discounted purchases of short-term unsecured debt, known at the time as bills of exchange. Additionally, the Bank provided advances—collateralized loans with a structure similar to modern repurchase agreements. Participants sold eligible securities to the Bank, with an agreement to repurchase the securities at a later date. Although there is little documentation on advances themselves, it appears that government bonds and railway stocks were the most common forms of collateral (Anson et al. 2017, 14).[4] 
+
+Detailed information on how the Bank of England’s discount window operated is not readily available. However, there is evidence that the discount window functioned as an on-demand facility, depending on the hours of the office. It did not participate in or conduct auctions during the Panic of 1825. 
+
+**6. Eligible Participants: Only banks, businesses, and individuals based in London had access to the discount window, limiting the ability of country banks to participate.** 
+
+Available sources suggest that the Bank restricted eligibility at the discount window to London residents. This ruled out country banks from participating in the discount window directly. Instead, country banks rediscounted their bills with their London banks, which turned to the Bank’s discount window (James 2012). 
+
+The Bank was both a commercial bank and a banker’s bank, so eligible discounters ranged from small businesses to large banks and merchants (James 2012). 
+
+**7. Funding Source: The Bank funded its expanded lending by drawing down its reserves, almost risking suspending payment.** 
+
+The Bank funded the lending expansion by running down its reserves (Ogden 1988). In fact, the Bank nearly exhausted its reserves, with its stock of gold declining from GBP 10.7 million in December 1824 to just GBP 1.3 million a year later (Bagehot [1873] 1979). By December 16, 1825, the Bank’s specie reserves were down to only 100,000 sovereigns, and the Bank began to prepare for the possible suspension of payment the next day (Pickering 2018).[5] The Bank avoided this likely disaster due to two events: the usage of a box of GBP 1 notes with 
+
+> 4 It was not until 1894 that the Bank split its simple reporting of “advances” into “advances on bills” and “advances on securities” (Ogden 1988). 
+
+> 5 The Bank preferred for the government to demand the suspension of payment, which the prime minister refused to order—instead advising the Bank to leave a note on its door stating that its specie reserves were exhausted (Pickering 2018). 
+
+
+up to GBP 500,000 inside that had been pulled from circulation in 1821 and an influx of gold from the Bank of France (Ogden 1988; Pickering 2018). 
+
+## **8. Program Size: The Bank drastically increased its lending during the panic, with almost GBP 10 million in discounts and GBP 7 million in advances during the most intense period.** 
+
+The Bank’s lending had no stated total size. However, because its notes had to be backed by gold, its lending was constrained by its reserves, which it nearly entirely depleted (James 2012). At the height of the panic, the Bank discounted almost GBP 6 million bills from December 12 to 17. For comparison, the Bank’s weekly average of discounted bills during the November period, when the panic had already begun to spread, was only GBP 1 million. In total, from December 12 to 24 (the peak of the panic), the Bank discounted about GBP 8.6 million of bills (Pickering 2018). Ogden (1988) calculates that in the three weeks after the start of the crisis, the Bank’s discounts rose from GBP 5 million to GBP 15 million. Additionally, a member of Parliament referred to GBP 7 million of advances conducted by the Bank during the Panic of 1825, but it is unclear what time frame this is measured over (Committee of Secrecy 1832, 16). 
+
+## **9. Individual Participation Limits: There did not appear to be strict individual participation limits.** 
+
+Specific information on individual participation limits could not be found for the Bank’s lending during the Panic of 1825. However, there is evidence that the Bank of England maintained individual caps on discounts in 1815. The Special Discount Committee of 1815 specified limits based on participant classification, ranging from an upper limit of GBP 30,000 for the most esteemed bankers to GBP 5,000 for “people of little business who were low in the estimation of the Bank and of their peers” (Ogden 1988). These limits could have changed by the Panic of 1825. Also, according to Ogden (1988), it is “doubtful however whether they were ever treated as the absolute limits that perhaps they were intended to be.” For example, the Special Discount Committee of 1819 reported that more than 100 discounters had exceeded their classification limits by almost GBP 1 million on discounts of GBP 2.5 million in the previous year (Ogden 1988). 
+
+## **10. Rate Charged: The Bank of England set the discount rate at 4% and raised it to 5% in the midst of the panic.** 
+
+The Bank of England initially set the discount rate at 4% going into the Panic of 1825. However, during the crisis, the Bank raised the discount rate to 5% on December 14, 1825, due to fears of declining reserves and profits (Olmstead-Rumsey 2019). Specifically, Governor Palmer stated that he believed “the motive was to limit the issue as far as possible; I do not think it had any material effect in diminishing the demand” (Committee of Secrecy 1832, 49). The Bank could not raise the discount rate higher than 5% because of the usury laws, so the Bank could not further ration credit through increasing the discount rate (James 2012). 
+
+
+Neal (1998) notes that the Bank charged a discount rate much higher than the market rate before the Panic of 1825 intensified. As a result, the Bank lacked vital information on market pressures and developing situations. The Bank was only truly aware of the situation when a sudden influx of discount requests arrived in December. 
+
+## **11. Eligible Collateral: The Bank had high standards for the bills it purchased and the securities it loaned against but expanded the scope of acceptable collateral during the panic.** 
+
+According to James (2012), the Bank was “quite particular” about bill criteria during noncrisis periods. These bills had to be endorsed by two London bankers (which the Bank later expanded to two British names, with the acceptor of the bills one of the names). The originators of the bills had to be respectable companies known to the Bank. The bills themselves had to come from commercial transactions in which goods were transferred and had to mature within 65 days. 
+
+Such provisions ruled out more than two-thirds of the paper sent to London by country banks. London banks therefore most of the time had to offer their own paper for rediscount at the Bank rather than just passing on that of their country correspondents. (James 2012) 
+
+During the early stages of the crisis, there is evidence that the Bank decided to not lend against certain categories of collateral due to perceived riskiness, but it is unclear which collateral the Bank refused to lend against (Neal 1998). However, as the crisis worsened, the Bank began discounting Exchequer bills, bills longer than 95 days, and long-term government securities. Despite widening the eligibility for discounts, the Bank still restricted discounting to a “highly conservative character” (James 2012). The widening of eligibility simply admitted “a class of borrowers on irreproachable security who nevertheless had been barred by previous limitations” (James 2012). 
+
+It is important to note that specific collateral criteria documentation does not exist from this period, so a reliance on anecdotal sources is necessary. One researcher concludes that that the discounted bills carried little risk (Sissoko 2014). This could explain why the Bank did not feel the need to rigorously document this information. Nevertheless, despite what may be characterized as somewhat conservative evaluation criteria for discounted bills, the Bank’s view of its activities was somewhat more liberal, as evidenced by contemporaneous parliamentary testimony. Governor Palmer stated: 
+
+I believe every sort of security was tendered to the Bank at that period, upon which advances were made without much inquiry as to their nature, provided they were deemed to be eventually secure. (Committee of Secrecy 1832, 16) 
+
+## **12. Loan Duration: After only discounting bills with a term of 65 days or less, the Bank eventually allowed bills with maturities higher than 95 days during the crisis.** 
+
+Prior to the crisis, the Bank of England required bills of exchange to have a term of 65 days or less, which were much shorter maturities than accepted elsewhere (James 2012). 
+
+
+However, on December 14, the Bank decided to allow the discounting of bills with more than 95 days left on their term (Pickering 2018). 
+
+## **13. Other Conditions: There did not seem to be additional conditions attached on the Bank’s lending at the time.** 
+
+It does not appear that the Bank implemented any other conditions on its lending, as it likely did not have that ability as a private bank. 
+
+## **14. Impact on Monetary Policy Transmission: The Bank of England did not conduct monetary policy and did not receive any guarantee or indemnification from the government.** 
+
+On December 15, the cabinet granted the Bank the authority to issue GBP 1 notes, as an attempt to reverse the credit crunch and rapid decline in Bank reserves. Initially, the cabinet intended this action to be temporary, but it lasted until October 1826 (Pickering 2018). Beyond this, there did not appear to be much attention paid to the effect of the Bank’s lending on monetary policy transmission. 
+
+As a result of the gold standard, the Bank was heavily restricted in its ability to influence monetary policy. The Bank became involved in monetary policy only later in the 19th century, as it experimented with limited open market operations (Sayers 1936). Even though the Bank tried a variety of options for affecting monetary policy, “it was not very happy about any of them” (Sayers 1936). 
+
+According to Governor Palmer, the British government did not provide any form of a guarantee or indemnification to the Bank of England during the crisis (Committee of Secrecy 1832, 47). 
+
+## **15. Other Options: The Bank initially restricted lending to protect its reserves, but this quickly worsened the situation.** 
+
+In responding to the Panic of 1825, the Bank faced a conflict between its private need to protect its reserves and its implicit public responsibilities to serve as a pseudo lender of last resort. Therefore, the Bank initially attempted to protect its reserves by restricting its advances and discounts (Bagehot [1873] 1979). It responded to the early signs of the crisis by rationing discounts, refusing to lend to even the most esteemed bankers on Lombard Street (James 2012; King 1936). According to Bagehot ([1873] 1979), this decision resulted in: 
+
+A period of frantic and almost inconceivable violence; scarcely any one knew whom to trust; credit was almost suspended; the country was . . . within twenty-four hours of a state of barter. 
+
+This stance did not work, and the Bank instead switched to an expansionary lending policy. At that point, the “Bank eventually threw everything it had at the Panic of 1825” (Morgan and Narron 2015). It is important to note that the Panic of 1825 served as a learning 
+
+
+experience for the Bank, typified by the passage of the Bank Charter Act of 1844, which granted the Bank more public powers and responsibilities. Over the following decades, the Bank took lessons learned from additional financial crises and eventually came around to following Bagehot’s doctrine (Bordo 2014). 
+
+The Bank considered other options to arrest the Panic of 1825 without requiring it to serve as the lender of last resort. For example, the Bank considered suspending payments as it did during a banking panic in 1797, even subtly asking the government to authorize this action. The government declined this request (James 2012). Additionally, the government issued Exchequer bills in previous crises during 1797 and 1811 as a strategy to increase liquidity and faced public pressure to do the same in 1825. The government refused to do this in the Panic of 1825 and instead “advised the Bank to take the whole affair into their own hands at once” (Bagehot [1873] 1979, citing a letter written by Sir Robert Peel, home secretary during the panic and later primate minister and chancellor of the Exchequer). 
+
+## **16. Similar Programs in Other Countries: The Bank of France loaned gold reserves to the Bank, which alleviated building pressure on the Bank.** 
+
+As mentioned previously, the Bank almost ran down its reserves during the panic and considered suspending convertibility. However, this was avoided in part by a GBP 400,000 loan from the Bank of France on December 19, 1825 (Bordo and Schwartz 1998).[6] 
+
+## **17. Communication: Research did not uncover significant communications by the Bank to explain its actions during the Panic of 1825.** 
+
+Research did not uncover significant communications by the Bank during the Panic of 1825. 
+
+## **18. Disclosure: The Bank of England did not publicize its daily accounts and even hid a major loan to a distressed firm in the early days of the panic.** 
+
+Although the Bank of England maintained internal daily ledgers of lending activity, it did not publish this information. The governor of the Bank of England stated that publishing the Bank’s accounts would have “endangered” the Bank by encouraging a further run due to the reserves being run down (Committee of Secrecy 1832, 56). However, another witness in front of the same committee argued forcefully for publicizing the Bank’s accounts, claiming that better information sharing by the Bank would have prevented much of the Panic of 1825 (Committee of Secrecy 1832, 193–94). 
+
+The Bank did not publicize an initial large loan due to fears that its reserves would be swiftly depleted. Early in December 1825, the Bank of England gave a secret GBP 400,000 loan to a bank on the brink of collapse, Pole, Thornton & Co.[7] The Bank sought this level of secrecy to 
+
+> 6 At the time, England was on the gold standard and France was on the silver standard. The Bank essentially traded silver to the Bank of France in return for gold. Favorable rates on gold in England versus France helped speed the exchange and made it mutually beneficial (Bordo and Schwartz 1998). 
+
+> 7 According to Neal (1998), the Bank’s governor and deputy governor presented the cash to the leader of the borrowing bank, with no other Bank employees in attendance. 
+
+
+prevent other banks from swarming the Bank and demanding assistance.[8] Neal (1998) argues that a “responsible lender of last resort” would have announced the relief to soothe the turmoil in the banking sector and project confidence in the Bank’s ability to support the market. Pole, Thornton failed just six days after this loan, which is possible evidence that conducting this secret loan failed both the individual borrowing institution and the banking sector at large (Ogden 1988). 
+
+## **19. Stigma Strategy: The Bank did not appear to be worried about the discount window becoming stigmatized.** 
+
+It does not appear that the Bank of England had stigma concerns, especially since bankers quickly turned to the Bank for help in times of crisis. In fact, the Bank’s secret loan to Pole, Thornton reveals that the Bank was more worried about too many bankers coming to the discount window rather than bankers avoiding it due to perceived stigma (Neal 1998). 
+
+## **20. Exit Strategy: Research could not determine a planned exit strategy from the Bank of England.** 
+
+Research did not reveal a set exit strategy planned by the Bank of England during the Panic of 1825. 
+
+> 8 However, the governor of the Bank was “particularly connected with the house of Pole & Co. by marriage and other circumstances of relationship,” which could have affected the Bank’s decision to get involved (James 2012, citing Lawson 1852). 
+
+
+## **References and Key Program Documents** 
+
+Documents cited in the text are introduced with a parenthetical author-date citation. Documents that are relevant to this case but have not been cited in text do not include this parenthetical reference. 
+
+## **Implementation Documents** 
+
+(Committee of Secrecy 1832) _Report from the Committee of Secrecy on the Bank of England Charter_ . 1832. Irish University Press Series of British Parliamentary Papers, Monetary Policy: General: 4. Shannon: Irish University Press. 
+
+_A secret committee report from British Parliament on the banking system of England, especially in the aftermath of the Panic of 1825_ . 
+
+https://ypfs.som.yale.edu/library/document/report-committee-secrecy-bank-englandcharter 
+
+## **Media Stories** 
+
+(Bagehot [1873] 1979) Bagehot, Walter. [1873] 1979. _Lombard Street: A Description of the Money Market_ . Reprint of 1915 ed. published by Smith, Elder, London. International Finance. New York: Arno Press. 
+
+_Seminal book by Walter Bagehot on crisis fighting originally published in 1873_ . 
+
+https://ypfs.som.yale.edu/library/document/lombard-street-description-money-market 
+
+## **Key Academic Papers** 
+
+(Anson et al. 2017) Anson, Michael, David M. Bholat, Miao Kang, and Ryland Thomas. 2017. “The Bank of England as Lender of Last Resort: New Historical Evidence from Daily Transactional Data.” Bank of England Staff Working Papers, No. 691. 
+
+_Bank of England paper analyzing several crises in England, including the Panic of 1866, using daily transactional data_ . 
+
+https://ypfs.som.yale.edu/library/document/bank-england-lender-last-resort-newhistorical-evidence-daily-transactional-data 
+
+(Bordo 1998) Bordo, Michael. 1998. “Commentary on ‘The Financial Crisis of 1825 and the Restructuring of the British Financial System.’” Federal Reserve Bank of St. Louis, _Review_ 80, no. 3 (May/June). 
+
+_A response to the Neal (1998) article on the causes of the Panic of 1825_ . https://ypfs.som.yale.edu/library/document/commentary-financial-crisis-1825-andrestructuring-british-financial-system 
+
+(Bordo 2014) Bordo, Michael. 2014. “Rules for a Lender of Last Resort: An Historical Perspective.” _Journal of Economic Dynamics and Control_ , Frameworks for Central Banking in the Next Century 49: 126–34. 
+
+_Article providing an overview into how the lender-of-last-resort responsibility has developed throughout time_ . 
+
+https://ypfs.som.yale.edu/library/rules-lender-last-resort-historical-perspective 
+
+
+(Bordo and Schwartz 1998) Bordo, Michael, and Anna J. Schwartz. 1998. “Under What Circumstances, Past and Present, Have International Rescues of Countries in Financial Distress Been Successful?” National Bureau of Economic Research Working Paper No. 6824, December 1998. 
+
+_Article on historical examples of successful financial crisis fighting_ . 
+
+https://ypfs.som.yale.edu/library/under-what-circumstances-past-and-present-haveinternational-rescues-countries-financial 
+
+(Calomiris, Flandreau, and Laeven 2016) Calomiris, Charles, Marc Flandreau, and Luc Laeven. 2016. “Political Foundations of the Lender of Last Resort: A Global Historical Narrative.” _Journal of Financial Intermediation_ 28, October: 48–65. _Article that contains a discussion of lessons learned by the Bank of England_ . https://ypfs.som.yale.edu/library/document/political-foundations-lender-last-resortglobal-historical-narrative 
+
+(James 2012) James, John A. 2012. “Panics, Payments Disruptions and the Bank of England before 1826.” _Financial History Review_ 19, no. 3: 289–309. 
+
+_Journal article providing insight into the Bank’s response in 1825 and its administration_ . https://ypfs.som.yale.edu/library/document/panics-payments-disruptions-and-bankengland-1826 
+
+(King 1936) King, Wilfred Thomas Cousins. 1936. _History of the London Discount Market._ London: Routledge. 
+
+_Book featuring an overview of the London money markets throughout the 19th century_ . https://ypfs.som.yale.edu/library/document/history-london-discount-market 
+
+(Morgan and Narron 2015) Morgan, Donald, and James Narron. 2015. “Crisis Chronicles: The Panic of 1825 and the Most Fantastic Financial Swindle of All Time.” _Liberty Street Economics_ (blog), April 10, 2015. 
+
+_Blog post from the Federal Reserve Bank of New York summarizing research on the panic_ . https://ypfs.som.yale.edu/library/document/crisis-chronicles-panic-1825-and-mostfantastic-financial-swindle-all-time 
+
+(Neal 1998) Neal, Larry. 1998. “The Financial Crisis of 1825 and the Restructuring of the British Financial System.” Federal Reserve Bank of St. Louis, _Review_ 80, no. 3 (May/June). _Article focusing on the causes of the Panic of 1825_ . 
+
+https://ypfs.som.yale.edu/library/document/financial-crisis-1825-and-restructuringbritish-financial-system 
+
+(Ogden 1988) Ogden, E. M. 1988. “The Development of the Role of the Bank of England as a Lender of Last Resort, 1870-1914.” Unpublished doctoral thesis, City University London. _A thesis studying the Bank of England’s approach to financial crises_ . 
+
+https://ypfs.som.yale.edu/library/document/development-role-bank-england-lender-lastresort-1870-1914 
+
+(Olmstead-Rumsey 2019) Olmstead-Rumsey, Jane. 2019. “Country Banks and the Panic of 1825.” May 2019. 
+
+
+_Article that contains some discussion of the bank rate at the time of the panic_ . https://ypfs.som.yale.edu/library/document/country-banks-and-panic-1825 
+
+(Pickering 2018) Pickering, George. 2018. “The Role of Bank of England Note Issues Amongst the Causes of the Panic of 1825.” _SSRN Electronic Journal_ . 
+
+_Article that contains a detailed timeline of the Panic of 1825, as well as scale documentation_ . https://ypfs.som.yale.edu/library/document/role-bank-england-note-issues-amongstcauses-panic-1825 
+
+(Sayers 1936) Sayers, R.S. 1936. _Bank of England Operations 1890-1914_ . London: P.S King & Son Ltd. 
+
+_Book covering the Bank’s approach to discount lending and operations during the 19th century, which provides context for the 1825 crisis_ . 
+
+https://ypfs.som.yale.edu/library/document/bank-england-operations-1890-1914 
+
+(Sissoko 2014) Sissoko, Carolyn. 2014. “Shadow Banking: Why Modern Money Markets Are Less Stable than 19th c. Money Markets but Shouldn’t Be Stabilized by a ‘Dealer of Last Resort.’” SSRN Scholarly Paper ID 2392098. Rochester, NY: Social Science Research Network. April 25, 2014. 
+
+_Article with an important discussion of collateralization, or the lack thereof, in the 19th century money market_ . 
+
+https://ypfs.som.yale.edu/library/document/shadow-banking-why-modern-moneymarkets-are-less-stable-19th-c-money-markets 
+
+Copyright 2022 © Yale University. All rights reserved. To order copies of this material or to receive permission to reprint any or all of this document, please contact the Yale Program on Financial Stability at ypfs@yale.edu.

@@ -1,0 +1,639 @@
+--- Page 1 ---
+Journal of Financial Crises Journal of Financial Crises 
+Volume 3 Issue 1 
+2021 
+The Rescue of Fannie Mae and Freddie Mac – Module E: The The Rescue of Fannie Mae and Freddie Mac – Module E: The 
+Housing and Economic Recovery Act of 2008 Housing and Economic Recovery Act of 2008 
+Daniel Thompson 
+Yale School of Management 
+Follow this and additional works at: https://elischolar.library.yale.edu/journal-of-financial-crises 
+ Part of the Administrative Law Commons, Economic History Commons, Finance Commons, and the 
+Political Economy Commons 
+Recommended Citation Recommended Citation 
+Thompson, Daniel (2021) "The Rescue of Fannie Mae and Freddie Mac – Module E: The Housing and 
+Economic Recovery Act of 2008," Journal of Financial Crises: Vol. 3 : Iss. 1, 387-401. 
+DOI: https://doi.org/10.17132/2693-3179.1143 
+Available at: https://elischolar.library.yale.edu/journal-of-financial-crises/vol3/iss1/13 
+This Case Study is brought to you for free and open access by the Journal of Financial Crises and 
+EliScholar – A Digital Platform for Scholarly Publishing at Yale. For more information, please contact 
+journalfinancialcrises@yale.edu.
+
+--- Page 2 ---
+READERS TAKE NOTICE: READERS TAKE NOTICE: 
+As of April 2024, the YPFS Resource Library’s site domain has changed 
+to https://elischolar.library.yale.edu/ypfs-financial-crisis-resource-library/. 
+Please be aware that upon clicking any of the URL references to 
+the former Resource Library domains, either https://ypfs.som.yale.edu 
+or https://ypfsresourcelibrary.blob.core.windows.net/, in the 
+"References/Key Program Documents" section of a case study, 
+readers will encounter a "page not found" error. readers will encounter a "page not found" error. 
+Readers can still retrieve a given resource cited within this case study 
+on the new site  by searching by searching here  for the title cited. for the title cited. 
+This case study is available in Journal of Financial Crises: https://elischolar.library.yale.edu/journal-of-financial-
+crises/vol3/iss1/13
+
+--- Page 3 ---
+The Rescue of Fannie Mae and Freddie Mac – Module E: 
+The Housing and Economic Recovery Act of 20081 
+Daniel Thompson2, 3 
+Yale Program on Financial Stability Case Study 
+April 15, 2021 
+Abstract 
+ 
+As the U.S. housing crisis worsened in  2007, and through 2008, the Federal National 
+Mortgage Association  (Fannie Mae) and t he Federal Home Loan Mortgage Corporation 
+(Freddie Mac) headed towards insolvency. At the same time, c ontractions in private 
+securitization resulted in these two government-sponsored enterprises (GSEs) purchasing 
+nearly half of all new mortgages. In July, the government passed the Housing and Economic 
+Recovery Act of 2008 (HERA) to provide a more effective regulator and to address public 
+uncertainty regarding whether the government would back the  GSEs’ assets and liabilities. 
+HERA provided Treasury and the  newly formed Federal Housing Finance Agency ( FHFA) 
+with the framework needed to stabilize the distressed firms, which by then collectively held 
+or guaranteed over $5 trillion in mortgages and mortgage -related securities. On September 
+6, the FHFA placed the GSEs into conservatorships and Treasury took steps to ensure their 
+solvency. The steps taken by the government pursuant to HERA avoided the collapse of the 
+GSEs and the concomitant collapse of the U.S. housing market, but did not address the longer-
+term issues inherent in the GSEs’ structure, which remain unresolved as the firms remain in 
+conservatorship. 
+ 
+1 This case study is one of seven 2021 Yale Program on Financial Stability (YPFS) case studies th at examine in 
+detail the various elements of the government’s rescue of the GSEs:  
+•  “The Rescue of Fannie Mae and Freddie Mac – Module A: The Conservatorships” by Daniel Thompson 
+and Rosalind Z. Wiggins. 
+•  “The Rescue of Fannie Mae and Freddie Mac – Module B: The Senior Preferred Stock Purchase 
+Agreements (SPSPAs)” by Daniel Thompson.  
+•  “The Rescue of Fannie Mae and Freddie Mac – Module C: GSE Credit Facility” by Emily Vergara.  
+•  “The Rescue of Fannie Mae and Freddie Mac – Module D: Treasury’s GSE MBS Purchase Program”  by 
+Michael Zanger-Tishler and Rosalind Z. Wiggins.  
+•  “The Rescue of Fannie Mae and Freddie Mac – Module E: The Housing and Economic Recovery Act of 
+2008” by Daniel Thompson. 
+•  “The Rescue of Fannie Mae and Freddie Mac – Module F: The Federal Reserve’s Large -Scale Asset 
+Purchase (LSAP) Program” by Daniel Thompson  and Adam Kulam. 
+•  “The Rescue of Fannie Mae and Freddie Mac – Module Z: Overview” by Rosalind Z. Wiggins, Benjamin 
+Henken, Adam Kulam, Daniel Thompson, and Andrew Metrick. 
+Cases are available from the Journal of Financial Crises  at https://elischolar.library.yale.edu/ journal-of-
+financial-crises/. 
+2 Daniel Thompson - Research Associate, YPFS, Yale School of Management.   
+3 The author would like to thank Adam Kulam and Lily Engbith for their contributions.  
+387
+
+--- Page 4 ---
+Keywords: GSEs, HERA, The Housing and Recovery Act of 2008 , Fannie Mae, Freddie Mac, 
+FHFA, Treasury, liquidity, housing crisis  
+388
+Journal of Financial Crises Vol. 3 Iss. 1
+
+--- Page 5 ---
+The Housing and Economic Recovery Act of 2008: United States Context 
+GDP 
+(SAAR, Nominal GDP in LCU 
+converted to USD) 
+$14,681.5 billion in 2007 
+$14,559.5 billion in 2008 
+$14,628.0 billion in 2009 
+GDP per capita 
+(SAAR, Nominal GDP in LCU 
+converted to USD) 
+$47,976 in 2007 
+$48,383 in 2008 
+$47,100 in 2009 
+Sovereign credit rating (5-year 
+senior debt)  
+As of Q4 2007/2008/2009: 
+Fitch: AAA 
+Moody’s: Aaa 
+S&P: AAA 
+ 
+Size of banking system  
+$9,231.7 billion in total assets in 2007 
+$9,938.3 billion in total assets in 2008 
+$9,789.1 billion in total assets in 2009 
+Size of banking system as a 
+percentage of GDP  
+62.9% in 2007 
+68.3% in 2008 
+66.9% in 2009 
+Size of banking system assets as a 
+percentage of financial system 
+assets  
+29.0% in 2007 
+30.5% in 2008 
+30.3% in 2009 
+5-bank concentration of banking 
+system  
+43.9% of total banking assets in 2007 
+44.9% of total banking assets in 2008 
+44.3% of total banking assets in 2009 
+Foreign involvement in banking 
+system 22% of total banking assets in 2007 
+18% of total banking assets in 2008 
+19% of total banking assets in 2009 
+Government ownership of banking 
+system  
+0% of banks owned by the state in 2008 
+0% of banks owned by the state in 2009 
+Existence of deposit insurance 100% insurance on deposits up to $100,000 in 
+2007 
+100% insurance on deposits up to $250,000 in 
+2008 
+100% insurance on deposits up to $250,000 in 
+2009 
+Sources: Bloomberg, World Bank Global Financial Development Database, Federal Deposit 
+Insurance Corporation. 
+ 
+ 
+ 
+ 
+389
+The Rescue of Fannie Mae and Freddie Mac – Module E Thompson
+
+--- Page 6 ---
+I. Overview 
+Note: This article addresses how HERA changed the government’s relationship with Fannie Mae 
+and Freddie Mac. It briefly mentions HERA provisions relating to the Federal Home Loan Banks, 
+another GSE, but does not discuss HERA’s other functions. 
+Background  
+The Federal National Mortgage Association  (Fannie Mae) and the Federal Home Loan 
+Mortgage Corporation (Freddie Mac) are large government -sponsored enterprises (GSEs) , 
+public-private corporations specially chartered by Congress to enhance the liquidity of the 
+U.S. secondary mortgage market and thereby promote access to mortgage credit, particularly 
+among low- and moderate-income households and neighborhoods (FCIC 2011, 15). The GSEs 
+pursue their mission by buying mortgages conforming to their underwriting standards , 
+guaranteeing payment of the underlying mortgages and packaging the mortgages int o 
+mortgage-backed securities (MBS) which they s ell to investors (FCIC 2010, 15). They also 
+purchase private-label MBS (PLMBS), which invest in nonconforming mortgages that th ey 
+hold in their portfolios (FCIC 2010, 23). The GSEs fund their operations by issuing debt and 
+they enjoy a robust market with their debt being widely held. 
+The firms are publicly traded for -profit companies whose shares are favored by investors 
+large and small. They are governed by their Boards of Directors and shareholders but enjoy 
+numerous advantageous because of their hybrid structure.4 Although not direct components 
+of the U.S. government, they were often assumed to have the backing of the government due 
+to a number of factors including: their housing mission, their government charter, their 
+favorable statutory treatment, and the $2.25 billion backup credit line that each had from 
+the Treasury Department (CBO 2010; FCIC 2010, 16). Their debt issuances enjoy a favored 
+status among investors, banks, and even the Federal Reserve, similar to debt issued directly 
+by the government (Frame et al. 2015). This “implied government guarantee” of their debt 
+and obligations has been very beneficial to the GSEs in a number of ways including a lower 
+cost of funding in terms of interest paid on debt securities and premiums paid on guarantees 
+of GSE MBS (FCIC 2010, 16; GAO 1996). 
+GSE Regulation Before July 2008 . Several prominent federal officials expressed concerns 
+about the efficacy of GSE regulators at least a decade before the crisis (Bernanke 2012, 8). In 
+2004, Chairman Alan Greenspan argued that the GSEs’ massive balance sheets, dominant 
+role in secondary mortgage, regulatory exemptions, and  lack of market discipline created 
+systemic risk in the housing market (Greenspan 2004). During his tenure as Chairman, Ben 
+ 
+4 The GSEs are publicly traded and privately owned and governed by their Boards of Directors and shareholders 
+but enjoy numerous advantageous because of their hybrid structure.  “These statutory benefits include (1) 
+exemption from state and local taxes, (2) a line of credit with the U.S. Treasury up to $2.25 billion, (3) eligibility 
+of their debt to serve as collateral for public deposits, (4) eligibility of their securities for Federal Reserve open-
+market purchases, (5) eligibility for their corporate securities to be purchased without limit by federally 
+regulated financial institutions, (6) assignment of mortgage -related securities they have issued or guaranteed 
+to the second -lowest credit risk category at depository institutions, and (7) exemption from the registration 
+requirements of the Securities and Exchange Commission” (Jickling 2007). 
+390
+Journal of Financial Crises Vol. 3 Iss. 1
+
+--- Page 7 ---
+Bernanke echoed Greenspan’s concerns, adding that Fannie Mae  and Freddie Mac ’s low 
+capital limits posed a risk for the housing market and the economy (Paulson 2010, Ch. 1; 
+Bernanke 2015, Ch. 11).  
+Prior to HERA, Congress had tried  and failed to pass legislation to strengthen the GSEs’ 
+regulators or create a stronger regulatory agency (Frame and White 2004, 89-93). From the 
+passage of the Federal Housing Enterprises Financia l Soundness  and Safety Act in 19925 
+until the passage of HERA, Fannie Mae and Freddie Mac were regulated using a two-tiered 
+system: the Department of Housing and Urban Development (HUD) and the Office of Federal 
+Housing Enterprise Oversight (OFHEO), which operated as an in dependent agency within 
+HUD (Frame and White 2004, 88-89).  
+HUD monitored the GSEs’ commitment to the mission stated in their charter and was charged 
+with determining whether the Enterprises had adequately supplied the secondary mortgage 
+market with loans, particularly for lower -income families and underserved areas (Fishbein 
+2003, 6 -8). HUD, which reviewed new mortgage program proposals from the GSEs, was 
+required to authorize the programs within 45 days of their submission  (Fishbein 2003, 6). 
+Under this supervisory process incoming requests were approved by default (unless proven 
+to be unauthorized, not in the public interest, or high-risk) if not rejected by HUD within the 
+45-day period (Fishbein 2003, 5). Due to its regulatory burden , HUD occasionally chose to 
+not review new GSE  programs, such as  the GSEs’ decision to begin purchasing subprime 
+mortgages for their portfolios (Fishbein 2003, 5).  
+OFHEO regulated the safety and soundness of Fannie Mae  and Freddie Mac  (Frame and 
+White 2004, 88). As part of its duties, OFHEO examined the GSEs’ financial health, established 
+risk-based capital standards, and ensure d the GSEs’ compliance with the capital standards 
+(Frame and White 2004, 88) . OFHEO used three capital standards to evaluate the GSEs: a 
+risk-based standard, a minimum capital standard, and a critical capital standard (Frame and 
+White 2004, 98). The risk-based standard was intended to consist of enough capital to cover 
+the interest, credit default, and operational  risks plus an ad ditional 30% of capital surplus  
+(Frame and White 2004, 98). The established minimum capital standard was 2.5% of assets 
+on the balance sheet and 0.45% of off-balance-sheet assets (Frame and White 2004, 98). The 
+critical capital standard  was set to 0.25% of on -balance-sheet and off-balance-sheet assets 
+(Frame and White 2004, 98) . OFHEO could seek disciplinary action if the GSEs violated 
+capital standards or the law, which the agency  did following the discovery of  accounting 
+errors in the early 2000s, but the agency had no authority to change such standards (Frame 
+and White 2004, 90-91, 98-100). 
+OFHEO’s authority and decision to conduct an intervention depended on the GSEs’ ability to 
+meet the three capital standards. Based on this capital assessment, Fannie Mae and Freddie 
+Mac fell into four categories of increasing risk: adequately capitalized, undercapitalized, 
+significantly undercapitalized, and critically undercapitalized  (Frame and White 2004, 99). 
+OFHEO’s authority was prescribed by the standard of capitalization of the GSE: 
+ 
+5 12 U.S.C. § 4501 et seq. 
+391
+The Rescue of Fannie Mae and Freddie Mac – Module E Thompson
+
+--- Page 8 ---
+1. If a GSE met all three criteria , it was classified as “adequately capitalized” and 
+required no further action.  
+2. If the GSE could not meet the risk -based standard, it was considered 
+“undercapitalized,” which required the GSE to submit a capital restoration plan to 
+OFHEO and prohibited the GSE from distributing more capital in the short-term.  
+3. If the GSE failed to meet both the risk -based and minimum capital standards, it was 
+“significantly undercapitalized ,” which carr ied the same restrictions as the 
+undercapitalized classification, and additional growth restrictions.  
+4. If the GSE met none of the three capital standards it was considered “critically 
+undercapitalized,” which permitted  OFHEO to place the GSE  into conservatorship 
+(Frame and White 2004, 99).  
+Prior to HERA, however, conservatorship was not considered a viable option because OFHEO 
+lacked a mechanism  to finance a conservatorship and had no power to delegate  losses 
+between debtors and creditors ( Frame et al. 2015 , 18 ). In addition,  OFHEO was not 
+authorized to initiate a receivership6 (Frame et al. 2015, 5). 
+When the mortgage market began to contract during the summer of 2007, OFHEO loosened 
+their portfolio limit and lowered their capital surplus requirements to ensure that the GSEs 
+continued to provide the market with liquidity (FCIC 2011, 310-12). OFHEO raised the GSEs’ 
+investment portfolio cap from approximately $728 billion to $735 billion in September 2007 
+and abolished the cap altogether in March 2008 (FCIC 2011, 312-313). It lowered the capital 
+surplus requirement from 30% to 20% in March 2008 (and from 20% to 15% for Fannie Mae 
+in June 2008), with an understanding that the GSEs would use these loosened restrictions to 
+raise capital (FCIC 2011, 314-315). While Fannie Mae was able to raise $7.4 billion in capital 
+in May, Freddie Mac failed to do so (FCIC 2011, 315).  
+Despite OFHEO’s efforts to mitigate the GSEs’ losses, many critics considered it unable to 
+handle the full extent of the crisis (FCIC 2011, 314-315). Ever since its inception in 1992, and 
+increasing overtime as the firms grew, many observers believed that OFHEO’s structure and 
+regulatory practices were inadequate to its assigned task (FCIC 2011, 314-315). The agency 
+could not adjust the GSEs minimum capital requirements, as the 1992 statute mandated that 
+they remain at 2.5% and 0.45% of on -balance-sheet and off -balance-sheet assets , 
+respectively (Frame et al. 2015, 5). OFHEO required annual congressional appropriations to 
+function, which subjected the regulator to political interests , particularly because  Fannie 
+Mae and Freddie Mac had substantial congressional lobbying teams (Frame et al. 2015, 5) . 
+In 2003, then Treasury Secretary John Snow testified before the House Financial Services 
+Committee that there was “a general recognition that the supervisory system for the housing 
+ 
+6 The key distinction between a conservatorship and a receivership is that the former process is intended to 
+manage the entity through a reorganization or rehabilitation, preserving its assets, and the latter is intended 
+to manage the wind-down or resolution of the entity (Jester et al. 2018, 7-8).  
+392
+Journal of Financial Crises Vol. 3 Iss. 1
+
+--- Page 9 ---
+GSEs neither has the tools, nor the stature, to effectively deal with the current size, 
+complexity, and importance of these enterprises” (Frame and White 2004, 89).  
+Market Instability in 2007-08. When Fannie Mae and Freddie Mac began to post billion-dollar 
+loses at the end of 2007, it became more apparent  to government officials  that the firms’ 
+decision to purchase (and to continue to purchase) risky loans could destabilize the GSEs 
+and, by extension, the entire financial system (FCIC 2011, 309-312). Fannie Mae and Freddie 
+Mac’s worsening hea lth increased public concerns about whether the government would 
+guarantee their assets (FCIC 2011, 314-316). In the words of Tim Geithner (then President 
+of the Federal Reserve  Bank of New York  [FRBNY]), “just about everyone except their 
+captured regulator [OFHEO] agreed [Fannie Mae  and Freddie Mac ] were woefully 
+undercapitalized” (Geithner 2014, Ch. 5). Market concerns increased on July 7, 2008 , when 
+a Lehman Brothers analyst released a report speculating that Fannie and Freddie would not 
+be able to raise the required capital in light of weak market conditions for their stock and the 
+possible effect of a new accounting standard that would require the firms  to bring their off-
+balance sheet entities onto the balance sheet (Paulson 2010 ; Wingfield 2008). The  GSEs’ 
+common share prices dropped by more than 16% as a result (Lockhart 2008). 
+In July 2008, at Fannie Mae’s and Treasury Secretary Paulson’s requests, the Federal Reserve 
+Board invoked its emergency authority under S ection 13( 3) of the Federal Reserve Act, 
+enabling the FRBNY to extend a provisional line of credit to Fannie Mae and Freddie Mac 
+(FCIC 2011, 316-317; FRB 2008). This also allowed the Fed—in cooperation with the Office 
+of the Comptroller of the Currency (OCC)—to conduct its own investigation into the GSEs for 
+the first time  (FCIC 2011, 317). The review revealed that the GSEs were more financial ly 
+unstable than previously suspected  and might soon become insolvent  (FCIC 2011, 317) . 
+Treasury also hired a team from Morgan Stanley to review Fannie Mae and Freddie Mac’s 
+business operations; their assessment  corroborated the Fed and OCC’s conclusions ( FCIC 
+2011, 317).  
+Secretary Paulson, Chairman Bernanke, and OFHEO director James Lockhart increased their 
+lobbying efforts for legislation to create a  new regulator that could rescue the GSEs from 
+insolvency, stabilize them , resolve their regulatory issues, and quell ge neral uncertainty in 
+the market  (FCIC 2011, 316 -317). On July 13, 2008 , Secretary Paulson testified before 
+Congress, requesting “GSE reform legislation . . . to have a strong independent regulator that 
+will inject confidence into those institutions and into the markets” (Paulson 2008). Paulson 
+stressed that the new regulator should have the financial capacity —with the backing of 
+Treasury—to stabilize the GSEs (Paulson 2008). Offering an analogy to support his request, 
+Paulson argued that Treasury required a “bazooka” that it could  threaten to use to increase 
+confidence in the stability of the agencies (FCIC 2011, 316-317).  
+Program Description  
+On July 30, 2008, the government passed the Housing and Economic Recovery Act ( HERA). 
+Among other things, the bill merged OFHEO, the Federal Housing Finance Board, and HUD’s 
+GSE Oversight Team  into the newly created Federal Housing Finance Agency (FHFA) , and 
+393
+The Rescue of Fannie Mae and Freddie Mac – Module E Thompson
+
+--- Page 10 ---
+enabled the FHFA and its new director, James Lockhart , to exercise significantly increased 
+authority over Fannie Mae and Freddie Mac7 (FHFA 2008, 15).  
+Beginning in August 2008 and continuing during the first three months of the 
+conservatorship, the FHFA absorbed employees from OFHEO, HUD, and the Federal Housing 
+Finance Board (FHFB); the move interfered with FHFA’s ability to act as conservator (FHFA 
+2008, 15). Under HERA, OFHEO and the FHFB had a year to wind down their operations and 
+integrate into the FHFA (HUD’s non -GSE-related duties would remain operational) (FHFA 
+2008, 15). However, the FHFA’s decision to enac t a GSE conservatorship seems to have 
+accelerated this process to less than three months; the FHFA absorbed all OFHEO and FHFB 
+employees and operations by October 27, 2008 (FHFA 2008, 15). The FHFA later reported 
+that overseeing the GSEs as conservator whi le simultaneously managing a major 
+reorganization integrating new employees and operations had created “ administrative and 
+cultural challenges in merging information technologies and systems, financial and human 
+resources functions, and operational differe nces” (FHFA 2009, 30). In effect, the FHFA was 
+stressed with creating itself at the same time that it wa s charged with managing the GSEs 
+and stabilizing the U.S. mortgage market. 
+Enhanced Safety and Soundness Regulation 
+Like OFHEO, the FHFA could restrict asset growth if it found a GS E to be undercapitalized  
+(Frame and White 2004, 99; HUD 2008; HERA 2008). However, the FHFA could also adjust 
+minimum and risk-based capital standards (Frame 2009, 10; HERA 2008, 111-12). The FHFA 
+could use cease-and-desist authority and remove company officers (HUD 2008). It was also 
+given power  to review and approve the GSEs’ new products  (previously the authority of 
+HUD) (HERA 2008, §1121-23; HUD 2008 ). The FHFA no longer needed congressional 
+approval for its budget, providing it increased latitude (Frame 2009, 10). 
+Based on the severity of the GSEs’ undercapitali zation, the FHFA could restrict their capital 
+distributions, force them to change their leade rship, or —in the most severe cases of 
+undercapitalization—place them in a conservatorship or a receivership (HERA 2008, §1145; 
+HUD 2008 ). After enacting a conservatorship, the FHFA could stabilize Fannie Mae  and 
+Freddie Mac by any means necessary  and could access funds from the Treasury if needed  
+(Jickling 2008, 2 -3). The conservatorship provision in HERA was intended to be similar to 
+the power of the FDIC over insolvent depository institutions, but unlike bank regulators, the 
+FHFA did not need to resolve the insolvency at the lowest possible cost (Jickling 2008, 2). 
+ 
+7 HERA also designated the FHFA director to serve as director of the Federal Home Loan Banks (FHLBs), which 
+are a collection of 11 banks that lend to institutions, mainly commercial banks and thrifts, for purposes related 
+to housing (FHFA 2008, 23-26; HERA 2008, Title II). The FHLBs experienced financial difficulties as the result 
+of contractions in the housing markets, but not to the same severity as Fannie Mae and Freddie Mac (FHFA 
+2008, 3-6). HERA provided Treasury with the same emergency capability to stabilize the FHLBs that it allowed 
+for the GSEs (HERA 2008, Title II; HUD 2008). Treasury never exercised its emergency authority related to the 
+FHLBs (Frame et al. 2015, 17). 
+ 
+394
+Journal of Financial Crises Vol. 3 Iss. 1
+
+--- Page 11 ---
+After passage of HERA, FHFA continued to use statutory capital requirements to analyze the 
+health of Fannie Mae and Freddie Mac, which gave the impression that Fannie and Freddie 
+were more financially sound than they actually were (FCIC 2011, 318) . Secretary Paulson 
+claims that this approach left the FHFA unable to a ccess the capital needs of the  market 
+(Paulson 2010, Ch. 1 ). Bernanke concurred with Paulson, adding that Federal Reserve 
+officials had warned the regulator that the GSEs’ capital limits were too low (Bernanke 2015, 
+Ch. 11). During this time, the GSEs capital levels were less than 2% (FCIC 2011, 309). 
+Consultation with the Federal Reserve 
+HERA recognized the role that the Federal Reserve played in regulating banks and financial 
+stability by requiring the FHFA director to “consult with the Fed chairman” regarding: 
+The risks posed by the regulated entities to the financial system, prior to issuing any 
+proposed or final regulations,  orders, and guidelines with respect to the exercise of 
+the additional authority provided in this Act regarding prudential  management and 
+operations standards, safe and sound operations of, and capital requirements and 
+portfolio standards applicable to the regulated entities (HERA 2008, §1118). 
+The director was also to consult with the Fed chairman regarding any decision to place a GSE 
+(including a FHLB bank) into conserv atorship or receivership  and to periodically share 
+information about with “capital, asset and liabilities,  financial condition, and risk 
+management practices” of the GSEs and any information relating to financial stability (HERA 
+2008, §1118). This consultative relationship expired on December 31, 2009. 
+Treasury Funding  
+While the FHFA was the GSEs’ regulator, HERA enabled Treasury to serve as a  potential 
+financial stopgap for Fannie Mae  or Freddie Mac  during a conservatorship (HUD 2008 ). 
+Under Section 1117 of HERA: 
+Treasury is authorized to purchase any obligations and other securities issued by the 
+Corporation . . . , on such terms and conditions as the Secretary may determine and in 
+such amounts as the Secretary  may determine. Nothing in this subsection requires  
+the Corporation to issue obligations or securities to the  Secretary without mutual 
+agreement between the Secretary  and the Corporation. Nothing in this subsection 
+permits or authorizes the Secretary, without the agreemen t of the  Corporation, to 
+engage in open market purchases of the common securities of the Corporation. 
+Treasury could exercise its broad emergency powers once it determined that its actions were 
+necessary to: 
+1. provide stability to the financial markets;  
+2. prevent disruptions in the availability of mortgage finance; and 
+3. protect the taxpayer (HERA 2008; HUD 2008). 
+395
+The Rescue of Fannie Mae and Freddie Mac – Module E Thompson
+
+--- Page 12 ---
+Once it made this “emergency determination” Treasury could inject the GSEs with capital by 
+purchasing an unlimited amount of their securities or debt, provided , however, that such 
+authority was exercised prior to December 31, 2009 , as a lso provided in the HERA (HERA 
+2008, §1117; Jickling 2008, 2-3).  
+The December date represents a compromise of design—unlimited authority but limited as 
+to time—which made the bill palatable to legislators who were thought unlikely to grant a 
+total blank check without any limits  (Jester et al. 2018 , 3 -5). While this compro mise 
+recognized that it was to be a temporary authority to address the emergency situation at 
+hand, it also acknowledged that the true scope of what might be needed to stabilize the GSEs 
+was unknown (Jester et al 2018, 9 -10). Concurrent with the passage of HERA, the federal 
+debt ceiling was also expanded by $800 billion to $10.6 trillion to accommodate any 
+emergency financing (FCIC 2011, 317; Jester et al. 2018, 8-9). 
+Fannie Mae and Freddie Mac were also subject to additional g uidelines, most prominently 
+conforming loan limits , which capped the maximum size of the loans that the GSEs could 
+purchase from originators (Frame et al. 2015, 2 -3; HERA  2008, §1124). HERA also 
+established a new formula for calculating the GSEs’ conforming loan limit , which provided 
+the conforming loan limit would not exceed $ 417,000 for single-family units, and could be 
+adjusted annually based on housing prices  (HERA 2008, §1124). The conforming loan limit 
+could not be reduced; only increased (HERA 2008, §1124).  
+The Rescue Plan 
+On September 7, 2008, with Fannie Mae and Freddie Mac near insolvency and facing liquidity 
+difficulties, Treasury and the FHFA (in consultation with the Fed, as required) announced a 
+four-part rescue plan to stabilize the firms : (1) place the GSEs into conservatorship s8; (2) 
+enter into  senior preferred stock agreement s to guarantee the solvency of each GSE; (3) 
+establish a secured credit facility with each GSE; and (4) purchase GSE MBS (FHFA 2008, 9-
+11).  
+Figure 1: Programs Developed Using HERA 
+ 
+8 The FHFA took Fannie Mae and Freddie Mac under separate conservatorships. We herein discuss the two 
+conservatorships as one due to the similarities between the two structures.  
+Name of intervention  Funding limit Time limit 
+Conservatorships Not applicable.  Unlimited 
+SPSPAs Initially, $200 billion aggregate . 
+Potentially unlimited. 
+Unlimited 
+Credit Facility No limit stated. To expire December 31, 
+2009 
+396
+Journal of Financial Crises Vol. 3 Iss. 1
+
+--- Page 13 ---
+Sources: HERA; Treasury 2008a; Treasury 2008b, Treasury 2008c, Jester et al. 2019. 
+Conservatorship is “a statutory process designed to stabilize a troubled institution with the 
+objective of returning the entities to normal business operations ” (FHFA 2008a).  The 
+decision to place the enterprises into conservatorship was based on a finding that they could 
+not inde pendently “ continue to operate safely and soundly and fulfill their critical public 
+mission” (FHFA 2008a). As conservator, the FHFA had broad authority to operate the firms 
+until they were stabilized and released form the conservatorships or put into receivership.  
+The second and third components of the rescue plan permitted the Treasury to inject long-
+term and short -term funding, respectively, into the GSEs to ensure that they remained 
+solvent (Frame et al. 2015, 16 -17). Pursuant to the  senior preferred stock purchase 
+agreements (SPSPAs), the Treasury received GSE preferred stock (paying a 10% dividend) 
+and a warrant to acquire 79.9% of the firms’ common stock for a nominal price in return for 
+providing draws to maintain a positive net worth for the GSEs 9 (Frame et al. 2015, 16 -17). 
+The final part allowed Treasury to purchase GSE MBS, which would help sustain Fannie Mae 
+and Freddie Mac in their key role as issuers (Frame et al. 2015 16-17).  
+While Fannie Mae and Freddie Mac faced different problems ( e.g. Freddie Mac had a larger 
+capital hole), the government decided to adopt the same approach to resolve both GSEs  
+(Paulson 2010, Ch. 1). In defense of treating Fannie Mae and Freddie Mac the same, Paulson 
+argued that the market saw them as the same, as the market believed both had the implic it 
+guarantee of the U.S. government (Paulson 2010, Ch. 1).  
+Outcomes 
+Fannie Mae and Freddie Mac continued to sustain significant losses until 2012, and often had 
+to draw funds under the SPSPA s to meet its liquidity requirements including funding the 
+dividend payments it made to Treasury (Frame et al. 2015, 17; Thompson 2021b). Prior to 
+2012, Treasury invested $187.5 billion in draws pursuant to the SPSPA (Frame et al. 2015, 
+16). It also purchased $225 billion GSE MBS (Frame et al. 2015, 17 ). The Fed invested an 
+additional $1,270.4 billion: $134.5 billion in GSE debt and $1,135.9 billion of GSE MBS 
+purchased (FHFA 2019).  
+In August 2012, the SPSPAs were amended to require that, in lieu of dividend payments, the 
+GSEs would pay all realized profits, after a stated capital buffer, to the Treasury (Thompson 
+ 
+9 The “keepwell” structure of the SPSPAs enabled the GSEs to continue to draw funding from Treasury even 
+after the December 31, 2009, deadline stated in the HERA (Jester et al. 2018). Generally, a keepwell 
+agreement is a contractual relationship between a parent company and subsidiary in which the parent 
+promises to maintain the subsidiary’s minimum regulatory capital (Jester et al. 2018). For details of this 
+structure see Thompson (2021b).  
+ 
+MBS Purchase 
+Program 
+At the discretion of the Treasury 
+Secretary. No limit stated. 
+To expire December 31, 
+2009  
+397
+The Rescue of Fannie Mae and Freddie Mac – Module E Thompson
+
+--- Page 14 ---
+2021b, sec. “Program Description”).10 Beginning in 2012 and continuing through to the date 
+of this case’s publication, the GSEs have posted annual profits . As of the fourth quarter of 
+2018, Fannie Mae and Freddi e Mac have paid a com bined $292.3 billion to Treasury in 
+dividends and have received $191 .5 billion in draws (Frame et al. 2015, 17; Thompson 
+2021b).  
+II. Evaluation  
+HERA provided the tools that the government needed to stabilize Fannie Mae and Freddie 
+Mac in 2008. By doing so, the two GSEs were able to co ntinue to support the U .S. housing 
+market by buying a substantial number of mortgages when private securitization had 
+evaporated.  
+Over the course of the conservatorship, GSE shareholders have filed several lawsuits 
+challenging the government’s  sweep of profits  pursuant to the 2012 amendment of t he 
+SPPSA; lawsuits are still pending as of this case’s publication (Frame et al. 2015, 26; Hurley 
+2020).  
+Some critics have claimed that the continuing conservatorships have created uncertainty, 
+causing lenders to tighten their underwriting standards  (Frame et al. 2015 , 27-28). There 
+have been several proposals for reforming the GSEs by various constituencies, but no 
+resolution has emerged (Frame et al. 2015, 30) . As of the date of this memo, the firms 
+continue to operate under conservatorship and the amended SPSPAs. 
+III. References 
+Bernanke, Ben S. 2012. “Lecture 3: The Federal Reserve's Response to the Financial Crisis. ” 
+Lecture presented at The George Washington School of Business , Washington, D.C., March 
+27, 2012. https://ypfs.som.yale.edu/library/lecture-3-federal-reserves-response-financial-
+crisis. 
+———. 2015. The Courage to Act: A Memoir of the Crisis and its Aftermath . New York: W.W. 
+Norton. https://ypfs.som.yale.edu/library/courage-act-memoir-crisis-and-its-aftermath-0. 
+Congressional Budget Office. “Fannie Mae, Freddie Mac, and the Federal Role in the 
+Secondary Mortgage Market. December 2010. https://ypfs.som.yale.edu/node/3363. 
+Department of Housing and Urban Development (HUD). 2008. “Summary of the Housing and 
+Economic Recovery Act of 2008.” https://ypfs.som.yale.edu/node/2772. 
+ 
+10 The payments did not reduce the GSEs’ debt to Treasury, which was largely embodied in the liquidation 
+preference of the senior preferred stock. See Thompson (2021b), for further description of the liquidation 
+preference and also of post-2012 amendments to the SPSPAs. 
+398
+Journal of Financial Crises Vol. 3 Iss. 1
+
+--- Page 15 ---
+Federal Housing Finance Agency  (FHFA). 2008. “ Performance and Accountability Report ” 
+https://ypfs.som.yale.edu/node/3375. 
+———. 2008a. “Statement of FHFA Director James B. Lockhart at News Conference 
+Announcing Conservatorship of Fannie Mae and Freddie Mac.” Press Release. September 7, 
+2008.  
+———. 2009. “Strategic Plan: Fiscal Years 2009 -2014.” July 2009. 
+https://ypfs.som.yale.edu/library/fhfa-strategic-plan-2009-2014. 
+———. 2011. “ Annual Rep ort to Congress. ” June 13, 2012. 
+https://ypfs.som.yale.edu/node/3390. 
+———. 2019. “Treasury and Federal Reserve Purchase Programs for GSE and Mortgage -
+Related Securities.” September 30, 2019. https://ypfs.som.yale.edu/library/fhfa-treasury-
+and-federal-reserve-purchase-programs-gse-and-mortgage-related-securities. 
+Federal Reserve  Board (FRB). 2008.  “Discount Win dow Lending. ” Press release, July 13 , 
+2008. (FRB 2008).  https://ypfs.som.yale.edu/library/discount-window-lending-proposal-
+lend-fannie-mae-and-freddie-mac-through-advances-secured. 
+Financial Crisis Inquiry Commission  (FCIC). 2010. “Governmental Rescues of ‘Too-Big-To-
+Fail’ Financial Institutions.” Preliminary S taff Report, August 31, 2010.  
+https://ypfs.som.yale.edu/library/draft-fcic-preliminary-staff-report-too-big-fail-financial-
+institutions-copy. 
+———. 2011. Financial Crisis Inquiry Report: Final Report of the National Commission on the 
+Causes of the Financial and Economic Crisis in the United States . U.S. Government Printing 
+Office. January 27, 2011.  
+https://ypfs.som.yale.edu/node/3366. 
+Fishbein, Allen. “H.R. 2575, The Secondary Mortgage Market Enterpr ises Regulatory 
+Improvement Act and Other Proposals on GSE Regulation.” Testimony before the Committee 
+on Financial Services, U.S. House of Repre sentatives. September 25, 2003. 
+https://ypfs.som.yale.edu/library/allen-fishbein-testimony-committee-financial-services-
+us-house-representatives. 
+Frame, W. Scott. 2009. “The 2008 Federal Intervention to Stabilize Fannie Mae and Freddie 
+Mac.” Federal Reserve Bank Working Paper 2009 -13, April 2009. 
+https://ypfs.som.yale.edu/node/3447. 
+Frame, W. Scott, and Lawrence J. White. 2004. “Fussing and Fuming Over Fannie and Freddie: 
+How Much Smoke, How Much Fire? ” Journal of Economic Perspectives  Q2 2004, 159 -184. 
+https://ypfs.som.yale.edu/library/fussing-and-fuming-over-fannie-and-freddie-how-
+much-smoke-how-much-fire. 
+399
+The Rescue of Fannie Mae and Freddie Mac – Module E Thompson
+
+--- Page 16 ---
+Frame, W. Scott , Andreas Fuster, Joseph Tracy, and James Vickery. 2015. “The Rescue of 
+Fannie Mae and Freddie Mac. ” Journal of Economic Perspectives 9, no. 2 :. 25 -52. 
+https://ypfs.som.yale.edu/library/rescue-fannie-mae-and-freddie-mac. 
+Geithner, Timothy  F. 2014. Stress Test.  New York: Crown Publishers.  
+https://ypfs.som.yale.edu/library/stress-test-reflections-financial-crises. 
+Greenspan, Alan. 2004. “Government -sponsored enterprises.” Testimony before the 
+Committee on Housing and Urban Affairs, U.S. Senate , February 24, 2004.  
+https://ypfs.som.yale.edu/node/3449. 
+Government Accountability Office  (GAO). 1996. “FNMA and FHLMC: Benefits Derived from 
+Federal Ties.” March 25, 1996.  
+https://ypfs.som.yale.edu/library/benefits-derived-federal-ties. 
+Housing and Economic Recovery Act of 2008 (HERA). Public Law 110 -289, 122 Stat. 2654. 
+July 30, 2008. https://ypfs.som.yale.edu/library/housing-and-economic-recovery-act-2008. 
+Hurley, Lawrence. 2020. “U.S. Supreme Court weighs shareholder suit over Fannie M ae, 
+Freddie Mac.” Reuters. December 9, 2020. https://ypfs.som.yale.edu/library/us -supreme-
+court-weighs-shareholder-suit-over-fannie-mae-freddie-mac-0. 
+Jester, Dan, Matthew Kabaker, Jeremiah Norton, and Lee Sachs. 2018. “Rescuing the 
+Mortgage Giants. ” Preliminary YPFS Discussion Draft, September 11, 2018. 
+https://ypfs.som.yale.edu/node/3925. 
+Jickling, Mark. 2008. “Fannie Mae and Freddie Mac in Conservatorship .” CRS Report No. 
+RS22950, September 2008. https://ypfs.som.yale.edu/node/3450. 
+Lockhart, James B., III. 2008. “The Appointment of FHFA as Conservator for Fannie Mae and 
+Freddie Mac.” Testimony for Senate Committee on Banking, Housing, and Urban Affairs. 
+September 23, 2008. https://ypfs.som.yale.edu/node/3405. 
+Paulson, Henry M., Jr. 2008. “Systemic Risk and the Financial Markets.” Testimony before the 
+Committee on Financial Services , U.S. House of Representatives. July 10, 2008 . 
+https://ypfs.som.yale.edu/library/systemic-risk-and-financial-markets-testimony-house-
+committee-financial-services. 
+———. 2010. On the Brink: Inside the Race to Stop the Collapse of the Global Financial System. 
+New York: Business Plus, Hachette Book Group.  https://ypfs.som.yale.edu/library/brink-
+inside-race-stop-collapse-global-financial-system. 
+Thompson, Daniel . 20 21a. “The Rescue of Fannie Mae and Freddie Mac – Module A: The 
+Conservatorships.” Journal of Financial Crisis , 3 (1).  
+https://elischolar.library.yale.edu/journal-of-financial-crises/. 
+400
+Journal of Financial Crises Vol. 3 Iss. 1
+
+--- Page 17 ---
+———. 2021b. “The Rescue of Fannie Mae and Freddie Mac – Module B: Senior Prefe rred 
+Stock Purchase Agreements.” Journal of Financial Crises , 3 (1). 
+https://elischolar.library.yale.edu/journal-of-financial-crises/. 
+U.S. Department of the Treasury . 2008 a. “Fact Sheet: GSE Mortgage Backed Securities 
+Purchase Program.” September 7, 2008. https://ypfs.som.yale.edu/node/3000. 
+———. 2008b. “Fact Sheet: Government Sponsored Enterprise Credit Facility.” September 
+7, 2008.  https://ypfs.som.yale.edu/library/fact-sheet-government-sponsored-enterprise-
+credit-facility. 
+———. 2008c. “Statement by Secretary Henry M. Paulson, Jr. on Treasury and Federal 
+Housing Finance Agency Action to Protect Financial Markets and Taxpayers.” September 7, 
+2008. https://ypfs.som.yale.edu/library/statement-secretary-henry-m-paulson-jr-
+treasury-and-federal-housing-finance-agency-action-0. 
+Wingfield, Brian.  2008. “Rescuing Fannie and Freddie.” Forbes. July 13, 2008.  
+https://ypfs.som.yale.edu/library/rescuing-fannie-and-freddie. 
+ 
+Development of this case has been supported by a generous grant from the Alfred P. Sloan 
+Foundation to the Yale Program on Financial Stability. 
+Copyright 2015, 2016, 2020, 2021 © Yale University. All rights reserved. To order copies of 
+this material or to receive permission to reprint any or all of this document, please contact 
+the Yale Program for Financial Stability at ypfs@yale.edu.  
+ 
+401
+The Rescue of Fannie Mae and Freddie Mac – Module E Thompson

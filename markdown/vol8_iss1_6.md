@@ -1,0 +1,68 @@
+## Yale Program on Financial Stability Lessons Learned 
+
+## Ignazio Visco 
+
+By Mercedes Cardona 
+
+_Ignazio Visco served as deputy director general (the equivalent of deputy governor) of the Bank of Italy during the Global Financial Crisis of 2007–09 (GFC) and as governor during the European Sovereign Debt Crisis in 2011 (SDC). During his multidecade tenure at the bank, he held several positions and served under nine prime ministers before stepping down in 2023._ 
+
+_Although Italy had the third-largest economy in the eurozone, its banking sector had little exposure to mortgages, which resulted in its being somewhat less impacted by the GFC than other countries. However, the SDC had a severe impact. With the assistance of European Union (EU) programs, the country was able to recapitalize and stabilize its banks, but its economy continued to falter through the decade, and the nation was one of the first in Europe to be impacted by the COVID-19 pandemic. This Lessons Learned summary is based on an interview held in January 2024; the full transcript may be found here._ 
+
+## **Crises take many forms and are unpredictable. The best prevention is to implement policies before a crisis to encourage banks to maintain capital ratios sufficient to meet situational stresses and to have proper oversight of nonperforming loans.** 
+
+The banking sector of Italy, the third-largest economy in the EU, was not as directly affected by the GFC as those in other countries because Italy did not have the kind of mortgage market that influenced the trajectory of the crisis in the United States or in other European countries. The country experienced effects mostly in the trade segment. However, as Visco sums up: “What can the banking system, even the best banking system in the world, do when you have a collapse of this size anywhere in the world or of the real economy?” 
+
+The real shock to Italy was the Sovereign Debt Crisis that began in 2011. Although Italy lacked some of the negative factors of other EU member countries—it did not have the same budget imbalances that plagued Greece, the negative foreign debt balance of Portugal, nor the real estate loan problems of Ireland or Spain—the country did have substantial public debt, at a high level among the eurozone member countries. “It was immediately perceived by the markets that countries that had high public debt had to reduce it in order to maintain their participation in the monetary union, which was obvious,” said Visco. 
+
+But the problem soon escalated. The eurozone was working with a single currency and monetary policy, and for years the spread among the debt of member countries had remained small. But its members had individual fiscal policies to consider and as the SDC began the interest rates on the sovereign debt of member countries began to diverge. This development struck Italy hard, remembered Visco, who questioned the size of the differentials that began to appear among the debt of different member countries—“the elasticity, if you want—between the positions, the imbalances, and the differential in interest rates was extremely nonlinear and large.” He noted: 
+
+
+At the beginning of July [2012] I had given an interview to the main Italian newspaper, the _Corriere della Sera_ , in which I basically said that the current differential between Italian and German 10-year bonds, which was between 550 and 600 basis points, was really ridiculous. At the most, our analyses were giving estimates of [a] 200 [point spread]. All the rest was exactly this nonlinearity of market expectations that provided these increases in the interest rate differential. 
+
+Italy was caught in the middle, trying to support its economy as EU members demanded austerity measures that would likely depress the economy further and worsen the crisis, Visco noted. Additionally, the sovereign debt and related liquidity concerns were weakening the banks, and recapitalizing banks in the middle of a downturn is never easy, Visco acknowledged. He elaborated: 
+
+Italy has never had major banks, except one or two. All the others were rather small, medium-sized banks. They did not have very high capital ratios. They were many coops, which was a problem in terms of governance, because they were not managed particularly well. 
+
+Many of the banks also did not have strong oversight of their large number of nonperforming loans (NPLs). 
+
+When economic growth slowed down during the GFC and subsequently the SDC, Italian banks were affected by the resulting capital and liquidity crunches. But, Visco remembered, the country’s efforts to recapitalize its banking system were hobbled by its public debt issues and developments in EU policy: 
+
+But the problem is, we could not put in any more money. You have to start with the Global Financial Crisis, which hit a number of banking systems in the world dramatically. Certainly the US, but very much Germany, the Netherlands, later Spain, and Ireland, and public money was used massively. Not at all in Italy, [despite there being] a law that allowed the government to recapitalize banks to an extent. But at the end, the total amount of money was a few billion euros. 
+
+In Germany, it was hundreds of billion euros that were used massively between 2008 and 2010. Then the Germans started getting worried. Indeed, [they] pushed all the Europeans to agree during the Sovereign Debt Crisis to a new regime of State Aid with the banking resolution regime—a regulation and directive that basically made state money not available to banks any more, even for those systems that had not had any crisis before. 
+
+Given its significant public debt, there was little fiscal capacity in Italy to fund recapitalizations and no market to liquidate NPLs as the worse effects of the SDC developed. Visco said: 
+
+Italy was caught in the middle in 2013–14 and could not intervene. Basically, we had failures of very small banks. The banks that failed had less than 1% of the total assets of the banking system in Italy. But the impact they had on the rest—either for those 
+
+
+who were listed, or in general, the effects they had on rates and ratings—was very strong, very large. 
+
+But with help from the EU, Visco explained, Italian banks were able to clean up their NPLs, clear out some of the excesses in the banking systems and work though the cycle. He reflected: 
+
+One lesson we certainly understood is that commercial banks have to be well capitalized. Probably, during the financial crisis, or coming into the financial crisis, they were not capitalized enough. You need to have capital and liquidity ratios which are monitored and which are continuously maintained at sufficiently prudent levels. 
+
+Many of the Italian banks were small co-ops which, in addition to having inadequate capital ratios, presented unique issues. Visco explained, “you needed to have all the shareholders agree to put in the money, and some of them could not have outside money, it all had to be generated internally, so it was a long process.” Eventually, however, the banks were recapitalized and this led to a solution for the NPL problem, said Visco. 
+
+**Fighting a major crisis requires coordinated efforts by the central bank and the government. The central bank’s role is limited as is what impact monetary policy can have, and officials must recognize that once the crisis subsides, recovery will require economic growth that must be stimulated by the government.** 
+
+Italy’s experience during the GFC and SDC resulted in a double-dip recession, with its GDP dropping 10% and industrial production nearly 25%. Recovery from the recession required a rebound of real economic growth, something that could not be brought about by monetary policy alone, noted Visco. 
+
+Central banks cannot increase the permanent rate of growth of an economy. They can provide for support if [it is ]needed and does not contrast with inflationary pressures. But it is still money, it is not the real economy. You need to transform the system through both policy and decisions on the real economy from the market. 
+
+Monetary policy during and after a crisis operates alongside other policy measures, Visco insisted, and recovery in the real economy is necessary to optimize efforts made by the central bank. In Italy, he explained, there were a number of fundamental weaknesses in the economic infrastructure that hampered the bank’s efforts. . 
+
+The big problem in Italy is productivity and innovation, which have been low since the major transformations at the end of the last century. Human capital was not really able to match the major transformation in production modes. In the global economy, we were competing with emerging economies, rather than advanced economies, but with much higher wages and costs. There was a problem of firm competitiveness. There was a delay in adjusting to the major transformation of the 1990s: demographics, globalization, ICT [information, communications, and technology], and so on. 
+
+
+Visco said he addressed parliament several times during the crises about the need to revive growth in Italy by making the business climate more favorable, reducing excessive regulation, increasing labor flexibility and other regulatory changes that would help reduce costs and enable Italy to be more competitive. However, he was unable “to convince them to put most of the resources in investment programs—human capital, physical, and so on— rather than in transfers and subsidies.” It was difficult to persuade government officials to invest in such long-term programs because of their different perspectives. Visco explained: 
+
+The difference between a central banker and a government official is really linked to the time horizon, and we have longer time horizons. Therefore, it is easier for us to say to ministers: “Look for a longer period.” But they say: “We have the election [on the] next day,” and every time there is a new election.” Therefore, they have to promise something to the population. And you never promise that 20 years from now, the world will be much better. You will say: “Tomorrow you will pay less taxes.” 
+
+Viscos cited the country’s COVID-19 experience as an example of the convergence of crisisfighting and economic impact and saw some signs of hope: When the pandemic struck in 2020, Italy was the first European country to go into lockdown and experience economic dislocation. But “the air had changed” in Europe, said Visco, and EU programs to counter the pandemic were more cooperative than those employed to deal with the Sovereign Debt Crisis. The EU provided substantial resources to countries to make the investments necessary to support economic activity. 
+
+However, observed Visco, many of the pandemic support programs in Italy took the form of direct transfers and subsidies, rather than investment programs that would have addressed some of the underlying structural weaknesses of the economy. He urged government officials to consider long-term implications when responding to a crisis and deciding where to target resources. 
+
+Dated: March 2026 
+
+YPFS Lessons Learned No. 2022–29

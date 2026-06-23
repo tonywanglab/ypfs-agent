@@ -1,0 +1,151 @@
+--- Page 1 ---
+Journal of Financial Crises Journal of Financial Crises 
+Volume 7 Issue 2 
+2025 
+Lessons Learned: Benoît Cœuré Lessons Learned: Benoît Cœuré 
+Mercedes Cardona 
+Follow this and additional works at: https://elischolar.library.yale.edu/journal-of-financial-crises 
+ Part of the Banking and Finance Law Commons, Economic History Commons, Finance Commons, 
+Finance and Financial Management Commons, Law and Economics Commons, Policy Design, Analysis, 
+and Evaluation Commons, and the Public Administration Commons 
+Recommended Citation Recommended Citation 
+Cardona, Mercedes (2025) "Lessons Learned: Benoît Cœuré," Journal of Financial Crises: Vol. 7 : Iss. 2, 
+366-368. 
+DOI: https://doi.org/10.17132/2693-3179.1662 
+Available at: https://elischolar.library.yale.edu/journal-of-financial-crises/vol7/iss2/16 
+This Lessons Learned is brought to you for free and open access by the Journal of Financial Crises and 
+EliScholar – A Digital Platform for Scholarly Publishing at Yale. For more information, please contact 
+journalfinancialcrises@yale.edu.
+
+--- Page 2 ---
+READERS TAKE NOTICE: READERS TAKE NOTICE: 
+As of April 2024, the YPFS Resource Library’s site domain has changed 
+to https://elischolar.library.yale.edu/ypfs-financial-crisis-resource-library/. 
+Please be aware that upon clicking any of the URL references to 
+the former Resource Library domains, either https://ypfs.som.yale.edu 
+or https://ypfsresourcelibrary.blob.core.windows.net/, in the 
+"References/Key Program Documents" section of a case study, 
+readers will encounter a "page not found" error. readers will encounter a "page not found" error. 
+Readers can still retrieve a given resource cited within this case study 
+on the new site  by searching by searching here  for the title cited. for the title cited. 
+This lessons learned is available in Journal of Financial Crises: https://elischolar.library.yale.edu/journal-of-financial-
+crises/vol7/iss2/16
+
+--- Page 3 ---
+Yale Program on Financial Stability 
+Lessons Learned 
+ 
+   
+ 
+Benoît Cœuré 
+By Mercedes Cardona 
+Benoît Cœuré held several positions in the French Treasury in the years leading to the Global 
+Financial Crisis  (GFC). He was an economic advis er to the director general of the French 
+Treasury from 1997 –2002, deputy chief executive and chief executive of the French debt 
+management office from 2002–2007, and assistant secretary for multilateral affairs, trade, and 
+development from 2007 –2009. H e served as  chief economist and deputy director general in 
+2009–2011. He joined the European Central Bank ( ECB) during the European Sovereign debt 
+Crisis and was responsible for market operations, market infrastructure supervision and 
+European and international relations as a member of the ECB Executive Board and the 
+Governing Council from 2012 through 2019. He was elected chairman of the BIS Committee on 
+Payments and Market Infrastructures (CPMI) in 2013 and was named to head the BIS 
+Innovation Hub in 2020, a position he held until 2022. Since 2022, he has been president of the 
+Autorité de la concurrence, France’s competition oversight authority. This “Lesson Learned” is 
+based on an interview with Cœuré in July 2024; the full transcript may be found here. 
+Understand that financial policy decisions have macroprudential consequences; don’t 
+underestimate the effects of banking policy on the economy.  
+European regulators underestimated the effect of the GFC at first, considering it a US 
+phenomenon, and then assumed the crisis was mainly a threat to the banking sector . They 
+addressed it with liquidity measures that were quite effective but should have been 
+combined with macroeconomic stimulus, said Cœuré.  
+This viewpoint also led to pulling back some of the liquidity measures that had been 
+successful, even as  they were still needed. Once the immediate liquidity crisis abated, 
+European authorities were eager to curtail many of the measures to reduce government 
+deficits. That was a mistake, Cœuré explained:  
+This was really seen as a liquidity crisis and a crisis of confidence, a collapse of 
+confidence in the banking system, and the macro consequences were, in my view, 
+vastly underestimated: the fact that the banking system would be unable to lend to 
+the economy as much as it should, and that this would create a credit crunch tha t 
+would weigh on GDP and jobs, which is what we saw in 2009. 
+Very soon in 2009, there was an international discussion on how to bring public 
+finances back to balance. There were initiatives to say that whatever had been paid 
+during the crisis had been need ed, but that now debt had to be cut back and 
+government deficits had to come back to balance. That was a mistake. The impact of 
+this crisis on the economy was vastly underestimated. Together with micro support 
+to the financial system, there should have bee n a lot of macro support through 
+monetary policy easing and fiscal stimulus, and that did not happen early enough. 
+366
+
+--- Page 4 ---
+In hindsight, said Cœuré, the macroeconomic impact of the liquidity and monetary policy 
+measures was not fully understood until after the Sovereign Debt Crisis. The ECB even tried 
+to hike interest rates in 2011 –2014; “too soon,” said Cœuré. The hike had to be rolled back 
+months later, when the region’s economies slowed down.   
+There was a consensus in Europe that fiscal policy had to be tighter . So, the whole 
+macro policy stance was getting tighter at the time whe n the eurozone was hit by a 
+financial crisis, which in hindsight was a big mistake. But of course, that was 
+understood only later. There should have been much earlier macro reaction to 
+support the economy in this tightening financial environment, both fiscal easing and 
+monetary easing. And that came much, much later. 
+Successful c risis management often requires quick and bold  actions and quantum 
+leaps in policy. 
+The European Union consens us during the Sovereign Debt Crisis called for tighter fiscal 
+policy at a time when a crisis was spreading, from the smaller economies of Greece, Portugal, 
+and Ireland to the much larger ones in Spain and Italy ; such a policy was a mistake , said 
+Cœuré. In his opinion, programs such as quantitative easing would have been useful during 
+the crisis of 2011–2012, but they did not come into play until 2015. In 2012, the ECB was not 
+ready politically or philosophically to take a “quantum leap ” to a more active monetary 
+policy, said Cœuré.   
+As a counterpoint, said Cœuré, by the time the COVID-19 pandemic spread across Europe in 
+2020, the ECB was further along the learning curve. The authorities had internalized the idea 
+that being fast to react was of the essence. Initially, ECB President Christine Lagarde had to 
+walk back comments that the ECB was “not here to close spreads” in the bond market, which 
+caused a bad market reaction. But the ECB course-corrected and acted decisively on COVID, 
+with the EUR 750 billion Pandemic Emergency Purchase Programme. “I think that was a 
+lesson from the previous crisis, that you don’t have the luxury to wait and see. You’ve got to 
+act in a preemptive way,” said Cœuré.  
+The pandemic emergency response also benefitted from limited moral hazard concerns and 
+an unusual alignment between fiscal and monetary policy goals that made them mutually 
+supportive. The response also showed that some lessons from previous crises had been 
+absorbed. The EU chose to issue common European  debt, the EUR 750 billion Next 
+Generation EU program, to finance the pandemic programs.  
+That understanding , that there was a need for common and forceful fiscal action, 
+that’s something that protected the ECB, because that was something that the ECB 
+didn’t have to do. From 2010 to 2015, I’m oversimplifying a bit, but in a way, the ECB 
+was left to its own devices. There was no fiscal policy to speak of, and the ECB had to 
+do all the heavy lifting in terms of supporting the region. In 2020, it was different. 
+There was significant fiscal act ion, which made life easier for the ECB. And that ’s an 
+important lesson that was learned as well on the fiscal side. 
+367
+Journal of Financial Crises Vol. 7 Iss. 2
+
+--- Page 5 ---
+However, according to Cœuré, these lessons remain half -learned. “The big ideas that came 
+from the crisis, in fact, they were only half  implemented, and a lot remains to be done, ” he 
+said. The EU banking union remains “in the middle of the river ,” with only some of the 
+regulatory measures it needs, such as a strong deposit insurance program, according to 
+Cœuré. Additionally, the EU still lacks fiscal capacity at the European level. He explained,  
+Then, there was no significant progress towards a common fiscal capacity in the 
+eurozone. There was one very positive episode, which is this Next Generation EU plan 
+in 2020. But that ’s a standalone. That ’s pretty much an episode. There is no 
+permanent fiscal mechanism for the eurozone. Which means that again, when the 
+next crisis hits, presumably the ECB will again have to do everything, because there 
+will be no fiscal policy to speak of at the eurozone level. 
+In spite of the lack of political will that may follow the recent elections of nationalistic 
+governments across the region and their refocusing on issues such as defense following 
+Russia’s invasion of Ukraine, Cœuré said he believes the EU will find its way. The COVID 
+response showed the ECB will come through in a crisis and develop the tools it needs, he 
+said. 
+Whenever Europe had to face a crisis, we always made it, because crises are times 
+and events where Europe reveals itself. You’ve got this famous quote by Jean Monnet 
+that says that Europe has been built through crisis, and it is the sum of the solutions 
+that were brought to these crises. I ’d rather it not be true, but it is very true. Our 
+discussion today provides ample evidence of it. 
+So, yes, there is little political capital , or there might be some political fatigue across 
+the board. But when the next crisis hits, I’m pretty confident that Europe will make it 
+because we’ve always made it when facing crisis. A crisis gives you e nergy that you 
+just didn’t know you had. 
+Dated: June 2025 
+YPFS Lessons Learned No. 2022–35 
+368
+Lessons Learned: Benoît Cœuré Cardona

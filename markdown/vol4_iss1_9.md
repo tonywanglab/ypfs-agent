@@ -1,0 +1,1396 @@
+## The Rescue of the US Auto Industry, Module Z: Overview 
+
+_Rosalind Z. Wiggins,[1] Greg Feldberg[2] , Alexander Nye,[3] and Andrew Metrick[4]_ 
+
+Yale Program on Financial Stability Case Study April 8, 2022 
+
+## **Abstract** 
+
+In the fall of 2008, credit markets tightened amid a broader economic downturn that severely impacted the US auto industry, especially the three largest domestic manufacturers, General Motors (GM), Ford Motors, and Chrysler. The companies requested assistance from the government in a bid to stay afloat, but Congress declined to authorize funding. The Bush administration, however, provided bridge loans to GM and Chrysler under the Auto Industry Finance Program (AIFP), funded through the Troubled Assets Relief Program (TARP), to sustain them until the Obama administration was in place. Within months, the Obama administration decided that a speedy bankruptcy would be the appropriate way to restructure the companies into viable organizations. Treasury provided financing via TARP as Chrysler, then GM, went through an expedited bankruptcy process. In support of the restructurings, Treasury also provided assistance to GMAC, Chrysler Financial, and to certain auto suppliers, in addition to supporting consumer warranties, bringing total government support for the industry to approximately $80 billion. Although the government lost money on the AIFP, the rescue was relatively popular politically and both companies returned to profitability in 2011. This case discusses the various aspects of the government’s assistance to the auto industry that began in December 2008 and wound down in December 2013. 
+
+**Keywords** : auto industry, bankruptcy, Chrysler, General Motors, restructuring, TARP 
+
+> 1 Director, the Global Financial Crisis Project, and Senior Editor, YPFS, Yale School of Management. The authors thank Kaleb Nygaard and Carey Mott for their excellent research assistance. 
+
+> 2 Research Scholar and Director of Research, YPFS, Yale School of Management. 
+
+> 3 Research Associate, YPFS, Yale School of Management. 
+
+> 4 Janet L. Yellen Professor of Finance and Management, and Director, YPFS, Yale School of Management. 
+
+
+**Introductory note:** In analyzing the facilities that were components of this rescue effort a color-coded system is used to highlight particularly noteworthy design features. Our colorcoding system is as follows: 
+
+|**Treatment**|**Meaning**|
+|---|---|
+|BLUE: INTERESTING|A design feature that is interesting and that<br>policymakers may want to consider. Typically,<br>this<br>determination<br>is<br>based<br>on<br>the<br>observation that the design feature involves a<br>unique and potentially promising way of<br>addressing a challenge common to this type of<br>program that may not be obvious. Less<br>commonly, there will be empirical evidence or<br>a widely held consensus that the design<br>feature was effective in this context, in which<br>case we will describe that evidence or<br>consensus.|
+|YELLOW: CAUTION INDICATED|A design feature that policymakers should<br>exercise caution in considering. Typically, this<br>determination is based on the observation<br>that the designers of the feature later made<br>significant changes to the feature with the<br>intention of improving the functioning of the<br>program. Less commonly, there will be<br>empirical evidence or a widely held consensus<br>that the design feature was ineffective in this<br>context, in which case we will describe that<br>evidence or consensus.|
+|_FOOTNOTE IN ITALICS_|Where the reason that a given design feature<br>has been highlighted is not apparent from the<br>text, it is accompanied by an italicized<br>footnote that explains why we chose to<br>highlight it as we did. Where necessary,<br>footnotes will be used to identify any caveats<br>or additional considerations that should be<br>kept in mind when thinking about the feature.|
+
+
+
+This highlighting is not intended to be dispositive. The fact that a design feature is not highlighted or is highlighted yellow does not mean that it should not be considered or that it will never be effective under any circumstances. Similarly, the fact that a design feature is not highlighted or is highlighted blue does not mean that it should always be considered or will be effective under all circumstances. The highlighting is our subjective attempt to guide readers toward certain design features that (1) may not be obvious but are worth 
+
+
+considering or (2) require caution in considering. Readers must always consider these features while keeping in mind the contents of the survey as a whole and their own particular context and objectives. 
+
+## **Introduction** 
+
+The Yale Program on Financial Stability (YPFS) has written eight case studies that examine in detail the various elements of the US government’s assistance to two auto manufacturers, General Motors (GM) and Chrysler Holdings (Chrysler), and tangentially to auto finance companies, suppliers, and customers during the Global Financial Crisis (GFC), beginning in 2008. 
+
+The government rescue of GM and Chrysler during the GFC presents an unusual case study for crisis fighters. In modern capitalist economies, the practice of government intervention in financial institutions is well established. While the details of such interventions remain hotly debated, it is clear that government’s statutory roles as deposit insurer and lender of last resort provide a justification to actively intervene in this context. 
+
+Industrial companies are different. With few exceptions, capitalist democracies take a hands-off approach to nonfinancial corporate failure, restricting their role to contract enforcement and the administration of the bankruptcy process. In this way, the rescues of GM and Chrysler represented a consequential shift in crisis policy. In taking this action, it is clear that the US government was motivated by a mix of economic and political considerations that had no clear precedent, and the action raises (unanswered) questions about the general theory of such interventions.[5] Under what circumstances would a future intervention in a nonfinancial company be considered? 
+
+Furthermore, once the government chose to intervene, it exercised a level of control over the companies that was far greater than for past or contemporaneous open-bank interventions or other assistance to financial institutions. For a long period of time, policymakers held effective operational control (or at least veto power) over many corporate actions. For a country without any recent experience of government control of enterprise, this was also a significant precedent. 
+
+5 Generally, government assistance to nonfinancial industries has been limited to airlines and other “critical industries,” such as railroads. However, during crises, a few governments have also acted to support other nonfinancial industries whose failure might pose a systemic risk to the economy. For example, during the GFC, France, Russia, and Sweden also assisted their auto industries. (For a discussion of aid to critical industries, see Wiggins and Unnava 2020). Additionally, it is worth noting that in 1979, during a recession, the US government assisted Chrysler with $1.5 billion in government guaranteed loans while requiring of it $2 billion in cost-cutting concessions. Chrysler was also required to submit a business plan and granted the government warrants for Chrysler stock which ultimately netted it a $500 million profit (NPR 2008). 
+
+
+These two major strategic decisions—to intervene in a nonfinancial company and to do so by exercising significant operational control—are worthy of detailed study. The debate on these questions has inspired work from an interdisciplinary list of scholars, with no clear consensus yet **.**[6] **That is not our subject here.** 
+
+In this overview case and the other related cases, we review the government’s actions in the GM and Chrysler rescue and analyze how the rescue was conceived and executed in order to better understand how nonbank institutions in distress may be supported. In so doing, we take the government’s activist intervention strategy as given and accept that it has already decided to intervene and to take significant operational control. Thus, in this case and the other related cases, **we focus on the tactical decisions made to implement the government’s strategy.** That is, we view the GM and Chrysler case study as an opportunity to examine the key design decisions required by the underlying strategy of activist intervention, since similar implementation decisions could also show up in more traditional contexts. 
+
+While this overview case may be read on its own, it is best read in connection with the other YPFS cases on the auto industry rescue, which provide additional detail with respect to each intervention utilized. The other YPFS cases, published in 2022 and considering the various elements of the government’s rescue of the US auto industry, are: 
+
+- “The Rescue of the US Auto Industry, Module A: Automotive Bridge Loans” by Alexander Nye. 
+
+- “The Rescue of the US Auto Industry, Module B: Restructuring General Motors Through Bankruptcy” by Kaleb B. Nygaard. 
+
+- “The Rescue of the US Auto Industry, Module C: Restructuring Chrysler Through Bankruptcy” by Alexander Nye. 
+
+- “The Rescue of the US Auto Industry, Module D: Emergency Assistance to Ally Financial (formerly GMAC)” by Riki Matsumoto and Kaleb B. Nygaard. 
+
+- “The Rescue of the US Auto Industry, Module E: Emergency Assistance for Chrysler Financial” by Alexander Nye. 
+
+- “The Rescue of the US Auto Industry, Module F: Auto Supplier Support 
+
+> 6 See, for example, Goolsbee and Kruger (2015), “The rescue of the U.S. automobile industry . . . was a consequential, controversial, and difficult decision”; Klier and Rubenstein (2012), “the ensuing restructuring of the Detroit Three has substantially changed the industry in the U.S.”); Lubben (2009), “these cases, and particularly their structure—a quick lender-controlled §363 sale—are entirely within the mainstream of Chapter 11 practice for the last decade”; and Roe and Skeel (2009), “We conclude that the Chrysler bankruptcy cannot be understood as complying with good bankruptcy practice.” 
+
+
+Program” by Riki Matsumoto. 
+
+- “The Rescue of the US Auto Industry, Module G: The Auto Warranty Commitment Program” by Benjamin Henken. 
+
+The cases are available from the _Journal of Financial Crises_ at: https://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss1. 
+
+In the first part of this overview case, we review the market factors and particular circumstances that led to GM and Chrysler’s weakened conditions. We next consider the assistance provided to the two manufacturers by the government beginning in December 2008, and tangential support to the auto finance companies, suppliers, and customers. Next, we discuss the key decisions made by the government and highlight unique issues presented by GM, Chrysler, and by the highly integrated nature of the automotive industry. Lastly, we discuss conclusions that may be of assistance in future efforts. 
+
+## **I. Background** 
+
+## _**The Troubles of the Auto Manufacturers**_ 
+
+The fall of 2008 marked a period of severe economic distress for financial institutions around the world. The 10-year US housing bubble burst, and its effects began to reverberate throughout the financial system. These effects included a widespread decline in housing prices, an increase in delinquencies and foreclosures, and a considerable decrease in the value of residential mortgage-backed securities (RMBS), collateralized debt obligations (CDOs), and other related instruments (FCIC 2010, 301). As a result, beginning in fall 2007, credit markets began to tighten. Within a year, many such markets, including the securitization market, which played an important role in auto financing, practically froze as banks and financial institutions attempted to protect themselves from a developing unprecedented downturn in the broader economy (FCIC 2010, 301). 
+
+The US auto industry has long been a major component of the country’s economy and is a dominant employer in certain regions. Formed in 1908, General Motors was the largest US manufacturer through most of the century (History.com 2020b; Engelhardt 2009; GAO 2009b, 5). In 1953, then–GM president Charlie Wilson famously said that “for years I thought what was good for the country was good for General Motors and vice versa.” This statement would soon be transmuted into the popular slogan: “What’s good for General Motors is good for the country” (Engelhardt 2009). Ford Motor Company (Ford), which pioneered the assembly line process, was incorporated in 1903; and Chrysler Holdings (Chrysler) was first formed as a company in 1925 (History.com 2020a; Iacocca 2014). For decades, GM, Chrysler, and Ford were the largest US auto manufacturers and came to be called the “Big Three.” They would later be called the “Detroit Three” as other manufacturers, notably foreign transplant manufacturers such as Honda Motor Co., Toyota Motor Corp, and the Volkswagen AG, established factories outside of the industry’s traditional midwestern center. 
+
+
+US auto manufacturers maintained their prominence during most of the century. Periods of stagnation were balanced by decades of growth. By 2008, the Detroit Three sat atop a vast interdependent web that included financial companies and thousands of parts suppliers and dealers. As of the end of 2007, the Detroit Three employed 239,341 workers in the US while the foreign transplants employed roughly 113,000 people, mostly based in the nonunion south (McAlinden, Dzicek, and Menk 2008, 2). In total, “the motor vehicle and parts industries employed 732,800 workers directly as of September 2008” (McAlinden, Dzicek, and Menk 2008, 2). Tens of thousands of auto dealers accounted for many more jobs throughout the country (Statista 2022). 
+
+However, the industry had undergone significant changes and challenges over the decades. It had to wrestle with competition from the foreign transplant manufacturers, who focused on fuel-efficient passenger cars, and the impact of rising oil and gas prices (Goolsbee and Krueger 2015, 5-6). By 2008, the Detroit Three were plagued by “the widespread perception of perennial quality and reliability issues, lower resale values, poorly received new models, and a lack of low-gas-mileage cars at times of rising fuel costs” (Goolsbee and Krueger 2015, 5). They were also burdened with high wages and significant legacy costs for health care and pensions. (Goolsbee and Krueger 2015, 6–7; Klier and Rubenstein 2012, 36–37). In 2008, they were “directly and indirectly responsible for funding the health care of 2 million employees, retirees, and dependents of their own companies and their suppliers” (McAlinden, Dzicek, and Menk 2008, 6). They were also responsible for the pensions of 600,000 retirees, obligations which were underfunded by $29 billion (GAO 2009b, 7). 
+
+The weaknesses of the Detroit Three were particularly striking in comparison to operations of the foreign transplant companies, which industry analysts and critics argued were more competitive than the Detroit Three in many ways. The transplants paid lower wages, faced no legacy costs, and produced vehicles that were not only more reliable and popular but also achieved greater resale prices (Goolsbee and Krueger 2015, 5–7). 
+
+The tightening credit markets of 2008 negatively impacted the Detroit Three manufacturers in several ways, including slower sales, lower profits, and increased cost of funding. All had come to rely on increasing amounts of debt and felt the effects of increased costs. However, Ford was more prepared than GM or Chrysler when the crisis hit. In September 2006, it had hired a new CEO, the first from outside the company, and in December, Ford had secured a $23.5 billion line of credit by pledging virtually all of its assets as collateral (Klier and Rubenstein 2012, 37). Thus, Ford had significant liquidity to rely on as the other companies scrambled to raise funds. 
+
+Chrysler and GM reported 2008 losses of $8 billion and $31 billion, respectively (GAO 2009b, 5). They had to resort to significant borrowings to meet ongoing cash needs. In their 2008 audit report of the company, GM’s auditors “raised ‘substantial doubt’ about GM’s ability to continue as a going concern due to ‘recurring losses from operations, stockholders’ deficit, and inability to generate sufficient cash flow to meet its obligations’” (GAO 2009b, 5–6). Chrysler struggled with similar circumstances. In a proposed restructuring plan submitted to Congress, the manufacturer stated that additional federal 
+
+
+funds would be needed to prevent the company from having to file for bankruptcy (GAO 2009b, 6). 
+
+Beginning in December 2008, the federal government extended credit to the two automakers to avoid their bankruptcy. It phrased its purpose like this: 
+
+The objective of this program is to prevent a significant disruption of the American automotive industry that poses a systemic risk to financial market stability and will have a negative effect on the real economy of the United States (Treasury n.d.c). 
+
+Funding was conditioned on the manufacturers presenting credible viability plans describing their paths to long-term stability. As discussed in the “Program Description” section, the government provided various types of funding to the two manufacturers, however, due to the integrated nature of the auto industry, it also provided support to tangential industry sectors and customers. 
+
+## _**Industry Structure and Related Issues**_ 
+
+The US auto industry is a highly integrated industry of manufacturers, dealers, parts suppliers, and finance companies. (Figure 1 illustrates the financial interdependence among these relationships.) Operations of one manufacturer can impact those of another through shared suppliers. These factors, as the government was to learn, presented issues that would have to be addressed if government funds flowing to the manufacturers were to have their intended benefits. 
+
+[FIGURE id=vol4_iss1_9_f1 type=figure label="Figure 1" file=figure_1.png caption="Key Financial Relationships in the Auto Industry"]
+### **Figure 1: Key Financial Relationships in the Auto Industry**
+![Figure 1](assets/vol4_iss1_9/figure_1.png)
+
+
+_Source: GAO 2009b, 9._ 
+
+
+## _Auto Financing_ 
+
+Because vehicles are significant high-cost purchases, the overwhelming majority of retail purchases in the United States—80–90 percent—are financed through loans, many directly from a manufacturer’s financing arm (COP 2009b, 7; Bloom 2009a, 25). Dealers also rely on “floor plan financing” to purchase almost all their inventory from the manufacturers, and these receivables are traditionally securitized as asset-backed securities (ABS) (COP 2009b, 7). The tightening credit conditions of 2008 caused increases in dealer and customer financing costs, and the rising costs exacerbated already plummeting sales, with sales for the Detroit Three declining about 25% between January and October 2008 (COP 2009b, 7; BEA n.d.). In addition, new auto loans are often funded through securitization of loans as ABS, but in the fall of 2008, the ABS securitization markets were largely frozen, drastically reducing the supply of credit to consumers and businesses (GAO 2009b, 32). 
+
+The government came to realize that government assistance to sustain GM and Chrysler would be futile if the cars could not get to the dealers and consumers. Given the need for financing of both dealer inventory and consumer sales, GM and Chrysler each stated in their original viability plans that the health of their financing partners, GMAC LLC (GMAC) and Chrysler Financial, respectively, were critical to their successful restructuring (GAO 2009b, 32–33). Given these facts, the US Treasury Auto Team would come to determine that if they “were going to prevent a collapse of the auto industry in the short run, and support a recovery in the long run, it would require stabilizing the auto finance industry.” (Deese, Shafran, and Jester 2020, 368). 
+
+_GMAC._ The primary source of financing for GM’s dealers and consumers was the automobile finance unit of GMAC, which would change its name to Ally Financial in 2010[7] (Ally Financial 2010a). GMAC had begun as a captive subsidiary, but GM spun off the unit in 2006. A controlling interest was acquired by the private-equity firm Cerberus Capital Management, which would later purchase Chrysler Financial and Chrysler.[8] GMAC also had a large mortgage subsidiary, Residential Capital, LLC, commonly known as ResCap, which it had acquired in 1990.[9] ResCap was a significant originator of subprime mortgages and one 
+
+> 7 GMAC LLC was renamed Ally Financial in 2010. See Ally Financial 2020. However, GMAC/Ally will be referred to as GMAC throughout this case for the purpose of consistency. 
+
+8 By 2008, Chrysler Financial and GMAC, once the captive financing arms of Chrysler and GM, were owned by Cerberus Capital Management, a private investment firm. Cerberus owned 100 percent of Chrysler Financial and 51 percent of GMAC (Klier and Rubenstein 2012, 49, fn1). 
+
+9 In a press release of December 24, 2008, the company described itself as follows, “GMAC Financial Services is a global finance company operating in and servicing North America, South America, Europe and AsiaPacific. GMAC specializes in automotive finance, real estate finance, insurance, commercial finance, and online banking. As of Dec. 31, 2007, the organization had $248 billion in assets and serviced 15 million customers” (GMAC LLC 2008e). ResCap eventually filed for bankruptcy in 2012 (de la Merced 2012). 
+
+
+of the largest mortgage securitizers and servicers in the country. It would be hard hit by the subprime crisis that developed in 2007 with upstream impacts to GMAC.[10] 
+
+In 2008, GM retained a significant ownership interest in GMAC, and aspects of the captive relationship remained. Subject to certain limitations, GM was required to offer GMAC services exclusively if it offered vehicle financing and leasing incentives to customers (Ally Financial 2011, 2). As a result, GMAC facilitated more than 30% of GM’s retail sales (GMAC 2009, 12). It also provided more than 80% of the floor plan financing used by the GM dealer network to buy new vehicle inventory (GMAC 2009, 46). As further discussed at “Program Description: Assistance to Related Segments of the Auto Industry, _Assistance to Auto Finance Companies, GMAC/Ally Financial,_ ” to restore liquidity to GMAC’s auto finance business, the government intervened with assistance in a variety of forms, including liquidity and capital assistance, originating from a number of agencies. (Also see Matsumoto and Nygaard 2022 for further detailed discussion of assistance to GMAC.) 
+
+_Chrysler Financial_ . In early April 2009, Treasury realized that Chrysler’s bankruptcy filing would cause Chrysler Financial’s bankers to withdraw its remaining credit lines. Cerberus, which owned significant interests in both GMAC and Chrysler Financial, proposed merging the two auto finance companies. Instead, GMAC’s CEO suggested winding down Chrysler Financial and letting GMAC finance Chrysler vehicles going forward. Treasury agreed. Chrysler Financial would go into “runoff mode,” continuing to hold the loans that it had made but not making new ones. It thus would coordinate a new financing relationship between Chrysler and GMAC, with GMAC taking over the role as primary financer for Chrysler from Chrysler Financial (Rattner 2011, 147; see also Nye 2022b and further discussion at “Program Description: Assistance to Related Segments of the Auto Industry, Assistance to Auto Finance Companies and Chrysler Financial.” 
+
+## _Auto Parts Suppliers_ 
+
+The US auto parts supply industry is broad and highly integrated across manufacturers, which creates a significant risk of contagion. For example, the Motor and Equipment Manufacturers Association (MEMA) released data in 2009 showing that 66 percent of Chrysler suppliers were also suppliers to GM, and 54 percent were suppliers to Ford Goolsbee and Krueger 2015, 11). The same network also supplied parts to the Japanese transplants,[11] which did not seek government assistance (Goolsbee and Krueger 2015, 11). 
+
+In autumn 2008, US auto parts suppliers were also experiencing deteriorated automotive markets, disrupted manufacturer operations, and stressed credit markets; several major 
+
+> 10 At the end of 2007, GMAC had $248 billion in assets, including $82 billion in ResCap. The mortgage bust in 2007 hit ResCap hard; over 2007 and 2008, the company posted $10 billion in losses. GMAC’s auto finance unit, profitable in 2007, lost $2.1 billion in 2008 (GMAC LLC 2009, 27). 
+
+> 11 We use the term “Japanese transplants” in this paper to refer to the Japanese auto manufacturers producing vehicles in the US largely outside of the Midwest. In 2008, this included Nissan Motor Company, Toyota Motor Corporation, and American Honda Motor Company and their related brands. 
+
+
+suppliers were on the verge of collapse (Goolsbee and Krueger 2015, 11). A failure of GM or Chrysler would have negatively impacted the network of suppliers and caused knock-on effects to the broader auto industry. Given these factors, to support the rehabilitation of GM and Chrysler, the government would decide to provide assistance to certain auto suppliers. See discussion at “Program Description: Assistance to Related Segments of the Auto Industry, _Auto Parts Suppliers_ ” and Matsumoto 2022 for further details. 
+
+## _Customer Warranties_ 
+
+A third related area where the government ultimately provided support was manufacturer’s warranties. The manufacturers felt strongly that customers were much less likely to purchase a vehicle from a company in financial distress because of the risk that it might not be around to stand by its warranties, which were for multiple years (Goolsbee and Krueger 2015, 21). When requesting funding, the CEOs of the Detroit Three said that this meant that any effort to reorganize through bankruptcy would likely fail and quickly become a liquidation as customers deserted the company (Canis et al. 2009, 52). 
+
+A survey by CNW Marketing Research “reportedly indicated that 80% of consumers said that concerns about warranty coverage and replacement parts would make them unlikely to buy a car from a company operating in bankruptcy reorganization” (Canis et al. 2009, 52). Two later surveys, including another by CNW, however, indicated that this consumer reluctance to purchase vehicles from a bankrupt institution could be reduced or neutralized if the government were backing the reorganization (Canis et al. 2009, 52). Because of these dynamics, to encourage consumer purchases of GM and Chrysler vehicles while the companies were restructuring, the government agreed to provide protection of customer warranties (Treasury 2009c; Goolsbee and Krueger 2015, 21). See discussion at “Program Description: Assistance to Related Segments of the Auto Industry _, Auto Warranty Commitment Program_ ” and Henken 2022. 
+
+## _**Emergency Economic Stabilization Act of 2008 and the Troubled Assets Relief Program**_ 
+
+On October 3, 2008, Congress passed the Emergency Economic Stabilization Act of 2008 (EESA), which created the $700 billion Troubled Assets Relief Program (TARP); $350 billion of the funds were released immediately[12] (Canis et al. 2009, 9, 42). Under TARP, Treasury was granted authority to purchase or guarantee up to $700 billion in “troubled assets” from “financial institutions” through its Office of Financial Stability (EESA, 1). At the time, there was uncertainty whether assistance to the auto manufacturers fell within the scope of the law[13] (COP 2009b, 115). 
+
+> 12 Pub. L. No. 110-343, 122 Stat. 3765 (2008), 12 U.S.C.§ 5201. 
+
+> 13 A September 2009 Congressional Oversight Committee (COP) report found that “there is a strong suggestion in the Congressional Record that many in Congress also believed that EESA was a statute aimed specifically at the financial sector” (COP 2009b, 115). The Committee’s report urged Treasury to seek a legal 
+
+
+Nevertheless, on October 13, shortly after the law passed, the CEO of GM, the largest of the Detroit Three, first requested emergency funding from Treasury Secretary Henry M. Paulson, Jr., because the company was having trouble financing basic day-to-day operations (Deese, Shafran, and Jester 2020, 363; Klier and Rubenstein 2012, 36–37; Goolsbee and Krueger 2015, 7). Chrysler was experiencing similar difficulties and soon requested assistance as well, as did Ford, the second-largest auto manufacturer (Klier and Rubenstein 2012, 36–37). Although Ford appeared before Congress at the November 2008 hearing, it ultimately did not receive targeted assistance from the Treasury.[14] 
+
+The Bush administration’s initial response to the auto manufacturers’ request for assistance was “no,” since at first President George W. Bush and Secretary Paulson did not believe that Congress had authorized TARP funds to be used for an auto bailout (COP 2009b 71–73; Rogers 2008). 
+
+The Detroit Three CEOs then reached out via their significant political contacts[15] and in November appeared before “the House and the Senate to request a $25 billion working capital ‘bridge loan’ from the US government . . . to help keep them out of bankruptcy and avoid possible liquidation”[16] (Goolsbee and Krueger 2015, 5). On November 17, Senator 
+
+opinion regarding the use of TARP for the auto rescue, which it did, receiving an opinion from the department’s general counsel’s office that supported Treasury’s actions (COP 2009b, 115; McNeill 2022, 2). 
+
+As of March 27, 2009, Treasury had publicly announced funding programs under TARP totaling $667.4 billion, most of which was used to purchase or guarantee troubled assets from financial institutions, and about $422.4 billion had been apportioned (GAO 2010, 1, fn1). 
+
+14 At one point, Ford requested from Congress a $9 billion credit line to provide a backstop in case the economy worsened. As far as we have been able to determine, it was not granted (Kiely 2011). Ford did, however, avail itself of several broad-based programs established by the government during this time, such as the Federal Reserve’s Commercial Paper Funding Facility (CPFF) and Term Asset-Backed Securities Loan Facility (TALF). It also participated in the Department of Energy’s Advanced Technology Vehicle Manufacturing (ATVM) Loan Program in support of fuel-efficient vehicles during 2009 and 2010 (Adrian and Schaumburg 2012; Canis and Yacobucci 2015; BdofGov 2009). Also, because of the interdependence of the parts supply chain on which it also relied, Ford was publicly supportive of the government providing assistance to GM and Chrysler because it feared that their failure would cause a chain reaction that would negatively impact its own production (Goolsbee and Kruger 2015, 11). 
+
+15 Because of its size and significance, the auto industry has long had a well-funded and influential lobbying voice. In 2009, the industry spent $60.2 million on lobbying efforts, a reduction from 2008, during which it spent $66.9 million, and there were “576 auto industry lobbyists working for 124 clients, such as carmakers, auto suppliers, lobbying groups and trade associations.” (Ransom 2010). 
+
+16 Ford joined GM and Chrysler in testifying before Congress, however, it ultimately did not pursue targeted assistance from the Treasury (Klier and Rubenstein 2012, 36). Although it was also struggling under the effects of the burgeoning crisis, the company had taken several steps that helped it prepare for the difficulties it faced. In September, the company hired a new CEO and in December arranged a credit line of $23.5 billion. As a result, the company did not accept support from the Treasury, although it was eligible to request the same if it wished (COP 2009b, 35; Klier and Rubenstein 2012, 35). 
+
+
+Harry Reid introduced a bill[17] that would have provided up to $25 billion to fund bridge loans to the auto companies using some of the money authorized for TARP, but the bill failed to progress beyond some introductory remarks in the Senate (UCE Act 2008; Canis et al. 2009, 42). 
+
+On December 10, the House passed a more detailed bill, H.R. 7321, the “Auto Industry Financing and Restructuring Act” (AIFRA 2008).[18] The AIFRA would have financed a $14 billion bailout by reallocating funds appropriated to a Department of Energy (DoE) loan program under the Energy Independence and Security Act of 2007.[19] However, the AIFRA bill failed to pass in the Senate (Canis et al. 2009, 8–9). 
+
+Then, Senate Banking Committee Chair Christopher Dodd sent a request to Federal Reserve Board Chairman Ben Bernanke asking, among other things, for him to provide the Committee with thoughts and comments on the plans submitted by the companies, evaluate GM’s statement regarding the potential broad economic ramifications that might attend its collapse, and “inform the Committee whether there is anything in your statute that prevents you from lending to any of these domestic auto-manufacturing companies through Section 13(3), or through a special purpose vehicle, which you have used to extend funds to other institutions” (Dodd 2008). Bernanke was reported to have all but eliminated the possibility of Fed participation in an auto industry bailout due to the companies’ likely inadequate collateral and his view that aiding the nonfinancial companies was best left to Congress: “Our view is that questions of industrial policy are best resolved by Congress because they require balancing political and social priorities about the shape and desirability of involvement by domestic companies in specific industries”[20] (Rogers 2008). 
+
+After legislative action to assist the auto companies failed, the Bush administration reversed its position. It decided to use TARP funds to keep the companies alive for the remainder of the presidential transition period, with hopes of providing an opportunity for the Obama administration to review the situation and consider further assistance to put them on the path to restructuring. This reversed position was possible because of the 
+
+> 17 Unemployment Compensation Extension Act of 2008, S.3688: “A bill to provide for additional emergency unemployment compensation, to amend the Emergency Economic Stabilization Act of 2008 to authorize loans to automobile manufacturers and component suppliers, and for other purposes,” 110th Congress. 18 Auto Industry Financing and Restructuring Act, H.R. 7321, 110th Congress (2008). 
+
+> 19 Energy Independence and Security Act of 2007, Public Law 110–140 (2007). 
+
+> 20 It is worth noting that while tools may be available, if and how those tools are administered and deployed may impact the solutions that can be crafted. This can have significant impact when addressing the potential failure of a systemically important financial institution. During the GFC, in the US, some such situations required ad hoc and multifaceted solutions accomplished by the use of many tools and the coordination among several agencies. See for example Wiggins, Lawson, et al. (2021) and Zanger-Tishler and Wiggins (2021). For other jurisdictions, the existence of more tools in fewer authorities may facilitate quicker and more nimble responses. 
+
+
+broad wording written into TARP[21] (Paulson 2010, 416–427; also see Key Design Decision No. 3.) 
+
+In December 2008, President Bush authorized Secretary Paulson to exercise his authority to use TARP funds to assist the auto industry. However, at the time, President Bush and Secretary Paulson were publicly circumspect on this use of TARP. President Bush addressed the nation, pointing out that, “if we were to allow the free market to take its course now, it would almost certainly lead to disorderly bankruptcy and liquidation for the automakers,” but that “in the midst of a financial crisis and a recession, allowing the US auto industry to collapse is not a responsible course of action” (White House 2008). The Federal government would, he said, “grant loans to auto companies under conditions similar to those Congress considered last week [in H.R. 7321 (AIFRA)]” (White House 2008). 
+
+In broad terms, TARP authorized the Secretary of the Treasury to purchase “troubled assets”[22] from “financial institutions.”[23] The statutory definitions are descriptive rather 
+
+21 TARP also provided residual discretion to the Secretary of the Treasury to determine what troubled assets fit within the statute’s definitions. The situation demonstrates that considering the unknown when crafting crisis legislation can be a very useful practice. While criticized by some government, industry, and academic commentators, overall, negative commentary regarding the use of TARP funds for the auto industry appears to have been minimal. In some respects, this is consistent with a tradition of affording great deference to the executive in interpreting statutes (COP 2009b, 76–78) and much latitude to the government in times of crisis. See for example, Friedman (2012) where, although not discussing a financial crisis, he does argue that the President’s authority to protect the country in a variety of emergencies (terrorist attacks, environmental disasters, health emergencies) is broad and that “the Supreme Court has historically supported the Executive‘s decisions and independent powers in emergency scenarios” (273). Also, “According to Justice Thomas, “[t]he power to protect the [n]ation ought to exist without limitation because it is impossible to foresee or define the extent and variety of national exigencies, or the correspondent extent and variety of the means which may be necessary to satisfy them” (274). Posner (2012) also discusses, in the context of the September 11 terrorists’ attacks, the “deference thesis [which] states that during emergencies the legislature and judiciary should defer to the executive” (214). A move like this about-face is bound to invite scrutiny from oversight bodies, politicians, and public pundits. However, officials can prepare for this by consulting counsel, carefully following any applicable procedures supporting the decisions, creating a credible record of the analysis underlying the original and reversed decisions, and preparing to address questions about the change in position. 
+
+22 TARP defines “troubled assets” as “(A) residential or commercial mortgages and any securities, obligations, or other instruments that are based on or related to such mortgages, that in each case was originated or issued on or before March 14, 2008, the purchase of which the Secretary determines promotes financial market stability; and (B) any other financial instrument that the Secretary, after consultation with the Chairman of the Board of Governors of the Federal Reserve System, determines the purchase of which is necessary to promote financial market stability, but only upon transmittal of such determination, in writing, to the appropriate committees of Congress” (12 USC 5202, Section 3[9]). 
+
+23 The relevant TARP definition of ‘‘financial institution’’ is: “any institution, including, but not limited to, any bank, savings association, credit union, security broker or dealer, or insurance company, established and regulated under the laws of the United States or any State, territory, or possession of the United States, the District of Columbia, Commonwealth of Puerto Rico, Commonwealth of Northern Mariana Islands, Guam, American Samoa, or the United States Virgin Islands, and having significant operations in the United States, 
+
+
+than restrictive. In particular, although auto manufacturers are not mentioned in the definition of financial institutions, such a company arguably is included as an “institution, . . . established and regulated under the laws of the United States or any State territory or possession” (12 USC 5202, Section 3[5]). The definition of “troubled assets” encompasses certain mortgage and mortgage related securities, but can be expanded by determination of the Secretary of the Treasury in accordance with certain procedures set out in the statute which include consultation with the Chairman of the Federal Reserve and transmission of decision to appropriate committees of Congress named in the statute (12 USC 5202, Section 3(9)(b)). 
+
+Paulson’s statement accompanying the announcement of the auto relief addressed the issue in a limited manner: 
+
+Treasury will make these loans using authority provided for the Troubled Asset Relief Program. While the purpose of this program and the enabling legislation is to stabilize our financial sector, the authority allows us to take this action. Absent congressional action, no other authorities existed to stave off a disorderly bankruptcy of one or more auto companies” (Paulson 2008a). 
+
+In authorizing the use of TARP funds to assist the auto industry, Treasury counsel and Secretary Paulson relied on the nexus of the auto manufacturers with their financing companies to determine, in accordance with the requirements of TARP, that: 
+
+- (1) “such thrift and other holding companies engaged in the manufacturing of automotive vehicles and the provision of credit and financing in connection with the manufacturing and purchase of such vehicles are ‘financial institutions,’” and 
+
+- (2) that the obligations of such companies “are financial instruments the purchase of which is necessary to promote stability to the financial system of the United States, and, as such are ‘troubled assets’ as that term is defined in Section 3(9)(B) of the Act, and eligible to be purchased under TARP” (Paulson 2008a). 
+
+Once President Barack Obama had been sworn in, his Treasury Secretary, Timothy Geithner, issued a “Determination” that was substantially similar to the one Secretary Paulson had issued, except that it referenced the AIFP and seemed to shift away slightly from the nexus with the auto financing companies, eliminating any reference to them as a basis for the use of TARP funds for the AIFP (Geithner 2009b). This decision to use TARP funds for the AIFP, which was criticized by some, is further discussed in detail in Key Design Decision No. 3. 
+
+> but excluding any central bank of, or institution owned by, a foreign government” (12 USC 5202, Section 3[5]). 
+
+
+Without government assistance, the likely outcome was that the companies would be liquidated in a Chapter 7 bankruptcy process, which everyone thought would be very disruptive (Deese, Shafran, and Jester 2020, 360–361). In deciding to provide funding to the manufacturers in December 2008, the Bush administration, for the time being at least, rejected bankruptcy as an available option. Factors influencing this decision were, (1) the companies’ lack of preparation for a traditional Chapter 11 reorganization, (2) the prolonged nature of such a bankruptcy proceeding, and (3) the possible unavailability of private debtor-in-possession (DIP) financing (Deese, Shafran, and Jester 2020, 364; Klier and Rubenstein 2012, 7–9, 21). 
+
+Also of importance was the possible impact of such a sudden collapse, as a White House spokesperson stated at the time: “A precipitous collapse of this industry would have a severe impact on our economy, and it would be irresponsible to further weaken and destabilize our economy at this time” (Canis et al. 2009, 9). The White House estimated that a failure of GM and Chrysler would in the short-term “result in a more than one-percent reduction in real GDP growth and about 1.1 million workers losing their jobs, including workers from auto suppliers and dealers” (White House 2008; Paulson 2010, 424). And there was concern that there might be a panic that would risk further destabilization to the shared parts supplier network and other manufacturers (Goolsbee and Krueger 2015, 11; Deese, Shafran, and Jester 2020, 361; COP 2011, 10-11). The possible sizable costs on various levels of government through the need for additional spending on safety net, health care, unemployment insurance, and pension rescues as a result of the companies’ failures was also considered (Deese, Shafran, and Jester 2020, 363–364; Goolsbee and Krueger 2015, 8–91). 
+
+## **II. Program Description** 
+
+## _**Assistance to General Motors**_ 
+
+## _The Bridge Loan_ 
+
+On December 19, 2008, President Bush announced that the government would provide up to $13.4 billion in TARP-funded secured short-term loans to GM (the GM Bridge Loan). A portion, $9.4 billion, was to be lent immediately and a second tranche of $4 billion would be released in February 2009 if the second tranche of TARP funding was made available and if the company met certain conditions (White House 2008). The government later lent GM an additional $6.4 billion under the same loan agreement. 
+
+Funds from the GM Bridge Loan were to be used by GM to become “financially viable,” subject to a number of restructuring and burden-sharing conditions that were similar to terms that had been supported or considered by Congress in its failed efforts to pass targeted funding legislation (White House 2008). The funding was secured by GM’s assets (some of which were already encumbered, so the government acquired only a secondary lien), carried a below-market interest rate (the greater of the three-month LIBOR plus 3% and 5%), and would expire on March 31, 2009, unless specific terms were met (Nye 2022b, 
+
+
+8). The funding, along with loans to Chrysler and other industry parties, would come to be known as the Automobile Industry Financing Program (AIFP).[24 ] 
+
+_Warrants and Additional Notes._ Under the law that created TARP, Treasury was mandated to receive some type of warrant or other additional security as consideration for funds lent.[25] The warrants were designed to have the taxpayers share in the upside of GM’s recovery, which they would fund. There was precedent for such a provision in the 1970s’ rescue of Chrysler; the government realized a profit when it auctioned off its warrants after the stock price recovered[.26] However, warrants protect taxpayers only if the business does not fail, if there is a market for them, or if the stock price exceeds the warrant exercise price. 
+
+The warrant and additional security issued pursuant to the GM Bridge Loan were more complex than other TARP programs in that the government received both warrants and additional security in the form of additional promissory notes (“Additional Notes”), which were a feature in all of the government’s loans to GM and Chrysler. 
+
+In the case of GM, which was publicly traded, Treasury received a warrant to purchase common shares equal to 20% of the government’s loan commitment (the $13.4 billion “Maximum Loan Amount”). However, the Bridge Loan prohibited Treasury from acquiring more than 19.99% of GM’s total common equity prior to the exercise of the warrants, largely to avoid the need to consolidate GM onto the government’s balance sheet[27 ] (Treasury 2008; GM and Treasury 2008, 1; White House 2008). If Treasury was prohibited 
+
+24 The Bridge Loans for Chrysler and GM were announced before the details of the AIFP, which would become the overall support program for assistance to the auto industry, were published. When published, on December 31, 2008, the details of the AIFP described the broad parameters that the government would reference in determining assistance to the industry. By then, the first GM loan had already been executed and the term sheets for this loan and the Chrysler loan had been available for at least a week. Although preceding the published AIFP guidelines, the initial GM and Chrysler loans do appear to largely comply with them. 
+
+25 See EESA 2008, Sec. 113(d). This requirement emerged from various lessons learned from bailouts of the late 1970s. Namely, that the government could obtain risk compensation for its aid through equity participation; for example, receiving warrants. 
+
+26 In its earlier rescue of Chrysler, in the late 1970s, the government, which had guaranteed certain Chrysler borrowing and received warrants for 14.4 million shares of common stock in connection with its assistance, ultimately sold the warrants back to the company for $311 million at auction, resulting in a profit for taxpayers (Wilson 2009, 4). In December 2008, in a hearing before the Senate Committee on Banking, Housing, and Urban Affairs, Senator Tom Carper expressed support for the government’s receiving warrants under the Bridge Loan but expressed concern regarding the mechanism because Chrysler was not privately traded company: “how do we do warrants with Chrysler in this situation or something akin to warrants so that we have a reasonable return for the taxpayers in light of our willingness to take on this risk?” (Senate Banking Committee 2008, 86). 
+
+27 Under generally accepted accounting principles (GAAP), if the government owned 20% or more of a company’s stock, it would be considered as controlling and would have to consolidate that company’s assets and liabilities onto its balance sheet. The creative structuring of limiting the warrant and compensating the treasury with an Additional Note avoids this result and allows the government to avoid consolidating GM’s huge balance sheet.. 
+
+
+from exercising the full amount of the warrants, GM would provide it an additional promissory note (the Additional Note) equal to 6.67% of the Maximum Loan Amount minus one-third the value of the common shares Treasury had received on the exercise of the warrants (GM and Treasury 2008, PDF p. 2). 
+
+GM also issued additional warrants and Additional Notes to Treasury each time the Bridge Loan agreement was amended to increase the Maximum Loan Amount (two successive amendments to the GM loans increased the amount by $2 billion and $4.4 billion, respectively) (GM and Treasury 2008, PDF p. 300–321). The warrants and Additional Notes were effectively the only financial security, beyond the interest payments, that the government received in return for extending the term of and the authorized amount loaned to GM (GM LSA 2008, PDF pp. 300–321, 329). 
+
+In the end, Treasury did not exercise the warrants. Following formation of “New GM,” the corporation that purchased most of GM’s assets in the Section 363 sale and continued its business, the original $13.4 billion bridge loan and the $6 billion working capital loan were terminated (discussed in “The Viability Plan and Working Capital Loan” later in this section), including the associated warrants and Additional Notes. In consideration of these amounts and the $19.9 billion GM DIP Loan (discussed in “The Restructuring and Debtorin-Possession Financing” later in this section) the US government received approximately 60.8% of the equity of New GM, which is a standard treatment of debtholders in a bankruptcy action (COP 2011, 30). In this case, it is also consistent with the TARP provision that called for additional security in connection with government loans. 
+
+_Limits on Executive Compensation_ . In addition, because the GM Bridge Loan was funded from TARP, GM was subject to restrictions regarding the compensation of its top five executives[28] (Canis et al. 2009, 67–68). Broadly, the company had to ensure that executives (1) did not take unnecessary and excessive risks that threatened the value of the company, (2) were subject to provisions that allowed for the company’s recovery or the claw back of any bonus or incentive compensation paid to them that was based on inaccurate financial statements, and (3) were not allowed to receive golden parachute payments from the company during the time in which the Treasury held an equity stake in the company (Canis et al. 2009, 51, 68, 74). 
+
+_Other Terms_ . The GM Bridge Loan was also guaranteed by GM’s subsidiaries and provided that any successor to GM had to stand as a guarantor, effectively prohibiting the sale of GM away from the obligations (Canis et al. 2009, 53–54). 
+
+> 28 These provisions were contained in the American Recovery and Reinvestment Act of 2009 (ARRA 2009, P.L. 111-5), which was signed on February 17, 2009. ARRA’s section on executive privileges and compensation for recipients of TARP assistance amended and replaces Section 111(b) of the Emergency Economic Stabilization Act of 2008 (EESA 2008) and subsequent Treasury Department interpretive guidelines (Canis et al. 2009, 68). 
+
+
+In an effort to further protect taxpayers, the Bridge Loan also provided that in the case of the company’s bankruptcy, the government would be permitted to convert the Bridge Loan to Debtor-in-Possession (DIP) financing (Canis et al. 2009, 54). 
+
+DIP financing provides the debtor-in-possession in a bankruptcy case with sufficient funds to meet continuing expenses while the business is either reorganized or liquidated. Generally, DIP financing is usually a post-petition obligation that enjoys an extremely high priority. A bankruptcy court can authorize a debtor to grant liens to the DIP lender that are senior to liens of all the pre-bankruptcy creditors. In theory, Treasury’s ability to convert the bridge loans to DIP loans would enable it to maintain, or increase, the likelihood of repayment from the bankruptcy estate protecting the taxpayers’ investment (Canis et al. 2009, 54). 
+
+However, the Congressional Research Service concluded that this conversion provision would go against the very purpose of DIP loans, and even the key tenets of the bankruptcy process, which require that senior creditors be paid before junior creditors (Canis et al. 2009, 54). The converted Bridge/DIP loans would not provide GM or Chrysler with additional working capital, they would keep the bankruptcy court from relieving the debtor of its pre-bankruptcy debts, and they would negatively impact other creditors. Ultimately, the Bridge Loans were not converted to DIP loans, but Treasury did provide new DIP funding to both companies with Export Development Canada, Canada’s export credit agency (COP 2009b, 23–31). (See discussion in “ _The Restructuring and Debtor-in-Possession Financing_ ” and “Assistance to Chrysler: _The Restructuring and Debtor-in-Possession Financing_ ” in this section.) 
+
+## _The Viability Plan and Working Capital Loan_ 
+
+GM had originally submitted a restructuring plan when it first appealed to Congress for funding. The plan was largely viewed as inadequate but did form the basis for the administration’s decision to require the company to submit a “viability plan” by February 28, 2009, as a condition for receiving the GM Bridge Loan (White House 2008). The viability plan had to include operational changes that demonstrated a path to long-term viability. The administration specifically called for significant concessions from creditors and labor[29 ] (White House 2008). The plan was to be reviewed by the President’s designee, but when President Bush failed to appoint a designee, the job fell to Treasury Secretary 
+
+> 29 Requiring the viability plan was quite consequential. It was noted by the Congressional Oversight Panel (COP) that financial companies, some which had received significantly more funding than the auto manufacturers would, had not been subjected to such a requirement. The plans provided another way for the government to monitor the manufacturers’ use of funds and progress; both the plans and the government’s (sometimes unfavorable) evaluation of them were released publicly. Arguably, the public nature of these plans assisted in the manufacturers’ required negotiations with various parties (debtholders, suppliers, unions, etc.), in which the government also played a role. See discussion at Key Design Decision Nos. 7 and 8. 
+
+
+Paulson; President Obama would assign this responsibility to an Auto Task Force.[30] If the submitted viability plan was found to be unsatisfactory, the Bridge Loan could be called. The loan could also be extended at the government’s discretion (White House 2008). 
+
+The viability plan GM submitted in February was determined to be unsatisfactory. Nevertheless, after its evaluation, the government concluded that “because of GM’s scale, franchise and progress to date, we believe that there could be a viable business within GM if the company and its stakeholders engage in a substantially more aggressive restructuring plan” (White House 2009a). Therefore, on March 31, 2009, the government announced that it was providing GM with working capital (the “working capital loan”) in an unstated amount for 60 days to buy it time to develop a more robust plan (Treasury 2009c). At the same time, the administration announced that GM CEO Rick Waggoner was stepping aside and signaled that bankruptcy might be a necessary tool that could be used “in a quick and surgical way” to effectuate a restructuring[31 ] (Treasury 2009c). The amount of working capital extended to GM would ultimately total $6 billion (GM and Treasury 2008, PDF pp. 301–319). 
+
+In the interim months, Treasury officials assisted GM to varying degrees in negotiating concessions with its major creditors and labor unions. In April, GM submitted a revised viability plan, which the Treasury characterized as one that “rework[ed] its business plan, accelerate[d] its operational restructuring and ma[de] far greater reductions in its outstanding liabilities” than GM’s previous plan (Treasury 2009e). Further, the government stated that the company had “also secured commitments of meaningful sacrifice from all of its major stakeholder groups, sacrifices sufficient for this plan to proceed forward” (Treasury 2009e). 
+
+_The Restructuring and Debtor-in-Possession Financing_ 
+
+As a result of the acceptability of the viability plan, the government determined to provide additional assistance to GM to help it restructure. On Sunday, May 31, 2009, the Treasury announced that GM would file for bankruptcy the following day (Treasury 2009e). In a speech from the White House on Monday morning, President Obama indicated that GM would undergo a bankruptcy restructuring similar to that which Chrysler was just about to 
+
+> 30 The AIFP called for the President to appoint a designee to oversee the government’s assistance to the auto industry. President Obama chose not to appoint a single individual as designee but instead created the President’s Auto Task Force to administration this role. For further discussion, see “The Presidential Task Force on the Auto Industry.” 
+
+> 31 By including the possibility of bankruptcy in this early notice, the administration may have sought to (1) favorably influence the negotiations with interested parties such as creditors and the unions, (2) prepare shareholders, creditors and the markets for the possibility of bankruptcy, especially since it may have appeared that this option had been dismissed in light of the government’s intervention, and (3) to diffuse possible negative reactions. 
+
+
+complete[32] (Obama 2009b). The process would occur under Section 363 of the US Bankruptcy Code. The expedited process would (1) allow GM to sell substantially all of its assets to a newly formed corporation (“New GM”) that would continue to operate the business, (2) give consideration to certain of its creditors in provisions of the sale, and (3) confirm a liquidation plan under Chapter 11 to wind down what remained of the company (“Old GM”) (Bosco and Plante 2013, 183, 186). 
+
+In a traditional Chapter 11 process, a committee of creditors negotiates a plan of liquidation or restructuring and then all creditors vote on the plan. This process can take substantial time and also generate significant administrative fees. A Section 363 sale allows debtors to “use, sell, or lease” property of the estate “other than in the ordinary course of business” before the formalization of a plan of liquidation or reorganization, including the sale of substantially all of the debtor’s assets (Neyland and St. John 2022, 3) The sale is subject to court approval and the purchaser acquires such assets “free and clear” of any liens. A sale may be approved and proceed despite creditor disagreement, and there are limited challenges a creditor can make against the sale. Because of the expedited nature of a Section 363 sale, the bankrupt estate is prevented from realizing some or all of the benefits that may accrue from holding onto the assets; as some investments may generate positive returns in the period in which a plan is negotiated, this may be particularly detrimental to claimants, such as shareholders that benefit from any asset appreciation (Neyland and St. John 2022, 4–8). 
+
+Both timeliness and costs were factors considered by the company, government, and creditors in analyzing and deciding upon the proposed GM Section 363 sale (Bosco and Plante 2013, 183, 186). GM filed for bankruptcy in the Southern District of New York with an expedited timeline of approximately six weeks, due to be completed by July 10, 2009. It was one of the largest bankruptcies of a US manufacturer in history (GMC 2009a; Bosco and Plante 2013, 186). 
+
+In conjunction with GM’s restructuring, and because such financing was not available to GM commercially, the US government agreed to provide DIP financing of up to $30.1 billion to assist the company in going through the expedited Section 363 bankruptcy action to clear its liabilities and restructure (Treasury 2009e; Dassin 2009, 7–8). The governments of Canada and the province of Ontario also committed a loan, up to $9.5 billion, to GM and New GM (COP 2011, 21). See “Program Description: Canadian Participation in Assistance to Manufacturers” for more discussion of the role of Canada. 
+
+> 32 See discussion at “Program Description: Assistance to Chrysler: The Restructuring and Debtor-inPossession Financing” and Nye 2021 for details of the Chrysler bankruptcy and restructuring. The Auto Task Force and Treasury Auto Team determined that Chrysler, the smaller company, should go through the Section 363 process first as a test case. (Deese, Shafran and Jester 2020, 373-375). 
+
+
+[FIGURE id=vol4_iss1_9_f2 type=chart label="Figure 2" file=figure_2.png caption="US Government Support to GM ($ billions)"]
+### **Figure 2: US Government Support to GM ($ billions)**
+
+|**Item**|**Amount**|
+|---|---|
+|Bridge Loan**a**|$13.4|
+|Working Capital Loansb|6.4|
+|DIP Financingc|30.1|
+|**Total to GM**|**$49.9**|
+|**Amount recovered**|**39.7**|
+|**Profit/(loss)**|**(10.2)**|
+
+
+
+- _(a)_ Amounts include any Additional Notes issued but exclude Canadian governments’ participation of $9.5 billion. 
+
+_(b)_ Includes an additional $361 million loan that GM repaid. 
+
+- _(c)_ Reflects maximum amount committed by the government. 
+
+_Sources: Treasury n.d.b; Treasury 2009e; Treasury 2013b; COP 2011, 35–36._ 
+
+The bankruptcy process wiped out the value of GM’s equity shares, and its debt obligations were restructured. As part of the process, the company committed to a plan to achieve and sustain long-term viability by making major changes in the areas of (1) reducing average employee pay to bring it more in line with the foreign transplants, (2) off-loading unprofitable brands, and (3) committing to international competitiveness and energy efficient vehicles (COP 2009a; 21–27, 68–77). 
+
+As a result of the bankruptcy, ownership in the post-bankruptcy New GM was shared between Treasury, GM’s creditors, the governments of Canada and the province of Ontario, and the Voluntary Employees' Beneficiary Association (VEBA) of the United Auto Workers (UAW) union (which would absorb certain health care liabilities) as set forth in Figure 3. 
+
+
+[FIGURE id=vol4_iss1_9_f3 type=figure label="Figure 3" file=figure_3.png caption="Ownership of New GM Post-restructuring and Other Equity Interests"]
+### **Figure 3: Ownership of New GM Post-restructuring and Other Equity Interests**
+
+|**Owner**|**Equity Stake**|**Preferred**<br>**Stock**|**Warrants**|**# of Directors party may**<br>**appoint**|
+|---|---|---|---|---|
+|Treasury*|60.80%|$2.1 billion|n/a|10|
+|UAW VEBA|17.50%|$6.5 billion|One warrant for 2.5%<br>common stock once valuation<br>hit $75 billion|1<br>The UAW VEBA Trust has<br>the right to select one<br>independent director, but no<br>right to vote its shares nor<br>any other governance rights.|
+|Canada and<br>Ontario|11.70%|$400 million|n/a|1|
+|Old GM<br>(unsecured<br>bondholders)|10.0%|n/a|Two warrants for 7.5%<br>common stock each at<br>discounted price once<br>valuation hit $15 billion|1|
+
+
+
+Note: Sources report that there were 13 directors. We have assigned 1 to the Old GM unsecured bondholders, as we cannot confirm another holder of this spot. The other places were independently confirmed. 
+
+_Sources: Klier and Rubenstein 2012, 42; Gerber 2009, 18–19; Bosco and Plante 2013, 185–186; COP 2009b, 15– 16, 24._ 
+
+Following formation of the New GM, the original $13.4 billion bridge loan and the $6.0 billion working capital loan were terminated, including the associated warrants and additional notes. In consideration of these amounts and $19.9 billion of the GM DIP Loan, the US government received approximately 60.8% of the equity of New GM (COP 2011, 8, 23). It chose to swap the existing loans for equity rather than weigh down New GM with substantial debt, which might have negatively impacted New GM’s prospects, a standard practice in bankruptcy actions. Treasury also received approximately $7.1 billion in debt (including the $360 million liabilities for customer warranties) and $2.1 billion in preferred stock in New GM. Treasury had the right to appoint the initial directors of New GM, other than those to be selected by the VEBA and the Canadian governments (COP 2009b, 20). 
+
+
+## _**Assistance to Chrysler**_ 
+
+_The Bridge Loan_ 
+
+On December 19, 2008, the day the government announced the GM Bridge Loan, it also announced that it had determined to provide a loan to Chrysler (the Chrysler Bridge Loan). The terms of the $4 billion Chrysler Bridge Loan, all of which was disbursed shortly thereafter, were very similar to those of the GM Bridge Loan. It was secured by Chrysler’s assets (although its unencumbered assets were minimal), carried a below-market interest rate (the greater of three-month LIBOR plus 3% and 5%), and it also required the company to submit a viability plan by February 20, 2009 (Chrysler 2008, PDF pp. 26, 143–145). The Chrysler Bridge Loan was for a period of three years but subject to early termination in the event of default or if the company failed to timely submit an acceptable viability plan (Chrysler 2008, PDF pp. 8, 25 ,60; GM and Treasury 2008, PDF pp. 258–262). 
+
+For reasons related to Chrysler’s private status—both that of the existing company (Old Chrysler) and the company that purchased most of Chrysler’s assets in the section 363 bankruptcy and continued to operate under the Chrysler name, New Chrysler—warrants were not considered a desirable option, so Additional Notes were issued as the additional security required under TARP. Treasury received a similar amount in Additional Notes, as it had in the GM case, representing 6.67% of the “Maximum Loan Amount” of the loan (in other words, the $4 billion committed to Chrysler) (Chrysler 2008, PDF p. 142). This meant that Chrysler would owe approximately $4.3 billion in principal on the $4 billion Bridge Loan. 
+
+_The Viability Plan and Working Capital Loan_ 
+
+As required, in February 2009, Chrysler submitted a viability plan. However, after evaluation, on March 30 the Obama administration announced a position that was very different than the one it reached regarding GM. The administration rejected Chrysler’s viability plan and “determined that Chrysler has not demonstrated that it can achieve longterm viability as a stand-alone company,” as required (Treasury 2009c, 3). The administration also concluded that Chrysler’s proffered plan to merge with Italian auto manufacturer Fiat Automobiles SpA was not sufficiently developed to support further taxpayer investment (Treasury 2009c, 1). Despite this conclusion, the government was willing to extend additional working capital to Chrysler for 30 days to see if it could, among other things, solidify a merger arrangement with Fiat that met certain _financial_ constraints and adequately protected taxpayers (Treasury 2009c, 1, 3–4). 
+
+In more detail, the requirements to be met included: (1) restructuring Chrysler’s balance sheet to extinguish the vast majority of its secured debt and all of its unsecured debt and equity, other than to trade creditors; (2) further concessions from the UAW; (3) a more viable plan for profitably operating in a normal business environment; (4) an agreed plan with Fiat that would not require more than $6 billion of taxpayer investment to be successful; (5) a viable mechanism for dealer and customer financing; and (6) a “credible plan” for implementing the restructuring (Treasury 2009c, 4). 
+
+
+If the company was successful with these steps in the allotted 30-day period, the government would consider extending to it up to $6 billion in additional funds as requested in its viability plan to help the partnership succeed. However, President Obama and the Treasury also clearly stated that if Chrysler could not reach an acceptable agreement with Fiat and its stakeholders, “we will not be able to justify investing additional tax dollars to keep Chrysler in business” (Obama 2009a). The President also stated that bankruptcy might be a useful tool to assist Chrysler in any restructuring so as to permit it to quickly get to a fresh start. (Obama 2009a). 
+
+Following the March 30 announcement, the government assisted Chrysler in negotiating concessions from its major creditors and labor unions (Nye 2022b, 8–9), and in firming up the terms of the Fiat partnership. After review of Chrysler’s revised viability plan, on April 30, 2009, the government announced, concomitant with its announcement regarding GM’s restructuring initiative, that Chrysler had successfully sealed a merger deal with Fiat and satisfied sufficient other terms to support the government in providing additional support of its restructuring (Treasury 2009e, 1). 
+
+[FIGURE id=vol4_iss1_9_f4 type=chart label="Figure 4" file=figure_4.png caption="US Government Support to Chrysler ($ billions)[a]"]
+### **Figure 4: US Government Support to Chrysler ($ billions)[a]**
+
+|**Item**|**Amount**|
+|---|---|
+|Chrysler Bridge Loan|$4.0|
+|DIP Financingb|3.8|
+|Loan to New Chryslerc|4.6|
+|**Total to Chrysler**|**$12.4**|
+|**Amount recovered**|**11.2**|
+|**Profit/(loss)**|**(1.2)**|
+
+
+
+- _(a)_ Includes any Additional Notes issued but excludes Canadian governments’ participation of approximately $1.1 billion. 
+
+_(b)_ The government committed up to $3.8 billion, of which New Chrysler drew $1.9 billion. 
+
+- _(c)_ The Treasury originally committed up to $6.6 billion to New Chrysler; of this amount, the company drew $4.58 billion, a figure which the Treasury used in later calculations of loss on the Chrysler transactions. 
+
+_Sources: Treasury 2013b; Treasury 2009a; COP 2011, 51._ 
+
+In the proposed merger with Fiat, the Italian company would contribute its operating and design expertise to the merger, agreed to continue to manufacture vehicles in the US, and be prohibited from increasing its ownership in the new company until Treasury ended its investment (Treasury 2009e, 1). Fiat would also largely manage the new company. 
+
+
+_The Restructuring and Debtor-in-Possession Financing_ 
+
+Because Chrysler had been unable to secure a compromise agreement from all its creditors, Chrysler would restructure through a Section 363 bankruptcy process, and the government intended for it to proceed with the action prior to the larger GM bankruptcy, in effect, positioning the smaller company as a test case (Treasury 2009e, 1). As with GM, the bankruptcy would enable the company to sell substantially all of its operating assets to a newly formed corporation (“New Chrysler”) and discharge substantially all of its liabilities, which would remain with the old company (“Old Chrysler”), which was to be wound down and liquidated under a Chapter 11 proceeding. Some of Chrysler’s creditors were also given consideration in provisions of the sale (Bosco and Plante 2013, 18386). Additionally, through the bankruptcy, the value of Old Chrysler’s equity shares was wiped out. Creditors were compromised and would receive payout from the proceeds of the liquidated estate, including the proceeds from the Section 363 sale, as the Chapter 11 process proceeded. 
+
+Because, as with GM, commercial DIP financing was not available to Chrysler, the US government committed up to $3.8 billion in DIP financing to Chrysler for the bankruptcy process to proceed (Treasury 2013b). Old Chrysler eventually accessed $1.9 billion from Treasury (Treasury 2013b) and an additional C$1.3 billion (approximately $1.1 billion[33] ) from Canadian authorities (OAGC 2014, 9). The US commitment terminated on June 30, 2009. Treasury wrote off the entire $1.9 billion in DIP financing but ultimately recovered $160 million through the sale over time of the remaining collateral held by Old Chrysler (Treasury 2013b). Information on Export Development Canada (EDC)’s recovery from its DIP lending commitments was unavailable. 
+
+Treasury also committed to lend $6.6 billion to New Chrysler[34] (the “New Chrysler loan”) to assist in funding its operations, a loan that was also secured by substantially all of the company’s assets. Chrysler ultimately drew $4.6 billion on this facility (COP 2009a, 40, 50; Treasury 2009e). The loan took the form of a “term loan for working capital with $2.1 billion due in 30 months and the balance 50% due on the 7th anniversary and 50% due on the 8th anniversary of the loan” (Treasury 2009e). 
+
+As additional consideration for the New Chrysler loan, Treasury received from New Chrysler 9.85% of its common stock (COP 2009b 27). As shown in Figure 5 the other postpetition owners of New Chrysler were: (1) the UAW VEBA which received 68% of New Chrysler’s equity for agreeing to restructure its $8.8 billion in unsecured claims against Chrysler, cutting Chrysler’s health care costs by more than 40% in the process (Rattner 2011, 153–154, 157); (2) Fiat, which received 20% for its contributions to the new 
+
+> 33 Per Yahoo Finance, USD 1 = CAD 0.8516 on May 5, 2009. 
+
+> 34 Of the Chrysler Bridge Loan, $500 million was also rolled into the New Chrysler loan. In addition, New Chrysler assumed $1.9 billion of that loan, and Treasury effectively wrote off $1.6 billion of the original $4 billion bridge loan (COP 2011, 10–11, 39). 
+
+
+company (COP 2009b 27); and (3) the Canadian and Ontario governments for their financial participation, received 2.46 percent (COP 2009b 27). 
+
+[FIGURE id=vol4_iss1_9_f5 type=figure label="Figure 5" file=figure_5.png caption="Post-Bankruptcy Ownership of New Chrysler"]
+### **Figure 5: Post-Bankruptcy Ownership of New Chrysler**
+
+|**Owner**|**Common**<br>**Stock**<br>**(%)**|**Other Equity Interests**|**No. of**<br>**Directors**<br>**that Party**<br>**May Elect**|
+|---|---|---|---|
+|UAW VEBA|67.69|n/a|1|
+|FIAT|20.00|Two warrants for 7.5% common stock<br>each at discounted price once valuation<br>hit $15 billion|3|
+|US Treasury|9.85|n/a|4|
+|Canadian/Ontario<br>governments|2.46|n/a|1|
+
+
+
+_Source: Klier and Rubenstein 2012, 41; COP 2009b, 11._ 
+
+Chrysler entered bankruptcy on April 30, 2009, and New Chrysler exited on June 10, 2009 (David 2010, 39). New Chrysler, which would essentially be run by Fiat, began with $33 billion in assets and $29 billion in liabilities (Chrysler 2011, 326). 
+
+The agreements among the post-bankruptcy owners and the company contained several provisions that provided opportunities for Fiat to increase its ownership as incentives to pursue the company’s new business plan. Treasury’s stake was diluted in the first half of 2011 from 9.85% to 8.6% when Fiat, having met certain performance milestones, automatically increased its stake in the company from 20% to 30% and also exercised an equity call option to purchase an additional 16% interest in New Chrysler. In July 2011, Fiat, through exercise of another equity call option, purchased Treasury’s shares for $500 million and paid an additional $60 million relating to rights that Treasury held with respect to the VEBA’s equity interests; which it did not have funding to acquire (Treasury 2011). Thus, while the receipt of equity anticipated that the Treasury and taxpayers might benefit from appreciation in New Chrysler’s stock price post-bankruptcy, such benefit was limited when compared with the results at GM due to the size of the government’s interest and the decision to use equity as an incentive for Fiat to succeed at the merger and availability of funds. 
+
+## _**The Presidential Task Force on the Auto Industry**_ 
+
+The GM and Chrysler Bridge Loans provided that a President’s Designee (who would be the Secretary of Treasury if the President did not appoint a Designee) would administer the loans, review, and evaluate the companies’ viability plans, and oversee compliance 
+
+
+(Chrysler 2008, PDF pp. 19, 58-61, 68). The enabling law provided for a single President’s Designee; however, the President Bush declined to appoint a designee and therefore the role initially fell to Secretary of the Treasury Paulson (Rattner 2011, 32–35). 
+
+On February 15, 2009, before the manufacturers’ viability plans were submitted, President Obama announced that the role of President’s Designee would be filled by the Presidential Task Force on the Auto Industry (the Task Force), perhaps in response to some negative public opinion regarding a “car czar” (Klier and Rubenstein 2012, 49-50; Rattner 2011, 32– 33, 51–56, 63–66). The Task Force was co-chaired by Secretary of the Treasury Geithner, and director of the National Economic Council Lawrence Summers (Klier and Rubenstein 2012, 38–39; COP 2009b, 10–11). However, day-to-day administration of the Bridge Loans and other funding and staffing for the Task Force fell to the Treasury auto team (Auto Team), which was led by two appointed advisers, Ron Bloom and Steven Rattner[35] (COP 2009b, 10-11; Klier and Rubenstein 2012, 38–39). The Auto Team reported to the Task Force and its co-chairs, who then reported up to the President (COP 2009b, 10–11) 
+
+The Task Force enjoyed wide-ranging administrative leverage over the restructuring process through its ability to review a number of company actions and its power to trigger the loans’ termination by determining the acceptability of the companies’ viability plans (Chrysler 2008, PDF pp. 19, 58–61, 68). Specifically, the Task Force had the authority to approve bonuses to senior employees, reject transactions of more than $100 million, approve material changes to the company expense policy, generally oversee compliance with the terms of the loans, and negotiate the terms of any further assistance (Chrysler 2008, PDF pp. 19, 41, 53–61). 
+
+## _**Canadian Participation in Assistance to Manufacturers**_ 
+
+The Canadian operations of both GM and Chrysler were highly integrated with the companies’ US operations. “Approximately 85 percent of cars produced in Canada [were] exported, and these exports [were] sent almost exclusively to the United States. Exported vehicles and parts represent[ed] about 15 percent of Canada’s manufactured product exports” (OAGC 2014, 3). Moreover, the Canadian supplier network was integrated similarly to that in the US, with suppliers also supporting healthier manufacturers with a risk of contagion if any of these suppliers were to fail due to GM’s or Chrysler’s demise. The developing economic impacts of the financial crisis negatively affected Canada’s auto production and employment in ways similar to the effects in the US, including slower sales and increased difficulty in financing (OAGC 2014, 4). As the industry accounted for 
+
+> 35 Ron Bloom was a former investment banker and adviser to the president of the United Steelworkers union, and Steven Rattner was the co-founder of the Quadrangle Group, a private equity firm. The auto team was “was notable for not including any individual with close ties to the auto industry” (Klier and Rubenstein 2012, 39). Rattner exited the Treasury Auto Team on July 13, 2009, leaving Bloom as the team’s leader (COP 2009b, 10–11) 
+
+
+approximately 1.5 percent of the Canadian gross domestic product in 2007, the government wanted to forestall any further ill effects (OAGC 2014, 1–6). 
+
+Therefore, in late 2008, the Canadian federal and Ontario provincial governments became concerned about the impact that a GM or Chrysler failure would have on their economies and in 2009 joined the US government in offering financial assistance to Chrysler Canada and GM Canada, subsidiaries of the US companies, through participation in the US government’s agreements with the parent companies. 
+
+Canada’s investments in GM, targeted to ensure continued production in Canada totaled C$13.7 billion with C$10.8 billion going to GM companies and C$2.9 billion going to Chrysler companies as shown in Figure 8[36] (OAGC 2014, 9; GM 2010, 55). The Canadian governments also participated in negotiations with stakeholders prior to the bankruptcy filings with a focus on maintaining production in Canada. 
+
+A portion of the loans to GM Canada, $1.5 billion, was repayable and was repaid (OAGC 2014, 12). The parties agreed that the majority of loans made by the federal and provincial governments, valued at approximately C$9.8 billion, would be converted into 16million preferred shares and 175 million common shares of New GM (OAGC 2014, 12). The Canadian governments also received the right to select one director of New GM as long as they held their equity (COP 2009b, 20). 
+
+In 2014, the Canadian government transferred approximately 37 million common shares to Ontario. The government sold the remaining common shares in a series of transactions between 2013 and 2015 and reported that it recognized gains in value of C$4.3 billion from the common shares (CDEV 2016, 2). On December 31, 2014, GM repurchased the preferred shares at the liquidation preference value of $25 per share (USD) for a total of C$466,989 (CDEV 2016, 33). 
+
+As shown in Figure 5 and discussed in the “Program Description: Assistance to Chrysler” section the Canadian governments also provided assistance to the Chrysler companies with a loan of C$1.6 billion to Canada Chrysler and of $1.3 billion to Old Chrysler. The loan to Chrysler was converted into 2.46 percent of New Chrysler’s common shares and the right to select one director as long as they held the equity (see Figure 5; COP 2009b 27). Information on the further recovery of the Canadian loans or the outcome of the New Chrysler shares was unavailable at this writing. 
+
+> 36 The federal and provincial governments agreed to provide two-thirds and one-third, respectively, of the Canadian share of assistance to the companies (OAGC 2014, 5). Canadian investments were made through Export Development Canada (EDC), Canada’s export credit agency, on behalf of the governments of Canada and the Province of Ontario (COP 2009b, 28, 159). 
+
+
+[FIGURE id=vol4_iss1_9_f6 type=figure label="Figure 6" file=figure_6.png caption="Total Loans to Chrysler and General Motors from Canada and Ontario"]
+### **Figure 6: Total Loans to Chrysler and General Motors from Canada and Ontario**
+![Figure 6](assets/vol4_iss1_9/figure_6.png)
+
+
+_Source: OAGC 2014, exhibit 5.3._ 
+
+In addition, in 2008, the Canadian government established the Automotive Innovation Fund which was designed to provide up to C$250 billion over five years to eligible automotive, engineering, and research firms to support “strategic, large-scale research and development (R&D) projects to build innovative, greener, more fuel-efficient vehicles” and the competitiveness of the Canadian automotive industry (Canada n.d.). 
+
+## _**Assistance to Related Segments of the Auto Industry**_ 
+
+_Assistance to Auto Finance Companies_ 
+
+_GMAC/Ally Financial._ Over 2008 and 2009, Treasury invested $17.2 billion in GMAC equity, and the company was approved to convert to a bank holding company on an expedited basis, after which it participated in broad-based programs of the Federal Reserve (the Term Auction Facility, the Commercial Paper Funding Facility, and the Term Asset-Backed Securities Loan Facility [TALF]) and the Federal Deposit Insurance Corporation (FDIC) (the Temporary Liquidity Guarantee Program) (Ally Financial 2011, 37; Treasury n.d.d; Federal Reserve 2008). Also of note, an expansion of the TALF,[37] which provided financing for ABS, including those backed by auto loans, was designed to help restore liquidity to GMAC’s auto 
+
+> 37 The TALF had been introduced on November 25, 2008, by the Federal Reserve with TARP backing from the Treasury and was designed to encourage lending to businesses and households, the issuance of securities backed by privately originated loans to consumers and businesses, and to improve market conditions for asset-backed securities, including those backed by auto loans (GAO 2009b, 33). Under the program, the Fed provided financing to investors to purchase new issues of eligible ABS, including small business loans, auto loans, student loans, and credit card loans. (GAO 2009b, 33). Up to $1 trillion in lending was authorized with up to $100 billion coming from TARP. (GAO 2009b, 33). 
+
+
+finance business.[38] Although there was some concern that the TALF’s required triple-A rating would exclude some securities of the auto finance companies, GMAC successfully utilized the program. For example, it reported that for the first quarter of 2010, of six transactions securitizing more than $5 billion of automotive-related assets, all but one for $909 million were offered under TALF (GAO 2009b, 33; Ally Financial 2010b, 93). (For detailed discussions of assistance to GMAC see COP 2010 and Matsumoto and Nygaard 2022.) 
+
+_Chrysler Financial._ In the autumn of 2008, Chrysler’s related finance company, Chrysler Financial, was also in dire straits, and its legal relationship with Chrysler created significant mechanical problems for the restructuring of Chrysler, which Treasury helped to resolve. Given the factors discussed earlier and the need to provide a source of continued financing for Chrysler dealers and customers, in December 2008, the government provided Chrysler Financial $1.5 billion in low-interest financing to fund the securitization of new consumer car loans.[39] Although the loans bore a 5-year term, the program lasted only from January 16, 2009, to April 9, 2009, as Chrysler Financial paid off the loans early through participation in the TALF. 
+
+Chrysler entered bankruptcy shortly after the completion of the $1.5 billion facility, and most of Chrysler Financial’s business was expected to be taken over by GMAC. Chrysler Financial would be replaced as Chrysler’s auto finance partner contingent on Treasury’s providing a capital injection to GMAC, various regulatory approvals, and Chrysler’s meeting several milestones in the bankruptcy court by a specified date (Treasury 2009d; COP 2010, 27, 49; Keegan 2009, 4; Chrysler LLC 2009, 6). Chrysler Financial did continue to do business, albeit at a much smaller scale. In early 2010, Treasury exited from its interests in Chrysler Financial (COP 2011, 117–118). (For a detailed discussion of assistance for Chrysler Financial see Nye 2022c.) 
+
+## _Assistance to Auto Parts Suppliers_ 
+
+Because of concerns about the auto manufacturers’ ability to pay their bills, parts suppliers were experiencing difficulty borrowing from banks using their receivables as collateral. To address this concern, on March 19, 2009, the Treasury announced the Auto Supplier Support Program (ASSP) as an auxiliary program to the AIFP (Treasury 2009a). The ASSP established two bankruptcy-remote special purpose vehicles (SPVs), one for GM and one for Chrysler, to purchase eligible receivables from participating suppliers at a modest discount, with the suppliers being chosen to participate by the manufacturers[40 ] (SIGTARP 
+
+> 38 This is an example of how in a crisis, officials reach to use any variety of available tools to solve a problem, often utilizing more than one type. Also see Footnote 14. 
+
+> 39 Note that this secured loan to Chrysler Financial contrasts with the unsecured equity support to GMAC. We have not been able to determine why this difference was made. 
+
+> 40 The use of the SPVs was a creative structuring that facilitated the separation of the funds and control of the choice of suppliers aided by the manufacturers. However, this later factor was one notable criticism of the ASSP— was that the government permitted the manufacturers to choose which suppliers participated. This 
+
+
+2009a, 89, 91). The SPVs were funded through a cash contribution from the auto manufacturer equal to 5% of the amount allocated to them under the ASSP, with the balance of the program being funded by a TARP loan from Treasury (SIGTARP 2009a, 89). The government committed up to $5 billion to the ASSP as shown in Figure 7, but only part of this was allocated to GM and Chrysler, the two participating manufacturers. 
+
+[FIGURE id=vol4_iss1_9_f7 type=figure label="Figure 7" file=figure_7.png caption="Funding of SPVs for the Auto Supplier Support Program"]
+### **Figure 7: Funding of SPVs for the Auto Supplier Support Program**
+![Figure 7](assets/vol4_iss1_9/figure_7.png)
+
+
+_Created by YPFS. Source: SIGTARP 2010, 278._ 
+
+The program outcomes were considered mixed, and its specific role in reducing the pressure on US auto parts suppliers is difficult to determine. Among other issues, there was some dissension on the manufacturers’ getting to choose which suppliers were helped and also on the terms of the financing. The ASSP was terminated in April 2010, after all loans made under the program were repaid (SIGTARP 2010, 151). The Treasury collected $115.9 million in interest and fees from the ASSP (SIGTARP 2010, 151). 
+
+## _Auto Warranty Commitment Program_ 
+
+On March 30, 2009, President Obama also announced government-funded protection for consumer warranties on GM and Chrysler vehicles purchased while they underwent restructuring (Treasury 2009b; Obama 2009b). The new Auto Warranty Commitment Program (AWCP) was intended to “give consumers who [were] considering new car purchases the confidence that even in this difficult economic period, their warrantees [would] be honored” (Treasury 2009b, 1). Although the AWCP was announced in direct support of GM and Chrysler, participation was open to all domestic automakers (Treasury 2009b, 2). GM and Chrysler, however, were the only two manufacturers who chose to participate (Treasury 2009b, 1). 
+
+was perceived by some as too narrow a focus, but it was consistent with the government’s intent to maintain a narrow perimeter on the rescue focused on stabilizing the two manufacturers. This decision also likely helped avoid much political lobbying on behalf of various suppliers. 
+
+
+While sometimes referred to as a “government guarantee,” technically, under the AWCP, the government did not provide a guarantee. Under the AWCP, GM and Chrysler each established a special purpose vehicle to hold the program funds, which were to equal 125% of the expected cost of paying warranty claims on each covered vehicle they sold. Each manufacturer contributed 15% of the expected costs to the SPV in cash and funded the remaining 110% with a Treasury loan[41] (GAO 2009b, 14; Treasury 2009b, 1–2). 
+
+[FIGURE id=vol4_iss1_9_f8 type=chart label="Figure 8" file=figure_8.png caption="Auto Warranty Commitment Program Funding ($ millions)"]
+### **Figure 8: Auto Warranty Commitment Program Funding ($ millions)**
+
+|**Company**|**Company**<br>**Contribution**|**Treasury Loan**|
+|---|---|---|
+|GM|63.6|360.6|
+|Chrysler|49.4|280.1|
+|**Total**|**$113.0**|**$640.7**|
+
+
+
+_Source: Authors’ calculations._ 
+
+The Treasury loans carried an interest rate of the greater of 550 basis points (bps) or LIBOR plus 350 bps. GM and Chrysler each issued to Treasury additional promissory notes for 6.67% of the value of any advances drawn upon under the AWCP. The loans were also secured by a commensurate stake in GM and Chrysler’s warranty SPVs[42] and by “Guaranty Collateral” that included a security interest in all of the collateral owned by the relevant warranty SPV (Henken 2022, 8). The SPV was to be administered not by the manufacturer but by a third party with funding from the TARP program (Treasury n.d. 3). 
+
+In the event a manufacturer went out of business or otherwise became unable to meet its warranty obligations, the SPV would appoint (with Treasury’s approval) one or more thirdparty program administrators to assume the manufacturer’s warranty liabilities and to be paid through the funding held by the SPV (GAO 2009, PDF 19; Treasury n.d.3, 2). 
+
+The AWCP was established when sales were at their absolute worst. Sales picked up some while the companies were in bankruptcy but did not really start recovering until the bankruptcies were completed. On July 10, 2009, both companies had emerged from bankruptcy, and although other obligations to the government remained outstanding, GM and Chrysler paid back all AWCP loan principal, while Chrysler also paid $5.5 million in interest (Treasury 2009b). The program subsequently closed without either company having called upon the warranty support (SIGTARP 2009b, 91). It is not clear why GM’s 
+
+> 41 Structuring the AWCP using SPVs and a loan to the manufacturer permitted the government to “support” the warranties of new vehicles without absorbing an unknown and or unlimited risk. It also allowed the government’s loans to be supported by the new companies and secured by their assets. 
+
+> 42 While Treasury funding to GM and Chrysler for the AWCP was structured as a loan, the funding was used to “capitalize” their SPVs, and so in return Treasury received a commensurate stake in each SPV (Henken 2022, 8). 
+
+
+interest obligations from the warranty loan were not paid (TARP Transaction Reports). See Henken 2022 for discussion of the warranty programs. 
+
+The Canadian government also established a warranty-support program similar to the US Auto Warranty Commitment Program “to increase consumer confidence and encourage Canadians to buy new cars” (Canada 2009). The program applied to vehicles purchased while GM and Chrysler restructured. Data on the separate amounts targeted for this program are not available (Henken 2022, 13–14). (See discussion of the AWCP in “Program Description: Assistance to Related Segments of the Auto Industry” and in Henken 2022 for more details of the AWCP.) 
+
+## _**Outcomes**_ 
+
+## _The Section 363 Bankruptcies_ 
+
+Despite the large size and complex nature of the GM and Chrysler Section 363 bankruptcy proceedings, they were successfully completed in record timeframes with the new companies exiting the process and continuing to operate even while the legacy companies liquidated their remaining assets pursuant to Chapter 11 proceedings (Bosco and Plante 2013, 187). 
+
+The use of the expedited process was challenged and criticized by a number of creditors and legal scholars. Their arguments included: (1) the pace of the bankruptcy was too fast (Roe and Skeel 2009, 1-3); (2) the bidding procedures were too narrow to include a genuine bid from anyone besides the government (Roe and Skeel 2009, 16–18); (3) Section 363 was not meant to compromise tort claims, such as product liability and warranty claims, which were not absorbed by the new companies (Bosco and Plante 2013, 186–188; Roe and Skeel 2009, 2); (4) the UAW was unduly favored over other unions and creditors (Bosco and Plante 2013, 186–88); and (5) the US government’s secured debt (and that of the governments of Canada and Ontario) should have been recharacterized as equity, giving it a lower priority (Gerber 2009, 47).[43] 
+
+It should be noted, that the arguments all failed in several court cases (or were considered moot and not decided), and that challenges to the GM bankruptcy had the benefit of the favorable Chrysler decisions as precedent,[44] a fortunate outcome of the government’s 
+
+> 43 For contrast, see Lubben 2009 for a discussion of why, despite the arguments against them, the Chrysler and GM bankruptcies “are entirely within the mainstream of chapter 11 practice” (102–103). 
+
+> 44 Judge Gerber remarked in the GM case: “Here this Court has the benefit of the decisions of Bankruptcy Judge Gonzalez in the Chrysler chapter 11 cases—affirmed by the Second Circuit, for substantially the reasons Judge Gonzalez set forth in his opinion—on facts extraordinarily similar to those here" (Gerber 2009, 28). See Gonzalez 2009a (Plaintiff had no standing to challenge the use of TARP funds) and Gonzalez 2009b (Opinion approving the Chrysler Section 363 sale). The opinions were affirmed by the 2nd Circuit in (Indiana State Police Pension Trust v. Chrysler LLC 2009b) (affirmed for substantially the reasons stated in the opinions in the lower court) and the Supreme Court refused to hear a related appeal challenging the bankruptcy (Klier 
+
+
+strategy to have the smaller Chrysler go through the process first.[45 ] (See Gerber 2009, 22– 24, for the court’s ruling and reasoning in favor of the “need for speed” with respect to the GM bankruptcy.) 
+
+## _The Government’s Resolution_ 
+
+The overarching goal of the government’s intervention was to sustain GM and Chrysler so that the companies could restructure in a way that positioned them to return to profitability. This goal was achieved with respect to both companies. 
+
+_General Motors_ . New GM produced a profit in 2010, the year following its restructuring (GM 2009a; Hirsch 2011) and for most of the following decade (Macrotrends LLC. n.d.). The New GM initial public offering (IPO), one of the largest in US history, in which the government sold its first significant stake in the company, was completed above the initial target price and the government was able to sell more shares than it had initially anticipated. However, in aggregate, the government recovered only $39.7 billion with respect to its assistance to GM that began in December 2008 and wound down in December of 2013 (Treasury 2013a; Treasury 2013b; Klier and Rubenstein 2012, 42). 
+
+[FIGURE id=vol4_iss1_9_f9 type=chart label="Figure 9" file=figure_9.png caption="US AIPF Funding Level ($ billions)"]
+### **Figure 9: US AIPF Funding Level ($ billions)**
+
+|**Component**|**GM **|**Chrysler **|**Total **|
+|---|---|---|---|
+|Bridge Loans|13.4|4.0_|17.4|
+|Working Capital Loans|6.4a|4.6b|11.0|
+|DIP Loans|30.1|3.8c|33.9|
+|Assistance related to GMAC/Ally Financial|17.2|–_|17.2|
+|Assistance to Chrysler Financial|–|1.5_|1.5|
+|Supplier Support Program|0.3|0.1_|0.4|
+|Warranty Commitment Programc|0.4|0.3_|0.7|
+|||**Total**|**$82.1**|
+
+
+
+(a) Includes an additional $361 million loan that GM repaid. 
+
+(b) Includes working capital loan to New Chrysler. 
+
+(c) The government committed up t $3.8 billion, of which New Chrysler drew $1.9 billion 
+
+_Sources: Treasury 2009e; Treasury 2013b; COP 2011, 51._ 
+
+and Rubenstein 2012, 40–41; Indiana State Police Pension Trust v. Chrysler LLC 2009a) (temporary stay vacated and further stay denied). 
+
+45 Given the relative sizes of the two companies, the government’s Auto Team determined to have Chrysler go through the Section 363 bankruptcy process first as a test case to permit any troublesome areas to be identified and possibly corrected or attended to before the larger GM proceeded. Because the Chrysler procedure was successful, the result was also favorable precedential case law that supported the GM sale. 
+
+
+_Chrysler._ Chrysler returned to profitability in 2010, and repaid its government loans by mid-2011, several years ahead of schedule. (COP 2011, 20; Klier and Rubenstein 2012, 48). The company rebounded better than expected, rolling out new products and gaining market share. (Klier and Rubenstein 2012, 48). However, including interest received, the US government experienced a $1.3 billion loss on its assistance to Chrysler (Klier and Rubenstein 2012, 41–42). 
+
+_GMAC_ . Between December 2008 and December 2009, the US Treasury invested more than $17.2 billion in capital in GMAC (Treasury 2014). The final sale of Treasury’s equity in GMAC was completed on December 19, 2014 (Treasury 2014). The total return on the series of investments was $19.6 billion, a taxpayer profit of $2.4 billion, including dividends the Treasury received on the preferred shares between 2009 and 2014 (Treasury 2014). 
+
+## _Impacts of the Restructurings_ 
+
+Both GM and Chrysler emerged from their restructurings with much reduced debt, unburdened by significant legacy liabilities, and more efficient streamlined businesses and operating structures. (Klier and Rubenstein 2012, 42–43, 48, 50). Among the principal drivers of the return to profits for both companies was the reduction in fixed costs, driven by reductions in hourly labor costs, total number of employees, number of manufacturing plants, health insurance costs, expensive liabilities, and the overall break-even number of vehicle sales (Klier and Rubenstein 2012, 42–48). For example, GM had a much lower break-even point, it had to sell only 19 percent market share or 2.09 million cars to break even, down from a 25 percent share and 3.88 million cars in 2007 (Klier and Rubenstein 2012, 43; COP 2011, 32). 
+
+Overall, not only were the restructurings judged to be positive in the short term, but they were also thought to have laid foundational changes that could continue to benefit the companies in the long term. Klier and Rubenstein found that although the restructurings resulted in plant closings and significant employment reductions in the industry—down 34 percent in vehicle assembly and 32 percent in parts production between 2007 and 2009— such changes improved the industry’s capacity utilization. “Since capacity utilization is a key driver of profitability for carmakers, the unprecedented number of assembly plant closures during the recent restructuring [enabled] carmakers [including GM and Chrysler] to achieve profitability at historically low output levels” (Klier and Rubenstein 2012, 45). 
+
+Another development Klier and Rubenstein cited was the Detroit Three’s gain in market share in 2011, marking a first since 1995. Chrysler and GM increased their market share from 9.3 percent in 2010 to 10.7 percent in 2011 and from 19.1 percent to 19.7 percent, respectively, and notably, they gained momentum in the passenger car sector “after three decades of having ceded most of the high-volume family car market to the Japanese carmaker” (Klier and Rubenstein 2012, 47). 
+
+One other major change post-restructuring was that in 2011 labor negotiations resulted in the Detroit Three and the UAW’s agreement on new variable pay structures that made 
+
+
+“Detroit’s labor costs [. . .] competitive with foreign producers operating within North America” (Klier and Rubenstein 2012, 48). 
+
+Although the government did not recover the full amount of what it invested, there is consensus that the restructurings were an overall success and of great benefit to the country: “It is hard to argue that this decision did not deliver important economic benefits to the recovery and country. If GM and Chrysler had been allowed to fail, in all likelihood the Great Recession would have been deeper and longer, and the recovery that began in mid-2009 would have been weaker” (Goolsbee and Krueger 2015, 4). By contrast, aided by a greater than expected rebound in consumer demand for vehicles, the restructurings exceeded expectations, especially with respect to Chrysler, which was at first considered to be less important (Goolsbee and Krueger 2015, 4). 
+
+Additionally, beyond the individual companies, the auto industry in total contributed significantly during the recovery, “punching above its weight” (Goolsbee and Krueger 2015, 20). Five years into the recovery, the auto industry accounted for more than 25 percent of the increase in manufacturing even though the industry comprised only about 6 percent of total manufacturing production. And since bottoming at 623,300 jobs at the trough of the recession in June 2009, employment in the motor vehicles and parts manufacturing industry had increased by 256,000 jobs (as of July 2014), fully 60 percent of all new manufacturing jobs. Vehicle and parts dealers added an additional 225,000 jobs (Goolsbee and Krueger 2015, 20). Together the industry added a full 6 percent of all new jobs added during the first five years of recovery, three times its 2 percent share of total employment and far from the 1 million jobs predicted to be lost if GM and Chrysler had failed (Goolsbee and Krueger 2015, 8). 
+
+_Canadian Outcomes._ Chrysler Canada repaid its C$1.6 billion loan to the Canadian and Ontario governments in May 2011 (OAGC 2014, 12). Old Chrysler’s DIP loan of C$1.28 billion made in support of its bankruptcy was reduced to approximately C$1.2 billion in 2011 following the sale of Chrysler shares held by the government to Fiat, but as of 2014 had not been repaid (OAGC 2014, 13). The most-recent public valuation of outstanding commercial loans to the auto sector that remained in arrears showed a total of C$1.15 billion still owed to the federal government as of March 2017 (Beeby 2018). In 2018, the government reported that it had written off a loan of this size, but officials did not confirm the loans were to Chrysler (Beeby 2018). 
+
+The two Canadian subsidiaries did not go through bankruptcy; they remained subsidiaries of the New GM and New Chrysler. However, overall, the automobile industry in Canada was negatively affected by the general effects of the financial crisis and the specific impacts of the restructurings of the GM and Chrysler US parent companies. The industry accounted for approximately 1.5 percent of the Canadian gross domestic product in 2007 compared with about 1.1 percent in 2013 (OAGC 2014, 4). In 2007, car manufacturers and parts suppliers employed 152,000 people, compared to employment of 117,000 people in 2013 (OAGC 2014, 4). As of May 2014, the Automotive Innovation Fund had committed to a maximum of C$310 million for six approved projects, of which C$131 million had been paid. (OAGC 2014, 7). 
+
+
+## **III. Key Design Decisions** 
+
+**1. What factors influenced the government’s determination that the auto industry posed a systemic risk to the financial system?** 
+
+Government efforts to assist the auto industry were not predicated on a potential systemic risk to the financial system, but rather on consideration of broader risk to the economy and stimulus efforts. Government opinion on whether to provide assistance to avoid the failure of GM and Chrysler was mixed. In writing about the government intervention in the auto industry, members of the Bush and Obama administrations Brian Deese, Steven Shafran, and Dan Jester point out that: “This was different from the rescues of financial institutions like American International Group (AIG), which posed an immediate systemic risk to markets and the economy. Instead, this rescue was, in effect, an extension of our broader effort to blunt the worst effects of an economy in freefall and provide stimulus to accelerate an economic recovery” (Deese, Shafran, and Jester 2020, 359–360). 
+
+Ron Bloom, a Treasury Department official and adviser to the Task Force, also cited the rare circumstance in which events occurred: 
+
+If a company of General Motors’ or Chrysler’s size and scale had failed in a healthy economy, they would have been able to be reorganized . . . Companies fail all the time. 
+
+The dilemma we faced with GM and Chrysler is the financial system itself had basically frozen. There was no credit available . . . If the government had not been prepared to provide them with debtor-in-possession financing . . . there’s no doubt in my mind they would have liquidated . . . These companies sit at the top of the manufacturing industry pyramid. There are literally millions of jobs that are directly or indirectly tied to General Motors and to Chrysler. The argument for saving these auto manufacturers is essentially not about saving them; it's about saving the industry (Bloom 2022). 
+
+Factors the government cited in defense of the decision to provide support focused on the likely impacts of the companies’ failures on an already weakened economy: 
+
+- the risk of 1.1 million workers losing their jobs, including workers from auto suppliers and dealers, 
+
+- estimates of a 1 percent reduction in real GDP growth, 
+
+- 
+
+   - crippling effects on the auto suppliers and dealers, 
+
+- destabilizing impacts on the communities dependent on the plants and workers, and 
+
+- the possibility that the government would have to absorb the pension obligations of tens of thousands of dislocated workers (Deese, Shafran, and Jester 2020, 361; White House 2008). 
+
+
+However, it should also be noted that the politically charged climate surrounding the government’s rescue efforts for the financial sector, which would later develop into a “Wall Street vs. Main Street” dichotomy, had begun to appear in early 2009 and might have also influenced the Obama administration’s decision to support manufacturing jobs. 
+
+## **2. What was the government’s purpose for intervening?** 
+
+The government’s initial purpose for intervening was to provide just enough support to GM and Chrysler to forestall their failure and buy time for the companies and the government to decide on a solution that would, it was hoped, put the companies on the path to longterm viability. As stated by Secretary Paulson at the time of announcing the Bridge Loans in December 2008: 
+
+Today we have acted to support Chrysler and General Motors, with the requirement that they move quickly to develop and adopt acceptable plans for long-term viability. This step will prevent significant disruption to our economy, while putting the companies on a path to the significant restructuring necessary to achieve long term viability. At the same time, we are including loan provisions to protect the taxpayers to the maximum extent possible (White House 2008). 
+
+The decision was heavily influenced by the fact the failure of the manufacturers was occurring not only in the midst of a burgeoning financial crisis but also amid a presidential transition (Deese, Shafran, and Jester 2020, 361). The Bush administration (which originally looked to Congress to provide assistance; Congress did not) wanted to maintain the companies through the transition so that the Obama administration could determine the long-term plan. 
+
+Once in office, the Obama administration chose to continue to support the companies to avoid their disorderly bankruptcies and to assist them in developing as quickly as possible workable restructuring plans that would put them on the road to long-term viability (Deese, Shafran, and Jester 2020, 372–374; Treasury 2013a). 
+
+Both administrations sought to minimize the duration of hands-on government support to avoid potential political pressures to intervene more intrusively in the management of these companies—for example, by compelling the companies to produce more fuel-efficient cars or influencing decisions regarding which plants to close (Deese, Shafran, and Jester 2020, 360). 
+
+## **3. What legal authority supported the government’s intervention?** 
+
+No funding was specifically passed to support the auto industry. The AIFP—including the funding to the manufacturers, for the auto suppliers, for the auto finance companies, and for the warranty programs—was funded out of the TARP (COP 2009b, 201–203). At the 
+
+
+time of the company’ s initial requests for assistance in October 2008, the TARP had just been enacted, but the Bush administration was not inclined to assist the auto companies using TARP funds. There were credible arguments that the law had been passed with assistance to the financial industry in mind[46] and uncertainty as to whether assistance to the manufacturers fell under the purview of the law (COP 2009b, 72–74). At one point, President Bush and Secretary Paulson both were of the opinion that it did not (COP 2009b, 115; see also discussion at COP 2009b, 72–74). 
+
+However, after Congress declined to provide targeted funds, the President and Secretary Paulson consulted Treasury counsel and revisited the possibility of using TARP. In announcing the AIFP, Secretary Paulson stated: 
+
+Treasury will make these loans using authority provided for the Troubled Asset Relief Program [TARP]. While the purpose of this program and the enabling legislation is to stabilize our financial sector, the authority allows us to take this action. Absent congressional action, no other authorities existed to stave off a disorderly bankruptcy of one or more auto companies (Paulson 2008a). 
+
+In broad terms, TARP authorized the Secretary of the Treasury to purchase “troubled assets” from “financial institutions.” The statutory definitions are descriptive rather than restrictive.[47] For example, although the definition of “financial institutions” does not mention manufacturers, it does encompass “ _any institution, including, but not limited to_ any bank, savings association, credit union, security broker or dealer, or insurance company, established and regulated under the laws of the United States or any State [emphasis added].”[48] “Troubled assets” are defined as certain mortgages and mortgage-related 
+
+46 For example, all the descriptive entities included in the operative definition are financial organizations. “Whether Treasury had the legal authority to use TARP funds to bail out Chrysler and GM is the subject of considerable debate. There was, however, enough ambiguity in the TARP legislation, and there continues to be ambiguity about congressional intent, so that Treasury has faced no effective challenge to its decision to use TARP funds for this purpose” (COP 2009b, 5). Also see COP 2009b, pages 78–79 for a discussion of Congressional intent. 
+
+47 Given the uncertain nature of financial crises, drafting legislation or regulatory amendments broadly as was done with TARP through its descriptive rather than restrictive definitions and inclusion of a clear mechanism for bringing other securities within its purview has the benefit of providing tools for addressing unanticipated developments. Several of the government officials we interviewed expressed the opinion that without TARP, there would have been no way to rescue the auto industry. Steven Rattner, who was head of the President Obama’s Auto Taskforce saw it this way: “We had, under the Bush administration, TARP money, intended mostly for the banks, but it was available to us, and that allowed us to put money in these companies without going through Congress, and that was an important piece . . . It’s a disaster . . . if you have to go to Congress . . . Once you bring Congress into the equation, it makes it a lot more complicated. There’s no question about it” (Rattner 2022, 4). 
+
+48 The relevant TARP definition of ‘‘financial institution’’ is “any institution, including, but not limited to, any bank, savings association, credit union, security broker or dealer, or insurance company, established and regulated under the laws of the United States or any State, territory, or possession of the United States, the District of Columbia, Commonwealth of Puerto Rico, Commonwealth of Northern Mariana Islands, Guam, American Samoa, or the United States Virgin Islands, and having significant operations in the United States, 
+
+
+securities and _“any other financial instrument_ [emphasis added] _”_ that the Secretary of the Treasury determines, in accordance with procedures set out in the statute, “the purchase of which is necessary to promote financial market stability.”[49] 
+
+TARP also contained a clear mechanism by which the Secretary could make determinations that unenumerated financial instruments were within its purview. Secretary Paulson utilized this mechanism when he, in consultation with the Chairman of the Federal Reserve as required, determined that TARP could be used for the auto industry. In so doing, the Secretary determined that (1) the auto companies engaged in manufacturing vehicles and providing credit in connection with such vehicles were “financial institutions under Section 3(5) of the law,”[50] and (2) that the obligations of such companies were necessary to promote stability to the financial system and as such were “troubled assets” under 12 USC 5202, Section 3(9)(b). The determination reads in part: 
+
+WHEREAS, certain thrift and other holding companies which are engaged in the manufacturing of automotive vehicles and the provision of credit and financing in connection with the manufacturing and purchase of such vehicles have applied under the TARP Systemically Significant Failing Institutions Program (the “SSFI”) requesting that the Department of the Treasury purchase obligations of such companies consistent with the SSFI; 
+
+WHEREAS, such thrift and other holding companies engaged in the manufacturing of automotive vehicles and the provision of credit and financing in connection with the manufacturing and purchase of such vehicles are “Financial Institutions” for purposes of section 3(5) of the Act as they are “institution[s] established and regulated under the laws of the United States and have significant operations in the United States; and 
+
+WHEREAS, as Secretary, I have consulted with the Chairman, and we have jointly concluded that the TARP’s purchase of the obligations is necessary to promote stability to the financial system of the United States. 
+
+NOW, THEREFORE, I HEREBY DETERMINE that the obligations of such financial 
+
+> but excluding any central bank of, or institution owned by, a foreign government” (12 USC 5202, Section 3[5]). 
+
+> 49 TARP defines “troubled assets” as “(A) residential or commercial mortgages and any securities, obligations, or other instruments that are based on or related to such mortgages, that in each case was originated or issued on or before March 14, 2008, the purchase of which the Secretary determines promotes financial market stability; and (B) any other financial instrument that the Secretary, after consultation with the Chairman of the Board of Governors of the Federal Reserve System, determines the purchase of which is necessary to promote financial market stability, but only upon transmittal of such determination, in writing, to the appropriate committees of Congress” (12 USC 5202 Section 3[9]). 
+
+> 50 In connection with Chrysler’s bankruptcy case certain of the company’s secured debtholders argued that an auto manufacturer could not be a “financial institution.” They were found by Judge Gonzalez to “lack standing to assert any arguments about the authority for the Government’s loans, because they had no injury in fact traceable to the source of the funding” (GMC 2009c, 11-12; also see Gonzalez 2009a). 
+
+
+institutions are financial instruments the purchase of which is necessary to promote stability to the financial system of the United States, and, as such, are “troubled assets,” as that term is defined in Section 3(9)(b) of the Act, and eligible to be purchased under the TARP (Paulson 2008b). 
+
+The determination was transmitted to the “appropriate committees of Congress” as required by the Act (see Dassin 2009, 17–32). 
+
+On April 29, 2009, after the Obama administration had taken office, then-Secretary Geithner also issued a determination that was substantially similar to the Paulson determination, except it referenced the AIFP and seemed to shift away slightly from the nexus with the auto financing companies: 
+
+WHEREAS, certain companies engaged in the manufacturing of automotive vehicles have applied under the TARP AIFP requesting that the Department of the Treasury purchase debt obligations or equity of such holding companies and other companies consistent with the AIFP; 
+
+WHEREAS, such holding companies and other companies are “financial institutions” for purposes of section 3(5) of the Act as they are “institutions” established and regulated under the laws of the United States and have significant operations in the United States; and 
+
+NOW, THEREFORE, I HEREBY DETERMINE that the debt obligations or equity of such financial institutions are financial instruments the purchase of which is necessary to promote financial market stability, and as such, are “troubled assets,” as that term is defined in section 3(9)(B) of the Act, and eligible to be purchased under the TARP (Geithner 2009a). 
+
+The Secretaries’ determinations were scrutinized administratively and in court. In several cases involving the assistance to Chrysler and GM, the judge determined that the objectors did not have standing to raise the issue or that the issue was moot (COP 2009b, 76; Gerber 2009, 83-85). The rationale and determination of the ability to use TARP funds applies equally to the financing provided to the new Chrysler (COP 2009a, 131). 
+
+## **4. What tools did the government have available?** 
+
+Following the companies’ initial requests to Congress for assistance in October 2008, Senate Banking Committee Chairman Chris Dodd sent a letter to the Federal Reserve requesting support to the industry. Although the Fed had already used its emergency lending authority under Federal Reserve Act Section 13(3) to assist a number of financial institutions (Bear Stearns, Fannie and Freddie Mac, and AIG), Chairman Ben Bernanke wrote a response explaining that the Fed could not have lent to the companies under its Section 13(3) authority because they did not have adequate collateral. 
+
+Initially, though the TARP had recently passed, it was unclear that its funds could be used to assist the manufacturers. However, the Bush administration determined that TARP 
+
+
+funds could be used to support the auto industry by purchasing “troubled assets” from the manufacturers, including debt securities of GM and Chrysler’s holding company, making loans and injecting capital. TARP funding was used to fund the loans to GM and Chrysler and their related post-bankruptcy companies, the loans and equity purchases in Chrysler Financial and GMAC, the Auto Supplier Support Program, and the Auto Warranty Commitment Program. 
+
+Procedures under the Bankruptcy Code were also available. The code provides a framework for protecting, valuing, and equitably distributing assets among all creditors according to an established priority. Equity owners are last in order of recovery and often do not receive any compensation for their holdings. Because of its automatic stay, barring almost all transfers of assets for a period leading up to the bankruptcy filing and during, subject to court approval, a bankruptcy avoids a grab for assets (similar to a run) that can lead to inequities among stakeholders. 
+
+Procedures under the Bankruptcy Code, notably Chapter 7 (liquidation) and Chapter 11 (reorganization) were available to GM and Chrysler. However, despite their worsening conditions, neither company had begun to make plans for such a process. The Obama Treasury team believed it would be difficult to acquire DIP financing in the required amounts from the market at the time. Therefore, the government recommended that both companies pursue reorganization through an expedited Section 363 sale process, with the legacy companies liquidating under Chapter 7. The government funding to support the proceedings was protected as DIP funding, which is given a super priority status under the code. 
+
+Although the Federal Reserve declined to provide customized funding to GM and Chrysler, the auto manufacturers and their finance arms did access financial support under a number of the broad-based liquidity programs put in place by the Fed, such as the TALF (COP 2009b, 195) Additionally, the Fed’s Board of Governors also approved GMAC’s application to convert to a bank holding company on an expedited basis, which granted access to the Fed’s discount window and allowed the company to receive funds under a TARP program intended for banks, while also subjecting it to heightened supervision (Federal Reserve 2008). 
+
+## **5. What additional tools did the government seek to acquire?** 
+
+The Bush administration originally sought to have Congress pass legislation providing targeted assistance to the auto industry. However, several attempts failed at different stages, and as a result President Bush determined to use TARP funds for the industry. 
+
+## **6. What was the government’s initial strategy?** 
+
+The Bush administration’s initial strategy was to provide conditional limited support to GM and Chrysler to forestall their failure until the Obama administration was sworn in and the new administration could determine what, if any, continued support it would provide. In granting the Bridge Loans, the Bush administration borrowed a condition-based framework that had been included in a bill that the House had passed, but that had died. 
+
+
+The administration required the manufacturers to produce and submit viability plans outlining how they would achieve long-term stability (COP 2009b, 9–10; Klier and Rubenstein 2012, 38). The Obama administration adopted this condition-based funding strategy. The incoming administration’s immediate priority was to determine as quickly as possible whether to continue to fund the companies’ plans for long-term viability or to withdraw assistance (COP 2009b, 10; Klier and Rubenstein 2012, 38.) 
+
+## **7. How did the government implement its initial strategy?** 
+
+On December 19, 2008, the Treasury department announced that it would provide collateralized Bridge Loans to GM and Chrysler. The loans were short term (60 days) and required each company to, among other terms, submit a viability plan detailing how it planned to reach long-term viability, on what time frame, and identifying needed funding. Additional funds were conditioned on the acceptability of the plans. If deemed unsatisfactory, outstanding commitments could be rescinded and the Bridge Loans could be called.[51] Details of the requirements of the viability plans, including that the companies seek concessions from their creditors, debtholders, and employee unions, were made public. See Nye 2022a for more detail regarding the terms of the Bridge Loans. 
+
+## **8. How did the government decide on the specific terms of its initial interventions?** 
+
+Notably, assistance to the manufacturers was characterized by providing limited funds on a short-term basis with additional support conditioned on regular “check-ins” via the viability plans. This was characteristically different from the government’s approach to the government-sponsored enterprises (GSEs). Although the GSEs were taken into government-managed conservatorships, Treasury also made a blanket commitment to maintain their positive net worth.[52] The Federal Reserve bridge loan to AIG not only seemed to anticipate no additional assistance, but it also could not be called on the basis of the steps AIG took to fix itself.[53] The approach with the auto manufacturers seems to reflect reluctance and uncertainty around the support, as well as a desire for heightened transparency. 
+
+The original amounts of the auto Bridge Loans and the DIP financing were based on amounts requested by GM and Chrysler, respectively, and what the government determined was needed to sustain the companies. The timing of the distribution of the Bridge Loan funds (one lump sum for Chrysler and three distributions for GM) seem to have been individually negotiated with the companies. Some funds committed to GM were 
+
+> 51 Conditioning additional funding on the acceptability of viability plans was unusual, not only because it was indicative of the Bush administration’s desire to not hamstring the incoming Obama administration with a completed decision, but also because it contrasted sharply with the terms of assistance provided to financial institutions. It does, however, demonstrate that such terms can be required in ad hoc support cases and may result in significant long-term impacts. Also see footnote 30. 
+
+> 52 See Zanger-Tishler and Wiggins (2021) for a discussion of the government’s assistance to the GSEs. 
+
+> 53 See Wiggins, Lawson, et al. (2021) for a detailed discussion of the government’s assistance to AIG. 
+
+
+delayed pending receipt of a satisfactory viability plan and conditioned on the release of the second half of the TARP funds. 
+
+## **9. Did the government’s strategy change over time?** 
+
+While it can be debated whether the ultimate bankruptcies of GM and Chrysler should be considered a change of strategy, we believe that the most accurate characterization may be that they instead constitute an implementation of the Bush and Obama administrations’ original strategy to support the companies until a long-term solution for their viability could be determined, or not. However, we do characterize two developments as changes to the government’s strategy (1) utilization of the Section 363 expedited bankruptcy procedure, and (2) providing assistance to related industry entities. 
+
+## **10. How did the government implement its amended strategy?** 
+
+To maximize the chance of success of the GM and Chrysler restructurings, and avoid contamination of healthier manufacturers, the government instituted two amendments to its original strategy. The first was to use the expedited Section 363 bankruptcy procedure to restructure the companies quicker than a traditional Chapter 11 procedure could have. In this regard it should also be noted that, originally, any mention of bankruptcy was seen as an anathema because it was thought that customers would abandon the companies. 
+
+Second, the government also implemented three tangential programs of assistance. It provided loans and other support to GMAC[54] and Chrysler Financial[55] to maintain the critical financing for the manufacturers’ dealer networks and retail purchases (Goolsbee and Krueger 2015, 7–8). It created the ASSP[56] to provide financial support to auto suppliers selected by the two manufacturers (COP 2009b, 22–23). Last, it provided warranty support to new customers who purchased vehicles from the two manufacturers[57] (COP 2009b, 21– 22). 
+
+## **11. How did the government determine the specifics of its amended interventions?** 
+
+The government decided to have the GM and Chrysler pursue bankruptcy under Section 363 rather than a more standard Chapter 11 process because it would enable the companies to discharge many of their liabilities and emerge from bankruptcy as viable companies with new balance sheets and plans. Sadiq Malik, a member of the President’s Auto Task Force, commented that the Task Force thought the Section 363 process was the best way to restructure the business and the quickest way to do it considering the position the companies were in: 
+
+> 54 For a detailed discussion of assistance to GMAC/Ally Financial, see Matsumoto and Nygaard (2022). 
+
+> 55 For a detailed discussion of assistance to Chrysler Financial, see Nye (2022c). 
+
+> 56 For a detailed discussion of the ASSP, see Matsumoto (2022). 
+
+> 57 For a detailed discussion of the AWSP, see Henken (2022). 
+
+
+Given the type of issues that GM and Chrysler faced—these are very old companies that have been around forever. Over the years, they had all sorts of liabilities. They have a massive balance sheet, lots of leverage, lots of liabilities related to pensions, labor. [. . . ] 
+
+We worked with the management team and tried different ways of running their numbers, but their cashflow profile, their financial profile was such that their liquidity needs were massive. There was so much in liabilities that if you just gave money, you could not be sure if—or how—you would get your money back. Going through the bankruptcy allowed you to create more value and more ability to make your money back (Malik 2022, 5–7). 
+
+A major second consideration was that Section 363 provides an expedited process that can be completed in a much shorter time frame than a traditional process.[58 ] Given the weak nature of the economy, the already significant layoffs and plant closings, and the risk of damage to related segments of the industry, a process that reached a conclusion in a fraction of the time of a traditional Chapter 11 restructuring was highly valued, although contentious (COP 2009b, 46–48). There was also concern that the longer process would put the restructuring at risk as consumers would avoid the companies. 
+
+The DIP funds were released in connection with each company’s entering into a Section 363 bankruptcy procedure. Consistent with standard DIP financing, the interest rate on the loans was a penalty rate and the government’s claims were granted super priority status. The loan terms were approved by the court. The government also provided funds to the new companies as working capital. 
+
+Another change to the government’s initial strategy arose due to the highly integrated nature of the auto industry. It became apparent that a failure of either GM or Chrysler could lead to dysfunctions in other areas of the industry, for examples, suppliers, whose collapse could put healthier manufactures at risk. Similarly, failure of key suppliers could jeopardize the restructuring of the two manufacturers. The auto finance companies were also experiencing the effects of the credit crunch, making financing difficult for dealers and consumers. And it was recognized that customers would be reluctant to purchase a vehicle if they felt that the manufacturer would not stand behind the warranty. Thus, the government determined that these three related structures—auto finance, suppliers, and customer warranties—needed to be supported as well. 
+
+> 58 Notably, the Lehman Brothers bankruptcy involved a Section 363 sale. On September 20, 2008, Barclays PLC purchased the majority of assets of Lehman’s North American investment banking and capital markets business valued at $49.7 billion for $45 billion in what the court described as “the largest, most expedited and probably the most dramatic asset sale that has ever occurred in bankruptcy history.” The sale was approved just 5 days after Lehman’s filing (Chadbourne & Parke LLP 2011). 
+
+
+## **12. How did the government protect the taxpayers?** 
+
+Treasury protected its interests in the GM and Chrysler Bridge Loans and working capital loans in a variety of ways: 
+
+- The Bridge Loans were secured by liens on all of GM’s and Chrysler’s unencumbered assets, although many of their assets were already encumbered. 
+
+- The Bridge Loans provided the government with warrants to purchase GM common stock and both GM and Chrysler granted the government Additional Notes. Although the government did not directly benefit from the warrants and Additional Notes, they were redeemed in connection with the restructurings, and it did benefit from the larger theory of the taxpayers’ sharing in the company’s recovery through the conversion of its loan debt into equity in the surviving companies. (See “Program Description: Assistance to General Motors” and “Program Description: Assistance to Chrysler” for further discussion of the warrants and Additional Notes.) 
+
+- The Bridge Loan agreements contained provisions prohibiting the manufacturers from paying dividends, selling major assets, or conducting outof-the-ordinary transactions while the Bridge Loans were outstanding. 
+
+- The government’s future funding was conditioned on the manufacturers’ producing acceptable viability plans, which required that certain specific objectives be pursued and met. 
+
+- The Bridge Loans contained provisions converting them to DIP financing if the manufacturer filed for bankruptcy protection. 
+
+Treasury and EDC protected their interests in the GM and Chrysler DIP Loans and loans to the companies that survived the restructurings, New GM and New Chrysler, in a variety of ways: 
+
+- The DIP funding was supported by first-priority liens on substantially all of the companies’ assets. The Bankruptcy Code allowed the loans to bypass more senior creditors (with a few exceptions). 
+
+- Treasury obtained a first-priority lien on all of the assets of New Chrysler with respect to its post-bankruptcy funding. 
+
+- Treasury and EDC converted the GM Bridge Loans, working capital loans, and DIP loans into equity in New GM rather than weigh down the company with excessive debt. Treasury’s controlling interest created the opportunity for taxpayers to benefit from appreciation in the stock’s value. It also permitted Treasury to have input into company management, including influencing the company’s IPO, which proved to be oversubscribed; Treasury eventually sold 
+
+
+its shares for a cumulative return of $29.22 billion dollars (COP 2009a, 54). Despite this result, the government’s ownership of a controlling interest in an industrial company, and timing of the sale, raised controversy.[59] 
+
+- Treasury and EDC received Additional Notes in connection with their DIP lending to GM and Chrysler (GMC 2009b, PDF pp. 9, 49). Although ultimately the notes were not repaid, they were intended as additional security as required by TARP. (See “Program Description: Assistance to General Motors” and Program Description: Assistance to Chrysler.”) 
+
+- In return for providing financing to New Chrysler, Treasury received a 9.85% equity stake in New Chrysler and additional power over the VEBA’s large stake in New Chrysler. (COP 2011, 56–57). While the receipt of equity anticipated that the Treasury and taxpayers might benefit from appreciation in New Chrysler’s stock price post-bankruptcy, such benefit was limited when compared with the results at GM due to the size of the government’s interest and the decision to use equity as an incentive for Fiat to succeed at the merger and availability of funds. 
+
+Fiat had rights to purchase Treasury’s shares and otherwise increase its ownership if it satisfied certain operational milestones. (However, Fiat could only acquire a controlling interest in New Chrysler after it repaid all TARP and Canadian government loans.) In July 2011, Fiat purchased Treasury’s shares for $500 million and paid an additional $60 million relating to rights that Treasury held with respect to the VEBA’s equity interests, which it did not have funding to acquire (Treasury 2011). 
+
+## **13. How did the government administer the rescue?** 
+
+President Obama formed the Presidential Auto Task Force to oversee the assistance to the auto industry. The Cabinet-level Task Force, chaired by Treasury Secretary Tim Geithner and economic adviser Larry Summers, was assisted by a team of staff members at the Treasury and headed by two appointed co-chairs, Ron Bloom and Steve Rattner. The Treasury Auto Team reviewed the viability plans and reported to the Task Force and also engaged in negotiations with the auto manufacturers and other interested parties 
+
+> 59 While owning equity interests created the opportunity for the taxpayers to share in the stock price appreciation as the company rebounded, participating in the upside of recovery, an objective valued by Congress and built into TARP, there was no guarantee that such benefits would be realized. Although the government realized a profit from its ownership of GM, it also faced criticism for controlling a private company, and its decision to unwind its position “as quickly as possible” came under scrutiny. The situation highlights the tension between early disposition and retaining ownership longer to maximize returns, as pointed out in a 2011 Congressional Oversight Panel report: “This sale represents a major recovery of taxpayer funds, but it is important to note that Treasury received a price of $33.00 per share—well below the $44.59 needed to be on track to recover fully taxpayers’ money. Selling stock for less than this break-even price, Treasury essentially ‘locked in’ a loss of billions of dollars and thus greatly reduced the likelihood that taxpayers will ever be repaid in full” (COP 2011, 1–2). 
+
+
+(employees, unions, creditors, bondholders, and in the case of Chrysler, Fiat) to reach successful viability plans. 
+
+## **14. How did the government coordinate its actions?** 
+
+The overwhelming majority of the government actions were conducted by the Auto Team and reported up to the Task Force, which reported to the President. 
+
+Treasury coordinated with the Federal Reserve on the creation of the TALF and financially supported the program, which, among other things would lend against securitized dealer and customer auto loans, a market that had largely evaporated at the time. 
+
+There was also some coordination between Treasury and the governments of Canada and Ontario with respect to the DIP loans for GM and Chrysler, as discussed in “Program Description: Canadian Participation in Assistance to Manufacturers.” 
+
+## **15. How did the government communicate the terms of the intervention?** 
+
+The government took a more transparent approach to the auto assistance than it did for any other rescue of a major company during the crisis. Notably, while many of the largest rescue efforts prior to the autos (for example, AIG, the banking assistance under the Capital Assistance Program, and Freddie Mac and Fannie Mae) were presided over by Fed Chairman Bernanke and Secretary Paulson, President Bush devoted a special public address on December 19, 2008, to announcing the assistance to the auto industry and explaining the reasons behind such assistance and some of its structure to the public; he didn’t do that for Bear Stearns, the GSEs, or AIG. 
+
+While much information was disclosed about several of the other significant rescues (for example, AIG and the GSEs) after actions were taken, a major difference with the auto rescue was that the entire game plan was largely laid out to the public as it unfolded through the process of requiring the viability plans. This course of action may have been influenced by the timing of the rescue, which occurred largely at the very beginning of the Obama administration, and by the fact that unlike the other rescues, various auto manufacturer stakeholders were expected to make significant concessions. 
+
+Following significant decisions, both presidential administrations published fact sheets and timelines of the plans and steps taken (see, for example, Treasury 2009e and Treasury 2013a). Under the Bush administration, communications were issued by the White House, and later, under the Obama administration, by the President’s Auto Task Force, in both cases situating the rescue in the White House rather than in the Treasury as other TARP rescue efforts had been. The administrations published detailed descriptions of the conditions that attached to the assistance and of evaluations of the required viability plans made by the Auto Task Force. 
+
+The terms of future funding required that specific accommodations be sought from creditors, employees, and unions and in some instances administration officials participated directly in negotiations with the auto manufacturers and such parties, a more 
+
+
+engaged posture than the government assumed with other major rescues (COP 2009b, 85– 91). President Obama also held a number of press conferences to speak about the rescue. In one such conference (and a related press release), he criticized GM’s creditors for not “doing their part,” alluding to the manufacturer’s failed effort to get 70% of creditors to agree to concessions that would have permitted a pre-planned bankruptcy, also an expedited process. 
+
+## **16. What was the government’s exit strategy?** 
+
+The government’s initial exit strategy under President Bush was to prevent a disorderly collapse of the companies until the Obama administration could take over and to condition additional funding the requirement of an acceptable viability plan. The Obama administration made clear in communication that it did not want to run the companies but only to stabilize them, avoid negative effects from their disorderly failure, protect the taxpayers’ investment, and disengage from them as soon as the opportunity for a successful IPO presented itself. (To this end, Treasury received nonvoting common shares in New GM and New Chrysler after their Section 363 bankruptcies. “Treasury is guided by a number of different principles for its involvement in private companies and, as with GM, it needs to balance its desire to exit as soon as practicable against its objective of maximizing the value of the taxpayers’ investment” (COP 2011, 33). In testifying before the COP, Auto Task Force co-chair Steve Rattner, described the government’s goals as an investor as follows: 
+
+- First, the Government has no desire to own equity in companies any longer than necessary, and it will seek to dispose of its ownership interest as soon as practicable. 
+
+- Second, the Government will protect the taxpayers’ investment by managing its ownership stake in a hands-off commercial manner. 
+
+- And finally, as a common shareholder, the Government will only vote on core governance issues, including the selection of a company’s board of directors and major corporate events or transactions (COP 2009a, 15). 
+
+On November 18, 2010, 16 months after emerging from Chapter 11 bankruptcy, New GM launched an IPO and sold shares worth $23.1 billion, making it the largest IPO in US history at the time. The IPO was widely considered a success, garnering a larger-than-expected share price and subscriptions. Treasury sold a significant portion of its stake in New GM and was able to sell even more shares than they had initially anticipated (Klier and Rubenstein 2012, 42). Through additional sales, the government steadily reduced its holdings in New GM through December 2013, resulting in a cumulative return of $29.22 billion dollars. 
+
+The government began with a much smaller equity interest in New Chrysler (9.85%), and this investment was quickly diluted by Fiat’s exercise of certain agreements among the parties. In July 2011, Fiat purchased Treasury equity shares for a predetermined $500 million. Thus, although both deals granted the Treasury equity shares, the grants were very 
+
+
+different in nature, and the government did not have a significant opportunity to benefit from Chrysler’s post-bankruptcy recovery, much of the benefit of which went to Fiat, who was guiding the company and which by 2011 was the controlling shareholder. 
+
+## **17. Were there unique factors that influenced the government’s actions?** 
+
+## _(a) The government’s use of TARP funds for the auto industry was controversial._ 
+
+At the time of the auto manufacturers’ initial requests for funding in October 2008, it was unclear whether TARP funds could be used to assist the auto industry and the Bush administration originally declined to provide such assistance. However, after Congress failed to provide targeted funding for the auto manufacturers, the Bush administration reconsidered its initial position regarding the availability of TARP funds and in consultation with Secretary Paulson and counsel decided that such funds could be used to assist the industry. This decision was controversial from the start and the “subject of considerable debate” (COP 2009b, 4). The administration even stated publicly that “The President's preference was not to use TARP funds to assist these firms, but since Congress failed to act, executive branch action is necessary” (White House 2008). 
+
+Mara McNeill, who was Treasury senior counsel in the Obama administration, recalls that counsel advised Secretary Geithner regarding “some of the risks in terms of people who could later object that we weren’t within proper authority. [We engaged in] a lot of triage regarding what we could do with the loans, what an exception would look like, what were the risks around the new administration making new advances” (McNeill 2022, 2). 
+
+The government provided public statements, testimony to Congress, and argued in several court cases that its interpretation permitting the use of TARP funds was correct. (See COP 2009b, 71–78; Dassin 2009; and discussion at Key Design Decision No. 3.) In some court cases, the issue was deterred to be moot and left undecided. However, in considering the issue, the court presiding over the GM bankruptcy agreed, finding that: 
+
+_The US Treasury’s extension of credit to, and resulting security interest in, [GM], as set forth in the DIP Facility and the Existing UST Loan Agreement and as authorized in the interim and final orders approving the DIP Facility, is a valid use of funds pursuant to EESA_ (emphasis added). 
+
+The rationale and determination of the ability to use TARP funds applies equally to the financing provided to the new Chrysler (COP 2009a, 131). 
+
+Notwithstanding this one court ruling, the COP’s 2009 analysis of this point remarks that, “There was, however, enough ambiguity in the TARP legislation, and there continues to be ambiguity about congressional intent, so that Treasury has faced no effective challenge to its decision to use TARP funds for this purpose” (COP 2009b, 4). 
+
+
+Two years later, in 2011, the COP commented that, “The use of TARP resources to prevent the collapse of two of the three domestic automakers was and continues to be controversial” (COP 2011, 8). Ultimately, however, the Panel concluded that:[60] 
+
+At the end of this analysis, the question that remains is whether the executive should get the benefit of the doubt about a close question of statutory interpretation when the executive might have thought in good faith that interpreting the statute in a particular way [sic] was crucial to the national interest. This question may never be answered with any finality as the Panel is not aware of any court before which the issue is currently pending and therefore it may never be resolved (COP 2009b, 79). 
+
+Thus, although controversial, the government’s interpretation and use of TARP funds for the auto industry stood amidst what appears to have been more of a squall of controversy than a tsunami. This may indicate that in the middle of a crisis, the government’s exercise of its discretion will be extended the benefit of the doubt even though such exercise may be, or may appear to be, stretching its authority. 
+
+- _(b) The fact that there were multiple companies seeking funding provided opportunities for the government to be strategic._ 
+
+The fact that GM and Chrysler were both seeking funding from the government provided opportunities for the government to be strategic in its response. It did this through individualized evaluations of the viability plans, requiring stakeholder concessions, and by crafting company-specific responses. Publishing the conditions of the funding and the evaluations of the viability plans added to the government’s credibility and also likely influenced stakeholders, especially when it suggested that it was willing to let Chrysler fail. The strategic timing and use of tools, such as the possibility of allowing Chrysler to fail, reintroducing the idea of bankruptcy, and then having Chrysler go through bankruptcy before the larger GM, may have improved the overall success of the project. 
+
+- _(c) The government required stricter funding conditions and was more engaged than in the rescues of financial institutions._ 
+
+The government took a more strict, engaged, and transparent approach to the auto assistance than it did for other rescues of major companies during the crisis. It required that GM and Chrysler seek specific accommodations from creditors, employees, unions, and bondholders as conditions to funding and in some instances participated directly in negotiations with a more engaged posture than it had assumed with other major rescues (Klier and Rubenstein 2012, 38–40). The Congressional Oversight Panel commented in its 2009 report that, 
+
+> 60 It also cited earlier situations that provide a basis for deferring to the executive’s interpretation (see COP 2009b, 71–78). 
+
+
+Treasury’s financial assistance to the automotive industry differed significantly from its assistance to the banking industry. Assistance given to the banks has carried less stringent conditions, and money was made readily available without a review of business plans or without any demands that shareholders forfeit their stake in the company or top management forfeit their jobs. By contrast, Treasury was a tough negotiator as it invested taxpayer funds in the automotive industry. The bulk of the funds were available only after the companies had filed for bankruptcy, wiping out their old shareholders, cutting their labor costs, reducing their debt obligations, and replacing some top management (COP 2009b, 3). 
+
+Both President Bush and President Obama personally assumed a highly visible leadership role in the auto rescue through presidential speeches, including several on the part of Obama. Obama established the Presidential Auto Task Force, rather than having the Treasury run the rescue. By contrast, during the previous year, the Bush administration allowed Fed Chairman Bernanke and Secretary Paulson be the main spokespersons for the government’s actions combatting the crisis. 
+
+Another difference is that government officials directly engaged with the auto manufacturers and stakeholders (for example, creditors and unions) to negotiate the concessions they sought. The COP commented in its 2009 report that, “Others wish the government had been equally tough in negotiating the investment of TARP funds in banks” (COP 2009b, 111). The panel also acknowledged that there had been rumors about government officials using aggressive tactics with pre-petition creditors to negotiate concessions and structure the Section 363 sale. In light thereof, it noted that this posture raised some concerns from stakeholders, given the government’s overweight position in any negotiation.[61] 
+
+The government’s transparency also differed with the auto rescue. It published detailed descriptions of the preconditions that it attached to the assistance and of its evaluations of the required viability plans creating a public blow-by-blow record of the process (Klier and Rubenstein 2012, 38-40). 
+
+The government’s course of action with respect to the auto rescue may have been influenced by (1) the belief that one or more of the companies was insolvent at the time, whereas the solvency of the financial companies assisted was debatable; (2) the timing of the rescue, which occurred largely at the very beginning of the Obama administration’s tenure, providing the new administration an opportunity to “take charge” of a major crisis issue; (3) the fact that the industry’s problems were perceived more as an economic issue 
+
+> 61 This type of pushing helped achieve the terms and concessions that the government thought necessary for a successful restructuring. However, care should be taken in such negotiations. Given the overweight authority of the government, any pressure to concede may be viewed as coercive pressure, which can lead to claims of favoritism and which could be publicly embarrassing. See, for example, COP 2009b, 92–102, for a discussion in “Government Involvement in Bankruptcy Proceedings.” 
+
+
+than as one of systemic financial instability; and (4) the fact that compared to the intricacies and complications of financial companies and sophisticated instruments like collateralized debt obligations, the issues presented by the auto industry were straightforward, easily understood, and populist in nature. 
+
+- _(d) The size of the manufacturers and the criticality of the auto industry to employment and the economy were major factors._ 
+
+After Congress failed to provide targeted funding for the auto manufacturers, the Bush administration reconsidered its initial position regarding the availability of TARP funds and decided that such funds could be used to assist the industry. In doing so, the government stated that this decision was heavily influenced by the size of the manufacturers, their position within the auto industry, and how significant the effects of a disorderly failure of either company would be on the already weakened economy, including the possible significant loss of jobs (White House 2008). Despite these factors, there was credible discussion of letting Chrysler fail if it could not secure a partner (Goolsbee and Krueger 2015, 2, 11–15). 
+
+- _(e) The interconnectedness and interdependence of the auto industry had to be addressed._ 
+
+Because the auto industry is a highly integrated industry, the failure of either GM or Chrysler risked contaminating the vast network of auto suppliers that supported not only these two manufacturers but also healthier manufacturers. To avoid this, the government created the Auto Supplier Assistance Program, which enabled each manufacturer to select certain key suppliers to participate in government-supported funding. 
+
+Issues of interconnection also accounted for the participation of the governments of Canada and Ontario in funding GM and Chrysler prior to bankruptcy and the subsequent DIP loans. 
+
+- _(f) The high-cost and long-term nature of vehicles as products required addressing the financing issues._ 
+
+Vehicles are high-cost, long-term assets that almost always are financed by the consumer. In the case of both GM and Chrysler, a significant portion of consumer refinancing was done through preferential arrangements with GMAC and Chrysler Financial, respectively. These companies also provided significant portions of the manufacturers’ dealer floor plan financing, which brought the inventory to the showrooms. The near freeze of credit markets and ABS securitization in autumn 2008 had significantly crippled these funding sources, creating a substantial roadblock to the manufacturers’ chances of recovery. Thus, the government provided funding to GMAC and Chrysler Financial to maintain their ability to support GM and Chrysler through funding as they rehabilitated (COP 2009b, 75). The Treasury also worked with the Federal Reserve to enhance the TALF to securitize vehicle loans and provide funding and additional assistance to the finance companies to restart these funding channels 
+
+
+In a similar vein, because of the reluctance of consumers to purchase vehicles if they feel there is a risk that the manufacturer will not stand behind the product, the government also provided support for warranties on new vehicles purchased from Chrysler and GM (COP 2009b, 21–22). 
+
+## **IV. Evaluation and Conclusions** 
+
+When asked by the COP how the government would measure the success of the TARPfunded rescue, Ron Bloom, Treasury senior adviser on auto issues, gave the following answer: 
+
+I think success will be measured in the way that one as a taxpayer would expect it to be measured, and that is to say the taxpayers put a lot of money up and they want their money back. So, the greater percentage of the money that we invested that we get back, the greater success. That is clearly the primary measure (Bloom 2009b, 38). 
+
+Based on this metric, the rescues of GM and Chrysler were not totally successful. The government reported recovering $39.7 billion with respect to its investment in GM. (Treasury n.d.a). It also reported a $1.3 billion loss with respect to assistance to Chrysler, and a $2.4 billon gain with respect to GMAC/Ally[62] (Treasury n.d.a). Amounts loaned under the ASSP program were also fully repaid and the funds under the AWCP were never accessed. 
+
+However, the net gain or loss is not the only useful measure of the outcome of the government’s efforts. Facing the prospect of the companies’ failures and the possible loss of up to 1 million jobs and significant knock-on effects to the economy, the Bridge Loans sustained the companies through their most critical period and a presidential transition and later assistance helped them structure concrete plans for long-term viability. By some measures, the rescue has been more successful than almost anyone predicted at the time. Goolsbee and Krueger, two architects of the rescue have commented that: “In particular, we had reservations about the long-run viability of the Chrysler-Fiat merger” (Goolsbee and Krueger 2015, 22). However, both New GM and New Chrysler returned profits in 2010, the year of their restructuring. 
+
+Another indicator of how investors perceived the success of the restructurings is that the GM IPO, in which the government sold its first significant stake in the company, was completed above the initial target price, permitting the government to sell more shares than it had initially anticipated (Klier and Rubenstein 2012, 42). It may also be argued that 
+
+> 62 The final sale of Treasury’s equity in GMAC was completed in an IPO on December 19, 2014. Treasury ultimately recovered $19.6 billion on its investments in GMAC, a taxpayer profit of $2.4 billion (Treasury 2014a). 
+
+
+if the government had held onto its shares longer, it might have been able to recover even more for the taxpayers (COP 2011, 4). However, the timing of its sales was also influenced by its stated desire to exit from being a major shareholder of a large public company sooner rather than later (COP 2011, 4). 
+
+And, as early as 2011, a COP report noted that the industry was “reporting strong sales” (COP 2011, 18): 
+
+The industry’s financial outlook has improved considerably over the past two years. Despite a historically weak backdrop of US sales, the industry is now reporting strong profits. The combination of greatly reduced capacity, generally stable market share, and improved pricing has more than offset persistently weak (but improving) demand. Thus, many industry observers believe that an improvement in the economy will result in a disproportionate increase in profitability, as the industry will be able to increase production without incurring meaningful new investment costs. 
+
+The White House considered the restructuring a success. A year after the bankruptcy filings, the administration stated: 
+
+While this process of regaining long-term financial health will require much work, innovation, and perseverance, there is no doubt that over the course of the past year they have moved back from the brink to a position of contributing to the economic recovery of the nation and auto communities (White House 2010, 16).[63] 
+
+It is also worth noting, however, that Goolsbee and Krueger also expressed a restrained view of the bankruptcy proceedings as a tool stating that it was an especially clunky tool for addressing problems that implicate “cross-industry spillovers or broader government or social costs” (Goolsbee and Krueger 2015, 11-12). While they note that Chrysler outperformed expectations after its restructuring, they also suggest that “to some extent, Chrysler’s gains [in market share] came at the expense of the other domestic firms” like GM (Goolsbee and Krueger 2015, 16). Yet, they conclude that, “the auto industry’s outsized contribution to the economic recovery has been one of the unexpected consequences of the government intervention.” (Goolsbee and Krueger 2015, 22). 
+
+Klier and Rubenstein evaluated the rescues this way: “It is hard to say how much of the current recovery is attributable to the government intervention, but we can say that the ensuing restructuring of the Detroit carmakers has substantially changed the US auto industry, perhaps permanently” (Klier and Rubenstein 2012, 48). However, Bosco and Plante (2013) pointed out that despite the benefits, the GM bankruptcy also delivered 
+
+> 63 President Obama also cited the auto rescue as one of the successes of his manufacturing polices in his 2012 State of the Union address (Klier and Rubenstein 2012, 43). That same year, in a speech before the National Automobile Dealers Association, President Bush also affirmed the decision to assist the industry (Klier and Rubenstein 2012, 43). 
+
+
+negative effects on stockholders and some creditors including owners of GM vehicles whose claims were not absorbed by New GM. 
+
+Regarding the government’s overall effort, the COP concluded in a 2011 report that the rescue had succeeded: “The industry’s improved efficiency has allowed automakers to become more flexible and better able to meet changing consumer demands, while still remaining profitable” (COP 2011, 15). Nevertheless, in addition to unique factors discussed in Key Design Decision No. 17, the COP also identified a few areas of concern with the government’s intervention that are worth noting: 
+
+- (a) The panel discussed potential conflicts in the government’s role as majority shareholder of a publicly held company including the possibility of using such interest to pursue public policy goals and the risk of political interference in government-owned entities. The panel suggested that holding the shares in an independent trust similar to the government’s arrangement with the AIG equity interest might alleviate some of these concerns and also pointed to differentiating factors that might lessen the need for a trust (COP 2009b, 5). 
+
+- (b) The panel raised concerns regarding appropriate stewardship and transparency regarding the government’s investments in New GM and New Chrysler, private companies, given the possible multi-year period until they might be liquidated. (This concern was rendered moot by the relatively quick sale of the New Chrysler shares to Fiat and the success of the GM IPO). It also questioned the timeliness of the government’s exit from such investments, which, in effect, locked in losses and guaranteed that all taxpayer funds might not be recovered. In the alternative, the panel pointed favorably to the fact that the companies would be voluntarily filing periodic reports with the Securities and Exchange Commission that would be made public as being a helpful factor with respect to transparency (COP 2009b, 113). 
+
+- (c) The panel raised concerns that by assisting the auto manufacturers, and especially in absorbing some losses, the government may have created moral hazard and extended the concept of “too big to fail” beyond financial institutions to a much broader class of entity (COP 2011, 3). 
+
+- (d) The panel also suggested improvements to the governance of the bailout process, such as improved transparency of both Treasury and company management, establishment of clear goals and benchmarks to facilitate evaluation of progress, and a better balance between Treasury’s dual roles as shareholder and government policymaker (COP 2009b, 104–105). 
+
+
+## **V. References** 
+
+Ally Financial Inc. 2010. “Ally Financial Statement on New Corporate Brand.” Press release, May 10, 2010. 
+
+https://ypfs.som.yale.edu/library/ally-financial-statement-new-corporate-brand 
+
+———. 2010. Form 10-Q for the quarterly period ended March 31, 2010. Detroit, Michigan: Ally Financial Inc., May 2010. 
+
+https://ypfs.som.yale.edu/library/ally-financial-inc-q1-2010-form-10-q 
+
+———. 2011. Form 10-K (For the fiscal year ended December 31, 2010). Detroit, Michigan: Ally Financial Inc., February 25, 2011. 
+
+https://ypfs.som.yale.edu/library/ally-financial-inc-form-10-k-annual-report-pursuant- 
+
+American Recovery and Reinvestment Act of 2009 (ARRA). 2009. Public Law 111–5, 123 Stat. 115. February 17, 2009. 
+
+https://ypfs.som.yale.edu/library/public-law-111-5-american-recovery-andreinvestment-act-2009 
+
+Auto Industry Financing and Restructuring Act (AIFRA). 2008. H.R. 7321, 110th United States Congress, 2nd Session (2008). 
+
+https://ypfs.som.yale.edu/library/document/hr-7321-110th-congress-auto-industryfinancing-and-restructuring-act 
+
+Beeby, Dean. 2018. “Federal government quietly writes off loan—but won't reveal sum or say who got it.” CBC News. June 26, 2018. 
+
+https://ypfs.som.yale.edu/library/document/federal-government-quietly-writes-loanwont-reveal-sum-or-say-who-got-it 
+
+Bloom, Ron. 2009a. “Ron Bloom, Senior Advisor at the U.S. Treasury Department, Written Testimony before the House Judiciary Committee, Commercial and Administrative Law Subcommittee: ‘Ramifications of Auto Industry Bankruptcies, Part II.’” July 21, 2009. https://ypfs.som.yale.edu/library/ron-bloom-senior-advisor-us-treasury-departmentwritten-testimony-house-judiciary 
+
+———. 2009b. “Statement by Ron Bloom, Senior Advisor at the Treasury Department Before the Congressional Oversight Panel regarding Treasury’s Automotive Industry Financing Program (AIFP) July 27, 2009.” Contained in Congressional Oversight Panel, “Oversight of TARP Assistance to the Automobile Industry-Field Hearing—July 27, 2009.” https://ypfs.som.yale.edu/library/ron-bloom-senior-advisor-us-treasury-departmentstatement-congressional-oversight-panel 
+
+———. 2022. “YPFS Lessons Learned Interview with Ron Bloom.” 
+
+https://ypfs.som.yale.edu/library/ypfs-lesson-learned-oral-history-project-interviewronald-bloom 
+
+
+Bosco, Christopher, and Catherine Plante. 2013. “Bankruptcy of General Motors.” _GSTF Journal on Business Review_ (GBR) 2, no. 2. March 2013. 
+
+https://ypfs.som.yale.edu/library/bankruptcy-general-motors 
+
+Bureau of Economic Analysis (BEA). n.d. Motor Vehicle Retail Sales: Domestic Autos [DAUTOSA]. Retrieved from FRED, Federal Reserve Bank of St. Louis. Retrieved October 1, 2020. 
+
+https://ypfs.som.yale.edu/library/motor-vehicle-retail-sales-domestic-autos-dautosa 
+
+Canada Development Investment Corporation (CDEV). 2016. Annual Report 2015. March 10, 2016. 
+
+https://ypfs.som.yale.edu/library/document/canada-development-investmentcorporation-annual-report-2015 
+
+Canada, Government of. N.d. “Automotive Innovation Fund (Archived Programs).” Webpage. https://ypfs.som.yale.edu/library/document/program-summary-automotive-innovationfund 
+
+———. 2009. “Ministers Clement and Day Announce New Measures to Help Boost Consumer Confidence in Auto Industry.” April 7, 2009. 
+
+https://ypfs.som.yale.edu/library/ministers-clement-and-day-announce-new-measureshelp-boost-consumer-confidence-auto 
+
+Canis, Bill, and Yacobucci Brent D. 2015. “The Advanced Technology Vehicles Manufacturing (ATVM) Loan Program: Status and Issues.” Congressional Research Service. January 15, 2015. 
+
+https://ypfs.som.yale.edu/library/advanced-technology-vehicles-manufacturing-atvmloan-program-status-and-issues 
+
+Chadbourne & Parke LLP. 2011. “Court refuses to modify $45 billion sale of Lehman assets to Barclays.” Lexicology April 12, 2011. 
+
+https://ypfs.som.yale.edu/library/document/court-refuses-modify-45-billion-salelehman-assets-barclays 
+
+Chrysler Holding LLC. 2008. Loan and Security Agreement by and Between the Borrower Listed on Appendix A as Borrower and the United States Department of the Treasury as Lender. 
+
+https://ypfs.som.yale.edu/index.php/library/document/loan-and-security-agreementbetween-chrysler-and-us-department-treasury 
+
+———. 2011. Amendment No. 3 to Form 10. 
+
+https://ypfs.som.yale.edu/library/chrysler-group-llcs-amendment-no-3-form-10-generalform-registration-securities-pursuant 
+
+Congressional Oversight Panel. 2009a. “Oversight of TARP Assistance to the Automobile Industry-Field Hearing.” July 27, 2009. 
+
+
+https://ypfs.som.yale.edu/library/oversight-tarp-assistance-automobile-industry-fieldhearing-congressional-oversight-panel 
+
+———. 2009b. “September Oversight Report: The Use of Tarp Funds in the Support and Reorganization of the Domestic Automotive Industry.” September 9, 2009. 
+
+https://ypfs.som.yale.edu/library/september-oversight-report-use-tarp-funds-supportand-reorganization-domestic-automotive 
+
+———. 2010. “March Oversight Report: The Unique Treatment of GMAC under TARP.” March 10, 2010. 
+
+https://ypfs.som.yale.edu/library/congressional-oversight-panel-march-oversight-reportunique-treatment-gmac-under-tarp 
+
+———. 2011. “January Oversight Report: An Update on TARP Support for the Domestic Automotive Industry.” January 13, 2011. 
+
+https://ypfs.som.yale.edu/library/congressional-oversight-panel-january-oversightreport-update-tarp-support-domestic 
+
+David, Fred N. 2010. “Interpreting the Supreme Court's Treatment of the Chrysler Bankruptcy and Its Impact on Future Business Reorganizations.” _Emory Bankruptcy Developments Journal_ 27, no. 1, 25–27. 
+
+https://ypfs.som.yale.edu/library/interpreting-supreme-courts-treatment-chryslerbankruptcy-and-its-impact-future-business 
+
+Dassin, Lev L. Statement of the United States of America Upon the Commencement of General Motors Corporation’s Chapter 11 Case (December 19, 2008). _In re_ General Motors Corp., S.D.N.Y. (December 19, 2009) 
+
+https://ypfs.som.yale.edu/library/document/general-motors-chapter-11-bankruptcystatement 
+
+de la Merced, Michael J. 2012. “Ally’s Mortgage Unit, ResCap, Files for Bankruptcy.” _New York Times,_ DealBook, May 14, 2012. 
+
+https://ypfs.som.yale.edu/library/document/allys-mortgage-unit-rescap-files-bankruptcy 
+
+Deese, Brian, Steven M. Shafran, and Dan Jester. 2020. “Chapter 13: The Rescue and Restructuring of General Motors and Chrysler.” _First Responders: Inside the U.S. Strategy for Fighting the 2007–2009 Global Financial Crisis_ , edited by Ben S. Bernanke, Timothy F. Geithner and Henry M. Paulson, Jr., with J. Nellie Liang. New Haven: Yale University Press, 2020, 359–384. 
+
+https://ypfs.som.yale.edu/library/document/first-responders-inside-us-strategy-fighting2007-2009-global-financial-crisis 
+
+Dodd, Christopher. 2008. Letter from Christopher J. Dodd, Chairman of the US Senate Committee on Banking, Housing, and Urban Affairs, to Ben Bernanke, Chairman of the Board of Governors of the Federal Reserve. December 8, 2008. 
+
+https://ypfs.som.yale.edu/library/document/chris-dodd-letter-ben-bernanke 
+
+
+Emergency Economic Stabilization Act of 2008 (EESA). Public Law 110-343. 122 Stat. 3765. October 3, 2008. https://ypfs.som.yale.edu/node/3365 
+
+Engelhardt, Tom. “As GM Goes, So Goes…” _The Nation_ (TomDispatch). February 23, 2009. https://ypfs.som.yale.edu/library/gm-goes-so-goes 
+
+Federal Reserve, Board of Governors of the. 2008. “GMAC LLC [and] IB Finance Holding Company, LLC (Detroit, Michigan): Order Approving Formation of Bank Holding Companies and Notice to Engage in Certain Nonbanking Activities” (Jennifer J. Johnson, Secretary) December 24, 2008. 
+
+https://ypfs.som.yale.edu/library/gmac-llc-ib-finance-holding-company-llc-detroitmichigan-order-approving-formation-bank 
+
+———. 2009. “Federal Reserve System Monthly Report on Credit and Liquidity Programs and the Balance Sheet.” June 2009. 
+
+https://ypfs.som.yale.edu/node/3247 
+
+Financial Crisis Inquiry Commission (FCIC). 2010. “The Financial Crisis Inquiry Report: Final Report of the National Commission on the Causes of the Financial and Economic Crisis in the United States. “Washington, DC.: United States Printing Office, January 2011. https://ypfs.som.yale.edu/node/3366 
+
+Friedman, Joshua L. 2012. “Emergency Powers of the Executive: The President’s Authority when all Hell Breaks Loose.” _Journal of Law and Health_ 25, no. 265. https://ypfs.som.yale.edu/library/document/emergency-powers-executive-presidentsauthority-when-all-hell-breaks-loose 
+
+Geithner, Timothy F. 2009a. Statement from Treasury Secretary Geithner on GM, Chrysler Restructuring Reports. February 17, 2009. 
+
+https://ypfs.som.yale.edu/library/statement-treasury-secretary-geithner-gm-chryslerrestructuring-reports 
+
+———. 2009b. “Official Determination by Secretary Geithner on April 29, 2009.” United States Department of the Treasury. April 29, 2009. https://ypfs.som.yale.edu/library/document/determination 
+
+General Motors Company (GM). 2010. “Amendment No.9 to Form S-1.” November 17, 2010. https://ypfs.som.yale.edu/library/document/general-motors-company-amendment-no9form-s-1 
+
+———. 2011. “GM Announces First Full-Year Results as New Company.” February 24, 2011. 
+
+https://ypfs.som.yale.edu/library/gm-announces-first-full-year-results-new-company 
+
+General Motors Corporation (GMC). 2009a. Voluntary Petition: United States Bankruptcy Court Southern District of New York. June 01, 2009. 
+
+
+https://ypfs.som.yale.edu/library/document/gmc-voluntary-petition-united-statesbankruptcy-court-southern-district-new-york 
+
+———. 2009b. “General Motors Corporation Debtor-in-Possession (DIP) Loan Contract.” June 3, 2009. 
+
+https://ypfs.som.yale.edu/index.php/node/4074 
+
+———. 2009c. The Guarantors and the US Department of the Treasury, Secured Credit Agreement Among. 2009. July 10, 2009. https://ypfs.som.yale.edu/node/4084 
+
+General Motors Corporation (GMC) and the US Department of the Treasury (Treasury). 2008. “Loan and Security Agreement by and Between the Borrower Listed on Appendix A as Borrower and the United States Department of the Treasury as Lender.” December 31, 2008. 
+
+https://ypfs.som.yale.edu/library/document/loan-and-security-agreement-and-betweengeneral-motors-corporation-borrower-and 
+
+———. 2009. “Master Transaction Agreement between GMAC and Chrysler.” May 21, 2009. https://ypfs.som.yale.edu/library/master-transaction-agreement-dated-may-21-2009between-united-states-department-treasury 
+
+Gerber, Robert E. 2009. “Decision on Debtors’ Motion for Approval of (1) Sale of Assets to Vehicle Acquisition Holdings LLC; (2) Assumption and Assignment of Related Executory Contracts; and (3) Entry into UAW Retiree Settlement Agreement.” Epiq Bankruptcy Solutions LLC. 
+
+https://ypfs.som.yale.edu/library/decision-debtors-general-motors-motion-approval-1sale-assets-vehicle-acquisition-holdings 
+
+GMAC LLC. 2008a. Form 10-Q for the quarterly period ended September 30, 2008. November 10, 2008. 
+
+https://ypfs.som.yale.edu/library/gmac-llc-q3-2008-form-10-q 
+
+———. 2008b. “GMAC Files Application with Federal Reserve to Become Bank Holding Company.” Press release, November 20, 2008. https://ypfs.som.yale.edu/library/gmacfiles-application-federal-reserve-become-bank-holding-company 
+
+———. 2008c. “GMAC Announces That the Results of Its Exchange Offers Are Insufficient to Meet Regulatory Capital Requirements to Become a Bank Holding Company.” Press release, December 16, 2008. 
+
+https://ypfs.som.yale.edu/library/gmac-receives-significant-participation-and-extendsearly-delivery-time-its-notes-exchange 
+
+———. 2008e. “GMAC Financial Services Bank Holding Company Application Approved by Federal Reserve.” Press release, December 24, 2008. 
+
+https://ypfs.som.yale.edu/library/gmac-financial-services-bank-holding-companyapplication-approved-federal-reserve 
+
+
+———. 2009. Form 10-K for the fiscal year ended December 31, 2008. February 27, 2009. https://ypfs.som.yale.edu/library/gmac-llc-form-10-k-annual-report-pursuant-section-13or-15d-securities-exchange-act-1934 
+
+———. 2010a. “GMAC Financial Services Reports Preliminary First Quarter 2010 Financial Results.” Press release. May 3, 2010. 
+
+https://ypfs.som.yale.edu/library/gmac-financial-services-reports-preliminary-firstquarter-2010-financial-results 
+
+———. 2010b. Form 10-Q for the quarterly period ended March 31, 2010. May 7, 2010. https://ypfs.som.yale.edu/library/gmac-form-10-q-quarterly-report-pursuant-section-13or-15d-securities-exchange-act-1934 
+
+Gonzalez, Arthur J. 2009a. “Opinion and Order Regarding Emergency Economic Stabilization Act of 2008 and Troubled Asset Relief Program.” In Re. Chrysler LLC. et al. Debtors. US Bankruptcy Court, S.D,N.Y. May 31, 2009. 405 B.R. at 79. 
+
+https://ypfs.som.yale.edu/library/opinion-and-order-signed-5312009-regardingemergency-economic-stabilization-act-2008-and 
+
+———. 2009b. “Opinion Granting Debtors’ Motion Seeking Authority to Sell, Pursuant to 11 U.S.C. § 363, Substantially All of the Debtors’ Assets.” In Re. Chrysler LC. Et al. Debtors. US Bankruptcy Court, S.D.N.Y. May 31, 2009. 405 B.R. at 84. 
+
+https://ypfs.som.yale.edu/library/document/opinion-granting-debtors-motion-seekingauthority-sell-pursuant-11-usc-ss-363 
+
+Goolsbee, Austan, and Alan B. Krueger. 2015. “A Retrospective Look at Rescuing and Restructuring General Motors and Chrysler.” _Journal of Economic Perspectives_ . March 9, 2015. 
+
+https://ypfs.som.yale.edu/library/document/retrospective-look-rescuing-andrestructuring-general-motors-and-chrysler-0 
+
+Government Accountability Office, United States (GAO). 2009a. “Troubled Asset Relief Program: Status of Efforts to Address Transparency and Accountability Issues.” January 2009. 
+
+https://ypfs.som.yale.edu/library/troubled-asset-relief-program-status-efforts-addresstransparency-and-accountability-issues. 
+
+———. 2009b. “Auto Industry: Summary of Government Efforts and Automakers’ Restructuring to Date.” April 23, 2009. 
+
+https://ypfs.som.yale.edu/library/united-states-government-accountability-office-reportcongressional-committees-auto 
+
+Henken, Benjamin. 2022. “The Rescue of the US Auto Industry: Module G: The Auto Warranty Commitment Program.” _Journal of Financial Crises_ 4: no. 1. https://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss1/8/ 
+
+
+Hirsch, Jerry. “GM’s profit in 2010 highlights big turnaround.” _Los Angeles Times,_ February 25, 2011. https://ypfs.som.yale.edu/library/gms-profit-2010-highlights-big-turnaround 
+
+History.com. 2018. “Automobile History.” August 21, 2018. https://ypfs.som.yale.edu/library/automobile-history. 
+
+———. 2020a. “Henry Ford.” March 20, 2020. https://ypfs.som.yale.edu/library/document/henry-ford 
+
+———. 2020b. “William Durant creates General Motors.” September 15, 2020. https://ypfs.som.yale.edu/library/document/william-durant-creates-general-motors 
+
+Iacocca, Lee. “Chrysler.” _Encyclopedia Britannica_ , January 22, 2014. https://ypfs.som.yale.edu/library/document/chrysler 
+
+Indiana State Police Pension Trust et al. v. Chrysler LLC et al. 2009a. 129 S.Ct. 2275 (Per Curiam Decision). Filed June 9, 2009. Supreme Court of the United States. 
+
+https://ypfs.som.yale.edu/index.php/library/ind-state-police-pension-trust-v-chrysler-llc556-us-960-129-s-ct-2275-173-l-ed-2d-1285 
+
+———. 2009b. “In Re Chrysler LLC, et. al. Debtor vs. Indiana State Police Pension Trust, et al. Objectors-Appellants.” No. 09-2311-bk (2d Cir. Jun. 5, 2009). 
+
+https://ypfs.som.yale.edu/library/document/re-chrysler-llc-et-al-debtor-vs-indiana-statepolice-pension-trust-et-al-objectors 
+
+Keegan, Michael J. 2009. Declaration. In re: Chrysler LLC et. a., Debtors. (May 5, 2009). https://ypfs.som.yale.edu/library/document/declaration-re-chrysler-llc-et-al-debtor-vsindiana-state-police-pension-trust-et 
+
+Kiely, Eugene. “Ford Motor Co. Does U-turn on Bailouts.” FactCheck.org. September 20, 2011. 
+
+https://ypfs.som.yale.edu/library/document/ford-motor-co-does-u-turn-bailouts 
+
+Klier, Thomas, and James M. Rubenstein. 2012. “Detroit back from the brink? Auto industry crisis and restructuring, 2008-11.” Federal Reserve Bank of Chicago. _Economic Perspectives._ 2Q/2012. 
+
+https://ypfs.som.yale.edu/library/detroit-back-brink-auto-industry-crisis-andrestructuring-2008-11 
+
+Lubben, Stephen J. “No Big Deal: The GM and Chrysler Cases in Context.” _American Bankruptcy Law Journal_ 83, 2009. Seton Hall Public Law Research Paper No. 1467862. https://ypfs.som.yale.edu/library/no-big-deal-gm-and-chrysler-cases-context 
+
+Macrotrends. n.d. “General Motors Net Income 2009-2021.” Accessed May 26, 2021. https://ypfs.som.yale.edu/library/general-motors-net-income-2009-2021 
+
+
+Malik, Sadiq. 2022. “YPFS Lessons Learned Interview with Sadiq Malik.” https://ypfs.som.yale.edu/library/ypfs-lesson-learned-oral-history-project-interviewmalik-sadiq 
+
+Matsumoto, Riki. 2022. “The Rescue of the US Auto Industry: Module F: Auto Supplier Support Program.” Journal of Financial Crises 4, no. 1. 
+
+https://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss1/7/ 
+
+Matsumoto, Riki, and Kaleb B. Nygaard. 2022. “The Rescue of the US Auto Industry: Module D: Emergency Assistance to Ally Financial (formerly GMAC).” _Journal of Financial Crises_ 4, no. 1. 
+
+https://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss1/5/ 
+
+McAlinden, Sean, Kristin Dziczek, and Debra Maranger Menk. 2008. “CAR Research Memorandum: The Impact on the US Economy of a Major Contraction of the Detroit Three Automakers.” Center for Automotive Research (CAR). November 4, 2008. 
+
+https://ypfs.som.yale.edu/library/car-research-memorandum-impact-us-economy-majorcontraction-detroit-three-automakers 
+
+McNeill, Mara. 2022. “YPFS Lessons Learned Interview with Mara McNeill.” https://ypfs.som.yale.edu/library/ypfs-lesson-learned-oral-history-project-interviewmara-mcneill 
+
+National Public Radio. 2008. “Examining Chrysler’s 1979 Rescue.” November 12, 2008. https://ypfs.som.yale.edu/library/document/examining-chryslers-1979-rescue 
+
+Neyland, Jordan B., and Kathryn A. St. John. 2022. “Hidden Wealth Transfers in Bankruptcy Asset Sales: A Real Option Analysis.” _Berkeley Business Law Journal_ 19, no. 1, 2022 (February 2021; revised March 23, 2021). 
+
+https://ypfs.som.yale.edu/library/document/hidden-wealth-transfers-bankruptcy-assetsales-real-option-analysis 
+
+Nye, Alexander. 2022a. “The Rescue of the US Auto Industry, Module A: Automotive Bridge Loans.” _Journal of Financial Crises_ 4, no. 1. 
+
+https://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss1/2/ 
+
+———. 2022b. “The Rescue of the US Auto Industry, Module C: Restructuring Chrysler Through Bankruptcy.” _Journal of Financial Crises_ 4, no. 1. 
+
+https://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss1/4/ 
+
+———. 2022c. “The Rescue of the US Auto Industry, Module E: Emergency Assistance for Chrysler Financial.” _Journal of Financial Crises_ 4, no. 1. https://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss1/6/ 
+
+Nygaard, Kaleb B. 2022. “The Rescue of the US Auto Industry: Module B: Restructuring General Motors Through Bankruptcy.” _Journal of Financial Crises_ : 4, no. 1. https://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss1/3/ 
+
+
+Obama, Barack, H. 2009a. **“** Remarks by the President on the American Automotive Industry.” The White House. March 30, 2009. 
+
+https://ypfs.som.yale.edu/library/remarks-president-american-automotive-industry33009 
+
+———. 2009b. “Remarks by the President on General Motors Restructuring.” The White House. June 1, 2009. 
+
+https://ypfs.som.yale.edu/library/remarks-president-general-motors-restructuring 
+
+———. 2010. “Fighting for American Auto Workers.” July 30, 2010. https://ypfs.som.yale.edu/library/fighting-american-auto-workers-visit-chryslerjefferson-north-assembly-plant-barack-obama 
+
+Office of the Auditor General of Canada (OACG). 2014. “2014 Fall report of the Auditor General of Canada; Chapter 5: Support to the Automotive Sector.” 
+
+https://ypfs.som.yale.edu/library/2014-fall-report-auditor-general-canada-chapter-5support-automotive-sector 
+
+Paulson, Henry M., Jr. 2008a. “Statement on Stabilizing the Automotive Industry.” US Department of the Treasury. December 19, 2008. 
+
+https://ypfs.som.yale.edu/library/document/secretary-paulson-statement-stabilizingautomotive-industry 
+
+———. 2008b. “Determination, December 19, 2008, and Letters from Henry M. Paulson, Jr., to Members of the House of Representatives, December 23, 2008.” US Department of the Treasury. December 19, 2008. 
+
+https://ypfs.som.yale.edu/library/document/determination 
+
+———. 2010. _On the Brink: Inside the Race to Stop the Collapse of the Global Financial System_ . New York: Business Plus, Hachette Books. https://ypfs.som.yale.edu/library/brink-inside-race-stop-collapse-global-financial-system 
+
+Posner, Eric A. 2012. “Deference to the Executive in the United States after September 11: Congress, the Courts, and the Office of Legal Counsel.” 35 _Harvard Journal of Law and Public Policy_ 213 (2012). 
+
+https://ypfs.som.yale.edu/library/document/deference-executive-united-states-afterseptember-11-congress-courts-and-office 
+
+Ransom, Kevin. 2010. “How the Car Companies Lobby the Government: Millions Spent, But the Message Is Changing.” Autoblog.com. May 7, 2010. https://ypfs.som.yale.edu/library/document/how-car-companies-lobby-governmentmillions-spent-message-changing 
+
+Rattner, Steven. 2011. _Overhaul: An Insider’s Account of the Obama Administration’s Emergency Rescue of the Auto Industry_ . Boston, MA: Mariner Books. https://ypfs.som.yale.edu/library/overhaul-insiders-account-obama-administrationsemergency-rescue-auto-industry 
+
+
+———. 2022. “YPFS Lessons Learned Interview with Steven Rattner.” 
+
+https://ypfs.som.yale.edu/library/ypfs-lesson-learned-oral-history-project-interviewsteven-rattner 
+
+Roe, Mark J. and David Skeel. 2009. “Assessing the Chrysler Bankruptcy.” Harvard John M. Olin Center for Law, Economics, And Business, Discussion Paper No. 645. September 2009. https://ypfs.som.yale.edu/node/3688 
+
+Rogers, David. 2008. “Bernanke: Don’t Count on the Fed”. Politico. December 9, 2008. https://ypfs.som.yale.edu/library/bernanke-dont-count-fed 
+
+Senate Committee on Banking, Housing, and Urban Affairs (Senate Banking Committee). 2008. “Examining the State of the Domestic Automobile Industry—Part II.” Hearing, December 4, 2008, Doc. HRG-2008-BHU-0004. Washington, DC: G.P.O., 2008. 
+
+https://ypfs.som.yale.edu/library/examining-state-domestic-automobile-industry-part-ii 
+
+Special Inspector General for the Troubled Asset Relief Program, Office of the (SIGTARP). 2009a. **“** Quarterly Report to Congress.” April 2009. 
+
+https://ypfs.som.yale.edu/library/april-2009-office-special-inspector-general-troubledasset-relief-program-sigtarp-quarterly 
+
+———. 2009b. **“** Quarterly Report to Congress.” October 21, 2009. https://ypfs.som.yale.edu/library/october-2009-office-special-inspector-general-troubledasset-relief-program-quarterly 
+
+**“ ———.** 2010. Quarterly Report to Congress.” October 26, 2010. https://ypfs.som.yale.edu/library/sigtarp-quarterly-report-congress-october-26-2010 
+
+———. 2016. **“** Quarterly Report to Congress.” October 26, 2016. https://ypfs.som.yale.edu/library/office-special-inspector-general-troubled-asset-reliefprogram-quarterly-report-congress 
+
+Statista. 2022. “Number of light vehicle dealership outlets in the United States between January 1, 2009, and 2021.” Accessed March 10, 2022. 
+
+https://ypfs.som.yale.edu/library/document/number-light-vehicle-dealership-outletsunited-states-between-january-1-2009-and 
+
+Treasury, US Department of the (Treasury). n.d.a. “Troubled Assets Relief Program.” Webpage. 
+
+https://ypfs.som.yale.edu/library/troubled-assets-relief-program-tarp 
+
+———. n.d.b. “Troubled Assets Relief Program: Auto Industry: Program overview.” Webpage. https://ypfs.som.yale.edu/library/auto-industry-program-overview 
+
+———. n.d.c. “Guidelines for Automotive Industry Financing Program.” Webpage. https://ypfs.som.yale.edu/library/guidelines-automotive-industry-financing-program-aifp 
+
+
+———. n.d.d. “GMAC Timeline.” Webpage. https://ypfs.som.yale.edu/library/gmac-timeline 
+
+———. 2008. “General Motors Warrant Agreement.”. December 31, 2008. https://ypfs.som.yale.edu/library/document/warrant-agreement 
+
+———. 2009a. “Treasury Announces Auto Supplier Support Program.” Press release, March 19, 2009. https://ypfs.som.yale.edu/library/treasury-announces-auto-supplier-support-program 
+
+———. 2009b. “Obama Administration’s New Warrantee Commitment Program.” Fact sheet, March 30, 2009. 
+
+https://ypfs.som.yale.edu/library/obama-administrations-new-warrantee-commitmentprogram-fact-sheet 
+
+———. 2009c. “Obama Administration New Path to Viability for GM & Chrysler.” Fact sheet, March 31, 2009. https://ypfs.som.yale.edu/library/obama-administration-new-path-viability-gm-chrysler 
+
+———. 2009d. “Obama Administration Auto Restructuring Initiative: Chrysler-Fiat Alliance.” Press release, April 30, 2009. https://ypfs.som.yale.edu/node/4045 
+
+———. 2009e. “Fact Sheet: Obama Administration Auto Restructuring Initiative General Motors Restructuring.” Press release, May 31, 2009. 
+
+https://ypfs.som.yale.edu/library/fact-sheet-obama-administration-auto-restructuringinitiative-general-motors-restructuring 
+
+———. 2011. “Treasury Announces Agreement to Exit Remaining Stake in Chrysler Group LLC.” Press release,  June 2, 2011. 
+
+https://ypfs.som.yale.edu/node/4047 
+
+———. 2013a. “GM Timeline.” December 9, 2013. 
+
+https://ypfs.som.yale.edu/library/us-treasury-department-office-public-affairs-gmtimeline 
+
+———. 2013b. “TARP Transactions Report—Investments.” December 10, 2013. https://ypfs.som.yale.edu/library/document/tarp-transactions-report-investmentsperiod-ending-december-10-2013 
+
+———. 2014. “Treasury Sells Entire Ally Financial Stake, Taking Total Recovery to $19.6 Billion and Closing Auto Rescue Program.” Press release, December 19, 2014. https://ypfs.som.yale.edu/library/treasury-sells-entire-ally-financial-stake-taking-totalrecovery-196-billion-and-closing 
+
+Unemployment Compensation Extension Act of 2008 (UCE Act), S.3688, 110th United States Congress. 
+
+
+https://ypfs.som.yale.edu/library/s3688-bill-provide-additional-emergencyunemployment-compensation-amend-emergency-economic 
+
+White House, The. 2008. “Fact Sheet: Financing Assistance to Facilitate the Restructuring of Auto Manufacturers to Attain Financial Viability.” Fact sheet, December 19, 2008. https://ypfs.som.yale.edu/node/3608 
+
+———. 2009a. “GM February 17 Plan: Viability Determination.” Fact sheet, March 30, 2009. 
+
+https://ypfs.som.yale.edu/library/gm-february-17-plan-viability-determination 
+
+———. 2009b. “Obama Administration Auto Restructuring Initiative.” Press release, April 30, 2009. 
+
+https://obamawhitehouse.archives.gov/realitycheck/the_press_office/ObamaAdministration-Auto-Restructuring-Initiative 
+
+———. 2010. “Annual Report of the White House Council on Automotive Communities and Workers.” May 2010. 
+
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/2010AnnualReport.pdf 
+
+Wiggins, Rosalind Z., and Vaasavi Unnava. 2020. “Aid to Airlines and Other Critical Industries During Crises.” April 1, 2020. 
+
+https://som.yale.edu/sites/default/files/202201/Critical%20Industries_Aid%20to%20Airlines%20and%20other%20Critical%20Indust ries%20During%20Crises_0.pdf 
+
+Wiggins, Rosalind Z., Aidan Lawson, Steven Kelly, Lily S. Engbith, and Andrew Metrick. 2021. “The Rescue of American International Group, Module Z: Overview," _Journal of Financial Crises_ 3, no. 1, 208–281. 
+
+https://elischolar.library.yale.edu/journal-of-financial-crises/vol3/iss1/8 
+
+Wilson, Linus. 2009. “Lessons for the TARP Warrants from 1983 Chrysler Auction.” Academy of Accounting and Financial Studies Journal, Vol. 16, No. 2, pp. 69-76. December 31, 2009. https://ypfs.som.yale.edu/library/document/lessons-tarp-warrants-1983-chryslerauction 
+
+Zanger-Tishler, Michael, and Rosalind Z. Wiggins. 2021. "The Rescue of Fannie Mae and Freddie Mac, Module D: Treasury’s GSE MBS Purchase Program,” _Journal of Financial Crises_ 3, no. 1, 366–386. https://elischolar.library.yale.edu/journal-of-financial-crises/vol3/iss1/12 
+
+Copyright 2022 © Yale University. All rights reserved. To order copies of this material or to receive permission to reprint any or all of this document, please contact the Yale Program on Financial Stability at ypfs@yale.edu.

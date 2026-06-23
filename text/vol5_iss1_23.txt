@@ -1,0 +1,877 @@
+--- Page 1 ---
+Journal of Financial Crises Journal of Financial Crises 
+Volume 5 Issue 1 
+2023 
+United States: FIMA Repo Facility, 2020 United States: FIMA Repo Facility, 2020 
+Steven Kelly 
+YPFS, Yale School of Management 
+Follow this and additional works at: https://elischolar.library.yale.edu/journal-of-financial-crises 
+Recommended Citation Recommended Citation 
+Kelly, Steven (2023) "United States: FIMA Repo Facility, 2020," Journal of Financial Crises: Vol. 5 : Iss. 1, 
+558-579. 
+DOI: https://doi.org/10.17132/2693-3179.1501 
+Available at: https://elischolar.library.yale.edu/journal-of-financial-crises/vol5/iss1/23 
+This Case Study is brought to you for free and open access by the Journal of Financial Crises and 
+EliScholar – A Digital Platform for Scholarly Publishing at Yale. For more information, please contact 
+journalfinancialcrises@yale.edu.
+
+--- Page 2 ---
+READERS TAKE NOTICE: READERS TAKE NOTICE: 
+As of April 2024, the YPFS Resource Library’s site domain has changed 
+to https://elischolar.library.yale.edu/ypfs-financial-crisis-resource-library/. 
+Please be aware that upon clicking any of the URL references to 
+the former Resource Library domains, either https://ypfs.som.yale.edu 
+or https://ypfsresourcelibrary.blob.core.windows.net/, in the 
+"References/Key Program Documents" section of a case study, 
+readers will encounter a "page not found" error. readers will encounter a "page not found" error. 
+Readers can still retrieve a given resource cited within this case study 
+on the new site  by searching by searching here  for the title cited. for the title cited. 
+This case study is available in Journal of Financial Crises: https://elischolar.library.yale.edu/journal-of-financial-
+crises/vol5/iss1/23
+
+--- Page 3 ---
+United States: FIMA Repo Facility, 20201 
+Steven Kelly2 
+Yale Program on Financial Stability Case Study 
+July 21, 2023 
+Abstract 
+On March 31, 2020, amidst historically severe strains in the US Treasury market and global 
+dollar funding markets, the Federal Reserve announced the Foreign and International 
+Monetary Authorities (FIMA) Repo Facility. The FIMA Repo Facility was designed to  
+discourage foreign official Treasury sales and broadly improve foreign dollar funding 
+markets—and ultimately the flow of credit in the U nited States. The facility provided 
+renewable, overnight repurchase agreements (repo s) to central banks and other 
+international monetary authorities against Treasury collateral. This allowed approved 
+central banks to access dollars for precautionary reasons or to pass to their domestic 
+financial systems without engaging in further outright Treasury sales. The Fed priced the 
+facility to serve as a backstop to private repo rates in a normally functioning market. The Fed 
+created the fa cility to complement its dollar swap lines, which it had made available to 14 
+central banks. Unlike the swap lines, v irtually every central bank in the world was eligible 
+for the FIMA Repo Facility. At the facility’s outset, approximately 30 central banks signed up. 
+However, usage was minimal; volume peaked at just $1.404 billion in May 2020. Despite low 
+uptake, Federal Reserve Bank of New York (FRBNY) staff  report the facility was welcomed 
+by market participants and  argue that the FIMA Repo Facility eased selling pressure  in the 
+Treasury market. Two FRBNY researchers also find evidence it eased foreign exchange 
+stresses and helped restore Treasury holdings of foreign central banks that were outside the 
+Fed’s dollar swaps network. After two ex tensions, the Fed announced in July 2021 that the 
+FIMA Repo Facility would become permanent.  
+Keywords: central bank swaps, COVID -19 crisis, Federal Reserve, FIMA Repo Facility, 
+foreign and international monetary authorities 
+  
+ 
+1 This case study is part of the Yale Program on Financial Stability (YPFS) selection of New Bagehot Project 
+modules considering central bank swap line programs. Cases are available from the Journal of Financial Crises 
+at https://elischolar.library.yale.edu/journal-of-financial-crises/. 
+2 Associate Director of Research, YPFS, Yale School of Management. 
+558
+
+--- Page 4 ---
+Overview 
+On March 31, 2020, amidst historically 
+severe strains in the US Treasury market and 
+global dollar funding markets  as a result of 
+the COVID-19 pandemic, the Federal Reserve 
+announced the Foreign and International 
+Monetary Authorities ( FIMA) Repo Facility 
+(Choi et al. 2022) . The FIMA Repo Facility 
+was a new lending facility —technically 
+structured as a repurchase agreement 
+(repo)—for central banks and other 
+international monetary authorities to secure 
+dollar liquidity against Treasury security 
+holdings (FRB 2020e).  
+Most FIMA account holders —virtually all 
+central bank s, as well as international 
+organizations such as the Bank for 
+International Settlements —were eligible to 
+apply for the facility (FRB 2020a) . “FIMA 
+account holders ” describes foreign central 
+banks and other foreign monetary 
+authorities with custodial accounts at the 
+Federal Reserve Bank of New York (FRBNY)  
+(Choi et al. 2022, 102) . The FRBNY services 
+more than 200 foreign official and 
+international institutions, provi ding them 
+more than 550 deposit and custody accounts, 
+and “foreign central banks and monetary 
+authorities hold the vast majority of these 
+accounts” (FRBNY n.d.a) . Choi et al. (2022) 
+further clarif y that the FRBNY “maintains 
+cash and custody accounts for ne arly every 
+central bank in the world and the FIMA Repo 
+Facility adds to a suite of Federal Reserve 
+dollar-based correspondent banking and 
+custody services.” 
+Daleep Singh, who was head of the Markets 
+Group at the FRBNY from February 2020 to 
+February 2021, said in an interview with the 
+Yale Program on Financial Stability (YPFS)  
+that about 30 counterparties initially 
+enrolled in the facility and that these 
+counterparties represented about 75% of 
+Key Terms 
+Purpose: To “help support the smooth functioning 
+of the U.S. Treasury market by providing an 
+alternative temporary source of U.S. dollars other 
+than sales of securities in the open market” and 
+“along with the U.S. dollar liquidity swap lines the 
+Federal Reserve has established with other central 
+banks, to help ease strains in global U.S. dollar 
+funding markets” (FRB 2020e) 
+Participating 
+Parties 
+Federal Reserve Bank of New 
+York; 
+Most central banks and 
+international monetary 
+authorities were eligible; 
+approximately 30 signed up 
+at the outset 
+Type of Swap Repurchase agreement 
+facility for foreign and 
+international monetary 
+authorities  
+Currencies 
+Involved 
+US dollars  
+Launch Date Announced: March 31, 2020 
+Operational: April 6, 2020  
+End date Two extensions; made 
+standing facility 
+Date of First Usage Week ended April 8, 2020  
+Interest Rate and 
+Fees 
+25 bps over the Fed’s 
+interest rate on excess 
+reserves  
+Amount 
+Authorized 
+N/A 
+Peak Usage 
+Amount and Date 
+$1.4 billion; week ended May 
+13, 2022  
+Downstream 
+Use/Application of 
+Swap Funds 
+Building precautionary 
+dollar balances or passing 
+dollar liquidity to domestic 
+financial systems  
+Outcomes Low uptake, positive 
+announcement effects 
+Notable Features Broad eligibility; no 
+disclosure of counterparties, 
+individual transactions 
+559
+Journal of Financial Crises Vol. 5 Iss. 1
+
+--- Page 5 ---
+foreign official Treasury holdings (Singh 2023).3 The FIMA Repo Facility complemented the 
+dollar swap lines that the Fed had expanded or made newly available to 14 leading central 
+banks in response to foreign dollar funding stresses earlier in March (Hoffner 2023). 
+The FIMA Repo F acility’s broader eligibility assured dollar liquidity for  central banks that 
+didn’t have access to the swap lines but did have sufficient holdings of Treasuries . Prior to 
+the rollout of the FIMA Repo Facility, some of the largest official sector holders of Treasuries 
+were central banks, particularly China ’s, that didn ’t have access to the Fed ’s swap lines  
+(Singh 2023). 
+Despite th e expanded dollar access  that the swap lines  provided, central banks were 
+significant sellers of Treasuries in March and April , which contributed to the stress in the 
+Treasury market. F oreign official holdings of Treasuries declined by $150 billion  in March 
+2020 and an additional $70 billion in April , when the FIMA Repo Facility was also in place  
+(Choi et al. 2022, 97).  
+Singh (2023) said of these foreign, official sector Treasury sales that “not all of that was used 
+to defend their currencies; a lot of it was just essentially ‘cash under the mattress.’” 
+Evidence that many of these sales were precautionary can be seen in the juxtaposition of 
+FIMA account holders ’ Treasury holdings versus their assets in the Fed’s “foreign repo 
+pool”—a reverse repo product that FIMA customers use to deposit their cash overnight; see 
+Figure 1 (Choi et al. 2022). 
+  
+ 
+3 The transcript cited here leaves some ambiguity about the “30 or so” number of initial enrollees used here 
+and whether that count was exhaustive. Singh  confirmed to YPFS in follow -up emails that this was indeed the 
+approximate total of enrollees in about the first six months.  
+560
+United States: FIMA Repo Facility Kelly
+
+--- Page 6 ---
+Figure 1: FIMA Treasury Holdings and the Fed’s Foreign Repo Pool 
+ 
+Source: Choi et al.  
+The FRBNY later reported that the surge in the foreign repo pool balance “was primarily 
+driven by a shift in FIMA customers ’ preference toward liquid, safe holdings amid a highly 
+uncertain period of increased volatility, dollar funding pressures, and Treasury market 
+stress” (FRBNY 2021, 43). 
+The Fed created the FIMA Repo Facility to discourage foreign official Treasury sales an d 
+broadly improve foreign dollar funding markets —and ultimately the flow of credit in the 
+United States. The FIMA Repo Facility provided renewable, overnight repos to foreign and 
+international monetary authorities against Treasury collateral (FRB 2020a). T his allowed 
+these foreign central banks to build their dollar balances for precautionary reasons or to pass 
+dollar liquidity  to their domestic financial systems without engaging in further outright 
+Treasury sales (Choi et al. 2022). 
+The Fed priced the faci lity higher than private repo rates in a normally functioning market 
+to encourage its use only in times of stress . The repos charged the Fed ’s administered 
+interest rate on excess reserves plus 25 basis points  (bps) (FRB 2020a). Thus, throughout 
+2020, the facility had an all -in interest cost of 35 bps (FRB 2021b). Because the repos were 
+against Treasury securities, the Fed faced no foreign exchange risk (FRB 2020a). It managed 
+its price risk via haircuts on collateral consistent with those at its discount window, which 
+were between 1%  and 8% depending on the type and term of the Treasury security (FRB 
+2020a; FRS 2020). 
+Singh (2023) said he believed that after the FIMA Repo Facility was in place, swap lines and 
+FIMA repo access provided liquidity to count ries holding “well over 80% ” of the official 
+holdings of Treasury securities. The FRBNY said that FIMA account holders that had enrolled 
+561
+Journal of Financial Crises Vol. 5 Iss. 1
+
+--- Page 7 ---
+in the facility “represented a broad range of global regions, economic sizes, and levels of 
+economic development, and accounted for a large share of foreign official ownership of 
+outstanding U.S. Treasury securities ” (FRBNY 2021, 16) . Borrowings from the FIMA Repo 
+Facility were limited by the haircut-adjusted market value of an eligible borrower’s Treasury 
+collateral (FRB 2020a) . The Foreign Currency Subcommittee of the Fed ’s Federal Open 
+Market Committee (FOMC) also could set limits on a per-counterparty, per-day basis; the Fed 
+didn’t release information about any limits it may have set (Choi et al. 2022, 104; FOMC 
+2020d; Goldberg and Ravazzolo 2021b, 2). 
+Weekly reported outstanding FIMA  Repo Facility volume peaked at $1.404 billion on May 
+13, 2020 (FRB 2022b). The FRBNY described usage of the facility in 2020 as “minimal” and 
+largely reflecting “small-value exercises that took place as part of operational onboarding of 
+approved account holders” (FRBNY 2021).  
+When the Fed announced the FIMA Repo Facility on March 31, 2020, it said the facility would 
+be in place for at least six months (FRB 2020e) . After two six -month extensions , the Fed 
+announced on July 28, 2021, that the FIMA Repo Facility would become permanent; the Fed 
+established the standing facility with an initial interest rate of 25 bps and a per-counterparty 
+limit of $60 billion (FRB 2020g; FRB 2020h; FRB 2021a). 
+Summary Evaluation 
+A report from four authors at the FRBNY finds that the FIMA Repo Facility “eased pressure 
+on foreign official institutions to sell Treasury securities for precautionary reasons” despite 
+limited uptake. “Nevertheless, central banks ’ increased confidence in their ability to raise 
+dollar liquidity through the facility likely contributed to a strong return to Treasury 
+investments by the second week of April 2020. ” They also note that feedback from market 
+participants was positive on the  establishment of the FIMA Repo Facility (Choi et al. 2022, 
+101–2, 106).  
+Goldberg and Ravazzolo (of the FRBNY) also separately find that foreign exchange swap 
+spreads began to normalize later for countries without access to swaps lines—but started to 
+after the establishment of the FIMA Repo Facility. They similarly find that, after falling earlier 
+in the pandemic , Treasury holdings of those central banks with access to the FIMA Repo 
+Facility, but without swap line access, began to normalize after the introduction of the FIMA 
+repos (Goldberg and Ravazzolo 2021a).   
+562
+United States: FIMA Repo Facility Kelly
+
+--- Page 8 ---
+563
+Journal of Financial Crises Vol. 5 Iss. 1
+
+--- Page 9 ---
+Key Design Decisions 
+1. Purpose and Type: The Federal Reserve created a repurchase agreement facility 
+for foreign and international monetary authorities to support their access to 
+dollars while limiting their sales of Treasury securities. 
+The FIMA Repo Facility was a repurchase agreement facility for foreign and international 
+monetary authorities that provided dollar reserves in exchange for US Treasury securities 
+collateral. The Fed intended the facility to stanch the flow of Treasury sales from the foreign 
+official sector and to complement Fed swap lines in supporting dollar funding markets (FRB 
+2020a; FRB 2020e) . The facility was available to virtually any central bank in the world, 
+while the Fed made swap lines available to only 14 central banks (Hoffner 2023).  
+2. Part of a Package:  To ease global dollar funding conditions, the Fed eased the 
+terms of its existing sw ap lines and extended nine new temporary swap lines. To 
+ameliorate the impact of surging Treasury sales, the Fed expanded its direct 
+purchases and eased a regulation limiting large banks’ ability to intervene. 
+To ease conditions in global dollar markets, t he Fed expanded and eased the terms of its 
+swap network (Hoffner 2023). On March 15, 2020, the Fed ease d the terms of its standing, 
+uncapped swap lines with five other advanced economy central banks  (FRB 2020b) .4 On 
+March 19, the Fed extended swap lines to nine additional central banks (FRB 2020c).5 The 
+Fed had set up similar swap lines during the Global Financial Crisis of 2007–2009 with the 
+same 14 central banks (French 2023). 
+To ease the impact of global Treas ury sales, the Fed increasingly expanded its direct 
+Treasury purchases and also eased large bank  holding companies’ capital requirements for 
+Treasury securities (YPFS 2022). On March 23, the Fed uncapped its outright purchases of 
+Treasury securities, promising to purchase the amounts needed to support market 
+functioning and effective transmission of monetary policy (FRB 2020d). On April 1, the Fed 
+temporarily exempted Treasury  securities from the supplementary leverage ratio (SLR) 
+requirement that applies to large banks . This exemption allowed large bank  holding 
+companies to not hold capital against their holdings of Treasuries. The SLR easing, like the 
+ 
+4 The five central banks were the Bank of Canada, Bank of England, Bank of Japan, European Central Bank, and 
+Swiss National Bank. From the Fed’s press release: “These central banks have agreed to lower the pricing on 
+the standing U.S. dollar liquidity swap arrangements by 25 basis points, so that the new rate will be the U.S. 
+dollar overnight index swap (OIS) rate plus 25 basis points. To  increase the swap lines ’ effectiveness in 
+providing term liquidity, the foreign central banks with regular U.S. dollar liquidity operations have also agreed 
+to begin offering U.S. dollars weekly in each jurisdiction with an 84 -day maturity, in addition to  the 1-week 
+maturity operations currently offered” (FRB 2020b). 
+5 From the Fed’s press release: “These new facilities will support the provision of U.S. dollar liquidity in amounts 
+up to $60 billion each for the Reserve Bank of Australia, the Banco Central  do Brasil, the Bank of Korea, the 
+Banco de Mexico, the Monetary Authority of Singapore, and the Sveriges Riksbank and $30 billion each for the 
+Danmarks Nationalbank, the Norges Bank, and the Reserve Bank of New Zealand” (FRB 2020c).  
+564
+United States: FIMA Repo Facility Kelly
+
+--- Page 10 ---
+FIMA Repo Facility, aime d to improve liquidity conditions in the market for Treasury 
+securities (FRB 2020f).  
+3. Legal Authority:  Section 14 of the Federal Reserve Act provides the Fed its 
+authorities for open market operations and related supporting services. The Fed’s 
+Federal Open Market Committee authorized the FIMA Repo F acility by notation 
+vote. 
+Section 14 of the Federal Reserve Act covers open market operations. Section 14(2)(e)  
+provides the authority for a Reserve Bank “to open and maintain banking accounts for such 
+foreign correspondents or agencies, or for foreign banks or bankers, or for foreign states .” 
+This authority was the basis of the prior creation of the FIMA accounts  (US Congress n.d.b; 
+Potter 2017). The Board ’s Regulation N authorizes the Reserve Banks to do business with 
+these accounts “to effectuate the conduct of open market operations ” subject to the 
+directives of the FOMC (FRB 1962; Potter 2017). 
+The Fed ’s monetary policy committee, the FOMC, authorized the FIMA Repo Facility by 
+notation vote on March 31, 2020 (FOMC 2020e; FRB 2022a). The FOMC did so by amending 
+the standing Authorization for Domestic Open Market Operations (FOMC 2020a; FOMC 
+2020c; FOMC 2020e). 
+In the Authorization for Domestic Open Market Operations, the FIMA Repo Facility is not 
+classified under “Open Market Operations, ” but is instead authorized under “Transactions 
+with Customer Accounts.” This section authorizes such transactions “to ensure the effective 
+conduct of open market operations, while assisting in the provision of short -term 
+investments or other authorized services for foreign central bank and international 
+accounts,” and authorizes the transactions “when undertaken on terms comparable to those 
+available in the open market” (FOMC 2020c). 
+4. Governance: The FOMC delegated to its Foreign Currency Subcommittee general 
+governance of the facility. The Fed reported weekly volume totals to the public, 
+but individual eligibility and transaction data did not fall under its legal disclosure 
+mandates. 
+The FOMC authorized its Foreign Currency Subcommittee to approve changes to the FIMA 
+Repo Facility ’s eligibility, rate, term, and counterparty limits  (FOMC 2020d). The Foreign 
+Currency Subcommittee consist ed of the FOMC chair and vice chair  (typically the FRBNY 
+president) as well as the Fed Board vice chair (FOMC 2020b; FRB 2023). 
+The Fed reported outstanding and weekly average volumes in its weekly “H.4.1” disclosure 
+report of its balance sheet (Fed n.d.; FRB 2020a). 
+Section 11(s) of the Federal Reserve Act requires the Fed to release transaction -level data 
+on its Section 14 open market operations with no more than an eight -quarter lag, but only 
+for transac tions with nongovernmental  counterparties (US Congress  n.d.a; US Congress  
+n.d.b). Moreover, as noted in Key Design Decision No. 3, Legal Authority , the FIMA Repo 
+Facility is not classified under “Open Market Operations ” in the FOMC ’s Authorization for 
+565
+Journal of Financial Crises Vol. 5 Iss. 1
+
+--- Page 11 ---
+Domestic Open Market Operations but is instead authorized under “Transactions with 
+Customer Accounts ” (FOMC 2020c) . Although the Fed discloses its central bank swap 
+transactions in real time, it does not disclose FIMA Repo Facility transactions even with a lag 
+(FRBNY n.d.b; FRBNY n.d.c). 
+In a written response to a question from a member of the Financial Services Committee of 
+the US House of Representatives about the Fed having not disclose d information about 
+individual usage of the FIMA Repo Facility, Fed Chair Jerome Powell wrote that the Fed “does 
+not disclose information regarding accounts and specific services provided to individual 
+account holders, which is in line with international central banking norms and is consistent 
+with the terms on accounts that foreign central banks establish for the Federal Reserve” (FSC 
+2020, 80). 
+5. Administration: The Federal Reserve Bank of New York managed the FIMA Repo 
+Facility transactions as an addition al service for FIMA account holders. The 
+FOMC’s Foreign Currency Subcommittee  was responsible for granting access to 
+the facility and modifying its terms. 
+The FRBNY managed the FIMA Repo Facility operations. The FRBNY services more than 200 
+foreign official a nd international institutions, providing them more than 550 deposit and 
+custody accounts (FRBNY n.d.a) . Most of these institutions are central banks and other 
+international monetary authorities (see Key Design Decision No. 7, Eligible Institutions).  
+Additionally, Singh (2023) told YPF S that the FRBNY “went out to 30 counterparties and 
+basically explained to them the modalities of the facility and that we welcomed their 
+participation. It was up to those counterparties as to whether they’d apply, and I think almost 
+all of them did so.” The FOMC also authorized its Foreign Currency Subcommittee to change 
+the FIMA Repo Facility’s rate, term, and counterparty limits (FOMC 2020d). 
+As noted in Key Design Decision No. 4, Governance, the Fed did not disclose specific recipient 
+eligibility or participation, nor did it disclose any individual transaction details. Singh (2023) 
+noted that the Fed’s counterparties could disclose their access/use of the FIMA Repo Facility 
+if they so chose; see Key Design Decision No. 6, Communication. 
+6. Communication: The Fed consistently communicated the FIMA Repo Facility as 
+supporting the Treasury market and foreign dollar funding markets —and, by 
+extension, domestic credit flows. It also communicated the facility as a “backstop” 
+to private repo markets. 
+The Fed consistently communicated the FIMA Repo Facility as meant to support market 
+functioning—particularly in the Treasury market and foreign dollar funding markets —and 
+thereby supporting the flow of credit domestically  (FRB 2020e; FRB 2020g; FRB 2020h) . It 
+also regularly referred to the facility as a backstop (FRB 2020g; FRB 2020h; FRB 2022a). 
+The Fed did not publicly communicate about who applied, received eligibility, or drew on the 
+FIMA Repo Facility (FSC 2020, 80; Singh 2023). FRBNY’s Singh said that “if those countries 
+566
+United States: FIMA Repo Facility Kelly
+
+--- Page 12 ---
+wanted to, they could have announced their participation, but we didn’t announce it for fear 
+of creating a stigma effect” (Singh 2023). 
+The central banks of Chile, Colombia, Ghana, Indonesia, Sri Lanka, and Hong Kong announced 
+they had received access to the facility  in 2020 (BCCh 2020; BI 2020; BOG 2020; BR 2020; 
+CBSL 2020; HKMA 2020b).6 Sweden and South Korea announced FIMA access shortly before 
+their temporary swap lines with the  Fed expired (Riksbank 2021; Roh 2021) . (See Key 
+Design Decision No. 16, Exit Strategy.) 
+7. Eligible Institutions: Almost every central bank in the world was eligible to apply 
+to use the Repo Facility ; approximately 30 enrolled during the first six months . 
+Part of the impetus for rolling out the FIMA Repo Facility was the  more limited 
+coverage of the Fed’s swap lines. 
+Virtually all central banks, as well as international organizations such as the Bank for 
+International Settlements, were eligible to apply for the FIMA Repo Facility.  
+The FRBNY services more than 200 foreign official and international institutions, providing 
+them more than 550 deposit and custody accounts. It also says that “foreign central banks 
+and monetary authorities hold the vast majority of these accounts ” (FRBNY n.d.a). “FIMA 
+account holders ” describes foreign central banks and other foreign monetary authorities 
+with custodial accounts at the FRBNY (Choi et al. 2022, 102) . Choi et al. (Choi et al. 2022)  
+says that the FRBNY “maintains cash and custody accounts for nearly every central bank in 
+the world and the FIMA Repo Facility adds to a suite of Federal Reserve dollar -based 
+correspondent banking and custody services.” 
+New York Times Fed reporter Jeanna Smialek later report s in a book that the Fed “allowed 
+roughly 170 central banks and foreign entities ” with FRBNY accounts “potential access” to 
+FIMA repos (Smialek 2023, 198) . The Fed’s “frequently asked questions ” (FAQs) released 
+alongside the FIMA Repo Facility rollout said , “Most FIMA account holders [. . .] will be 
+eligible to apply to use the facility,” but that account holders’ applications to the Repo Facility 
+still needed to be approved by the FOMC Foreign Currency Subcommittee (FRB 2020a). 
+Additionally, Singh (2023) shared with YPFS that the FRBNY “went out to 30 counterparties 
+and basically explained to them the modalities of the facility and that we welcomed their 
+participation.” He said that approximately 30 counterparties  enrolled in the facility in its 
+early days and that these counterparties represented “about 75%” of foreign official holdings 
+of Treasury securities. 
+Prior to the rollout of the FIMA Repo Facility, Singh said, some of the material official sector 
+holders of Treasuries were countries that didn’t have access to the Fed’s expanded network 
+ 
+6 The Financial Markets Committee—a committee of central bankers and financial sector participants—of Bank 
+Negara Malaysia (BNM, the central bank of Malaysia) wrote in its April 9, 2020 , meeting minutes that BNM 
+“informed that it has access to the Federal Reserve’s FIMA repo fa cility” (BNM 2020). However, it’s unclear if 
+BNM had officially been accepted and/or applied to the facility yet given its recent opening and the potentially 
+required operational hurdles noted in Key Design Decision No. 7, Eligible Institutions.  
+567
+Journal of Financial Crises Vol. 5 Iss. 1
+
+--- Page 13 ---
+of swap lines—particularly China, then one of the largest foreign holders of Treasuries (US 
+Treasury 2021). And it wasn’t just China, Singh said—“There were other countries with large 
+Treasury holdings, too, that just weren ’t able to access swap lines for a variety of reasons .” 
+The FRBNY said in its 2020 annual report on open market operations that FIMA account 
+holders that had enrolled in the facility “represented a broad range of global regions, 
+economic sizes, and levels of economic development, and accounted for a large share  of 
+foreign official ownership of outstanding U.S. Treasury securities” (FRBNY 2021, 16).  
+A press release from Chile suggested the Fed also required potential counterparties to meet 
+certain operational requirements.  Banco Central de Chile  reported receiving access to the 
+FIMA Repo Facility only after executing the Fed’s functional requirements (BCCh 2020). 
+8. Size: The overall size of the FIMA Repo Facility was based on counterparties’ total 
+(haircut-adjusted) eligible collateral and any bilateral counterparty limits set by 
+the Fed; the Fed later set a limit of $60 billion on all counterparties when it made 
+the facility permanent in July 2021. 
+Borrowings on the FIMA Repo Facility were limited by the haircut-adjusted market value of 
+eligible borrowers’ Treasury collateral (FRB 2020a). The Foreign Currency Subcommittee of 
+the FOMC also could set per-counterparty, per-day limits (FOMC 2020d).7 Choi et al. (Choi et 
+al. 2022, 104) clarifies that per-counterparty limits were to be set and communicated on a 
+bilateral basis. Bank Indonesia—the central bank of Indonesia —announced in April 2020 
+that it had secured a $60 billion FIMA repo line (BI 2020). Bank of Ghana announced a $1 
+billion FIMA repo line in May 2020 (BOG 2020). The Hong Kong Monetary Authority (HKMA) 
+US Dollar Liquidity Facility —a back-to-back facility funded by the FIMA Repo Facility (see 
+Decision No. 10, Downstream Use of Borrowed Funds )—provided for up to $10 billion, 
+though the HKMA said the facility’s terms were subject to revision (HKMA 2020b). When the 
+Fed made the FIMA permanent, it set a per -counterparty limit of $60 billion  on all 
+counterparties, with these limits subject to change by the Subcommittee (FOMC 2021). 
+Weekly reported outstanding FIMA Repo volume peaked at $1.404 billion on May 13, 2020 
+(FRB 2022b). Consistent with the timing of that peak, the HKMA reported a draw for $1.400 
+billion on its facility funded by  the FIMA Repo Facility (HKMA 2020b; HKMA 2020c) . The 
+FRBNY described usage of the facility in 2020 as “minimal” and largely reflecting “small-
+value exercises that took place as part of operational onboarding of approved account 
+holders” (FRBNY 2021).  
+9. Process for Utilizing the Swap Agreement : Once a FIMA account holder was 
+approved by the Fed, it submitted a trade request to the FIMA Repo Facility within 
+ 
+7 The directive cited here follows the first extension of the facility in July 2020. There does not appear to be a 
+publicly available implementation directive from immediately following the facility’s authorization and 
+initiation. A footnote in the minutes to the Fe d’s July meeting suggests the July directive is an update of the 
+March iteration (FOMC 2020f). 
+ 
+568
+United States: FIMA Repo Facility Kelly
+
+--- Page 14 ---
+the parameters of the facility. The Fed itself then handled all aspects of trade 
+settlement. 
+A FIMA account holder could apply to the Repo Facility f or access. Once approved  by the 
+FOMC’s Foreign Currency Subcommittee, the FIMA account holder could draw on the facility 
+by sending a trade request to the FRBNY. If the trade requested conformed to the repo 
+facility’s terms, the FRBNY would send back a tra de confirmation. Then, the FIMA account 
+holder would sell the required Treasury collateral in a repo transaction  to the Fed and the 
+collateral would move from the FIMA account holder’s custody account to the Fed’s portfolio 
+account. After the collateral la nded, the Fed would send the haircut-adjusted cash value of 
+the securities to the account holder. The Fed itself, rather than  the tri-party repo system 
+(provided by Bank of New York Mellon in the US) or an outside vendor, was responsible for 
+post-trade clearing, settlement, and collateral management (Choi et al. 2022, 102). Using the 
+Fed’s systems rather than a private market participant ’s may be beneficial for maintaining 
+confidentiality of borrower activity (Potter 2017). For a graphic outline of this process, see 
+Figure 2 in the Appendix. 
+10. Downstream Use of Borrowed Funds:  FIMA Repo Facility borrowers could make 
+the dollars available to i nstitutions in their jurisdictions or hold the dollars as 
+precautionary balances. 
+The FIMA Repo Facility borrowers could make the dollars available to institutions in their 
+jurisdictions or hold them as precautionary balances (Choi et al. 2022; FOMC 2020e). 
+FRBNY’s Singh noted of the foreign central bank Treasury sales that preceded the FIMA Repo 
+Facility’s rollout that “not all of that was used to defend their currencies; a lot of it was just 
+essentially ‘cash under the mattress ’” (Singh 2023). The Fed intended this dollar access to 
+help stanch outright sales of Treasury securities by foreign holders and, more broadly, ease 
+strains in global dollar funding markets (FOMC 2020e). 
+The Hong Kong Monetary Authority set up a dollar auction facility that was funded by dollars 
+it sourced from the FIMA Repo Facility. It provided for seven-day dollar repos at a rate set 
+by auction but not lower than the rate the Fed charged on FIMA (HKMA 2020a). 
+11. Duration of Swap Draws: FIMA repos matured overnight but could be rolled over 
+as needed. 
+FIMA repos matured overnight but could be rolled over as needed (FRB 2020a). The HKMA 
+used the funds from the FIMA Repo Facility to offer US dollar liquidity to banks in its 
+jurisdiction on a seven-day basis—as noted in Key Design Decision No. 10, Downstream Use 
+of Borrowed Funds. 
+569
+Journal of Financial Crises Vol. 5 Iss. 1
+
+--- Page 15 ---
+12. Rates and Fees: FIMA repos charged an above-market rate of 25 bps over the Fed’s 
+administered interest rate on excess reserves. No fees applied to participation in 
+the FIMA Repo Facility. 
+FIMA repos charged 25 bps over the  Fed’s administered interest rate on excess reserves  
+(FRB 2020a). Throughout 2020, the all-in interest rate for a FIMA repo was thus 35 bps (FRB 
+2021b). No fees applied to participation in the FIMA Repo Facility. 
+The Fed said that this rate was generally above private market repo rates that prevail in 
+normal times, intending for the facility to be used in periods of market stress (FRB 2020a). 
+A report from Credit Suisse notes that 35 bps represented a premium over the rate the Fed 
+charged on its domestic repo facilities, which  cost primary dealers only the interest rate on 
+excess reserves. Thus, at the margin, t he rate differential  may have encouraged dealer 
+intermediation relative to direct participation in the FIMA Repo Facility —and thus limited 
+private sector balance sheet relief (Pozsar 2020). 
+13. Balance Sheet Protection: FIMA repos posed no foreign exchange risk, and the Fed 
+managed market risk by haircutting collateral and marking it to market daily. 
+The FIMA Repo Facility did not pose any foreign exchange risk as it swapped dollars for US 
+Treasuries. Price risk was managed via collateral haircuts that aligned with those applied at 
+the Fed’s discount window (FRB 2020a). These haircuts varied between 1% and 8% of the 
+security’s market price depending on the Treasury security’s type and term to maturity (FRS 
+2020). Collateral was revalued daily for haircut purposes (Choi et al. 2022, 102). 
+14. Other Restrictions: There do not appear to have been any  restrictions on the use 
+of borrowed FIMA Repo Facility funds, nor additional restrictions on participation 
+in the facility. 
+There do not appear to have been any restrictions on the use of borrowed FIMA Repo Facility 
+funds, nor additional restrictions on participation in the facility. 
+15. Other Options: Other options available to the Fed included expanding swap lines 
+to more cent ral bank counterparties or counteracting the foreign central banks ’ 
+Treasury sales with additional outright purchases of those securities. 
+Other options available to the Fed included expanding swap lines to more central bank 
+counterparties or counteracting the foreign central banks ’ Treasury sales with additional 
+outright purchases of those securities. (See also Key Design Decision No. 2, Part of a Package.) 
+FRBNY’s Singh said of expanding the Fed’s network of swap lines that China and some other 
+countries “weren’t able to access swap lines for a variety of reasons ” (Singh 2023). Indeed, 
+Smialek (2023) reports of the motivation for the FIMA repos that the Fed “needed to devise 
+a way to shuttle dollars to government s with which it could not take the geopolitically cozy 
+step of establishing a swap line.” Furthermore, the FIMA Repo Facility could accomplish this 
+provision of dollar liquidity “through an existing New York Fed relationship. That made it 
+boring instead of eyebrow raising from a political standpoint” (Smialek 2023, 197–98). 
+570
+United States: FIMA Repo Facility Kelly
+
+--- Page 16 ---
+Singh (2023) said of the option for the Fed to simply buy more Treasuries instead of 
+implementing the FIMA Repo Facility: “Of course, we could counteract those Treasury sales 
+with asset purchases, but we ’d already committed to trillions of dollars of asset purchases 
+by that point. We didn’t want to make that number even higher.” 
+16. Exit Strategy: The Fed initially announced the FIMA Repo Facility as being 
+available for at least six months. It twice extended the facility by six months and 
+in July 2021 turned it into a standing facility. 
+When announced on March 31, 2020, the FIMA Repo Facility was to open on April 6 and be 
+in place for at least six months (FRB 2020e). On July 29, 2020, the FOMC extended the facility 
+to March 31, 2021 (FRB 2020g). On December 16, 2020, the FOMC extended the facility to 
+September 30, 2021 (FRB 2020h). In both cases, the Fed announced extensions of its swap 
+lines with other central banks in the same press release. 
+On July 28, 2021, the FOMC announced that the FIMA Repo Facility  would become 
+permanent, with a per-counterparty limit of $60 billion (FRB 2021a). On the same day, t he 
+FOMC announced its new Standing Repo Facility, which allows primary dealers and banks to 
+obtain funds from the Fed against U.S. Treasuries, agency debt, and agency mortgage-backed 
+securities. The FOMC said that the interest rate on the Standing FIMA Repo Facility would 
+equal the minimum bid rate for the Standing Repo Facility, then at 25 bps, unless the Foreign 
+Currency Subcommittee set a different rate (FOMC 2021). 
+Closely following the  Fed announcement, the Hong Kong Monetary Authority announced 
+that it would also convert its domestic dollar liquidity facility into a standing arrangement  
+on the same terms (HKMA 2021). 
+The Fed’s standing dollar swap lines with the original five advanced-economy central banks 
+remain in place . However, the Fed allowed the temporary dollar swap lines with the other 
+nine central banks to expire on December 31, 2021 (Hoffner 2023). Sweden and South Korea, 
+both of which were recipients of the temporary swap lin es, announced their FIMA access in 
+December 2021 (Roh 2021; Riksbank 2021). 
+  
+571
+Journal of Financial Crises Vol. 5 Iss. 1
+
+--- Page 17 ---
+References and Key Program Documents 
+Summary of Program 
+(FRB 2020a) Federal Reserve Board of Governors (FRB). 2020a. “FIMA Repo Facility FAQs.” 
+March 31, 2020. 
+Document listing FIMA repo FAQs. 
+https://ypfs.som.yale.edu/node/22418/ 
+(FRB 2022a) Federal Reserve Board of Governors (FRB). 2022a. “FIMA Repo Facility FAQs 
+(Updated).” March 24, 2022. 
+Updated FIMA repo facility FAQs. 
+https://ypfs.som.yale.edu/node/22419/ 
+(FRB 2023) Federal Reserve Board of Governors (FRB). 2023. “Federal Open Market 
+Committee.” 2023. 
+Landing page for the FOMC. 
+https://ypfs.som.yale.edu/node/22931 
+(FRBNY n.d.a) Federal Reserve Bank of New York (FRBNY). n.d.a. “Central Bank & 
+International Account Services.” Accessed December 6, 2022. 
+Site detailing the New York Fed’s account services for foreign official and international 
+institutions. 
+https://ypfs.som.yale.edu/node/22420/ 
+(HKMA 2020a) Hong Kong Monetary Authority (HKMA). 2020a. “US Dollar Liquidity 
+Facility–Summary of Terms.” April 22, 2020. 
+Annex document describing HKMA dollar facility terms. 
+https://ypfs.som.yale.edu/node/22932 
+Legal/Regulatory Guidance 
+(FOMC 2020a) Federal Open Market Committee (FOMC). 2020a. “Authorization for 
+Domestic Open Market Operations.” January 28, 2020. 
+Directive authorizing reserve bank open market operations, as amended effective 1/28/2020. 
+https://ypfs.som.yale.edu/node/22421/ 
+(FOMC 2020b) Federal Open Market Committee (FOMC). 2020b. “Federal Open Market 
+Committee Rules and Authorizations (January 2020).” January 28, 2020. 
+Annual pamphlet containing FOMC rules and authorizations. 
+https://ypfs.som.yale.edu/node/22422/ 
+(FOMC 2020c) Federal Open Market Committee (FOMC). 2020c. “Authorization for 
+Domestic Open Market Operations.” March 31, 2020. 
+Directive authorizing reserve bank open market operations, as amended effective 3/31/2020. 
+https://ypfs.som.yale.edu/node/22426/ 
+572
+United States: FIMA Repo Facility Kelly
+
+--- Page 18 ---
+(FOMC 2020d) Federal Open Market Committee (FOMC). 2020d. “FIMA Desk Resolution.” 
+July 28, 2020. 
+Resolution prescribing the FRBNY’s FIMA operations. 
+https://ypfs.som.yale.edu/node/22427/ 
+(FOMC 2021) Federal Open Market Committee (FOMC). 2021. “Standing FIMA Repurchase 
+Agreement Resolution.” July 27, 2021. 
+Resolution prescribing the FRBNY’s FIMA operations. 
+https://ypfs.som.yale.edu/node/22428/ 
+(FRB 1962) Federal Reserve Board of Governors (FRB). 1962. “12 CFR § 214.5–Accounts 
+with Foreign Banks.” Regulation N, February 22, 1962. 
+Board regulation outlining authorities related to foreign accounts. 
+https://ypfs.som.yale.edu/node/22429/ 
+(US Congress n.d.a) US Congress. n.d.a. Section 11 of the Federal Reserve Act. 
+Section of the Federal Reserve Act including disclosure requirements. 
+https://ypfs.som.yale.edu/node/19204/ 
+(US Congress n.d.b) US Congress. n.d.b. Section 14 of the Federal Reserve Act.  
+Section of the Federal Reserve Act describing open market operation authorities. 
+https://ypfs.som.yale.edu/node/16232/ 
+Media Stories 
+(Roh 2021) Roh, Joori. 2021. “S.Korea c.Bank to Join Federal Reserve’s FIMA Repo Facility.” 
+Reuters, December 23, 2021. 
+Article reporting Bank of Korea announcement. 
+https://ypfs.som.yale.edu/node/22933/ 
+Press Releases/Announcements 
+(BCCh 2020) Banco Central de Chile (BCCh). 2020. “International Financing Lines with 
+Central Banks.” Press release, June 24, 2020. 
+Central Bank of Chile press release announcing FIMA access (in Spanish). 
+https://ypfs.som.yale.edu/node/22430/ 
+(BI 2020) Bank Indonesia (BI). 2020. “Latest Developments in the Economy and BI Steps in 
+Facing COVID-19.” Press release, April 7, 2020. 
+Bank Indonesia announcement of FIMA repo line (in Indonesian). 
+https://ypfs.som.yale.edu/node/22448/ 
+(BOG 2020) Bank of Ghana (BOG). 2020. “Monetary Policy Committee Press Release.” Press 
+release, May 15, 2020. 
+Press release from Ghana’s central bank describing monetary developments, including a FIMA 
+agreement. 
+https://ypfs.som.yale.edu/node/22770/ 
+573
+Journal of Financial Crises Vol. 5 Iss. 1
+
+--- Page 19 ---
+(BR 2020) Banco de la República (BR). 2020. “Banco de La República Gets Access to Repos 
+with the Federal Reserve.” Press release, April 20, 2020. 
+Central Bank of Colombia press release announcing FIMA access. 
+https://ypfs.som.yale.edu/node/22431/ 
+(CBSL 2020) Central Bank of Sri Lanka (CBSL). 2020. “The Central Bank Clarifies Its 
+Repurchase Agreement with the Federal Reserve Bank, New York.” Press release, July 24, 
+2020. 
+Press release announcing FIMA access. 
+https://ypfs.som.yale.edu/node/22432/ 
+(FRB 2020b) Federal Reserve Board of Governors (FRB). 2020b. “Coordinated Central Bank 
+Action to Enhance the Provision of U.S. Dollar Liquidity.” Press release, March 15, 2020. 
+Press release announcing expansion of standing swaps. 
+https://ypfs.som.yale.edu/node/22433/ 
+(FRB 2020c) Federal Reserve Board of Governors (FRB). 2020c. “Federal Reserve 
+Announces the Establishment of Temporary U.S. Dollar Liquidity Arrangements with Other 
+Central Banks.” Press release, March 19, 2020. 
+Press release announcing 10 new temporary swaps. 
+https://ypfs.som.yale.edu/node/22434/ 
+(FRB 2020d) Federal Reserve Board of Governors (FRB). 2020d. “Federal Reserve 
+Announces Extensive New Measures to Support the Economy.” Press release, March 23, 
+2020. 
+Press release announcing Fed’s expanded Treasury purchases, among other measures. 
+https://ypfs.som.yale.edu/node/22435/ 
+(FRB 2020e) Federal Reserve Board of Governors (FRB). 2020e. “Federal Reserve 
+Announces Establishment of a Temporary FIMA Repo Facility to Help Support the Smooth 
+Functioning of Financial Markets.” Press release, March 31, 2020. 
+Press release announcing creation of the FIMA Repo Facility. 
+https://ypfs.som.yale.edu/node/22436/ 
+(FRB 2020f) Federal Reserve Board of Governors (FRB). 2020f. “Federal Reserve Board 
+Announces Temporary Change to Its Supplementary Leverage Ratio Rule to Ease Strains in 
+the Treasury Market Resulting from the Coronavirus and Increase Banking Organizations’ 
+Ability to Provide Credit to Households and Businesses.” Press release, April 1, 2020. 
+Press release announcing the easing of banks’ SLR requirement. 
+https://ypfs.som.yale.edu/node/22437/ 
+(FRB 2020g) Federal Reserve Board of Governors (FRB). 2020g. “Federal Reserve Board 
+Announces the Extensions of Its Temporary U.S. Dollar Liquidity Swap Lines and the 
+Temporary Repurchase Agreement Facility for Foreign and International Monetary 
+Authorities (FIMA Repo Facility) through March 31, 2021.” Press release, July 29, 2020. 
+Press release announcing first extension of the FIMA Repo Facility. 
+https://ypfs.som.yale.edu/node/22438/ 
+574
+United States: FIMA Repo Facility Kelly
+
+--- Page 20 ---
+(FRB 2020h) Federal Reserve Board of Governors (FRB). 2020h. “Federal Reserve 
+Announces the Extension of Its Temporary U.S. Dollar Liquidity Swap Lines and the 
+Temporary Repurchase Agreement Facility for Foreign and International Monetary 
+Authorities (FIMA Repo Facility) through September 30, 2021.” Press release, December 
+16, 2020. 
+Press release announcing second extension of the FIMA Repo Facility. 
+https://ypfs.som.yale.edu/node/22439/ 
+(FRB 2021a) Federal Reserve Board of Governors (FRB). 2021. “Statement Regarding 
+Repurchase Agreement Arrangements.” Press release, July 28, 2021. 
+Press release announcing the conversion of the FIMA Repo facility to a standing facility. 
+https://ypfs.som.yale.edu/node/22440/ 
+(HKMA 2020b) Hong Kong Monetary Authority (HKMA). 2020b. “US Dollar Liquidity 
+Facility.” Press release, April 22, 2020. 
+Hong Kong central bank release revealing its FIMA access. 
+https://ypfs.som.yale.edu/node/22441/ 
+(HKMA 2020c) Hong Kong Monetary Authority (HKMA). 2020c. “US Dollar Liquidity 
+Facility Tender Result.” Press release, May 6, 2020. 
+Press release announcing results of FIMA-backed dollar tender. 
+https://ypfs.som.yale.edu/node/22442/ 
+(HKMA 2021) Hong Kong Monetary Authority (HKMA). 2021. “US Dollar Liquidity Facility.” 
+Press release, July 30, 2021. 
+Press release describing new standing HKMA dollar facility tied to FIMA. 
+https://ypfs.som.yale.edu/node/22934/ 
+(Riksbank 2021) Sveriges Riksbank (Riksbank). 2021. “Riksbank Joins the Federal 
+Reserve’s Repo Facility in USD.” Press release, December 20, 2021. 
+Press release announcing FIMA membership. 
+https://ypfs.som.yale.edu/node/22935 
+Reports/Assessments 
+(Bertaut, von Beschwitz, and Curcuru 2021) Bertaut, Carol, Bastian von Beschwitz, and 
+Stephanie Curcuru. 2021. “The International Role of the U.S. Dollar,” October 6, 2021.   
+Research note from Fed economists.  
+https://ypfs.som.yale.edu/node/23020/ 
+(BNM 2020) Bank Negara Malaysia (BNM). 2020. “Discussion Summary: Financial Markets 
+Committee Meeting.” April 9, 2020. 
+Meeting minutes for the Bank Negara Malaysia’s Financial Markets Committee mentioning 
+FIMA Repo Facility access. 
+https://ypfs.som.yale.edu/node/22771/ 
+575
+Journal of Financial Crises Vol. 5 Iss. 1
+
+--- Page 21 ---
+(Choi et al. 2022) Choi, Mark, Linda S. Goldberg, Robert Lerman, and Fabiola Ravazzolo. 
+2022. “The Fed’s Central Bank Swap Lines and Fima Repo Facility.” Federal Reserve Bank of 
+New York, Economic Policy Review 28, no. 1: 93–113, June 2022. 
+Fed press release announcing the reinstatement of dollar liquidity swap lines with the ECB, 
+BoC, BoE, and SNB. 
+https://ypfs.som.yale.edu/node/22462/ 
+(FOMC 2020e) Federal Open Market Committee (FOMC). 2020e. “Minutes of the Federal 
+Open Market Committee, April 28–29, 2020.” May 20, 2020. 
+Minutes detailing the FOMC meeting of April 28-29, 2020. 
+https://ypfs.som.yale.edu/node/22443/ 
+(FOMC 2020f) Federal Open Market Committee (FOMC). 2020f. “Minutes of the Federal 
+Open Market Committee, July 28–29, 2020.” August 19, 2020. 
+Minutes detailing the FOMC meeting of July 28-29, 2020. 
+https://ypfs.som.yale.edu/node/22444/ 
+(FRB n.d.) Federal Reserve Board of Governors (FRB). n.d. “Factors Affecting Reserve 
+Balances–H.4.1–Release Dates.” 
+Weekly release detailing the Fed’s balance sheet. 
+https://ypfs.som.yale.edu/node/22445/ 
+(FRB 2021b) Federal Reserve Board of Governors (FRB). 2021. “Interest Rate on Excess 
+Reserves (DISCONTINUED).” January 28, 2021. 
+FRED page sharing historical data on the Fed’s interest rate on excess reserves. 
+https://ypfs.som.yale.edu/node/22465/ 
+(FRB 2022b) Federal Reserve Board of Governors (FRB). 2022b. “Assets: Other: 
+Repurchase Agreements–Foreign Official: Wednesday Level.” December 3, 2022. 
+FRED data listing foreign repo volume with the Fed. 
+https://ypfs.som.yale.edu/node/22131 
+(FRBNY n.d.b) Federal Reserve Bank of New York (FRBNY). n.d.b. “Central Bank Liquidity 
+Swap Operations.” 
+Site disclosing details of central bank swap operations. 
+https://ypfs.som.yale.edu/node/22466/ 
+(FRBNY n.d.c) Federal Reserve Bank of New York (FRBNY). n.d.c. “Historical Transaction 
+Data.” 
+Site releasing domestic open market, securities lending, and foreign currency operations. 
+https://ypfs.som.yale.edu/node/22464/ 
+(FRBNY 2021) Federal Reserve Bank of New York (FRBNY). 2021. “Open Market 
+Operations during 2020.” May 24, 2021. 
+Annual FRBNY report describing the Fed’s market activity. 
+https://ypfs.som.yale.edu/node/18538/ 
+576
+United States: FIMA Repo Facility Kelly
+
+--- Page 22 ---
+(FRS 2020) Federal Reserve System (FRS). 2020. “Discount Window Margins Effective July 
+1, 2019 to June 30, 2021.” July 8, 2020. 
+Chart outlining the Fed’s discount window collateral schedule. 
+https://ypfs.som.yale.edu/node/22132 
+(FSC 2020) Committee on Financial Services (FSC). 2020. “Monetary Policy and the State of 
+the Economy.” Virtual hearing, June 17, 2020. 
+Transcript of congressional committee proceedings, including written responses. 
+https://ypfs.som.yale.edu/node/22446/ 
+(Potter 2017) Potter, Simon. 2017. “Keynote Remarks for the Commemoration of the 
+Centennial of the Federal Reserve’s U.S. Dollar Account Services to the Global Official 
+Sector.” Speech delivered at the Federal Reserve Bank of New York, New York, NY, 
+December 20, 2017. 
+Speech from FRBNY official describing banking services provided to the foreign official sector. 
+https://ypfs.som.yale.edu/node/22447/ 
+(Pozsar 2020) Pozsar, Zoltan. 2020. “U.S. Dollar Libor and War Finance.” Credit Suisse, 
+Global Money Notes No. 29, April 14, 2020. 
+Credit Suisse note discussing FIMA pricing. 
+https://ypfs.som.yale.edu/node/19020/ 
+(Singh 2023) Singh, Daleep. 2023. “Lessons Learned Interview by Steven Kelly, November 
+19, 2022.” Yale Program on Financial Stability Lessons Learned Oral History Project. 
+Transcript. 
+Transcript of YPFS interview with Daleep Singh. 
+https://ypfs.som.yale.edu/library/ypfs-lesson-learned-oral-history-project-interview-
+daleep-singh 
+(Smialek 2023) Smialek, Jeanna. 2023. “Limitless: The Federal Reserve Takes on a New Age 
+of Crisis.” New York: Alfred A. Knopf. February 28, 2023. 
+Book covering the Federal Reserve pandemic response. 
+https://ypfs.som.yale.edu/node/22773/ 
+(US Treasury 2021) US Department of the Treasury (US Treasury). 2021. “Major Foreign 
+Holders of Treasury Securities.” June 15, 2021. 
+US Treasury’s Treasury International Capital (TIC) data describing foreign holdings of US 
+Treasuries. 
+https://ypfs.som.yale.edu/node/22740 
+(YPFS 2022) Yale Program on Financial Stability (YPFS). 2022. “COVID-19 Financial 
+Response Tracker Visualization (CFRTV).” 2022. 
+Database tracking financial responses to COVID-19. 
+https://som.yale.edu/centers/program-on-financial-stability/covid-19-tracker 
+  
+577
+Journal of Financial Crises Vol. 5 Iss. 1
+
+--- Page 23 ---
+Key Academic Papers 
+(French 2023) French, Jack. 2023. “United States: Central Bank Swaps to 14 Countries, 
+2007–2009.” Journal of Financial Crises 5, no. 1. 
+Case study discussing 2008 Fed swap lines. 
+https://elischolar.library.yale.edu/journal-of-financial-crises/vol5/iss1/20 
+(Goldberg and Ravazzolo 2021a) Goldberg, Linda, and Fabiola Ravazzolo. 2021a. “Do the 
+Fed’s International Dollar Liquidity Facilities Affect Offshore Dollar Funding Markets and 
+Credit?” Federal Reserve Bank of New York, Liberty Street Economics, December 20, 2021. 
+Note discussing research findings. 
+https://ypfs.som.yale.edu/node/22463/ 
+(Goldberg and Ravazzolo 2021b) Goldberg, Linda, and Fabiola Ravazzolo. 2021b. “The 
+Fed’s International Dollar Liquidity Facilities: New Evidence on Effects.” Federal Reserve 
+Bank of New York Staff Report No. 997, December 20, 2021. 
+FRBNY staff research paper describing market impact of swaps and FIMA repos. 
+https://ypfs.som.yale.edu/node/22772/ 
+(Hoffner 2023) Hoffner, Benjamin. 2023. “United States: Central Bank Swaps to 14 
+Countries, 2020.” Journal of Financial Crises 5, no. 1. 
+Case study discussing 2020 Fed swap lines. 
+https://elischolar.library.yale.edu/journal-of-financial-crises/vol5/iss1/21 
+  
+578
+United States: FIMA Repo Facility Kelly
+
+--- Page 24 ---
+Appendix 
+Figure 2: FIMA Repo Facility Execution Process 
+ 
+Source: Choi et al. 2022.  
+Copyright 2023 © Yale University. All rights reserved. To order copies of this material or to receive 
+permission to reprint any or all of this document, please contact the Yale Program on Financial 
+Stability at ypfs@yale.edu. 
+579
+Journal of Financial Crises Vol. 5 Iss. 1

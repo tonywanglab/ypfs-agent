@@ -1,0 +1,817 @@
+--- Page 1 ---
+Journal of Financial Crises Journal of Financial Crises 
+Volume 1 Issue 2 
+2019 
+JPMorgan Chase London Whale A: Risky Business JPMorgan Chase London Whale A: Risky Business 
+Arwin G. Zeissler 
+Yale School of Management 
+Daisuke Ikeda 
+Bank of Japan 
+Andrew Metrick 
+Yale School of Management 
+Follow this and additional works at: https://elischolar.library.yale.edu/journal-of-financial-crises 
+ Part of the Banking and Finance Law Commons, Bankruptcy Law Commons, Business Organizations 
+Law Commons, Economic History Commons, Finance Commons, Finance and Financial Management 
+Commons, and the Organizations Law Commons 
+Recommended Citation Recommended Citation 
+Zeissler, Arwin G.; Ikeda, Daisuke; and Metrick, Andrew (2019) "JPMorgan Chase London Whale A: Risky 
+Business," Journal of Financial Crises: Vol. 1 : Iss. 2, 40-59. 
+DOI: https://doi.org/10.17132/2693-3179.1013 
+Available at: https://elischolar.library.yale.edu/journal-of-financial-crises/vol1/iss2/2 
+This Case Study is brought to you for free and open access by the Journal of Financial Crises and 
+EliScholar – A Digital Platform for Scholarly Publishing at Yale. For more information, please contact 
+journalfinancialcrises@yale.edu.
+
+--- Page 2 ---
+READERS TAKE NOTICE: READERS TAKE NOTICE: 
+As of April 2024, the YPFS Resource Library’s site domain has changed 
+to https://elischolar.library.yale.edu/ypfs-financial-crisis-resource-library/. 
+Please be aware that upon clicking any of the URL references to 
+the former Resource Library domains, either https://ypfs.som.yale.edu 
+or https://ypfsresourcelibrary.blob.core.windows.net/, in the 
+"References/Key Program Documents" section of a case study, 
+readers will encounter a "page not found" error. readers will encounter a "page not found" error. 
+Readers can still retrieve a given resource cited within this case study 
+on the new site  by searching by searching here  for the title cited. for the title cited. 
+This case study is available in Journal of Financial Crises: https://elischolar.library.yale.edu/journal-of-financial-
+crises/vol1/iss2/2
+
+--- Page 3 ---
+JPMorgan Chase London Whale A: Risky Business 1 
+ 
+Arwin G. Zeissler 2 
+Daisuke Ikeda 3 
+Andrew  Metrick 4 
+ 
+ 
+Yale Program on Financial Stability Case S tudy 2014 -2a-v1 
+December 1, 2014  Revised: July 17, 2015  
+Abstract 
+In December 2011, the Chief Executive Officer and Chief Financial Officer of JPMorgan 
+Chase (JPM) instructed the bank’s Chief Investment Office to reduce the size of its 
+Synthetic Credit Portfolio (SCP) during 2012, so that JPM could decrease its Risk -
+Weighted Assets as the ban k prepared to adopt the impending Basel III bank capital 
+regulations. However, the SCP traders were also told to minimize the trading costs 
+incurred to reduce Risk -Weighted Assets, while still maintaining the opportunity to 
+profit from unexpected corporate  bankruptcies. In an attempt to balance these 
+competing objectives, head SCP derivatives trader Bruno Iksil suggested in January 
+2012 that the SCP expand a strategy first implemented in 2011 of buying  large 
+volumes of certain credit derivatives, while simu ltaneously selling large volumes of 
+other credit derivatives.  The strategy quickly proved unsuccessful, and JPM’s Chief 
+Investment Officer ordered Iksil and the other SCP traders to halt this strategy on 
+March 23. However, losses continued to mount as the credit derivative positions were 
+unwound, ultimately reaching $6.2 billion by December 2012. 
+_____________________________________________________________________ 
+1 This case study is one of nine produced by the Yale Program on Financial Stability (YPFS) examining 
+issues related to the JPMorgan Chase London Whale. The following are the other case studies in this 
+case series. 
+• JPMorgan Chase London Whale B: Derivatives Valuation 
+• JPMorgan Chase London Whale C: Risk Limits, Metrics, and Models 
+• JPMorgan Chase London Whale D: Risk-Management Practices 
+• JPMorgan Chase London Whale E: Supervisory Oversight 
+• JPMorgan Chase London Whale F: Required Securities Disclosures  
+• JPMorgan Chase London Whale G: Hedging Versus Proprietary Trading 
+• JPMorgan Chase London Whale H: Cross-Border Regulation 
+• JPMorgan Chase London Whale Z: Background and Overview 
+Cases are available at the Journal of Financial Crises. 
+2 Project Editor, Case Study and Research, YPFS, Yale School of Management  
+3 Director and Senior Economist, Deputy Head of Economic Studies Group, Institute for Monetary and 
+Economic Studies, Bank of Japan. The views expressed are those of the author(s) and  do not 
+necessarily reflect the official views of the Bank of Japan. 
+4  Janet L. Yellen Professor of Finance and Management, and YPFS Program Director, Yale School of  
+Management 
+40
+
+--- Page 4 ---
+1. Introduction 
+Amid a generally improving corporate credit market in late 2011 and early 2012, Bruno Iksil 
+and a small team of derivatives traders in the London office of JPMorgan Chase & Company 
+(JPM) were given a conflicting set of mandates by the bank’s management.  Among other 
+things, the traders were told to rapidly reduce the risk of their derivatives portfolio while 
+also minimizing the trading costs o f doing so.  Iksil and the team developed a complex 
+strategy of buying and selling very large volumes of many different credit derivatives in an 
+attempt to balance these competing objectives.  Unfortunately, this strategy proved 
+unsuccessful, ultimately cost ing the bank over $6 billion and the traders their jobs, while 
+earning Iksil notoriety as the “London Whale.” 
+After emerging from the financial crisis of 2007-09 in better condition than many of its rivals, 
+JPM grew to become the largest United States (US) bank holding company, with almost $2.3 
+trillion in total assets as of December 31, 2011. Since JPM consistently had a higher balance 
+of customer deposits than of loans, the bank needed a way to profitably and safely invest 
+these excess deposits, and this task became the primary responsibility of the bank’s Chief 
+Investment Office (CIO). By year -end 2011, CIO was managing a $350 billion pool of assets 
+that arose from uninsured corporate and (largely) insured consumer deposits. 
+One of CIO’s secondary functio ns was to partially offset the default risk to which JPM was 
+exposed as part of its core lending activities, the risk that someone who borrowed from JPM 
+might not repay their loan.  This default risk was to be mitigated by CIO’s Synthetic Credit 
+Portfolio (SCP), which was run by senior trader Iksil, junior trader Julien Grout, and their 
+supervisor Javier Martin-Artajo. The SCP, which ultimately proved to be the source of the $6 
+billion loss, consisted of long and short positions in various credit default swa ps and other 
+credit derivatives. On balance, the SCP trading book was a net purchaser of credit protection, 
+since it was intended to help hedge the credit risks facing the bank. 
+In December 2011, JPM Chief Executive Officer Jamie Dimon and Chief Financial Officer 
+Douglas Braunstein instructed CIO to reduce the size of the SCP during 2012, so that JPM 
+could minimize its Risk -Weighted Assets (RWA) and capital requirements as the bank 
+prepared to adopt the Basel III bank capital regulations. Martin-Artajo, Iksil, and Grout faced 
+a conflicting set of mandates from their superiors, starting with this directive to reduce RWA. 
+The credit derivatives being used to help hedge the bank’s credit risks had a limited maturity 
+(up to 10 years) and simply could have been a llowed to expire, but this would have taken 
+longer than the deadline to decrease RWA.  Another option available to the CIO traders was 
+to cancel (i.e., unwind) the default protection owned by SCP, but this would have cost about 
+$500 million, and Chief Inves tment Officer Ina Drew was not willing to incur this cost.  
+Furthermore, Drew encouraged the CIO traders to repeat the windfall gain they earned after 
+the bankruptcy of American Airlines in November 2011 and to avoid the unexpected loss 
+they incurred after the Eastman Kodak bankruptcy in January 2012.  Both of these latter 
+objectives would require the purchase of additional default protection, in direct opposition 
+to the directive to reduce the size of the SCP book. 
+In response to these competing objectives, Iksil suggested in late January 2012 the expansion 
+of a strategy first implemented in 2011 to buy credit protection on (higher risk) high -yield 
+companies, while funding some of the premium cost by selling protection on (lower risk) 
+investment-grade compani es. In other words, by selling credit protection on investment -
+grade entities, CIO would receive premium income, which it would in turn use to pay 
+premiums on the credit insurance purchased on high-yield entities. 
+41
+Journal of Financial Crises Vol. 1 Iss. 2
+
+--- Page 5 ---
+The resulting rapid increase in trading ac tivity caused the net notional size of the SCP 
+portfolio to triple from $51 billion at year -end 2011 to $157 billion by March 31, 2012.  
+Unfortunately, the trading strategy was not successful, as changes in credit spreads caused 
+the value of protection owne d by SCP to decrease more rapidly than did the value of 
+protection that the traders had sold. The SCP incurred losses of $100 million in January 2012 
+and $69 million in February, increasing to $550 million in March as the size of the trading 
+positions grew. When SCP caused CIO to exceed a particular risk limit on March 23 that Drew 
+considered to be the most important risk limit, she ordered Iksil and his team to stop trading. 
+Soon thereafter, Bloomberg and the Wall Street Journal  published the first accounts of the 
+“London Whale” on April 6. 
+Even though active trading of the SCP book may have stopped in March 2012, the long and 
+short credit derivative positions still existed, and losses continued to escalate even as the 
+SCP book was being unwound.  Most SCP derivatives were transferred to JPM’s Investment 
+Bank, which closed out these positions during the remainder of the year, but JPM’s losses 
+from the London Whale incident nevertheless ultimately totaled $6.2 billion by December 
+2012. 
+The remainder of the case is organized as follows: Section 2 explains the history and role of 
+CIO, including its primary function of managing JPM’s excess deposits and a secondary 
+function of helping the bank offset some of the default risk it faces.  Section 3 describes the 
+evolution of the SCP from 2008 through 2011.  Section 4 discusses in detail the conflicting 
+and contradictory mandates imposed on the traders of the SCP book in November 2011 
+through January 2012. Sections 5 and 6 present in detail Ik sil’s trading strategy to balance 
+the competing objectives placed upon his team and the poor outcome of that strategy, 
+respectively. Section 7 concludes with a discussion of the aftermath of the London Whale 
+trades, including media scrutiny of the CIO loss es, effective liquidation of the SCP trading 
+book, and regulatory action against JPM.  See Appendix 1  for a timeline of key events 
+pertinent to this case module. 
+Questions 
+1. Why would a bank like JPM have an in-house investment arm that holds fixed income 
+securities and actively buys and sells derivatives? 
+2. How did competing objectives and credit derivatives’ inherent illiquidity influence 
+the SCP traders’ choice of strategy? 
+3. How did market events and trader actions cause the strategy to fail? 
+2. History and Role of the Chief Investment Office 
+Though JPM provides a wide variety of financial services, its commercial bank subsidiaries 
+continue to engage in the basic banking functions of taking deposits and making loans.  In 
+recent years, the amount of money loaned by JPM was routinely less than the amount of 
+deposits held by the bank on behalf of its customers. For example, as can be seen in Figure 1, 
+JPM reported $1.128 trillion of deposits at December 31, 2011, but only $724 billion of loan 
+balances receivable. 
+As a result, JPM needed a way to profitably and safely invest these excess deposits, and this 
+task was assigned to and became the primary responsibility of the bank’s CIO.  The CIO unit 
+was spun off from the internal treasury department in 2005 as a separate group within JPM. 
+Ina Drew, who served as JPM’s Chief Investment Officer, was appointed to lead the CIO. 
+42
+JPMorgan Chase London Whale A: Risky Business Zeissler et al.
+
+--- Page 6 ---
+CIO invested the bank’s excess deposits in Treasury bonds and other investment-grade (high 
+quality) fixed -income securities, including corporate, munic ipal, and asset -backed bonds.  
+This conservative investment approach was consistent with how other banks managed 
+excess deposits, and the average credit rating for CIO’s investments was AA+.  By year-end 
+2011, CIO was managing a $350 billion bond portfolio that arose from a mixture of uninsured 
+corporate and (largely) insured consumer deposits (US Senate Report, 22). 
+Figure 1: JPMorgan Chase Deposit & Loan Balances as of December 31:  
+ 
+Source: JPM 10-K 2011, 62. 
+ 
+CIO had various additional responsibilities, including funding JPM’s retirement plans, as well 
+as hedging risks associated with interest rates and mortgage servicing rights on behalf of 
+other units within the bank. An important secondary function of CIO was to help JPM reduce 
+its credit risk. As a bank, a major risk facing JPM is credit risk, also known as default risk, the 
+possibility that someone who had borrowed from the bank (either directly in the form of a 
+loan, or indirectly via the fixed income securities owned by CIO or other units of the bank) is 
+unwilling and/or unable to repay the money when due. 
+Achilles Macris, the International Chief Investment Officer and Drew’s subordinate, 
+submitted a request to begin trading credit derivatives, such as credit default swap s, as a 
+43
+Journal of Financial Crises Vol. 1 Iss. 2
+
+--- Page 7 ---
+business hedge to “effectively manage residual exposures created by [JPM’s] operating 
+businesses” ( US Senate Exhibits, 36 -37). CIO approved this proposal in May 2006.  The 
+approval document indicated that the proposal did not need to be approved by CIO’s primary 
+regulator, which is the Office of the Comptroller of the Currency (OCC). 
+A derivative is a financial instrument whose value is derived from the value of some other 
+security. The value of a credit derivative is derived from the creditworthines s of an 
+underlying fixed income security. One simple type of credit derivative is a credit default swap 
+(CDS). A CDS contract is similar to an insurance contract in certain aspects. One party to the 
+contract sells insurance or credit protection to the seco nd party against the possibility that 
+one or more borrower(s) named in the contract default(s) on a debt, such as by filing for 
+bankruptcy. The protection buyer periodically pays premiums to the protection seller, 
+similar to insurance premiums. The protection buyer is said to be “long protection” or “short 
+credit risk,” whereas the protection seller is said to be “short protection” or “long credit risk.” 
+However, unlike most insurance policies, a CDS contract does not require the protection 
+buyer to have ac tual exposure to the underlying risk.  In fact, a protection buyer and seller 
+can use CDS to speculate on future changes in creditworthiness. 
+3. Evolution of the Synthetic Credit Portfolio (2008 through 2011) 
+As discussed in Section 2 , a major risk facing c ommercial banks including JPM is credit 
+risk/default risk. Thus, in addition to its high -quality bond holdings, CIO purchased default 
+protection using credit derivatives to partially hedge JPM’s exposure to default risk that 
+arose as part of its core business activities. At what point in time this credit trading program 
+acquired the name “Synthetic Credit Portfolio” remains unclear, but it certainly was the case 
+by 2008, according to the OCC. 
+Three CIO employees were responsible for the SCP on a daily basis. Javier Martin-Artajo, the 
+head of credit and equity trading, reported to Macris and directly oversaw the SCP.  Bruno 
+Iksil, who would come to be known as the “London Whale ,” reported to Martin -Artajo and 
+was the head SCP trader. Julien Grout was a junior trader and reported to Iksil. 
+The SCP expanded over time, both as CIO traders gained more experience trading credit 
+derivatives and as the market for such products grew. JPM’s acquisitions of Bear Stearns and 
+Washington Mutual Bank in 2008 during th e financial crisis brought in more funds to CIO, 
+and the SCP grew as a result. Nevertheless, SCP’s revenues varied considerably from one year 
+to the next, as can be seen in Figure 2. As explained by JPM risk personnel, the overall strategy 
+at this time was  simple: to buy more default protection when market participants were 
+worried about the outlook for the economy, and to purchase less protection as worries 
+lessened. 
+  
+44
+JPMorgan Chase London Whale A: Risky Business Zeissler et al.
+
+--- Page 8 ---
+Figure 2: CIO Synthetic Credit Portfolio Revenue, 2008-2011 
+Year SCP Revenue (millions) 
+2008 $170 
+2009 $1,050 
+2010 $149 
+2011 $453 
+Total $1,772 
+Source: US Senate Report, 56. 
+ 
+The SCP generated more than $1 billion in revenue in 2009, largely from having purchased 
+protection against the bankruptcy filing of General Motors. As volatility and default rates 
+decreased in 2010, the SCP was reduced in size, ending the year with a “net notional” size of 
+$4 billion and generating only $149 million of revenue for the year.  The “notional” amount 
+of a CDS contract is akin to th e amount of insurance coverage purchased, not the much 
+smaller annual premium paid ( Markit, 6). CIO held both long -risk and short -risk positions, 
+and the “net” of the various notional positions was $4 billion.  CIO’s previously positive 
+outlook for the cred it markets did an about -face in 2011, as concerns over the European 
+sovereign debt crisis and general bearishness in the financial markets caused the traders to 
+increase the amount of credit protection held by the SCP. 
+Of future consequence, in 2011, Iksil and his fellow traders embarked on a strategy of buying 
+credit protection on (higher risk) high-yield companies, while funding some of the premium 
+cost by simultaneously selling protection on (lower risk) investment -grade companies. CIO 
+would receive premium income by selling insurance on less risky investment-grade entities, 
+which it would in turn use to pay the premiums on the credit insurance purchased on more 
+risky high -yield entities.  Thus, CIO was exposed to default by lower risk companies, but 
+protected against default of higher risk companies. In the aggregate, SCP remained in a long 
+protection (short-risk) position at this time, consistent with its risk management purpose.  
+Although the large trades that ultimately caught the attention of the media took place during 
+the first quarter of 2012, the net notional size of the SCP book had already grown greatly 
+throughout 2011, from $4 billion at year -end 2010 to $51 billion by year -end 2011.  See 
+Appendix 2. 
+4. Conflicting Mandates (November 2011 through January 2012) 
+Several events in late 2011 and early 2012 illustrate the conflicting mandates faced by the 
+CIO traders and set the stage for the disastrous expansion of the SCP book in the first quarter 
+of 2012. 
+First, beginning in summer 2011 and conti nuing through the fall, Iksil bought credit 
+protection on a specific tranche of the CDX North American High Yield (CDX.NA.HY) index 
+that had been created by Markit (described further in Section 6 ). Iksil’s position had the 
+possibility to profit enormously, but only if two or more of the 100 high-yield companies in 
+the index declared bankruptcy or otherwise defaulted before the expiration of the contract 
+45
+Journal of Financial Crises Vol. 1 Iss. 2
+
+--- Page 9 ---
+on December 20, 2011.  Following the bankruptcy filings by Dynegy on November 7 and 
+American Airlines on November 29, JPM received a payout on the CDS contract, resulting in 
+profits on this trade variously estimated at between $400 million and $550 million.  Iksil’s 
+persistence in sticking with this high -risk strategy that could easily have resulted in a large 
+loss caused rival derivatives traders at hedge funds and other banks to call him the 
+“Caveman” (WSJ 2012c). 
+Though ultimately resulting in a profit, this trade should have sounded a note of caution 
+within CIO and JPM.  Had American Airlines filed for bankru ptcy just three weeks later (i.e., 
+after December 20), the large profit instead would have been replaced by a sizeable loss 
+because the default protection would have expired worthless.  Furthermore, without the 
+profit from this trade, the SCP would have onl y broken even for 2011.  Lastly, JPM has been 
+unable to explain how this trade acted as a hedge or other form of credit protection for the 
+bank (for example, if a different part of JPM had loaned money to American Airlines, an issue 
+that is explored further in Zeissler, et al 2014G). 
+Second, in December 2011, JPM Chief Executive Officer Jamie Dimon and JPM Chief Financial 
+Officer Douglas Braunstein ordered CIO to reduce its Risk Weighted Assets (RWA) as part of 
+a bank -wide effort to prepare for the new Basel III capital requirements.  As a federally 
+chartered bank, JPM is required to maintain a minimum amount of capital. To determine the 
+amount of capital needed, US bank regulators follow the recommendation of the Basel 
+Accords and require the calculation of RWA, which is a dollar measure of a bank’s total assets, 
+adjusted according to the riskiness of the assets. The amount of capital that a bank must hold 
+is then calculated as a percent of its RWA.  Since synthetic assets such as credit derivatives 
+would require far more capital under the upcoming Basel III regime than under its Basel II 
+predecessor, the main source of RWA reduction within CIO was to come from the SCP. 
+Furthermore, the economic environment was strengthening, and credit markets were also 
+expected to improve, so CIO had less need to hedge its $350 billion portfolio of available-for-
+sale debt securities. As a result, firm management and CIO management recommended that 
+the SCP book be moved to a more neutral risk posture (neither long nor short credit risk). 
+The most direct way of quickly reducing the size of the SCP, as measured by RWA, would be 
+to “unwind” the existing transactions in the book.  For example, if CIO had bought (or sold) 
+protection in the past on a certain index for a cert ain period of time, then traders could 
+unwind this position by selling (or buying) protection on the same index for the same 
+maturity. However, the initial purchase and later sale (or initial sale and later purchase) 
+would remain in the trading book, unles s both transactions were with the same 
+counterparty. 
+In contrast to unwinding a position in an exchange-traded and widely owned security (such 
+as common stock in a company that is part of the Dow Jones Industrial Average), even the 
+most actively traded CDS  contracts are illiquid and thus incur relatively large trading costs 
+to buy or sell.  In response to a request from Drew in late December 2011, the CIO traders 
+determined that reducing the SCP proportionally by approximately 1/3 would decrease 
+RWA by $10 b illion but would cost about $500 million if traders were to unwind positions 
+quickly at whatever prices were offered ( JPM Task Force 2013, 28 ). Drew was not pleased 
+by this analysis and asked the traders to further study how they could reduce RWA at a lower 
+cost. 
+This illustrates a fundamental conflict faced by all trading desks: faster risk reduction may 
+lead to higher costs and thus lower profits, while reducing risk at a slower pace can result in 
+higher profits. Risk can be reduced rapidly by offering to buy above the current market price 
+46
+JPMorgan Chase London Whale A: Risky Business Zeissler et al.
+
+--- Page 10 ---
+and offering to sell below the current market price, but such actions are costly and negatively 
+impact profitability. 
+The CIO traders had another incentive not to unwind the SCP portfolio. Drew told the traders 
+that she wanted them to achieve another gain in 2012 like the large profit they recorded as 
+the result of the American Airlines default in November 2011. However, reducing the amount 
+of credit protection held in the SCP would mean reducing the opportunities to prof it from 
+future defaults. 
+The bankruptcy filing of Eastman Kodak on January 19, 2012, caused the SCP book to suffer 
+a sizeable loss, resulting in yet another conflict for the traders.  The traders had sold 
+protection on Kodak during 2011 and hence were expos ed to a default by Kodak, but they 
+had also bought some offsetting protection to partially hedge this exposure.  Unfortunately, 
+part of the purchased protection expired in December 2011 and was not renewed due to the 
+effort to reduce RWA (the fair value of purchased credit protection is recorded as an asset 
+on the balance sheet).  Thus, having sold protection, CIO was required to make a large 
+payment when Kodak defaulted, causing the SCP to lose $50 million.  Iksil stated that CIO 
+management voiced concern tha t the SCP was no longer providing sufficient credit loss 
+protection and that the traders were instructed not to allow such a loss to happen again (US 
+Senate Report, 65). 
+Thus, by late January 2012, the CIO traders found themselves being instructed to reduc e 
+RWA rapidly  (while minimizing the cost of doing so ), and to maintain the possibility of 
+profiting from defaults such as American Airlines, and to avoid losses similar to the Eastman 
+Kodak bankruptcy. 
+After the JPMorgan Chase Management Task Force (JPM Task Force) conducted an internal 
+investigation into the CIO losses, the first key observation in its report issued January 2013 
+was the following: 
+By early 2012, CIO management, including Ms. Drew, had imposed multiple priorities on 
+the Synthetic Cre dit Portfolio.  These priorities included (1) balancing the risk in the 
+Synthetic Credit Portfolio, (2) reducing RWA, (3) managing profits and losses, (4) 
+managing or reducing VaR, and (5) providing “jump -to-default” protection. These 
+priorities were potentially in conflict, and the requirement that the traders satisfy all of 
+these goals appears to have prompted at least some of the complicated trading strategies 
+that led to the losses. (JPM Task Force 2013, 85) 
+5. The Decision Is Made (Late January 2012) 
+The Kodak bankruptcy on January 19 started a nine-day period in which the SCP lost money 
+every day. (See Appendix 3.) Global credit markets rallied in January on a more favorable 
+outlook for the US economy and reduced concern about sovereign default in Europ e. (See 
+Figure 3 and Figure 4.) As a result, the going rate for default protection decreased in January, 
+so protection buyers saw their existing positions decrease in value, while protection sellers 
+profited on their existing exposures. 
+  
+47
+Journal of Financial Crises Vol. 1 Iss. 2
+
+--- Page 11 ---
+Figure 3: US Corp orate Bond Option -Adjusted Spreads, First-Quarter 2011 through First-
+Quarter 2012:  
+ 
+ *  High Yield = BofA Merrill Lynch US High Yield Master II Option-Adjusted Spread 
+ ** Investment Grade = BofA Merrill Lynch US Corporate Master Option-Adjusted Spread 
+Source: Federal Reserve Bank of St. Louis. 
+ 
+Though Iksil bought protection on certain credit indices and tranches while selling 
+protection on other credit indices and tranches (as described more fully below and in Section 
+6), SCP’s net economic position at this time remained that of a protection buyer.  Thus, the 
+aggregate fair value of the SCP book decreased in January, with losses (including the Kodak-
+related loss) reaching $100 million by January 31. 
+Moreover, because US generally accepted accounting principles require that credit and other 
+derivatives be recorded at fair market value at the end of every trading day, the ongoing drop 
+in SCP value was reflected every day in CIO’s accounting records, and hence impacted JPM’s 
+bank-wide profit and loss. 
+48
+JPMorgan Chase London Whale A: Risky Business Zeissler et al.
+
+--- Page 12 ---
+Figure 4: US Corporate Bond Option-Adjusted Spreads, First-Quarter 2011 through First-
+Quarter 2012 
+Month-End 
+Spread High Yield* Investment 
+Grade** 
+Difference  
+(HY–IG) 
+Difference in the 
+Differences 
+2010-Dec 5.41% 1.66% 3.75% 
+ 
+2011-Jan 5.03% 1.60% 3.43% –0.32% 
+2011-Feb 4.72% 1.51% 3.21% –0.22% 
+2011-Mar 4.79% 1.50% 3.29% 0.08% 
+2011-Apr 4.71% 1.46% 3.25% –0.04% 
+2011-May 5.01% 1.54% 3.47% 0.22% 
+2011-Jun 5.80% 1.70% 4.10% 0.63% 
+2011-Jul 5.51% 1.65% 3.86% –0.24% 
+2011-Aug 7.50% 2.27% 5.23% 1.37% 
+2011-Sep 8.41% 2.57% 5.84% 0.61% 
+2011-Oct 6.85% 2.17% 4.68% –1.16% 
+2011-Nov 8.00% 2.65% 5.35% 0.67% 
+2011-Dec 7.38% 2.56% 4.82% –0.53% 
+2012-Jan 6.57% 2.28% 4.29% –0.53% 
+2012-Feb 6.01% 2.08% 3.93% –0.36% 
+2012-Mar 5.95% 1.92% 4.03% 0.10% 
+*  High Yield = BofA Merrill Lynch US High Yield Master II Option-Adjusted Spread 
+** Investment Grade = BofA Merrill Lynch US Corporate Master Option-Adjusted Spread 
+Source: Federal Reserve Bank of St. Louis. 
+ 
+(The topic of derivative valuation under US generally accepted accounting principles and at 
+JPM specifically is discussed in greater detail in Zeissler, et al. 2014B.) 
+Given the run of losses in the SCP book in late January and predictions of further losses, the 
+traders began to review their options  for managing the SCP, most of which involved taking 
+on additional credit risk because of the improving economy. Since credit default swaps have 
+a fixed maturity, typically 10 years from inception or less, one option would have been to 
+allow some or all of  the previously purchased credit protection to expire.  A quicker means 
+to the same end would have been to unwind (i.e., sell) some of the same credit protection 
+that had been bought previously. Another possible means to add credit risk would have been 
+to sell default protection on other credit indices and/or tranches. 
+49
+Journal of Financial Crises Vol. 1 Iss. 2
+
+--- Page 13 ---
+CIO management quickly dismissed the option of allowing the SCP to passively wind down 
+over time, since the SCP book was expected to drop further in value if the credit outlook 
+continued to im prove, and because SCP would have to pay premiums until the credit 
+protection expired. 
+The traders also decided against quickly unwinding the SCP book by disposing of its 
+positions. Trading costs from unwinding the portfolio were now estimated at almost $6 00 
+million, and Drew and Macris were reluctant to lose this much money.  Furthermore, 
+removing some of the long protection would have made it more difficult to obtain American 
+Airlines-style gains and to prevent Eastman Kodak-style losses. 
+Instead, Iksil de cided on a complex trading strategy, involving long and short positions on 
+numerous credit derivatives. The primary strategy involved buying credit protection against 
+the possible default of (higher risk) high -yield bonds, while simultaneously selling cred it 
+protection against (lower risk) investment -grade bonds.  This strategy is summarized in 
+Figure 5. 
+ 
+Iksil presented the proposed trading strategy at a meeting of the CIO International Senior 
+Management Group on January 26, explaining that he devised the complicated trading 
+strategy instead of just reducing existing positions because he “had been unable to trade out 
+of the high-yield short positions and viewed the addition of a long-risk position in IG-9 as the 
+‘next best hedge’” (JPM Task Force 2013, 63). Even though Drew told the US Senate that the 
+presentation was unclear to her, and Iksil warned that the strategy could result in losses as 
+large as $500 million, the proposal was apparently approved, since traders began 
+implementation right away. 
+6. The London Whale Trades Take Place (January 26 through March 23) 
+After the CIO meeting on January 26, Iksil and the traders began rapidly increasing both the 
+long and short sides of the SCP book.  The main derivatives that they traded were based on 
+the CDX.NA.HY and CDX.NA.IG credit indices and tranches administered by M arkit. A credit 
+index tracks a specific basket of credit instruments, while a credit tranche tracks a specific 
+portion of a credit index. 
+Iksil bought protection on the CDX.NA.HY, which is a credit index of 100 North American 
+companies that are classified as High Yield based on their credit rating.  He simultaneously 
+sold protection on the CDX.NA.IG, which is a credit index of 125 North American companies 
+that are classified as Investment Grade.  Iksil also carried out similar trades on European 
+credit indices. 
+Markit creates two new series of each index every year, as new bonds are issued and existing 
+bonds mature or default. When selling credit protection, Iksil primarily used the CDX.NA.IG9 
+ 
+Figure 5: Summary of the Primary Trading Strategy 
+Credit Rating Protection Risk Exposure Premiums 
+High Yield Buy Short Risk Pay 
+Investment Grade Sell Long Risk Receive 
+50
+JPMorgan Chase London Whale A: Risky Business Zeissler et al.
+
+--- Page 14 ---
+series of the index.  IG9 was created in 2007 before the worst of th e financial crisis, and it 
+included five companies rated as investment grade in 2007 but downgraded to high -yield 
+status later, thus providing a closer offset to the CDX.NA.HY high-yield credit protection held 
+in the SCP book. 
+Although it was Iksil who presented the proposed trading strategy on January 26, he had an 
+almost immediate change of opinion about the efficacy of the new strategy, and sent a series 
+of e -mails to his superior Martin -Artajo on January 30 stating that “the current strategy 
+doesn’t seem to work out” and that notional amounts under the new trading strategy had 
+already “become scary,” so that the “only” course of action was “to stay as we are and let the 
+book simply die.” Martin-Artajo’s response, if any, is unknown (US Senate Report, 77-78). 
+During February, the credit market continued to rally, and the market value of the SCP 
+continued to fall. As can be seen in Figure 3 and Figure 4, option-adjusted spreads (over equal 
+maturity Treasury bonds) on US corporate bonds decreased during the fourth quarter of 
+2011 and the first quarter of 2012, but spreads on high-yield bonds decreased by more than 
+spreads on investment -grade bonds. As a result, SCP’s high -yield short risk positions lost 
+more money than the traders expected, while the investment-grade long risk positions 
+gained less value than expected. 
+February 13 provided an extreme example of the fact that SCP’s high -yield short risk and 
+investment-grade long risk positions were not offsetting as expected.  Ally Financial 
+announced th at its ResCap mortgage subsidiary was planning to file a pre -packaged 
+bankruptcy later in 2012.  This company -specific event on a day when credit markets 
+otherwise rallied caused SCP to experience losses on both long and short positions. 
+As February turned to March, the credit market remained “unusually bullish” and the SCP 
+book continued to “underperform” according to Macris  (US Senate Report, 81 ). Since gains 
+on investment-grade positions (sell protection, long risk) were less than losses on high-yield 
+positions (buy protection, short risk), the SCP continued to lose money in the aggregate. The 
+traders responded by selling even more protection in an effort to stop the losses, to “defend” 
+their existing positions, and to balance their long and short risk exposures. 
+For example, on February 29, Iksil sold protection on over $7 billion notional exposure to 
+the CDX.NA.IG9 index with 10 -year maturity. This amount was equal to more than 90% of 
+the dollar value of all trades of that product on that day by the entir e market and 
+approximately triple the average daily volume traded by all participants. This volume of sales 
+by CIO was large enough to single -handedly push down the market price of default 
+protection on CDX.NA.IG9 compared to what it would otherwise have been, helping to “limit 
+the damage” of adverse month-end price moves (CFTC Settlement Agreement, 8). 
+Even so, SCP lost $69 million in February, and the notional size of just the IG9 position 
+increased from $75 billion to $94 billion.  During a regularly scheduled business review 
+meeting on February 29 with senior bank officials including Dimon and John Hogan (JPM 
+Chief Risk Officer), CIO management indicated that the effort to reduce RWA was under way, 
+but not that this effort in fact involved actually increasing the size of the SCP portfolio. 
+By now, Iksil had sold so much protection on the IG9 index that he grew concerned that 
+traders at other firms were aware that JPM was behind the heavy selling and were taking 
+advantage of this fact.  Though some financial instruments trade in what economists would 
+refer to as “perfectly competitive” markets with many buyers and sellers, none of whom is 
+large enough to affect the price, most credit derivative trades take place among a limited 
+number of traders  at large banks and hedge funds.  Within this small community, traders 
+51
+Journal of Financial Crises Vol. 1 Iss. 2
+
+--- Page 15 ---
+have some familiarity with one another and may exchange rumors about who bought or sold 
+which derivatives, even if they do not know the exact position of each participant. 
+CIO’s aggregate position in IG9 was equal to 10-15 times the average daily trading volume of 
+the index, making the position difficult to dispose of quickly if the need arose (JPM Task Force 
+2013, 64 ). Thereafter, Iksil largely switched from the IG9 index to newer IG ind ices with 
+higher trading volume to be less visible to other market participants. 
+Drew met with Macris and Martin -Artajo on March 21 to discuss the continued 
+underperformance by the SCP book and how best to reduce RWA.  The next day, March 22, 
+the CIO traders sold protection on more than $10 billion notional exposure, causing SCP to 
+breach a particular risk limit known as the CSW10% limit, which is the expected profit or 
+loss to a portfolio if the spread on each credit position simultaneously widened by 10% of its 
+current amount (e.g., from 2.00% to 2.20%). In addition to exceeding the CSW10% limit, the 
+SCP book caused CIO to breach a number of other market-risk limits during the first quarter 
+of 2012 that JPM had put in place to prevent large trading losses. (This topic discussed in 
+greater detail in Zeissler, et al. 2014D.) 
+While often questioning the calculation and usefulness of other risk limits, Drew considered 
+CSW10% to be the most important limit. On March 23, Drew ordered Macris, Martin-Artajo, 
+and Iksil to “put phones down” and to stop trading the SCP book  (US Senate Report, 85 ). 
+Year-to-date SCP losses were $222 million at this point. (See Appendix 3.) 
+Interestingly, the SCP book was in fact long credit risk by March 23 according to the CSW10% 
+risk metric, which meant that SCP credit risk was in the same direction as JPM bank -wide 
+risk (JPM Task Force 2013, 45). Thus, a worsening credit environment would hurt both SCP 
+and JPM, and improving credit would help both SCP and JPM, in contrast to SCP ’s stated 
+purpose of offsetting some of JPM’s risk. 
+Since the CDX.NA.HY and CDX.NA.IG indices had significantly different exposure to changes 
+in credit risk, the net dollars invested in long or short positions might not necessarily 
+correspond to long or short credit risk, as shown in Figure 6. 
+7. Aftermath 
+One week after Drew gave the order to stop trading, Macris e -mailed the bank’s Chief Risk 
+Officer that he had “lost confidence” in his team and asked for “help with the synthetic credit 
+book” (US Senate Report 2013, 86 ). The net notional value of the SCP b ook had more than 
+tripled during the first quarter, from $51 billion at the end of December 2011 to $157 billion 
+by the end of March 2012. (See Appendix 2.) 
+ 
+Figure 6: Possible Difference between Dollar Exposure and Beta-Adjusted Exposure to Credit 
+Risk 
+Hypothetical Dollar 
+Exposure 
+Hypothetical Beta Beta-Adjusted Exposure 
++1 5 +5 
+–2 2 –4 
+Sum= –1  Sum= +1 
+52
+JPMorgan Chase London Whale A: Risky Business Zeissler et al.
+
+--- Page 16 ---
+As the trading book grew, losses also mounted.  Whereas Iksil’s presentation on January 26 
+mentioned the possibility of losses from the new trading strategy totaling $500 million in a 
+worst-case scenario, SCP losses were $550 million for the month of March alone, with year -
+to-date losses reported at $719 million. (See Appendix 3.) 
+Peter Weiland, the head of market risk at CIO, received a call on April 4 from a reporter at 
+the Wall Street Journal, informing him that the newspaper was working on a story about Iksil 
+and the CIO. Drew in turn informed the JPM Operating Committee on April 5 of the impending 
+news. On April 6, both Bloomberg and the Wall Street Journal  published the first articles 
+about Iksil’s trading strategy. 
+The Bloomberg reporters obtained their information from five counterparties at hedge funds 
+and rival banks with whom Iksil traded. Some of these counterparties referred to Iksil as the 
+“London Whale”, since his trades were large enough to distort market prices in certain cases 
+(Bloomberg 2012). 
+Iksil had sold such large amounts of protection on the CDX.NA.IG index that other trade rs 
+could in fact buy protection on the index for a much lower price than buying protection on 
+the individual companies that made up the index. In early April 2012, “10-year protection on 
+$10 million of the corporate bonds underlying the index cost $111,000  annually” whereas 
+“[b]uying the components individually would have cost $131,000” presenting rival traders 
+with an arbitrage opportunity of $20,000 per year (WSJ 2012b). 
+Iksil was warranted in his concern that counterparties would trade against him if the y 
+became aware of the size and composition of JPM’s derivative holdings, as the SCP recorded 
+a single-day loss of $415 million on April 10, the first trading day after the news story broke. 
+This was SCP’s largest daily loss thus far in 2012, and it was man y times larger than the 
+average daily loss of $11 million during the prior 67 trading days of 2012. The massive April 
+10 loss pushed year-to-date SCP losses over the $1 billion mark. 
+On April 27, JPM ordered a team of derivatives experts from the Investment Bank to analyze 
+every single position within the SCP book.  After its review, the team informed JPM 
+management that the SCP portfolio could lose significantly more money than estimated by 
+the CIO traders and that the market’s knowledge of CIO’s positions would hamper the 
+unwinding of the book.  Most SCP credit derivatives were transferred during the second 
+quarter to the Investment Bank, which closed out these positions in the remainder of 2012.  
+The JPM Task Force noted in January 2013 that “CIO no longer engages in the type of trading 
+that generated the losses, and any CIO synthetic credit positions in the future will be simple 
+and expressly linked to a particular risk or set of risks” (JPM Task Force 2013, 110). 
+Unfortunately, though active trading  of the SCP book may have stopped on March 23, at 
+which point year-to-date losses were reported at $222 million, the long and short positions 
+still existed and losses escalated even as the trading book was being terminated. By the time 
+JPM filed its first quarter Form 10-Q on May 10, the SCP book had already suffered $2 billion 
+of mark-to-market losses during the second quarter. (IJPM Task Force 2013, 73) CIO trading 
+losses ultimately reached $6.2 billion by December 31, 2012 (US Senate Report, 94). 
+With respect to the conflicting mandates imposed by CIO management on the SCP traders, 
+the JPM Task Force concluded that “r ather than imposing a multitude of potentially 
+competing priorities on the traders, CIO management should have determined (or engaged 
+senior Firm management on the question of) which of these priorities should take 
+precedence, how they could be reconciled, and how CIO intended to execute on the 
+priorities” (JPM Task Force 2013, 85). 
+53
+Journal of Financial Crises Vol. 1 Iss. 2
+
+--- Page 17 ---
+On September 19, 2013, banking regulators in the US and the U nited Kingdom (UK) 
+announced a global settlement with JPM.  The Federal Reserve Board, the Office of the 
+Comptroller of the Currency, the Securities and Exchange Commission, and the UK Financial 
+Conduct Authority penalized JPM a total of $920 million.  JPM w as also required to admit 
+wrongdoing in certain instances, a rare occurrence in such settlements. One month later, the 
+Commodity Futures Trading Commission also settled with JPM for a penalty of $100 million. 
+While the various regulatory agencies focused on different aspects of the 2012 CIO losses in 
+their respective settlements with JPM (discussed in other case modules), the Commodity 
+Futures Trading Commission considered CIO’s abnormally large sales on February 29 of over 
+$7 billion notional value of prot ection on the CDX.NA.IG9 index to be a violation of the 
+Commodity Exchange Act, and accordingly filed charges against JPM for market 
+manipulation. JPM admitted the findings of fact listed in the order, including that the CIO 
+traders “acted recklessly,” and agreed to pay a $100 million civil penalty (CFTC Press Release 
+6737-13). 
+References 
+Burne, Katy. 2012. “Making Waves Against the ‘Whale ,’” Wall Street Journal. April 10. (WSJ 
+2012b), Accessed at 
+http://online.wsj.com/news/articles/SB100014240527023045877045773361309538632
+86. 
+Commodity Futures Trading Commission.  2013. Press Release PR6737 -13: CFTC Files and 
+Settles Charges Against JPMorgan Chase Bank, N.A., for Violating Prohibition on Manipulative 
+Conduct in Connection with “London Whale” Swaps Trades. October 16. (CFTC Press Release 
+6737-13), Accessed at http://www.cftc.gov/PressRoom/PressReleases/pr6737-13. 
+___________ 2013. CFTC Docket No. 14 -01, In the Matter of: JPMorgan Chase Bank, N.A., 
+Respondent. October 16. 1-10. (CFTC Settlement Agreement) 
+JPMorgan Chase & Company.  2011. Form 10-K. Filed February 29, 2012, for the year ended 
+December 31, 2011. 1, 62, 178-181. (JPM 10-K 2011) 
+____________ 2013. Report of JPMorgan Chase &. Co. Management T ask Force Regarding 2012 
+CIO Losses. January 16. 1-46, 83-93. (JPM Task Force 2013) 
+Markit Group Limited. 2013. Markit Credit Indices: A Primer. April edition. 1-10. (Markit) 
+Ruhle, Stephanie, Bradley Keoun, and Mary Childs. 2012. “JPMorgan Trader’s Positions Said 
+to Distort Credit Indexes ,” Bloomberg. April 6.  (Bloomberg 2012), Access at US Senate 
+Exhibits, 142-144. 
+United States Senate Permanent Subcommittee on Investigations.  2013. JPMorgan Chase 
+Whale Trades: A Case History of Derivatives  Risks and Abuses (Exhibits).  March 15.  15-50 
+[note: page numbers as used in the Adobe Acrobat page navigation toolbar].  (US Senate 
+Exhibits) 
+___________ 2013. JPMorgan Chase Whale Trades: A Case History of Derivatives Risks and 
+Abuses (Majority and Minority Staff Report). March 15. 35-95. (US Senate Report) 
+54
+JPMorgan Chase London Whale A: Risky Business Zeissler et al.
+
+--- Page 18 ---
+Zeissler, Arwin G., and Andrew Metrick. 2014B. JPMorgan Chase London Whale B: Derivatives 
+Valuation, Yale Program on Financial Stability Case Study 2014 -2B-V1, December 1, 2014 
+Revised: August 26, 2019. 
+Zeissler, Arwin G. , and Andrew Metrick. 2014D. JPMorgan Chase London Whale D: Risk -
+Management Practices , Yale Program on Financial Stability Case Study 2014 -2D-V1, 
+December 1, 2014, Revised: July 20, 2019. 
+Zeissler, Arwin G., and Andrew Metrick. 2014G. JPMorgan Chase London Whale G: Hedging 
+Versus Proprietary Trading , Yale Program on Financial Stability Case Study 2014 -2G-V1, 
+December 1, 2014, Revised: July 21, 2015. 
+Zuckerman, Gregory and Katy Burne. 2012. “London Whale Rattles Debt Market,” Wall Street 
+Journal. April 6. (WSJ 2012a), Access at US Senate Exhibits, 140-141. 
+Zuckerman, Gregory. 2012. “From ‘Caveman’ to ‘Whale ,’” Wall Street Journal. May 17. (WSJ 
+2012c), Accessed at: 
+http://online.wsj.com/news/articles/SB100014240527023038796045774086210392044
+32 
+ 
+ 
+Development of this case has been supported by a generous grant from the Alfred P. Sloan 
+Foundation to the Yale Program on Financial Stability. 
+Copyright 2014, 2015, 2019  © Yale University. All rights reserved. To order copies of this 
+material or to receive permission to reprint any or all of this document, please contact the 
+Yale Program for Financial Stability at ypfs@yale.edu. 
+ 
+ 
+  
+55
+Journal of Financial Crises Vol. 1 Iss. 2
+
+--- Page 19 ---
+Appendix 1: Timeline of Key Events 
+ 
+2005  
+JPMorgan Chase & Company (JPM) spun off the Chief Investment 
+Office (CIO) as a separate unit to invest the bank’s excess 
+deposits. Ina Drew, JPM’s Chief Investment Officer, was 
+appointed head of CIO. 
+2006  CIO approved a proposal by Achilles Macris to trade credit 
+derivatives. 
+2008  
+According to the Office of the Comptroller of the Currency (OCC), 
+CIO began calling this activity the Synthetic Credit Portfolio 
+(SCP). SCP annual revenues = $170 million. 
+2009  SCP annual revenues = $1.050 billion. 
+2010  SCP annual revenues = $149 million.  Year-end net notional = $4 
+billion. 
+2011 Mid-Year 
+Bruno Iksil and his fellow SCP traders began buying credit 
+protection on (higher risk) high -yield companies, while funding 
+some of the cost by selling protection on (lower risk) investment-
+grade companies. 
+ November 
+7 Dynegy filed for bankruptcy. 
+ November 
+29 
+American Airlines filed for bankruptcy, resulting in a $400 
+million to $550 million profit for SCP.  
+ December 
+Jamie Dimon and Douglas Braunstein instructed CIO to reduce 
+Risk Weighted Assets so that JPM could reduce its regulatory 
+capital requirements. 
+ December 
+31 
+SCP annual revenues = $453 million. Year-end net notional = $51 
+billion. 
+2012 January 19 Eastman Kodak filed for bankruptcy, resulting in a $50 million 
+loss for SCP. First trading day of a nine-day run of losses. 
+ January 26 
+CIO meeting at which Iksil proposed expanding purchases of 
+credit protection on high -yield corporate bonds, while selling 
+even larger amounts of default protection on investment -grade 
+corporate bonds. The proposal was approved and implemented 
+immediately. 
+ January 30 
+Iksil expressed concern about the new strategy to his superior 
+Javier Martin -Artajo and suggested letting the SCP positions 
+expire. 
+ February 
+13 
+Ally Financial announced that its ResCap mortgage subsidiary 
+was planning to file a pre-packaged bankruptcy later in 2012. The 
+resulting turmoil in the credit market caused losses on both long 
+and short SCP credit derivative positions in the same day. 
+56
+JPMorgan Chase London Whale A: Risky Business Zeissler et al.
+
+--- Page 20 ---
+March 21 Drew met with Macris and Martin -Artajo to discuss SCP’s 
+continued underperformance and how best to reduce RWA. 
+ March 22 SCP breached the CSW10% limit, which was considered by Drew 
+to be the most important risk limit. 
+ March 23 Drew ordered the CIO traders to stop trading the SCP. 
+ March 30 Macris e -mailed the bank’s Chief Risk Officer that he had “lost 
+confidence” in his team and requested help. 
+ First 
+Quarter 
+SCP losses = $100 million January, $69 million February, $550 
+million March, $719 million quarterly total.  Net notional 
+increased from $51 billion to $157 billion. 
+ April 4-5 Wall Street Journal  notified CIO that it planned to publish an 
+article about Iksil. Drew informed the JPM Operating Committee. 
+ April 6 Bloomberg and the Wall Street Journal  published the first news 
+stories about the “London Whale.” 
+ April 10 SCP recorded a single-day loss of $415 million on the first trading 
+day after the news story broke, the largest daily loss to date. 
+ December 
+31 Year-to-date SCP losses = $6.2 billion. 
+2013 September-
+October 
+Four regulators in the US and one in the UK reached settlement 
+agreements with JPM, totaling $1.020 billion in penalties. 
+ 
+ 
+  
+57
+Journal of Financial Crises Vol. 1 Iss. 2
+
+--- Page 21 ---
+Appendix 2: Growth of Synthetic Credit Portfolio (in $ billions) 
+ 
+ 
+Source: US Senate Exhibits, 15 
+ 
+  
+58
+JPMorgan Chase London Whale A: Risky Business Zeissler et al.
+
+--- Page 22 ---
+Appendix 3: Synthetic Credit Portfolio: Profit & Loss Reports 
+Source: US Senate Exhibits, 21 
+ 
+ 
+ 
+59
+Journal of Financial Crises Vol. 1 Iss. 2

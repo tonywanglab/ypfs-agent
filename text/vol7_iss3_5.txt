@@ -1,0 +1,151 @@
+--- Page 1 ---
+Journal of Financial Crises Journal of Financial Crises 
+Volume 7 Issue 3 
+2025 
+Lessons Learned: Anthony Dowd Lessons Learned: Anthony Dowd 
+Mercedes Cardona 
+Follow this and additional works at: https://elischolar.library.yale.edu/journal-of-financial-crises 
+Recommended Citation Recommended Citation 
+Cardona, Mercedes (2025) "Lessons Learned: Anthony Dowd," Journal of Financial Crises: Vol. 7 : Iss. 3, 
+89-91. 
+DOI: https://doi.org/10.17132/2693-3179.1669 
+Available at: https://elischolar.library.yale.edu/journal-of-financial-crises/vol7/iss3/5 
+This Lessons Learned is brought to you for free and open access by the Journal of Financial Crises and 
+EliScholar – A Digital Platform for Scholarly Publishing at Yale. For more information, please contact 
+journalfinancialcrises@yale.edu.
+
+--- Page 2 ---
+READERS TAKE NOTICE: READERS TAKE NOTICE: 
+As of April 2024, the YPFS Resource Library’s site domain has changed 
+to https://elischolar.library.yale.edu/ypfs-financial-crisis-resource-library/. 
+Please be aware that upon clicking any of the URL references to 
+the former Resource Library domains, either https://ypfs.som.yale.edu 
+or https://ypfsresourcelibrary.blob.core.windows.net/, in the 
+"References/Key Program Documents" section of a case study, 
+readers will encounter a "page not found" error. readers will encounter a "page not found" error. 
+Readers can still retrieve a given resource cited within this case study 
+on the new site  by searching by searching here  for the title cited. for the title cited. 
+This lessons learned is available in Journal of Financial Crises: https://elischolar.library.yale.edu/journal-of-financial-
+crises/vol7/iss3/5
+
+--- Page 3 ---
+Yale Program on Financial Stability 
+Lessons Learned 
+ 
+ 
+   
+ 
+Anthony Dowd 
+By Mercedes Cardona 
+Anthony Dowd was an investment banker when former Federal Reserve Chairman Paul Volcker 
+recruited him during the Global Financial Crisis (GFC) to be his chief of staff for the President’s 
+Economic Recovery Advisory Board (PERAB). As chairman of the PERAB, Volcker proposed 
+what would become known as the Volcker Rule, a series of guardrails meant to curb banks’ 
+involvement in proprietary trading and investing in private equity or hedge funds; they were 
+adopted in the Dodd-Frank Act of 2010. 
+When Chairman Volcker founded the Volcker Alliance in 2013, Dowd became a director and its 
+first treasurer. The alliance is a nonpartisan nonprofit focused on the effective execution of 
+public policies and on helping rebuild public trust in government. Dowd remains a director and 
+served as interim president of the alliance in 2015 –16. In 2017, he became president and CEO 
+of Fairfield-Maxwell Limited, an industrial holding company. This Lesson Learned is based on 
+an interview held in January 2025; a full transcript may be found here. 
+The revolving door between regulators and the private sector poses a challenge to the 
+management of systemic risk. Tighter regulations could mitigate regulatory capture 
+and reduce the risk to effective supervision. 
+The regulatory toolkit has improved since the GFC, said Dowd, but much depends on the will 
+of regulators to enforce the rules written into code. It becomes difficult to have effective 
+supervision when bankers and their overseers are too close and regulators move from 
+government to the private sec tor, becoming lobbyists and bankers representing the 
+companies they used to regulate and facing the same people they used to work beside. 
+Systemically important financial institutions  now have resident banking examiners, but they 
+can become too familiar with their subjects as well, Dowd explained.  
+There are people who go to work every day at JPMorgan who work for the 
+government. They sit next to people who are paid two or three times more than they 
+are, and they develop relationships and go to lunch. Ther e need to be some tougher 
+rules around when you’re allowed to go work for the entity you regulated. 
+Dowd noted that two big proponents of financial reform, former US Representative Barney 
+Frank and Mary Miller, formerly undersecretary of the Treasury, were on the boards of banks 
+that recently failed—Signature Bank and Silicon Valley Bank [SVB], respectively.  
+That’s part of the problem, this regulatory capture. Banks can recruit public officials 
+with their knowledge and access. I don’t know what the board f ees were at those 
+banks, but I’m sure they were substantial. Mr. Volcker wrote a piece back in 2011 or 
+’12, where he said that the Occupy Wall Street and Occupy the SEC groups’ aim was 
+off. He said they should have called themselves Occupy K Street. 
+89
+
+--- Page 4 ---
+The Un ited States could benefit from adopting some of the same rules around board 
+independence and executive governance that exist in the European Union, Dowd suggested. 
+The effect of these rules is not easy to measure, but they could reduce the systemic risk that 
+comes from loose governance practices and “incestuous” environments in boardrooms. 
+Dowd explained further,  
+In Europe, you can’t be chairman of the bank and be the CEO. They separate those two 
+functions. Once you’re on a board for more than five or six years, you’re deemed no 
+longer independent because you’ve been collecting board fees for a significant 
+amount o f time. You’ve developed relationships with other board members and 
+management, and they have requirements for independence. So, it forces a steady 
+turnover of board members. 
+The different practices in the US lead to some questionable situations, as demons trated by 
+an illustration he shared:  
+At First Republic, maybe not recently, but for a long time, the chairman and the CEO 
+were the same person. The board members, if you look at their backgrounds, they 
+were all friends. They were on the board of the San F rancisco Art Museum together 
+with different clients of the bank. So, it was a bit incestuous. Whereas in Europe they 
+have these rules that promote good governance, and it’d be nice to see some of that 
+here. 
+The political will to make difficult regulatory d ecisions is just as important to the 
+stability of the banking system as good regulation, perhaps more so.  
+Dowd recalled how Silicon Valley Bank lobbied for an exemption to the Volker Rule when 
+the Dodd-Frank Act was being drafted, to protect its investment banking offerings to clients 
+that it had developed in the decade before the GFC. The bank argued it would have to divest 
+investment funds that it claimed were important to its business model.  
+Mr. Volcker hadn’t even heard of the bank before. It was small. It was about $15 billion 
+in assets. He asked me about it. I looked it up and Mr. Volcker said: “Well, you talk to 
+the [SVB] CEO.” We were also working with Citigroup and some of the big banks at 
+the time, which drew more of his attention.  
+I had several  conversations with the CEO, and then later on with their lobbyist. We 
+kept declining their requests, saying that we would not support an exemption for 
+them, as we’d have to support other exemptions. And we ended up having some 
+conversations with [US] Sena tors [Barbara] Boxer and [Dianne] Feinstein [from 
+California] about it as well, as they were trying to support one of their constituent 
+banks. But all throughout the Dodd-Frank process and the Volcker Rule amendment, 
+we kept pushing back on Silicon Valley Bank, but unfortunately, during the 
+conference negotiations, their exemption was slid in. 
+90
+Journal of Financial Crises Vol. 7 Iss. 3
+
+--- Page 5 ---
+SVB grew from a $15 billion institution in 2010, to $150 billion at the time of its collapse in 
+2023, Dowd noted. And yet, the system was able to absorb the shock of its collapse, along 
+with the subsequent demise of Signature Bank and First Republic. The capitalization of the 
+banking system remained fairly strong and the other banks that were in compliance didn’t 
+have any serious issues, so regulation proved effective, even as the banking institutions have 
+become larger and more concentrated, he said.  
+Dowd emphasized that the success of any regulatory system depends on the will of the 
+regulators to act quickly when needed, even when they may be criticized. “You’re alwa ys 
+going to get criticism,” he said.  
+It’s easy to point fingers at the regulators and I wasn’t surprised by some of the noise, 
+but I think the resolution regulators actually did a good job. I think it’s too bad about 
+First Republic Bank. I think they were a casualty. I mean, they were stronger than SVB. 
+They didn’t do what Silicon Valley Bank did and Signature Bank did, but they did have 
+a large number of loans to that community. So, I think they were kind of forced into 
+the JPMorgan marriage, but again, the system got through it fine. 
+Chairman Volcker believed that regulators should be the “‘cop on the beat’” and ensured that 
+banking supervision and the integrity of the banking system was discussed at all Fed 
+meetings, said Dowd. The topic was on the agend a almost 20 times a year when he was 
+chairman but dropped steadily under successive Fed chairs and appeared on the agenda only 
+once or twice a year during Ben Bernanke’s term. Ensuring there was a focus on supervision 
+and accountability was key for Chairman Volcker, said Dowd: 
+One of the things that Mr. Volcker felt was as important as the Volcker Rule was 
+making sure that the Fed had a “cop on the beat,” so to speak. He pushed very hard to 
+have a vice chair of supervision named in the Dodd -Frank bill, so t hat would be a 
+legislated position, a political appointee. So, there’d be somebody in a senior position 
+at the Fed who was accountable to Congress, was accountable to the public, for the 
+health of the banking system. The vice chairman is at every meeting, and supervision 
+is on the agenda. 
+“That was a big thing, to have somebody whose political career was on the line for the health 
+of the banks,” said Dowd. 
+Dated: October 2025 
+YPFS Lessons Learned No: 2024-14 
+91
+Lessons Learned: Anthony Dowd Cardona

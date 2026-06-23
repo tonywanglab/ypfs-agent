@@ -1,0 +1,153 @@
+--- Page 1 ---
+Journal of Financial Crises Journal of Financial Crises 
+Volume 1 Issue 2 
+2019 
+Lessons Learned: James B. Lockhart III Lessons Learned: James B. Lockhart III 
+Ben Henken 
+Yale School of Management 
+Dan Thompson 
+Yale School of Management 
+Follow this and additional works at: https://elischolar.library.yale.edu/journal-of-financial-crises 
+ Part of the Administrative Law Commons, Agency Commons, Oral History Commons, Policy History, 
+Theory, and Methods Commons, Public Economics Commons, Public Policy Commons, and the Work, 
+Economy and Organizations Commons 
+Recommended Citation Recommended Citation 
+Henken, Ben and Thompson, Dan (2019) "Lessons Learned: James B. Lockhart III," Journal of Financial 
+Crises: Vol. 1 : Iss. 2, 157-159. 
+DOI: https://doi.org/10.17132/2693-3179.1022 
+Available at: https://elischolar.library.yale.edu/journal-of-financial-crises/vol1/iss2/10 
+This Lessons Learned is brought to you for free and open access by the Journal of Financial Crises and 
+EliScholar – A Digital Platform for Scholarly Publishing at Yale. For more information, please contact 
+journalfinancialcrises@yale.edu.
+
+--- Page 2 ---
+READERS TAKE NOTICE: READERS TAKE NOTICE: 
+As of April 2024, the YPFS Resource Library’s site domain has changed 
+to https://elischolar.library.yale.edu/ypfs-financial-crisis-resource-library/. 
+Please be aware that upon clicking any of the URL references to 
+the former Resource Library domains, either https://ypfs.som.yale.edu 
+or https://ypfsresourcelibrary.blob.core.windows.net/, in the 
+"References/Key Program Documents" section of a case study, 
+readers will encounter a "page not found" error. readers will encounter a "page not found" error. 
+Readers can still retrieve a given resource cited within this case study 
+on the new site  by searching by searching here  for the title cited. for the title cited. 
+This lessons learned is available in Journal of Financial Crises: https://elischolar.library.yale.edu/journal-of-financial-
+crises/vol1/iss2/10
+
+--- Page 3 ---
+Yale Program on Financial Stability 
+ 
+Lessons Learned: James B. Lockhart III 
+ 
+By Ben Henken and Dan Thompson 
+  
+Lockhart became the Director (CEO) and Chairman of the Oversight Board of the Federal 
+Housing Finance Agency (FHFA) upon the agency’s creation on July 30, 2008. The FHFA became 
+the sole regulator of Fannie Mae, Freddie Mac and the 12 Federal Home Loan Bank s; it also 
+became the conservator of Fannie Mae and Freddie Mac. Prior to his position at the FHF A, 
+Lockhart was, from June 2006, the Director of the Office of Federal Housing Enterprise 
+Oversight (OFHEO), also a regulator of Fannie and Freddie, which was subsumed into the FHFA.  
+This “Lessons Learned” is based on an interview with Mr. Lockhart. 
+Focus on first things first. The government’s hands were tied until Treasury could 
+provide a financial backstop for the companies, which the newly-passed Housing and 
+Economic Recovery Act (HERA) allowed.  
+“I mentioned the need for new legislation at the press conference on Fannie and Freddie’s 
+consent agreements – so, actually, even before I had been confirmed [for my position at 
+OFHEO]. People had told me to wait to confront this issue until my confirmation – but even 
+at my confirmation hearing I touched upon the need for new legislation. 
+I spoke a lot about the need for reform, especially new legislation to give the regulator more 
+power over their capital levels. At the time, we did not have this power; these rules were set 
+by Congress. My PowerPoints became infamous. It was a constant theme; I wanted new 
+legislation and so did the Bush Administration. For instance, unlike for banks, the GSEs’ 
+deferred tax assets were legally fully counted as capital, and they disappeared when the GSEs 
+started posting losses.”  
+“What was missing was a financial backstop. Otherwise, there would've been a “run on the 
+bank” with no FDIC to stop it. People would've stopped buy ing GSE mortgage -backed 
+securities and wouldn’t roll over their debt. The $10 trillion mortgage market would've dried 
+up.”  
+“I think the possibility of Fannie and Freddie receiving a loan from the government had been 
+discussed before, but most people involved were too scared to ask for it out of fear of 
+spooking the markets. We also thought doing so might make it impossible to pass new 
+legislation, as some Republicans were adamantly opposed to this part of any solution.”  
+“From the viewpoint of crisis prevention, I think having the ability to backstop the GSEs is 
+important. Unfortunately, there’s also a moral hazard to creating this kind of backstop, which 
+is why a lot of Republicans didn’t want one – because once it’s there, people will use it. 
+There’s an entire philosophical debate surrounding it, but having a backstop was critical.” 
+  
+157
+
+--- Page 4 ---
+A crisis is always a Catch-22 situation. Do or say too little or too much, and you run the 
+risk of spooking, rather than calming, the markets. However, in a crisis, it is important 
+to prepare for a worst -case scenario without giving markets a reason to believe that 
+such a scenario is inevitable.  
+“As I said in my FCIC testimony: ‘From the fall of 2007 to the conservatorships, it was a 
+tightrope without a safety net.’”  
+“At this point [summer 2008], the situation was such that if we decided to blow the whistle, 
+all hell likely would have broken loose. If, for example, we had said that the GSEs were totally 
+inadequately capitalized before receiving Hank's bazook a [Treasury’s funding authority]  – 
+which didn't arrive until the July 30th legislation – we had no way to bail them out. There just 
+was no way to do it.”  
+“The August letter you mentioned [to the GSEs indicating that they were in compliance with 
+statutory capital levels] was based on their financials as of June 30th. However, in the letter 
+we told them that we were seriously concerned about the deterioration of the housing 
+market and had discretionary authority to lower their classification. Over time, we 
+repeatedly ramped up our warnings. Again, as of June 30th, the two entities were adequately 
+capitalized according to the law. The capital requirement was so low, however, that even a 
+little hiccup in the market had the potential to cause a big problem. And what we saw was a 
+big hiccup. 
+It was a difficult situation. As I’ve said, we didn’t want to cause a ‘run on the bank’ until we 
+were ready and able to do something about it. We weren't ready to do something about it at 
+that point. As early as around the res cue of Bear Stearns, someone in the White House kept 
+suggesting that Fannie and Freddie were a total mess. He was probably right. But it would 
+have been a real problem if we had simply conveyed that sense of panic to the markets. We 
+often felt as if we were walking a tightrope: we repeatedly put maximum pressure on Fannie 
+and Freddie – and on Congress to get us the law we needed – but wanted to make sure we 
+weren’t also unnecessarily spooking the markets.” 
+Although sometimes  overlooked in the heat of battle, human capital concerns are 
+critical. Nothing gets done without people.  
+“[W]e were setting up a brand -new agency; it was clearly a tense time. The FHFA also was 
+inheriting the Federal Home Loan Banks – which felt as though they were being taken over 
+– so we were trying to keep morale high there. But it was clear that Fannie and Freddie were 
+having extreme difficulty fulfilling their missions of providing liquidity and affordability to 
+the mortgage market.” 
+“In Hank’s book – and maybe even Ben's and a few others’ – it was suggested that we were 
+resistant to the idea of conservatorship. I think there was some resistance within our agency. 
+Some of my colleagues really understood how necessary it was to intervene, but others were 
+still somewhat concerned about our reputation. Still others had spent much of their 
+professional lives regulating these institutions and were traumatized to see them now on the 
+brink of collapse.” 
+“However, in order to eventually win the support of my s taff – which was important – I 
+thought it necessary to allow them to have their day in court to say: ‘Maybe it's not as bad as 
+158
+Journal of Financial Crises Vol. 1 Iss. 2
+
+--- Page 5 ---
+you think it is. We can get through this with a memo of understanding,’ which is what was 
+done for a lot of banks during the crisis.” 
+Several solutions were considered but c onservatorship was the best solution given 
+the fragility of the markets and the level of control needed by the federal government. 
+“By this point in August, we were having regular meetings with Treasury and the F ed in 
+particular. At one of these meetings, we had a discussion with Hank, who was originally 
+leaning toward receivership. I let my general counsel speak in favor of almost the opposite 
+position – a memo of understanding – instead of conservatorship.  But I was in the 
+conservatorship school.” 
+“I think [Paulson] ultimately opted for conservatorship because receivership would have 
+spooked the markets too much. Even with a loan, I think there would have been a “run on 
+the bank”– or at least a freezing of new m ortgages – if we had chosen receivership. I think 
+conservatorship was the middle ground.” 
+While it may be tempting to address long-term policy issues, in a crisis, a narrow focus 
+is most efficient. 
+“We recognized that Fannie and Freddie were the ‘only game in town,’ and we wanted to 
+figure out a way to keep the mortgage market going.”  
+“Under conservatorship, we effectively were the CEOs of the two firms. We kept the two 
+boards in place – although we replaced most of their members – thinking that this would be 
+good for governance. Frankly, as Hank has said, we thought the conservatorships were going 
+to serve as a “time out” for Fannie and Fannie. Perhaps they would last a couple of years in 
+order to build a culture of good governance. The boards have been helpful in this respect.” 
+ 
+_____________________________________________________ 
+Dated: August 2019 
+YPFS Lessons Learned No: 2019-08 
+159
+James B. Lockhart III Henken and Thompson

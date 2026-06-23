@@ -1,0 +1,1083 @@
+--- Page 1 ---
+Journal of Financial Crises Journal of Financial Crises 
+Volume 2 Issue 3 
+2020 
+Bank Debt Guarantee Programs Bank Debt Guarantee Programs 
+Christian M. McNamara 
+Yale School of Management 
+Greg Feldberg 
+Yale School of Management 
+David Tam 
+Yale School of Management 
+Andrew Metrick 
+Yale University 
+Follow this and additional works at: https://elischolar.library.yale.edu/journal-of-financial-crises 
+ Part of the Economic History Commons, Economic Policy Commons, Finance Commons, Growth and 
+Development Commons, Macroeconomics Commons, and the Public Administration Commons 
+Recommended Citation Recommended Citation 
+McNamara, Christian M.; Feldberg, Greg; Tam, David; and Metrick, Andrew (2020) "Bank Debt Guarantee 
+Programs," Journal of Financial Crises: Vol. 2 : Iss. 3, 71-100. 
+DOI: https://doi.org/10.17132/2693-3179.1121 
+Available at: https://elischolar.library.yale.edu/journal-of-financial-crises/vol2/iss3/26 
+This Survey is brought to you for free and open access by the Journal of Financial Crises and EliScholar – A Digital 
+Platform for Scholarly Publishing at Yale. For more information, please contact journalfinancialcrises@yale.edu.
+
+--- Page 2 ---
+READERS TAKE NOTICE: READERS TAKE NOTICE: 
+As of April 2024, the YPFS Resource Library’s site domain has changed 
+to https://elischolar.library.yale.edu/ypfs-financial-crisis-resource-library/. 
+Please be aware that upon clicking any of the URL references to 
+the former Resource Library domains, either https://ypfs.som.yale.edu 
+or https://ypfsresourcelibrary.blob.core.windows.net/, in the 
+"References/Key Program Documents" section of a case study, 
+readers will encounter a "page not found" error. readers will encounter a "page not found" error. 
+Readers can still retrieve a given resource cited within this case study 
+on the new site  by searching by searching here  for the title cited. for the title cited. 
+This survey is available in Journal of Financial Crises: https://elischolar.library.yale.edu/journal-of-financial-crises/
+vol2/iss3/26
+
+--- Page 3 ---
+Bank Debt Guarantee Programs1,2 
+ 
+Christian M. McNamara3 
+Greg Feldberg4 
+David Tam5 
+Andrew Metrick6 
+Yale Program on Financial Stability Survey  
+January 11, 2019; revised October 10, 2020 
+ 
+Abstract 
+One of the hallmarks of the global financial crisis of 2007 -09 was the rapid evaporation of 
+the non -deposit, wholesale funding many financial institutions had become increasingly 
+reliant upon in the years leading up to the crisis . In the aftermath of the Lehman Brothers 
+bankruptcy, governments became increasingly concerned about even fundamentally sound 
+institutions’ ability to access necessary funding . In response, beginning in October 2008, 
+authorities across the globe began introducing guarantee programs enabling institutions to 
+issue debt that wou ld be backed by a guarantee from the government in exchange for a 
+guarantee fee. While the specific details of these programs varied (sometimes widely in ways 
+that allow for interesting comparisons), some version of this basic idea was implemented by 
+over twenty countries . The programs saw significant use in the aggregate but were not 
+uniformly utilized. They are generally seen as having achieved their objectives but may also 
+in certain circumstances have had unintended consequences such as market distortio ns 
+based on flawed fee structures and the crowding out of non-guaranteed debt.   
+Keywords: credit guarantee, bond guarantee, debt guarantee, short-term debt , medium -
+term debt, wholesale funding
+ 
+1 This case study is part of the Yale Program on Financial Stability (YPFS) selection of New Bagehot Project 
+modules considering the responses to the global financial crisis that pertain to bank debt guarantee 
+programs.  
+Cases are available from the Journal of Financial Crises at https://elischolar.library.yale.edu/journal -of- 
+financial-crises/. 
+2 An earlier version of this document was titled Credit Guarantee Programs. 
+3 Christian M. McNamara – Director, New Bagehot Project and Senior Editor, YPFS, Yale School of 
+Management. 
+4 Greg Feldberg – Research Scholar and Director of Research, YPFS, Yale School of Management. 
+5 David Tam – Research Associate, YPFS, Yale School of Management. 
+6 Andrew Metrick – Janet L. Yellen Professor of Finance and Management and YPFS Program Director, Yale 
+School of Management. 
+71
+
+--- Page 4 ---
+Introductory note: In analyzing the programs that are the focus of this survey, a color-
+coded system is used to highlight particularly noteworthy design features. This 
+system is as follows: 
+Color Meaning 
+BLUE – INTERESTING A design feature that is interesting and that 
+policymakers may want to consider.  
+Typically, this determination is based on the 
+observation that the design feature involves 
+a unique way of addressing a challenge 
+common to this type of program. Less 
+commonly, there will be empirical evidence 
+or a widely  held consensus that the design 
+feature was effective in this context, in 
+which case we will describe that evidence or 
+consensus.  
+YELLOW – CAUTION INDICATED A design feature that policymakers should 
+exercise caution in considering.  Typically, 
+this determ ination is based on the 
+observation that the designers of the 
+feature later made significant changes to the 
+feature with the intention of improving the 
+functioning of the program. Less commonly, 
+there will be empirical evidence or a widely 
+held consensus that the design feature was 
+ineffective in this context, in which case we 
+will describe that evidence or consensus.   
+  
+72
+Journal of Financial Crises Vol. 2 Iss. 3
+
+--- Page 5 ---
+I. Overview 
+One of the hallmarks of the global financial crisis of 2007-09 (GFC) was the rapid evaporation 
+of the non-deposit, wholesale funding many financial institutions had become increasingly 
+reliant upon in the years leading up to the crisis. Particularly after the bankruptcy of Lehman 
+Brothers on September 15, 2008, the issuance levels associated with such funding sources 
+collapsed while spreads increased dramatically.  (See, e.g., Grande et al. 2011. ) Amidst this 
+deterioration in financial market conditions, governments became concerned about even 
+fundamentally sound institutions’ ability to access necessary funding. 
+In response, beginning in October 2008, authorities across the globe began introducing bank 
+debt guarantee programs. Sometimes referred to as credit  guarantee schemes or 
+government guarantees for bank bonds, these programs enable d institutions to issue debt 
+that would be backed by a guarantee from the government  in exchange for a guarantee fee.  
+While the specific details of these programs varied (sometimes widely) by country (as will 
+be discussed in Key Design Decisions below ), some version of thi s basic idea was 
+implemented by over twenty countries in the months following the Lehman bankruptcy. 
+This survey is limited to the examination of broad-based programs for new issuances and 
+therefore excludes (a) blanket guarantee programs that covered exis ting debt (such as the 
+Credit Institutions Financial Support Scheme  (CIFS) announced by Ireland in September 
+2008) and (b) targeted or ad hoc guarantees that were part of rescue packages for individual 
+institutions (such as the guarantee enacted on behalf of Dexia by Belgium, Luxembourg, and 
+France in October 2008). While these guarantees are not the subject of this survey, in many 
+cases their performance helped inform the d esign of the broad -based guarantee programs 
+evaluated here.  
+73
+Bank Debt Guarantee Programs McNamara et al.
+
+--- Page 6 ---
+Table 1 below shows a list of the guarantee programs studied for purposes of this survey.7 
+Table 1: List of Guarantee Programs Studied 
+ 
+ 
+ 
+ 
+* Denmark introduced an earlier blanket guarantee called the Original Guarantee Scheme that is not 
+covered in this survey. Ireland introduced an earlier blanket guarantee called the CIFS on September 
+30, 2008, that is not covered in this survey.  
+Source: Author analysis. 
+ 
+As the announcement dates in Table 1  suggest, there were significant international efforts 
+made to align state-level responses. The impetus for this began with Ireland’s announcement 
+of CIFS on September 30, 2008. This put pressure on UK banks in particular, and the United 
+Kingdom responded with the announcement of its Credit Guarantee Scheme on October 8 th.  
+This caused the European Union (EU) to recognize the need for action and coordination, and 
+the European Commission (EC) used its preexi sting powers to address potential 
+anticompetitive effects of state -level government action to promote much broader goals —
+responding to the immediate financial stability issues created by the crisis, promoting a 
+consistent response across countries, and imp osing restructuring obligations on 
+systemically important institutions that needed aid.   
+Two significant pieces of EC guidance shaped the way Member states designed their 
+programs (as will be discussed in Key Design Decisions below ). In a series of documents 
+released in October 2008, European governments  established principles that guarantee 
+programs had to adhere to in order to comply with State aid rules. These included principles 
+governing eligible institutions, eligible debt, program duration, gu arantee fees and other 
+requirements for participation ( European Commission 2008, Euro Summit 2008, ECB 
+2008).8 Later guidance issued in April 2010 outlined further specifications for countries 
+ 
+7 Programs were also announced in Cyprus, Estonia, Latvia, Lithuania, Slovakia , and Slovenia. These programs 
+are currently not included in this study but may be added in future versions.  
+8 Euro area heads of state held their first Euro Summit on October 12, 2008, at which they agreed on 
+principles for addressing the financial crisis (Euro Summit 2008). Those principles were further elaborated 
+74
+Journal of Financial Crises Vol. 2 Iss. 3
+
+--- Page 7 ---
+intending to maintain programs beyond June 30, 2010, once mark ets had stabilized 
+somewhat and there was a resulting desire to tighten terms to encourage banks to seek 
+private, nonguaranteed funding (European Commission 2010).  These specifications 
+concerned increased guarantee fees and a requirement that banks reliant  on government 
+guarantees submit viability plans for the EC’s review.  As will be discussed more below, the 
+EC’s guidelines were not only largely followed by European countries adopting programs, 
+but also influenced program design in countries outside the EU. 
+In general, the countries introducing guarantee programs did so with the stated purpose of 
+ensuring that their financial institutions had continued access to short - and medium-term 
+funding. Often there was also a stated desire by a country to avoid its institutions being put 
+at a competitive disadvantage.  In some instances, this competitive consideration even 
+appears to have been the primary motivation . Canada, for example, in announcing the 
+Canadian Lenders Assurance Facility (CLAF) on October 23, 2008, described its purpose as 
+“ensur[ing] that financial institutions in this country are not put at a competitive 
+disadvantage when raising funds in wholesale markets given similar actions recently 
+announced by other countries.” 
+Given the global breakdown in banks’ access to funding and the widespread adoption of 
+guarantee programs during the GFC, the decision of certain jurisdictions not to adopt 
+programs also merits consideration.  A main factor appears to have been the dominance of 
+domestic banking systems by foreign banks that received support from their home countries. 
+The Czech Republic, for example, determined that a program wasn’t necessary given that (a) 
+its banks were subsidiaries of foreign banks, (b) those subsidiaries were funded mostly with 
+domestic deposits , and (c) regulations restricted the foreign banks from transferring 
+liquidity to their foreign parents.9  
+The guarantee programs introduced during the GFC saw significant use in the aggregate, but 
+were not uniformly utilized. Between  October 2008 and May 2010 (by whi ch time 
+guaranteed issuances had slowed and many programs were no longer active), nearly 1,400 
+guaranteed bonds representing more than €1 trillion were issued by approximately 2 00 
+banks in 17 countries (Le vy and Schich 2010). Guaranteed bond issuance began slowly in 
+October and November of 2008 , as programs became operational and most usage was 
+limited to Europe. By December 2008 , bond issuance pursuant to the United States Debt 
+Guarantee Program began and dramatically increased monthly usage figures. (Panetta et al. 
+2009). As indicated in Figure 1  below, usage remained heavy in early 2009 before falling 
+sharply in May of that year and remaining much lower from that point onward.   
+ 
+by the European Central Bank on October 20 (ECB 2008) and by the European Commission on October 25 (EC 
+2008) in describing how it would implement state aid rules to address measures taken by national 
+governments during the crisis. 
+9 Financial Stability Report 2008/2009, Czech National Bank . 
+75
+Bank Debt Guarantee Programs McNamara et al.
+
+--- Page 8 ---
+Figure 1: Monthly Issuance of Guaranteed Bonds Globally 
+ 
+ 
+ 
+ 
+Source: Levy and Schich 2010. 
+These figures include only bonds and thus  understate the total amount of guaranteed debt 
+issued in the United States, which (as discussed in Key Design Decisions below) included a 
+wider scope of debt in its program (particularly initially)  than many others . Although 
+guaranteed bond issuance in the United States did not begin until December 2008, issuance 
+of other guaranteed debt including three-month debt, interbank lend ing, and commercial 
+paper began right away and exceeded European bond issuances in October and November. 
+The composition of issuers making use of guarantee programs varied over time. The average 
+credit rating of banks issuing guaranteed debt in the second half of 2009 (by which point 
+market conditions had begun to improve) was significantly lower than the average credit 
+rating of banks issuing guaran teed debt from October 2008 to April 2009 (Levy and Schich 
+2010).    
+Table 2 below lists the amount of guaranteed issuances under each program.  The United 
+States, Germany , and the U nited Kingdom saw the highest usage in absolute terms, but 
+trailed countries such as Ireland and Greece in terms of usage as a percentage of GDP.   
+76
+Journal of Financial Crises Vol. 2 Iss. 3
+
+--- Page 9 ---
+Table 2: Program Usage 
+ 
+ 
+ 
+ 
+Amounts reflect the guaranteed debt issued during the course of the programs’ existence.  
+Figures expressed as approximations were converted to euros from other currencies based on 
+exchange rates as of October 2008. 
+Source: Author analysis. 
+ 
+Another difference is the extent to which program usage was widespread across many 
+financial institutions versus concentrated among a few significant issuers.  Figure 2 below 
+compares the share of total guaranteed issuance accounted for by the two largest borrowers 
+in each country.  As Figure 2  illustrates, guar anteed issuance in Germany and the United 
+Kingdom was far more concentrated than in the United States and Australia. 
+Figure 2: Share of Issuance by Two Largest Borrowers 
+ 
+ 
+ 
+ 
+Source: Grande et al. 2011. 
+77
+Bank Debt Guarantee Programs McNamara et al.
+
+--- Page 10 ---
+As indicated in Table 2, programs in several countries were not used at all. Several potential 
+factors may have contributed to this lack of activity: 
+• The fact that a country adopted its program for competitive purposes rather than 
+based on a perceived need for the guarantees among financial institutions (as was the 
+case, for example, in Canada) 
+• The amount of the participation fees charged to issuers of guaranteed bonds 
+potentially being too high relative to the benefit that the guarantee provided (as will 
+be discussed more below and may have been the case in countries including Italy, 
+Hungary, and Poland) 
+• The conditions for participation potentially having been too restrictive/stigmatizing 
+(as will be discussed more below and may have been the case in countries including 
+Belgium) 
+• The fact that other programs in existence at the same t ime offered better terms (as 
+may have been the case with the United Kingdom’s Asset -Back Securities Guarantee 
+Scheme) 
+A final consideration with respect to usage is the extent to which instituti ons that did make 
+use of guarantees also participated in other government interventions. Panetta et al. (2009) 
+analyzed a sample of 85 financial institutions receiving government assistance.  Around half 
+of the sample (44 institutions) had received capital injecti ons while three -quarters (64  
+institutions) had issued guaranteed debt.  Half of the 44 institutions receiving capital 
+injections also issued guaranteed debt.  Perhaps most interestingly, banks receiving larger 
+capital injections also seem to have issued more guaranteed debt.     
+II. Key Design Decisions 
+Related Programs  
+Given their adoption in late 2008/early 2009 at the height of the crisis, it is perhaps not 
+surprising that many of the guarantee programs studied were not introduced in isolation but 
+rather formed one component of broader packages. These packages included measures like 
+asset purchase programs, bank recapitalizations, deposit insurance expansions  and 
+emergency liquidity facilities.  
+The existence of related programs in fluenced eligibility for guarantee programs in certain 
+countries. In the United Kingdom, eight major institutions participating in a related bank 
+recapitalization program became eligible for the Credit Guarantee Scheme  automatically—
+all other banks had to apply for inclusion. New Zealand required institutions participating in 
+its guarantee program to also participate in a related deposit insurance program.  In the 
+United States, the government told at least the nine major financial institutions receiving the 
+initial capital injections made available through the Capital Purchase Program  (CPP) that 
+78
+Journal of Financial Crises Vol. 2 Iss. 3
+
+--- Page 11 ---
+participation in the Debt Guarantee Program and CPP were linked.  As noted above, greater 
+participation in related programs such as recapitalization schemes may also be linked  with 
+greater issuance of guaranteed debt. The interplay between capital injections and guarantee 
+programs in particular is perhaps not surprising given that there does not appear to be an 
+example of a jurisdiction that successfully addressed a failing ban king system through the 
+use of a guarantee alone. Rather, guarantees combined with recapitalization programs seem 
+to have been necessary. 
+Legal Authority  
+The legal authority pursuant to which the guarantees adopted during the GFC were put into 
+place varie d by country . Certain jurisdictions required  additional legislation or executive 
+rulemaking, while other jurisdictions relied on standing authority, as can be seen in Table 3 
+below. A hybrid category of three countries (Australia, Canada , and Finland) poss essed 
+standing authority to establish guarantee programs but required legislative action to 
+establish program size or authorize funding. Programs adopted in EU countries also required 
+the approval of the EC as being compatible with EU restrictions on State aid contained in the 
+Treaty on the Functioning of the European Union  (TFEU). To evaluate the guarantee 
+programs that began appearing in October  of 2008, the EC refined its approach to state aid 
+in response to the intensifying crisis. The EC relied on a different provision in the TFEU than 
+what was typically utilized under its classical approach , in order to consider actions 
+necessary to remedy a “serious disturbance in the economy of a Member State.” This change 
+“enabled the Commission  to act in a coordinated and consistent way… and to take its 
+decisions quicker” (European Commission 2011). The need to structure programs in such a 
+way as to  ensure EC approval significantly influenced the design decisions made by EU 
+countries (as will be seen in the discussion of additional Key Design Decisions below). 
+Table 3: Legal Authority for Guarantee Programs 
+ 
+ 
+ 
+ 
+Source: Author analysis. 
+79
+Bank Debt Guarantee Programs McNamara et al.
+
+--- Page 12 ---
+Two countries in which additional legislative action was required relied on secondary 
+sources of authority in order to implement their programs immediately while that action 
+was still pending.  In Canada, the Minister of Finance announced the CLAF prior to the 
+Canadian Parliament having authorized payments under the guarantee (as w ould be 
+required by Canadian law for such payments to be made). To allow for such payments in the 
+interim, the legal documentation for the CLAF provided that “alternative purchase 
+commitments” could be used for funding. Under these “alternative purchase commitments,” 
+the Minister of Finance would use his or her authority to buy assets to purchase any 
+guaranteed debt that went into default for a price equal to the amount owed pursuant to the 
+guarantee. The holders of the guaranteed debt would thus receive th is purchase price in 
+satisfaction of their claims under the CLAF. 
+In South Korea, new legislation was needed to establish the State Guarantee of External Debt 
+of Korean Banks. The Korea Development Bank and Korea Eximbank assumed responsibility 
+for providing guarantees until this new legislation passed.  Following the adoption of the 
+authorizing legislation, responsibility for any guarantees provided by these entities would 
+be transferred to the Minister of Finance.  
+Program Size  
+The programs studied adopted a variety of approaches to the question of how much 
+guaranteed debt could be issued pursuant thereto. As illustrated in Table 4 below, a number 
+of programs had no specified cap (and thus theoretically could involve unli mited issuances, 
+although, as discussed in Limitations on Participation below , there were often caps on the 
+amounts that could be issued by individual institutions) . Other countries adopted specific 
+sizes based on such factors as expected usage (e.g., the United Kingdom) or the amount of 
+debt maturing during a given timeframe (e.g., South Korea). 
+Table 4: Maximum Program Size 
+ 
+ 
+ 
+ 
+Amounts reflect the largest program size established during the course of the programs’ 
+existence, not necessarily the amount announced upon introduction.  Figures expressed as 
+approximations were converted to euros from other currencies based on exchange rates as of 
+80
+Journal of Financial Crises Vol. 2 Iss. 3
+
+--- Page 13 ---
+October 2008. * Ireland’s EC state aid decision references a maximum issuance amount, but the 
+figure is redacted as confidential.  
+Source: Author analysis. 
+ 
+The maximum size of some programs fluctuated over time, whether up because of increased 
+need or down because of reduced need and/or a desire to reduce potential exposure.  The 
+following changes from announced program size occurred: 
+• Portugal increased its program from an initial €20B to €35B 
+• Spain increased its program from an initial €100B to €164B 
+• Finland reduced its program from an initial €50B to €17B 
+• Poland increase its program from an initial ~€14B to ~€56B 
+• Austria reduced its IBSG program from an initial €75B to €50B 
+• Greece increased its program from an initial €15B to €93B  
+Eligible Institutions  
+A key question in designing guarantee programs is who will be eligible to participate in them. 
+Each of the programs studied defined categories of institutions tha t were eligible to 
+participate. Banks were always eligible as seen in Table 5  below. Less often eligible were 
+insurance companies and other nonbank financial institutions  (most commonly mortgage 
+companies in countries other than the United States ). Countries generally imposed a 
+requirement that institutions be solvent to be eligible. ECB guidelines issued on October 20, 
+2008, called for guarantees to target “liquidity constrained solvent banks.”  Subsequent EC 
+guidance on October 25, 2008 , relaxed this approach , explicitly contemplating that 
+guarantees could be used to “keep [an] insolvent institution afloat” as long as steps were 
+subsequently taken to restructure or liquidate the institution. Nevertheless, solvency seems 
+to have been a consistent requirement for eligible institutions.    
+Many programs imposed additional eligibility requirements having to do with such factors 
+as capital (i.e., specific required levels beyond general solvency requiremen t), credit rating, 
+prior issuance, volume of lending, liquidity, market share/ size of domestic operations, and 
+systemic importance. In almost all countries , subsidiaries of foreign banks were eligible to 
+participate on the same terms as domestic banks. Australia and New Zealand were unique in 
+also allowing foreign branches to participate, albeit on heavily restricted terms.  The 
+justification cited by authorities for differential treatment of foreign branches versus foreign 
+subsidiaries was typically that the former, not being incorporated and independently 
+capitalized in the relevant jurisdictions, were not subject to the same degree of oversight and 
+control as the latter.   
+The United States adopted a unique opt-out structure pursuant to which eligible institutions 
+were automatically enrolled in  the program unless they made a  non-reversible decision to 
+81
+Bank Debt Guarantee Programs McNamara et al.
+
+--- Page 14 ---
+opt-out by a specified date. The FDIC intended the opt-out structure and the non-reversible 
+nature of the decision  to opt -out to promote broad participation even among healthy 
+institutions. Such a healthy institution might be reluctant to opt -out not knowing whether 
+conditions would worsen in the future, necessitating later use of the guarantee program.  
+The exception to the above opt -out framework in the United States was certain nonbank 
+financial institutions (NBFI s) that were required to apply to the FDIC for eligibility, which 
+would be granted in the FDIC’s sole discretion  based on factors including the size and 
+financial strength of the organization . The FDIC, whose historical mandate and  experience 
+revolved around the protection of insured depository institutions, had initially sought to 
+limit the program to such institutions.  The Treasury and Federal Reserve argued for the 
+inclusion of a broad range of nonbank financial institutions. Ultimately, those eligible for the 
+Debt Guarantee Program included insured depository institutions and bank and financial 
+holding companies. The inclusion of holding companies stemmed from the observation that 
+the senior unsecured debt covered by the DGP was typically issued at the holding company 
+level in most holding company structures, with the holding companies then providing 
+liquidity to their depository institution subsidiaries.  
+The range of NBFI s eligible for participation in the Debt Guarantee Program  was more 
+expansive than the range in other countries (which was often limited to mortgage 
+companies), and NBFI General Electric Capital Corporation ended up being among the Debt 
+Guarantee Program’s most active issuers. NBFIs that issued guaranteed debt outside the U.S. 
+included LeasePlan Corp. N.V., a fleet management company held mainly by Volkswagen 
+Group, in the Netherlands; and Volvofinans Bank AB, in Sweden.  In the United Kingdom, 
+specialized lenders were excluded from the Asset -Backed Securities Guar antee Scheme 
+despite their importance to that market, likely contributing to a lack of use . In Germany, 
+special purpose vehicles (SPVs) were eligible to issue guaranteed debt in order to enable 
+financial institutions to transfer troubled assets to such SPV s in exchange for government 
+guaranteed debt.  
+Table 5: Eligible Institutions 
+ 
+ 
+ 
+ 
+82
+Journal of Financial Crises Vol. 2 Iss. 3
+
+--- Page 15 ---
+B = banks, I = insurance companies, NBFI = other nonbank financial institutions, FOR = foreign 
+subsidiaries; Institutions coded as eligible only if explicitly identified as such in program 
+documents and/or appearing in usage results for program. 
+CAP = capital requirements  (beyond “solvency”), CR = credit rating requirements, ISS = prior 
+issuance requirements, LEND = lending requirements, LIQ = liquidity requirem ents, MARK = 
+market share/ size of domestic operations requirements, SI = systemic importance 
+requirements. 
+Source: Author analysis. 
+ 
+There is some evidence that initial eligibility requirements may have been seen by potential 
+participants as too stringent in certain countries , given their subsequent relaxation . In 
+Hungary, an initial requirement that participants have regulatory capital in an amount that 
+limited participa tion to Hungary’ s largest banks was later removed.  Sweden changed its 
+initial capital requirement from 6% Tier 1 and 9% combined Tier 1 and Tier 2 to be 8% 
+combined Tier 1 and Tier 2 only.   In Ireland, on the other hand, eligibility became more 
+restricted over time as certain foreign subsidiaries of Irish banks were ultimately removed 
+from the Irish program given their pre-existing coverage in host jurisdictions.   
+Eligible Debt  
+Type 
+In general, t he programs studied guaranteed new,  senior, unsecured debt of specified 
+maturities (such maturities discussed below). In describing the types of debt that should be 
+eligible for participation in guarantee programs, the EC’s guidance of October 25, 2008 , 
+encapsulates the approach that seems to have been adopted by most jurisdictions:  “the 
+selection of the types of debt and liabilities covered must be targeted, to the extent 
+practicable, to the specific source of difficulties and restricted to what can be considered 
+necessary to confront the relevant aspects of the current financial crisis,” with subordinated 
+debt and “indiscriminate coverage of all liabilities” not included because “it would merely 
+tend to safeguard the interests of shareholders and other risk capital investors.”  
+Two exceptio ns to this typical policy  of focusing on senior unsecured debt  merit 
+consideration. First, several (mostly European) countries weighed whether or not to include 
+covered bonds within the scope of their guarantee programs.  In Denmark, an Original 
+Guarantee Scheme launched on October 10, 2008, provided blanket coverage of almost all 
+senior unsecured debt , explicitly excluding  covered bonds.  Sweden and Finland, in later 
+introducing their own guarantee schemes in late October 2008, cited a perceived drying up 
+of the covered bond market as a result of this exclusion in successfully lobbying the EC for 
+approval to include covered bonds in the Swedish and Finnish programs. 10 Denmark itself 
+launched a New Guarantee Scheme in early February 2009 that included covered bonds. New 
+ 
+10 The EC characterized Finland’s position, for example, as follows: “The Finnish authorities submit that their  
+guarantee needs to include covered bonds because the experience in Denmark, where they were excluded, 
+has shown that in their view this market would dry up without the guarantee” (State Aid N 567/2008 – 
+Finland Guarantee scheme for banks' funding in Finland, November 13, 2008). 
+83
+Bank Debt Guarantee Programs McNamara et al.
+
+--- Page 16 ---
+Zealand and Germany also included covered bonds in their programs, and Italy and Portugal 
+eventually added covered bonds over the course of their respective programs as conditions 
+changed.11  
+In approving the inclusion of covered bonds, the EC generally made note of some or all of the 
+following factors: 
+• The fact that covered bonds, although already collateralized, could be “shunned” 
+given market failures if not guaranteed  
+• The importance of covered bonds to the respective financial systems (e.g., “over 
+80% of Swedish housing loans are packaged in the form of covered bonds”) 
+• Design features limiting the total issuance of guaranteed covered bonds relative 
+to the overall size of the programs (typically to one-third) 
+A second potential exception involved the inclusion of interbank deposits. Guidance from the 
+ECB issued on  October 20, 2008 , called for such deposits to be excluded from guarantee 
+programs, as the ECB had existing programs addressing illiquidity in the interbank market 
+in its role as lender of last resort (Euro Summit 2008). Spain initially contemplated including 
+interbank deposits in its program but ultimately did not do so.  Belgium appears to have 
+included interbank deposits despite the ECB’s guidance and a subsequent recommendation 
+from the ECB directly to the Belgian government that these deposits be excluded. Interbank 
+deposits were included in the U.S. program and issued with the guarantee in moderate 
+amounts in the early months of the program and the following spring.  
+The widespread decision to limit programs to new debt  merits consideration, particularly 
+given that certain jurisdictions introduced blanket guarantees covering existing debt before 
+switching to guarantees focused on new debt instead. Denmark’s Original Guarantee Scheme 
+included existing debt before t he government replaced it with the New Guarantee Scheme 
+focused on newly issued debt. In Ireland, the blanket guarantee on existing debt established 
+by the CIFS gave way to the Credit Institutions (Eligible Liabilities Guara ntee) Scheme’s 
+coverage of newly issued debt. In the United States, proposals to include existing debt were 
+made with the belief that excluding such debt would leave its holders worried about haircuts 
+and defaults. 12 The FDIC objected to this approach, however, on the basis that existing 
+debtholders had already made their decisions to purchase debt with no expectation of a 
+guarantee. It thus limited the Debt Guarantee Program to newly issued debt.    
+ 
+ 
+11 In addition to those programs that included covered bonds, the United Kingdom launched a guarantee 
+program specifically for asset-backed securities and programs in Germany and Greece allowed for guaranteed 
+debt to be backed by collateral with a 25-basis-point reduction in the guarantee fee.  
+12 Another related approach proposed was to guarantee existing debt but only in the event of default (i.e. 
+preannounce that the creditors of a failing bank would be protected).  
+84
+Journal of Financial Crises Vol. 2 Iss. 3
+
+--- Page 17 ---
+Maturities 
+The guarantee programs introduced during the GFC were concerned primarily with meeting 
+the short- and medium-term financing needs of banks and adopted approaches to eligible 
+maturities that matched this objective . Each of the programs studied had a maximum 
+guarantee duration of between three years and five years (with the five-year maximum being 
+available in some countries only under exceptional circumstances)13. One notable difference 
+in approaches was how this maximum guarantee duration was achieved.  In most countries 
+only debt with mat urities of up to three years (or five years) could be issued with a 
+guarantee. The guarantee would then last until the debt matured.  A minority approach 
+adopted only in Canada, New Zealand, South Korea, and the United States  placed no 
+maximum maturity on guaranteed debt, but the guarantee would only last for a specified 
+portion of the debt’s life.  Thus, under such a program a 30 -year bond could be issued that 
+would only be guaranteed for its first five years. 
+On the minimum e nd, the existence of other government emergency and market liquidity 
+programs to address overnight and very short -term borrowing resulted in the broad 
+adoption of three months or 90 days  as the shortest maturity eligible  (Canada, Finland, 
+Greece, Hungary, Italy, Netherlands, Poland, Portugal,  Spain, and Sweden). This minimum 
+was also consistent with ECB guidance that short -term debt with maturities of less than 
+three months not be included in guarantee programs.  
+Several other jurisdictions (Australia, Austria, Belgium, Denmark, France, Germany, Ireland, 
+New Zealand, South Korea , and the United Kingdom ) had no specified minimum.  In the 
+United States, which initially had no minimum, the FDIC later imposed a 31 -day minimum 
+maturity because disruptions were less serious in very short-term money markets as a result 
+of other government efforts , and it wanted to concentrate the D ebt Guarantee Program on 
+“help[ing] institutions to obtain stable, longer -term sources of funding where liquidity is 
+currently most lacking.” 14  Similarly, Finland ultimately increased its minimum maturity 
+from 90 days to 12 months.     
+Currencies 
+Over half of the programs studied allowed guaranteed debt to be issued in all currencies . 
+Several other programs included one or more currencies in addition to the jurisdiction’s 
+own. This was sometimes accompanied by a fixed surcharge on foreign currency issuances 
+(Canada—20bps for non-Canadian currencies) or at least the discretion to impose additional 
+fees to compensate for foreign exchange risk. 
+In the United Kingdom, a limited list of eligible currencies (sterling, euros , and U.S. dollars) 
+was later expanded to include Australian dollars, Canadian dollars, Swiss francs, and yen for 
+ 
+13 Maximum maturities were typically set at three years when programs first launched, but several 
+jurisdictions including Portugal, the Netherlands, Finland, Spain,  and Germany later extended the maximum 
+to five years. Portugal and Italy later extended maximum maturities to seven years for covered bonds.   
+14 Temporary Liquidity Guarantee Program; Final Rule 12 CFR Part 370, November 26, 2008.  
+85
+Bank Debt Guarantee Programs McNamara et al.
+
+--- Page 18 ---
+the explicit purpose of broadening the investor base for British banks.  South Korea’s State 
+Guarantee of External Debt of Korean Banks was unique in lim iting its program to foreign 
+currencies only, given South Korea’s concern that it was access to external funding that was 
+most at risk during the GFC.   
+Participation Limits for Individual Firms   
+The belief that guarantee programs should enable institutio ns to meet existing refinancing 
+needs rather than fuel further growth  at the expense of non -beneficiary banks, prompted 
+many jurisdictions to place caps on the amount of guaranteed debt that a given institution 
+could issue . As stated in the EC’s guidance o f October 25, 2008, “[t]he limitation of the 
+amount of the guarantee available…may also be an element safeguarding the proportionality 
+of the scheme.” A typical approach was to measure the amount of outstanding debt maturing 
+within a specified, near-term timeframe and then add a bit of a cushion (often 25%) and to 
+use the resulting figure as the cap.  The different approaches to participation limits for 
+individual firms can be summarized as follows: 
+• No cap: Australia, Austria – OeCAG, Belgium, Denmark, Germany, Hungary, Ireland, 
+Poland, Portugal, United Kingdom – ABS Guarantee Scheme 
+• Cap based on maturing liabilities:  Canada (alternatively, Canadian deposits), 
+Finland, Netherlands, New Zealand, South Korea, Sweden (alternatively, public 
+deposits), United States 
+• Cap based on other measures:  Austria - IBSG (criteria unclear), France (balance 
+sheet size), Greece (liquidity, market share, maturities , and lending to small and 
+medium enterprises),  Italy (supervisory capital), Spain (domestic market sha re), 
+United Kingdom – Credit Guarantee Scheme (sterling deposit liabilities) 
+The cap on guaranteed issuances by individual institutions was particularly important in the 
+United States. Per the terms of the Debt Guarantee Program, institutions could not issue non-
+guaranteed debt until the cap was reached . The one exception to this prohibition required 
+firms to make a declaration of intention to issue non-guaranteed debt by a specified date and 
+pay a 37.5bps fee  on outstanding senior unsecured debt within a s pecified maturity range. 
+The stated rationale for this restriction was the reduction of adverse selection—the concern 
+that an institution would issue only risky types of debt under the guarantee.   
+Fees 
+Each of the programs studied charged participants a fee for the guarantees provided.  The 
+major points of differentiation between programs on the subject of fees involved whether or 
+not fees would be based on the credit risk of the individual participants and, if so, how risk 
+would be measured. As shown in Table 6 below, the vast majority of programs charged risk-
+based fees.  The United States, in adopting the minority approach, specifically considered 
+introducing a risk-based fee but opted not to for practical reasons. The FDIC felt that it lacked 
+the time and, in the case of guarantee -eligible participants not normally under the FDIC’s 
+jurisdiction, the authorization/expertise to effectively assess differential risk.  
+86
+Journal of Financial Crises Vol. 2 Iss. 3
+
+--- Page 19 ---
+Table 6: Fees for Guarantee Programs 
+ 
+ 
+ 
+ 
+Source: Author analysis. 
+As Table 6  illustrates, a large number of European jurisdictions (but not all European 
+jurisdictions) adopted a risk -based approach to fees that utilized the  CDS (credit default 
+swap) spreads of participating institutions.  This convergence occurred as a resul t of the 
+guidance issued by the ECB on October 20, 2008 , that recommended that annualized 
+guarantee fees be based on the following principles (ECB 2008): 
+• Debt with maturities of one year or less should be charged a flat fee equal to 50 basis 
+points “as CDS spreads may not provide an adequate measure of credit risk for such 
+debt” 
+• Debt with maturities exceeding one year should be charged a fee based on CDS 
+spreads (which “provide a good reference to ensure that governments get a fair 
+compensation and to minimise market distortions”) and an add -on fee equal to 50 
+basis points (“to recover the operational costs and to help preserve the level playing 
+field”) 
+• The CDS spreads used should be median five-year CDS spreads (“the most liquid 
+CDS instruments”) for a reference period from January 1, 2007, to August 31, 2008 
+(to “reduc[e] the impact of extremely high CDS values that emerged especially in 
+[September and October 2008]”) 
+87
+Bank Debt Guarantee Programs McNamara et al.
+
+--- Page 20 ---
+• Institutions without CDS data should use an equivalent CDS spread based on 
+similarly rated institutions  
+The specific formula that results from these principles can be expressed as: 
+Annualized Fee = 50bps + [ for debt with maturity greater than one year]  median five-
+year CDS spread from January 1, 2007, to August 31, 2008 
+The majority of countries listed in Table 6 as adopting CDS-based fees initially followed this 
+base formula. 15 Further EC guidance issued on April 30, 2010 , required that programs 
+extended beyond June 30, 2010 , increase their fees from the ECB’s base form ula by at least 
+20bps to 40bps based on the credit rating of the participating institution to “promote a 
+gradual phasing out of guarantee schemes.” EU countries with programs running beyond this 
+date thus ultimately adopted fee increases. 
+Even with this ECB-driven convergence many jurisdictions adopted unique elements in their 
+approach to fees. Finland adopted a 5bps surcharge for institutions whose Tier 1 capital fell 
+below 7%. Italy levied a 50bps surcharge (imposed after 24 months) on debt with maturities 
+exceeding two years. Multiple jurisdictions (Greece, Finland, and Sweden) reduced the add-
+on fee from 50bps to 25bps when guaranteeing covered bonds or when collateralized.  In the 
+United States, a 10bps surcharge applied to certain nonbank financial institutions.  In the 
+United Kingdom, the repurchase of guaranteed debt by issuers was initially prohibited and 
+then later subjected to a surcharge equal to 15% of the fee that wo uld otherwise have been 
+due.    
+For countries adopting a minority (i.e., non -risk-based or credit-ratings-based) position on 
+fees, there was a greater diversity of approaches.  Non-risk-based fees could either be a flat 
+annualized fee (100bps for South Korea and 100bps plus a 70bps setup fee for Belgium ) or 
+an annualized fee range based on maturity (50bps to 1 00bps for the United States  initially 
+and later 50bps to 150 bps for debt issued beginning April 1, 2009 ). Similarly, for countries 
+that relied on credi t ratings, fees could either involve an annualized range based on those 
+ratings (70bps to 150bps for Australia, 85bps to 250bps initially for New Zealand) or a flat 
+fee with a surcharge for issuers below a certain ratings threshold (160bps plus a 25bps 
+surcharge below A3/A-/A- initially for Canada).   
+Notwithstanding this diversity of approaches, it is interesting to note the extent to which  
+most programs’ fees were similar . Levy and Schich  (2010) note that average fees across 
+jurisdictions were mostly near 100bps, with Germany at the low end of this clustering with 
+an average fee of 91bps , and the United Kingdom on the high end with  an average fee of 
+114bps.  
+ 
+15 The two that diverged were France (with an add-on fee of only 20bps) and the United Kingdom (which 
+used a different reference period from July 2, 2007, to July 1, 2008). 
+88
+Journal of Financial Crises Vol. 2 Iss. 3
+
+--- Page 21 ---
+The correct pricing of guarantees can be both complicated and essential to the success of the 
+program. Not surprisingly, therefore, an analysis of the programs studied reveals numerous 
+decisions for designing fees that appear to have been problematic.  This can be suggested 
+either by the fact that the decision was later amended (often with an ex planation for the 
+amendment that spells out what went wrong) , or by the fact that the result of the decision 
+was the opposite of the stated rationale for having made it.  The prime example in the latter 
+category, and perhaps the biggest example of a flawed fee design decision , concerns the 
+ECB’s attempt to maintain a level playing field by promoting identical fee structures across 
+countries. As discussed in more detail in Evaluation below, the most significant factor in 
+determining how much a government guarantee will reduce spreads and improve borrowing 
+costs for issuers is the creditworthiness of the sovereign making the guarantee.  Given that 
+sovereign creditworthiness varied considerably across countries, similarly situated issuers 
+from different jurisdictions ended up paying the same fees for guarantees with dramatically 
+different values. This resulted in a variety of distortions and several programs that remained 
+unused given the low value of their sovereigns ’ guarantees relative to the fees charged , as 
+further discussed in Evaluations.  To address this issue , either the value of the guarantees 
+across countries must be made consistent (e.g., by using a multi -lateral body to provide 
+them) if fee structures remain  uniform, or fee structures must stop being uniform (e.g., by 
+having “weak” sovereigns charge less than “strong” sovereigns) if the value of the guarantees 
+provided remains inconsistent. Neither solution is without political difficulty. (See, e.g., Levy 
+and Schich 2010 and Grande et al. 2011.) 
+During the GFC , there were also several examples of countries that lowered fees that had 
+come to be seen as prohibitively high. In the United States, the FDIC abandoned an initial flat 
+fee of 75bps for a range of 50bps to 10 0bps (later 150bps given surcharges for debt issued 
+beginning April 1, 2009 ) based on maturity due to concerns that 75bps was too high for 
+short-term debt. Canada’s initial fee of 160bps plus a 25bps surcharge for institutions rated 
+below A3/A-/A- was replaced by a fee of 110bps plus the surcharge to make the CLAF more 
+competitive. New Zealand repeatedly lowered its fees from a range of 85bps to 250bps to a 
+range of 70bps to 200bps  to better match marke t conditions. In 2012, Portugal calculated 
+the fee for three large banks based on the CDS spreads from a sample of other EU banks in 
+light of the belief that Portuguese sovereign spreads were artificially inflating its banks’ CDS.    
+Other Conditions 
+The additional conditions placed on participants in guarantee programs is another area in 
+which the need for EC approval influenced many countries’ design decisions . The October 
+25, 2008 , guidance on guarantee programs issued by the EC called for the inclusion in 
+programs of a set of safeguards “to minimize…distortions and the potential abuse of the 
+preferential situations of beneficiaries brought about by a State guarantee” and “to avoid 
+moral hazard. ” This guidance did not specify  exactly what safeguards a program should 
+include, but required “an adequate combination” of elements including restrictions on 
+advertising based on the guarantee, balance sheet growth, share buybacks , and executive 
+compensation. As indicated in Table 7 below, some of these elements were incorporated into 
+programs adopted in most EU countries. 
+89
+Bank Debt Guarantee Programs McNamara et al.
+
+--- Page 22 ---
+Table 7: Common Conditions on Participation 
+ 
+ 
+ 
+ 
+ADV – advertising, BUY – share buybacks, COMP – executive compensation, DIV – dividends, 
+GROW – growth, LEND – minimum lending requirements. 
+Source: Author analysis. 
+ 
+A number of jurisdictions also adopted unique requirements for participation as follows: 
+• Germany – participating institutions had to review their business models, with  risky 
+lines of business subject to divestiture or reduction at the direction of the government 
+• Hungary – participating institutions had to  issue a veto share enabling the 
+government to block certain corporate actions like dividend payments, compensation 
+payments, etc. 
+• United Kingdom (Credit Guarantee Scheme) – participating institutions had to submit 
+a plan for accessing wholesale funding without benefit of a guarantee 
+The participation requirements associa ted with guarantee programs were, in general, less  
+stringent than those associated with capital injection and/or asset purchase programs in 
+many countries.  In the United Kingdom, for example, a set of conditions including 
+compensation restrictions, lending commitments , and support for mortgage assistant 
+programs imposed on participants in the Bank Recapitalisation Fund did not generally apply 
+to the Credit Guarantee Scheme but could be imposed on a case -by-case basis.  
+Recapitalization programs in the United States and Germany similarly imposed restrictions  
+not included in the guarantee programs in those countries.  
+Still, there is reason to believe that the adoption of certain conditions may have discouraged 
+participation or at least been seen as having the potential to do so.  Multiple jurisdictions 
+ultimately abandoned conditions that they had considered or initially implemented.  In the 
+Netherlands, initial open -ended restrictions on compensation were later replaced with 
+specific guidelines. Finland eliminated proposed restrictions on b alance-sheet growth and 
+share buybacks prior to adoption.  Sweden, likewise, ultimately eliminated restrictions on 
+balance-sheet growth. Meanwhile, Belgium appears to have had broad discretion to impose 
+90
+Journal of Financial Crises Vol. 2 Iss. 3
+
+--- Page 23 ---
+conditions of an uncertain nature and saw no usage of its guarantee program, perhaps as a 
+result.   
+At the same time, several countries retained similar restrictions and still attract ed 
+participants to their guarantee programs. Participants in Denmark’s program, in particular, 
+appear to have been relatively h eavily restricted, yet its opt -in New Guarantee Scheme was 
+nonetheless widely utilized.  
+Process for Exercising Guarantee 
+As discussed in greater detail in the Evaluation section below, the timeliness of payment 
+upon exercising the guarantee in the event of default has a significant effect on determining 
+how much a government guarantee will reduce spreads and improve borrowing costs for 
+issuers. The empirical evidence in support of this conclusion is bolstered by examples of 
+countries that shifted from dela yed to more immediate payments .  In Canada, an initial 
+proposal called for a 30-day waiting period between the demand for payment by guarantee 
+beneficiaries and the actual payment.  Canada abandoned this approach in favor of “timely 
+payment” standard. In the United States, the FDIC originally said that it would only make 
+payments pursuant to the DGP upon an issuing institution declaring bankruptcy.  This 
+position was later replaced with a policy that payment could be triggered by the first default. 
+There were also countries that took specific steps to ensure timely payment. France required 
+debt payments to be deposited at the Bank of France several days before due to provide early 
+warning of any impending defaults.16  
+These approaches appear to have been in the minority, however . As illustrated in Figure 3  
+below, many jurisdictions had significant waiting periods before failure to pay could result 
+in their guarantees being exercised.  
+ 
+16 As a practical matter, this arrangement was made much easier by the fact that banks’ debt payments were 
+owed to the SFEF clearing SPV rather than to bondholders. 
+91
+Bank Debt Guarantee Programs McNamara et al.
+
+--- Page 24 ---
+Figure 3: Guarantee Program Grace Periods 
+ 
+ 
+ 
+ 
+Source: Panetta et al. 2009. 
+The programs studied also contain examples of unique, problematic requirements on default 
+that were preemptively addressed or later abandoned: 
+• Finland – participating mortgage banks were required to transfer guaranteed 
+mortgages to the s tate if the guarantee was triggered.  This transfer was legally 
+impossible to accomplish and was later repealed.  
+• Portugal – if a bank defaulted and called on a guarantee, the bank would be required 
+to either pay back the Portuguese state or exchange that o bligation for preference 
+shares. Later, the ability of the state to become a shareholder pursuant to the 
+guarantee program was limited. 
+• Spain – under existing Spanish law, payments could not be made under the guarantee 
+until the defaulting institution demo nstrated that it lacked the property to make 
+payment. The Spanish government waived this “beneficium excussionis” in 
+connection with its guarantee program.  
+Additional points for consideration are the sources from which funds would be drawn in the 
+event that guaranteed debt defaulted and countries were required to make payments 
+pursuant to their programs.  As noted above, each of the programs studied charged 
+participants guarantee fees that could be used to meet guarantee obligations . In the event 
+that these fees proved insufficient, most jurisdictions appear to have relied on the 
+government’s general ability to make payments.  There were two major exceptions to this 
+general approach. 
+92
+Journal of Financial Crises Vol. 2 Iss. 3
+
+--- Page 25 ---
+A small number of countries established pre-funded pools of money to back their guarantee 
+programs. Hungary created an approximately €1.1  billion Refinancing Guarantee Fund in 
+connection with its €20 billion aid package from the IMF and ECB.  The Hung arian 
+government intended this €1.1 billion Fund to support up to approximately €5.5 billion in 
+guaranteed issuances. Germany established a new €480 billion fund called SoFFin to issue 
+guarantees, purchase assets , and inject capital, with €400 billion of t his total earmarked 
+specifically for guarantees.  In Sweden, the government set up a stability fund  (discussed 
+below) to finance its efforts in support of the financial system.   
+A second exception involves countries that sought to have the banking sector f und their 
+guarantee programs even beyond the contribution of participation fees. In the United States, 
+the FDIC sought to make its Debt Guarantee Program completely industry -funded by 
+providing that if program losses exceeded participation fees, the difference would be funded 
+via a special assessment on all FDIC -insured institutions (whether or not they had actually 
+participated in the program).  In Sweden, the government seeded the stability fund backing 
+its guarantee program with approximately €1.5 billion (intended to amount to 0.5% of GDP), 
+but levied stability-fund fees on all financial institutions in proportion to their balance sheet 
+sizes to pay back this initial contribution and ultimately build the fund up to 2.5% of GDP. In 
+Denmark, the government ultimately replaced an Original Guarantee Scheme involving a 
+significant role for a banking industry group called PCA in the design, funding, and execution 
+of the program with a New Guarantee Scheme in which the PCA was less central.  The New 
+Guarantee Scheme, for example, charged participating institutions a fee directly as compared 
+with the Original Guarantee Scheme’s approach of allocating a certain amount of program 
+losses to the PCA that it then allocated to individual institutions.    
+Program Issuance Window  
+The guarantee programs adopted during the GFC were intended to be temporary measures 
+to address what was hoped would be relatively short-lived disruptions in wholesale funding 
+markets. Accordingly, at the time of introduction, they typically included initial windows for 
+issuing guaranteed debt that were around  six months to one year long.  However, 
+policymakers generally recognized “the…unpredictable duration of the fundamental 
+shortcomings in the functioning of financial market s” (to borrow the language of the EC’s 
+guidance of October 25, 2008) and allowed for some ability to extend these initial windows. 
+As illustrated in Table 8 below, most programs made use of this ability, even several that had 
+not seen any guaranteed issuan ces prior to extension.  Many of these extensions took place 
+during continued market turbulence in advance of scheduled termination dates in early-to-
+mid 2009. 
+  
+93
+Bank Debt Guarantee Programs McNamara et al.
+
+--- Page 26 ---
+Table 8: Issuance Window Expiration Dates 
+ 
+ 
+ 
+ 
+Source: Author analysis. Reflects initial termination of issuance window. Does not account for 
+programs later reintroduced in response to new difficulties. 
+By May 2009 , market conditions had begun to become much more favorable, and the 
+issuance windows for many programs were allo wed to expire in late 2009 into early 2010.  
+By April 2010, the EC had concluded that “access to funding [was] no longer a systematic and 
+generalized problem” such that programs extended beyond June 30, 2010 , should be 
+subjected to additional requirements to address distortions and move remaining guaranteed 
+issuers closer to market conditions. These requirements included the fee increases outlined 
+in the “ Fees” section  above and a mandatory long -term viability review for banks that 
+remained heavy users of gu arantees (European Commission 2010) . As shown in Table 8  
+above, a small number of jurisdictions (particularly some of those hard hit by the European 
+sovereign debt crisis) have continued extending their issuance window expiration dates.  
+Others (Italy, Spai n) reintroduced versions of their programs in 2011 -2012 in response to 
+the sovereign debt crisis. 
+Two unique approaches to issuance window expiration dates are worth highlighting: 
+• Australia intentionally did not announce an issuance window expiration date at the 
+time of the program’s introduction in order to avoid the risk of premature closure 
+and to communicate a commitment to keeping the program running as long as 
+necessary 
+• The United Kingdom’s Credit Guarantee Scheme allowed for the continued rolling 
+over of some guaranteed debt after the issuance window expiration date (debt equal 
+to up to one-third the program’s total size) 
+III. Evaluation 
+Any attempt to evaluate the effectiveness of the guarantee programs adopted during the GFC 
+faces significant challenges. As noted above, countries often introduced these programs as 
+94
+Journal of Financial Crises Vol. 2 Iss. 3
+
+--- Page 27 ---
+one component of broader packages of measures, and it can be difficult to disentangle the 
+effects of the guarantees from the effects of other parallel measures. Existing evaluations of 
+GFC guarantee programs have been generally positive, albeit generally written by central 
+bank economists with a stake in the outcome . This survey syn thesizes the evidence on 
+guarantee program effectiveness by seeking to answer two primary questions: 
+1. Were the programs effective at achieving their goals? 
+2. Did the programs have any unintended consequences?  
+Achievement of Goals 
+Grande et al. (2011) identify support for bank funding to avoid a liquidity crisis and support 
+for bank lending to avoid a credit cru nch as the twin objectives of the guarantee programs 
+generally. To this can be added the goal of restoring confidence in beneficiary banks more 
+broadly (i.e., not just in their guaranteed debt) . This results in three specific sub -questions 
+to be answered in evaluating whether guarantee programs were effective in achieving their 
+goals: 
+a. Were participating banks able to borrow? 
+b. Was confidence restored in participating banks more broadly? 
+c. Did participating banks resume lending? 
+On the question of bank borrowing , Levy and Schich (2010) argue that “[t]here appears to 
+be widespread agreement that, on the whole, government guarantees have…allow[ed] banks 
+to tap funds on the markets and roll over their maturing debt at a time when traditional 
+sources of funding were drying up.” In a conclusion echoed by other sources, Grande et al. 
+(2011) find that “[t]he available evidence…suggests that debt guarantees did help banks to 
+resume medium -term funding.”  Citing analysis from the BIS and IMF, the European 
+Commission (2011) also noted that the announcement of state aid programs including (but 
+not limited to) guarantees and their use had a positive (if somewhat temporary) effect on  
+broader confidence in banks as measured by their CDS spreads.  Meanwhile, Grande et al. 
+(2011) found a “broadly positive” relationship between issuance of guaranteed bonds and 
+lending growth by banks, suggesting that participating banks did in fact resume lending. 
+Unintended Consequences 
+One possible un intended consequence of g uarantee programs could be the “crowding out” 
+of non-guaranteed debt by guaranteed debt (i.e., the issuance of guaranteed debt in place of 
+non-guaranteed debt that would otherwise hav e been issued).  Panetta et al. (2009) have 
+studied the extent to which this actually occurred during the GFC.  They find that while 
+crowding out does not appear to have been a significant issue in the United States and most 
+of Europe, increased issuance of guaranteed debt in the United Kingdom from January to 
+April 2009 was associated with a decline in non-guaranteed issuance. Crowding out may also 
+have occurred specifically in the covered bond market in countries including Spain and 
+95
+Bank Debt Guarantee Programs McNamara et al.
+
+--- Page 28 ---
+France (Ibid.). As noted above, other European countries perceived the exclusion of covered 
+bonds from Denmark’s Original Guarantee Scheme as having dried up the market for such 
+bonds.   
+Work by Panetta et al. (2009) and others illustrates why Europe’s attempt to create a level 
+playing field by promoting the standardization of fees across countries produced significant 
+market distortions as another unintended consequence. Using a regression analysis on 321 
+guaranteed issuances, Panetta et al. calculated how much of a hypothetical spread on a 
+guaranteed bond can be attributed to various factors categorized as being either country -
+specific (e.g., sovereign creditworthiness, size of bank rescue packages as a percentage of 
+GDP, etc.), bank-specific (e.g., bank creditworthiness), or issue-specific (maturity, currency, 
+etc.). As illustrated in Figure 4  below, more than half of the total spread was driven by 
+country-specific factors, with the creditworthiness of the sovereign and the timeliness of 
+reimbursement under the guarantee upon def ault being the two most significant 
+considerations. 
+Figure 4: Breakdown of Guaranteed Bond Spread by Contributing Factor 
+ 
+ 
+ 
+ 
+Source: Panetta et al. 2009. 
+Panetta et al.’s finding with respect to this latter factor confirm the anecdotal evidence seen 
+during the crisis —several countries improved the timeliness of their guarantee payments 
+upon default (as described in Key Design Decisions above ), likely in hopes of bolstering 
+program usage. 
+With respect to the former factor, the finding that sovereign creditworthiness is the single 
+most important consideration in determining the effect of guarantee program s on spreads 
+underlines perhaps the most significant flaw in the design of guarantee programs during the 
+GFC. As discussed in Key Design Decisions above, in the interest of maintaining a level 
+96
+Journal of Financial Crises Vol. 2 Iss. 3
+
+--- Page 29 ---
+playing field , the EC and ECB encouraged countries to adopt an identical approach to 
+guarantee program participation fees. However, because sovereign creditworthiness varied 
+significantly across countries, similarly situated issuers in different jurisdictions would find 
+themselves paying the same fee for guarantees worth very different amounts in terms of the 
+reduction in spreads/improvement in borrowing costs that resulted.  This produced 
+significant distortions. As described by Levy and Schich (2010) and others, weak banks with 
+strong sovereigns were able to borrow at lower total cost than strong banks with weak 
+sovereigns. This dynamic became even more pronounced beginning in 2010 , as sovereign 
+creditworthiness further deteriorated in some countries with the onset of the Eurozone 
+crisis. Thus, for example, A+ rated banks in Portugal would h ave to pay a much higher 
+interest rate on their guaranteed debt (90-100 basis points above the swap rate) than BBB+ 
+rated banks in Germany (less than 20 basis points above the swap rate) (Panetta et al. 2009).  
+The low value of the guarantee , given sovereign creditworthiness concerns, may have been 
+a factor in the non-usage of programs in countries such as Italy, Hungary, and Poland. Some 
+countries with sovereign creditworthiness concerns such as Spain and Portugal nonetheless 
+saw significant issuance of guaranteed debt.  Even here, however, the identities of those 
+issuing guaranteed debt is telling. In Spain, guaranteed issuance was heavy but restricted to 
+smaller, local institutions for whom no other options appear to have been available.  By 
+comparison, Banco Bilbao (one of Spain’s largest banks) chose to issue guaranteed debt via 
+its BBB+ Puerto Rican subsidiary rather than its AA-rated Spanish parent because the former 
+was eligible for the United States’ guarantee program. Caamaño Alegre and Komilova (2013) 
+noted that Spain’s guarantee program was relatively expensive because of the country’s low 
+sovereign credit rating.  The approach to guarantee program fees adopted in Europe thus 
+failed to meet its stated objective of maintaining a level pla ying field.  That said, as noted 
+above, two potential solutions to this failure would have been politically difficult: (a) making 
+the value of guarantees consistent across countries (e.g., by using a multi -lateral body to 
+provide them) and (b) making fees reflect the value of guarantees by having “weak” 
+sovereigns charge less than “strong” sovereigns. 
+IV. References 
+Acharya, V and R Sundaram. 2008. “The other part of the bailout: pricing and evaluating the 
+US and UK loan guarantees ,” VoxEU.org, 26 October.  
+https://ypfs.som.yale.edu/library/other-part-bailout-pricing-and-evaluating-us-and-uk-
+loan-guarantees. 
+Black, J. R., S. A.  Hoelscher, and D. Stock. 2014. “Benefits of Government Bank Debt 
+Guarantees: Evidence from the Debt Guarantee Program.” Manuscript. 
+https://ypfs.som.yale.edu/library/benefits-government-bank-debt-guarantees-evidence-
+debt-guarantee-program. 
+Caamaño Alegre, José and Mukhbira Komilova. 2013. “El Otorgamiento de Avales del Estado 
+a las Emisiones de Deuda de las Entidades Financieras: Una Aproximación al Caso Español.” 
+97
+Bank Debt Guarantee Programs McNamara et al.
+
+--- Page 30 ---
+USC – Dereito. Vol. 22(2013): 91 -113. https://ypfs.som.yale.edu/library/el-otorgamiento-
+de-avales-del-estado-las-emisiones-de-deuda-de-las-entidades-financieras. 
+ 
+Department of Finance Canada. 2008. “Backgrounder, Canadian Lenders Assurance Facility.” 
+October 23, 2008. https://ypfs.som.yale.edu/library/backgrounder-canadian-lenders-
+assurance-facility. 
+ 
+European Central Bank. 2008. “Recommendations of the Governing Council of the European 
+Central Bank on government guarantees for bank debt ,” October 20.  
+https://ypfs.som.yale.edu/library/recommendations-governing-council-european-central-
+bank-government-guarantees-bank-debt. 
+European Commission. 2008. “Communication from the Commission —The application of 
+State aid rules to measures taken in relation to fin ancial institutions in the context of the 
+current global financial crisis ,” Official Journal of the European Union , October 25 . 
+https://ypfs.som.yale.edu/library/communication-commission-application-state-aid-
+rules-measures-taken-relation-financial. 
+———. 2010. “The Application Of State Aid Rules To Government Guarantee Schemes 
+Covering Bank Debt To Be Issued After 30 June 2010 ,” DG Competition Staff Working 
+Document, 18 May.  https://ypfs.som.yale.edu/library/application-state-aid-rules-
+government-guarantee-schemes-covering-bank-debt-be-issued-0. 
+———. 2011. “The effects of temporary State aid rules adopted in the context of the financial 
+and economic crisis ,” Commission Staff Working Paper, October.   
+https://ypfsresourcelibrary.blob.core.windows.net/fcic/YPFS/working_paper_en.pdf. 
+Euro Summi t. 2008. “Declaration on  a Concerted European Action Plan of  the Euro Area 
+Countries,” October 12.  https://ypfs.som.yale.edu/library/declaration-concerted-
+european-action-plan-euro-area-countries. 
+Grande, G. et al., 2011. Public guarantees on bank bonds: Effectiveness and distortions, OECD 
+Journal, 47.  https://ypfs.som.yale.edu/library/public-guarantees-bank-bonds-
+effectiveness-and-distortions. 
+Levy, A. and S. Schich. 2010. The design of government guarantees for bank bonds: Lessons 
+from the recent financial crisis, OECD Journal: Financial Market Trends, Vol. 2010, No. 1.  
+https://ypfs.som.yale.edu/library/design-government-guarantees-bank-bonds-lessons-
+recent-financial-crisis. 
+Levy, A. and A. Zaghini . 2010. “The Pricing of Government -Guaranteed Bank Bonds”, Banca 
+d’Italia Working Paper n. 753, March.  https://ypfs.som.yale.edu/library/pricing-
+government-guaranteed-bank-bonds-0. 
+Panetta, F., et al. 2009 . “An Assessment of Financial Sector Rescue Programmes ,” BIS Paper 
+No. 48, July . https://ypfs.som.yale.edu/library/assessment-financial-sector-rescue-
+programmes. 
+98
+Journal of Financial Crises Vol. 2 Iss. 3
+
+--- Page 31 ---
+Schwartz, C. 2010 . “The Australian Government G uarantee Scheme ,” Reserve Bank of 
+Australia Bulletin, March Quarter 2010.  https://ypfs.som.yale.edu/library/australian-
+government-guarantee-scheme-19-26. 
+ 
+Copyright 2019, 2020 © Yale University. All rights reserved. To order copies of this material 
+or to r eceive permission to reprint any or all of this document, please contact the Yale 
+Program for Financial Stability at ypfs@yale.edu.  
+ 
+ 
+99
+Bank Debt Guarantee Programs McNamara et al.

@@ -1,0 +1,377 @@
+## ASEAN Swap Arrangement, 1977–2021[1] 
+
+_Benjamin Hoffner_[2] 
+
+Yale Program on Financial Stability Case Study July 21, 2023 
+
+## **Abstract** 
+
+Established on August 5, 1977, by the five central banks of the Association of Southeast Asian Nations (ASEAN), the ASEAN Swap Arrangement (ASA) was one of several regional financial safety nets developed during a decade defined by macroeconomic instability, with the collapse of the gold standard and an oil crisis. Each of the five ASEAN members (Indonesia, Malaysia, the Philippines, Singapore, and Thailand) agreed to contribute one-fifth to a commitment pool of USD 100 million to provide short-term dollar swaps to any pool member experiencing temporary foreign exchange liquidity issues. The ASA provided swaps with maximum maturities of three months, subject to renewal. A member central bank served as the administrator of swap activation, renewals, and agreement disputes and modifications. In 1978, the ASEAN central banks increased the commitment pool to USD 200 million. Between 1977 and 2000, ASEAN members borrowed on the pool five times to address minor payment difficulties; it was not activated at all during the Asian Financial Crisis of 1997– 1998. In 2000, as part of the Chiang Mai Initiative, the ASA added five additional ASEAN member countries (Brunei, Cambodia, Laos, Myanmar, and Vietnam) and increased the pool to USD 1 billion. In 2005, the pool doubled to USD 2 billion, and did not increase again through 2021. Since 1977, the ASA memorandum of understanding had a term of between one and five years. It was repeatedly renewed or supplanted with a new agreement. However, the most recent agreement expired on November 16, 2021, and has yet to be renewed. The small size of the ASA limited its capacity to address significant foreign exchange problems but nonetheless proved a symbol of early regional cooperation. 
+
+**Keywords:** ASA, ASEAN, Association of Southeast Asian Nations, swap arrangement 
+
+> 1 This case study is part of the Yale Program on Financial Stability (YPFS) selection of New Bagehot Project modules considering central bank swap line programs. Cases are available from the _Journal of Financial Crises_ at https://elischolar.library.yale.edu/journal-of-financial-crises/. 
+
+> 2 Research Associate, YPFS, Yale School of Management. 
+
+
+## **Overview** 
+
+The shocks to the international monetary system in the 1970s, with the dissolution of the gold standard in 1971 and oil crisis in 1973, spurred the development of new regional financial safety nets among central banks in Europe, Latin America, the Middle East, and Southeast Asia (Rhee, Sumulong, and Vallée 2013).[3] On August 5, 1977, the central banks and monetary authorities of the Association of Southeast Asian Nations (ASEAN)[4] agreed to establish the ASEAN Swap Arrangement (ASA). As a network of currency swap arrangements among the then five ASEAN countries—Indonesia, Malaysia, the Philippines, Singapore, and Thailand— the ASA aimed to “provide immediate shortterm swap facilities to participating ASEAN member countries with temporary international liquidity problems” (ASEAN 1977b, Article 1). 
+
+Each of the five member countries initially pledged USD 20 million (USD 100 million total). The size of the contributions was doubled in 1978 to USD 40 million each (USD 200 million total) (Henning 2002, 14). A member central bank was eligible to borrow a maximum of twice its contribution in the form of a swap for dollars against its local currency (ASEAN 1977b). Between its origination in 1977 and 2000, the ASA was used five times: Indonesia in 1979, Malaysia in 1980, Thailand in 1980, and the Philippines in 1981 and 1992 (Henning 2002, 14). The ASA’s small size provided for only a limited effective use case. In these five cases, countries drew on the line for minor payment 
+
+## **Key Terms** 
+
+Purpose: To provide short-term currency swaps to a participating ASEAN member experiencing temporary foreign liquidity issues 
+
+||Participating<br>Parties|Central banks of 10 ASEAN<br>countries|
+|---|---|---|
+||Type of Swap<br>Currencies|Multilateral<br>US dollar, euro, yen secured by|
+||Involved|local ASEAN currencies|
+||Launch Date|Effective: August 5, 1977|
+||End Date|November 16, 2021|
+||Date of First Usage|Drawn on five times: once in|
+||Interest Rate and<br>Fees|1979, twice in 1980, and once<br>each in 1981 and 1992<br>LIBOR + 25 bps; 100-bp fee for<br>delay of payment (2005)|
+||Amount|USD 100 million (1977); USD|
+||Authorized|200 million (1978); USD 1|
+||Peak Usage<br>Amount and Date|billion (2000); USD 2 billion<br>(2005)<br>Information not available|
+||Downstream|Information not available|
+||Use/Application of||
+||Swap Funds<br>Outcomes|Expired November 2021|
+||Notable Features|Very limited size; early symbol<br>of Southeast Asian financial|
+|||cooperation|
+
+
+
+> 3 These new safety nets included: the European Medium-Term Financial Assistance in 1971, the Arab Monetary Fund in 1976, the ASEAN Swap Arrangement in 1977, and the Latin American Reserve Fund in 1978 (Rhee, Sumulong, and Vallée 2013). 
+
+4 The Association of Southeast Asian Nations was established on August 8, 1967, by the foreign ministers of Indonesia, Malaysia, the Philippines, Singapore, and Thailand to promote regional cooperation (ASEAN n.d.b). 
+
+
+difficulties rather than full-scale financial crises. The facility was not used at all during the Asian Financial Crisis in 1997–1998 (Chandrasekhar 2021; Henning 2002, 14). 
+
+During the Asian Financial Crisis, four ASEAN countries—Indonesia, Malaysia, the Philippines, and Thailand—were among the most impacted by the sudden reversal in capital flows and lacked ample dollar reserves to defend their currencies (Han 2022). The ASA was clearly insufficient to address these vulnerabilities, and some ASEAN members looked instead for foreign assistance (Chandrasekhar 2021). However, they faced challenges in seeking International Monetary Fund (IMF) support due to quota limitations, delayed disbursements, and conditionality (Asami 2005). While the United States (US) and Europe did not offer financial support, Asian countries with large dollar reserves, particularly Japan, played an important role in coordinating and funding rescue packages throughout the region (Ciorciari 2011). 
+
+During a Group of Seven (G7)–IMF meeting in September 1997, Japan’s Ministry of Finance proposed an Asian Monetary Fund (AMF), which would consist of a USD 100 billion fund of regional reserves to administer regional economic relief (Amyx 2002; Ciorciari 2011). The IMF and US, excluded from the proposed fund and expressing moral hazard concerns, blocked the proposal (Henning 2002, 2; Lipscy 2003). Despite the failure of the AMF, support among ASEAN members persisted for a regional financing mechanism to supplement the existing global safety nets (Henning 2002, 1). 
+
+In November 1997, the ASEAN countries met with a larger group of countries—including China, Japan, South Korea, and the US[5] —and developed the Manila Framework, a general framework for Asian cooperation to “promote financial stability” (Chandrasekhar 2021; MOF Japan 1997). The Manila Framework included the following four initiatives: “(a) a mechanism for regional surveillance to complement global surveillance by the IMF; (b) enhanced economic and technical cooperation particularly in strengthening domestic financial systems and regulatory capacities; (c) measures to strengthen the IMF’s capacity to respond to financial crises; and (d) a cooperative financing arrangement that would supplement IMF resources” (MOF Japan 1997). In contrast to the AMF proposal, the framework emphasized the importance of IMF involvement in any future regional financing arrangements. 
+
+By the end of 1999, ASEAN membership had grown to include 10 countries (adding Brunei, Cambodia, Laos, Myanmar, and Vietnam) and another complementary organization became formalized: ASEAN Plus Three (APT), with “Plus Three” referring to China, Japan, and South Korea (APT n.d.; ASEAN n.d.a; Henning 2002, 1). The inclusion of the Plus Three countries was crucial to the development of a new financing mechanism, as demonstrated by the economic imbalances in the region. In 1997, the five original ASEAN countries ran current account deficits totaling USD 3.3 billion, which would have been much larger excluding 
+
+> 5 In attendance at the meeting were the deputies of the finance ministries and central banks of Australia, Brunei, Canada, China (and Hong Kong SAR), Indonesia, Japan, Malaysia, New Zealand, Philippines, Singapore, South Korea, Thailand, and the United States (MOF Japan 1997). 
+
+
+Singapore’s large surplus; the Plus Three countries had surpluses totaling USD 125.5 billion (Chandrasekhar 2021). 
+
+On May 6, 2000, the finance ministers of the APT launched the Chiang Mai Initiative (CMI), to strengthen “self-help and support mechanisms” and develop a regional financing arrangement to supplement the existing international facilities (APT 2000).[6] The CMI was an agreement to pursue (1) an expansion of the ASEAN Swap Arrangement and (2) the development of new bilateral swap agreements (BSAs) among the APT countries (APT 2000). See Hoffner (2023) for a separate case study that follows the evolution of the CMI into the Chiang Mai Initiative Multilateralization (CMIM), a multilateral currency swap arrangement like the ASA. 
+
+Effective November 17, 2000, as part of the CMI, the ASEAN countries agreed to increase the total size of the ASA pool to USD 1 billion and to expand participation to include the five most recent ASEAN members (APT 2001). In 2005, the ASA pool doubled to USD 2 billion (APT 2005). When expanded in 2000, the ASA fixed contributions along two groups according to each member’s ability to pay, as listed in Figure 1 (Rana 2002). Each ASEAN member was eligible to borrow up to twice its contribution for a maximum maturity of six months. Members could request renewals for swaps, provided that the total duration of a swap, inclusive of renewals, did not exceed six months; in other words, the ASA permitted renewals for swaps of maturities less than six months (ASEAN 2005a; Rana 2002). In addition to US dollars, countries could also borrow yen (at euro yen base rates) and euro (at euro LIBOR base rates) (ASEAN 2005a; Rana 2002). 
+
+[FIGURE id=vol5_iss1_3_f1 type=chart label="Figure 1" file=figure_1.png caption="Contributions to ASA, 2000 (before pool size doubled to USD 2 billion)"]
+### **Figure 1: Contributions to ASA, 2000 (before pool size doubled to USD 2 billion)**
+![Figure 1](assets/vol5_iss1_3/figure_1.png)
+
+
+_Source: Rana 2002._ 
+
+The ASA expired on November 16, 2021, and has yet to be renewed (BSP 2022). 
+
+## **Summary Evaluation** 
+
+One scholar, Henning (2002) compares the ASA to other regional financial safety nets and notes four challenges that undermined the ASA’s efficacy: the small total funding available, 
+
+> 6 The joint ministerial statement announcing the CMI also discussed enhancing regional economic surveillance, monitoring capital flows, and establishing networks of research and training institutions to enhance policy dialogue (APT 2000; Henning 2002, 13). 
+
+
+the ability of members to opt out of lending arrangements, the inability of a borrower to renew swaps if another country requested a swap, and the challenges around swap draws by multiple members (Henning 2002, 15). The small size of the ASA is a common criticism of the arrangement; when the ASA was introduced in 1977, a columnist in the _New York Times_ referred to the amounts as “minuscule” (Andelman 1977). Henning notes that while the facility was activated five times, in each case, members borrowed small amounts and could make only small contributions to foreign liquidity shortages. That members never drew on the swaps during the Asian Financial Crisis in 1997–1998, according to Henning, further evidences the ASA’s funding inadequacy (Henning 2002, 14). To provide context, the ASA was most used between 1979 and 1981. In 1981, the current account deficits of the five ASEAN countries combined totaled USD 9.1 billion. With the total funding at USD 200 million, and each member eligible for a maximum allocation of USD 80 million (twice their contribution), the ASA could not provide sufficient relief for major balance of payment issues (Chandrasekhar 2021). A Japanese news agency, _Kyodo_ , reiterated this point in the context of the Asian Financial Crisis, stating that “the limited scale of the ASEAN Swap Arrangement has undercut its ability to shield a currency from assault, leading some ASEAN nations to seek aid from Japan and other holders of ample foreign exchange reserves” (Kyodo 2000). 
+
+The limited financing capacity of the ASA also helps explain the emergence of the CMI. By developing a new network of BSAs, through the inclusion of China, Japan, and South Korea, the CMI utilized the resources of the largest regional economies to expand a financial safety net beyond the ASEAN countries. Chandrasekhar (2021, 36) explains, “[T]he CMI recognized that without bringing in countries that held a large share of the regional surpluses, any regional cooperation framework based on swaps would not be adequate.” 
+
+Henning contrasts these vulnerabilities with the positive attributes of the ASA: its strong symbol of ASEAN regional cooperation and a separate unit of governance, and the arrangement’s high degree of transparency (Henning 2002, 15). 
+
+
+## **Key Design Decisions** 
+
+**1. Purpose and Type: The ASA aimed to provide short-term liquidity to member central banks experiencing foreign exchange liquidity issues.** 
+
+On August 5, 1977, the central banks of the first five ASEAN member countries (Indonesia, Malaysia, Philippines, Singapore, and Thailand) established the ASEAN Swap Arrangement, under a memorandum of understanding (MoU). The stated purpose, in addition to broadly promoting monetary cooperation, was “to provide immediate short-term swap facilities to participating ASEAN member countries with temporary international liquidity problems” (ASEAN 1977b, Article 1). 
+
+In May 2000, the finance ministers of the ASEAN member states, which by then had grown to 10, joined with China, Japan, and South Korea (collectively referred to as ASEAN Plus Three) and announced the Chiang Mai Initiative: 
+
+To strengthen our self-help and support mechanisms in East Asia through the ASEAN + 3 framework, we recognized a need to establish a regional financing arrangement to supplement the existing international facilities. As a start, we agreed to strengthen the existing cooperative frameworks among our monetary authorities through the “Chiang Mai Initiative.” (APT 2000) 
+
+The CMI expanded the capacity of the ASA and established a new network of bilateral swap agreements among the 13 APT countries (APT 2000). 
+
+Following the expansion of the ASA, its stated purpose changed slightly. The ASA’s most recent MoU, which entered into force on November 17, 2005, listed its purpose as providing short-term foreign exchange liquidity support to ASEAN countries experiencing problems with balance of payments (ASEAN 2005a). 
+
+**2. Part of a Package: The 1977 ASA emerged out of an ASEAN conference along with other economic cooperation agreements; the ASA’s expansion in 2000 was one of two components of the Chiang Mai Initiative.** 
+
+The ASEAN central banks introduced the ASA following an August 1977 conference during which ASEAN leaders discussed political and economic cooperation initiatives. In addition to the ASA, leaders established oil- and rice-sharing arrangements to prioritize the sale of such goods to members experiencing shortages, as well as agreements to reduce various tariffs between the members (Andelman 1977). 
+
+The expansion of the ASA in 2000 was one of two components of the CMI. The CMI constituted an agreement to pursue future negotiations regarding (a) an expansion the ASA network to include all ASEAN countries, and (b) the development of new bilateral swap agreements (BSAs) among the ASEAN countries and Japan, China, and South Korea (APT 2000). 
+
+
+The network of BSAs that emerged out of the CMI differed from the ASA in three main ways: (a) BSAs were negotiated bilaterally and did not constitute a common commitment pool, although the terms of the arrangements were often similar; (b) BSAs included the large Plus Three countries, and thus the size of the swaps were significantly larger; (c) BSAs had an IMF link, which required a borrower to have an IMF program in place to access the full amount of a swap (Chandrasekhar 2021; Henning 2002, 17). See Hoffner (2023) for more information on the CMI’s BSAs. 
+
+## **3. Legal Authority: The ASA was a memorandum of understanding signed by the governors of all participating central banks.** 
+
+The ASA was a multilateral currency swap agreement based on a memorandum of understanding among the governors of the 10 ASEAN central banks (ASEAN 2005a). The legal authority differed by country. For example, the Philippines, one of the participating countries, listed the MoU as a treaty ratified through a senate resolution (Senate of the Philippines 1977). 
+
+## **4. Governance: The ASEAN central banks governed the terms and conditions of the agreement.** 
+
+The central banks of the ASEAN countries governed the arrangement amongst themselves using an agent bank to coordinate negotiations and resolve disputes over swap terms, amendments, and renewals (ASEAN 2005a). The agent bank served for two years and was appointed on a rotational basis among the ASEAN member countries based on alphabetical order (Bank Negara Malaysia 2000). If a participating member was unable to act as agent bank, the role rotated to the next member in advance of the standard two-year tenure. The agent bank bore the administrative expenses it incurred in implementing the ASA agreement (ASEAN 2005a). 
+
+The ASA’s MoUs and supplementary agreements are publicly available, revealing all the terms of the arrangement. In contrast, the participating ASEAN Plus Three central banks and finance ministers have not revealed the bilateral swap agreements that underpin the CMI (Henning 2002, 15). 
+
+## **5. Administration: The ASA delegated administrative responsibilities to the agent bank, one of the member central banks serving on a two-year rotational basis.** 
+
+The ASA was not a standing fund but a commitment pool wherein participating central banks pledged financial contributions—self-managed reserves—only transferred during a swap draw. The ASA appointed a participating central bank as the standing agent bank, serving on a two-year rotational basis based on the alphabetical order of the country (ASEAN 2005a; Bank Negara Malaysia 2000). The agent bank administered the drawing process—initiated by a requesting member’s submitting a request to the agent bank—and was responsible for any administrative expenses. Thereafter, the agent bank monitored the outstanding balances, which it disclosed upon requests by other members (ASEAN 2005a). 
+
+
+Members also went through the agent bank for renewal requests, to help resolve disputes, and requests for modifications of the agreement (ASEAN 2005a). The ASA agreement initially was for a period of one year and was renewed. In 2005, the new agreement had a term of two years. The agreement was subject to renewal, and the agent bank initiated consultations with the members at least two months before the expiration (ASEAN 2005a). 
+
+## **6. Communication: ASEAN leaders regularly communicates developments related to the ASA at annual ASEAN summits, in addition to publishing MoUs and related supplementary agreements, which detailed ASA terms.** 
+
+The finance ministers of ASEAN countries hold an annual summit—ASEAN Finance Ministers’ Meeting (AFMM)—in the spring, and provide a statement on developments in ASEAN cooperation, including the ASA (ASEAN 2005b). The participating central banks’ annual reports also include information on ASA contributions and whether or not the facility had been activated (MAS 2021). 
+
+## **7. Eligible Institutions: The 1977 ASA included the central banks of the first five ASEAN countries; the 2000 ASA expanded to include all 10 ASEAN countries.** 
+
+When signed in August 1977, the ASA included the central banks of the then five ASEAN member countries: Indonesia, Malaysia, the Philippines, Singapore, and Thailand (ASEAN 1977b). 
+
+By 2000, when the CMI called for an expansion of the ASA, ASEAN membership had grown to 10 countries with the addition of Brunei (1984), Vietnam (1995), Laos (1997), Myanmar (1997), and Cambodia (1999) (ASEAN n.d.a). 
+
+## **8. Size: The ASEAN reserve pool, initially set at USD 100 million in 1977, grew to USD 2 billion with the 2005 MoU.** 
+
+In 1977, the ASEAN countries established the ASA as a committed pool of USD 100 million total, as the maximum amount available. Though there was no standing fund, each of the five participating countries agreed to provide up to USD 20 million in the event of the facility’s activation (ASEAN 1977b). In 1978, the ASEAN countries doubled the size of the pool to USD 200 million, also doubling each contribution to USD 40 million (Henning 2002, 14). 
+
+With the expansion of the ASA participant base under the CMI, the ASA pool also increased to USD 1 billion, effective November 2000 (APT 2001). In 2005, the ASEAN members once again doubled the pool size to USD 2 billion along with equivalent increases to individual contributions (APT 2005; ASEAN 2005a). 
+
+With the expansion in 2000, the ASA fixed contributions according to each member’s ability to pay, as listed in Figure 2, which also determined the size of swap that a participating country could request; such a request was limited to twice the committed amount by the respective participating member (ASEAN 2005a; Rana 2002). 
+
+
+[FIGURE id=vol5_iss1_3_f2 type=figure label="Figure 2" file=figure_2.png caption="Contributions to ASA, 2005–2021"]
+### **Figure 2: Contributions to ASA, 2005–2021**
+![Figure 2](assets/vol5_iss1_3/figure_2.png)
+
+
+_Source: ASEAN 2005a._ 
+
+**9. Process for Utilizing the Swap Agreement: A borrowing participant initiated the drawing process by submitting a request to the agent bank that coordinated the activation and funding with other participants, which contributed proportionally relative to their ASA contributions.** 
+
+The process for a swap draw began with a member submitting a swap request to the agent bank (ASEAN 2005a). If multiple participants requested swap draws, the ASA prioritized requests in chronological order and further prioritized any participant that had not used the facility within the past year (ASEAN 1977b; ASEAN 2005a). 
+
+In the request, the member indicated the amount of swap in USD, the duration of borrowing, and the value date (date on which funds were transferred), which had to be at least seven business days after the request. As part of the request, the member was required to attach an assessment of its domestic economic situation and balance of payments outlook (ASEAN 2005a). 
+
+The day of the request, the agent bank informed the remaining members regarding the size of the request and the expected contribution to be provided by each member. Within two business days, each lending member had to confirm whether or not they would participate in the arrangement (ASEAN 2005a). The remaining (nonrequesting) members were expected to fund the swap in the weighted proportions of their contributions to the ASA (ASEAN 2005a). The ASA allowed a member to provide a partial contribution under 
+
+
+“exceptional financial circumstances” or opt out entirely if the member was under an IMF Policy Program or if its foreign reserves were less than three months of retained imports (ASEAN 2005a, 4).[7] 
+
+While the ASA called for the remaining (non-requesting) members to finance the swap, a member was allowed to opt out (or provide partial funding). In the event of an opt-out, the agent bank negotiated with the other members to proportionally increase their funding shares and delayed the value date to 14 days after the date of request (ASEAN 2005a). 
+
+Once lending members confirmed their participation, they indicated the amount and type of currency they could make available. Notably, lending members, reserved the right to determine the type of currency provided in the swap transaction. Thereafter, the agent bank informed the borrowing member of the size and type of available swap funds. The borrowing member then opened a local currency account for each of the lending countries. At least two days before the value date, the agent bank had to inform all participating parties of the payment information and confirm the swap size, spot and forward conversion rates, and maturity (ASEAN 2005a). 
+
+## _Form of Swap_ 
+
+The ASA allowed a member to request swaps of US dollars, yen, or euros against the member’s domestic currency. The transaction involved a spot purchase of the requested currency against the domestic currency and simultaneous forward sale of the requested currency against the same amount of domestic currency. The domestic currency, as collateral, remained in non-interest-bearing accounts of the lending central banks, maintained by the borrower, and could not be used except for the reversal of the swap (ASEAN 2005a). 
+
+See Key Design Decision No. 11, Duration of Swap Draws, for discussion of the periods of the swap drawdowns. 
+
+## **10. Downstream Use of Borrowed Funds: Research has not identified restrictions on downstream usage of swap drawings.** 
+
+Aside from the ASA’s stated purpose—to provide foreign currency liquidity for member central banks experiencing balance of payment issues—research has not found information on downstream usage of swaps (ASEAN 2005a). Between 1977 and 2000, the ASA was used five times: Indonesia in 1979, Malaysia in 1980, Thailand in 1980, and the Philippines in 1981 and 1992 (Henning 2002, 14). 
+
+> 7 According to Singapore’s department of statistics, retained imports are “goods imported and kept in the country for domestic use” (Singapore DOS n.d.). 
+
+
+**11. Duration of Swap Draws: The 1977 MoU set swap maturities at a maximum of three months, subject to one renewal for three months; since 2000, the ASA included maturities of six months.** 
+
+At its signing in 1977, the ASA offered swaps with maturities of one, two, or three months. In addition, participants could renew a swap once for a maximum of three months (bringing the maximum duration of a swap to six months), absent other swap requests. If another participant had requested a swap, the ASA prioritized granting new swaps over approving renewals (ASEAN 1977b). 
+
+With the expansion of the ASA through the CMI in November 2000, the ASA added maturities of six months, with the maximum duration of a swap, inclusive of renewals, limited to six months (ASEAN 2005a; Rana 2002). That is, if a participant received a six-month swap, it would not be eligible for a renewal. The expanded ASA also stipulated a cooling-off period, requiring a participant to wait six months after reversing a swap draw before making a new swap request (ASEAN 2005a). 
+
+The 2005 ASA MoU noted that the renewal process followed the same steps as the initial requests to draw on a swap; see Key Design Decision No. 9, Process for Utilizing the Swap Agreement. Additionally, the borrowing member had to file a request at least seven business days before the maturity of the initial swap (ASEAN 2005a). 
+
+**12. Rates and Fees: Transactions were based on market exchange rates, if available; to compute interest rates, the 1977 ASA used the Eurodollar deposit rate and the 2005 ASA used the London Interbank Offered Rate (LIBOR) plus 25 basis points (bps).** 
+
+For the ASA, swaps for US dollars, yen, or euros were exchanged for a borrower’s local currency at a spot rate, calculated using the mean of the closing interbank exchange rates two days before the value date (ASEAN 2005a). If interbank exchange rates were not available, the spot rate was based on the mean of the buying and selling rates fixed by the central bank, or the exchange rate set by that authority. 
+
+The ASA embedded an interest margin in the forward rate for the reversal of a swap transaction. Both the 1977 and 2005 memoranda applied an annual (360-day) interest rate to the term of the swap. The interest rate for the 1977 MoU was the Eurodollar deposit rate with no premium applied (ASEAN 1977b). The 2005 MoU computed the interest rate as the (US dollar, euro, or Japanese yen) LIBOR rate plus a premium of 25 bps (ASEAN 2005a). 
+
+In addition, the 2005 MoU included a stipulation for interest on delayed repayments. In addition to the standard forward rate interest, unpaid balances carried an additional margin of 100 bps annualized (ASEAN 2005a). 
+
+
+## **13. Balance Sheet Protection: With respect to balance sheet protection, our research has not identified additional information besides the standard collateral policies for swaps.** 
+
+Outside of the local currency provided by borrowing countries as collateral for swaps, the ASA did not include other balance sheet protection measures. 
+
+## **14. Other Restrictions: Our research has identified relevant information on this topic.** 
+
+The ASA did not carry additional restrictions, such as IMF linkages, as is the case with the Chiang Mai Initiative Multilateralization. In contrast to the ASA, the CMIM requires borrowers have IMF programs in place to be eligible for the full swap quota. CMIM borrowers can access only 40% of their swap quota without an IMF program, whereas, the ASA had no such restriction (BSP 2022). 
+
+## **15. Other Options: ASEAN countries have access to other sources of international liquidity through the IMF, CMIM, and bilateral swaps.** 
+
+Outside of the ASA and individual foreign exchange (FX) reserves, ASEAN countries can borrow international liquidity through the IMF, CMIM, and, depending on the country, bilateral swap agreements with other Asian countries. A 2018 AMRO[8] working paper compares the sizes of these other funding options for ASEAN Plus Three countries. See Figure 3.[9] 
+
+> 8 AMRO, short for the ASEAN+3 Macroeconomic Research Office, is an international organization that provides regional macroeconomic surveillance to support financial stability amongst ASEAN Plus Three countries, which includes assisting in the implementation and development of the Chiang Mai Initiative Multilateralization (AMRO n.d.). 
+
+> 9 The table in Figure 3 comes from an AMRO working paper produced in 2018. The 2023 IMF de-linked portion of the CMIM is set at 40%, as mentioned in Key Design Decision No. 14, Other Restrictions. 
+
+
+[FIGURE id=vol5_iss1_3_f3 type=chart label="Figure 3" file=figure_3.png caption="Comparison of Financing Sources for ASEAN Plus Three Members, 2018 (USD billions)"]
+### **Figure 3: Comparison of Financing Sources for ASEAN Plus Three Members, 2018 (USD billions)**
+![Figure 3](assets/vol5_iss1_3/figure_3.png)
+
+
+_Notes:_ 
+
+- (i) Exchange rate: USD 1 = SDR 0.7022 as of 29 December 2017. 
+
+- (ii) Data on FX reserves are as of December 2017, except for Brunei (latest September 2017), and Vietnam (latest November 2017). 
+
+- (iii) There is no cap on access to the IMF Flexible Credit Line (FCL) facility and a case-by-case modality is adopted. The IMF ECF/SCF facility is targeted at low-income countries. 
+
+- (iv) Besides IMF and CMIM resources, there is an ASEAN swap arrangement that amounts to USD 2 billion among ASEAN countries. 
+
+- (v) The amounts that ASEAN+3 members could request from the CMIM Precautionary Line (PL) facility are the same as those from the CMIM Stability Facility (SF). Members cannot apply for both the CMIM-PL and the CMIMSF at the same time. 
+
+- (vi) For BSAs, the Japan’s Ministry of Finance (JMoF) signed agreements with ASEAN-5 countries and India to provide U.S. dollar liquidity. The rest of the BSAs are denominated in local currencies in order to facilitate bilateral trade and maintain financial stability. The most recent one is the agreement in local currency between the Bank of Korea (BoK) and the Bank of Canada (BoC) in November 2017. The BoJ has standing liquidity facilities with the U.S. Board of Governors of the Federal Reserve (Fed), European Central Bank, Bank of England, BoC and Swiss National Bank. In May 2017, the JMoF proposed establishing a new type of BSA totaling up to JPY 4 trillion to address short-term liquidity problems in ASEAN countries. 
+
+i(i) _Source: Kadogawa et al. 2018_ . 
+
+## **16. Exit Strategy: Since 1977, the ASA specified a term of between one and five years, and until 2021, it was repeatedly renewed or supplanted with a new agreement.** 
+
+Since 1977, there have been three iterations of the ASA, characterized by unique MoUs: in 1977, 2000, and 2005 (ASEAN 1977a; ASEAN 2005a). Accompanying each of the MoUs were 
+
+
+several supplementary agreements, usually specifying a renewal of the ASA (ASEAN 1977a). The agent bank initiated the consultations with members to renew the ASA at least two months before the set expiration date (ASEAN 2005a). 
+
+The first iteration of the ASA in 1977 expired in one year, subject to annual renewals (ASEAN 1977b). In 1979, the duration of the agreement increased to three years. In 1982, the duration increased to five years (ASEAN 1979; ASEAN 1982). Research has not been able to locate the 2000 MoU, but at least since the 2005 MoU, the duration of the agreement has stayed at two years (ASEAN 2005a). The ASA expired on November 16, 2021, and has yet to be renewed (BSP 2022). 
+
+
+## **References and Key Program Documents** 
+
+## **Summary of Program** 
+
+(Han 2022) Han, Beomhee. 2022. “The CMI and CMIM.” In _Trauma to Triumph: Rising from the Ashes of the Asian Financial Crisis_ , edited by Hoe Ee Khor, Diwa C. Guinigundo, and Masahiro Kawai, 711–62. Singapore: World Scientific Publishing Co. and ASEAN+3 Macroeconomic Research Office (AMIRO). 
+
+_Book chapter exploring the development of the CMIM and ASA_ . https://ypfs.som.yale.edu/node/22942 
+
+## **Legal/Regulatory Guidance** 
+
+(ASEAN 1977a) Association of Southeast Asian Nations (ASEAN). 1977a. “1977 Memorandum of Understanding on the ASEAN Swap Arrangements,” August 5, 1977. _Webpage providing summary information on the 1977 Memorandum of Understanding among five ASEAN central banks, establishing the ASA, as well as information on subsequent amendments_ . 
+
+https://ypfs.som.yale.edu/node/22549/ 
+
+(ASEAN 1977b) Association of Southeast Asian Nations (ASEAN). 1977b. “Memorandum of Understanding on the ASEAN Swap Arrangement.” Kuala Lumpur, August 5, 1977. _Memorandum of Understanding among five ASEAN central banks, establishing the ASA_ . https://ypfs.som.yale.edu/node/22500/ 
+
+(ASEAN 1979) Association of Southeast Asian Nations (ASEAN). 1979. “Second Supplementary Agreement to the Memorandum of Understanding on the ASEAN Swap Arrangement,” September 9, 1979. 
+
+_Supplementary agreement among five ASEAN central banks amending the ASA_ . https://ypfs.som.yale.edu/node/22531 
+
+(ASEAN 1982) Association of Southeast Asian Nations (ASEAN). 1982. “Third Supplementary Agreement to the Memorandum of Understanding on the ASEAN Swap Arrangement,” February 4, 1982. 
+
+_Supplementary agreement among five ASEAN central banks amending the ASA_ . https://ypfs.som.yale.edu/node/22542/ 
+
+(ASEAN 2005a) Association of Southeast Asian Nations (ASEAN). 2005a. “Memorandum of Understanding on the ASEAN Swap Arrangement,” November 17, 2005. 
+
+_Memorandum of Understanding among five ASEAN central banks, expanding the ASA_ . https://ypfs.som.yale.edu/node/22502/ 
+
+(Senate of the Philippines 1977) Senate of the Philippines. 1977. “Memorandum of Understanding on ASEAN Swap Arrangement.” Philippine Treaty Series No. 700, Vol. 7, August 5, 1977. _Treaty ratifying the ASA_ . https://ypfs.som.yale.edu/node/22550 
+
+
+## **Media Stories** 
+
+(Andelman 1977) Andelman, David A. 1977. “5 Southeast Asian Nations Agree on Economic Cooperation in Area.” _New York Times_ , August 6, 1977. _News article discussing the establishment of the ASEAN Swap Arrangement in 1977_ . https://ypfs.som.yale.edu/node/22940 
+
+(Kyodo 2000) Kyodo. 2000. “ASEAN, Three Dialogue Partners to Create Currency Swap Arrangement.,” April 29, 2000. 
+
+_Excerpts from report in English by Japanese news agency Kyodo discussing the weaknesses of the ASA in the context of the Asian Financial Crisis_ . https://ypfs.som.yale.edu/node/22941/ 
+
+## **Press Releases/Announcements** 
+
+(APT 2000) ASEAN Plus Three (APT). 2000. “The Joint Ministerial Statement of the ASEAN+3 Finance Ministers Meeting, 6 May 2000, Chiang Mai, Thailand (Second AFMGM+3),” May 6, 2000. 
+
+_Press release introducing the Chiang Mai Initiative_ . https://ypfs.som.yale.edu/node/22497/ 
+
+(APT 2001) ASEAN Plus Three (APT). 2001. “Joint Ministerial Statement of the ASEAN+3 Finance Ministers Meeting, 9 May 2001, Honolulu, USA (Third AFMGM+3),” May 9, 2001. _Press release discussing the Chiang Mai Initiative_ . https://ypfs.som.yale.edu/node/22504/ 
+
+(APT 2005) ASEAN Plus Three (APT). 2005. “Joint Ministerial Statement of the Eighth ASEAN+3 Finance Ministers and Central Bank Governors Meeting, 4 May 2005, Istanbul,” May 4, 2005. 
+
+_Press release discussing the Chiang Mai Initiative_ . https://ypfs.som.yale.edu/node/22506/ 
+
+(ASEAN 2005b) ASEAN. 2005b. “Joint Ministerial Statement of the 9th ASEAN Finance Ministers’ Meeting, Vientiane, Lao PDR, 6 April 2005,” April 6, 2005. _Press release discussing the ASA’s expansion_ . https://ypfs.som.yale.edu/node/22543 
+
+(Bank Negara Malaysia 2000) Bank Negara Malaysia. 2000. “Expansion and Enlargement of the ASEAN Swap Arrangement,” December 26, 2000. _Press release discussing the expansion of the ASA_ . https://ypfs.som.yale.edu/node/22486 
+
+(BSP 2022) Bangko Sentral ng Pilipinas (BSP). 2022. “Chiang Mai Initiative Multilateralization FAQ,” July 2022. 
+
+_Press release discussing the design features of the CMIM_ . https://ypfs.som.yale.edu/node/22511/ 
+
+
+(MOF Japan 1997) Ministry of Finance of Japan (MOF Japan). 1997. “A New Framework for Enhanced Asian Regional Cooperation to Promote Financial Stability.” Meeting of Asian Finance and Central Bank Deputies, Agreed Summary of Discussions, Manila, Philippines, November 19, 1997. 
+
+_Press release discussing the Manila Framework for regional cooperation_ . https://ypfs.som.yale.edu/node/22487 
+
+## **Reports/Assessments** 
+
+(AMRO n.d.) ASEAN+3 Macroeconomic Research Office (AMRO). n.d. “Who We Are.” About AMRO. Accessed October 20, 2022. 
+
+_Webpage providing a brief history of AMRO’s operations_ . https://ypfs.som.yale.edu/node/22496/ 
+
+(APT n.d.) ASEAN Plus Three (APT). n.d. “History.” Accessed November 14, 2022. _Webpage discussing the history of APT_ . https://ypfs.som.yale.edu/node/22498/ 
+
+(ASEAN n.d.a) Association of Southeast Asian Nations (ASEAN). n.d.a. “ASEAN Member States.” ASEAN Main Portal. Accessed November 14, 2022. _Webpage listing the members of ASEAN_ . https://ypfs.som.yale.edu/node/22544/ 
+
+(ASEAN n.d.b) Association of Southeast Asian Nations (ASEAN). n.d.b. “The Founding of ASEAN.” ASEAN Main Portal. Accessed November 14, 2022. _Webpage describing the history of ASEAN_ . https://ypfs.som.yale.edu/node/22503/ 
+
+(MAS 2021) Monetary Authority of Singapore (MAS). 2021. “MAS Financial Statements, 2020/2021,” 2021. 
+
+_Annual report for the financial year ended March 31, 2021, with discussions on the ASA_ . https://ypfs.som.yale.edu/node/22488 
+
+(Singapore DOS n.d.) Singapore Department of Statistics (Singapore DOS). n.d. “Merchandise Trade.” Accessed February 3, 2023. 
+
+_Webpage providing a definition of retained imports, discussed in the ASA_ . https://ypfs.som.yale.edu/node/22551 
+
+## **Key Academic Papers** 
+
+(Amyx 2002) Amyx, Jennifer. 2002. “Moving Beyond Bilateralism? Japan and the Asian Monetary Fund.” Australia-Japan Research Centre, Crawford School of Public Policy, Australian National University, Asia Pacific Economic Papers No. 331, September 2002. _Paper discussing Japan’s rejected proposal for the AMF and subsequent attempts at regional financial cooperation_ . 
+
+https://ypfs.som.yale.edu/node/22489 
+
+
+(Asami 2005) Asami, Tadahiro. 2005. “Chiang Mai Initiative as the Foundation of Financial Stability in East Asia.” Institution for International Monetary Affairs, March 1, 2005. _Paper discussing the evolution of the CMI, including the ASA_ . https://ypfs.som.yale.edu/node/22563/ 
+
+(Chandrasekhar 2021) Chandrasekhar, C. P. 2021. “The Long Search for Stability: Financial Cooperation to Address Global Risks in the East Asian Region.” Institute for New Economic Thinking Working Paper No. 153, March 31, 2021. 
+
+_Paper discussing the Asian Financial Crisis and development of regional safety nets_ . https://ypfs.som.yale.edu/node/22545/ 
+
+(Ciorciari 2011) Ciorciari, John D. 2011. “Chiang Mai Initiative Multilateralization: International Politics and Institution-Building in Asia.” _Asian Survey_ 51, no. 5: 926–52. _Article discussing the development of the CMIM_ . https://ypfs.som.yale.edu/node/22546 
+
+(Henning 2002) Henning, C. Randall. 2002. _East Asian Financial Cooperation_ . Policy Analyses in International Economics 68 (September). Washington, DC: Institute for International Economics. 
+
+_Book covering development of the Chiang Mai Initiative_ . https://ypfs.som.yale.edu/node/21559/ 
+
+(Hoffner 2023) Hoffner, Benjamin. 2023. “Association of Southeast Asian Nations Plus Three: The Chiang Mai Initiative Multilateralization, 2010.” _Journal of Financial Crises_ 5, no. 1. 
+
+_Case study tracing the development of the CMIM_ . https://elischolar.library.yale.edu/journal-of-financial-crises/vol5/iss1/4 
+
+(Kadogawa et al. 2018) Kadogawa, Yoichi, Vanne Khut, Li Lian Ong, Chaipat Poonpatpibul, Junko Shimizu, and Hongbo Wang (Kadogawa et al.). 2018. “Asia and the CMIM in the Evolving International Monetary System.” ASEAN+3 Macroeconomic Research Office (AMRO) Working Paper No. 18-01, March 2018. 
+
+_AMRO paper analyzing why the CMIM should be strengthened to support macroeconomic and financial stability in Asia_ . 
+
+https://ypfs.som.yale.edu/node/22554/ 
+
+(Lipscy 2003) Lipscy, Phillip Y. 2003. “Japan’s Asian Monetary Fund Proposal.” _Stanford Journal of East Asian Affairs_ 3, no. 1: 93–104. 
+
+_Article discussing the Asian Monetary Fund and the proposal’s rejection_ . https://ypfs.som.yale.edu/node/22547/ 
+
+(Rana 2002) Rana, Pradumna B. 2002. “Monetary and Financial Cooperation in East Asia: The Chiang Mai Initiative and Beyond.” ADB Economics and Research Department Working Paper Series No. 6, February 2002. 
+
+_Paper discussing the development of the CMI, including the ASA’s expansion_ . https://ypfs.som.yale.edu/node/22490 
+
+
+(Rhee, Sumulong, and Vallée 2013) Rhee, Changyong, Lea Sumulong, and Shahin Vallée. 2013. “Global and Regional Financial Safety Nets: Lessons from Europe and Asia.” In _Responding to Financial Crisis: Lessons from Asia Then, the United States and Europe Now_ , edited by Changyong Rhee and Adam S. Posen, 213–48. Washington, DC: Asian Development Bank and Peterson Institute for International Economics. _Book chapter exploring different regional financial safety nets_ . https://ypfs.som.yale.edu/node/22530/ 
+
+Copyright 2023 © Yale University. All rights reserved. To order copies of this material or to receive permission to reprint any or all of this document, please contact the Yale Program on Financial Stability at ypfs@yale.edu.

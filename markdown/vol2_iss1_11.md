@@ -1,0 +1,47 @@
+## Yale Program on Financial Stability Lessons Learned 
+
+## David Wessel 
+
+By Ben Henken and Rosalind Z. Wiggins 
+
+_Wessel, an award-winning journalist for The Wall Street Journal, talks about some of the issues faced by the media in covering the crisis, discusses the many challenges policymakers faced when trying to communicate the government’s crisis-fighting strategy, and shares suggestions for improvement.[1]_ 
+
+## **A good crisis communications strategy can illuminate the benefits of complex policy decisions and minimize the populist reaction to them.** 
+
+Wessel was an experienced journalist when the crisis developed in 2008. He covered the crises for the Journal and was also working on a book about Fed Chairman Ben Bernanke at the time. He knew finance and the players well. However, even though Wessel finds the government’s policy response to be largely successful, he believes its public communications strategy often fell short, failing to translate complex policy measures into messages the public could understand, and he sees good reasons for this to be a primary objective. 
+
+An effective crisis response almost always requires providing extensive support to the financial system, a strategy many Americans think is unfair. The poor optics of such strategies can open the government to a lot of criticism and can also lead to the rise of political extremism and populist tendencies. According to Wessel, the goal of a good crisis communications strategy, however, should be “to earn the trust of the public and contain the populist response. 
+
+“The bottom line was that the crisis was terrible, and the economic leaders of the country tried to prevent another Great Depression. They were doing what they thought was right, but the public didn’t understand why they were doing it. And the public got the impression that banks were being bailed out, but that Main Street wasn’t. Policymakers simply were unable to convince the public that saving banks was actually in its best interest.” 
+
+Wessel would urge the policymakers to try and “do a better job explaining crisis-fighting strategies to people in real-time to lessen the hostility to the U.S. policy response as it’s happening.” He would have liked to see a communications strategy that credibly explained that fixing the financial system was central to keeping credit available and was done in service to the public interest. It would have dissected complex policies into language people could understand, illuminated the logic behind the most controversial policies (such as lending billions of dollars to “too-big-to-fail” banks), and ultimately allowed the real aims of crisis-fighting policies—to crush financial crises and minimize their impact on ordinary Americans—to shine through. 
+
+> _1 Lessons Learned are distilled from interviews with the principals conducted by YPFS._ 
+
+
+“In the case of a crisis, you have to explain to people what you are doing and why you are doing it—so that they can understand why you are implementing policies that on their face may not seem so fair.” Wessel, however, stresses that although difficult, “it’s important to try, for example, to explain that you’re not bailing out the banks because you want to help the bankers; you’re bailing out the banks because if the banking system stops functioning, no one will be able to get a car loan. And if no one can get a car loan, no one will be able to buy a car. And so, Detroit won’t sell any cars, leading to mass unemployment and other bad things. This is the kind of crisis communication you need.” 
+
+## **Government entities need well-staffed teams of public affairs professionals to carry out public communications strategies during a crisis.** 
+
+Wessel does not suggest that achieving the well-honed communications strategy that he recommends is an easy thing. He acknowledges that during the crisis, government officials were too busy containing the crisis to prioritize the task of communicating their strategy to the general public, and they may not have known how, given their personal expertise and backgrounds and the agencies’ previous postures. 
+
+However, Wessel stresses that keeping the public informed is important. As a result, he thinks it’s important for government entities to prepare communications strategies before crises actually strike, and he recommends that they should plan in advance how to communicate in a crisis. One key element is that entities fighting a crisis should have already assembled experienced public affairs teams that can deliver articulate messages that the press and public can trust. 
+
+Top policymakers at the Fed, Treasury, and FDIC (Federal Deposit insurance Corporation) often lack political or significant communications experience and aren’t used to explaining their decisions to an audience as wide as the American public. Having a team of experts dedicated solely to the mission of decoding complex policy would allow policymakers to focus on what they do best—making policy and fighting the crisis—and would offer a better chance at connecting with the American people. “This is why fire departments and police departments have designated spokespeople to handle press and the public when there’s a catastrophe,” Wessel observes, so “the firefighters who are actively putting out the fire, or the SWAT team that's busy resolving a hostage crisis, [doesn’t] also have to worry about keeping people apprised of the situation and explain how they’ve chosen to respond to it.” These should be separate roles. 
+
+## **For government officials, calming the market and the public can require striking a balance between projecting strength and confidence, and allowing human emotions to show.** 
+
+For government officials, the conventional wisdom is to project strength and confidence during a crisis. The market is very sensitive to new information, and even the slightest indication of negativity from the government can cause the stock market to plummet or instigate a run on certain parts of the financial system. Despite this, it is important to be frank and human with the public, when the time is right for it. 
+
+
+During the GFC, Bernanke, Geithner, and Paulson—and even Bush and Obama—were so busy fighting the crisis that they rarely allowed the public to see them grappling with the enormous challenges standing in front of them. As a result, the public had little conception of who they really were: “good guys doing the best they could in a terrible situation.” Wessel continues, “They were so busy and so determined to show that they were putting out the fires, that they didn't allow themselves to be seen in public struggling with this massive crisis, or they were worried that doing so would hurt public market confidence.” But he thinks in some ways a frank, open discussion of the challenges might have helped the public’s understanding. 
+
+He ponders what other presidents might have done in a similar situation and cites what FDR did do during the Great Depression, which was, speak directly to the public and say in so many words, “‘This is a mess. We don’t have it all figured out, we have your back, and we’re going to figure it out.’ That sort of confidence-building rhetoric is helpful—to be able to explain to people what’s happening and why it’s happening, and what the government plans on doing about it.” Wessel believes that such candidness can go a long way toward humanizing otherwise bold and distant leaders and can help to build lasting trust between the government and the public. 
+
+## **The best way to be prepared for a crisis is to develop and maintain good communications practices even when there is no crisis.** 
+
+Preparing for financial crises is very difficult. They happen by surprise, and it’s often challenging to predict where in the financial system they will originate. However, Wessel thinks that before a crisis strikes, government entities can develop and maintain elite communications operations that then can be deployed when needed. This will allow public affairs officials to prepare to advise a principal on communications issues during a crisis the same way lawyers and financial experts do, gain experience explaining complex economic topics to a general audience, build trust with the press and the public, and enable the principal to hit the ground running when a crisis does occur. 
+
+Wessel cites the State and Defense Departments as excellent examples of well-functioning communications organizations, in both wartime and peacetime. In particular, he applauds their extensive public affairs operations and their practice of briefing the media on a regular basis, even educating them on background topics. As a result, their spokespeople have time to build relationships with the media, and ultimately become “trusted intermediaries” between the public and the principals they serve. 
+
+_____________________________________ YPFS Lessons Learned No: 2019-07

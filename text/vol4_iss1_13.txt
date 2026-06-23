@@ -1,0 +1,338 @@
+--- Page 1 ---
+Journal of Financial Crises Journal of Financial Crises 
+Volume 4 Issue 1 
+2022 
+Lessons Learned: Steven H. Kasoff Lessons Learned: Steven H. Kasoff 
+Matthew A. Lieber 
+Follow this and additional works at: https://elischolar.library.yale.edu/journal-of-financial-crises 
+ Part of the Economic History Commons, Economic Policy Commons, Finance Commons, Finance and 
+Financial Management Commons, Growth and Development Commons, Policy Design, Analysis, and 
+Evaluation Commons, Public Administration Commons, and the Public Policy Commons 
+Recommended Citation Recommended Citation 
+Lieber, Matthew A. (2022) "Lessons Learned: Steven H. Kasoff," Journal of Financial Crises: Vol. 4 : Iss. 1, 
+407-414. 
+DOI: https://doi.org/10.17132/2693-3179.1269 
+Available at: https://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss1/13 
+This Lessons Learned is brought to you for free and open access by the Journal of Financial Crises and 
+EliScholar – A Digital Platform for Scholarly Publishing at Yale. For more information, please contact 
+journalfinancialcrises@yale.edu.
+
+--- Page 2 ---
+READERS TAKE NOTICE: READERS TAKE NOTICE: 
+As of April 2024, the YPFS Resource Library’s site domain has changed 
+to https://elischolar.library.yale.edu/ypfs-financial-crisis-resource-library/. 
+Please be aware that upon clicking any of the URL references to 
+the former Resource Library domains, either https://ypfs.som.yale.edu 
+or https://ypfsresourcelibrary.blob.core.windows.net/, in the 
+"References/Key Program Documents" section of a case study, 
+readers will encounter a "page not found" error. readers will encounter a "page not found" error. 
+Readers can still retrieve a given resource cited within this case study 
+on the new site  by searching by searching here  for the title cited. for the title cited. 
+This lessons learned is available in Journal of Financial Crises: https://elischolar.library.yale.edu/journal-of-financial-
+crises/vol4/iss1/13
+
+--- Page 3 ---
+Yale Program on Financial Stability 
+Lessons Learned 
+ 
+Steven H. Kasoff 
+By Matthew A. Lieber 
+Steve Kasoff was employed at Elliott Management Corporation from 2003 until 2020. His 
+responsibilities centered on developing the structured products and real estate groups at 
+Elliott. He was made senior portfolio manager, a member of the firm’s management committee, 
+and equity partner. Kasoff has extensive experience in the origination, trading, and 
+management of structured products such as collateralized debt obligations (CDOs) and 
+mortgage-backed securi ties, including earlier posts at Deutsche Bank, Merrill Lynch, and 
+Lehman Brothers. He earned his BA in economics from Yale College and his MBA in finance from 
+the Wharton School of the University of Pennsylvania. 
+In 2016, Kasoff joined the advisory board of the International Center for Finance at the Yale 
+School of Management. After retiring from Elliott in 2020, he began to work with the Yale 
+Program on Financial Stability (YPFS). This Lessons Learned summary is based on two 
+interviews of Kasoff by YPFS a nd is part of an investigation he spearheaded into the subprime 
+securitization boom before the financial crisis —the Inside the CDO Machine  project—which 
+includes interviews with financial industry practitioners. The complete Inside the CDO Machine 
+project materials can be accessed on the YPFS Lessons Learned website: 
+https://som.yale.edu/centers/program-on-financial-stability/lessons-learned-oral-history-
+project. 
+Kasoff started his career during a decade of innovation in credit derivatives. 
+Across the three  decades of Steve Kasoff’s highly successful Wall Street career, a defining 
+period came when he was one of the first short sellers of subprime CDOs from 2004–07. The 
+shrewd trading strategy that he led at Elliott Management earned outsized returns for the 
+hedge fund. Paving the way for this success was Kasoff’s earlier career experience 
+structuring debt securities for top sell -side firms. His involvement in these earlier 
+innovations in structured finance also shows the transformation of fixed-income markets. 
+Kasoff’s first job on Wall Street put him at “the birth of the market” of securities made from 
+defaulted mortgage loans. In the aftermath of the savings and loan (S&L) crisis, the US 
+created the Resolution Trust Corporation to take defaulted mortgage loa ns off the books of 
+the banks and S&Ls and securitize them to maximize the government’s recovery. For two 
+years at Lehman Brothers, Kasoff helped structure mortgage -backed securities from the 
+defaulted commercial mortgage assets. In 1995 –97, Kasoff went to  business school, 
+interning at Merrill Lynch in summer 1996 and keeping close tabs on industry trends. 
+407
+
+--- Page 4 ---
+There was this new product that people were working on called CDOs, collateralized 
+debt obligations.1 It was sort of like mortgage-backed securities, except you’re putting 
+high-yield bonds or loans into the pools instead of mortgages. 
+The CDO model first emerged as a fixed-income subsegment in the 1990s in the form of CLOs 
+(collateralized loan obligations) and CBOs (collateralized bond obligations), which  owned 
+high-yield corporate debt. CDOs took off in popularity in the 2000s when they integrated 
+subprime residential mortgage-backed securities (RMBS). The RMBS owned by this type of 
+CDO were typically rated BBB or better. As a result, CDOs were more lever ed than CLOs or 
+CBOs. 
+In 1997, Kasoff was hired by Merrill to structure and evaluate the new CDO products. In 
+1999, Deutsche Bank poached Kasoff and others in his group from Merrill and tasked him to 
+build out the German bank’s CDO business. While at Deutsche, Kasoff led the development of 
+CBOs and CLOs backed by European debt, an innovation made possible by the newly created 
+common currency, the euro. 
+The 2001–02 recession resulted in business failures that generated new waves of distressed 
+corporate asset s. CLOs and CBOs that owned these bonds and loans began to trade at 
+distressed levels; however, that market was very illiquid. Increasingly, investors wanted to 
+buy and sell these assets. Around this time, activist investor Paul Singer’s hedge fund was 
+getting sales calls offering distressed CDOs; Elliott Management sensed an opportunity to 
+move beyond its core equity focus. In 2003, Elliott hired Kasoff to build a group to invest in 
+these structured products. “That was right at the beginning of a huge prol iferation in new 
+products in the credit markets,” Kasoff said. 
+Derivative indexes backed by pools of credit default swaps (CDS) that referenced corporate 
+bonds were trading with increased liquidity, and in 2003, tradable tranches of these indexes 
+were created. These tranches enabled investors to buy or short a different slice of the risk, 
+at a more junior or senior level, with a higher or lower return accordingly. 
+That made it really interesting because now you could actually trade this product in 
+a relative value way by matching up CDOs with things that you could trade from the 
+short side, to isolate value and do creative things. 
+At the same time, opportunities were developing to trade CDOs backed by debt other than 
+corporate bonds. A large volume of “multi sector CDOs” had been created in the late 1990s 
+through 2000, which owned investment -grade corporate bonds (including many that later 
+defaulted, such as Enron and WorldCom), aircraft equipment trust certificates, credit card 
+ABS (asset -backed securities), auto loan ABS, and both residential and commercial 
+ 
+1 A collateralized debt obligation (CDO) is an asset -backed security issued by a special purpose vehicle, a 
+business entity formed specifically to issue that CDO. See Michael Schmidt, “CMO vs CDO: Same Outside, 
+Different Inside,” Investopedia, updated January 31, 2022,  
+https://www.investopedia.com/articles/investing/111213/cmo-vs-cdo-same-outside-different-inside.asp. 
+408
+Journal of Financial Crises Vol. 4 Iss. 1
+
+--- Page 5 ---
+mortgage-backed securities. These CDOs also became distressed as a result of defaults in 
+parts of their underlying portfolios. 
+[The aircraft leases] also performed horribly after 9/11 for obvious reasons. And so 
+that became a part of the distressed trading opportunity. What was left in these CDOs 
+was mortgage-backed securities. And most of that was subprime. It got me focused 
+on looking at the opportunity in subprime. 
+And there would be lots to look at. By 2004, the excitement around creating new derivatives 
+in the corporate world had spilled over onto the mortgage side. The subprime RMBS 
+tranches in those multisector CDOs had performed well, it turned out, while other parts of 
+the portfolio had underperform ed. From this discovery, market participants realized, it 
+would be attractive to create CDOs backed entirely by subprime RMBS tranches. 
+Product and machine: Kasoff described the structure of a subprime CDO and the main 
+players. 
+Kasoff described in detail the roles played by the five main players making up the mortgage-
+backed “CDO machine” (FCIC 2011, 130)—the securities firms (or “dealers”), CDO managers, 
+rating agencies, investors, and financial guarantors. Investment banks and CDO managers 
+worked closely together in the initial production and distribution phases. 
+If you’re a Merrill or Deutsche, for example, and you have a group of people that 
+structure CDOs, what you’re doing as that banker is, you’re going into a CDO manager 
+and pitching the idea of “Hey , why don’t you do a CDO? And we’ll work on it for you. 
+And we’ll charge a little bit to structure it, and you’ll earn your 30 or 50 basis points 
+running management fee on that portfolio.” 
+The CDO manager selected the subprime bonds and worked with the dea ler to market it to 
+investors. The dealer warehoused the assets purchased by the CDO manager on behalf of the 
+CDO. During this “ramp-up,” the dealer structured the CDO. The CDO managers were not risk-
+takers; rather, their fee -based business incentivized th em to increase assets under 
+management. Kasoff outlined the capital structure of a typical subprime CDO. 
+• The first 0% to 5% of risk (the “first loss” tranche) would be unrated; 
+• The next 5% to 10% would be BBB; 
+• 10% to 15% would be A; 
+• 15% to 20% would be AA; 
+• And then about 20% to 100% would be rated AAA. 
+409
+Lessons Learned: Steven H. Kasoff Lieber
+
+--- Page 6 ---
+Regulatory frameworks made subprime CDOs very appealing for institutional 
+investors. 
+Investors in CDOs, or “long-side buyers,” came from the largest set of fixed-income investors, 
+namely banks and insurance companies. These institutional buyers were drawn to CDOs for 
+their relatively high yields at each rating level. For example, an A-rated tranche of a subprime 
+CDO might have had a credit spread of 150–200 basis points (bps), whereas the spread for a 
+similarly rated subprime RMBS tranche was only 50 bps, and corporate bonds were even 
+lower. Driven by regulatory frameworks, CDO investors optimized their portfolios based on 
+each asset’s yield and the amount of capital required to be held against it, which in turn was 
+based on the rating. For insurers, the investment sweet spot was a combination of A -rated 
+and BBB tranches. Large money center banks tended to prefer more senior tranches. One big 
+bank would often buy the entire $400 million –$500 million A AA tranche. The more 
+speculative tiers of BBB and equity of the CDO—often a $40 million–$50 million slice each—
+were harder to move and mainly went to hedge funds or high-net-worth investors. 
+Key to CDOs’ appeal was a rating transformation: BBB subprime bon ds were 
+securitized into a structure composed mainly of a AAA tranche. 
+Crucially, CDO deals needed credit ratings to happen, Kasoff explained. Rating agencies 
+Standard & Poor’s and Moody’s provided the ratings that institutional investors relied on. 
+Nobody was going to buy 85, 90% of the capital structure without ratings, even if you 
+could show somebody that you had a ton of subordination and that it was bulletproof 
+for credit risk. Without a rating, it didn’t make sense because they would have to hold 
+too much capital against it. 
+A rating transformation occurred when BBB subprime bonds were securitized into a 
+structure composed predominantly of a AAA CDO tranche. 
+Rating agencies used ill-fitting models to provide favorable ratings—and disregarded 
+feedback from the markets. 
+This transformation rested on quantitative models that the rating agencies had developed 
+for corporate credit. Their analytic framework assumed that “the portfolio of assets could be 
+modeled as a quantifiable number of independent default probabilities.” In other words, that 
+the risk on any one bond was independent of, or at least not well correlated to, another . The 
+framework’s model then mathematically calculated the default probability distribution of 
+the aggregate portfolio. However, Ka soff said, “when you started going into portfolios that 
+were entirely mortgage risk, you didn’t have diversity.” 
+Much criticized, the agencies typically responded that their role was “to assess credit risk, 
+not market risk.” But the agencies should have he eded market prices more, Kasoff 
+contended, noting that they overlooked market signals and continued to issue inflated 
+ratings. He sensed “a certain amount of hubris” among rating analysts when they rebuffed 
+questions about the adequacy of their models. He described a practitioner roundtable in 
+2006–07 hosted by a senior member of S&P’s structured group for 50 analysts to hear from 
+410
+Journal of Financial Crises Vol. 4 Iss. 1
+
+--- Page 7 ---
+a panel of market insiders, ostensibly to better understand the thinking of those using their 
+ratings. 
+I was invited to [speak a t] one of these roundtable meetings. I told [the host] 
+beforehand, “I might say some things that you won’t be happy with.” And he said, 
+“Yeah, it’s OK, come on in.” So I said it, right in front of that whole group: “The high 
+correlation, or lack of diversi ty, meant that the ratings were wrong”  [italics added]. I 
+remember this well —his boss had coincidentally walked out of the room before I 
+made the comment. When I talked to him afterwards, he said, “I’m glad you made the 
+comment for the analysts to hear, but I’m also glad she had left the room before that.” 
+Whatever unease there may have been at the agencies did not matter, for an obvious reason. 
+By 2005, Kasoff pointed out, structured credit securities had become the largest segment of 
+the rating agencies’ business, approaching 50% of revenues, up from 0% in 1995.2 
+Synthetic CDOs enabled Wall Street firms to cater to massive demand. 
+Hedge funds that specialized in structured credit were buying CDOs of distressed assets and 
+eager for ways to lock in gains. The natural question was, “I’m effectively buying indirectly a 
+portfolio of subprime bonds. How can I short something that looks similar?” 
+Very quickly, Wall Street developed a standardized pay -as-you-go credit default swap. This 
+product replicated the risk profile of any specific subprime RMBS bond and removed the 
+need to find someone who owned it and was willing to sell it. Similarly, for someone who 
+wanted to short the bond, the CDS eliminated the need to find a bond that could be borrowed 
+(the no rmal process for shorting securities). The pay -as-you-go CDS gave rise to the 
+synthetic CDO, a subprime CDO in which the subprime bonds “owned” by the CDO were 
+actually held through CDS contracts; the synthetic CDO did not own actual bonds. 
+In some cases, the AAA tranche issued by the CDO could be structured as a CDS instead of as 
+a bond. AIG and other insurance companies were principal writers of CDS on the AAA 
+tranches of these CDOs; by selling protection, they were effectively getting exposure to a AAA 
+CDO tranche and earning premia on the contract. AIG, as well as large monoline insurance 
+companies, sold protection on AAA tranches very cheaply. Notably, regulators did not 
+require these insurers to hold any capital against the risks they were insuring. 
+The effects of synthetic CDOs were threefold. First, they expanded the market, removing the 
+constraint of a limited number of mortgage assets. The pay-as-you-go CDS, Kasoff said, “was 
+one of the ways that the market started to pay attention to subprime, whic h up until that 
+point had been the relatively esoteric corner.” Synthetic CDOs and their component contracts 
+enabled more investors to join the boom in CDO investing. In 2005 and 2006, CDOs issuance 
+ 
+2 For 2006, revenues from structured credit made up 45% of Moody’s credit ratings business, and S&P was 
+doing more business than Moody’s (FCIC  2011, 149; Moody’s Corporation 2007, 19 –21; McGraw Hill 
+Companies 2007, 38–42). 
+411
+Lessons Learned: Steven H. Kasoff Lieber
+
+--- Page 8 ---
+volume increased dramatically, due to growing global dema nd from clients in Europe and 
+Asia for the higher yields offered by these securities. 
+Second, synthetic CDOs accelerated the speed and ease of taking a position, removing the 
+months-long wait and warehouse risk of the “ramp -up” process. “Synthetics allowed you to 
+bypass accumulation, to snap your fingers and be done,” explained Kasoff. Third, synthetic 
+CDOs enabled unlimited leverage, since financial regulators did not require capital to be held 
+against them. For example, “at Morgan Stanley, you had a prop desk that was buying these 
+synthetic AAAs because they didn’t have to hold any capital against it.” 
+Crucially, the growth in synthetic CDOs was integrally tied not only to investors wanting 
+yield but also —just as much —to the “shorts,” the investors looking  to hedge some prior 
+exposure or to take more speculative positions against the housing market. 
+In 2004, a small number of contrarian investors began shorting subprime CDOs. 
+For a number of investors, the impetus to short subprime CDOs originated not as a bet 
+against subprime but to reduce risk from CDOs already owned. “It was just a hedge against 
+the CDOs,” Kasoff said. But the move to lock in some gains got Kasoff and others thinking. 
+The more you started looking at what was going on in subprime, you saw something 
+was going very wrong. We all know the history, but as we looked at it then, we thought 
+more and more about having the ability to short it. 
+The standardization of the pay -as-you-go CDS enabled large investors to establish a short 
+position. Kasoff identified an evolution among investors in the thought process about 
+shorting subprime CDOs. What had begun as a tactic to lock in gains from arbitrage had other 
+uses. It occurred to many that they could do more with the shorts, that “this is a good core 
+hedge against a recession.” By the end of 2005 and early in 2006, after digging into their 
+research on the housing situation, “we were starting to feel like, wow, this is an ‘alpha 
+short’—the short that wasn’t just for hedging.” 
+Shorting subprime CDOs was a lonely game. 
+Magnificently right in hindsight, the short investors confronted a prevailing mindset with a 
+powerful grip, Kasoff elaborated. “People on the long side would smirk at us. CDO managers 
+were getting rich off of our stupidity.” There was no comm unity among shorts, nor much 
+interaction between them. In any conversations with other hedge funds, “you’d still be very 
+close to the vest.” 
+“On the short side, you never really knew if you were right,” said Kasoff. There were costly 
+premia to be paid. Rea l moments of fear sparked short cover rallies. Through 2006, the 
+bullish mentality of the housing boom prevailed, up until the bankruptcy of a small mortgage 
+originator, MLN. In February 2007, the launch of the TABX index of CDO tranches bombed, 
+leaving CDO investors exposed. But what at first appeared to be a big win only generated 
+further qualms. Wall Street firms dodged calls from shorts to mark their CDS positions 
+accurately. Kasoff recalled, “there were big fights around marks.” Dealers, who enjoyed a 
+412
+Journal of Financial Crises Vol. 4 Iss. 1
+
+--- Page 9 ---
+measure of control over short-term prices in the illiquid market for CDOs and subprime CDS, 
+were awoken to the need to adjust their books —and to shed subprime and CDO exposure 
+ASAP. 
+Strategies for shorting CDOs varied by firm type. One type, utilized by the hedge fund 
+Magnetar Capital, was the unconstrained structured deal. John Paulson (of the hedge fund 
+Paulson & Co.) eventually set up an entire fund dedicated to one trade. Barclays’ ABS 
+correlation desk ran a hedged book that attempted to mark its positions to market as well as 
+it possibly could. Multisector hedge funds such as Elliott would dedicate a limit to a subprime 
+shorting strategy for a given period. 
+Let’s say I’m a $10 billion fund and I’m comfortable with this trade being a 1% dra g 
+on my performance. Without this trade and in a good year, I expect to earn 10%. So 
+now with the trade that’ll be 9% instead. So that means I can spend $100 million a 
+year in premium. And then you work backwards to optimize how you’re going to 
+spend that money. 
+One tactic common across different short sellers was to short subprime BBB tranches and 
+buy the equity of a CDO that owned those or similar bonds. “CDO equity was popular,” Kasoff 
+explained, “because it mitigated the cost of shorting stuff because y ou had all of these other 
+cash flows coming in.” As interest in shorts grew in late 2006 and 2007, the cost of shorting 
+the BBB increased. So hedge funds moved up the capital structure, shorting the A and AA 
+tranches. Higher -rated tranches cost less to sho rt, allowing sellers to amplify their bet. 
+However, greater losses would be needed for those shorts to pay off. 
+The bigger picture: short sellers win; system fails. 
+Market events of 2006–07 reassured the short sellers “that this was a great trade.” At worst, 
+if they were wrong, their losses would be minimal. Most expected “that subprime would be 
+a slow-moving train wreck because the bulk of the mortgage defaults would be concentrated 
+around the reset dates on 2/28 ARMs or 3/27 ARMs.” 
+But even the short sell ers had been conservative in their 2006 assessments —and overly 
+optimistic about housing markets. Subprime mortgage defaults spiked well before the resets 
+were due to start in 2009. As markets digested news of losses in 2008, fights over marks 
+grew heated, particularly when the counterparty was Lehman or Merrill. “A lot of people lost 
+money because they weren’t able to fully get the proper amount of margin when Lehman 
+went under.” The subprime losses came sooner than expected, revealing a greater 
+vulnerability and triggering a global financial crisis. 
+The broader housing market collapse that ensued was more massive and more resounding 
+than almost anyone had imagined. 
+What very few recognized at the time was how this little corner of the US mortgage 
+market was turning into a systemic risk for the overall global markets. And that was 
+not at all clear to anybody [then]. 
+413
+Lessons Learned: Steven H. Kasoff Lieber
+
+--- Page 10 ---
+Kasoff connected trading strategies and market instability to system failure. The outstanding 
+balance of all subprime loans around that time was $700 billion in an overall US mortgage 
+market of $10 trillion. The subprime problem was not a systemic risk, the Federal Reserve 
+had emphasized publicly as late as May 2007. But the damage would in fact extend beyond 
+the reckless and the greedy. Financial dysfunction took down one great institution after 
+another, threatened a global meltdown, and induced a Great Recession like none other. 
+References 
+Financial Crisis Inquiry Commission (FCIC). 2011. The Financial Crisis Inquiry Report.  
+Washington, DC: US Gov ernment Printing Office [URL: https://ypfs.som.yale.edu/financial-
+crisis-inquiry-commission-0, accessed March 8, 2022].  
+McGraw-Hill Companies. 2007. 2006 Annual Report. 
+Moody’s Corporation. 2007. Form 10-K 2006. 
+Dated: April 2022 
+YPFS Lessons Learned No. 2020-36 
+ 
+414
+Journal of Financial Crises Vol. 4 Iss. 1

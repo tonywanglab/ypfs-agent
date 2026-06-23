@@ -1,0 +1,433 @@
+## Argentina: Mutual Fund Suspensions, 2019[1] 
+
+_Owen Heaphy[2] and Anmol Makhija[3]_ 
+
+Yale Program on Financial Stability Case Study June 25, 2025 
+
+## **Abstract** 
+
+With Argentina facing a liquidity crisis and collapse in demand for government debt, on Wednesday, August 28, 2019, the country's minister of economy, Hernán Lacunza, announced after markets closed that the government was extending the maturity of USD 7 billion of its short-term public debt securities, among other measures. Lacunza stated that domestic retail investors would not be subject to the terms of the maturity extension and would be paid principal and interest on the affected securities per the original maturity schedule. This announcement caused confusion about the treatment of individual investors who held the affected securities indirectly through mutual funds. More than a dozen funds, facing uncertainty about the announcement and severe redemption pressures, suspended redemptions indefinitely on Thursday, August 29, with the support of the Argentine mutual fund association and the industry’s regulator, the National Securities Commission (Comisión Nacional de Valores, CNV). Later that day, the CNV adopted a general resolution clarifying that all individual investors were to be exempt from the extensions and giving funds a mechanism to group assets based on their liquidity and type of investor and  apply different valuations to similar securities for redemption payments based on the type of investor who was redeeming shares. Following this resolution required funds to make complex operational adjustments to their accounting systems. By September 13, 2019, most funds had removed their gates and allowed redemptions again, following the CNV’s guidelines. The central bank (Banco Central de la República Argentina _,_ BCRA) provided substantial liquidity assistance to mutual funds after they reopened, starting August 30. The BCRA also announced that money market funds, which did not own the affected securities but had suffered runs, could terminate bank term deposits early to raise liquidity to meet redemption requests. By the end of September, the industry had normalized and assets under management grew for the remainder of the year. 
+
+**Keywords:** Argentina, debt reprofiling, fund suspensions, gating, retail investors 
+
+> 1 This case study is part of the Yale Program on Financial Stability (YPFS) selection of New Bagehot Project modules considering bank holiday and fund suspension programs. A survey of all the cases in this series (Wiggins et. al. 2025) and the cases underlying it are available from the _Journal of Financial Crises_ at https://elischolar.library.yale.edu/journal-of-financial-crises/. 
+
+> 2 Research Associate, YPFS, Yale School of Management. 
+
+> 3 Research Associate, YPFS, Yale School of Management. 
+
+
+## **Overview** 
+
+This case study examines the widespread suspension of redemption rights in Argentine open-end mutual funds following the restructuring of short-term Argentine sovereign debt in 2019. In 2018, Argentina faced an economic contraction, inflation, rapid depreciation of the Argentine peso (ARS), and an unsustainable buildup of debt. The US Federal Reserve raised interest rates four times that year, reducing investor interest in emerging market securities such as Argentine bonds. Following the Argentine presidential primary election on August 11, 2019, in which opposition candidates who were perceived as less market-friendly performed better than expected, investor interest in Argentine public debt securities collapsed. Investors purchased less than 10% of short-term public securities offered on August 13 and 28, compared to an average of 88% before the election (Argentina 2019b; BCRA 2019d; Lacunza 2019; Nelson 2020). 
+
+To stop the capital outflow, Hernán Lacunza, President Mauricio Macri’s recently appointed minister of economy, announced after markets closed on August 28, 2019, that the government would extend the maturity of USD 7 billion of sovereign short-term debt held locally by up to six months. A government decree that evening provided details of the new policy. For most such securities, 15% of the amount due would be payable on the original maturity date, 25% would be payable 90 days after the original maturity date, and the balance would be payable 180 days after the original maturity date. For certain Treasury bills denominated in pesos maturing on or after January 1, 2020, the payment on the maturity date was to be 15% of the amount due, and the 
+
+## **Key Terms** 
+
+Purpose: to provide impacted mutual funds with time to develop tools to ensure that individual investors invested in short-term public debt securities were not affected by the government’s decision to extend the maturities of these securities 
+
+||Announcement|Funds informed customers|
+|---|---|---|
+||Date<br>End Date|on August 29, 2019<br>Funds resumed redemption<br>activity at different times,<br>depending on how quickly|
+|||they set up the operational|
+|||capacity to segregate funds;|
+|||Most had resumed normal<br>activity by September 13|
+||Legal Authority|Section 22 and 32 of Law No.|
+|||24,083 and Section 19 of Law<br>No. 26,831 (for the gating)|
+||Administrators|The CNV and a private|
+|||association of mutual funds<br>(CAFCI)|
+||Communication|The CNV described in its|
+||and Disclosure|resolution the steps that<br>funds could take to reopen|
+||Permitted|No withdrawals were|
+||Withdrawals|permitted during the brief|
+|||suspension of redemption<br>rights|
+||Treatment of|Different investor classes|
+||Depositors or|received different treatments|
+||Investors|based on their classification<br>and investment date|
+||Outcomes|Investors received access to|
+|||their investments in cash or<br>in kind; institutional<br>investors were subject to the<br>terms of the debt|
+|||rescheduling; retail investors|
+|||weren’t|
+||Notable Features|Involvement of industry<br>group in coordinating an|
+|||industry-wide gating;|
+|||Participation was voluntary<br>at the discretion of each fund|
+
+
+
+
+balance was to be paid 90 days after the original maturity date. However, the government also specified that the rescheduling would not apply to individual investors, who held 90% of the securities affected (Argentina 2019b; BCRA 2019d; Doll, Gilbert, and Oyamada 2019). 
+
+The government announcement immediately created confusion among mutual fund managers and their investors, because it was not clear how funds should treat individual investors who had invested in the affected securities indirectly through mutual funds (CNV 2019b). Facing that uncertainty, funds began to suspend redemptions immediately with the support of the industry’s association, (Cámara Argentina de Fondos de Inversión, CAFCI), and later their regulator, the National Securities Commission (Comisión Nacional de Valores, CNV). On Wednesday night and Thursday morning, CNV officials and industry representatives met to discuss solutions. On Thursday, the CNV released a joint statement with CAFCI saying that individuals who invested indirectly in the affected securities through mutual funds would be treated the same as persons who invested in such securities directly, meaning they would be exempt from the extension of maturity (CE NoticiasFinancieras 2019b; CNV 2019b). 
+
+Later on Thursday, the CNV adopted a general resolution giving funds a mechanism to group assets based on their liquidity and type of investor and apply different valuations to similar securities for redemption payments based on the type of investor who was redeeming shares. For funds to follow this resolution, they needed to make complex operational adjustments to their accounting systems. By September 13, 2019, most funds had removed their gates and allowed redemptions again, providing the full value of the underlying securities to individual investors at their original maturities but delaying payment for institutional investors seeking redemptions per the decree (CNV 2019a; CNV 2019b; Fitch Ratings 2019b). 
+
+Money market funds (MMFs), which did not focus on short-term government notes, remained open on Thursday but experienced extraordinary withdrawals of USD 1.2 billion. Those withdrawals represented roughly one-third of money market fund assets and onetenth of the assets of the entire mutual fund industry (Doll, Gilbert, and Oyamada 2019, 2). 
+
+On Friday, August 30, the Central Bank of the Argentine Republic (Banco Central de la República Argentina _,_ BCRA) announced several measures to provide liquidity to open-end mutual funds and money market mutual funds facing enhanced redemption requests. In one press release, the BCRA announced plans to purchase from open-end mutual funds the four types of public debt affected by the rescheduling, or to provide repurchase agreement (repo) financing to mutual funds through an auction, using the same types of securities as collateral. The BCRA said that, as of October 11, 2019, it had purchased ARS 47 billion (USD 404.6 million[4] ) in peso- and dollar-denominated bills through these liquidity mechanisms (BCRA 2019b; BCRA 2019d). 
+
+In a second press release on August 30, the BCRA authorized money market mutual funds to cancel the terms of fixed deposits and other term investments in banks so that they could 
+
+> 4According to FRED, USD 1 = ARS 116.15 on October 12, 2019. 
+
+
+meet investor redemption requests. This unusual ruling applied to deposits or investments that were at least seven days old. It would be in effect through September 30. The measure provided important relief to the MMF market and its assets under management quickly recovered (BCRA 2019a; BCRA 2019d). 
+
+On September 1, 2019, the government implemented controls to stem capital outflows and ease demand for US dollars, requiring exporters to repatriate earnings within five to 15 days and businesses to obtain permission to repatriate profits abroad or buy US dollars (Johnson 2019). 
+
+By September 13, 2019, most funds resumed redemption activity. However, funds opened at different times, depending on how quickly they were able to set up the operational capacity to segregate investor classes; funds with greater numbers of individual investors and higher percentages of the affected securities faced more operational challenges. Mutual fund shares registered to domestic retail investors as of July 31, 2019, were segregated into funds that received the full value of the underlying securities and received payment according to the original terms of the affected securities. Other classes of investors in the mutual funds were segregated into funds that were subject to the rescheduled payments on the affected securities (Fitch Ratings 2019b). 
+
+Following several rounds of failed debt negotiations throughout early 2020, on May 22, the Argentine government missed a USD 503 million interest payment on dollar bonds, sending the government into default (Nelson 2020). 
+
+[FIGURE id=vol7_iss2_2_f1 type=diagram label="Figure 1" file=figure_1.png caption="Timeline for the Industrywide Gating of Argentine Mutual Funds in 2019"]
+### **Figure 1: Timeline for the Industrywide Gating of Argentine Mutual Funds in 2019**
+
+|**Date**|**Event**|
+|---|---|
+|Aug. 28, 2019|Argentine government announces maturity extension for USD 7 billion of local short-term debt<br>but exempts individual investors, who reportedly own 90% of these securities|
+|Aug. 29, 2019|The government’s announcement creates confusion among mutual funds about how to treat<br>individual investors who held the affected securities indirectly through their mutual fund<br>shares, leading more than a dozen funds that held those securities to gate. CAFCI, the private<br>association of mutual funds, facilitates a mutual fund industry-wide gating measure for<br>Argentine mutual funds to buy time to work with their regulator, the CNV, on a solution<br>S&P downgrades Argentina’s issuer default ratings to a restricted default citing the<br>government's rescheduling of local short-term debt<br>Investors withdraw over ARS 70 billion (USD 1.2 billion) from money-market mutual funds,<br>equivalent to almost 10% of the mutual fund industry’s total assets. These funds did not hold<br>the affected government securities<br>The CNV and CAFCI, in a joint statement, clarify that indirect investors in the affected securities<br>are to be treated as direct investors, promising more details later<br>CNV adopts a general resolution, released the next day, to provide the mutual fund industry<br>with necessary tools to deal with the unique circumstances of the debt reprofiling|
+
+
+
+
+|Aug. 30, 2019|S&P raises Argentina’s long-term credit rating to a CCC- and short-term credit rating to a C<br>while maintaining a negative outlook, and Fitch lowers Argentina’s issuer default ratings to a<br>restricted default<br>The CBRA announces several interventions to provide liquidity support to both open-end<br>mutual funds that held the affected government securities and money market mutual funds<br>that were subject to runs|
+|---|---|
+|Sept. 1, 2019|The government imposes capital control measures to stem the outflow of capital|
+|Sept. 13, 2019|Most funds that suspended redemptions reopen by this date, although the gating is lifted at<br>different times depending on individual fund characteristics|
+
+
+
+_Source: Authors’ analysis._ 
+
+## **Summary Evaluation** 
+
+Following the Argentine government’s debt rescheduling announcement on August 28, 2019, Fitch Ratings downgraded the country’s long-term debt to “restricted default” (RD), a situation in which a borrower has taken action to avoid a traditional default yet materially reduced the terms of its debt (Fitch Ratings 2019a). On August 29, Standard & Poor’s (S&P) lowered Argentina’s issuer default rating to RD for both long-term and short-term debt, before raising Argentina’s long-term sovereign credit rating slightly to CCC- and short-term rating to C the following day on the grounds that the terms of the rescheduling had immediately taken effect (S&P 2019). However, despite the ratings increase, S&P retained a negative outlook on Argentina’s capacity to service its debt owing to political uncertainty and the potential for future debt rescheduling. Bloomberg also reported the government’s announcement as a “default on $7 billion of local debt” (Doll, Gilbert, and Oyamada 2019). 
+
+In a note issued following the suspension of redemption rights, Fitch noted that the mutual fund industry had no option but to gate redemptions while the industry adjusted its operational capabilities to comply with the new regulations. The note also stated that this event was a rarely observed redemption risk for funds investing in speculative sovereign debt since the terms of the underlying sovereign debt were restructured in an unanticipated manner. In the note, the ratings agency observed that, despite what it called the “Argentina Sovereign Default,” redemption activity resumed relatively quickly because of the involvement of CAFCI and the fact that most funds used the same accounting system in Argentina (Fitch Ratings 2019b, 1). 
+
+A ratings note from Moody’s placed 175 Argentine bond funds on review for a downgrade following a decline in the credit quality of their underlying portfolio of Argentine sovereign debt. In the note, Moody’s emphasized that the decision to place these funds on review for downgrade was not prompted by the funds’ decision to temporarily suspend redemption rights, since the gating was done to avoid a wealth transfer between different types of shareholders, and the operational adjustment would be made by the week of September 13 to allow a resumption in redemption activity (Moody’s Investors Service 2019). 
+
+Local news agency _El Cronista_ highlighted that the temporary gating measure led to a loss of liquidity for individuals using the investment as savings and small businesses using their mutual fund savings to meet other business obligations. The news agency also interviewed 
+
+
+a portfolio manager from a local fund who said that in their view the government did not sufficiently consider the consequences of the debt rescheduling and its application to different classes of investors (Yosovitch 2019). 
+
+
+|**Context: Argentina, Mutual Funds, 2018–2019**|**Context: Argentina, Mutual Funds, 2018–2019**|
+|---|---|
+|**Outstanding Sovereign Debt**|**ARS 1.1 trillion**for 2018<br>**ARS 2.6 trillion**for 2019|
+|**Aggregate Mutual Fund Holdings**|**ARS 826.0 billion**for 2018<br>**ARS 796.5 billion**for 2019|
+|**% of Mutual Fund Assets to GDP**|**3.07%**for 2018<br>**3.10%**for 2019|
+|**Sponsor Support**|None|
+|**Affected Securities**|**ARS 833.3 billion**as of August 30, 2019|
+|_Source: CAFCI 2019._||
+
+
+
+
+## **Key Design Decisions** 
+
+**1. Purpose: Argentina’s government passed a unilateral extension of the maturities on its short-term debt, exempting individual holders and creating operational issues for mutual funds. In response, Argentine mutual funds with exposure to those short-term debt securities stopped honoring redemption requests from investors until, with the support of the CAFCI and the CNV, they could ensure that individual investors invested in public debt securities were not affected by the debt rescheduling.** 
+
+Facing a liquidity crisis and collapse in demand for Argentine government debt, President Mauricio Macri’s administration announced on Wednesday, August 28, 2019, that it would unilaterally extend the maturity for USD 7 billion of sovereign short-term debt held locally and seek an extension on other long-term debt, totaling USD 101 billion. The government extended the maturity on four types of short-term Treasury bills: peso-denominated bills that pay compounded interest on maturity (LECAPs), peso-denominated, inflation-indexed bills (LECERs), US-dollar-denominated bills (LETEs), and peso-denominated bills that are linked to the dollar-peso exchange rate, offering protection against peso depreciation (LELINKs). The specific short-term debt securities subject to the reprofiling were listed in the annex to the decree announcing the rescheduling (Argentina 2019a; BCRA 2019b; Doll, Gilbert, and Oyamada 2019). 
+
+The decree outlined the new repayment terms for most types of bills as: 
+
+- 15% of the nominal value would be repaid per the original maturity; 
+
+- 25% of the nominal value would be repaid three months after the original maturity; 
+
+- The remaining 60% would be repaid six months after the original maturity of the respective debt security. 
+
+The decree imposed slightly different terms for LECAPs that were set to mature on or after January 1, 2020. For these bills, the payment on the maturity date would be 15% of the amount due, with the balance payable 90 days after the original maturity date (Argentina 2019b). 
+
+However, the decree specified that the restructuring would not apply to owners of the securities registered as individual investors at Argentina’s Central Securities Depository (Caja de Valores) as of July 31, 2019, if they maintained ownership as of the payment date. The CNV clarified the next day, on Thursday, August 29, that individual investors who had invested in the affected securities indirectly, through investments in mutual funds that held the securities, would be treated the same as individual investors who had invested directly and therefore not been subject to the extension (Argentina 2019b; CNV 2019b). 
+
+
+The varying repayment terms of the restructured Argentine securities created operational issues for mutual funds, which lacked a mechanism to apply different prices to the same securities for the benefit of individual investors, depending on when they bought into the fund (Fitch Ratings 2019b). 
+
+Following the government’s announcement, on August 29, 2019, the mutual fund industry in Argentina experienced severe redemption pressures, and many funds gated to halt redemptions. The CAFCI held meetings Wednesday night, August 28, and Thursday, August 29, to coordinate an industrywide suspension of redemption rights, so that pricing and liquidity issues associated with the redemption activity could be mitigated (Fitch Ratings 2019b). 
+
+The CAFCI also sought tools for the mutual fund industry to be able to provide individual investors with the same treatment outlined in the decree announcing the rescheduling. Fitch Ratings argued that the mutual fund industry in Argentina had little choice but to suspend redemption rights for all investors given these issues, until fund managers, administrators, and regulators determined an equitable and operationally compliant way to honor redemptions (CE NoticiasFinancieras 2019a; Fitch Ratings 2019b). 
+
+Most money market funds remained open, and investors withdrew ARS 70 billion (USD 1.2 billion) from these funds that day, representing 10% of the entire mutual fund industry’s assets (CAFCI 2019; Doll, Gilbert, and Oyamada 2019). 
+
+**2. Part of a Package: The CNV passed General Resolution 806/2019 to provide mutual funds with a mechanism to group assets by liquidity and investor type to facilitate the exemption of individual investors from the rescheduling. The BCRA also provided liquidity assistance to the mutual fund industry and money market funds to address the wave of redemption requests.** 
+
+On August 29, 2019, the CNV adopted General Resolution 806 to provide funds with the mechanisms to group assets by liquidity and investor type in order to comply with the rescheduling  (CNV 2019a). 
+
+The next day, following the redemption pressures and widespread gating in Argentina’s open-end mutual fund industry, the BCRA announced that it would launch two facilities to provide liquidity that mutual funds could use in turn to meet redemptions. On August 30, the BCRA announced plans to purchase from only mutual funds the four types of short-term public debt securities affected by the government’s rescheduling; purchases were made through financial institutions. The BCRA also announced in the same press release that it planned to offer auctions of active repurchase agreements in pesos and US dollars using the same collateral, again allowing only mutual funds to participate in these auctions. Through these mechanisms, the BCRA purchased roughly ARS 47 billion worth of bills from mutual funds through October 11, 2019 (BCRA 2019a; BCRA 2019b; BCRA 2019d). 
+
+The BCRA also took steps to promote liquidity in money market funds. In a separate press release on August 30, the BCRA authorized money market mutual funds to cancel the terms of fixed deposits and other term investments in banks so that they could meet investor 
+
+
+redemption requests. This ruling applied to deposits or investments that were at least seven days old and remained in effect through September 30. On September 16, 2019, the BCRA also announced that the Monetary Policy Committee raised the interest rate applicable to its reverse repo transactions with money market mutual funds to 70% of the one-day repo transaction rate applicable to financial institutions. Effectively, this measure increased the annual interest rate that money market funds received from the central bank on the reverse repo program from 0.5% to about 45%. As a result, money market mutual funds shifted about ARS 70 billion into the BCRA’s reverse repos, representing about 14% of the total net worth of money market mutual funds, and fixed-income mutual funds shifted about 15% of their net worth into money market mutual funds (BCRA 2019a; BCRA 2019d; BCRA 2019e; CE NoticiasFinancieras 2019c). For a breakdown of changes in the composition of equity for Argentine mutual funds from August to September 2019, see Figure 2 below. 
+
+[FIGURE id=vol7_iss2_2_f2 type=figure label="Figure 2" file=figure_2.png caption="Composition of Equity for Argentine Mutual Funds, Aug. 9–Sept. 20, 2019"]
+### **Figure 2: Composition of Equity for Argentine Mutual Funds, Aug. 9–Sept. 20, 2019**
+
+_Source: BCRA 2019d._ 
+
+The BCRA explained the purpose of these programs: 
+
+In short, by means of auctions for the purchase of Bills, the BCRA pumped liquidity to Mutual Funds so that they could face the increase in the number of redemptions by holders of unit shares, while the increase in the rate of the Mutual Funds’ reverse repos improved the transmission channel of the interest rate in order to make the remuneration obtained by money market Mutual Funds more appealing. Thus, the measures adopted by the Central Bank of Argentina contributed to stabilizing the Mutual Funds market and preserving financial stability (BCRA 2019d, 80–81). 
+
+The BCRA’s 2019 annual report indicates that as of year-end the central bank held approximately USD 36.5 million worth of short-term debt securities (original nominal value) in relation to providing liquidity to the mutual funds (BCRA 2019e). 
+
+## **Capital Controls** 
+
+Shortly after the government announced the rescheduling of short-term government debt, the foreign exchange value of the peso and Argentina’s foreign exchange reserves fell 
+
+
+sharply. The government imposed capital control measures on September 1, 2009, requiring exporters to repatriate earnings within five to 15 days, and ruling that businesses would need permission to transfer profits abroad or purchase dollars. The government also announced a monthly limit on foreign exchange transactions of USD 10,000 for residents and USD 1,000 for nonresidents (Johnson 2019). 
+
+**3. Legal Authority: The laws governing mutual funds and capital markets provided fund managers with the power to establish longer than normal redemption periods and provided the CNV with the power to establish any necessary supplementary regulations.** 
+
+On August 28, 2019, the president of Argentina in general agreement of its ministers decreed the rescheduling of USD 7 billion of sovereign short-term term debt held domestically (Argentina 2019b). The affecting decree, No. 596/2019-Public debt, was issued pursuant to the president’s emergency executive powers under Section 99, Subsections 1–3 of the National Constitution that provide in part: 
+
+Only when due to exceptional circumstances the ordinary procedures foreseen by this Constitution for the enactment of laws are impossible to be followed, and when rules are not referred to [specified issues] . . . he shall issue decrees on grounds of necessity and urgency, which shall be decided by a general agreement of ministers who shall countersign them together with the Chief of the Ministerial Cabinet (Argentina 1853, 16). 
+
+The “exceptional circumstances” relied on by the president as referenced in Decree 596/2019 was the “state of uncertainty in the financial markets, evidenced by the pronounced and sustained fall in the trading prices of national public debt securities.” Per the decree, this made it “urgent and necessary to create a framework for the sustainability of the short-term public debt” (Argentina 2019a, 596; Argentina 2019b). 
+
+The president’s decree was subject to review by the Joint Standing Committee of Congress within a period of no longer than 10 days, and the committee was required to discuss its report with each house of Congress (Argentina 1853). 
+
+Following this decree, the CNV adopted General Resolution 806/2019 to give mutual funds the necessary tools to group assets based on their liquidity and type of investor in order to comply with the extension and specifically the exemption of individual investors. The general resolution directed funds to pay assets in proportion to each individual’s holdings in a fund, permitted paying certain assets in kind, and required certain reporting to the CNV. The general resolution also stated that the CNV exercised its powers under Sections 22 and 32 of Law No. 24,083 and Section 19, subsections (h) and (u), of Law No. 26,831, to issue the resolution (CNV 2019a). 
+
+Specifically, Law No. 24,083 establishes the legal regime for mutual funds in Argentina and Section 22 provides generally that redemption requests must be paid within three days.  The section also provides that “management regulations” may establish redemption periods 
+
+
+longer that three days (Argentina 1992, art. 22). Section 32 of Law No. 24,083 establishes the CNV as the supervisor for mutual funds (Argentina 1992, art. 32). 
+
+## **4. Administration: The CAFCI oversaw administering the gating measure.** 
+
+The CAFCI[5] is the main private association of mutual funds and asset managers and serves as the point of contact for the government on all issues related to mutual funds. It called a meeting on August 29 of all fund managers in Argentina after the government announced the rescheduling and coordinated a temporary industry-wide gating in response to the wave of redemptions. The CAFCI did this to mitigate issues with pricing and liquidity under the redemption pressures and operational issues with establishing different pricing for the same securities, based on the type of investor and date of purchase (CE NoticiasFinancieras 2019a; Fitch Ratings 2019b). 
+
+## **5. Governance: The CNV oversaw the mutual funds and issuance of supplementary resolutions for the industry.** 
+
+Fund managers, administrators, and regulators worked towards finding an equitable and operationally compliant way to honor redemptions following the government’s announcement of the debt rescheduling and the exemption for domestic retail investors. Law No. 26,831 provides rules governing the Argentine capital markets, and under article 19 of that law the CNV is given the power to establish any necessary regulations to “settle any issues not contemplated therein and interpret any rules included therein in the context of the prevailing economic circumstances, for the promotion of capital market development” (Argentina 2012, art. 19; Fitch Ratings 2019b). 
+
+The CNV’s General Resolution No. 806 gave funds the option to group assets by liquidity and investor class. The general resolution stipulated that if a fund’s board decided to exercise this option, it would have to notify the CNV within 48 hours of making the decision by submitting minutes of the board of directors’ meeting as evidence of the decision to exercise the option (CNV 2019a). 
+
+If the fund’s board decided to group assets by liquidity, the CNV required the fund to submit an accounting certificate signed by an independent public accountant verifying that certain grouping and equal treatment criteria were considered (CNV 2019a). 
+
+**6. Communication and Disclosure: The CNV, CAFCI, and Ministry of Finance made statements saying that the suspension of redemption rights for retail investors** 
+
+> 5 The CAFCI represents the interests of the Argentinean mutual funds and asset management industry. It had 55 members managing more than USD 16.8 billion distributed in 565 open-end and closed-end mutual funds as of mid-October 2019. The CAFCI works in collaboration with the national government (Contify Investment News 2019). 
+
+
+## **would be resolved quickly. The BCRA also issued press releases and disclosed data regarding government aid to the mutual fund industry.** 
+
+Minister of Economy Hernán Lacunza announced the debt rescheduling in a speech on Wednesday evening, August 28, 2019. He emphasized that the extension did not indicate that Argentina was insolvent. Rather, he said, the country had a liquidity problem. Lacunza also stated that the measure was aimed at alleviating the financial burden for the country in the short and medium term (Lacunza 2019). 
+
+On Thursday afternoon, August 29, 2019, the CNV released a joint statement with the CAFCI and indicated that following meetings between the Ministry of Finance, CNV, and CAFCI, the CNV had decided that individuals who invested indirectly in the affected securities (such as through mutual funds) would be treated the same as persons who invested in such securities directly, meaning they would be exempt from the extension of maturity. Later that day, the CNV issued a regulation providing funds with the capability to provide individual investors with the same benefits extended under Decree No. 596/2019 (CNV 2019a). The CNV also said that they expected the CAFCI to be able to coordinate the necessary operational capabilities within a day, so the redemption rights for retail investors would not have to be suspended beyond that time frame (CNV 2019a; CNV 2019b). 
+
+A local news agency also reported that several customers received the news via emails from their respective funds or when they were trying to access their account online (Yosovitch 2019). 
+
+The BCRA released several press releases to announce details surrounding the measures implemented to aid the mutual fund industry. The BCRA also disclosed key data regarding the uptake of the programs they launched and the performance of the mutual fund industry after the gating. The BCRA disclosed in their monthly monetary report for August 2019 that the private sector deposit stock declined by 17% month-on-month to USD 26.6 billion. In October 2019, the BCRA also released a monetary policy report that detailed the BCRA’s liquidity program for impacted mutual funds (BCRA 2019a; BCRA 2019b; BCRA 2019c; BCRA 2019d; BCRA 2019e). 
+
+**7. Details of Holidays, Suspension, or Gates: The suspension was coordinated by the CAFCI and applied to all mutual funds in Argentina that held the extended securities. The CAFCI coordinated an industrywide response allowing most impacted funds to resume normal operations by September 13, 2019.** 
+
+On August 29, 2019, uncertain how to comply with the government’s decree exempting individual holders (including indirect holders through mutual funds) from its extension of maturities of certain government securities, CAFCI coordinated an industrywide suspension of redemption rights to allow funds to make operational adjustments to their accounting systems to apply different prices to the same securities in order to comply with the decree (Fitch Ratings 2019b). 
+
+Given the difference in how the rescheduling of the short-term public debt was applied to different investor classes, and the mutual fund industry’s initial operational inability to apply 
+
+
+different prices to the same securities depending on the investor class and date of investment, the funds had to suspend redemption rights to give themselves time to adjust their accounting systems (Fitch Ratings 2019b). 
+
+The CAFCI consulted with government authorities on tools to provide individual investors in mutual funds with the same benefits provided for individual retail investors in Decree No. 596/2019. While reopening dates varied, most mutual funds had resumed normal operations and redemptions by September 13, 2019; therefore, the gates were imposed for approximately 15 days (CE NoticiasFinancieras 2019a; Fitch Ratings 2019b). 
+
+**8. Treatment of Depositors or Investors: The funds adjusted their redemption mechanism to apply different prices to the same securities in their respective portfolios, to the benefit of individual investors.** 
+
+The terms of the short-term Argentine debt restructuring did not apply to securities held by holders identified as individuals as of July 31, 2019, who retained such ownership until redemption. Individuals who purchased such securities after July 31, 2019, would, therefore be subject to the extended payment in the same manner as institutional holders. 
+
+The government’s decree compelled mutual funds to treat investor classes differently. As of July 31, 2019, domestic individual investors were segregated into funds that received principal and interest payments according to the original terms of the affected securities and matured on their original maturity dates. Institutional investors and individual investors who had not held the affected securities as of July 31 and continuously until maturity were segregated into funds in which the rescheduled securities were subject to the extended maturities and delayed payment restrictions (Fitch Ratings 2019b). 
+
+The regulator also allowed funds to honor redemption requests on illiquid assets on their portfolio via a payment in kind mechanism, meaning redeeming investors would receive nonliquid securities proportional to their claim on the fund's illiquid assets. The CNV also specified if a fund chose to use the tools outlined in the general resolution, and later suspended its use of these tools, it could not then re-apply the groupings allowed under the general resolution for 30 calendar days after it suspended the use of the tools initially. Through General Resolution 806/2019, adopted by the CNV, funds were allowed to apply redemption fees proportional to the percentage of liquid assets held in each fund’s portfolio (CNV 2019a). 
+
+In practice, funds met regulatory requirements by dividing funds into three separate new funds: 
+
+- Retail funds with rescheduled assets. Retail investors could (1) hold their fund shares and expect that their indirect investments in the affected securities would receive principal and interest on time, through the scheduled maturity of the securities; or (2) redeem their fund shares for the affected securities in kind, in which case they would receive those principal and interest payments directly. In the latter case, however, funds could charge a redemption fee; 
+
+
+- Institutional funds with rescheduled assets. Institutional investors faced the same choice between holding their shares and redeeming their shares for the affected securities; in either case, though, they would be subject to the extended maturities of the securities; 
+
+- Funds for all investors with unaffected assets. Investors could redeem these shares for cash, or in kind for illiquid securities. (CE NoticiasFinancieras 2019d) 
+
+Most mutual funds resumed redemptions by September 13, 2019, under the new rules, and had suspended redemption rights on August 29, 2019, therefore the gates were imposed for approximately 15 days (Fitch Ratings 2019b). 
+
+It is not clear what the range of recoveries for institutional investors was following the rescheduling. The prices of the affected bonds fell drastically in August on the market because of the crisis around government debt and the peso. But unless the government defaulted on the affected securities, it would pay the funds the full amounts back, just on different timelines. Still, those delays in payments would have been costly for some institutional investors. 
+
+In the month of August 2019, net outflows (redemptions less subscriptions) from mutual funds—mostly from money market funds and fixed-income funds—were ARS 236 billion, a decline of 28% for the industry overall. By the end of September 2019, the mutual fund industry had largely stabilized  (CAFCI 2019). 
+
+In September, as mutual funds lifted the restrictions on redemptions, fixed-income funds again experienced substantial net outflows, likely reflecting large numbers of retail investors redeeming to take advantage of the new redemption terms after those funds reopened. In contrast, money market funds, some of which did not suspend redemptions in August, experienced substantial net inflows in September—more than making up for their net outflows in August (CAFCI 2019). 
+
+By the end of 2019, money market fund assets under management had risen to ARS 349 billion (42% of the industry), compared to ARS 137 billion (23% of the industry) at the end of August. Fixed-income fund assets had recovered to ARS 274 billion from their trough of ARS 240 billion at the end of September; they had fallen to 33% of the industry from 55% at the end of 2018 (CAFCI 2019). 
+
+## **9. Verification of Solvency: The funds did not have to verify solvency before resuming redemption activity.** 
+
+Research did not indicate that funds had to verify solvency before resuming normal activity. 
+
+## **10. Other Conditions: No additional conditions were specified.** 
+
+Research did not indicate the use of other special conditions or restrictions on the management of funds. 
+
+
+## **11. Exit Strategy: Individual funds resumed redemptions at different times depending on their characteristics and most funds reopened by mid-September 2019.** 
+
+Since most of the fund industry in Argentina uses the same accounting system, the government and CAFCI were able to work with the funds on viable solutions that were widely applicable so that the funds could resume redemption activity quickly. While most funds resumed redemption activity by September 13, 2019, the reopening of individual funds was staggered based on the investor profile of the fund and the percentage of its securities affected by the rescheduling. According to a Fitch Ratings note, funds with higher proportions of retail investors faced greater operational challenges than those with higher institutional ownership. However, Fitch also noted that in all cases, given that the affected securities are short-term bonds, normalized redemption activity should ultimately be facilitated via bond maturities (Fitch Ratings 2019b). 
+
+On January 10, 2020, the BCRA announced that it would discontinue repo transactions with mutual funds on February 3, 2020 (BCRA 2019e). 
+
+## **12. Regulatory Changes: The establishment of the capital control regime in September 2019 led to limits on the type of assets mutual funds could purchase.** 
+
+The CNV issued regulations aimed at limiting the ability of mutual funds to invest in foreign currency and sovereign bonds denominated in foreign currency, to lower the demand of securities that are commonly used in transactions structured to allow Argentine residents to purchase foreign currencies above their respective capital control limits. During 2022, most foreign asset managers suspended or terminated their plans to increase their presence in Argentina (Mairal 2022). 
+
+
+## **References and Key Program Documents** 
+
+**Legal/Regulatory Guidance** 
+
+(Argentina 1853) Argentine Republic (Argentina). 1853. National Constitution of Argentina. 
+
+_National Constitution of the Argentine Republic_ . https://elischolar.library.yale.edu/ypfs-documents2/4712/ 
+
+(Argentina 1992) Argentine Republic (Argentina). 1992. Mutual Funds Law No. 24,083. _Argentine law regulating the management and administration of mutual funds (in Spanish)_ . https://elischolar.library.yale.edu/ypfs-documents2/5311 
+
+(Argentina 2012) Argentine Republic (Argentina). 2012. Capital Markets Law No. 26,831. November 29, 2012. 
+
+_Argentine law governing capital markets_ . https://elischolar.library.yale.edu/ypfs-documents2/5310 
+
+(Argentina 2019a) Argentine Republic (Argentina). 2019a. Annex 1 to Decree 596/2019, August 28, 2019. 
+
+_List of short-term Argentine public debt securities subject to maturity extension (in Spanish)_ . https://elischolar.library.yale.edu/ypfs-documents2/4660 
+
+(Argentina 2019b) Argentine Republic (Argentina). 2019b. Decree 596/2019, August 28, 2019. 
+
+_Decree announcing the revised maturity schedule for short-term Argentine debt (in Spanish)_ . https://elischolar.library.yale.edu/ypfs-documents2/4661 
+
+(CNV 2019a) National Securities Commission (CNV). 2019a. General Resolution 806/2019, August 29, 2019. 
+
+_General resolution adopted by the National Securities and Exchange Commission in Argentina_ . 
+
+https://elischolar.library.yale.edu/ypfs-documents2/4667 
+
+**Media Stories** 
+
+(CE NoticiasFinancieras 2019a) CE NoticiasFinancieras. 2019a. “Funds Seek System That Allows Individual Investors to Enjoy a Differential Treatment,” August 29, 2019. _News article discussing Argentine Chamber of Common Investment Funds’ plans to exempt individual investors from the maturity extension_ . 
+
+https://elischolar.library.yale.edu/ypfs-documents2/4665 
+
+(CE NoticiasFinancieras 2019b) CE NoticiasFinancieras. 2019b. “With the Help of the Central Bank, the Mutual Funds Are Re-Opening,” August 29, 2019. _Article on the BCRA’s liquidity assistance to the mutual fund industry_ . https://elischolar.library.yale.edu/ypfs-documents2/5285 
+
+
+(CE NoticiasFinancieras 2019c) CE NoticiasFinancieras. 2019c. “Banks Authorized to PreCancel Fixed Terms with FCI,” August 30, 2019. 
+
+_Article on the BCRA’s authorization allowing public and private banks to pre-cancel fixed terms with Common Investment Funds_ . 
+
+https://elischolar.library.yale.edu/ypfs-documents2/5287 
+
+(CE NoticiasFinancieras 2019d) CE NoticiasFinancieras. 2019d. “What’s Going to Happen to Common Investment Funds with Profiled Letters,” September 4, 2019. _Article discussing the reprofiling of mutual fund industry assets_ . https://elischolar.library.yale.edu/ypfs-documents2/5334 
+
+(Contify Investment News 2019) Contify Investment News. 2019. “Discussions on New Perspectives and Challenges for the Funds and Asset Management Industry at the 33rd IIFA Conference in Buenos Aires,” October 17, 2019. 
+
+_News article discussing new CNV regulation for FCIs following the maturity extension of short-term public debt_ . 
+
+https://elischolar.library.yale.edu/ypfs-documents2/4668 
+
+(Doll, Gilbert, and Oyamada 2019) Doll, Ignacio Olivera, Jonathan Gilbert, and Aline Oyamada. 2019. “Argentina Will Buy Bonds from Local Funds Hit by Withdrawals.” Bloomberg, August 29, 2019. 
+
+_News article discussing BCRA’s offer to buy short-term debt instruments held by funds_ . https://elischolar.library.yale.edu/ypfs-documents2/4669 
+
+(Fitch Ratings 2019a) Fitch Ratings. 2019a. “Fitch Downgrades Argentina to ‘RD,’” August 30, 2019. 
+
+_Ratings announcement downgrading Argentina’s long-term and short-term issuer default ratings to a restricted default_ . 
+
+https://elischolar.library.yale.edu/ypfs-documents2/4672 
+
+(Johnson 2019) Johnson, Steve. 2019. “Why Has Argentina Imposed Capital Controls—and Will They Work?” _Financial Times_ , September 2, 2019. 
+
+_News article discussing Argentina’s capital controls and comparing them to similar programs in other countries_ . 
+
+https://elischolar.library.yale.edu/ypfs-documents2/4674 
+
+(Yosovitch 2019) Yosovitch, Julián. 2019. “Mutual Funds Suspend Subscriptions and Redemptions after Lacunza Measures.” _El Cronista_ , August 29, 2019. 
+
+_News article discussing the suspension of redemption rights and subscriptions following minister Lacunza’s announcement regarding the maturity extension (in Spanish)_ . https://elischolar.library.yale.edu/ypfs-documents2/4683 
+
+
+## **Press Releases/Announcements** 
+
+(BCRA 2019a) Central Bank of the Argentine Republic (BCRA). 2019a. “BCRA Press Release Announcing that Banks Can Purchase Certificates of Deposit from Mutual Funds.” Press release A 6766, August 30, 2019. 
+
+_BCRA press release announcing that the central bank will now allow banks to purchase CDs from mutual funds (in Spanish)_ . 
+
+https://elischolar.library.yale.edu/ypfs-documents2/4662 
+
+(BCRA 2019b) Central Bank of the Argentine Republic (BCRA). 2019b. “Launching of Auctions of Active Pass- throughs and Purchase of Treasury Bills in FCI Portfolio.” Press release A 6767, August 30, 2019. 
+
+_BCRA press release announcing the central bank’s offer to purchase four kinds of debt instruments from mutual funds to provide them with liquidity (in Spanish)_ . https://elischolar.library.yale.edu/ypfs-documents2/4663 
+
+(CNV 2019b) National Securities Commission (CNV). 2019b. “Implementation of Decree 596/2019 in FCI Reached.” Press release, August 29, 2019. 
+
+_Press release announcing new regulations adopted by the CNV to provide individual investors with the same treatment as stipulated under Decree 596/2019 (in Spanish)_ . https://elischolar.library.yale.edu/ypfs-documents2/5315 
+
+(Lacunza 2019) Lacunza, Hernán. 2019. “Press Conference by the Minister of Economy Hernán Lacunza.” Video, August 28, 2019. 
+
+_Video published on YouTube of a press conference during which the Argentine minister of economy, Hernán Lacunza, announced the maturity extension of short-term debt securities (machine-translated from Spanish)_ . 
+
+https://elischolar.library.yale.edu/ypfs-video/96 
+
+## **Reports/Assessments** 
+
+(BCRA 2019c) Central Bank of the Argentine Republic (BCRA). 2019c. Monthly Monetary Report, August 2019. 
+
+_BCRA’s monthly report on monetary conditions, discussing the mutual fund industry_ . https://elischolar.library.yale.edu/ypfs-documents2/5305 
+
+(BCRA 2019d) Central Bank of the Argentine Republic (BCRA). 2019d. Monetary Policy Report, October 2019. 
+
+_BCRA’s monetary policy report covering the maturity extension of short-term government debt and the BCRA’s liquidity assistance to mutual funds_ . 
+
+https://elischolar.library.yale.edu/ypfs-documents2/5314 
+
+(BCRA 2019e) Central Bank of the Argentine Republic (BCRA). 2019e. “Banco Central de La Republica Argentina - 2019 Financial Statements,” December 31, 2019. 
+
+_BCRA financial statements, including reference to short-term public debt purchased by the central bank to provide liquidity to mutual funds_ . 
+
+https://elischolar.library.yale.edu/ypfs-documents2/341/ 
+
+
+(CAFCI 2019) Cámara Argentina de Fondos Comunes de Inversión (CAFCI). 2019. “Monthly Report on the Open-Ended Mutual Fund Industry,” December 2019. 
+
+_Monthly report from CAFCI for December 2019 regarding the mutual fund industry’s performance (in Spanish)_ . 
+
+https://elischolar.library.yale.edu/ypfs-documents2/5313 
+
+(Fitch Ratings 2019b) Fitch Ratings. 2019b. “Argentina Sovereign Default Highlights Mutual Fund Gating Risk,” September 13, 2019. 
+
+_Note on suspension of investor redemption rights in open-end mutual funds in Argentina following the country’s decision to postpone maturity on short-term debt in August 2019_ . https://elischolar.library.yale.edu/ypfs-documents2/4670 
+
+(Moody’s Investors Service 2019) Moody’s Investors Service. 2019. “Moody’s Takes Actions on 175 Argentine Bond Funds Ratings Following the Sovereign Downgrade,” September 6, 2019. 
+
+_Moody’s note on decision to change ratings for all Argentine bond funds after the rating agency also downgraded the Argentine government’s rating_ . https://elischolar.library.yale.edu/ypfs-documents2/4678 
+
+(Nelson 2020) Nelson, Rebecca M. 2020. “Argentina’s Economic Crisis and Default.” Congressional Research Service, June 15, 2020. 
+
+_CRS article covering the economic crisis in Argentina in 2018 and policy responses_ . https://elischolar.library.yale.edu/ypfs-documents2/4680 
+
+(S&P 2019) Standard & Poor’s (S&P). 2019. “Argentina Sovereign Ratings Raised To ‘CCC/C’ from ‘SD’ Following Cured Default on Short-Term Notes; Outlook Negative,” August 30, 2019. 
+
+_Note explaining negative outlook on Argentine sovereign debt amid the complex political, economic, and financial market dynamics_ . 
+
+https://elischolar.library.yale.edu/ypfs-documents2/4682 
+
+## **Key Academic Papers** 
+
+(Mairal 2022) Mairal, Marval O’Farrael. 2022. “Spotlight: Recent Developments in Asset Management in Argentina.” Lexology, September 15, 2022. 
+
+_Article discussing developments in the asset management industry in Argentina_ . https://elischolar.library.yale.edu/ypfs-documents2/5312 
+
+(Wiggins et al. 2025) Wiggins, Rosalind Z., Owen Heaphy, Anmol Makhija, Stella ShaeferBrown, Greg Feldberg, and Andrew Metrick. 2025. “Survey of Bank Holidays and Fund Suspensions.” _Journal of Financial Crises_ 7, no. 2. 
+
+_Survey of YPFS case studies examining bank holidays and mutual fund suspensions_ . https://elischolar.library.yale.edu/journal-of-financial-crises/vol7/iss2/1/ 
+
+Copyright 2025 © Yale University. All rights reserved. To order copies of this material or to receive permission to reprint any or all of this document, please contact the Yale Program on Financial Stability at ypfs@yale.edu.

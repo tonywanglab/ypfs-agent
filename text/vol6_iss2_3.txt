@@ -1,0 +1,605 @@
+--- Page 1 ---
+Journal of Financial Crises Journal of Financial Crises 
+Volume 6 Issue 2 
+2024 
+Lessons for the Discount Window from the March 2023 Bank Lessons for the Discount Window from the March 2023 Bank 
+Failures Failures 
+Susan McLaughlin 
+Yale Program on Financial Stability, Yale School of Management 
+Follow this and additional works at: https://elischolar.library.yale.edu/journal-of-financial-crises 
+ Part of the Economic Policy Commons, Finance and Financial Management Commons, Policy Design, 
+Analysis, and Evaluation Commons, Policy History, Theory, and Methods Commons, Public Administration 
+Commons, Public Affairs Commons, and the Public Policy Commons 
+Recommended Citation Recommended Citation 
+McLaughlin, Susan (2024) "Lessons for the Discount Window from the March 2023 Bank Failures," 
+Journal of Financial Crises: Vol. 6 : Iss. 2, 72-84. 
+DOI: https://doi.org/10.17132/2693-3179.1561 
+Available at: https://elischolar.library.yale.edu/journal-of-financial-crises/vol6/iss2/3 
+This Note is brought to you for free and open access by the Journal of Financial Crises and EliScholar – A Digital 
+Platform for Scholarly Publishing at Yale. For more information, please contact journalfinancialcrises@yale.edu.
+
+--- Page 2 ---
+READERS TAKE NOTICE: READERS TAKE NOTICE: 
+As of April 2024, the YPFS Resource Library’s site domain has changed 
+to https://elischolar.library.yale.edu/ypfs-financial-crisis-resource-library/. 
+Please be aware that upon clicking any of the URL references to 
+the former Resource Library domains, either https://ypfs.som.yale.edu 
+or https://ypfsresourcelibrary.blob.core.windows.net/, in the 
+"References/Key Program Documents" section of a case study, 
+readers will encounter a "page not found" error. readers will encounter a "page not found" error. 
+Readers can still retrieve a given resource cited within this case study 
+on the new site  by searching by searching here  for the title cited. for the title cited. 
+This note is available in Journal of Financial Crises: https://elischolar.library.yale.edu/journal-of-financial-crises/vol6/
+iss2/3
+
+--- Page 3 ---
+POLICY NOTE 
+ 
+ 
+Lessons for the Discount Window  
+from the March 2023 Bank Failures1 
+Susan McLaughlin2  
+July 23, 2024 
+Abstract 
+The speed of the bank runs that occurred in the United States in March 2023 took most by 
+surprise. The ensuing policy debate about reform has focused very little on the role of the 
+Federal Reserve’s discount and how it could be made more fit for purpose in mitigating risks 
+to financial stability emanating from the banking system. Making the discount window a 
+more effective financial stability tool  will require actions both to reduce the stigma 
+associated with borrowing and improv e the operational agility an d readiness of the Fed as 
+lender and banks as borrowers. A number of frictions exist that undermine the discount 
+window’s effectiveness as a financial stability tool and amplify the stigma associated with 
+discount window borrowing. These frictions may have been tolerable during bank runs that 
+unfolded over a period of days but are problematic in a world where bank runs can transpire 
+in a matter of hours. 
+Keywords: discount window, financial stability, lender of last resort, liquidity, regulation 
+  
+ 
+1 A version of this note was published on the Yale School of Management’s Systemic Risk blog on September 19, 
+2023. 
+2 Susan McLaughlin is an executive fellow at the Yale Program on Financial Stability , Yale School of 
+Management. In her 30-year career at the Federal Reserve Bank of New York , she held senior management 
+responsibility for discount window and collateral valuation operations during the Global Financial Crisis and 
+for several emergency lending programs put in place to support the US economy during the onset of the COVID-
+19 pandemic in 2020. 
+72
+
+--- Page 4 ---
+POLICY NOTE 
+ 
+ 
+Introduction 
+In March 2023, the unprecedented pace of the runs on Silicon Valley Bank (SVB) and 
+Signature Bank (Signature) took many by surprise. Much has already been done to identify 
+ways to mitigate the risk of such runs and the threat they pose to financial sta bility. Indeed, 
+in the US, several proposals to strengthen bank regulation and bank recovery and resolution 
+planning have already been released for public comment, and work on possible 
+modifications to the deposit insurance framework and to supervision of “novel activities” is 
+already underway (FDIC 2023b; Fed 2023a; Fed and FDIC 2023; Fed, FDIC, and OCC 2023). 
+One part of the financial stability toolkit that has been less frequently mentioned is the ability 
+of the Federal Reserve (Fed) to act as lender of last resort to the banking system through the 
+discount window. While lender -of-last-resort tools cannot by themselves ensure financial 
+stability—and are most powerful when well aligned with good bank regulatory and 
+supervisory frameworks —they can help addr ess banks’ short -term liquidity needs and 
+mitigate bank run risk and contagion risk. The events of March 2023 provide an opportunity 
+to reflect on ways to improve banks’ willingness and ability to use the discount window, 
+which can be particularly important in a world where runs can occur over hours rather than 
+days. This note draws on observations about the SVB and Signature failures to offer some 
+suggestions on steps that can be taken to reduce discount window stigma , improve 
+operational readiness and agility, and meet the challenges presented by today’s fast-moving 
+banking system.  
+What is the discount window? 
+A foundational responsibility of any central bank is to serve as the lender of last resort to the 
+banking system to facilitate the ongoing flow of credit to the economy. In the United States, 
+Section 10B of the Federal Reserve Act authorizes the Fed to extend credit (on both an 
+intraday and overnight basis) to US-chartered depository institutions (including commercial 
+banks, thrift institutions, and credit unions) and US branches of foreign banking 
+organizations (Fed 1913). (This note uses the term “banks” throughout to include all these 
+types of institutions.) 
+The Fed’s discount window provides overnight and term credit to banks as needed to 
+support the ongoing flow of credit to US households and businesses. The Fed operationalizes 
+discount window lending through its 12 regional Federal Reserve Banks, all of which rely on 
+the same technology infrastructure, follow the same collateral policy and lending guidelines, 
+and operate with a common set of lending documents (Fed n.d.a.; Fed n.d.e.).  
+A bank that requires a discount window loan borrows from its local Reserve Bank on a 
+collateralized basis. A bank’s need for a discount window loan typically stems from a late -
+day funding need owing to an unexpected withdrawal or a failure to receive expected funds. 
+Sometimes, it occurs as a result of a bank’s temporary inability to repay its intraday 
+borrowing from the Reserve Bank by the end of the day. However, the need for credit can 
+arise at any point in the day. 
+73
+Journal of Financial Crises Vol. 6 Iss. 2
+
+--- Page 5 ---
+POLICY NOTE 
+ 
+ 
+There are three types of discount windo w credit: primary, secondary, and seasonal credit  
+(Fed n.d.b.). Primary credit loans serve as the principal safety valve for ensuring adequate 
+liquidity in the banking system and are available to banks that are in generally sound 
+financial condition, as de termined by their primary regulator. Secondary credit loans are 
+available to banks not eligible for primary credit, and these loans come with a higher rate, 
+higher haircuts, and a shorter term. Primary credit loans are supposed to be granted with 
+“no questions asked”; secondary credit loans are subject to more restrictions on usage of the 
+funds borrowed. Seasonal credit is available to banks with deposits of less than $500 million 
+that can demonstrate liquidity needs of a seasonal nature. Primary credit typically makes up 
+the bulk of discount window loans outstanding. 
+While the discount window is an important tool to ensure that banks have access to the 
+liquidity they need to intermediate credit to support the economy, the events of March 2023 
+showed that st igma remains. As concerns about the health of many regional banks in the 
+United States prompted an acceleration in depositor withdrawals in early March, borrowing 
+from Federal Home Loan Banks (FHLBs) increased sharply relative to discount window 
+borrowing, and we subsequently learned that many banks were utterly unprepared to use 
+the discount window as a source of backstop liquidity  (Cecchetti, Schoenholtz, and White 
+2023; Saphir 2023). The Fed could take several steps to reduce the stigma associated with 
+primary credit and improve banks’ incentives to use it as a contingency funding source. 
+These steps would strengthen the effectiveness of this tool in mitigating run risk for banks 
+of all sizes.  
+It is useful to recall that for much of the Fed’s history bef ore 2003, discount window credit 
+was extended at a below -market rate—but only when the borrower had exhausted other 
+sources of funding. This attestation, combined with the significant administrative oversight 
+and monitoring that also accompanied the extens ion of discount window credit, served to 
+stigmatize discount window borrowing. Historically, policymakers had concerns about the 
+moral hazard risk associated with possible bank overuse of the window, as well as concerns 
+about how to ensure that Fed credit was not fueling speculative activity  (Fed 195 3, Fed 
+1954). These concerns gave rise to a strategy of “constructive ambiguity” among some Fed 
+policymakers—dating back to the Great Depression —regarding the discount window, in 
+which there was no precommitment about its availability to any bank on any given day. This 
+attitude is perhaps understandable in the period preceding the establishment of rigorous 
+prudential supervision for all types of banking organizations operating in the United States. 
+However, it se rved to discourage use of the discount window and has created stigma that 
+continues to the present day. 
+In 2003, the Fed endeavored to reboot and destigmatize the discount window by establishing 
+two main tiers of credit: a primary tier that would be lent on a “no questions asked” basis to 
+sound institutions at an above -market rate and a secondary tier that would be lent to less -
+sound institutions on more restrictive terms (Madigan and Nelson 2002). Fed policymakers 
+have since 2003 attempted on many occasion s to communicate to the public that primary 
+credit is a legitimate source of funding that banks may use when needed with “no questions 
+asked.” Indeed, since the onset of the COVID-19 pandemic in the spring of 2020, the Fed has 
+redoubled its efforts to signal the message that primary credit should be used when needed; 
+74
+Journal of Financial Crises McLaughlin
+
+--- Page 6 ---
+POLICY NOTE 
+ 
+ 
+it extended the term of primary credit to 90 days and reduced the spread of the primary 
+credit rate over the upper bound of the fed funds rate target range to zero.3 
+Yet stigma is still presen t despite this communication. Why? Observers have pointed to the 
+greater disclosure required under 2010’s Dodd -Frank Wall Street Reform and Consumer 
+Protection Act, as well as the presence of cheaper alternatives to primary credit such as the 
+FHLBs.4 But one key driver of stigma that gets less attention is the mixed messaging that has 
+come from the Fed and other banking regulators on the topic of discount window usage. As 
+discussed in more detail below, supervisory and regulatory practices, requirements, a nd 
+language are often at odds with the “no questions asked” policy stance on primary credit.  
+Steps to reduce stigma 
+Communicate clearly and regularly to the public that primary credit is a legitimate 
+source of liquidity for banks to utilize when needed. 
+A more comprehensive communication strategy that aligns words and actions is needed to 
+combat discount window stigma and overcome the long memories of bank managers, market 
+participants, reporters, and even bank regulatory staff themselves that “di scount window 
+borrowing” is to be questioned or avoided. When bank treasurers are grilled by their risk 
+management committees or their regulators about why they borrowed from the window, 
+this perpetuates stigma. When market commentary and press pieces speculate about which 
+bank was behind the borrowing activity seen in the Fed’s weekly H.4.1 data release, this 
+perpetuates stigma. 5 These dynamics will be difficult to disrupt without clear, intentional, 
+and repeated communication from the Fed about its stanc e on primary credit. This 
+communication must be mirrored in supervisory and regulatory practices and in 
+adjustments to how primary credit is administered. 
+Recalibrate supervisory and regulatory practices and language to support the 
+communication strategy about primary credit.  
+US bank supervisory and regulatory practices undermine the “no questions asked” message 
+by disincentivizing primary credit borrowing  relative to other funding alternatives . For 
+example, the liquidity coverage ratio (LCR) requires banks to hold high-quality liquid assets 
+(HQLA) sufficient to cover their expected net outflows over a 30-day period. In the US, banks 
+ 
+3 Section 10B of the Federal Reserve Act restricts discount window lending to a maximum tenor of four months; 
+the Board of Governors of the Federal Reserve System has some discretion within that constraint to set the 
+maximum term (Fed 1913). 
+4 Leaving aside the question of whether the large -scale lending by FHLBs to banks such as SVB and Signature 
+is consistent with the policy objective for which the FHLBs were established in 1932, the fact is that many banks 
+prefer to borrow from their local FHLB rather than their Federal Reserve Bank, as it is often cheaper than the 
+discount window and does not carry the same stigma.  
+5 The Federal Reserve took an important step to mitigate this type of speculation in March 2020 by 
+discontinuing the district -level reporting of discount window borrowing on its weekly report on factors 
+affecting reserve balances. See Fed 2020b. 
+75
+Journal of Financial Crises Vol. 6 Iss. 2
+
+--- Page 7 ---
+POLICY NOTE 
+ 
+ 
+with assets of over $50 billion  are subject to either a standard or modified LCR . But assets 
+considered HQLA  by US bankin g regulators  are limited to  certain types of marketable 
+securities that represent a relatively small share of the assets that can be pledged to the 
+window as collateral ( Fed n.d.a.; Fed n.d.d.; OCC, Fed, and FDIC 2014 ). Banks receive no 
+credit for other types of assets, such as loans, that are prepositioned at the discount window, 
+even though these assets can be monetized on a same -day basis through a primary credit 
+loan.  
+Additionally, s upervisory guidance limits the ability of a banking organization to re ly on 
+primary credit as a source of liquidity for its depository institutions in its recovery and 
+resolution plan (R&RP) to “only a few days,” even though the process of recovery or bridging 
+to a resolution outcome could take longer than that. 6 And banks are not required to 
+incorporate primary credit into their contingency funding plans (CFPs) as a backstop source 
+of funding. Recalibrating supervisory expectations to better align with the idea that primary 
+credit is a legitimate source of short-term funding would help to improve the incentives for 
+banks to use it. 
+Use supervisory authority to require banks to be prepared to use the discount window 
+if needed, as a matter of prudent contingency liquidity planning.  
+In the US, the onus is currently on banks to  make the effort to obtain access to the discount 
+window and conduct test borrowings periodically, ahead of a need to borrow. Many banks 
+do this; however, the postmortem reports by the Fed on SVB and the Federal Deposit 
+Insurance Corporation (FDIC) on Sign ature make clear that neither bank was operationally 
+prepared to use the discount window when they needed it (Barr 2023; FDIC 2023a). SVB had 
+identified the discount window as a source of funding in its CFP, but the bank had not tested 
+its discount window borrowing arrangements in the year before its failure and was not 
+prepared to manage within the cutoff times for movement of collateral within its time zone. 
+Signature’s CFP was overly reliant on the Federal Home Loan Bank of New York and did not 
+include the Fed’s discount window (Ostrander 2023). Signature had not tested its discount 
+window borrowing arrangements for five years before its failure and tried repeatedly in its 
+final days to pledge collateral that was, based on publicly available information, clearly 
+ineligible.  
+A chorus of Fed speakers have since reinforced the need for banks to be operationally ready 
+to use the discount window. On July 28, 2023, the Fed and other US banking regulatory 
+agencies took a step in this direction by issuing amended supervisory guidance for Category 
+II and III firms7 that emphasizes the discount window’s value as a contingency funding tool 
+and encourages banks to take the steps to be operationally ready to borrow, including small-
+value test borrowing and prepositioning collateral  (Fed, FDIC, NCUA , and OCC  2023). But 
+guidance is not a requirement and still leaves some discretion to banks, which seems 
+suboptimal from a systemic risk perspective. 
+ 
+6 See also the joint Federal Reserve Board–Federal Deposit Insurance Corporation February 2019 guidance for 
+global systemically important banks (Fed and FDIC 2019).  
+7 For a description of the institutions that are governed by Category II and III standards, see OCC (2019).  
+76
+Journal of Financial Crises McLaughlin
+
+--- Page 8 ---
+POLICY NOTE 
+ 
+ 
+Why not require any bank that has access to primary credit to include it as a source of 
+funding in its CFP? Making this inclusion a requirement would increase the likelihood that 
+banks are ready to borrow from the discount window when and if needed. Further, any bank 
+that is relying on primary credit in its CFP could be required to do the test borrowing and 
+collateral prepositioni ng needed to ensure readiness to borrow. Testing will ensure that 
+banks are aware of the mechanics of the borrowing and collateral -pledging processes, 
+operational cutoff times in their time zones, and collateral eligibility guidelines. Readiness to 
+use the discount window should be a supervisory expectation for contingency liquidity risk 
+management against which banks should be assessed and, if found to be noncompliant, 
+required to take corrective action. 
+Consider ways to decouple administration of the prim ary and secondary credit 
+programs to support the destigmatization of primary credit. 
+The 2003 redesign of the discount window was intended to destigmatize primary credit 
+borrowing by distinguishing it from troubled banks’ secondary credit borrowing. But the fact 
+that primary credit is administered in tandem with secondary credit may in fact have 
+contributed to stigma; much of the Fed’s communication on its lender -of-last-resort tools 
+speaks in terms of “the discount window” or simply “advances” in a manner that does not 
+distinguish between the two programs. Consider the following language from Section 14.1 
+of the Federal Reserve Operating Circular No. 10, which governs discount window lending: 
+“The (Reserve) Bank is not obligated by the Lending Agreement or otherwise to make, 
+increase, renew or extend any Advance to the Borrower” (Federal Reserve Banks 2023, 10). 
+Such language appears to reflect wariness about lending to unhealthy banks, which seems 
+entirely appropriate messaging for secondary credit. But this messaging is not consistent 
+with the idea of a “no questions asked” primary credit backstop and reflects the lingering 
+effects of the constructive ambiguity doctrine that has served to stigmatize discount window 
+borrowing over time. Indeed, this language was embedded in the Federal Reserve Act itself, 
+well before the 2003 redesign of the discount window. 8 Clarity on the central bank’s stance 
+on primary credit could be supported by administering the primary and secondary credit 
+programs separately and communicating about them more distinctly.9 
+Develop and communicate a longer -term approach to pricing primary credit that is 
+intended to mitigate stigma.  
+Part of the 2003 redesign of the discount window included pricing of primary and secondary 
+credit at a p enalty rate, defined as a spread above the fed funds target rate. 10 Initially, the 
+spread for the primary credit rate was 100 basis points over fed funds; with the onset of the 
+ 
+8 The FDIC Improvement Act of 1991, passed in response to the savings and loan crisis, amended the Federal 
+Reserve Act to add Section 10B(b)(4), which states: “A Federal Reserve bank shall have no obligation to make, 
+increase, renew, or extend any advance or disco unt under this Act to any depository institution” (US Gov’t 
+1991). 
+9 Other central banks generally do not have different tiers of access in their lender -of-last-resort standing 
+facilities; financial institutions are either eligible or not eligible.  
+10 Since the Federal Open Market Committee’s adoption of a target range for the policy rate in December 2008, 
+the top of the target rate has been the reference point for the spread.  
+77
+Journal of Financial Crises Vol. 6 Iss. 2
+
+--- Page 9 ---
+POLICY NOTE 
+ 
+ 
+Global Financial Crisis, the Fed reduced the spread to 50 basis points in Augus t 2007 and 
+then to 25 basis points in March 2008 as dollar funding market stress intensified (Fed 2007; 
+Fed 2008). The spread returned to 50 basis points in February 2010  when the crisis -era 
+terms for primary credit lending were partially reversed (Fed 2010). In March 2020, as part 
+of a set of measures to  support the flow of credit to households and business es amid the 
+onset of the global COVID-19 pandemic, the Fed reduced the spread to 0 basis points, where 
+it has remained since (Fed 2020a).  
+This lineage raises interesting questions about the classical Bagehot idea of a penalty rate 
+for lender-of-last-resort facilities (Bagehot 1873). A penalty rate is surely appropriate for 
+standing facilities that lend to undercapitalized institutions, or that are established for crisis 
+liquidity facilities that lend to a wide range of borrowers not usually eligible for central bank 
+liquidity. But is a penalty rate consistent with the idea of short -term liquidity provision to 
+sound banks with “no questions asked”? And if so, is there a level at which the penalty rate 
+can be set that would minimize stigma? Should the penalty vary in stress and normal funding 
+market environments? Consideration should also be given to the appropriate relationship of 
+the primary credit rate to  the pricing of other sources of contingency funding available to 
+banks. Does it make sense that banks can borrow more cheaply from the FHLBs, for 
+example?11 What is the appropriate relationship between the primary credit rate and the 
+lending rates at FHLBs (net of dividends) and other sources of contingency funding for 
+banks? Can that relationship be calibrated to minimize stigma? A framework for pricing 
+primary credit that answers these questions would be an extremely useful component of a 
+broader communication strategy about discount window borrowing. 
+Steps to improve operational readiness and agility 
+In a world of intraday runs, it seems worth considering ways to make it easier and faster for 
+banks to use primary credit when they need it. The Fed could take  several steps to modify 
+the processes for establishing access to, and using, primary credit to better align that funding 
+with the speed at which liquidity needs can arise. 
+Establish access early in a bank’s life cycle.  
+The discount window is an important financial stability tool to mitigate systemic risk 
+transmission in the banking system. However, discount window access is not automatic; a 
+bank must clea r multiple hurdles before it can borrow from the discount window. First, a 
+bank must affirmatively apply for a master account on the Federal Reserve’s books —or 
+identify a correspondent bank with a master account through which to operate—as discount 
+window borrowing and collateral pledging are executed via banks’ Fed accounts. Next, the 
+bank must apply for discount window access, which requires the execution of several legal 
+agreements and resolutions. Finally, the bank must pledge collateral. 
+ 
+11 This question is admittedly beyond the Fed’s remit but is relevant to the current debate on FHLB reform.  
+78
+Journal of Financial Crises McLaughlin
+
+--- Page 10 ---
+POLICY NOTE 
+ 
+ 
+This process is burdensome and prompts the question: Why not make the establishment of 
+Fed master accounts and discount window arrangements an up-front part of the process for 
+chartering a bank or establishing a branch in the US? The Fed has historically been quite 
+careful in granting master accounts to banks given the risks account activity can pose to a 
+Reserve Bank if the bank is not in sound condition. But perhaps newly established banks 
+without a credit risk management track record could receive a master account that provides 
+only the ability to borrow at the discount window up to the margined value of collateral they 
+have pledged and does not provide access to other Fed services, such as intraday credit. 
+Automate the loan approval process for primary credit loans.  
+Once a bank has discount window access, the loan request and approval process is still quite 
+manual. A bank requests the loan by telephone and waits for confirmation that it has pledged 
+sufficient collateral value to support the amount requested. The Fed recently announced it 
+is taking steps to automate the loan request process; another step it could take is to automate 
+the loan approval process for primary credit loans (Fed 2023b). Automating the process of 
+confirming that a bank has  sufficient unencumbered collateral value to support the loan 
+requested could speed the loan approval process modestly and, perhaps more importantly, 
+provide another way to signal that primary credit is available with “no questions asked.” An 
+ability to override the automated check manually could be created to deal with cases in 
+which the condition of the bank is in question. 
+It is useful to note that a shift to this “automatic” access paradigm for primary credit would  
+need to be accompanied by improvements in the quality and frequency of supervisory 
+updates to the national supervisory ratings database. This is because counterparty risk 
+management for discount window lending happens primarily at the supervisory level. All US 
+banking supervisory agencies are responsible for monitoring and rating bank safety and 
+soundness—and for providing ratings for the banks they oversee to the national database. 
+These ratings feed into Reserve Banks’ assessments of borrower condition a nd drive 
+determinations about primary and secondary credit eligibility (as well as intraday credit 
+access). There is a long history of poor and/or stale assessments of bank condition (IndyMac, 
+Washington Mutual, etc.) before March 2023. At times of stress,  the boundary between 
+solvency and insolvency can be fuzzy; bank supervisors that are monitoring the bank’s 
+condition on an ongoing basis are best placed to provide an assessment of it. 
+Explore ways to expand the feasibility of late-day pledges of collateral to the discount 
+window.  
+While all eligible types of securities collateral can be pledged on a same-day basis in theory, 
+in practical terms, the devil is in the details. Figure 1 summarizes the information on cutoff 
+times for securities pledges that is provided on the Fed’s webpage  on pledging discount 
+window collateral as of September 2023  (Fed n.d.a). As Figure 1 shows , depending on the 
+location of a bank’s collateral and the time zone in which the bank is operating, a late -day 
+pledge may or may not be feasible in practical terms. Indeed, SVB ran up against this issue in 
+March 2023. 
+79
+Journal of Financial Crises Vol. 6 Iss. 2
+
+--- Page 11 ---
+POLICY NOTE 
+ 
+ 
+Figure 1: Operational Cutoff Times for a Bank’s Securities Pledges to a Reserve Bank 
+Type of pledge Cutoff time to request same-day pledge 
+Move of securities among a borrower’s or 
+correspondent’s own accounts on the Fedwire 
+Securities Service 
+7:00 pm Eastern / 4:00 pm Pacific 
+Move of securities between two participants’ 
+accounts on the Fedwire Securities Service 
+3:45 pm Eastern / 12:45 pm Pacific 
+Pledge of securities held at Depository Trust 
+Company 
+5:00 pm Eastern / 2:00 pm Pacific 
+Pledge of securities held at Euroclear 12:15 pm Eastern / 9:15 am Pacific 
+Pledge of securities held at Clearstream 1:00 pm Eastern / 10:00 am Pacific 
+Note: Cutoff time assumes no request for extension is made by the pledging bank and granted by the Fed.  
+Source: Fed n.d.a. 
+For this reason, the Fed has long urged banks to preposition collateral at the discount 
+window so it is there if needed. However, there may be circumstances in which a bank loses 
+access to funding on a given day and may need to move collateral to the Fed to support 
+borrowing. The ability to execute same -day pledges may have been less of an issue in the 
+past, when bank runs materialized over a period of days. But in a world where runs can occur 
+within the space of hours, it is worth exploring opportunities to expand the windows within 
+which pledges can be effected late in the US business day. Importantly, this is not a discount 
+window infrastructure issue; rather, it reflects the design of the broader wholesale payments 
+infrastructure, of which the Fedwire Securities Service and the custodial banks are part, and 
+which was designed for a different financial market environment than exists today. 
+We also saw in March 2023 that the process of getting collateral from FHLBs to Federal 
+Reserve Banks was time-consuming owing to a combination of legal and operational issues. 
+Indeed, in the case of Signature, special ad hoc legal arrangements were required to effect a 
+timely pledge of collateral to the Federal Reserve Bank of New York in a manner that would 
+adequately secure the Reserve Bank’s loan  (NYS DFS 2023) . To the extent that banks 
+continue to pledge large amounts of Fed -eligible collateral to their local FHLB s, it seems 
+advisable to begin work now to address any outstanding legal or operational questions 
+associated with collateral transferability between FHLBs and the Federal Reserve System—
+before the next liquidity event occurs. 
+Explore ways t o incentivize or even require banks to preposition a certain share of 
+their loan portfolios as collateral pledges to their local Reserve Banks. 
+Loans, which represent the majority of assets pledged to the Federal Reserve System and the 
+bulk of assets pledg ed by smaller banks, can take even longer to pledge to a Reserve Bank 
+than securities. Loans eligible to be pledged as collateral by banks must be pledged through 
+80
+Journal of Financial Crises McLaughlin
+
+--- Page 12 ---
+POLICY NOTE 
+ 
+ 
+a held-in-custody arrangement. This process can take weeks to set up properly to ensure the 
+Fed has perfected its security interest in the collateral. So, prepositioning is particularly 
+critical for loans, which are pledged in large part by banks that are not large enough to have 
+been deemed “systemically important” but whose activities can noneth eless give rise to 
+financial instability in today’s environment. 
+Conclusion 
+While there are surely legal, technological, cultural, and risk management issues to overcome 
+in moving to a more agile and truly “no questions asked” paradigm for primary credit lending 
+to banks, the recommendations offered in this note would collectively help to reduce 
+discount window stigma—and to avoid outcomes in which a bank needs liquidity before it 
+has put the necessary operational arrangements in place. Timely discount wind ow 
+borrowing alone would not have saved SVB or Signature, given their risky business models, 
+concentration and interest rate risks, and the associated solvency issues present in both 
+institutions. But it might have slowed the run and mitigated contagion ri sk, while buying 
+valuable time to execute resolution processes that were less costly for the Deposit Insurance 
+Fund. And in the case of an otherwise solvent bank that is experiencing liquidity stress, 
+timely access to discount window liquidity can make the  difference between recovery and 
+failure. The frictions in discount window access and usage described here seem to reflect the 
+legacy of the constructive ambiguity doctrine, and they continue to contribute to the stigma 
+associated with discount window borr owing. While these frictions were perhaps tolerable 
+during runs that unfolded over a period of days, they are problematic in a March 2023 world, 
+where runs can occur in a matter of hours. 
+  
+81
+Journal of Financial Crises Vol. 6 Iss. 2
+
+--- Page 13 ---
+POLICY NOTE 
+ 
+ 
+References 
+Bagehot, Walter. 1873. Lombard Street: A Description of the Money Market. 4th ed. London: 
+Henry S. King & Co.  
+https://elischolar.library.yale.edu/ypfs-documents/14239/ 
+Barr, Michael S. 2023. “Review of the Federal Reserve’s Supervision and Regulation of 
+Silicon Valley Bank.” Board of Governors of the Federal Reserve System, April 2023. 
+https://elischolar.library.yale.edu/ypfs-documents2/4025 
+Cecchetti, Steven G., Kermit L. Schoenholtz, and Lawrence J. White. 2023. “Reforming the 
+Federal Home Loan Bank System.” Money, Banking and Financial Markets blog, August 2, 
+2023.  
+https://elischolar.library.yale.edu/ypfs-documents2/4035 
+Federal Deposit Insurance Corporation (FDIC). 2023a. “FDIC’s Supervision of Signature 
+Bank.” April 28, 2023. 
+https://elischolar.library.yale.edu/ypfs-documents2/4037 
+———. 2023b. “FDIC Releases Comprehensive Overview of Deposit Insurance System, 
+Including Options for Deposit Insurance Reform.” Press release, May 1, 2023. 
+https://elischolar.library.yale.edu/ypfs-documents2/4036 
+Federal Reserve Banks. 2023. “Operating Circular No. 10: Lending.” Effective August 28, 
+2023. 
+https://elischolar.library.yale.edu/ypfs-documents2/4032 
+Federal Reserve System (Fed). 1913. Federal Reserve Act, Section 10(B). “Advances to 
+Individual Member Banks.” 12 U.S.C. § 347b.  
+https://elischolar.library.yale.edu/ypfs-documents2/4026/ 
+———. 1953. “The Discount and Discount Rate Mechanism.” A Group of Special Studies 
+Prepared by Selected Board and Reserve Bank Research Personnel, May 29, 1953. 
+http://elischolar.library.yale.edu/ypfs-documents2/4027 
+———. 1954. “The Discount and Discount Rate Mechanism.” Statements of Associate 
+Economists of the Federal Open Market Committee before the Conference of Presidents of 
+the Federal Reserve Banks, June 21, 1954. 
+https://elischolar.library.yale.edu/ypfs-documents2/4028/ 
+———. 2007. “Federal Reserve Board Discount Rate Action.” Press release, August 17, 
+2007. 
+https://elischolar.library.yale.edu/ypfs-documents/13003 
+———. 2008. “Federal Reserve Announces Two Initiatives Designed to Bolster Market 
+Liquidity and Promote Orderly Market Functioning.” Press release, March 16, 2008.  
+https://elischolar.library.yale.edu/ypfs-documents/7754/ 
+82
+Journal of Financial Crises McLaughlin
+
+--- Page 14 ---
+POLICY NOTE 
+ 
+ 
+———. 2010. “Federal Reserve Approves Modifications to the Terms of Its Discount 
+Window Lending Programs.” Press release, February 18, 2010. 
+https://elischolar.library.yale.edu/ypfs-documents2/4029 
+———. 2020a. “Federal Reserve Actions to Support the Flow of Credit to Households and 
+Businesses.” Press release, March 15, 2020.  
+https://elischolar.library.yale.edu/ypfs-documents/12000/ 
+———. 2020b. “H.4.1: Factors Affecting Reserve Balances.” Federal Reserve Statistical 
+Release, March 19, 2020.  
+http://elischolar.library.yale.edu/ypfs-documents2/4039 
+———. 2023a. “Federal Reserve Board Provides Additional Information on Its Program to 
+Supervise Novel Activities in the Banks It Oversees.” Press release, August 8, 2023. 
+https://elischolar.library.yale.edu/ypfs-documents2/4033 
+———. 2023b. “Forthcoming Amendments to Operating Circular 10: Lending.” Discount 
+Window and Payment System Risk, July 10, 2023. 
+https://elischolar.library.yale.edu/ypfs-documents2/4043 
+———. n.d.a. “Collateral Information.” Accessed August 2023. 
+https://elischolar.library.yale.edu/ypfs-documents2/4103 
+———. n.d.b. “Discount Window Lending.” Accessed August 2023. 
+https://elischolar.library.yale.edu/ypfs-documents2/4040 
+———. n.d.c. “Discount Window/Payment System Risk.” Accessed August 2023. 
+https://elischolar.library.yale.edu/ypfs-documents2/4044 
+———. n.d.d. “Discount Window Readiness.” Accessed May 2024. 
+https://elischolar.library.yale.edu/ypfs-documents2/4034 
+———. n.d.e. “The Primary & Secondary Lending Programs.” Accessed August 2023. 
+https://elischolar.library.yale.edu/ypfs-documents2/4046 
+Federal Reserve System and Federal Deposit Insurance Corporation (Fed and FDIC). 2019. 
+“Final Guidance for the 2019.” FRB Docket No. OP–1644. Federal Register 84, no. 23 
+(February 4, 2019): 1438–49. 
+https://elischolar.library.yale.edu/ypfs-documents2/4041 
+———. 2023. “Agencies Propose Guidance to Enhance Resolution Planning at Large 
+Banks.” Joint press release, August 29, 2023. 
+https://elischolar.library.yale.edu/ypfs-documents2/4030 
+Federal Reserve System, Federal Deposit Insurance Corporation, and Office of the 
+Comptroller of the Currency (Fed, FDIC, and OCC). 2023. “Agencies Request Comment on 
+Proposed Rules to Strengthen Capital Requirements for Large Banks.” Joint press release, 
+83
+Journal of Financial Crises Vol. 6 Iss. 2
+
+--- Page 15 ---
+POLICY NOTE 
+ 
+ 
+July 27, 2023. 
+https://elischolar.library.yale.edu/ypfs-documents2/4031 
+Federal Reserve System, Federal Deposit Insurance Corporation, National Credit Union 
+Administration, and Office of the Comptroller of the Currency (Fed, FDIC, NCUA, and OCC). 
+2023. “Addendum to the Interagency Policy Statement on Funding and Liquidity Risk 
+Management: Importance of Contingency Funding Plans.” July 28, 2023. 
+https://elischolar.library.yale.edu/ypfs-documents2/4042 
+Madigan, Brian F., and William R. Nelson. 2002. “Proposed Revision to the Federal 
+Reserve’s Discount Window Lending Programs.” Federal Reserve Bulletin 88, no. 7 (July): 
+313–19. 
+https://elischolar.library.yale.edu/ypfs-documents2/4047 
+New York State Department of Financial Services (NYS DFS). 2023. “Internal Review of the 
+Supervision and Closure of Signature Bank.” April 28, 2023.  
+https://elischolar.library.yale.edu/ypfs-documents2/4048 
+Office of the Comptroller of the Currency (OCC). 2019. Applicability Thresholds for 
+Regulatory Capital and Liquidity Requirements: Final Rule. OCC Bulletin 2019-52, 
+November 1, 2019. 
+https://elischolar.library.yale.edu/ypfs-documents2/4049 
+Office of the Comptroller of the Currency, Federal Reserve System, and Federal Deposit 
+Insurance Corporation (OCC, Fed, and FDIC). 2014. Liquidity Coverage Ratio: Liquidity Risk 
+Measurement Standards. Final Rule, October 10, 2014. 
+https://elischolar.library.yale.edu/ypfs-documents/13123/ 
+Ostrander, Richard. 2023. “Remarks on the Panel ‘Bank Crisis Framework: Learning from 
+Experience.’” Speech by Federal Reserve Bank of New York general counsel and head of the 
+legal group at the Paris Meeting on International Monetary Law of the International Law 
+Association (MOCOMILA), Paris, France, June 17, 2023. 
+https://elischolar.library.yale.edu/ypfs-documents2/4050 
+Saphir, Ann. 2023. “Insight: Many Small US Banks Not Ready to Borrow from Fed in an 
+Emergency.” Reuters, August 4, 2023.  
+https://elischolar.library.yale.edu/ypfs-documents2/4051 
+US Government. 1991. Federal Deposit Insurance Corporation Improvement Act of 1991. 
+Public Law 102-242. December 19, 1991.  
+https://elischolar.library.yale.edu/ypfs-documents/11705/ 
+ 
+This open access article is distributed under the terms of the CC-BY-NC-ND 4.0 license, which allows 
+sharing of this work provided the original author and source are cited. The work may not be changed 
+or used commercially. 
+84
+Journal of Financial Crises McLaughlin

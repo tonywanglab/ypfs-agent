@@ -1,0 +1,1095 @@
+## **The 2023 Banking Turmoil: Lessons for EU Resolution Authorities** 
+
+_Niccolò Cirillo,_[1] _Francesco Pennesi,_[2] _Sebastiano Laviola_[3,][4] 
+
+## **Abstract** 
+
+The March 2023 banking turmoil in the United States and Switzerland marked the most significant banking stress in financial markets since the 2007–2009 Global Financial Crisis, prompting a reevaluation of prudential and resolution frameworks. This paper explores whether the 2023 events offer preliminary lessons for resolution authorities within the European Union (EU). 
+
+Policymakers often struggle to restore confidence in financial systems and contain the repercussions of financial instability. While the 2023 crises in the US and Switzerland underscored this difficulty, authorities largely managed to mitigate the most severe consequences. Nonetheless, some issues in bank crisis management were identified. This paper focuses on the EU crisis management framework, proposing potential regulatory changes to enhance its effectiveness in handling banking crises. Key areas of focus include (1) the interplay between deposit insurance and resolution, (2) the need for optionality and flexibility in resolution tools, and (3) the design of an effective public sector liquidity backstop. These elements are critical for improving the EU’s capacity to manage future banking crises effectively. 
+
+**Keywords:** bank regulation, bank resolution, financial stability, financial crisis, emergency liquidity assistance 
+
+**JEL Classifications** : E58, G01, G28, K22 
+
+> 1 Niccolò Cirillo, policy expert, Single Resolution Board, niccolo.cirillo@srb.europa.eu. 
+
+> 2 Francesco Pennesi, policy expert, Single Resolution Board, francesco.pennesi@srb.europa.eu. 3 Sebastiano Laviola, at the time of writing, board member of the Single Resolution Board responsible for Resolution Strategy and Cooperation, sebastiano.laviola@bancaditalia.it. 
+
+> 4 This paper describes research being undertaken by the authors on certain technical aspects. It should not be reported as representing the views of the Single Resolution Board (SRB). The views and opinions expressed in this paper are those of the authors and do not necessarily reflect the position of the SRB. The SRB cannot be held liable for the content of this paper, and this paper does not represent a statement of official SRB policy, methodology, or position on matters addressed therein, nor can this paper be understood as anticipating or preempting same. The authors would like to thank Enrique Ezquerra, Giacomo Massa, Antonio Spissu, Jordan Thursby, Miguel Carcano Saenz de Cenzano (all SRB), and Ana Rita Garcia (former SRB) for their meaningful input and comments. 
+
+
+## **I. Introduction** 
+
+The purpose of this paper is to explore whether the 2023 banking turmoil in the United States (US) and Switzerland can provide some preliminary lessons for resolution in the European Union (EU). The events of March 2023 represented the most significant banking stress affecting financial markets since the 2007–2009 Global Financial Crisis (GFC). The turmoil unfolded in both the US, with the crisis of Silicon Valley Bank (SVB) and other regional American banks, and Switzerland, with the demise of Credit Suisse— a global systemically important bank (G-SIB) characterized by a long-standing negative track record and negative economic results, putting in doubt the viability of its business model (see Figure 1)—which was subsequently merged with UBS. 
+
+The 2023 banking turmoil has led to new reflections on the effectiveness of the post-GFC prudential and resolution frameworks. International regulators have therefore undertaken an assessment of the events, drawing initial lessons for potential reforms of banking regulation for supervision and resolution (on the reports of the Basel Committee on Banking Supervision [BCBS] and the Financial Stability Board [FSB] on the lessons learned for supervision and resolution, see Appendix).[5] 
+
+The first element that emerges is that the ultimate cause of the recent bank failures on both sides of the Atlantic was bad governance, shortcomings in basic risk management practices and unsustainable business models, coupled in certain cases with weak application of the international standards. Higher capital and liquidity requirements cannot by themselves restore banks’ ability to remain profitable when the business model is fundamentally flawed. 
+
+The banks in crisis showed indeed: (a) common balance sheet fragilities, fueled by excessive risk-taking and inadequate risk management practices, ultimately threatening firms’ solvency; and (b) exacerbated maturity mismatch (for the US banks, long-term assets funded with short-term liabilities, in particular large amounts of uninsured deposits, plus large unrealized losses on securities held at amortized costs), amplified by digitalization and social network dynamics, triggering deposit runs. As concerns the shortcomings in regulation and supervision, since 2018, the US regulation for mediumsized banks had been revised, exempting them fully or partially from certain requirements.[6] 
+
+Greater effectiveness of supervision is needed to identify and challenge poor strategic decisions, governance and risk management leading to weak business models. In 
+
+> 5 In particular, for the relevance of the banking turmoil for the architecture of (a) deposit insurance systems, see IADI (2023); (b) supervision and going-concern prudential regulation frameworks, see BCBS (2023); and (c) for resolution frameworks, see FSB (2023a). Among the various academics and commentators, see Bair et al. (2023); Berner, Schoenholtz, and White (2023); Berner (2023); Tuckman (2023); and Bodellini and Colino (2023). In the institutional domain, see FSB (2023a); BCBS (2023); Barr (2023a); Coelho, Taneja, and Vrbaski (2023); De Cos (2023); Enria (2023); FDIC (2023f); FDIC (2023b); Fed (2023); Gruenberg (2023); and Expert Group on Banking Stability (2023). 
+
+> 6 US midsize banks were partially or fully exempted from some prudential standards, such as the liquidity coverage ratio and net stable funding ratio. In addition, these banks were subject to stress tests with a lower frequency, could not reflect in their capital requirements the unrealized losses on securities held as “available for sale” on the balance sheet, and the preparation of resolution plans was not complete at the time of the crisis. 
+
+
+addition, authorities have to use all the tools at their disposal, including sanctions, to promptly enforce appropriate actions, and to have the appropriate quality and quantity of supervisory resources.[7] 
+
+On prudential regulation, the Basel Committee will pursue targeted analytical work to assess whether specific features of the Basel Framework performed as intended during the turmoil—for example, the operationalization and calibration of liquidity standards and the appropriate implementation of the interest rate risk provisions in the banking book, the treatment of held-to-maturity assets, and the role of additional Tier 1 (AT1) instruments in the capital framework—and assess the need to explore policy options over the medium term. 
+
+In terms of crisis management, the review of the FSB upholds the appropriateness and feasibility of the framework, identifying at the same time a number of implementation issues for global and other systemically important banks. Among the positive aspects, resolution planning and capabilities, as well as the build-up of sufficient loss absorbency capacity, proved useful and provided an executable alternative to the solution preferred by the authorities for Credit Suisse. In addition, cross-border cooperation and crisis communication within the core crisis management groups (CMGs) worked well and allowed for thorough contingency planning in the build-up of the crisis. 
+
+Concerning the implementation issues, the most important are (see Appendix for more detail): (a) communication and coordination of information among authorities, even beyond the authorities involved in the CMGs; (b) choice of resolution strategies and optionality of resolution tools; (c) consideration about the features of an effective public sector funding backstop; (d) implementation of the bail-in tool across national borders; (d) consideration of the resolution of banks that are not systemically important in life but could become systemic in failure; and (e) the interplay among bank runs, uninsured deposits, and the role of deposit insurance and resolution. 
+
+The events of 2023 had limited repercussions on the EU banking sector, whose resilience can be explained by two factors. First, EU banks are characterized by a more broadly diversified business model when compared to the US regional banks involved in the crisis. Second, the EU has applied international regulatory standards—including the obligation to comply with liquidity and resolution requirements—to all banks, including small and medium-size entities (Enria 2023). However, the 2023 crisis provided important elements to be further assessed also in the EU context, especially in the area of resolution, which is characterized by a more elaborated institutional framework. More specifically, this paper seeks to explore the changes that could be made in the regulation and in the implementation of the EU framework to improve its effectiveness in the management of a banking crisis. 
+
+> 7 In the case of US banks, reports by the Federal Deposit Insurance Corporation and Federal Reserve System conclude that banks pursued risky business strategies compounded by weak liquidity and inadequate risk management (Tobias et al. 2023). Supervisors had indeed identified several vulnerabilities but were not quick enough to escalate supervisory actions, nor did they require banks to adopt a more prudent behavior when there was time. When an escalation was recommended, banks ignored it. In the case of Credit Suisse, already in 2019, an International Monetary Fund Financial Sector Assessment Program (IMF SAP) had asked to fill gaps in banking regulation and supervision (regulator understaffed), reduce reliance on external auditors, and remedy the lack of legal powers to restrict dividends (FSB 2024b). 
+
+
+After this introduction ( **Section I** ) and a short summary of the events of 2023 in **Section II** , among the implementation issues highlighted by the FSB report, we focus on the following three aspects: complementarity of deposit guarantee schemes (DGSs) and resolution frameworks to limit bank runs and manage more effectively a bank crisis, resolution strategies and optionality in resolution tools, and the design of an effective public sector liquidity backstop in resolution. 
+
+**Section III, Bank Runs, the Role of Deposit Insurance and Resolution** : One of the topics that emerged in the 2023 turmoil is the extremely accelerated run on deposits— favored by connections of similar clients through digital platforms—and, particularly in the SVB case, the potentially destabilizing role played by large amounts of uninsured deposits. Given the relevance of deposits in bank business models—that is, their contribution to the so-called bank franchise value—ensuring deposits stability is critical for safeguarding financial stability. 
+
+An effective DGS should contribute to the protection of financial stability by curbing depositors’ incentives to run. Indeed, the literature has shown that insured depositors have less incentive to run with respect to uninsured ones. However, in the aftermath of the SVB case, institutional bodies, practitioners, and academics have started reflections on the different ways to prevent bank runs and ensure financial stability, including considerations, in the US, on the increase of the deposit insurance coverage for all or some categories of depositors (so-called targeted coverage). In this section, we first illustrate and assess these reform proposals—concerning both the liabilities and the assets side of the balance sheet—some of which present merits and deserve to be further scrutinized. 
+
+Turning then to Europe, according to a recent European Banking Authority (EBA) report, 96% of European Economic Area (EEA) depositors are DGS-protected. Given the low ratio of uncovered depositors, the EBA concludes that increasing the DGS coverage level would be very expensive, while bringing limited additional protection in terms of financial stability and consumer protection. Despite their low number (4%), uncovered depositors (mostly corporates) hold more than half of EEA deposits. Increasing coverage for them would not represent a fundamental change, as on average there would still be less than half of eligible deposits fully covered, even where the coverage level was to be EUR 1 million. Consequently, risks of run behaviors would not be neutralized. 
+
+Reflections at the international level on the lessons learned from the 2023 bank turmoil are on-going, including on the potential review of aspects of liquidity and interest rate risk provisions in relation to maturity mismatches, outflow rates of deposits, reliability of historical estimates for interest rate risk, and potential changes in customers’ behavior. As particularly concerns deposit risk and stability, a better understanding and closer monitoring of banks’ deposit structure and maturities would be helpful. Concentration requirements in relation to uncovered deposits could also be considered. 
+
+Additional considerations are related to the complementary role of deposit insurance and resolution to safeguard financial stability and prevent banks’ runs. The introduction of a minimum long-term debt requirement for banks of a certain size reduces incentives to run. For example, in the EU, the resolution framework envisages, for banks with total assets higher than EUR 100 billion, a mandatory layer of subordinated liabilities, which shields uninsured depositors from loss absorption. In the case of SVB, the presence of this requirement could have created some disincentive for uninsured depositors to run 
+
+
+(Gruenberg 2023). Finally, depositor protection and stability may be enhanced by envisaging a different and more active role for DGSs in the resolution process. Namely, by acting as a risk and loss minimizer in resolution, in specific cases, DGSs could fully protect depositors by withstanding the losses for the part of their claims exceeding the coverage level. A well-functioning DGS could indeed permit regulators to better achieve resolution objectives by financing the transfer of a bank to another market player in the resolution process, thus facilitating the market exit, a long-standing practice of the Federal Deposit Insurance Corporation (FDIC) in the US.[8] In the European Union, however, the use of DGSs in resolution (and in alternative measures), outside the traditional “paybox” function, is constrained by the legal framework, particularly the “super priority” enjoyed by the DGSs in the creditors’ hierarchy. The Single Resolution Fund (SRF) can in turn intervene only if a specific share of liabilities has already been written down or converted. We consider that the crisis management and deposit insurance (CMDI) proposal of the European Commission (EC) would bring a substantial improvement to the EU crisis management framework, facilitating the use of DGSs as financial bridges to reach the minimum bail-in requirement (8% of total liabilities and own funds) for accessing the SRF for failing banks, where needed (EC 2023a). 
+
+In conclusion, effective resolution regimes can contribute to deposit stability in different ways: (a) mandating, for banks with a certain size (more than EUR 100 billion, in the EU), a minimum requirement of long-term subordinated debt expected to absorb losses in resolution; (b) strengthening market discipline (and decreasing excessive risk-taking incentives); and, when resolution is eventually opened, (c) enabling a timely transfer of the deposit base to other players facilitating the market exit of the failing bank, strongly mitigating uncovered depositors’ incentives to run. 
+
+**Section IV, Optionality and Flexibility in the Choice of Resolution Tools** : Another theme highlighted by the crisis is the opportunity to investigate the choice and feasibility of resolution strategies, including bail-in tools in various scenarios, for example liquidity crises. Other strategies, for example transfer tools, or a combination of strategies, could be more appropriate in certain situations. This implies the need to preserve optionality and flexibility in the use of resolution tools in crisis preparation, to cater for different failure scenarios. 
+
+US, UK, and Swiss authorities all displayed flexibility in their resolution approaches. In the United States, flexibility was employed to address the failure of three institutions, avoiding widespread contagion and preserving the stability of regional banks. As expected, shareholders and senior creditors were written down, avoiding moral hazard and promoting accountability. While the protection of unsecured depositors—through the systemic risk exception—increased resolution costs, the additional expenses will be recovered from the banking sector, in alignment with the general resolution principle according to which banks should pay for their resolvability (FDIC 2023). In the UK, the subsidiary of SVB was earmarked for liquidation because deemed to have no critical functions and no impact on financial stability in case of insolvency, but the Bank of England (BoE) changed its advice in the face of the potential disruptions that would have emerged in the fintech sector, and finally decided to sell SVB UK to a larger bank. 
+
+> 8 A similar result would be obtained, for the banks not earmarked for resolution, with DGSs intervention with alternatives to piecemeal liquidation. 
+
+
+In Switzerland, the merger between Credit Suisse and UBS took place outside resolution. However, according to the Swiss Financial Market Supervisory Authority (FINMA), the resolution framework offered a viable and alternative option to Swiss authorities. Although such option was not eventually pursued, the crisis management toolbox of Swiss authorities would have been poorer without resolution. Optionality therefore remains key to successful crisis management, especially considering that the solution devised in this occasion—the merger between the two local G-SIBs—would not be available in the future (as there would be no local bank in Switzerland with the commercial interest and financial capacity to purchase the only remaining G-SIB) and consolidation with a foreign player was not considered; in addition, the concentration among large and complex banks may make the too-big-to-fail (TBTF) problem more difficult to address. 
+
+In the banking union, resolution planning for large banks has largely focused on the open bank bail-in (OBBI) approach. Since in most cases resolution authorities may have difficulties finding a purchaser for large and complex banks at short notice, the OBBI remains the most reliable tool for their resolution. However, there is also a need to further work on transfer tools, either in combination or as an alternative to the OBBI, according to the scenario and type of bank. We recommend flexibility and optionality in resolution approaches, following the example of other authorities both inside and outside the EU. 
+
+**Section V, The Role of Public Liquidity Backstop Mechanisms in Restoring Market Confidence during and after Resolution** : As confirmed by recent events, liquidity should be promptly made available to firms during and after resolution, in order to quickly restore confidence of market counterparties in the resolved bank. In the case of Credit Suisse, we witnessed the huge amount of funding put at disposal of the bank, which helped to restore market confidence and was fully reimbursed after a short time. At the international level (FSB 2024a), a reflection is ongoing on the design features (size, duration, collateral, etc.) of such mechanisms, and on the assessment of whether the lack of an adequate and explicit public liquidity backstop arrangement could be perceived as making resolution less credible. 
+
+In this respect, different features of the public temporary liquidity backstop mechanisms in place in different jurisdictions contribute to ensure their credibility and effectiveness—that is, from an individual perspective, to meet and accommodate funding needs of viable firms facing temporary liquidity pressure and, from a system perspective, to ensure the stability of the wider financial sector. 
+
+In the US and Swiss cases, the relevant frameworks permitted authorities to tailor the features of the public liquidity backstop to the needs emerging in the turmoil. The Banking Union framework benefits from a Single Resolution Fund managed by the Single Resolution Board (SRB) and a common backstop provided by the European Stability Mechanism (ESM) as soon as the ratification process of the latter will be finalized. There is, however, a shortcoming in tail scenarios, that is, liquidity needs arising from the failure of a large and complex bank, where the amount of funding needed could be similar to that employed for Credit Suisse. 
+
+In this paper, we assess different contributions that have tried to address this issue at the Banking Union level, and we conclude that a public funding backstop—in the form of a guarantee—resting on the EU budget would represent a true and effective European 
+
+
+solution. In particular, the public guarantee could be provided by the European Commission—backed by the EU budget. Alternatively, the public guarantee could be provided by the SRB, backed by either the issuance of long-term bonds or the promise to recoup any expense from the banking industry. An effective public and temporary liquidity backstop would align the Banking Union with the US and the UK regimes, and it would enhance the credibility and effectiveness of the EU resolution framework. 
+
+The analysis of the topics highlighted above follows a similar structure throughout the paper. We illustrate the three topics, first providing an overview of the main elements characterizing the subject under discussion as well as the main practical and theoretical issues emerged so far; then we introduce a European perspective. 
+
+## **II. The 2023 Banking Turmoil: The Events** 
+
+In the US, the crisis of the so-called regional banks started with the failure of SVB, the 16th-largest American bank in terms of total assets (USD 211 billion at the end of 2022).[9] Between 2019 and 2022, the bank experienced spectacular growth in uninsured deposits, which funded a nondiversified exposure to government securities, mainly “held-tomaturity.”[10] When the Federal Reserve Board increased interest rates, the value of government bonds held by SVB deteriorated and weaknesses developed in tech and the related industries it depended on, raising concerns on SVB’s capital position.[11] 
+
+On March 8, the bank announced that: (a) it had sold USD 21 billion of securities, resulting in a USD 1.8 billion after-tax loss; (b) it was seeking to raise USD 2.25 billion in capital; and (c) it was experiencing a higher rate of client “cash burn”—which, for SVB, meant deposit runoff—than expected. The next day, SVB experienced a bank run of historically unprecedented speed, facilitated by digital communication technologies and the strong commonalities among SVB depositors (Cookson et al. 2023; Rose 2023; Krogstrup, Sangill, and von Sicard 2024). In a single day, SVB experienced more than USD 40 billion of deposit withdrawals, roughly 30% of its deposit base, and an additional USD 100 billion was expected to leave on March 10, had the California Department of Financial Protection and Innovation not closed the bank.[12] The FDIC, appointed as receiver, established a vehicle called Deposit Insurance National Bank of Santa Clara (DINB), which would have 
+
+> 9 SVB was largely active in California’s Silicon Valley region and mainly extended loans (and offered wealth management services) to the high-tech sector; at the same time, it raised funds from the very same industry, largely in the form of unsecured deposits. 
+
+> 10 Meaning that, being accounted at amortized cost, any losses on these securities provoked by higher rates would be accounted for only at their sale. 
+
+> 11 Under the applicable US framework, the bank, given its size, was not required to meet liquidity requirements (in the form of a net stable funding ratio [NSFR] and/or, more importantly, a liquidity coverage ratio [LCR]). According to Feldberg (2023), the application of the LCR to SVB would have led to a LCR breach by end-2022 (in other words, the LCR would have amounted to 75%, 25% below the minimum). Both SVB and Signature Bank were not adequately prepared to tap the Federal Reserve’s discount window, lacking the capacity to promptly identify and use adequate collateral (Barr 2023b; McLaughlin 2024). 
+
+> 12 A similar run, encompassing roughly 30% of the deposit base, also affected on March 10 an SVB subsidiary in the UK—which was in fact a rather small bank, with total assets amounting to roughly 12 billion British pounds sterling (GBP). SVB UK, while predicated to fail under ordinary insolvency procedure, was eventually put into resolution and sold to HSBC by the Bank of England. 
+
+
+provided insured depositors with quick access to their funds (FDIC 2023a).[13] Uninsured depositors, however, lost access to their accounts above the DGS coverage, obtaining only receivership certificates to recover their uninsured funds through the liquidation procedure.[14] The treatment of uncovered deposits, and their exposition to potential losses, triggered a wider confidence crisis among other regional banks. Between Friday, March 10, and Saturday, March 11, another US lender, Signature Bank—which also presented a significant concentration of uninsured depositors—experienced a run that would not have permitted it to meet its obligations had it opened on Monday. 
+
+The magnitude of the runs, coupled with the need to avoid the spreading of contagion to other regional banks, prompted the FDIC and the Federal Reserve to recommend to the secretary of the Treasury the adoption, on March 12, of a “systemic risk determination,” enabling the extension of deposit insurance coverage to all depositors of SVB and Signature Bank (US Treasury, Fed, and FDIC 2023). The FDIC changed its procedures from the setup of DINB to the establishment of two bridge banks, to which all deposits (including uninsured ones) were transferred. At the same time, the Fed used its emergency authority to create a special liquidity facility, the Bank Term Funding Program (BTFP), that was backed by a capital commitment from the US Treasury. The two temporary bridge bank entities were subsequently sold to competitors: First Citizens Bank bought parts of SVB, and New York Community Bancorp purchased parts of Signature Bank.[15] Despite such efforts, a third US regional bank, the San Francisco–based First Republic Bank, which first came under pressure after the closure of SVB, ultimately fell victim of the contagion several weeks later.[16] The FDIC sold all the deposits and virtually all the assets of First Republic to JPMorgan Chase, following a purchase and assumption (P&A) agreement, this time without using the systemic risk exception. 
+
+During the same period, the Swiss G-SIB Credit Suisse suffered from an exacerbation of the shortcomings in its business model. Since the GFC, the bank was involved in a number of international scandals, which dented its reputation and credibility (FINMA 2023b).[17] In October 2022, Credit Suisse came under strong liquidity pressures, with large outflows of assets and deposits, mostly from high-net-worth management clients outside Switzerland.[18] Although the bank was able to withstand the pressure, the crisis left the institution in a precarious situation to face the 2023 banking turmoil. When the management delayed the publication of the bank’s 2022 annual report, and a key shareholder seemed to communicate that it would not provide further support, the bank 
+
+13 The DINB was established on Friday, March 10, 2023, and insured depositors were expected to have full access to their deposits no later than Monday morning, March 13, 2023. 
+
+14 To alleviate the loss of access to their accounts, the FDIC promised to pay uninsured depositors an advance dividend within the following week (FDIC 2023a). 
+
+15 First Citizens Bank purchased about USD 72 billion in loans at a discount of USD 16.5 billion, as well as all deposits. Approximately USD 90 billion in SVB securities and other assets were not included in the deal and left behind in the FDIC receivership. New York Community Bancorp purchased USD 38 billion in assets, including USD 12.9 billion in loans, at a discount of USD 2.7 billion (Hirsch 2023). 
+
+16 First Republic Bank funded its roughly USD 230 billion balance sheet with USD 104 billion deposits, of which 68% was uninsured. The bank was subject already in March to liquidity pressure, which prompted 11 US banks to offer USD 30 billion in deposits, in an effort to curb the panic. 
+
+17 Recurrent scandals and mismanagement cases—the Mozambique case, the surveillance affair, as well as the Greensill and Archegos cases—eroded the bank’s reputation; dented its profitability; and led to customers, investors, and public authorities alike losing trust in the entity. 
+
+18 The total deposit outflow in Q4 2022 was equal to 138 billion Swiss francs (CHF). 
+
+
+was again subject to a run, this time involving not only wealthy clients but all depositors (FINMA 2023b). 
+
+On March 15, Switzerland’s central bank, the Swiss National Bank (SNB), attempted to calm the market by extending to the bank a 50 billion Swiss franc (CHF) line of emergency liquidity assistance (ELA)[19] . On March 19, Credit Suisse was merged with UBS outside the ex ante procedures laid out in Switzerland for the resolution of a failing bank. The Swiss authorities facilitated the deal by: (a) granting UBS a second loss guarantee[20] and (b) extending two new central bank liquidity lines, jointly amounting to CHF 200 billion. The merger deal was based on an exchange ratio of one UBS share for every 22.48 Credit Suisse shares held, as well as the full wipe-out of CHF 16 billion of AT1 instruments (FINMA 2023b). 
+
+The set of measures adopted by US and Swiss authorities safeguarded financial stability, avoiding financial contagion. The events nevertheless led to reflections, still ongoing, on the need to improve certain procedural and operational elements of the resolution and supervisory frameworks in both jurisdictions, to strengthen their effectiveness and reliability (see Appendix). 
+
+[FIGURE id=vol6_iss4_1_f1 type=figure page=11 label="Figure 1" file=figure_1.png caption="Credit Suisse—Market Indicators"]
+### **Figure 1: Credit Suisse—Market Indicators**
+![Figure 1](assets/vol6_iss4_1/figure_1.png)
+
+
+_Source: Reproduced from Expert Group on Banking Stability (2023)._ 
+
+19 At the same time, FINMA and the SNB stated that US banking issues did not directly threaten Swiss financial markets, citing stringent Swiss capital and liquidity requirements. Along these lines, it was affirmed that Credit Suisse complied with standards for systemically important banks (FINMA and SNB 2023). 
+
+20 Under this guarantee amounting to up to CHF 9 billion, the government would bear losses only after UBS would have borne a first loss of CHF 5 billion. 
+
+
+## **III. Bank Runs, Deposit Insurance, and Resolution** 
+
+## **III.1 Preserving Banks’ Franchise Value and Ensuring the Stability of the Deposit Base in Crisis: The Role of DGSs** 
+
+The 2023 banking turmoil has acted as a reminder on the potentially destabilizing role played by uninsured deposits in modern banking systems. In the case of SVB, the peculiar liability structure of its balance sheet—a funding structure heavily reliant on a concentrated base of uninsured depositors’ not facing significant transaction costs in coordinating their behaviors—coupled with the characteristics of its business model offer a good account of the causes of the turmoil. Put differently, deposit stability is critical for safeguarding financial stability. 
+
+This is owing to the function deposits play in the traditional banking business model (Restoy 2023). Deposits are indeed not only relevant for the funding of the banking business—and considered, under this light, in their source of funding role—but for most banks, deposits are _themselves_ the business, in the sense that taking deposits from retailers and corporations, which represent clients of the bank, constitutes and contributes to the franchise value of the bank.[21] 
+
+From a bank’s balance sheet perspective, the importance (and the value) of the deposit franchise, which is in fact a direct consequence of the bank’s maturity transformation function through deposit-taking, lies in that: the capability to finance part of its assets through a source of funding that is usually unsensible to, and remunerated at rates lower than, market interest rates provides the bank with a natural hedge to interest rate risks emerging on its balance sheet (Drechsler, Savov, and Schnabl 2021). Yet, such natural hedge may fail to fulfil its function exactly when it is most needed, as the SVB case has shown—that is, the deposit franchise may be runnable (Drechsler et al. 2024). 
+
+For all the above elements to be preserved—that is, for safeguarding financial stability; for the deposit franchise value to be maintained and, as a consequence, for the deposit hedge to work—deposits must remain in the bank. This result is primarily achieved by 
+
+> 21 Along this line, it has been said (Armour et al. 2016): 
+
+> For a bank, unlike a non-financial firm, the composition of the balance-sheet is essential to its value. The business of a bank is not just about screening and monitoring when extending credit to firms and households but also about extending liquidity services to depositors in the form of claims that are sum certain and continuously redeemable. One might go so far as to say that the business of a bank is financing medium- and long- term credit claims with deposits. This means that an all-equity bank will be a less valuable bank than one funded at least in part by deposits. The idea of the ‘irrelevancy’ of financing to business project value does not hold where the business project itself is a particular form of financing. 
+
+See also Davies (2015). 
+
+
+DGSs, which have historically represented the first and most direct tool to avoid bank runs[22] and protect insured depositors.[23] 
+
+DGSs act as stabilizers both at micro and macro levels. At the micro level, DGSs protect the accounts of single depositors—chiefly retailers and households—by reimbursing them, should the bank be declared failed and in liquidation. Yet, to avoid the creation of moral hazard incentives, this protection is anchored to clearly defined limited coverage levels (IADI 2014, princ. 8). At the macro level, DGSs contribute to financial stability by modifying ex ante covered depositors’ incentives to run. 
+
+In the case of the 2023 turmoil, however, the safety net provided by the FDIC’s Deposit Insurance Fund (DIF) did not prevent the liquidity outflows stemming from US regional banks.[24] This can be explained with the large holdings of uninsured deposits that characterized such institutions—it is worth emphasizing that uninsured deposits represented 89% of the total deposit base of Signature Bank and about 94% of SVB (Restoy 2023). Although such banks were outliers in terms of deposit composition, displaying an abnormal concentration of uninsured depositors not facing significant transaction costs in coordinating their behaviors, their crisis has nevertheless triggered an intense policy discussion on the future of deposit protection. The question is whether one of the crucial characteristics of DGS nowadays, namely the limited protection provided to depositors by a predefined coverage level, should be revisited—and bearing 
+
+22 Economic literature on bank-run phenomena is hefty. From a taxonomy perspective, there are at least two different models trying to explain the phenomenon, and namely: 
+
+- (a) Under a first model (so-called panic-based model), bank-run phenomena are not correlated to fundamentals, for instance, the deterioration of the bank’s financial position or changes in the economic cycle. Under this model, depositors withdraw their deposits for reasons exogenous to the model itself. The spread of the panic among depositors, who anticipate that other depositors may start withdrawing their deposits, triggers the run—in a classic example of a self-fulfilling prophecy (Diamond and Dybvig 1983). 
+
+(b) Under a second model (so-called fundamental-based model), depositors’ behavior is conditioned to economic cycle outcomes. So, under this model, run phenomena represent answers to investors’ expectations about future spread of fundamental shocks to the financial sector (Gorton 1988). 
+
+23 Liquidity risks are not only tackled through effective deposit guarantee schemes—which though address these risks only to the extent that they originate from the behaviors of depositors, and which are also “preventive” in nature, in the sense that they try to tame liquidity outflow from arising in the first place. Prudential liquidity and funding requirements aim at keeping the business in going-concern—or at least, to keep it in going-concern as long as possible, ahead of possible supervisory interventions—when eventually liquidity stress happens. They operate both by mandating the bank to (a) maintain a stock of high-quality liquid assets (HQLA), which could be easily sold on the market once creditors’ claims fall due and are not rolled over, to cover cumulated net liquidity outflows over a 30-day period (so-called LCR); and (b) base its funding structure on a certain amount of stable source of funding (so-called NSFR). 
+
+The calibration of these two standards, which have been called into question in the context of the 2023 banking turmoil, is not the object of analysis in this paper. For their features, characteristics, and objectives, see BCBS (2013) and BCBS (2014). For some reflections on their calibration after the recent banking turmoil, see BCBS (2023). 
+
+> 24 With a funding structure heavily reliant on a limited and concentrated number of uncovered deposits (at year-end 2022, 94% of SVB’s domestic deposit base was above the coverage threshold) and a single-day deposit outflow amounting to USD 42 billion (roughly the 24% institution’s deposit base), it couldn’t be realistically expected that the USD 250,000 coverage provided by the FDIC would have modified the incentive of such depositors to run. 
+
+
+in mind, at the same time, that any increase of the protection provided to depositors could also incentivize moral hazard behaviors, thus undercutting overall market discipline.[25] 
+
+Institutions, academics, and practitioners have recently addressed the topic of the adequate coverage by DGSs, proposing a number of reforms. We list them below, mentioning for each option pros and cons. 
+
+- _Unlimited coverage of all deposit contracts_ (Cecchetti, Philippon, et al. 2023; FDIC 2023c; Heider et al. 2023) _:_ This is arguably a radical option that would have the effect of removing altogether every incentive on depositors to run—and thus it would contribute to the greatest degree to financial stability. Yet, it would also be extremely expensive, as the unlimited coverage would be footed by the banking industry through increased contributions to the DGS. Furthermore, the redistributive effects of such proposal should be carefully considered, as it would imply a redistribution of resources from competitive banks to their weaker peers, as well as of cost from the banking industry to consumers—given that at least some of the additional costs would trickle down to banks’ clients (Restoy 2023). Finally, it would also contribute to moral hazard dynamics. 
+
+- _Targeted coverage of certain categories of deposits—in particular, transactional accounts used for payroll purposes_ (FDIC 2023c; G-30 2024) _:_ Here, we need to distinguish between so-called transaction accounts, held at a bank—usually by small and medium-size enterprises (SMEs)—for payroll and transactions functions, and deposits held for investment purposes.[26] Only the former category would obtain additional coverage, given such accounts’ essential role for modern market economies, in light of their role as means of payment. The most important drawback of this proposal is represented by the difficulty to establish effective criteria to distinguish between “investment” and “operational” deposits, to avoid arbitrage behavior.[27] Also, the targeted coverage would still need to be anchored to a specific threshold, considering that it should not amount to an unlimited coverage.[28] 
+
+25 Such a remark is common and widespread (FDIC 2023c; IADI 2014; Perotti 2023; Restoy 2023). The argument holds that the bank’s constituencies could be incentivized to take on higher risks than those they would take in a world without a deposit safety net, as a DGS would by definition remove any incentives for depositors to monitor bank activities and accordingly tailor the remuneration they demand to the bank’s risk profile. In reality, evidence is rather mixed on this point, that is, there is both evidence that deposit insurance can increase bank risk-taking and evidence that it does not. For a brief analysis in this respect, with relevant literature review, see FDIC (2023f), in particular footnote 99 of the FDIC document. 
+
+26 The focus on SMEs only, and not on larger firms, is justified by the fact that usually the latter, unlike the former, are better positioned and equipped to manage their cash resources (Cecchetti, Philippon, et al. 2023). 
+
+27 In this regard, there are some presumptive features that could be emphasized—for instance, the fact that the depositor has contractually agreed not to receive any interest payment on the sum deposited. Yet, while a non-interest-bearing account would signal the “non-investment” nature of the claim, it would fall short of representing an “operational” trait (G-30 2024). Another presumptive trait that could be emphasized pertains to the fact that investment and saving accounts usually impose a penalty for early termination. On the challenges posed by arbitrage behaviors, see Cecchetti, Philippon, et al. (2023). 
+
+28 See FDIC (2023f), whereby, though no proposal is made, it is remarked how “a deposit insurance limit of USD 2.5 million for accounts [. . . ] would likely cover payroll for a large proportion of small and medium- 
+
+
+- _Adjusted insurance limits in an incentive-aligned manner_ (G-30 2024) _:_ Under this proposal, the coverage limit would represent a function of the bank’s risk profile— that is, banks presenting less risky business models, and thus a reduced risk of failure, would enjoy higher coverage for their deposits. The assessment should be based on quality and quantity–related indicators (for instance, stability of the funding sources) capable of curbing banks’ incentives to undertake risky activities. This option would however disrupt the equality principle between deposits, as depositors in certain banks would be more protected than others. 
+
+- _Implementation of “minimum balance at risk” provisions for uninsured depositors_ (Cipriani et al. 2023) _:_[29] Such a proposal is built on the need to create a trade-off between uninsured depositors’ immediate access to the liquidity of their claims— through immediate withdrawal—and the risk of loss exposure of their deposit’s principal amount, which in turn should reduce run incentives. Namely, the minimum balance at risk approach would work as follows: Uninsured depositors would be granted ordinary and unlimited access to their sight deposits up to a certain amount of the claims’ par value—say, up to the 95% of their nominal amount. Access to the remaining amount would be delayed for a given period, during which this not-withdrawn part would be subordinated to claims of those (uninsured) depositors who did not withdraw in excess of the limit (the so-called minimum balance at risk). Thus, former depositors would potentially absorb losses with priority to the latter, should the bank fail. Such a mechanism would in theory provide depositors with an incentive not to run entirely on their banks, should they want to avoid the risk of losses being allocated on their “minimum balance” principal amount. This option appears radical if only one considers how the “money-like nature” of deposits, namely their convertibility at face value in an equivalent means of payment, is here put into question. It would also constitute an expensive option, as uncovered depositors would likely demand higher compensations to the bank for the increased risk they would face—moreover, the charges should be extremely high to effectively tame run incentives. Finally, implementing such an option would require the relevant insolvency cascade to be amended, given the fact that certain claims would see their ranking being modified—albeit only temporarily during a crisis. Setting aside the complexity this would entail, from a resolution angle, this ranking modification may also raise certain par condicio creditorum issues, given that similar claims would be treated differently. 
+
+The proposals analyzed above all aim at taming run incentives by focusing on the liability side of the bank’s balance sheet: an effective DGS, by means of an adequate coverage level, should guarantee or improve the stability of deposits—which in turn positively 
+
+> size business payment accounts.” In Japan, by contrast, full coverage for certain payment accounts is already in place (FSB 2023a). 
+
+> 29 The proposal, at least in its intended goal, somehow recalls the limited convertibility rule applying to US money market funds (the 2014 Securities and Exchange Commission Rule 2a-7) under which the fund’s board may impose a liquidity fee of up to 2% (so-called swing pricing) or temporarily suspend redemptions (so-called gating), should (a) the fund’s weekly liquid assets fall below 30% of its total assets and (b) the fund’s board determines that imposing a fee or a suspension is in the fund’s best interests (Perotti 2023). The major cons of rules of these kinds lie in their potentially self-fulfilling nature, that is, the anticipation of a liquidity fee or a suspension among depositors may incentivize the latter to preemptively withdraw. 
+
+
+contribute to the bank’s franchise value. Another proposal pursues the same goal of safeguarding financial stability and curbing run incentives on depositors, but it is centered on the assets side of the balance sheet. In particular, in the US, the following proposal has been formulated: 
+
+- _Unlimited and uninterrupted access to central bank liquidity by means of asset prepositioning_ (G-30 2024; Hsu 2024) _:_[30] Under this proposal, the central bank would guarantee to credit institutions an unlimited and uninterrupted access to a credit line—which thus should tame, if not avoid, the outburst of run behaviors— conditioned on the latter’s holding a sufficient combination of money, central bank reserves, and pre-positioned high-quality collateral with the central bank. Collateral pre-positioning would amount to a requirement placed upon the bank, which would be entitled to issue short-run liabilities only up to the liquidity value of such collateral. In particular, banks would be required to pre-position enough collateral at the central bank to meet all or part of their “runnable obligations.” Runnable obligations include all liabilities, except for capital, subordinated debt, long-term senior debt, and other claims with (remaining) maturities of more than one year. The proposal would not include fully insured deposits, since “insured deposits are unlikely to run in the first place if deposit insurance works effectively” (G-30 2024, 10).[31] The implementation of an option of this sort would remove altogether any incentive to run in the midst of a crisis as depositors’ claims would be honored thanks to the liquidity obtained by the central bank—provided though that proper communication to these parties took place. A substantially more extreme version of that proposal would require banks’ reserves and prepositioned collateral to cover insured deposits as well. In such a case, there may be no longer a need to have in place an effective DGS. 
+
+Yet, different concerns have been raised with regards to this proposal (Cecchetti, Philippon, et al. 2023). First, the central bank’s role in setting collateral haircuts may potentially interfere in the allocation of credit.[32] Second, a pre-positioning obligation would in practice “lock away” an expanding number of banks’ unencumbered assets, preventing their use in private funding markets—and, in a sort of a feedback loop, the more these assets are pre-positioned at the central bank, the less of an active market providing price signals for valuation and haircut purposes there will be (Kaminska 2024). Yet, one could rebut that such a scenario is not likely to arise if banks pre-position assets they will never use for private funding—such as credit claims. In any case, on the back of 
+
+> 30 More “extreme” versions of these proposals have been suggested, whereby liquidity from the central bank would also cover insured deposits and effectively act as a “pawnbroker for all seasons” (Cecchetti, Philippon, et al. 2023; King 2016). 
+
+> 31 Capital, subordinated debt, and long-term senior debt are not considered “runnable liabilities,” given their remaining maturity does not “represent liquidity risks that need to (or should) be addressed by LoLR” (G-30 2024, 10). In the proposal advanced by Hsu (2024), the new targeted regulatory requirement is centered on the liquidity value of collateral pre-positioned at the discount window in addition to reserves (that is, the numerator of the ratio) against ultra-short-term liquidity outflows (that is, the denominator of the ratio). 
+
+> 32 It has been argued that “these haircuts would be calibrated for stress times but would also apply during normal times. Setting haircuts too steep would distort economic and credit outcomes in the economy, while not being conservative with haircuts may expose the central bank to counterparty losses. Striking the right balance would be a challenge” (Acharya et al. 2024, 135). More generally, on how the central bank’s collateral framework can have distortionary effects on financial markets, see Nyborg (2017). 
+
+
+the crisis at SVB—which was not operationally ready to access the discount window—in the US, the authorities have made clear that depository institutions should practice their ability to use the discount window in case of emergency, through stress tests and simulations; at the same time, proposals have also been made on how to reduce the stigma associated with use of the discount window (Barr 2023b; Hsu 2024). 
+
+## **III.2 Preserving Banks’ Franchise Value and Ensuring the Stability of the Deposit Base in Crisis: The Role of Resolution** 
+
+As also shown by the SVB crisis, DGSs are not sufficient by themselves to ensure deposit stability. Consequently, in addition to market discipline, policymakers have established other public safeguards, such as prudential regulation—imposing solvency and liquidity requirements, supervision, and, for what especially concerns us in this paper, resolution regimes. In this section, we focus on how resolution can contribute to deposit stability, ultimately the main macro objective of DGSs, as this occurs through a variety of channels. 
+
+First, an important contribution to deposit stability is provided by the main resolution requirement, namely the obligation of banks to maintain a minimum amount of total lossabsorbing capacity (TLAC) in the form of long-term subordinated debt, which is expected to absorb losses in resolution (FSB 2015). In other words, the presence of TLAC constitutes an additional layer of security for uncovered depositors, curbing their incentives to run, as there is a cushion of non-runnable liabilities expected to face losses before them and that can contribute to the recapitalization of the failing entity (Ringe 2017). This is an element that has been widely raised in the context of the SVB failure, as the bank was not mandated to meet such a requirement under the US framework (Cecchetti, Schenholtz, et al. 2023; Dewatripont, Praet, and Sapir 2023; Gruenberg 2023; Restoy 2023). In particular, the obligation to maintain such a layer of debt could have restrained uninsured depositors from running (or at least, in the form and at the speed the run took place in SVB), if SVB had sufficient capital and TLAC to absorb its losses. From the FDIC’s point of view, a TLAC layer could have significantly reduced the cost to the Deposit Insurance Fund of bailing out uninsured depositors. The recent FDIC proposal to require large banks with total assets of USD 100 billion or more to maintain a layer of long-term debt must be read along this line (FDIC 2023b). In the EU, there is already in place a subordination requirement for banks with total assets exceeding EUR 100 billion, consolidated at the level of the resolution group (so-called top-tier banks)— and this besides the specific requirements for G-SIBs. 
+
+Second, an effective resolution framework strengthens market discipline, which decreases moral hazard and represents a safeguard against excessive risk-taking. On the one hand, banks’ management cannot count on a public bailout to escape accountability, and on the other hand, subordinated debtholders—exposed to the bail-in risk—are expected to effectively monitor the bank’s activities. In the EU, empirical analysis shows that minimum requirements for own funds and eligible liabilities (MREL) debtholders tend to monitor banks, while the adoption of the resolution framework has reduced bailout expectations (Cutura 2021).[33] 
+
+> 33 Some commentators have however criticized the capacity of MREL debtholders to exert market discipline, arguing that the complexity of the resolution framework would prevent debtholders from exercising their monitoring role (Martino 2020). 
+
+
+Third, and most importantly, a successful resolution regime can further contribute to the overall stability of the deposit base by allowing the orderly exit of failing banks, in a procedure that preserves the franchise value of the failing institution, which in turn increases depositors’ confidence in the banking system. For example, resolution authorities can quickly recapitalize a bank through the bail-in when problems become pressing, regaining the confidence of depositors before run risks materialize.[34] However, the most powerful resolution tool to protect the franchise value is arguably represented by the sale of business, that is the possibility that the resolution authority will sell the entire deposit base (including uncovered deposits) of the failing bank to a competitor. For example, the FDIC in the US has a long tradition of transferring all deposits (including uncovered) if this meets the least-cost test, namely if the financial contributions provided by the DIF to the transfer are less expensive than a deposit-by-deposit payout in liquidation. In exceptional cases, in order to safeguard financial stability and avoid contagion, even if the transfer of uncovered deposits fails to meet the least-cost test, US authorities can still transfer the entire deposit base using the so-called systemic risk exception (Labont 2023).[35] As a result, uncovered deposits have rarely suffered losses in the US; since 1992, only 20% of the failures involved losses for noncovered depositors, with an average loss of 28% (FDIC 2023d). Although it could be argued that the treatment of uncovered depositors in US has a bailout component, it is undeniable that it has positive effects for deposit stability (Beck, Iannidou, et al. 2024).[36] A timely transfer of the entire deposit base preserves the franchise value of the failing bank, avoids piecemeal liquidation, and curbs the run incentives of both covered and uncovered depositors. For example, the 2023 decision of US authorities to activate the systemic risk exception for SVB and Signature Bank stopped the panic among uncovered depositors in regional banks, which were prone to move their accounts to larger institutions, especially G-SIBs, which were deemed to be safer. 
+
+In conclusion, the resolution framework and the DGSs reinforce each other in their mutual objective of preserving deposit and financial stability. The resolution framework preserves business continuity and critical functions, avoiding the piecemeal liquidation and loss of franchise value of the bank at the point of exit. In turn, DGSs contribute to the stickiness of covered deposits, while also providing funding in resolution under certain conditions (compliance with the “least-cost test”). 
+
+34 For example, EU resolution authorities can apply the write-down and conversion (WDC) of capital instruments outside resolution to preventatively recapitalize the bank. However, the bail-in tool can act as stabilizer only if resolution authorities act pro-actively, addressing not only the capital shortages of the bank through the bail-in but also the root causes of the crisis (mismanagement, failing business model, etc.). This will likely require the use of other measures in combination with the bail-in (for example, the replacement of the bank’s management). 
+
+> 35 The systemic risk exception allows authorities to forego the least-cost test to address systemic risks. It is determined by the Treasury secretary, in consultation with the US president, upon the written recommendation of at least two-thirds of the FDIC’s and the Fed’s boards. Any loss incurred by the DIF must be repaid by the banking sector through special fees or assessments. The exception has been determined only seven times, five during the GFC and two in 2023. 
+
+36 Although it has been argued that in the US there would be a de facto 100% deposit insurance coverage, a recent analysis suggests that insured and uninsured deposits are still treated differently by depositors, implying that the current US framework—where the protection of uncovered deposits is provided only on a case-by-case, exceptional basis—still exerts some market discipline (Beck, Iannidou, et al. 2024). 
+
+
+## **III.3 Preserving Banks’ Franchise Value and Ensuring the Stability of the Deposit base in crisis: The European Framework** 
+
+In the European Union, deposit insurance is provided at the national level, according to the provisions of the DGS Directive (DGSD), which ensures a certain level of harmonization.[37] To understand the effectiveness of national DGSs to preserve deposit stability during a crisis, the first element to consider is the adequacy of the current coverage level. In accordance with Article 6 of the DGSD, member states must “ensure that the coverage level for the aggregate deposits of each depositor is EUR 100,000.”[38] The coverage level in the EU is therefore lower than in the US, where deposits are currently covered up to USD 250,000.[39] 
+
+A recent report by the European Banking Authority offers a preliminary analysis of the adequacy of the EU coverage level (EBA 2023). In particular, the European Commission asked the EBA to provide an analysis, among others, of the current deposit coverage level—also in light of the events that took place in the United States and in Switzerland— considering scenarios (and the associated costs and benefits analysis) where the current coverage level would be increased to EUR 150,000 or EUR 250,000 for natural persons and up to EUR 1 million for eligible legal persons (in other words, corporates). 
+
+The EBA analysis shows that increasing the current coverage level would bring limited added value in terms of protection, yet significant costs for DGSs: 
+
+The coverage level of EUR 100,000 continues to be well above the amount an average depositor holds, despite inflation over said period. The analysis shows that a potential increase of the coverage level would have no impact on the vast majority of depositors, as they are already fully covered anyway. [. . .] any of the assessed potential increases in coverage, while being costly, would have positive but limited impact on financial stability and consumer protection, and a somewhat negative impact on moral hazard (EBA 2023, 5). 
+
+Namely, the EBA points out that: 
+
+The data collected shows that currently across the EEA countries, 96% of depositors are fully covered, meaning that, in case of bank failure, they would be paid back the full amount of their respective deposit. The 4% of depositors that are not fully covered are mostly companies, and, despite being few in number, they hold more than half of deposits held in the EEA. (EBA 2023, 5)[40] 
+
+A recent European Central Bank (ECB) analysis focuses on the adequacy of run-off rates and, more generally, on the assumptions underpinning the LCR framework. It is observed that “the March turmoil has not resulted in significantly higher outflow rates for 
+
+> 37 Directive 2014/49/EU (DGSD 2014). 
+
+> 38 In the analysis, we assume that Article 6 is consistently implemented across the EU. However, it is worth emphasizing that the EBA has published a number of opinions highlighting how the high number of national options and discretions have led to different levels of protection across member states (EC 2023b). 
+
+> 39 The EU coverage level is also lower than in Australia and Norway, while Switzerland and the UK offer similar coverage limits (Beck, Iannidou, et al. 2024). 
+
+> 40 Similar messages and figures—encompassing a global span—are reported in Van Roosebeke, Defina, and Wahyuni (2023) and Hüpkes (2024). 
+
+
+institutions covered by ECB banking supervision” and that “following the events of March, contagion fears remained short- lived amid solid euro area bank fundamentals. Significant institutions in the euro area did not experience considerably higher net outflow rates since March 2023” (Wildmann et al. 2023, 2–3). These observations are in line with the fact that, in Europe, SVB-like business models (extreme concentration of uncovered deposits all raised from the same industry sector) have not been recorded. 
+
+Overall, the analysis mentioned seems to point, at least at the EU level, toward the nonnecessity to call for an increase of current DGS coverage levels for natural persons’ deposit accounts. By contrast, for corporate deposit accounts, the EBA analysis appears less clear-cut in its conclusion, as it permits only to observe that enhancing their protection by increasing their coverage level to EUR 1 million would have limited impacts. Even at this coverage level, on average, there would still be less than half of eligible deposits fully covered, so run risk would not be fully addressed. On the one hand, EU banks are exposed to the risk of runs originating from a low number of depositors, holding large and uncovered balances. On the other hand, it seems very difficult to meaningfully cover such deposits without substantially increasing moral hazard.[41] 
+
+On the whole, from a financial stability perspective, it seems that, at the international level (including the European level), a better understanding of banks’ deposit structure would be useful to monitor and assess system-wide vulnerabilities and bank-level liquidity risks. Sometimes, authorities have more information on banks’ assets than on banks’ deposits. A first step to address risks originating from banks more sensitive to runs (that is, where the ratio of uninsured depositors may lead to imbalances) could thus be to subject such entities to closer and more intrusive supervisory monitoring. A second step could be to assess deposit maturities, the type and concentration of deposits, eventually imposing concentration limits on uncovered deposits, similarly to the large exposure regime already applied on the banks’ asset side (Beck, Iannidou, et al. 2024).[42] 
+
+An important issue is represented, in Europe, by the low possibility of EU DGSs to support the continuity of the deposit franchise in resolution (and also in measures alternative to piecemeal liquidation). As we have seen in the previous paragraph, in addition to their classic paybox function in liquidation, DGSs can also have a funding role in resolution, acting as loss absorbers and risk minimizers (Gortsos 2016; Gortsos 2019). Although national DGSs can intervene in resolution under Article 109 of the Bank Recovery and Resolution Directive (BRRD), such intervention is currently constrained by the EU legal framework—particularly by the “super priority” enjoyed by the DGSs in the creditors’ hierarchy.[43] Thanks to the super priority, DGSs subrogated to covered depositors after the exercise of the paybox function are the first in line to recover losses in a liquidation procedure. As a consequence, their intervention in financing the resolution procedure (for example, facilitating a transfer strategy) is unlikely to meet the least-cost test, according to which the cost of resolution for the DGS should not be greater than the cost incurred in case of liquidation. This limitation may be particularly problematic for 
+
+> 41 See the reservations we express in relation to the proposal to extend the DGS to all deposits in Section III.1. 
+
+> 42 A concentration limit would intervene on excessive shares of uninsured deposits or an excessive share of deposits among the 10 largest providers of short-term funding. 
+
+> 43 Directive 2014/59/EU (BRRD 2014). 
+
+
+medium-sized banks, which are unlikely to meet the requirement to access the SRF — which requires the bail-in of at least 8% of total outstanding liabilities—without a haircut on uncovered deposits.[44] In other words, this class of banks may not have any funding tool available to timely transfer the deposit base of the failing banks—including uncovered deposits—in the context of resolution. 
+
+To address this challenge, the European Commission has recently tabled a legislative proposal—the crisis management and deposit insurance review. The proposal increases the options and tools available to supervisory and resolution authorities for the management of a banking crisis and provides a pragmatic and efficient solution for the problem of midsized banks. The proposal would, inter alia, establish a general depositor preference rule to replace the current super priority of covered deposits, allowing national DGSs to act as financing bridge, after MREL resources have been depleted, to allow medium-size banks earmarked for resolution to reach the minimum bail-in requirement (8%) to access the SRF, where needed.[45] The CMDI review would facilitate the transfer of uncovered deposits in resolution, similarly to the FDIC approach, thus contributing to the stability of the deposit base and the franchise value of the bank. The estimations published by the SRB (Biraschi et al. 2023) show that the impact on industry funds would be limited because MREL would be the first line of defense for the banks earmarked for resolution and because of the relatively small size of the banks in question. Any compromise the co-legislators will find on the core elements of the proposal—for example, around the creditor hierarchy and the depositor preference—has to take into consideration that sufficient funding has to be unlocked for resolution and alternative measures. 
+
+However, the approval of the CMDI in a version that would keep the spirit of the EC’s proposal would still fall short of completing the Banking Union, and the EU crisis management framework would still differ from the US model, where there is just one single deposit guarantee fund with fully mutualized resources. Indeed, the capacity of the DGS to act as financing bridge would depend on the financial power of each national DGS; therefore, it could alter the level playing field among depositors of different EU countries. For this reason, it is crucial to establish the third pillar of the Banking Union, a European deposit insurance scheme (EDIS). It would allow better risk-sharing, promote banking market integration, and further enhance the credibility of resolution. In April 2024, the Committee on Economic and Monetary Affairs of the European Parliament (EP) adopted a position on the commission’s EDIS proposal, a so-called hybrid model, as it envisages mandatory support among DGSs only for liquidity purposes. This hybrid model could be followed at a later stage by the introduction of loss-sharing provisions.[46] 
+
+> 44 Small and medium-size banks mostly meet MREL with own-fund instruments, as they don’t tend to issue large amounts of senior unsecured or subordinated debt. They therefore lack a layer of debt to be bailed in before uncovered depositors to reach the 8% rule required to access the SRF (Restoy 2018). 
+
+> 45 In Europe, MREL is set by resolution authorities to ensure that a bank maintains at all times sufficient long-term instruments to facilitate the implementation of the preferred resolution strategy. 
+
+> 46 According to the ECB, the EU legal framework should also introduce a US-style “systemic risk exception,” as recommended by the IMF in 2018 on the occasion of the Euro-area FSAP. The exception would allow EU authorities to waive the conditions to use the SRF in emergency cases in which financial stability may be at risk (ECB 2023). 
+
+
+## **IV. Optionality and Flexibility in the Use of Resolution Tools** 
+
+## **IV.1 Bail-in and Transfer Strategies: An Overview in Light of Recent Resolution Cases** 
+
+In Europe, resolution planning for large banks has mainly focused on the open-bank bailin (OBBI) approach, according to which capital instruments and long-term debt are expected to be written down and converted to recapitalize the failing bank.[47] OBBI is the preferred resolution strategy for the majority of SRB banks in the Banking Union (82%) but also for the largest banks in the United Kingdom (UK) and Switzerland (BoE 2022; FINMA 2023a; SRB 2022).[48] OBBI was preferred because it offered the greatest degree of autonomy: contrary to transfer tools, the bail-in can be implemented without the need for a third party (a willing buyer of the failed entity or, eventually, a bridge bank). Until now, however, the bail-in tool has played a limited role in recent European banking crises. In the Banking Union, in 2017, Banco Popular was resolved by selling it to Banco Santander, following the write-down and conversion of capital instruments (SRB 2017).[49] In 2022, when Sberbank faced a confidence crisis triggered by geopolitical sanctions, the main operating company in Austria was wound up, while the subsidiaries in Croatia and Slovenia were put into resolution and sold to local competitors (SRB 2023b). Outside the Banking Union, Swiss authorities favored a sale of Credit Suisse to UBS outside a formal resolution procedure, after the write-down of AT1 instruments and a severe dilution of shareholders. In the UK, the local subsidiary of SVB, whose resolution strategy was originally liquidation under national insolvency procedure, was instead turned into resolution and transferred to HSBC (BoE 2023a). In all these cases, the sale of business tool was preferred to the bail-in tool. The write-down and conversion of capital instruments was applied to support the transfer of the failing entity, rather than to recapitalize and return the bank to the market on a stand-alone basis as expected under the OBBI only approach.[50] 
+
+47 We can distinguish two different approaches to the bail-in tool: the “open bank” and the “closed bank” bail-in (FSB 2023a). The economic effect of the two approaches is the same, namely loss absorption and bank recapitalization using internal resources (equity and debt), while the implementation approach varies. In an open bank bail-in, the failed bank is recapitalized and returned to the market through the direct write-down and conversion of equity and debt instruments. In a closed-bank bail in, the majority of assets and some of the liabilities of the firm in resolution are transferred to a successor entity (for example, a bridge institution), while shareholders’ equity and total loss-absorbing capital liabilities are left behind in the failed entity to absorb losses. In this case, shareholders and creditors are not formally written down and/or converted, but they are simply left behind in the old entity (with the expectation of recovering whatever is the value of the assets left behind in liquidation). The open approach is common in Europe and the UK, while the closed approach is used by the FDIC in the US. 
+
+48 In Switzerland, FINMA’s strategy for both Credit Suisse and UBS was the OBBI. In the UK, all eight largest firms are earmarked for bail-in (six under a single point of entry [SPE] strategy and two under a multiple point of entry [MPE] strategy). 
+
+49 In particular, all common equity Tier 1 (CET1) and additional Tier 1 (AT1) instruments were written down, while the Tier 2 instruments were converted into new shares, which were transferred to Banco Santander for the price of EUR 1. 
+
+50 Other resolution cases in Europe seem to confirm this trend. For instance, in 2021, the Polish resolution authority used a combination of bridge bank and bail-in to resolve a regional cooperative bank (Podkarpacki Bank Spółdzielczy). Danish authorities used the same formula to address the crisis of two cooperative banks (Københavns Andelskasse in 2018 and Andelskassen J.A.K. Slagelse in 2015). Finally, in 
+
+
+In light of the recent crisis cases, the FSB report on the 2023 bank failures recommended to use optionality and flexibility in the choice of resolution tools (FSB 2023a). In practice, the FSB report recommends resolution authorities put more emphasis on the operationalization of transfer tools, either alone or in combination with the bail-in, in case OBBI cannot be credibly implemented at the point of resolution. But although flexibility and optionality are good guiding principles, their implementation requires a certain level of preparation. Resolution planning involves intense efforts, while the resources of both resolution authorities and the banking sector are scarce. There are therefore limits to the capacity of resolution authorities to prepare in advance for multiple tools, or the extent to which they can be combined. For example, the FSB clarifies that enhanced flexibility should not come at the expense of the operationalization of the preferred resolution strategy. The question that we try to address is therefore to what extent flexibility and optionality can be embedded in resolution planning without putting efficiency at risk. This question will be tackled having regard to the architecture of the EU resolution framework. In the following paragraphs, we first outline two examples of resolution approaches—in the US and Denmark—based on a certain degree of flexibility in the choice of bail-in and transfer tools. Second, we provide some preliminary reflections on flexibility and optionality in the context of the Banking Union. 
+
+## **IV.2 Flexibility in the Use of Transfer and Bail-in Tools: The Examples of the United States (FDIC) and Denmark (DFSA/FSC)** 
+
+## _**IV.2.a The FDIC Approach to Resolution: Bail-in Combined with Sale of Business or Bridge Bank**_ 
+
+The FDIC is responsible for the resolution of all insured depository institutions (IDIs) under the Federal Deposit Insurance Act (FDI Act), as well as the resolution of financial holding companies under the Dodd-Frank Wall Street Reform and Consumer Protection Act (DFA).[51] Although the two resolution procedures are backed by different frameworks and different sources of funding, the approach undertaken by the FDIC to bank failures is broadly similar. 
+
+Since the GFC, the FDIC approach has been predominantly based on transfer strategies, on the assumption that the best resolution outcome is to sell the assets of the failing bank to the private sector as soon as possible, either during resolution or shortly afterwards (FDIC 2023d; Shibut and De Verges 2021).[52] This strategy was shaped by the lessons learned from the 1980–1994 crisis in the US, and further reinforced by the successful use of purchase and assumption transactions during the GFC (FDIC 2023d).[53] Liabilities and 
+
+Croatia, a local bank (Jaadranska Banka d.d. Sibenik) was resolved through a combination of sale of business, bail-in, and the asset separation tool (Benahmed and Houarner 2023). 
+
+> 51 Dodd-Frank established a special resolution framework for financial holding companies, which is activated only in case it is necessary from a financial stability viewpoint through a “three-keys process” requiring the explicit recommendation of two regulatory authorities and the final approval by the secretary of the Treasury (in consultation with the US president). Without the approval, such companies have to be liquidated under bankruptcy proceedings. 
+
+> 52 The FDIC’s preference for P&A transactions can be explained by the following reasons: (1) to avoid asset overhangs and increase price transparency; (2) to reduce receivership expenses; (3) to shield the FDIC from political pressure deriving from managing large pools of assets; and (4) to save FDIC’s cash. 
+
+> 53 Between 2008 and 2013, the FDIC closed 489 banks holding USD 686 billion in assets, with a resolution cost for the DIF of approximately USD 72.5 billion. 
+
+
+assets of the failed entity are transferred to a third party or a bridge bank, which can be sold at a later stage through a deferred P&A transaction.[54] 
+
+The P&A transaction can be facilitated by loss-sharing arrangements financed by the DIF (FDIC 2017).[55] While the FDIC is constrained by the least-cost test, which may lead to a haircut to unsecured depositors, the latter can be waived under the systemic risk exception in case it is needed to address a serious risk to US financial stability (Labont 2023). For example, the exception can be used to avoid losses to uncovered depositors, as occurred for the resolution of SVB and Signature Bank. The cost of the P&A for the DIF is reduced by the economic bail-in of uninsured and subordinated liabilities (such as TLAC debt) and shareholders’ equity, which are not transferred but left behind in the old entity (the receivership), turning them into claimants against the receivership estate. 
+
+Although the FDIC has applied transfer tools to relatively large banks, P&A transactions remain untested in relation to G-SIBs (FDIC 2023d).[56] According to Title II of the DFA, when launching a resolution of a US G-SIB using a single point of entry (SPE) strategy, the parent bank holding company (BHC) is placed into receivership and its subsidiaries, assets, and certain liabilities are transferred to a bridge financial company. Most liabilities, especially those due to shareholders and unsecured creditors, are left behind in the receivership and absorb the costs of the resolution. The FDIC could also use the Orderly Liquidation Fund (OLF) to provide a backstop source of liquidity to the bridge financial company, where needed. The shareholders and creditors of the receivership would be allowed to exchange their claims on the receivership for securities of the new BHC, in accordance with the statutory creditor hierarchy (security for claims exchange). Consistent with the statutory obligations and the Title II creditor hierarchy, all losses would be borne by the private sector. The FDIC would also oversee the repayment of any OLF support, the termination of the bridge financial company, and the closing of the receivership (FDIC 2024). This outcome is very similar to the OBBI approach, as the failing G-SIB is de facto not transferred to a competitor but rather returned to the market following the bail-in (albeit under a new legal entity). 
+
+From this cursory summary, we can see that the FDIC adopts a “toolbox” approach, whereby multiple tools are operationalized in advance and potentially used in combination. Transfer strategies (P&A transactions and a bridge financial company) are in principle preferred to ensure business continuity and deliver market-friendly solutions. However, the bail-in tool facilitates the transfer of the failing bank, as shareholders and long-term creditors are excluded from the transfer and left behind in the receivership (so called closed-bank bail-in). 
+
+> 54 Section 210(b)(4), (d)(4), and (h)(5)(E) of the DFA. When deciding which liabilities to transfer, the FDIC must treat similar creditors equitably, albeit with limited exceptions. 
+
+> 55 During the period 2008–2013, the FDIC used loss-sharing agreements to facilitate 304 of 489 bank transfers. 
+
+> 56 The four largest FDIC resolution cases are the following: Washington Mutual, SVB, Signature Bank, and First Republic. Washington Mutual failed in September 2008 and, with USD 307 billion of assets, was at the time the sixth-largest FDIC-insured institution and the largest banking failure in FDIC history. During the 2023 banking turmoil, the FDIC closed SVB (USD 212 billion of assets), Signature Bank (USD 110.4 billion), and First Republic (USD 232 billion). P&A transactions were used in all cases. 
+
+
+## _**IV.2.b The Danish Approach to the Resolution of Small and Medium-size Banks: Partial Bail-in Combined with a Bridge Bank**_ 
+
+In Denmark, Danish resolution authorities—the Danish Financial Supervisory Authority (DFSA) and the Financial Stability Company (FSC)[57] —have earmarked all banks, including SMEs, for resolution rather than piecemeal liquidation to ensure the efficiency and continuity of payments during a crisis, as the Danish payment system is based largely on electronic deposits (EC 2023c).[58] They have also developed a special wind-up scheme for small and medium-sized banks with a balance sheet below the equivalent of EUR 3 billion, which was used for the first time in 2011 to resolve Amagerbanken (Andersen and Hovedskov 2021).[59] 
+
+Following the DFSA declaration of failing or likely to fail (FOLTF), shareholders and creditors are written down through the bail-in tool only to the extent necessary to absorb the losses faced by the failing entity but without providing new equity (recapitalization amount). While covered depositors are fully protected, uncovered depositors are potentially exposed to losses, as they are not expected to be discretionarily excluded from the bail-in.[60] The bank (which, following the bail-in, has a clean balance sheet but no capital) is thereafter recapitalized by a bridge bank—a holding company managed by the FSC—using the resources of the Danish Resolution Fund. The use of the holding company allows the failing bank to be recapitalized and to continue its operations, without the need to transfer assets and liabilities to another entity. 
+
+The intervention of the fund to recapitalize the bank has been approved by the European Commission (Directorate-General for Competition) under the EU State Aid framework (EC 2023c).[61] Furthermore, the Danish Resolution Fund can recapitalize the bank even if the contribution to losses of shareholders and creditors has not reached 8% of the total liabilities including own funds (TLOF), as required in principle by Article 44(5) of the BRRD.[62] The so-called 8% rule applies only when the Resolution Fund is expected to suffer losses, while under the scheme, the Danish fund would reasonably recover all 
+
+57 The DFSA constitutes both the supervisor and resolution authority, being also responsible for MREL determination and the removal of substantial impediments to resolvability. The FSC drafts resolution plans (approved by the DFSA) and applies resolution tools when a bank enters resolution. 
+
+58 At end-2022, the Danish banking sector was composed of 65 credit institutions, 46 of which were small and medium-sized entities. 
+
+59 The wind-up scheme predates the adoption of the Bank Recovery and Resolution Directive (BRRD). 
+
+58 Concerning unsecured depositors, “Senior Unsecured creditors and deposits above the limits for the DGS are exposed in this model. With an orderly wind-down under the control of Finansiel Stabilitet, a substantial bail-in of senior unsecured creditors and deposits above the DGS has to be expected” (DFSA 2023). 
+
+61 The intervention of the fund was authorized on the basis of Art. 107(3)(b) of the Treaty on the Functioning of the European Union on the following elements: (a) the scheme was implemented several times successfully; (b) it would ensure the least possible adverse effect on financial stability; and (c) it would allow the orderly exit from the market of small banks. Each approval lasts for six months, but it is renewed on a rolling basis. 
+
+62 The same rule applies for the use of the SRF (Regulation 806/2014 [SRMR 2014], art. 27[7][a]). BRRD, art. 101(1)(d) allows the use of the Resolution Fund in resolution for the purpose of making contributions to a bridge bank. Art. 101(2) specifies that the principles governing the fund’s intervention in resolution under BRRD, art. 44 (including the 8% rule) need to be complied with when the Resolution Fund is expected to incur losses. A contrario, the 8% rule is not applicable when the resolution authority can demonstrate that the fund is not expected to bear losses following its intervention. See also SRMR, art. 78(1)(d) and (3). 
+
+
+expenses through the sale of the entity or, in the absence of a private purchaser, the liquidation proceeds.[63] 
+
+The Danish wind-up scheme ensures continuity of functions (including access to deposits) through the recapitalization of the bank through a holding company (bridge bank), while the partial bail-in minimizes costs for the Danish Resolution Fund and reduces moral hazard.[64] The potential bail-in of uncovered depositors—in case needed to withstand losses—may in principle lead to contagion, although the Danish authorities are fairly confident that unsecured depositors are aware of the risk of losses. Finally, there is a risk that a purchaser for the failing bank may not be found, leading to an expensive piecemeal liquidation. This occurred, for example, with the sale of Andelskassen in 2016, when an interested bidder failed to obtain the approval of the supervisory authority. Andelskassen was eventually liquidated, while depositors were required to move their deposits to another institution before the closure (Andersen, Lintner, and Schroeder 2016).[65] 
+
+## **IV.3 Optionality and Flexibility of Resolution Tools in the Context of the Banking Union: Initial Reflections** 
+
+Following the FSB report, policymakers in the Banking Union have also highlighted the importance of flexibility. The SRB is working to achieve “flexibility in the choice of which resolution tool to use, depending on the situation, working on back-up options” (Laboureix 2023; SRB 2023a). Similarly, ECB Banking Supervision has stressed the importance of optionality in resolution, intended as the capacity “to choose the most appropriate tool for the situation at hand amongst a range of tools and be able to effectively make use of that tool” (Tuominen 2024).[66] 
+
+It is worth discussing the principles of optionality and flexibility from the following perspectives: (a) legal feasibility under the EU legal framework, namely Directive 2014/59/EU (BRRD) and Regulation 806/2014 (SRMR); and (b) the choice between bailin and transfer tools. 
+
+## _**IV.3.a Legal Feasibility under the EU Legal Framework (BRRD/SRMR)**_ 
+
+The EU legal framework encourages optionality and flexibility in the choice of resolution tools, albeit with some important caveats.[67] Resolution plans should foresee different 
+
+> 63 In addition, the write-down of creditors beyond losses is not needed, as the bail-in aims only at addressing losses, without recapitalization. Hence, creditors are not expected to be converted into shareholders and provide a new ownership to the bank, as occurs under the OBBI. 
+
+> 64 The application of the bail-in under the Danish wind-up scheme is also facilitated by the imposition of MREL to all banks, including small entities with a balance sheet below EUR 3 billion. 
+
+> 65 The Resolution Fund was nevertheless able to recover losses through the liquidation proceeds. 
+
+> 66 It is noted that Tuominen, when speaking about optionality, also includes the capacity to timely use funding tools such as the precautionary recapitalization tool (BRRD, art. 32[4] — SRMR, art.18[4][d]) and the use of DGS funds in resolution (BRRD, art. 109 — SRMR art.79), when the relevant statutory conditions are met. 
+
+> 67 The content of resolution plans is governed by the SRMR/BRRD framework, as well as by Delegated Regulation (EU) 2016/1075 (DR 2016/1075), which provides regulatory technical standards specifying, inter alia, the content of resolution plans. 
+
+
+crisis scenarios and follow different timelines.[68] For example, plans need to consider “relevant scenarios according to which the failure of the entity is idiosyncratic or occurs at a time of broader financial instability,” or the circumstances in which “the bail-in tool could no longer be feasible if losses exceed the eligible liabilities issued by the parent entity.”[69] This scenario-analysis exercise is expected to identify a preferred resolution strategy (PRS)—the default strategy—but also one or more variant resolution strategies (VRSs) to address situations in which the preferred resolution strategy could not be successfully implemented.[70] Each strategy needs to specify the resolution tools that would be applied, either alone or in any combination.[71] Resolution authorities are thus expected to plan for multiple crisis scenarios and retain flexibility in their resolution approach, either by preparing fallback options (variant resolution strategies) or combining different tools together (within the same resolution strategy). In addition, resolution authorities can always deviate from the resolution plan at the time of resolution, applying different tools than the ones identified during the planning phase.[72] 
+
+The legal framework also sets out certain limitations to the flexibility that can be embedded in resolution planning, to ensure that optionality does not come at the expense of the operationalization of the PRS. First, the choice of strategies and tools must be primarily driven by their capacity to achieve the resolution objectives under Article 14 of the SRMR and Article 31 of the BRRD; for example, a strategy cannot be included in the plan if it is not expected to preserve critical functions and financial stability.[73] Second, resolution plans need to be credible and feasible, with the consequence that resolution authorities should assess whether a potential strategy can be realistically operationalized in a very short time frame, including during the resolution weekend.[74] 
+
+## _**IV.3.b The Choice between Bail-in and Transfer tools**_ 
+
+The cases of Banco Popular and Credit Suisse (although the Credit Suisse rescue was executed outside resolution) showed that transfer strategies can be effective in addressing a liquidity crisis driven by a loss of confidence. At least initially, Banco Popular and Credit Suisse were balance sheet solvent, complying with applicable capital 
+
+68 SRMR, art. 8(9)(j) and BRRD, art. 10(7)(j). 
+
+69 SRMR, art. 10(3), BRRD, art. 8(6), DR 2016/1075, recital 22. 
+
+70 The legislative framework establishes a clear prevalence of PRS over VRSs. For example, the MREL target is calibrated exclusively on the basis of the PRS (SRMR, art. 12d). Resolution authorities can remove impediments to resolvability affecting the implementation of the VRS only if this is not detrimental to the PRS (DR 2016/1075, art. 25[5]). 
+
+71 SRMR, art. 22(4), BRRD, art. 37(4). 
+
+72 SRMR, arts. 23 (third subparagraph) 87(j) and BRRD, art. 91(6)(b). In resolution, the SRB should follow the resolution plan, unless the circumstances of the case show that the resolution objectives are more effectively achieved by taking actions not foreseen in the plan. 
+
+73 The resolution objectives under SRMR, art. 14 and BRRD, art. 31 BRRD must all be pursued as extensively as possible, both in resolution planning and execution. They are the following: (a) to ensure the continuity of critical functions; (b) to avoid significant adverse effects on financial stability, in particular by preventing contagion, including to market infrastructures, and by maintaining market discipline; (c) to protect public funds by minimizing reliance on extraordinary public financial support; (d) to protect depositors covered by Directive 2014/49/EU and investors covered by Directive 97/9/EC; and (e) to protect client funds and client assets. 
+
+74 SRMR, art. 10(3) and (4), BRRD, arts. 15(1) and 16(1). 
+
+
+requirements and displaying limited need for bail-in recapitalization.[75] The challenge was how to stop the run of depositors and investors. In both cases, the merger with a more reputable competitor eliminated the loss of franchise, restoring market confidence and preventing financial instability. 
+
+The sale of business tool—especially through a share deal—offers a swift solution to a banking crisis. From an operational viewpoint, the transfer can be executed without complying with any procedural requirement under company or securities law, other than the marketing procedure established under Article 39 of the BRRD. This simplified procedure alleviates the execution risks to which the resolution authority may be exposed in case of bail-in.[76] It also constitutes a market-friendly solution, because the purchaser, rather than the resolution authority, will be responsible for the restructuring and reorganization phase. 
+
+However, the sale of business also entails its own set of challenges. Most importantly, it requires a willing buyer, as the resolution authority cannot impose the purchase of a failing bank to a competitor.[77] Unfortunately, it is not possible to know in advance whether a buyer will be available; on the contrary, this possibility becomes increasing difficult as the size of the bank increases (FSB 2023b).[78] The transfer can also have negative effects on competition: mergers in resolution involving a larger player buying another big local competitor may exacerbate the TBTF challenge. For example, the merger of Credit Suisse with UBS increased the TBTF problem in Switzerland, and a similar solution would not be available should the new entity fail, as UBS has now become the only remaining G-SIB established in Switzerland. Competition concerns could be partially alleviated by cross-border mergers with banks located abroad, although there can be regulatory and political frictions. 
+
+For all these reasons, transfer strategies are not superior to OBBI, as their choice provides for different trade-offs. In the case of larger banks, for which a potential buyer with the necessary economic capacity and business interest may not be found, OBBI remains the best candidate as PRS. On the one hand, OBBI can be executed even in the absence of a prospective buyer, providing the highest degree of certainty to resolution authorities concerning their capacity to apply the PRS to a systemically important institution. On the other hand, the fact that the failing bank returns to the market post-resolution preserves competition and avoids excessive market concentration. A transfer strategy—either sale of business or bridge bank tool—can be envisaged as a VRS, in case the bail-in cannot be successfully implemented. Conversely, smaller banks have a larger pool of potential purchasers, and their transfer during resolution constitutes a more credible option. They 
+
+> 75 “As of end-2022, Credit Suisse reported total shareholder equity of CHF 45.3 billion, a CET1 ratio of 14.1%, a Tier 1 leverage ratio of 7.7% and outstanding AT1 bonds amounting to CHF 16 billion” (Baudino et al. 2023, 21). 
+
+> 76 BRRD, arts. 38–39. The marketing procedure under BRRD, art. 39 can in any case be waived partially or completely by the resolution authority in case it would undermine financial stability or one or more resolution objectives. 
+
+> 77 BRRD, art. 38(1), which specifies that the transfer can take place without obtaining the consent of the shareholders of the institution under resolution or any third party other than the purchaser. 
+
+> 78 Looking at the list of G-SIBs (30 banks), it is clear that a failing G-SIB would have a limited subset of potential purchasers. For jurisdictions hosting only one G-SIB, the only possible transfer would be to a G- SIB located abroad. 
+
+
+are therefore more suited to have transfer strategies as PRS, with OBBI acting as a Plan B (VRS). 
+
+Finally, bail-in and transfer strategies are not only alternative solutions, but they can also be combined to achieve important synergies. We can imagine two scenarios: one in which transfer tools are used to facilitate OBBI and another in which the bail-in supports a transfer deal. In the first scenario, the sale of assets and liabilities to either a competitor, an asset management vehicle (AMV), or a bridge bank is expected to help the entity in resolution to regain the confidence of the market following the OBBI. For example, we can imagine the transfer of a number of subsidiaries abroad to allow the bank to focus on its core business at home, and/or the disposal of impaired assets through an AMV to clean up its balance sheet. In the second scenario, the bail-in of capital and debt instruments can be used to absorb losses and lower the outstanding liabilities that need to be transferred, reducing the cost of the transfer for the resolution authority.[79] The transfer of a failing bank occurs in an imperfect market, where the list of potential purchasers can be limited by the size and geographical location of the bank, the marketing timeline is extremely compressed, and the valuation of assets and liabilities is uncertain. Past cases in both the US and Europe show that healthy banks are often willing to rescue their failing competitors only in exchange for deflated prices, sterilizations from any increase in capital requirements, or loss-sharing agreements.[80] The bail-in of a bank’s liabilities can therefore minimize the cost of such “facilitations,” which would otherwise need to be paid by the resolution fund. 
+
+## **V. Liquidity in Resolution** 
+
+## **V.1 Liquidity Assistance in Crisis Scenario: An Overview in Light of the 2023 Banking Turmoil** 
+
+The topic of liquidity in resolution is complex. When a bank approaches FOLTF and is resolved, it is likely that it has exhausted any source of liquidity or of eligible collateral for central bank ordinary refinancing operations. The focus is therefore on any form of private collateral, which can be quickly mobilized, and on temporary public funding mechanisms (resolution funds by the resolution authorities and/or central bank and government funding). Here, there is a trade-off between ensuring an orderly and effective resolution process and avoiding moral hazard and any form of taxpayer financing (Dobler et al. 2016; FSB 2016; Tucker 2014).[81] 
+
+In this section, having in mind the events of March 2023, we make some policy considerations on the features of an effective liquidity framework in resolution. This also 
+
+> 79 “For instance, a bail-in of subordinated debt can help lower the outstanding liabilities in a transfer, thus reducing the amount of funding required to complete the transfer and increasing options for resolution” (Baudino et al. 2023, 4). 
+
+> 80 Recent research shows that the purchasers of failed banks tend to accrue substantial accounting gains: They were 2.9% (on average) for 10 acquisitions in Europe post-BRRD; 2.6% for the purchase of Signature Bank, Silicon Valley Bank, and First Republic Bank in 2023, and 5% for the purchase of Credit Suisse (Bertay and Huizinga 2023; Böni, Kroencke, and Vasvari 2023). 
+
+> 81 Of course, when liquidity needs are met by recourse to public sources, the first condition that should address any moral hazard concerns is the necessary temporary nature of the funding support. 
+
+
+gives us the opportunity to draw some implications for the design of an effective public sector liquidity backstop in the European Union. These considerations revolve around the following elements: 
+
+**Timing of liquidity provision (before; during, and after resolution):** An effective resolution action should aim at (a) reestablishing solvency by creation of an adequate capital layer and (b) enabling the entity to maintain access to liquidity (or to have sufficient collateral to obtain it) to refinance its liabilities as they fall due. Yet, while the reestablishment of an adequate level of capital would emerge out of a resolution proceeding, liquidity needs may still afflict the resolved entity since market volatility as well as lack of information and/or confidence may both restrain new parties from extending credit and prompt old creditors to run.[82] The problem is also further complicated by the fact that in some jurisdictions the resolved entity does not automatically regain access to monetary policy operations.[83] Such liquidity demand immediately after resolution has to be met, in order to avoid another bank crisis and further systemic impact.[84] 
+
+**Sources of funding:** Here, the conceptual divide is between private and public sources (the latter usually referred to as a public sector liquidity backstop).[85] 
+
+As regards the private sources of liquidity, they could be internal bank resources and a privately led banks consortium collectively agreeing to lend to, or deposit money in, the ailing bank, anticipating that it could be less costly for the industry to extend funds to such bank than to sustain the collective cost of its default.[86] 
+
+At the other end of the spectrum and bearing more relevance for the purpose of this paper, given the amounts at stake in case of crises of large and global banks, or alternatively of many small institutions experiencing simultaneously a liquidity stress,[87] lies the temporary public sector backstop. Despite the concept’s being rather loose, a 
+
+82 The potential difficulty of the market to effectively assess the renewed solvency position of a recapitalized firm after resolution, and, thus, reliably extend credit to it, is remarked by many authors. See Brescia Morra et al. (2022), Demertzis et al. (2018), AFME (2018), FSB (2018), and Dobler at al. (2016). 
+
+83 Depending on the resolution tool used and whether the legal entity emerging from resolution is different from the original one, the process for accessing monetary policy operations might take some time. 
+
+84 The problem is further complicated by the fact that liquidity needs may already arise in the run-up to resolution. For the need to differentiate at least three different moments in time (pre-, in, and immediately outside resolution) when analyzing funding gaps, provisioning, and sourcing of liquidity, see the approach taken by the SRB’s operational guidance for liquidity and funding in resolution—particularly, Paragraph 41 (SRB 2021). In the literature, see Brescia Morra et al. (2022) and Demertzis et al. (2018). 
+
+85 Drawing on the taxonomy adopted by the FSB in its guiding principles, the term “public sector liquidity backstop” covers the relevant public sector authority(s) and/or mechanism(s) in charge with providing temporary liquidity to a bank in resolution, including resolution funds, deposit insurance funds, resolution authorities, central banks, and/or finance ministers (SRB 2016). 
+
+86 Under this umbrella could fall the March 2023 move of 11 US banks of depositing USD 30 billion in First Republic Bank, in an effort to curb the panic the bank was object of, yet to no avail—as it is well known, First Republic eventually failed and was acquired, through a P&A deal, by JPMorgan (Benoit et al. 2023). 
+
+In any event, in the case of banking groups, the contingency plan shall fully address and operationalize internal liquidity transfers and collateral mobility (SRB 2021). 
+
+87 A 2022 SRB Staff Working Paper estimates the liquidity needs of a G-SIB in resolution as amounting to EUR 178 billion (Infelise, Lippi, and Vincent 2022). A similar conclusion—envisioning liquidity needs of EUR 184 billion—is reached in a 2020 ECB analysis (Amamou et al. 2020). 
+
+
+useful distinction to draw is between a mechanism pre-funded by the private sectors (for example, resolution funds or deposit insurance funds) and a temporary public funding backstop (in particular, the public budget and/or the central bank, the latter through ELA).[88] The distinction lies in the lending capacity of the liquidity provider, as the former, unlike the latter, usually provides for predetermined lending support. The lending capacity of the liquidity provider critically impacts the credibility and effectiveness of the backstop. 
+
+Against this backdrop, there are at least two different—but intertwined—topics raised when it comes to the role played by liquidity providers, namely: (a) the timing of their intervention; and (b) in case of different funding sources, the sequences in which they can be drawn on and, more generally, their interplay (some sources, for example, may play a role not as direct liquidity provider but by issuing guarantees to the bank). 
+
+So, ahead of resolution, firms’ funding needs are usually satisfied either by market sources (most likely conditional on the acquisition of a secured position on the firm’s assets) or by central bank lending facilities, provided that eligibility and conditionality requirements for accessing such facilities are met.[89] Given that central bank lending is usually made available at interest rates higher than ordinary market rates, market sources at this stage may be preferred. 
+
+In resolution, while it is commonly acknowledged that market sources of funding should have priority to reduce moral hazard, private markets may not realistically be available or willing to extend funds to the entity (FSB 2016; FSB 2018).[90] Thus, at this stage, although resolution funds are the natural source of funding, it is not inconceivable that other parties could participate and have a role too, either by providing additional liquidity support (typically, the central bank) or ad hoc guarantees for accessing such support (typically, the fiscal authority). Particularly for the case of the Banking Union, interactions among different authorities could play a critical role in ensuring the credibility of the liquidity commitment of the temporary public funding mechanism— credibility that ultimately hinges also on the size of such a commitment. 
+
+Immediately after resolution, and despite having reached balance sheet solvency and the required capitalization, the resolved entity could still have to deal with different forms of market failures barring it from accessing private markets. Thus, access to public sector backstops may be essential to restore market confidence in the resolved and recapitalized bank. Here, the considerations just presented still hold: Access to central bank liquidity facilities may be a solution, conditioned though on meeting central bank’s 
+
+> 88 There are exceptions to this classification. This is the case of the European Stability Mechanism common backstop (see Section V.2), which, despite belonging to the second category (that is, a public funding backstop based on the fiscal capacity of the member states), provides predetermined, and thus limited, lending support. 
+
+> 89 These requirements usually revolve around proper collateralization of the liquidity support extended and adequate solvency status of the receiver. 
+
+> 90 This hierarchical approach is also the stance taken by many jurisdictions. For a comparative analysis, see Grund, Nomm, and Walch (2020). 
+
+
+requirements for accessing such sources—but an entity coming out of a resolution procedure may still not be in a position to provide eligible collateral.[91] 
+
+**Conditions:** The third element to consider pertains to the terms and strings attached to the liquidity commitment—particularly when such commitment comes from a public sector backstop. Namely: 
+
+- _The size of the liquidity commitment:_ The alternative here is between, on the one hand, mechanisms capped by the size of the resources already available to the provider (typically, this is the case of pre-funded mechanisms), and, on the other, mechanisms where the maximum funding’s line capacity an institution could draw down is not known ex ante _._[92] 
+
+- _Collateral policy and solvency requirement:_ Both these elements aim at ensuring a full repayment of the amount lent by granting the creditor and liquidity provider a secured position through adequate collateral (and with conservative haircuts) and (in the vast majority of cases) by excluding the provision of the funding to accounting insolvent entities.[93] A firm facing a restructuring process through resolution may lack, also immediately out of the process, adequate collateral to secure the liquidity support. And, of course, this could also very well be the case in the run-up to resolution—especially if the lack of adequate collateral prevented the bank from raising the liquidity needed from the market in the first place. On the other hand, particularly where the funding lines provided come either from the central bank or from the public budget and no ex post recoupment mechanism from the industry is foreseen, it is all the more important to have in place mechanisms capable of avoiding de facto bailouts. 
+
+- _Guarantee/indemnity provisioning:_ In addition to collateral policy and solvency requirements, and to strengthen the repayment expectation of the creditor, third parties may provide an explicit guarantee to the liquidity support. This would imply that in case of non-repayment of the loan, such third party would act as a loss bearer—and potentially as an ultimate risk-taker if losses are not recouped ex post from the industry. 
+
+- _Recoupment mechanism:_ As per FSB Key Attribute 6.3, “Jurisdictions should have in place [. . .] a funding mechanism with ex post recovery from the industry of the costs of providing temporary financing to facilitate the resolution of the firm” (FSB 2014). The existence of a recoupment mechanism from the industry acquires particular relevance in the event of non-repayment of the funds extended by the relevant funding arrangement, as it should rule out any bailout scenario from arising. It should thus apply both in case of backstops to pre-positioned industry 
+
+> 91 In this scenario, additional obstacles may also come from rating agencies’ difficulties in assessing the credit standing of the resolved entity, ultimately impacting liquidity available as well. 
+
+> 92 This is the case, for instance, with the UK regime, whereby liquidity in resolution is to be provided “in the necessary scale” (BoE 2023b). 
+
+> 93 For an overview of major issues and considerations revolving around collateral as well as solvency policy see Dobler et al. (2016) and Tucker (2014). It has also been argued that limiting lender-of-last-resort financing to only solvent firms may be beneficial in the sense that it could reduce the stigma effect apparently associated in accessing such funding source (Tucker 2014). 
+
+
+funds (such as the European Stability Mechanism backstop to the SRF in the Banking Union) and temporary public backstops for liquidity purposes beyond pre-positioned funds. 
+
+- _Rates:_ In certain jurisdictions, the extension of funds in a crisis is normally provided at higher rates than those prevailing in the market before the crisis.[94] 
+
+- _Duration:_ As the extension of liquidity is temporary by design (that is, the funding mechanism amounting in all respect to a loan), the need of the financing arrangement to provide for a reimbursement schedule is essential.[95] In this regard, the various frameworks may be characterized by a different degree of flexibility.[96] In any case, the need to provide some kind of confidence to private markets remains paramount. 
+
+- _Transparency:_ Transparency can improve understanding of backstop measures. However, transparency may also prove to be more challenging, as the announcement or the revelation that a bank is receiving central bank liquidity support may generate, or exacerbate, uncertainty about its condition, ultimately undermining market and depositor confidence.[97] Striking a good balance between transparency and flexibility could help address the stigma traditionally associated with central bank liquidity provision.[98] 
+
+Having in mind the above-mentioned taxonomy, we can now analyze the features of the public sector liquidity backstops over the 2023 turmoil. Starting from the US episode, it appeared that a combination of two different mechanisms for meeting institutions’ funding needs were deployed, namely: (a) a backstopping mechanism, through FDIC guarantees, for institutions placed in receivership procedure or for FDIC-directed bridge 
+
+94 Penalty interest rates are applied in the Eurosystem, for the purpose of ELA provisioning by national central banks (NCBs). See Article 7 of the 2020 Agreement on Emergency Liquidity Assistance (ECB 2020). Grossman and Rockoff (2015) and Laeven and Bindseil (2017) observe that (a) the term “penalty” rate used for referring to such higher rates was in fact never originally used by Bagehot; and (b) historically, higher rates accompanying liquidity provisioning in a crisis have not always been considered a necessary element in the history of the lender-of-last-resort function. For an analysis of different approaches to the pricing of lender-of-last-resort funding, see Dobler at al. (2016). 
+
+Finally, in the UK liquidity in resolution framework, rates are “designed to incentivize return to marketbased funding”—which, of course, could also point toward higher rates as a means to incentivize the firm to return to a form of market-based financing (BoE 2023b). 
+
+95 On the difficulty to determine what is meant by “temporary,” that is, on the different elements that could affect the effective duration of the support, see Dobler et al. (2016). 
+
+96 For instance, the provision of ELA in the Eurosystem may exceed 12 months only following a nonobjection by the Governing Council requested by the governor of the NCB concerned (ECB 2020). Under the UK framework, “the Bank’s objective is to provide liquidity [. . .] for a sufficient period of time to allow the firm to make the transition to market-based funding” (BoE 2023b). 
+
+97 Real-time transparency may be more effective to reassure markets and the public during a market-wide shock, rather than an idiosyncratic crisis, by signaling that the central bank is providing assistance and that the firms remain fundamentally solvent. 
+
+98 On the role that stigma apparently plays on the functioning of the Fed discount window, see Ennis and Price (2020). Some proposals for reducing the stigma associated with the central bank lending facility are suggested by Solé (2024). 
+
+
+institutions; and (b) the Federal Reserve lending programs and facilities, which were enriched with a dedicated funding program.[99] 
+
+As per the former mechanism, as it has been reported (Fed 2024a), the FDIC provided for repayment guarantees to support loans extended by the Fed, under its discount window, to the two bridge depository institutions of Signature Bank and SVB—such institutions only posted some collateral against the loans received (Kelly 2024). Equally, an outstanding discount window loan extended to First Republic Bank before it entered into receivership—and fully secured by pledged collateral—got its repayment fully covered by an FDIC guarantee, once the bank was placed into receivership. The FDIC also extended a USD 70 billion credit line to the bank that acquired SVB to make sure it could cover withdrawals from SVB’s uninsured depositors and other unfunded commitments (First Citizens BancShares, Inc. 2023). 
+
+With regards to the second funding mechanism—that is, the Fed lending programs— what is relevant to underline here is that on March 12 the Fed, in the wake of SVB’s demise, and to prevent the contagion from spreading, made available for all depository institutions the Bank Term Funding Program (BTFP), an additional funding program on top of its primary credit program at the discount window. The BTFP, whose design and objectives were deeply tailored to the challenges that emerged during the banking turmoil, differs in several respects from the Fed’s primary credit lending program.[100] Namely, those differences are in terms of: (a) eligible collateral, which was limited to collateral accepted by the Fed in open market operations—for example, US Treasuries and agency debt (as per Title 12, Section 201.108 of the Code of Federal Regulations); (b) collateral valuation, anchored to the par value (that is, the outstanding face amount of the collateral) of the pledged collateral;[101] (c) haircut policy, not envisaging the application of any haircut to the pledged securities;[102] (d) term, whereby advances extended under the BTFP may have a maturity of up to one year; and (e) rate, which is fixed—that is, oneyear overnight index swap rate plus 10 basis points.[103] Besides, and conditioned on the prior approval of the Treasury, funds of up to USD 25 billion may be made available as a credit protection to the program from the Treasury.[104] BTFP loans were extended to First 
+
+99 For a brief overview on the design and structures of the Fed discount window facilities (that is, primary, secondary, and seasonal credit) and also for the legal, operational, and cultural issues that have contributed over time to underuse of these facilities, see, among others, McLaughlin (2024). 
+
+100 Under the “Purpose and Design” section of the Fed’s FAQ on the program, it is clarified that the BTFP is established “to make available additional funding to eligible depository institutions to help assure banks have the ability to meet the needs of all their depositors. The Program will be an additional source of liquidity against high-quality securities, eliminating an institution’s need to quickly sell those securities in times of stress” (Fed 2024b). 
+
+101 By contrast, under the discount window lending program, collateral is valued at its fair market value. 102 Institutions accessing the primary credit discount window and posting the same collateral accepted under the Bank Term Funding Program would also see no haircut being applied. Otherwise, collateral eligible for the discount window but not eligible for the Bank Term Funding Program would be subject to customary haircuts and collateral valuation. 
+
+103 By contrast, advances extended under the discount window are subject to a variable rate and may be extended for a term of up to 90 days. As of January 2024, the interest rate applicable to new BTFP loans has been set to be no lower than the interest rate on reserve balances. 
+
+104 According to the last consulted Fed periodic report on the Bank Term Funding Program (March 12, 2024), the Department of the Treasury was providing USD 25 billion as a credit protection to Reserve Banks (Fed 2024b). 
+
+
+Republic Bank before it entered receivership, and aggregate data released by the Fed shows that there was high demand for borrowing under this program (Fed 2024b). 
+
+In the Credit Suisse case, an overall amount of liquidity assistance totaling CHF 250 billion has been provided by the Swiss National Bank (Expert Group on Banking Stability 2023; Swiss Federal Council 2024). Such assistance has been provided in three different tranches, each presenting different features: 
+
+- As Credit Suisse’s liquidity position was rapidly deteriorating, the Swiss National Bank made available on March 15, under its standard ELA framework, a first tranche amounting to CHF 50 billion.[105] Conditions for accessing the central bank facilities mirror ordinary ELA requirements, among which proper collateralization was needed for successfully drawing on the funds.[106] And in this respect, “Credit Suisse’s preparations for posting collateral to obtain enough emergency liquidity assistance were inadequate, especially at the level of the parent” (Expert Group on Banking Stability 2023, 49). Namely, not only sufficient collateral of adequate quality was lacking at the level of the parent—so that central bank’s financial assistance could be provided only at the level of the Swiss subsidiary, where enough collateral was available—but liquidity upstream from the subsidiary toward the parent, and more generally, distribution and transfers across the group, was not possible if the activation of the subsidiary’s emergency plan were to be avoided. 
+
+- A second CHF 100 billion tranche, aimed at bypassing the obstacles highlighted in previous point, was made available on March 17 and announced on March 19, immediately after announcement of UBS’s takeover of Credit Suisse (Expert Group on Banking Stability 2023). The support was provided to both banks—and particularly, to Credit Suisse’s parent entity (SNB 2023). The provision of this form of liquidity assistance (called ELA+) required a tailor-made emergency federal ordinance to enter into force (Swiss Federal Council 2023). ELA+ presented some peculiar characteristics: namely, it was provided without any collateral being posted by Credit Suisse and without any backstop guarantee provided by the fiscal authority while it granted the Swiss National Bank a preferential claim in the bankruptcy of Credit Suisse. All in all, as has been highlighted, the Swiss National Bank “had no control over the use of the liquidity provided [as] Credit Suisse was not in resolution and the existing management was still in post” (Expert Group on Banking Stability 2023, 49). Despite this, the financial risk of non-repayment borne by the Swiss National Bank was limited, given Credit Suisse’s acquisition by UBS. 
+
+> 105 For a review of the main characteristics of the Swiss framework, see Expert Group on Banking Stability (2023). 
+
+> 106 Under its ELA framework, the SNB can provide emergency liquidity assistance to domestic banks only if (a) they are no longer able to refinance their operations on the market; (b) the bank or banking group seeking credit is of importance for the stability of the financial system; (c) the bank is solvent; and (d) the funds extended are fully covered by sufficient and eligible collateral at all times (SNB 2024). 
+
+
+- A third CHF 100 billion tranche, made available on the basis of the abovementioned emergency legislation, was granted to Credit Suisse and was backed by a federal default guarantee. 
+
+The key elements of this public liquidity backstop were already set out in a 2022 draft Federal Council bill whereby the backstop: (a) is to be provided as an ultima ratio, only after Swiss National Bank ELA; (b) is limited to systemically relevant banks; (c) is extended jointly or right before the commencement of a resolution proceeding, so that the bank will fall under the control of the relevant resolution authority; and (d) does not require a concurrent posting of collateral, the federal government enjoying only a preferential status in the potential insolvency liquidation of the bank (Expert Group on Banking Stability 2023). 
+
+## **V.2 The Banking Union Framework: Addressing Liquidity Needs in Resolution** 
+
+The architecture of Banking Union temporary public funding mechanisms has been the object of several analyses over the years (de Groen 2018; Demertzis et al. 2018; Deslandes and Magnus 2019; Fernández de Lis and Garcia 2018; Grund, Nomm, and Walch 2020; Mersch 2018;). Drawing on the elements analyzed in Section V.1: 
+
+- In the run-up and ahead a formal resolution declaration, and without considering private source of funding, a firm’s liquidity needs may be met either through Eurosystem monetary policy operations or ELA—provided the relevant conditions for tapping such liquidity sources are satisfied. Particularly for the case of ELA, which is extended at the national central bank’s risk and at its discretion up to a certain amount,[107] the ELA Agreement includes: (a) provision of collateral—coupled with haircuts—and/or guarantees; (b) individual and consolidated solvency requirement; (c) maximum duration, which in theory should not exceed 12 months; (d) the imposition of a penalty interest rate; and (e) a specific prohibited scenario of ELA provisioning (namely, when its extension would amount to a replacement of fiscal policy, so-called monetary financing). Coherently, and as recognized by the SRMR, “the need for emergency liquidity assistance from a central bank should not, per se, be a condition that sufficiently demonstrates that an entity is, or is likely in the near future to be, unable to pay its liabilities as they fall due (SRMR, recital 57).” 
+
+- For resolution situations, the SRMR has established the SRF, an ex ante industryfinanced mechanism that, among others, may be used for liquidity support and to the extent necessary to ensure an effective application of resolution tools.[108] Its capacity currently amounts to EUR 77.8 billion, representing at least 1% of the covered deposits of all Banking Union credit institutions. Such resources may not all necessarily be deployed for meeting liquidity needs, given that the SRF can also be used for solvency purposes, under conditionality.[109] Such capacity will be 
+
+> 107 “Where the size of ELA operations envisaged by one or more NCBs for a given financial institution or a given group of financial institutions exceeds a threshold of €2 billion, on the basis of all the information available, the Executive Board shall decide in a timely manner whether the issue needs to be addressed by the Governing Council” (ECB 2020, art. 3.3). 
+
+> 108 SRMR, art. 76(1). 
+
+> 109 SRMR, arts. 76(1) and 27(7)(a). 
+
+
+coupled with a common backstop of EUR 68 billion provided by the European Stability Mechanism, once the ESM reform will be ratified by all the member states.[110 ] Relevant elements of the concrete SRF liquidity support (for example, size, duration, etc.) should be determined under the resolution scheme—and in this respect, these may include the posting of collateral. 
+
+- In addition, nothing prohibits ELA provisioning during and after resolution—in this direction seems to point Article 4 of the 2020 ELA Agreement, whereby an institution is considered solvent also when “there is a credible prospect of recapitalisation”—provided though that all conditions for accessing ELA are met (Deslandes and Magnus 2019; Mersch 2018). 
+
+Over time, some commentators have criticized the above framework. Criticisms have been directed both at the architecture and design of the public liquidity facilities and at their temporal interplay and coordination. Namely: 
+
+- As per central bank liquidity support, the main limitations of a pre- and inresolution reliance on such source comes from the likely shortage of unencumbered assets of sufficient quality for either accessing the lending facility or simply renewing the existing ELA positions (de Groen 2018; Fernández de Lis and Garcia 2018). Also, as long as ELA is granted under the backing of a third-party guarantee commitment, should this come from a member state’s budget, then it may fall under State Aid legislation and the specific framework for the Banking sector.[111] In any case, reliance on national backstop measures would not be in line with a truly European solution to the problem.[112] Ultimately, the risk of ELA provisions rests on the national central bank balance sheet; that is, losses incurred by the latter are in principle not recouped through any ex post collection from the industry (Deslandes and Magnus 2019). 
+
+- As per the liquidity support extended by the SRF, a recurrent criticism has revolved around its total capacity—which would amount, also taking into account the ESM common backstop, to roughly EUR 145 billion (de Groen 2018; Grund, 
+
+110 The channeling of funds from the ESM to SRF is operationalized through a last resort credit line (meaning that it can be accessed only when all SRF resources have been exhausted and lacking other available funding sources to tap), extended by the former to the latter, and to be eventually repaid by SRF ex post contribution collections from the banking industry. Thus, the transaction would be fiscally neutral for the ESM as it would be funded by the banking sector, which would be the ultimate risk bearer of any non-repayment of SRF financial assistance. For more details on the architecture of the ESM backstop, see ESM (2021). At the moment of writing this paper, the revised ESM Treaty has been ratified by all member states except one. 
+
+> 111 See EC (2013). In particular, paragraph 62 describes how central bank ELA may constitute State Aid where it is backed by a counter guarantee of the state. See also SRMR, recital 57, whereby: 
+
+   - if [ELA] were guaranteed by a State, an entity accessing such a facility would be subject to State aid rules. In order to preserve financial stability, in particular in the event of a systemic liquidity shortage, State guarantees of liquidity facilities provided by central banks or State guarantees of newly issued liabilities to remedy a serious disturbance in the economy of a Member State should not trigger the resolution framework provided that a number of conditions are met. In particular, the State guarantee measures should be approved under the State aid framework and should not be part of a larger aid package, and the use of the guarantee measures should be strictly limited in time. 
+
+- 112 That is, the bank-sovereign nexus would not be severed, as institutions’ financial positions and recovery prospects would remain linked to the member states of their incorporation (Demertzis et al. 2018; Grund, Nomm, and Walch 2020). 
+
+
+Nomm, and Walch 2020). The capacity of the SRF to effectively withstand a crisis and provide sufficient funding in the midst of a crisis, in scenarios where any G- SIB is facing distress, has been questioned in the past and on the basis of recent studies (Amamou et al. 2020; Infelise, Lippi, and Vincent 2022).[113] We have seen that the management of the Credit Suisse crisis required the Swiss National Bank to commit and make available an overall amount of CHF 250 billion (that is, roughly EUR 264 billion). Of course, this does not mean that the facility has to be fully used, as in fact the sole announcement of its existence may be enough to restore confidence in the market. Yet, for this to happen, either the maximum capacity of the facility does not have to be revealed ex ante—this is apparently the case of the UK framework, whereby, some commentators have stressed, “there are no official caps on the scale, the duration and the rates applied to this type of — liquidity support” (Demertzis et al. 2018, 10) or should be large enough to address the potential liquidity needs of the most systemic institutions. 
+
+- As per the interplay between the different lending mechanisms, concerns pertain mainly to the firm’s capacity to maintain access to a source of funding, whatever this may be, along the continuum of its financial positions—and, namely, as its position deteriorates. The point is particularly relevant if one considers that access to SRF financing is conditional on the formal opening of resolution proceedings, which usually takes place over the course of a weekend.[114] Funding drains are in fact less likely to happen in such a period; but nonetheless, funding gaps may have to be filled in the run-up to resolution declaration, and thus a sort of bridge financing function should be in place to “accompany” firms to resolution. Of course, on the other hand, such bridge financing function is less likely to be provided by Eurosystem financing as resolution approaches, as adequate collateral to post at the firm’s level is likely to get more and more scarce. The risk of funding flows drying up could thus get real. 
+
+An alternative, should such bridge financing function not be possible and resolution be declared in the middle of the week, would be to rely on the resolution authority’s moratorium power. This option has been recently used in the Banking Union, but it has to be always carefully assessed to avoid legal risks.[115] 
+
+All in all, the crucial problem in the Banking Union seems to pertain to the identification of the party or institution better suited to provide for a guarantee against ECB’s lending. In particular, answers should be given about who should provide for such a guarantee in the actual framework; whether this party should then be granted a form of active involvement in the resolution proceeding, given that it would take on a risk-bearer role in the process; and, more generally, how such guarantee should be overall designed. In this regard, the following reforms have been proposed: 
+
+> 113 Historically, between 2008 and 2010, the German bank Hypo Real Estate benefited from state emergency guarantee amounting to roughly EUR 145 billion; and in 2008, Dexia benefited from a state guarantee provided by the Luxembourg, France, and Belgium governments amounting to EUR135 billion (EC 2010; EC 2012). 
+
+> 114 The resolution of Banco Popular took place the night of Tuesday, June 6, 2017. 
+
+> 115 Besides, pre-resolution and resolution moratorium might make it insufficient to curb liquidity outflows. 
+
+
+- _SRB/SRF—or other EU bodies—guarantee:_[116] Under this proposal, the ECB would extend funds to a bank in resolution under its monetary policy operations framework against the issuance of a guarantee from the SRB/SRF.[117] Although such guarantee should provide for an authentic European solution to the problem of an effective European public backstop in resolution, it leaves unanswered two questions: (a) The size and amount of the guarantee would be a function of SRF maximum capacity, which, as said, represents itself the main limitation of the fund. Considering that any commitment exceeding such capacity may be offered only to the extent that a form of ex post recoupment mechanism from the industry is established and effectively drawn down,[118] it remains to be seen whether a guarantee based not on the presence of actual resources, so available and payable “at first demand,” but on the power to collect them ex post could be accepted.[119] (b) It also remains to be seen if, to the extent that a form of credit valuation of the guarantor is mandated under the lending facility, an SRB/SRF guarantee could meet the required credit worthiness rating, given that SRB credit standing—and its deterioration—is likely to be correlated with the occurrence of banking shocks. 
+
+Alternatively, and in the absence of a euro area fiscal body or, more generally, a European-level guarantee framework, it has been proposed that such guarantee could be provided: (a) by the ESM—yet as pointed out, at this moment in time, the reform of the ESM Treaty envisages a different role for the ESM in resolution, in the form of a common backstop to the SRF—or (b) by the EU budget, which “would send a better signal of joint liability of EU Member States” (Beck, Krahnen, et al. 2022, 9). 
+
+Particularly for this latter proposal, one could assume a leading role of the European Commission in the process, based on joint borrowing through European Commission emission of Eurobonds. Setting aside any political implications, this solution, if considered and enacted, would probably be the one better suited to address the issues raised by the current European framework for liquidity in resolution.[120] Furthermore, such solution could be considered in conjunction with the broader SRB repayment capacity such that the SRB could effectively backstop 
+
+116 Namely, (a) for an SRB/SRF guarantee, see de Groen (2018), Demertzis et al. (2018), Deslandes and Magnus (2019), and Fernández de Lis and Garcia (2018); (b) for an ESM guarantee, see Demertzis et al. (2018) and Deslandes and Magnus (2019); and (c) for a general EU budget guarantee, see Beck, Krahnen, et al. (2022). 
+
+> 117 The guarantee should be provided against a premium paid by the beneficiary bank (de Groen 2018). 
+
+118 The current framework (SRMR, art. 71) already envisaged the possibility to collect “extraordinary ex post contributions” from institutions. These may be collected where the available financial means are not sufficient to cover the losses, costs, or other expenses incurred by the use of the fund in resolution actions. Such additional contributions may not exceed three times the annual amount of contributions. 
+
+119 This point seems to be stressed by Mersch (2018), on the questionability of accepting a “blanket guarantee ad personam” as a replacement of collateral (that is, a guarantee in rem) for monetary policy operations. By contrast, Demertzis et al. (2018) is critical and “consider[s] an exaggerated demand if the ECB requires guarantees to be immediately liquid,” also considering that “also in normal monetary policy operations, the collateral held by the ECB is not necessarily more liquid.” 
+
+120 Among other things, a solution of the sort should also address and consider the asymmetry between the European Union—with 27 member states—and the Banking Union—with 21 member states. 
+
+
+the European guarantee with ex post contributions, to be raised only in case of need. 
+
+- _Issuance of SRB/SRF bonds as collateral for repos:_ Under such a proposal, the SRB would “issue and hold long term bonds, instead of selling them to investors” (Deslandes and Magnus 2019, 12). The bonds would then be lent to the bank in resolution, which could in turn use these securities as collateral for obtaining liquidity—most likely through central bank refinancing operations, as private sources of funding would not be available at that time. Yet, problems could arise also under this proposal. Setting aside the operational needs to have the SRB become an “eligible issuer” for credit rating purposes, any credit ratings assigned to its bonds would eventually reflect, as noted previously, the credit standing of the SRB, which is likely to be affected in a resolution scenario. If the valuation as well as eligibility of the collateral is conditioned on an issuer’s creditworthiness, then one can see how challenges may arise for the feasibility of this solution. Also, it should be analyzed whether the ECB collateral policy should be amended to recognize eligibility of these types of SRB-issued securities, and their haircuts. 
+
+- _Creation of a (new) Eurosystem resolution liquidity facility_ (Deslandes and Magnus 2019) _:_ Under such a proposal, the ECB would be equipped with a specific monetary policy tool to be deployed in resolution scenarios.[121] Among the different conditions to which the activation of the instrument should be subject, the (temporary) financial assistance is to be extended only against provisioning of a public backing, which could also amount, in the absence of adequate collateral to be posted, to a “euro area guarantee.” In fact, it is precisely such form of European backing, at the moment nonexistent, that would make the difference within a framework where, otherwise, it is already possible to extend ELA in resolution—against adequate collateral or guarantee.[122] 
+
+> 121 The creation of such a funding facility should be assessed, inter alia, under the lens of: (a) compatibility with ECB monetary policy mandate and treaty prerogatives and (b) relationships with SRB as well as the ESM. It goes without saying that the creation of this facility would entail significant institutional changes and reforms. 
+
+> 122 In reality, given that provision of funding under this facility would be made by the ECB, and not by a national central bank, as it is the case now with ELA, one could wonder whether such a reform would also entail, as a side effect, a centralization of ELA upon the ECB. For a discussion on this point, see Deslandes and Magnus (2019) and Fernández de Lis and Garcia (2018). For a call toward a centralization of ELA, which would require the agreement of all the members of the ECB’s Governing Council, see Draghi (2018). 
+
+
+## **VI. References** 
+
+## **Laws and Regulation** 
+
+Commission Delegated Regulation (EU) 2016/1075 of March 23 supplementing Directive 2014/59/EU, 2016 O.J. (L 184). 
+
+https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32016R1075 
+
+Directive 2014/49/EU, of the European Parliament and of the Council of 16 April 2014 on Deposit Guarantee Schemes, commonly referred to as the Deposit Guarantee Scheme Directive (DGSD). 2014. O.J. (L 173) 
+
+https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex%3A32014L0049 
+
+Directive 2014/59/EU of the European Parliament and of the Council of 15 May 2014 Establishing a Framework for the Recovery and Resolution of Credit Institutions, commonly referred to as the Bank Recovery and Resolution Directive (BRRD). 2014. O.J. (L 173). 
+
+https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex%3A32014L0059 
+
+Federal Deposit and Insurance Corporation (FDIC). 2023. “Final Rule on Special Assessment Pursuant to Systemic Risk Determination.” Financial Institution Letter, November 16, 2023. 
+
+https://www.fdic.gov/news/financial-institution-letters/2023/fil23058.html 
+
+Regulation 806/2014 of the European Parliament and of the Council of 15 July 2014 Establishing Uniform Rules and Uniform Procedure for the Resolution of Credit Institutions and Certain Investment Firms in the Framework of a Single Resolution Mechanism and a Single Resolution Fund and Amending Regulation (EU) No. 1093/2010., commonly referred to as the Single resolution mechanism regulation (SRMR), 2014 O.J. (L 225). 
+
+https://eur-lex.europa.eu/eli/reg/2014/806/oj 
+
+Swiss Federal Council. 2023. “Ordinance on Additional Liquidity Assistance Loans and the Granting of Federal Default Guarantees for Liquidity Assistance Loans from the Swiss National Bank to Systemically Important Banks.” March 16, 2023 (in Italian). https://www.fedlex.admin.ch/eli/oc/2023/135/it 
+
+## **References** 
+
+Acharya, Viral V., Elena Carletti, Fernando Restoy, and Xavier Vives. 2024. “Banking Turmoil and Regulatory Reform.” Centre for Economic Policy Research, May 2024. https://www.iese.edu/media/research/pdfs/77782 
+
+Adrian, Tobias, Marina Moretti, Ana Carvalho, Hee Kyong Chon, Katharine Seal, Fabiana Melo, and Jay Surti. 2023. “Good Supervision: Lessons from the Field.” IMF Working Paper No. 23/181, September 2023. 
+
+https://www.imf.org/en/Publications/WP/Issues/2023/09/06/Good-SupervisionLessons-from-the-Field-538611 
+
+
+Amamou, Raschid, Andreas Baumann, Dimitrios Chalamandaris, Laura Parisi, and Pär Torstensson. 2020. “Liquidity in Resolution: Estimating Possible Liquidity Gaps for Specific Banks in Resolution and in a Systemic Crisis.” ECB Occasional Paper No. 250, November 2020. 
+
+https://www.ecb.europa.eu/pub/pdf/scpops/ecb.op250~c7a2d3cc7e.en.pdf 
+
+Andersen, Jens Verner, and Mathias Semay Hovedskov. 2021. “How to Deal with Weak Financial Institutions: Experiences and Lessons from a Non-Euro Area Country.” In _The Crisis Management Framework for Banks in the EU. How Can We Deal with the Crisis of Small and Medium-Sized Banks?_ Bank of Italy, Workshops and Conferences No. 24 (May): 177–94. 
+
+https://www.bancaditalia.it/media/notizia/the-crisis-management-framework-forbanks-in-the-eu-how-can-we-deal-with-the-crisis-of-small-and-medium-sized-banks/ 
+
+Andersen, Jens Verner, Pamela Lintner, and Susan Schroeder. 2016. “Andelskassen: Resolution via Bridge Bank and Bail-in Including of Uninsured Depositors.” In “Bank Resolution and ‘Bail-in’ in the EU: Selected Case Studies Pre and Post BRRD,” World Bank Group, Financial Sector Advisory Center (FinSAC), December 12, 2016. https://documents.worldbank.org/pt/publication/documentsreports/documentdetail/731351485375133455/bank-resolution-and-bail-in-in-theeu-selected-case-studies-pre-and-post-brrd 
+
+Armour, John, Dan Awrey, Paul Davies, Luca Enriques, Jeffrey N. Gordon, Colin Mayer, and Jennifer Payne. 2016. _Principles of Financial Regulation_ . Oxford; New York: Oxford University Press. 
+
+https://doi.org/10.1093/acprof:oso/9780198786474.001.0001 
+
+Association for Financial Markets in Europe (AFME). 2018. “Liquidity in Resolution.” Discussion Paper, June 2018. 
+
+https://www.afme.eu/portals/0/globalassets/downloads/briefing-notes/2017/afmerrn-discussion-note-liquidity-in-resolution.pdf 
+
+Bair, Sheila, Joyce Chang, Charles Goodhart, Lawrence Goodman, Barbara G. Novick, and ” Richard L. Sandor. 2023. “Supervision and Regulation after Silicon Valley Bank. Center for Financial Stability, October 16, 2023. 
+
+https://centerforfinancialstability.org/research/CFSRegPaper101623.pdf 
+
+Bank of England (BoE). 2022. “Resolvability Assessment of Major UK Banks: 2022.” Resolvability Assessment Framework, June 10, 2022. 
+
+https://www.bankofengland.co.uk/financial-stability/resolution/resolvabilityassessment-framework/resolvability-assessment-of-major-uk-banks-2022 
+
+———. 2023a. “Statement on Silicon Valley Bank.” March 13, 2023. https://www.bankofengland.co.uk/news/2023/march/statement-on-silicon-valleybank 
+
+———. 2023b. “The Bank of England’s Approach to Resolution.” Purple Book, December 15, 2023. 
+
+https://www.bankofengland.co.uk/paper/2023/the-bank-of-englands-approach-toresolution 
+
+
+” Barr, Michael. 2023a. “Supervision and Regulation. Testimony before the Financial Services Committee, US House of Representatives, May 16, 2023. https://www.federalreserve.gov/newsevents/testimony/barr20230516a.htm 
+
+” ———. 2023b. “The Importance of Effective Liquidity Risk Management. Speech at the 5th European Central Bank Forum on Banking Supervision, Frankfurt, Germany, December 1, 2023. 
+
+https://www.bis.org/review/r231204l.htm 
+
+Basel Committee on Banking Supervision (BCBS). 2013. “Basel III: The Liquidity Coverage Ratio and Liquidity Risk Monitoring Tools.” Bank for International Settlements, January 2013. 
+
+https://www.bis.org/publ/bcbs238.pdf 
+
+———. 2014. “Basel III: The Net Stable Funding Ratio.” Bank for International Settlements, October 31, 2014. https://www.bis.org/bcbs/publ/d295.htm 
+
+———. 2023. “Report on the 2023 Banking Turmoil.” Bank for International Settlements, October 5, 2023. 
+
+https://www.bis.org/bcbs/publ/d555.htm 
+
+Baudino, Patrizia, Emily Johnston Ross, Bert Van Roosebeke, and Rastko Vrbaski. 2023. “Bank Transfers in Resolution—Practices and Lessons.” FSI Insight No. 55, December 7, 2023. 
+
+https://www.bis.org/fsi/publ/insights55.htm 
+
+Beck, Thorsten, Vasso Ioannidou, Enrico C. Perotti, Antonio Sánchez Serrano, Javier Suarez, and Xavier Vives. 2024. “Addressing Banks’ Vulnerability to Deposit Runs: Revisiting the Facts, Arguments and Policy Options.” ESRB: Advisory Scientific Committee Report No. 2024/15, August 2024. https://doi.org/10.2139/ssrn.4941165 
+
+Beck, Thorsten, Jan Pieter Krahnen, Philippe Martin, Franz Mayer, Jean Pisani-Ferry, Tobias Tröger, Beatrice Weder di Mauro, Nicolas Véron, and Jeromin Zettelmeyer. 2022. ” “Completing Europe’s Banking Union: Economic Requirements and Legal Conditions. _Bruegel Policy Contribution Issue_ 20 (November 22). 
+
+https://www.bruegel.org/policy-brief/completing-europes-banking-union-economicrequirements-and-legal-conditions-0 
+
+Benahmed, Riad, Manon Houarner. 2023. “Strategic Optionality in Resolution: Combination of Tools.” ACPR Working Paper on Resolution, December 20, 2023. https://acpr.banque-france.fr/strategic-optionality-resolution-combination-tools 
+
+Benoit, David, Ben Eisen, Rachel Louise Ensign, and AnnaMaria Andriotis. 2023. “Eleven Banks Deposit $30 Billion in First Republic Bank.” _Wall Street Journal_ , March 16, 2023. https://www.wsj.com/articles/jpmorgan-morgan-stanley-and-others-in-talks-tobolster-first-republic-4f9eeb76 
+
+
+Berner, Richard. 2023. “Chapter 10: Strengthening Supervisory and Resolution Frameworks.” In Acharya, Viral V., Matthew P. Richardson, Kermit L. Schoenholtz, and Bruce Tuckman, eds. 2023. _SVB and Beyond: The Banking Stress of 2023_ . London and Paris: CEPR Press 
+
+https://drive.google.com/file/d/1M067WVIlogb0Jtrsl33ggpbHIAtVjlR6/view 
+
+Berner, Richard, Kim Schoenholtz, and J. Lawrence White. 2023. “Chapter 5: Evaluation of the Policy Response: On the Resolution of Silicon Valley Bank, Signature Bank, and First Republic Bank.” In Acharya, Viral V., Matthew P. Richardson, Kermit L. Schoenholtz, and Bruce Tuckman, eds. 2023. _SVB and Beyond: The Banking Stress of 2023_ . London and Paris: CEPR Press 
+
+https://drive.google.com/file/d/1M067WVIlogb0Jtrsl33ggpbHIAtVjlR6/view 
+
+Bertay, Ata Can, Harry Huizinga. 2023. “Do ‘White Knights’ Make Excessive Profits in Bank Resolution?” European Parliament, Economic Governance and EMU Scrutiny Unit, In-Depth Analysis, October 2023. 
+
+https://www.europarl.europa.eu/RegData/etudes/IDAN/2023/747872/IPOL_IDA(202 3)747872_EN.pdf 
+
+Biraschi, Paolo, Riccardo De Bosio, Miriana Langella, Barbara Mainieri, Nuria Mata Garcia, and Lucia Orszaghova. 2023. “The Commission Proposal to Reform the EU Bank Crisis Management Framework: A Selected Analysis.” SRB Staff Working Paper No. 3, December 15, 2023. 
+
+https://www.srb.europa.eu/en/content/staff-working-paper-series-3-commissionproposal-reform-eu-bank-crisis-management-framework 
+
+Bodellini, Marco, and Jose Luis Colino. 2023. “Global Thoughts on a Resilient Safety-Net: Preliminary Lessons to Learn from the Recent Bank Crises in the US and Switzerland.” _Law and Economics Yearly Review_ 12 pt.1: 48–77 
+
+https://www.laweconomicsyearlyreview.org.uk/Law_and_Economics_Yearly_Review_L EYR_Journal_vol_12_part_1_2023.pdf 
+
+Böni, Pascal, Tim Alexander Kroencke, and Florin P. Vasvari. 2023. “The UBS-Credit Suisse Merger: Helvetia’s Gift.” _SSRN Electronic Journal_ , June 20, 2023. https://doi.org/10.2139/ssrn.4486417 
+
+Brescia Morra, Concetta, Claudia Giustolisi, Federico Pistelli, Alberto Franco Pozzolo, and Andrea Zoppini. 2022. “Obstacles Are the Way: Progress and Regulatory Challenges to Improve Banks’ Resolvability.” _Banca Impresa Società_ XLI, no. 3/2022 (December): 489–518. 
+
+https://www.rivisteweb.it/doi/10.1435/105854 
+
+Cecchetti, Stephen G., Thomas Philippon, Kermit L. Schoenholtz, and Lawrence J. White. 2023a. “Chapter 8: Revisiting the Design of Deposit Insurance.” In Acharya, Viral V., Matthew P. Richardson, Kermit L. Schoenholtz, and Bruce Tuckman, eds. 2023. _SVB and Beyond: The Banking Stress of 2023_ . London and Paris: CEPR Press https://drive.google.com/file/d/1M067WVIlogb0Jtrsl33ggpbHIAtVjlR6/view 
+
+
+Cecchetti, Stephen G., Kermit L. Schenholtz, and Lawrence J. White. 2023b. “Chapter 9: The FHLB Role in the SVB and Related Debacles.” In Acharya, Viral V., Matthew P. Richardson, Kermit L. Schoenholtz, and Bruce Tuckman, eds. 2023. _SVB and Beyond: The Banking Stress of 2023_ . London and Paris: CEPR Press https://drive.google.com/file/d/1M067WVIlogb0Jtrsl33ggpbHIAtVjlR6/view 
+
+Cipriani, Marco, Michael Holscher, Patrick McCabe, Antoine Martin, and Richard Berner. 2023. “Mitigating the Risk of Runs on Uninsured Deposits: the Minimum Balance at Risk.” Federal Reserve Bank of New York, _Liberty Street Economics_ (blog), April 14, 2023. 
+
+https://libertystreeteconomics.newyorkfed.org/2023/04/mitigating-the-risk-of-runson-uninsured-deposits-the-minimum-balance-at-risk/ 
+
+Coelho, Rodrigo, Jatin Taneja, and Rastko Vrbaski. 2023. “Upside Down: When AT1 Instruments Absorb Losses before Equity.” FSI Brief No. 21, September 12, 2023. https://www.bis.org/fsi/fsibriefs21.htm 
+
+Cookson, J. Anthony, Corbin Fox, Javier Gil-Bazo, Juan Felipe Imbet, and Christoph Schiller. 2023. “Social Media as a Bank Run Catalyst.” Université Paris-Dauphine Research Paper No. 4422754, June 24, 2023. https://doi.org/10.2139/ssrn.4422754 
+
+Cutura, Jannic Alexander. 2021. “Debt Holder Monitoring and Implicit Guarantees: Did the BRRD Improve Market Discipline?” _Journal of Financial Stability_ 54 (June). https://doi.org/10.1016/j.jfs.2021.100879 
+
+Danish Financial Supervisory Authority (DFSA). 2023. “Updated Principles for Setting MREL for Small Banks.” February 6, 2023. (In Danish.) https://www.finanstilsynet.dk/media/52958/Modelpapir_om_principper_NEP_krav_ik ke_SIFIer.pdf 
+
+Davies, Paul. 2015. “The Fall and Rise of Debt: Bank Capital Regulation after the Crisis.” _European Business Organization Law Review_ 16, no. 3 (September): 491–512. https://doi.org/10.1007/s40804-015-0017-8 
+
+De Cos, Pablo Hernández. 2023. “Reflections on the 2023 Banking Turmoil.” Speech delivered at the Eurofi Financial Forum, Santiago de Compostela, Spain, September 14, 2023. 
+
+https://www.bis.org/speeches/sp230914.htm 
+
+de Groen, Willem Pieter. 2018. “Financing Bank Resolution: An Alternative Solution for Arranging the Liquidity Required.” European Parliament, Economic Governance and EMU Scrutiny Unit, In-Depth Analysis, November 2018. 
+
+https://www.europarl.europa.eu/RegData/etudes/IDAN/2018/624423/IPOL_IDA(201 8)624423_EN.pdf 
+
+
+Demertzis, Maria, Inês Gonçalves Raposo, Pia Hüttl, and Guntram Wolff. 2018. “How to Provide Liquidity to Banks after Resolution in Europe’s Banking Union.” European Parliament, Economic Governance and EMU Scrutiny Unit, In-Depth Analysis, November 2018. 
+
+https://www.europarl.europa.eu/RegData/etudes/IDAN/2018/624422/IPOL_IDA(201 8)624422_EN.pdf 
+
+Deslandes, Jérôme, and Marcel Magnus. 2019. “Banking Union: Towards New Arrangements for the Provision of Liquidity in Resolution?” European Parliament, Economic Governance and EMU Scrutiny Unit, Briefing, July 2019. https://www.europarl.europa.eu/RegData/etudes/BRIE/2018/624402/IPOL_BRI(201 8)624402_EN.pdf 
+
+Dewatripont, Mathias, Peter Praet, and André Sapir. 2023. “The Silicon Valley Bank Collapse: Prudential Regulation Lessons for Europe and the World.” VoxEU Column, March 20, 2023. 
+
+https://cepr.org/voxeu/columns/silicon-valley-bank-collapse-prudential-regulationlessons-europe-and-world 
+
+Diamond, Douglas W., and Philip H. Dybvig. 1983. “Bank Runs, Deposit Insurance, and Liquidity.” _Journal of Political Economy_ 91, no. 3 (June): 401–19. https://doi.org/10.1086/261155 
+
+Dobler, Marc, Simon Gray, Diarmuid Murphy, and Bozena Radzewicz-Bak. 2016. “The Lender of Last Resort Function after the Global Financial Crisis.” IMF Working Paper No. 16/10, January 2016. https://doi.org/10.5089/9781498355995.001 
+
+Draghi, Mario. 2018. Statement at Hearing at the ECON Monetary Dialogue, European Parliament. February 26, 2018. 
+
+https://multimedia.europarl.europa.eu/en/webstreaming/committee-on-economicand-monetary-affairs_20180226-1500-COMMITTEE-ECON 
+
+Drechsler, Itamar, Alexi Savov, and Philipp Schnabl. 2021. “Banking on Deposits: Maturity Transformation without Interest Rate Risk.” _Journal of Finance_ 76, no. 3 (June): 1091–143. 
+
+https://doi.org/10.1111/jofi.13013 
+
+Drechsler, Itamar, Alexi Savov, Philipp Schnabl, and Olivier Wang. 2024. “Banking on Uninsured Deposits.” NBER Working Paper No. 31138, September 2024. https://doi.org/10.3386/w31138 
+
+Ennis, Huberto M., and David A. Price. 2020. “Understanding Discount Window Stigma.” Federal Reserve Bank of Richmond Economic Brief No. 20-04, April 2020. https://fedinprint.org/item/fedreb/88293 
+
+
+Enria, Andrea. 2023. “Monitoring the Euro Area Banking Sector in the Aftermath of the March 2023 US Bank Failures.” Opening remarks before the Committee on Economic and Monetary Affairs of the European Parliament, March 21, 2023. https://www.bankingsupervision.europa.eu/press/speeches/date/2023/html/ssm.sp2 30321_1.en.html 
+
+European Banking Authority (EBA). 2023. “Report on Deposit Coverage in Response to European Commission’s Call for Advice.” EBA Report No. 2023/39, December 2023. https://www.eba.europa.eu/sites/default/files/2023-12/cfe9c89f-23ec-42d0-88fdfc873ff26c76/EBA%20Report%20on%20deposit%20coverage%20in%20response%2 0to%20EC%20CfA.pdf 
+
+European Central Bank (ECB). 2020. “Agreement on Emergency Liquidity Assistance.” November 9, 2020. 
+
+https://www.ecb.europa.eu/pub/pdf/other/ecb.agreementemergencyliquidityassistan ce202012~ba7c45c170.en.pdf?dca797da3212289956ac24df607eb168 
+
+———. 2023. “Opinion on Amendments to the Union Crisis Management and Deposit Insurance Framework.” July 5, 2023. 
+
+https://www.ecb.europa.eu/pub/pdf/legal/ecb.leg_con_2023_19.en.pdf 
+
+European Commission (EC). 2010. “State Aid – C 15/09– Hypo Real Estate, Germany, Extension of Formal Investigation Procedure and Temporary Approval of Capital Injections,” January 20, 2010. 
+
+https://eur- 
+
+lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:C:2010:013:0058:0066:EN:PDF 
+
+———. 2012. “Commission Decision on State Aid in Favor of Dexia, DBB/Belfius and DMA. December 12, 2012 (in French). 
+
+https://ec.europa.eu/competition/state_aid/cases/245074/245074_1520672_505_2.p df 
+
+———. 2013. “Banking Communication on State Aid.” July 30, 2013. https://eur-lex.europa.eu/legalcontent/EN/ALL/?uri=CELEX%3A52013XC0730%2801%29 
+
+———. 2023a. “Banking Union: Commission Proposes Reform of Bank Crisis Management and Deposit Insurance Framework.” Press release, April 17, 2023. https://ec.europa.eu/commission/presscorner/detail/en/ip_23_2250 
+
+———. 2023c. “State Aid – SA.106526 (2023/N) – Denmark Prolongation of the Second Re-Introduction of the Winding-Up Scheme for Small Banks,” April 21, 2023. https://ec.europa.eu/competition/state_aid/cases1/202320/SA_106526_E06C23880100-C63E-9881-D56C31E3BA4A_35_1.pdf 
+
+———. 2023b. “Impact Assessment Report of CMDI Proposal.” Staff Working Document No. SWD (2023) 225 Final, April 18, 2023. 
+
+https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:52023SC0225 
+
+European Stability Mechanism (ESM). 2021. “Guideline on the Backstop Facility to the SRB for the SRF.” April 22, 2021. 
+
+
+https://www.esm.europa.eu/sites/default/files/migration_files/draft_backstop_guideli ne_-_early_intro_version_for_publication.pdf 
+
+Expert Group on Banking Stability. 2023. “The Need for Reform after the Demise of Credit Suisse.” September 1, 2023. 
+
+https://backend.efd.admin.ch/fileservice/sdweb-docs-prod-efdadminchfiles/files/2024/04/30/4d7bda2b-969f-4860-a949-2682d9849c69.pdf 
+
+Federal Deposit and Insurance Corporation (FDIC). 2023a. “FDIC Creates a Deposit Insurance National Bank of Santa Clara to Protect Insured Depositors of Silicon Valley Bank.” Press release, March 10, 2023. 
+
+https://www.fdic.gov/news/press-releases/2023/pr23016.html 
+
+———. 2023b. “FDIC’s Supervision of Signature Bank.” April 28, 2023. https://www.fdic.gov/news/press-releases/2023/pr23033a.pdf 
+
+———. 2023c. “Options for Deposit Insurance Reform.” May 1, 2023. https://www.fdic.gov/analysis/options-deposit-insurance-reforms/index.html 
+
+———. 2023d. “Crisis and Response: An FDIC History, 2008–2013.” June 12, 2023. https://www.fdic.gov/resources/publications/crisis-response/index.html 
+
+———. 2023e. “Notice of Proposed Rulemaking on Resolution Plans Required for Insured Depository Institutions.” Financial Institution Letter, August 29, 2023. https://www.fdic.gov/news/financial-institution-letters/2023/fil23046.html 
+
+———. 2023f. “FDIC’s Supervision of First Republic Bank.” September 8, 2023. https://www.fdic.gov/news/press-releases/2023/pr23073a.pdf 
+
+———. 2024. “Overview of Resolution under Title II of the Dodd-Frank Act.” April 2024. https://www.fdic.gov/sites/default/files/2024-04/spapr1024b_0.pdf 
+
+Federal Reserve System (Fed). 2023. “Review of the Federal Reserve’s Supervision and Regulation of Silicon Valley Bank.” April 28, 2023. 
+
+https://www.federalreserve.gov/publications/review-of-the-federal-reservessupervision-and-regulation-of-silicon-valley-bank.htm 
+
+———. 2024a. “Additional Information on Other Credit Extensions.” January 4, 2024. https://www.federalreserve.gov/monetarypolicy/additional-information-on-othercredit-extensions.htm 
+
+———. 2024b. “Bank Term Funding Program.” October 11, 2024. https://www.federalreserve.gov/financial-stability/bank-term-funding-program.htm 
+
+Feldberg, Greg. 2023. “Lessons from Applying the Liquidity Coverage Ratio to Silicon Valley Bank.” Yale School of Management, March 27, 2023. https://som.yale.edu/story/2023/lessons-applying-liquidity-coverage-ratio-siliconvalley-bank 
+
+
+Fernández de Lis, Santiago, Javier Garcia. 2018. “Funding before and in Resolution.” BBVA Research, May 31, 2018. 
+
+https://www.bbvaresearch.com/wp-content/uploads/2018/05/Liquidity-inresolution_vFm.pdf 
+
+Financial Stability Board (FSB). 2014. “Key Attributes of Effective Resolution Regimes for Financial Institutions.” October 15, 2014. 
+
+https://www.fsb.org/2014/10/key-attributes-of-effective-resolution-regimes-forfinancial-institutions-2/ 
+
+———. 2015. “Principles on Loss-absorbing and Recapitalisation Capacity of G-SIBs in Resolution.” November 9, 2015. 
+
+https://www.fsb.org/2015/11/total-loss-absorbing-capacity-tlac-principles-and-termsheet/ 
+
+———. 2016. “Guiding Principles on the Temporary Funding Needed to Support the Orderly Resolution of a Global Systemically Important Bank (G-SIB).” August 18, 2016. https://www.fsb.org/2016/08/guiding-principles-on-the-temporary-funding-neededto-support-the-orderly-resolution-of-a-global-systemically-important-bank-g-sib 
+
+———. 2018. “Funding Strategy Elements of an Implementable Resolution Plan.” June 21, 2018. 
+
+https://www.fsb.org/wp-content/uploads/P210618-3.pdf 
+
+———. 2023a. “2023 Bank Failures: Preliminary Lessons Learnt for Resolution.” October 10, 2023. https://www.fsb.org/2023/10/2023-bank-failures-preliminary-lessons-learnt-forresolution/ 
+
+———. 2023b. “2023 List of Global Systemically Important Banks (G-SIBs).” November 27, 2023. https://www.fsb.org/2023/11/2023-list-of-global-systemically-important-banks-gsibs/ 
+
+———. 2024a. “FSB Work Programme for 2024.” January 24, 2024. https://www.fsb.org/2024/01/fsb-work-programme-for-2024/ 
+
+———. 2024b. “Peer Review of Switzerland.” February 24, 2024. https://www.fsb.org/2024/02/peer-review-of-switzerland/ 
+
+First Citizens BancShares, Inc. 2023. “Form 8-K/A.” March 27, 2023. https://d18rn0p25nwr6d.cloudfront.net/CIK-0000798941/b2b8a75f-fbf5-49a5-8df8dc2823780b80.pdf 
+
+Gorton, Gary. 1988. “Banking Panics and Business Cycles”. _Oxford Economic Papers_ 40, no. 4 (December): 751–81. https://doi.org/10.1093/oxfordjournals.oep.a041885 
+
+Gortsos, Christos. 2016. “Deposit Guarantee Schemes: General Aspects and Recent Institutional and Regulatory Developments at International and EU Level.” _SSRN Electronic Journal_ , April 4, 2016. 
+
+https://doi.org/10.2139/ssrn.2758635 
+
+
+———. 2019. “The Role of Deposit Guarantee Schemes (DGSS) in Resolution Financing.” European Banking Institute Working Paper Series 2019–No. 37, March 28, 2019. https://doi.org/10.2139/ssrn.3361750 
+
+Grossman, Richard S., and Hugh T. Rockoff. 2015. “Fighting the Last War: Economists on the Lender of Last Resort.” CEPR Discussion Paper No. 10361, January 2015. https://cepr.org/publications/dp10361 
+
+Group of Thirty (G-30). 2024. “Bank Failures and Contagion: Lender of Last Resort, Liquidity, and Risk Management.” Special Report, January 2024. https://group30.org/publications/detail/5264 
+
+Gruenberg, Martin. 2023. “The Resolution of Large Regional Banks—Lessons Learned.” Speech delivered at the Brookings Institution Center on Regulation and Markets, Washington, DC, August 14, 2023. https://www.fdic.gov/news/speeches/2023/spaug1423.html 
+
+Grund, Sebastian, Nele Nomm, and Florian Walch. 2020. “Liquidity in Resolution: Comparing Frameworks for Liquidity Provision across Jurisdictions.” ECB Occasional Paper No. 202051, December 2020. https://doi.org/10.2139/ssrn.3742257 
+
+Heider, Florian, Jan Pieter Krahnen, Loriana Pelizzon, Jonas Schlegel, and Tobias Tröger. 2023. “European Lessons from Silicon Valley Bank Resolution: A Plea for a Comprehensive Demand Deposit Protection Scheme (CDDPS),” SAFE Policy Letter No. 98, March 2023. 
+
+https://safe-frankfurt.de/policy-center/policy-publications/policy-publdetailsview/publicationname/european-lessons-from-silicon-valley-bank-resolution-aplea-for-a-comprehensive-demand-deposit-protection-scheme-cddps.html 
+
+Hsu, Michael J. 2024. “Building Better Brakes for a Faster Financial World.” Speech delivered at the Columbia Law School, New York, NY, January 18, 2024. https://www.occ.gov/news-issuances/speeches/2024/pub-speech-2024-4.pdf 
+
+Hüpkes, Eva. 2024. “Ten Years on: Progress in Deposit Insurance and Bank Crisis Management.” Keynote speech delivered at the EBI Global Academic Conference on Banking Regulation sponsored by the European Banking Institute, January 1, 2024. https://www.iadi.org/2024/01/ten-years-on-progress-in-deposit-insurance-and-bankcrisis-management/ 
+
+Infelise, Federico, Francesco Lippi, and Michael Vincent. 2022. “Estimating Liquidity Needs in Resolution in the Banking Union.” Technical SRB Staff Working Paper, March 2022. 
+
+https://www.srb.europa.eu/system/files/media/document/20220328%20SRB%20sta ff%20working%20paper%20Estimating%20liquidity%20needs%20in%20resolution% 20in%20the%20Banking%20Union%20FINAL_0.pdf 
+
+International Association of Deposit Insurers (IADI). 2014. “Core Principles for Effective Deposit Insurance Systems.” November 2014. https://www.iadi.org/en/core-principles-and-guidance/core-principles/ 
+
+
+———. 2023. “The 2023 Banking Turmoil and Deposit Insurance Systems: Potential Implications and Emerging Policy Issues.” _SSRN Electronic Journal_ , December 15, 2023. https://doi.org/10.2139/ssrn.4688929 
+
+” Kaminska, Izabella. 2024. “A Quiet Revolution Rocks Central Banking. _Politico_ , January 19, 2024. 
+
+https://www.politico.eu/article/pre-positioning-quiet-revolution-rocking-centralbanking/ 
+
+Kelly Steven. 2024. “How the FDIC Sourced Crisis-Time Fed Funding through the Failed Banks of 2023.” Yale School of Management, August 20, 2024. https://som.yale.edu/story/2024/how-fdic-sourced-crisis-time-fed-funding-throughfailed-banks-2023 
+
+King, Mervyn. 2016. “Rethinking Crisis Liquidity Provision.” NYU Stern–TCH Gallatin Lecture, September 13, 2016. https://assets.realclear.com/files/2023/04/2159_2158_nyu_stern_gallatin_lecture_201 6.pdf 
+
+Krogstrup, Signe, Thomas Sangill, and Mette von Sicard. 2024. “Containing TechnologyDriven Bank Runs.” _Finance & Development Magazine_ 61, no. 1 (March): 48–51. https://www.imf.org/en/Publications/fandd/issues/2024/03/Containing-Technologydriven-bank-runs-Krogstrup-Sangill-Sicard 
+
+Labont, Marc. 2023. “Bank Failures: The FDIC’s Systemic Risk Exception.” Congressional Research Service, In Focus Note, April 23, 2024. https://crsreports.congress.gov/product/pdf/IF/IF12378 
+
+Laboureix, Dominique. 2023. “10th IIF Colloquium on European Banking and Supervision: Dominique Laboureix’s speech.” 10th IIF Colloquium, November 21, 2023. https://www.srb.europa.eu/en/content/10th-iif-colloqium-european-banking-andsupervision-dominique-laboureixs-speech 
+
+Laeven, Luc, and Ulrich Bindseil. 2017. “Confusion about the Lender of Last Resort.” Centre for Economic Policy Research, _VoxEU_ Column, January 13, 2017. https://cepr.org/voxeu/columns/confusion-about-lender-last-resort 
+
+Lauren, Hirsch. 2023. “Silicon Valley Bank Sold to First Citizens in Government-Backed Deal.” _New York Times,_ March 27, 2023. https://www.nytimes.com/2023/03/27/business/silicon-valley-bank-firstcitizens.html 
+
+Martino, Edoardo. 2020. “The Bail-in beyond Unpredictability: Creditors’ Incentives and Market Discipline.” _European Business Organization Law Review_ 21, no. 4 (December): 789–828. 
+
+https://doi.org/10.1007/s40804-020-00188-7 
+
+McLaughlin, Susan. 2024. “Lessons for the Discount Window from the March 2023 Bank Failures.” _Journal of Financial Crises_ 6, no. 2: 72–84. 
+
+https://elischolar.library.yale.edu/journal-of-financial-crises/vol6/iss2/3/ 
+
+
+Mersch, Yves. 2018. “The Limits of Central Bank Financing in Resolution.” Speech delivered at the IMFS Distinguished Lecture Series sponsored by Goethe University Frankfurt’s Institute for Monetary and Financial Stability, Frankfurt, Germany, January 30, 2018. 
+
+https://www.ecb.europa.eu/press/key/date/2018/html/ecb.sp180130.en.html 
+
+Nyborg, Kjell G. 2017. “Central Bank Collateral Frameworks.” _Journal of Banking & Finance_ 76 (March): 198–214. 
+
+https://doi.org/10.1016/j.jbankfin.2016.12.010 
+
+Perotti, Enrico. 2023. “Measures to Prevent Runs on Solvent Banks.” Centre for Economic Policy Research, _VoxEU_ Column, July 1, 2023. https://cepr.org/voxeu/columns/measures-prevent-runs-solventbanks#:~:text=Enrico%20Perotti,Founder%20and%20Director&text=The%20experience%20calls%20for%20norms,ins urance%20and%20raising%20bank%20capital 
+
+Restoy, Fernando. 2018. “Bail-in in the New Bank Resolution Framework: Is There an Issue with the Middle Class?” Speech delivered at the “Resolution and Deposit Guarantee Schemes in Europe: Incomplete Processes and Uncertain Outcomes” international conference sponsored by IADI-ERC, Naples, Italy, March 23, 2018. https://www.bis.org/speeches/sp180323.htm 
+
+———. 2023. “Deposit Stability: What Should Policymakers Look At?” Remarks delivered at the “Deposits in the Spotlight–Do We Need to Rethink the Treatment of Deposits?” webinar sponsored by FSI-IADI, October 27, 2023. https://www.bis.org/speeches/sp231027.htm 
+
+Ringe, Wolf-Georg. 2017. “Bail-In between Liquidity and Solvency.” Oxford Legal Studies Research Paper No. 33/2016, October 14, 2017. https://doi.org/10.2139/ssrn.2782457 
+
+Rose, Jonathan. 2023. “Understanding the Speed and Size of Bank Runs in Historical Comparison.” Federal Reserve Bank of St. Louis, _Economic Synopses_ 2023, no. 12 (May 26, 2023). https://doi.org/10.20955/es.2023.12 
+
+Shibut, Lynn, and Georges De Verges. 2021. “FDIC Resolution Tasks and Approaches: A Comparison of the 1980 to 1994 and 2008 to 2013 Crises.” In _The Crisis Management Framework for Banks in the EU. How Can We Deal with the Crisis of Small and MediumSized Banks?_ Bank of Italy, Workshops and Conferences No. 24 (May): 275–315. https://www.bancaditalia.it/media/notizia/the-crisis-management-framework-forbanks-in-the-eu-how-can-we-deal-with-the-crisis-of-small-and-medium-sized-banks/ 
+
+Single Resolution Board (SRB). 2017. “The Single Resolution Board Adopts Resolution Decision for Banco Popular.” Press release, June 7, 2017. https://www.srb.europa.eu/en/content/banco-popular 
+
+
+———. 2021. “Liquidity and Funding in Resolution—Operational Guidance for 2021.” April 30, 2021. 
+
+https://www.srb.europa.eu/en/content/guidance-liquidity-and-funding-resolution 
+
+———. 2022. “Resolvability of Banking Union Banks: 2021.” July 2022. https://www.srb.europa.eu/system/files/media/document/2022-07-13_SRBResolvability-Assessment.pdf 
+
+———. 2023a. “SRB Opens a Public Consultation on the Future Review of MREL.” Press release, December 14, 2023. 
+
+https://www.srb.europa.eu/en/content/srb-opens-public-consultation-future-reviewmrel#:~:text=The%20consultation%20is%20part%20of,2023%20to%2013%20Febru ary%202024 
+
+———. 2023b. “Sberbank d.d. and Sberbank Banka d.d.” Resolution Cases, December 21, 2023. https://www.srb.europa.eu/en/content/sberbank-dd-and-sberbank-banka-dd 
+
+Solé, Juan. 2024. “Wanted: An Updated Understanding of Bank Runs.” _European Stability Mechanism Blog_ , February 21, 2024. 
+
+https://www.esm.europa.eu/blog/wanted-updated-understanding-bank-runs 
+
+Swiss Federal Council. 2024. “Report on Banking Stability.” April 10, 2024. https://www.efd.admin.ch/efd/en/home/financial-affairs/report-too-big-too-fail.html 
+
+Swiss Financial Market Supervisory Authority (FINMA). 2023a. “Resolution Report 2023.” April 26, 2023. https://www.finma.ch/en/enforcement/recovery-and-resolution/resolutionreport/archive/resolution-berichterstattung-2023/ 
+
+———. 2023b. “FINMA Report: Lessons Learned from the CS Crisis.” December 19, 2023. 
+
+https://www.finma.ch/en/~/media/finma/dokumente/dokumentencenter/myfinma/f inma-publikationen/cs-bericht/20231219-finma-berichtcs.pdf?sc_lang=en&hash=3F13A6D9398F2F55B90347A64E269F44 
+
+Swiss Financial Market Supervisory Authority and Swiss National Bank (FINMA and SNB). 2023. “FINMA and SNB Issue Statement on Market Uncertainty.” Press release, March 15, 2023. 
+
+https://www.finma.ch/en/~/media/finma/dokumente/dokumentencenter/8news/me dienmitteilungen/2023/03/20230315-mm- 
+
+statement.pdf?sc_lang=en&hash=9E7D5CBED9519B41450D7D37643B482D 
+
+Swiss National Bank (SNB). 2023. “Swiss National Bank Provides Substantial Liquidity Assistance to Support UBS Takeover of Credit Suisse.” Press release, March 19, 2023. https://www.snb.ch/en/publications/communication/pressreleases/2023/pre_20230319_1 
+
+
+———. 2024. “Guidelines of the Swiss National Bank on Monetary Policy Instruments.” Monetary Policy Instruments, June 17, 2024. https://www.snb.ch/dam/jcr:bd390819-aec9-423a-84eecd1ad042e4a7/snb_legal_geldpol_instr.en.pdf 
+
+Tucker, Paul. 2014. “The Lender of Last Resort and Modern Central Banking: Principles and Reconstruction.” BIS Papers No. 79, September 2014. https://www.bis.org/publ/bppdf/bispap79b_rh.pdf 
+
+Tuckman, Bruce. 2023. “Chapter 4: Silicon Valley Bank: Failures in ‘Detective’ and ‘Punitive’ Supervision Far Outweighed the 2019 Tailoring of Preventing Supervision.” In Acharya, Viral V., Matthew P. Richardson, Kermit L. Schoenholtz, and Bruce Tuckman, eds. 2023. _SVB and Beyond: The Banking Stress of 2023_ . London and Paris: CEPR Press https://drive.google.com/file/d/1M067WVIlogb0Jtrsl33ggpbHIAtVjlR6/view 
+
+Tuominen, Anneli. 2024. “Crisis Management: Reform on the Way.” Contribution for Eurofi Magazine, February 20, 2024. 
+
+https://www.bankingsupervision.europa.eu/press/interviews/date/2024/html/ssm.in 240220_4~587cc11dd1.en.html 
+
+US Department of Treasury, Federal Reserve System, Federal Deposit Insurance Corporation (US Treasury, Fed, and FDIC). 2023. “Joint Statement.” Press release, March 12, 2023. 
+
+https://www.federalreserve.gov/newsevents/pressreleases/monetary20230312b.htm 
+
+Van Roosebeke, Bert, Ryan Defina, and Tri Wahyuni. 2023. “Uninsured Deposits: Relevance and Evolutions Over Time.” _SSRN Electronic Journal_ . January 1, 2023. https://doi.org/10.2139/ssrn.4476253 
+
+Wildmann, Nadya, Beatrice Scheubel, Luisa Fascione, and Georg Leitner. 2023. “Objectives and Limitations of the Liquidity Coverage Ratio.” ECB Macroprudential Bulletin, Focus No. 23, December 6, 2023. https://www.ecb.europa.eu/pub/financial-stability/macroprudentialbulletin/focus/2023/html/ecb.mpbu202312_focus02.en.html 
+
+
+## **VII. Appendix** 
+
+## **Banking Turmoil of 2023, Basel Committee on Banking Supervision/Financial Stability Board Lessons Learned for Supervisory and Resolution Authorities** 
+
+## _**Take-Aways for Supervision**_ 
+
+**Liquidity risk.** There may be a need to review supervisory standards and practices in relation to liquidity requirements (in particular, as per the outflows rates currently assumed in the liquidity coverage ratio [LCR]), reassessing the frequency of monitoring and the approach to concentration risks. The potential impact of unrealized losses on the liquidity position of the bank—and more generally, the accounting classification of liquid assets—also deserves further assessment. 
+
+## **Implementation of the interest rate risk in the banking book (IRRBB) standard** 
+
+**across jurisdictions.** Interest rate risk was central to the crisis of US regional banks. Although such entities were only partially subject to IRRBB, authorities will further assess whether the current Pillar 2 approach can effectively mitigate interest rate risk. 
+
+**Analysis of additional Tier 1 (AT1) instruments and their role in the capital framework.** Despite a difficult situation, Credit Suisse has continued to replace AT1 instruments and to pay AT1 coupons, in order to avoid negative signaling effects. There is therefore a need to reflect on the role of AT1 securities in the capital framework, particularly their capacity to absorb losses on a going-concern basis. 
+
+**Scope of the Basel Framework.** The crisis has shown that the failure of regional banks can trigger systemic consequences, calling for further analysis on the limited scope of application of the Basel (and resolution) framework, currently recommended only to global systemically important banks. 
+
+## _**Take-Aways for Resolution**_ 
+
+**Effectiveness of the current deposit insurance coverage levels and moral hazard.** In the US, the use of the systemic risk exception stimulated a debate about the measures that may increase moral hazard while aiming at safeguarding financial stability. Authorities may assess the effectiveness of their current deposit insurance coverage levels and the treatment of uninsured depositors while considering moral hazard implications. This should also take into account how their deposit protection framework interacts with existing prudential and resolution regimes (see Section III). 
+
+**Effective public sector funding backstop.** Authorities need to have in place credible liquidity backstops to restore market confidence in a timely manner when a bank is resolved (see Section V). 
+
+**Legal issues in executing a bail-in across borders.** The demise of Credit Suisse highlighted the need to clarify how securities laws (prospectus and disclosure requirements) apply to the cross-border conversion of total loss-absorbing capacity (TLAC) bonds to equity in the context of the open-bank bail-in. 
+
+
+**Choice of resolution strategies and optionality of resolution tools.** Authorities should retain flexibility when carrying out their resolution planning activities, preparing for several crisis scenarios, without hindering the level of preparedness in the execution of the preferred resolution strategy (see Section IV). 
+
+**Post-stabilization restructuring plan.** Resolution authorities need to prepare a credible restructuring plan, capable of restoring market confidence in the business model of a resolved bank in the post-resolution period. Timely and efficient communication to the market is also essential. 
+
+**Communication and coordination between home and host authorities.** Considering the increasing speed of bank crises, it is important to enhance coordination between home and host authorities, both inside and outside crisis management groups (CMGs). Authorities should also coordinate their communication strategies and communication outputs. 
+
+_Sources: BCBS 2023; FSB 2023a._ 
+
+This open access article is distributed under the terms of the CC-BY-NC-ND 4.0 license, which allows sharing of this work provided the original author and source are cited. The work may not be changed or used commercially.

@@ -1,0 +1,40 @@
+{
+  "doc_id": "vol4_iss4_4",
+  "document_type": "survey",
+  "title": "Blanket Guarantees Survey",
+  "authors": [
+    "Christian M. McNamara",
+    "Carey K. Mott",
+    "Greg Feldberg",
+    "Andrew Metrick"
+  ],
+  "abstract": null,
+  "keywords": [],
+  "publication_date": "2022-12-21T23:13:33Z",
+  "doi": null,
+  "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss4/4",
+  "volume": 4,
+  "issue": 4,
+  "document_number": 4,
+  "bepress_id": null,
+  "raw": {
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss4/4",
+    "parent_key": "32821152",
+    "context_key": "32821180",
+    "title": "Blanket Guarantees Survey",
+    "publication_date": "2022-12-21T23:13:33Z",
+    "download_format": "pdf",
+    "download_link": "https://elischolar.library.yale.edu/cgi/viewcontent.cgi?article=1440&context=journal-of-financial-crises",
+    "document_type": [
+      "survey",
+      "Survey",
+      "Surveys"
+    ],
+    "author": [
+      "Christian M. McNamara",
+      "Carey K. Mott",
+      "Greg Feldberg",
+      "Andrew Metrick"
+    ]
+  }
+}

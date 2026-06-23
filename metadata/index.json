@@ -1,0 +1,3530 @@
+{
+  "vol1_iss1_1": {
+    "path": "metadata/vol1_iss1_1.json",
+    "document_type": "article",
+    "title": "The Early Phases of the Financial Crisis:  Reflections on the Lender of Last Resort",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol1/iss1/1"
+  },
+  "vol1_iss1_10": {
+    "path": "metadata/vol1_iss1_10.json",
+    "document_type": "lesson_learned",
+    "title": "Yale Program on Financial Stability Lessons Learned: Scott Alvarez, Esq.",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol1/iss1/10"
+  },
+  "vol1_iss1_11": {
+    "path": "metadata/vol1_iss1_11.json",
+    "document_type": "lesson_learned",
+    "title": "Lessons Learned: Thomas C. Baxter, Jr., Esq.",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol1/iss1/11"
+  },
+  "vol1_iss1_12": {
+    "path": "metadata/vol1_iss1_12.json",
+    "document_type": "note",
+    "title": "How the Federal Reserve aided the Peoples Bank of China in addressing its 2015 Stock Market Crash",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol1/iss1/12"
+  },
+  "vol1_iss1_2": {
+    "path": "metadata/vol1_iss1_2.json",
+    "document_type": "case_study",
+    "title": "The Lehman Brothers Bankruptcy A: Overview",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol1/iss1/2"
+  },
+  "vol1_iss1_3": {
+    "path": "metadata/vol1_iss1_3.json",
+    "document_type": "case_study",
+    "title": "The Lehman Brothers Bankruptcy B: Risk Limits and Stress Tests",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol1/iss1/3"
+  },
+  "vol1_iss1_4": {
+    "path": "metadata/vol1_iss1_4.json",
+    "document_type": "case_study",
+    "title": "The Lehman Brothers Bankruptcy C: Managing the Balance Sheet Through the Use of Repo 105",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol1/iss1/4"
+  },
+  "vol1_iss1_5": {
+    "path": "metadata/vol1_iss1_5.json",
+    "document_type": "case_study",
+    "title": "The Lehman Brothers Bankruptcy D:  The Role of Ernst & Young",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol1/iss1/5"
+  },
+  "vol1_iss1_6": {
+    "path": "metadata/vol1_iss1_6.json",
+    "document_type": "case_study",
+    "title": "The Lehman Brothers Bankruptcy E:  The Effects on Lehman\u2019s U.S. Broker-Dealer",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol1/iss1/6"
+  },
+  "vol1_iss1_7": {
+    "path": "metadata/vol1_iss1_7.json",
+    "document_type": "case_study",
+    "title": "The Lehman Brothers Bankruptcy F: Introduction to the ISDA Master Agreement",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol1/iss1/7"
+  },
+  "vol1_iss1_8": {
+    "path": "metadata/vol1_iss1_8.json",
+    "document_type": "case_study",
+    "title": "The Lehman Brothers Bankruptcy G: The Special Case of Derivatives",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol1/iss1/8"
+  },
+  "vol1_iss1_9": {
+    "path": "metadata/vol1_iss1_9.json",
+    "document_type": "case_study",
+    "title": "The Lehman Brothers Bankruptcy H:  The Global Contagion",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol1/iss1/9"
+  },
+  "vol1_iss2_1": {
+    "path": "metadata/vol1_iss2_1.json",
+    "document_type": "article",
+    "title": "The Temporary Liquidity Guarantee Program: A Systemwide Systemic Risk Exception",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol1/iss2/1"
+  },
+  "vol1_iss2_10": {
+    "path": "metadata/vol1_iss2_10.json",
+    "document_type": "lesson_learned",
+    "title": "Lessons Learned: James B. Lockhart III",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol1/iss2/10"
+  },
+  "vol1_iss2_2": {
+    "path": "metadata/vol1_iss2_2.json",
+    "document_type": "case_study",
+    "title": "JPMorgan Chase London Whale A: Risky Business",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol1/iss2/2"
+  },
+  "vol1_iss2_3": {
+    "path": "metadata/vol1_iss2_3.json",
+    "document_type": "case_study",
+    "title": "JPMorgan Chase London Whale B: Derivatives Valuation",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol1/iss2/3"
+  },
+  "vol1_iss2_4": {
+    "path": "metadata/vol1_iss2_4.json",
+    "document_type": "case_study",
+    "title": "JPMorgan Chase London Whale C: Risk Limits, Metrics, and Models",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol1/iss2/4"
+  },
+  "vol1_iss2_5": {
+    "path": "metadata/vol1_iss2_5.json",
+    "document_type": "case_study",
+    "title": "JPMorgan Chase London Whale D:  Risk-Management Practices",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol1/iss2/5"
+  },
+  "vol1_iss2_6": {
+    "path": "metadata/vol1_iss2_6.json",
+    "document_type": "case_study",
+    "title": "JPMorgan Chase London Whale E:  Supervisory Oversight",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol1/iss2/6"
+  },
+  "vol1_iss2_7": {
+    "path": "metadata/vol1_iss2_7.json",
+    "document_type": "case_study",
+    "title": "JPMorgan Chase London Whale F: Required Securities Disclosures",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol1/iss2/7"
+  },
+  "vol1_iss2_8": {
+    "path": "metadata/vol1_iss2_8.json",
+    "document_type": "case_study",
+    "title": "JPMorgan Chase London Whale G: Hedging Versus Proprietary Trading",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol1/iss2/8"
+  },
+  "vol1_iss2_9": {
+    "path": "metadata/vol1_iss2_9.json",
+    "document_type": "case_study",
+    "title": "JPMorgan Chase London Whale H: Cross-Border Regulation",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol1/iss2/9"
+  },
+  "vol1_iss3_1": {
+    "path": "metadata/vol1_iss3_1.json",
+    "document_type": "case_study",
+    "title": "Ireland and Iceland in Crisis A: Increasing Risk in Ireland",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol1/iss3/1"
+  },
+  "vol1_iss3_10": {
+    "path": "metadata/vol1_iss3_10.json",
+    "document_type": "case_study",
+    "title": "European Banking Union D: Cross-Border Resolution\u2014Dexia Group",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol1/iss3/10"
+  },
+  "vol1_iss3_2": {
+    "path": "metadata/vol1_iss3_2.json",
+    "document_type": "case_study",
+    "title": "Ireland and Iceland in Crisis B: Decreasing Loan Loss Provisions in Ireland",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol1/iss3/2"
+  },
+  "vol1_iss3_3": {
+    "path": "metadata/vol1_iss3_3.json",
+    "document_type": "case_study",
+    "title": "Ireland and Iceland in Crisis C: Iceland\u2019s Landsbanki Icesave",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol1/iss3/3"
+  },
+  "vol1_iss3_4": {
+    "path": "metadata/vol1_iss3_4.json",
+    "document_type": "case_study",
+    "title": "Ireland and Iceland in Crisis D: Similarities and Differences",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol1/iss3/4"
+  },
+  "vol1_iss3_5": {
+    "path": "metadata/vol1_iss3_5.json",
+    "document_type": "case_study",
+    "title": "European Central Bank Tools and Policy Actions A: Open Market Operations, Collateral Expansion and Standing Facilities",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol1/iss3/5"
+  },
+  "vol1_iss3_6": {
+    "path": "metadata/vol1_iss3_6.json",
+    "document_type": "case_study",
+    "title": "European Central Bank Tools and Policy Actions B: Asset Purchase Programs",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol1/iss3/6"
+  },
+  "vol1_iss3_7": {
+    "path": "metadata/vol1_iss3_7.json",
+    "document_type": "case_study",
+    "title": "European Banking Union A: The Single Supervisory Mechanism",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol1/iss3/7"
+  },
+  "vol1_iss3_8": {
+    "path": "metadata/vol1_iss3_8.json",
+    "document_type": "case_study",
+    "title": "European Banking Union B: The Single Resolution Mechanism",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol1/iss3/8"
+  },
+  "vol1_iss3_9": {
+    "path": "metadata/vol1_iss3_9.json",
+    "document_type": "case_study",
+    "title": "European Banking Union C: Cross-Border Resolution\u2013Fortis Group",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol1/iss3/9"
+  },
+  "vol1_iss4_1": {
+    "path": "metadata/vol1_iss4_1.json",
+    "document_type": "article",
+    "title": "Incorporating Macroprudential Financial Regulation into Monetary Policy",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol1/iss4/1"
+  },
+  "vol1_iss4_10": {
+    "path": "metadata/vol1_iss4_10.json",
+    "document_type": "lesson_learned",
+    "title": "Lessons Learned: Ray Dalio",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol1/iss4/10"
+  },
+  "vol1_iss4_11": {
+    "path": "metadata/vol1_iss4_11.json",
+    "document_type": "lesson_learned",
+    "title": "Lessons Learned: Edwin (Ted) Truman",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol1/iss4/11"
+  },
+  "vol1_iss4_2": {
+    "path": "metadata/vol1_iss4_2.json",
+    "document_type": "case_study",
+    "title": "JPMorgan Chase London Whale Z: Background & Overview",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol1/iss4/2"
+  },
+  "vol1_iss4_3": {
+    "path": "metadata/vol1_iss4_3.json",
+    "document_type": "case_study",
+    "title": "Basel III A: Regulatory History",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol1/iss4/3"
+  },
+  "vol1_iss4_4": {
+    "path": "metadata/vol1_iss4_4.json",
+    "document_type": "case_study",
+    "title": "Basel III B: Basel III Overview",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol1/iss4/4"
+  },
+  "vol1_iss4_5": {
+    "path": "metadata/vol1_iss4_5.json",
+    "document_type": "case_study",
+    "title": "Basel III C: Internal Risk Models",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol1/iss4/5"
+  },
+  "vol1_iss4_6": {
+    "path": "metadata/vol1_iss4_6.json",
+    "document_type": "case_study",
+    "title": "Basel III D: Swiss Finish to Basel III",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol1/iss4/6"
+  },
+  "vol1_iss4_7": {
+    "path": "metadata/vol1_iss4_7.json",
+    "document_type": "case_study",
+    "title": "Basel III E: Synthetic Financing by Prime Brokers",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol1/iss4/7"
+  },
+  "vol1_iss4_8": {
+    "path": "metadata/vol1_iss4_8.json",
+    "document_type": "case_study",
+    "title": "Basel III F: Callable Commercial Paper",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol1/iss4/8"
+  },
+  "vol1_iss4_9": {
+    "path": "metadata/vol1_iss4_9.json",
+    "document_type": "case_study",
+    "title": "Basel III G: Shadow Banking and Project Finance",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol1/iss4/9"
+  },
+  "vol2_iss1_1": {
+    "path": "metadata/vol2_iss1_1.json",
+    "document_type": "article",
+    "title": "Editors\u2019 Note: Fighting the COVID-19 Pandemic Financial Crisis",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol2/iss1/1"
+  },
+  "vol2_iss1_10": {
+    "path": "metadata/vol2_iss1_10.json",
+    "document_type": "lesson_learned",
+    "title": "Lessons Learned: James (Jim) Millstein",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol2/iss1/10"
+  },
+  "vol2_iss1_11": {
+    "path": "metadata/vol2_iss1_11.json",
+    "document_type": "lesson_learned",
+    "title": "Lessons Learned: David Wessel",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol2/iss1/11"
+  },
+  "vol2_iss1_12": {
+    "path": "metadata/vol2_iss1_12.json",
+    "document_type": "lesson_learned",
+    "title": "Lessons Learned: Jack Gutt",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol2/iss1/12"
+  },
+  "vol2_iss1_13": {
+    "path": "metadata/vol2_iss1_13.json",
+    "document_type": "lesson_learned",
+    "title": "Lessons Learned: Tony Fratto",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol2/iss1/13"
+  },
+  "vol2_iss1_2": {
+    "path": "metadata/vol2_iss1_2.json",
+    "document_type": "article",
+    "title": "The Legal Authorities Framing the Government\u2019s Response to the Global Financial Crisis",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol2/iss1/2"
+  },
+  "vol2_iss1_3": {
+    "path": "metadata/vol2_iss1_3.json",
+    "document_type": "case_study",
+    "title": "Guarantees and Capital Infusions in Response to Financial Crises A: Haircuts and Resolutions",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol2/iss1/3"
+  },
+  "vol2_iss1_4": {
+    "path": "metadata/vol2_iss1_4.json",
+    "document_type": "case_study",
+    "title": "Guarantees and Capital Infusions in Response to Financial Crises B: U.S. Guarantees During the Global Financial Crisis",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol2/iss1/4"
+  },
+  "vol2_iss1_5": {
+    "path": "metadata/vol2_iss1_5.json",
+    "document_type": "case_study",
+    "title": "Guarantees and Capital Infusions in Response to Financial Crises C: U.S. 2009 Stress Test",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol2/iss1/5"
+  },
+  "vol2_iss1_6": {
+    "path": "metadata/vol2_iss1_6.json",
+    "document_type": "case_study",
+    "title": "Restructuring and Forgiveness in Financial Crises A: The Mexican Peso Crisis of 1994-95",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol2/iss1/6"
+  },
+  "vol2_iss1_7": {
+    "path": "metadata/vol2_iss1_7.json",
+    "document_type": "case_study",
+    "title": "Restructuring and Forgiveness in Financial Crises B: The Asian Crisis of 1997",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol2/iss1/7"
+  },
+  "vol2_iss1_8": {
+    "path": "metadata/vol2_iss1_8.json",
+    "document_type": "case_study",
+    "title": "Restructuring and Forgiveness in Financial Crises C: The Swedish Banking Crisis of 1990-94",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol2/iss1/8"
+  },
+  "vol2_iss1_9": {
+    "path": "metadata/vol2_iss1_9.json",
+    "document_type": "case_study",
+    "title": "Restructuring and Forgiveness in Financial Crises D: The Japanese Financial Crisis of the 1990s",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol2/iss1/9"
+  },
+  "vol2_iss2_1": {
+    "path": "metadata/vol2_iss2_1.json",
+    "document_type": "article",
+    "title": "Solvency as a Fundamental Constraint on LOLR Policy for Independent Central Banks: Principles, History, Law",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol2/iss2/1"
+  },
+  "vol2_iss2_2": {
+    "path": "metadata/vol2_iss2_2.json",
+    "document_type": "case_study",
+    "title": "The Federal Reserve\u2019s Financial Crisis Response A: Lending & Credit Programs for Depository Institutions",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol2/iss2/2"
+  },
+  "vol2_iss2_3": {
+    "path": "metadata/vol2_iss2_3.json",
+    "document_type": "case_study",
+    "title": "The Federal Reserve\u2019s Financial Crisis Response B: Lending & Credit Programs For Primary Dealers",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol2/iss2/3"
+  },
+  "vol2_iss2_4": {
+    "path": "metadata/vol2_iss2_4.json",
+    "document_type": "case_study",
+    "title": "The Federal Reserve\u2019s Financial Crisis Response C: Providing U.S. Dollars to Foreign Central Banks",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol2/iss2/4"
+  },
+  "vol2_iss2_5": {
+    "path": "metadata/vol2_iss2_5.json",
+    "document_type": "case_study",
+    "title": "The Federal Reserve\u2019s Financial Crisis Response D: Commercial Paper Market Facilities",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol2/iss2/5"
+  },
+  "vol2_iss2_6": {
+    "path": "metadata/vol2_iss2_6.json",
+    "document_type": "case_study",
+    "title": "The Federal Reserve\u2019s Financial Crisis Response E: The Term Asset-Backed Securities Loan Facility",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol2/iss2/6"
+  },
+  "vol2_iss2_7": {
+    "path": "metadata/vol2_iss2_7.json",
+    "document_type": "lesson_learned",
+    "title": "Lessons Learned: A Conversation with  Paul A. Volcker",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol2/iss2/7"
+  },
+  "vol2_iss3_1": {
+    "path": "metadata/vol2_iss3_1.json",
+    "document_type": "article",
+    "title": "Designing the Main Street Lending Program: Challenges and Options",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol2/iss3/1"
+  },
+  "vol2_iss3_10": {
+    "path": "metadata/vol2_iss3_10.json",
+    "document_type": "case_study",
+    "title": "The Asset-Backed Commercial Paper Money Market Mutual Fund Liquidity Facility (AMLF) (U.S. GFC)",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol2/iss3/10"
+  },
+  "vol2_iss3_11": {
+    "path": "metadata/vol2_iss3_11.json",
+    "document_type": "case_study",
+    "title": "The Term Asset-Backed Securities Loan Facility (TALF) (U.S. GFC)",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol2/iss3/11"
+  },
+  "vol2_iss3_12": {
+    "path": "metadata/vol2_iss3_12.json",
+    "document_type": "case_study",
+    "title": "The Public-Private Investment Program: The Legacy Loans Program (U.S. GFC)",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol2/iss3/12"
+  },
+  "vol2_iss3_13": {
+    "path": "metadata/vol2_iss3_13.json",
+    "document_type": "case_study",
+    "title": "The Public-Private Investment Program: The Legacy Securities Program (U.S. GFC)",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol2/iss3/13"
+  },
+  "vol2_iss3_14": {
+    "path": "metadata/vol2_iss3_14.json",
+    "document_type": "case_study",
+    "title": "The European Central Bank's Three-Year Long-Term Refinancing Operations (ECB GFC)",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol2/iss3/14"
+  },
+  "vol2_iss3_15": {
+    "path": "metadata/vol2_iss3_15.json",
+    "document_type": "case_study",
+    "title": "The European Central Bank's Securities Markets Programme (ECB GFC)",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol2/iss3/15"
+  },
+  "vol2_iss3_16": {
+    "path": "metadata/vol2_iss3_16.json",
+    "document_type": "case_study",
+    "title": "The European Central Bank's Covered Bond Purchase Programs I and II (ECB GFC)",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol2/iss3/16"
+  },
+  "vol2_iss3_17": {
+    "path": "metadata/vol2_iss3_17.json",
+    "document_type": "case_study",
+    "title": "Japan's Outright Purchases of Commercial Paper (Japan GFC)",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol2/iss3/17"
+  },
+  "vol2_iss3_18": {
+    "path": "metadata/vol2_iss3_18.json",
+    "document_type": "case_study",
+    "title": "Japan's Special Funds-Supplying Operations (Japan GFC)",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol2/iss3/18"
+  },
+  "vol2_iss3_19": {
+    "path": "metadata/vol2_iss3_19.json",
+    "document_type": "case_study",
+    "title": "The United Kingdom's Asset Purchase Program (U.K. GFC)",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol2/iss3/19"
+  },
+  "vol2_iss3_2": {
+    "path": "metadata/vol2_iss3_2.json",
+    "document_type": "survey",
+    "title": "Market Liquidity Programs: GFC and Before",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol2/iss3/2"
+  },
+  "vol2_iss3_20": {
+    "path": "metadata/vol2_iss3_20.json",
+    "document_type": "case_study",
+    "title": "The United Kingdom's Commercial Paper Facility (U.K. GFC)",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol2/iss3/20"
+  },
+  "vol2_iss3_21": {
+    "path": "metadata/vol2_iss3_21.json",
+    "document_type": "case_study",
+    "title": "The United Kingdom's Secured Commercial Paper Facility (U.K. GFC)",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol2/iss3/21"
+  },
+  "vol2_iss3_22": {
+    "path": "metadata/vol2_iss3_22.json",
+    "document_type": "case_study",
+    "title": "The United Kingdom's Corporate Bond Secondary Market Scheme (U.K. GFC)",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol2/iss3/22"
+  },
+  "vol2_iss3_23": {
+    "path": "metadata/vol2_iss3_23.json",
+    "document_type": "case_study",
+    "title": "The United Kingdom's Special Liquidity Scheme (SLS) (U.K. GFC)",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol2/iss3/23"
+  },
+  "vol2_iss3_24": {
+    "path": "metadata/vol2_iss3_24.json",
+    "document_type": "case_study",
+    "title": "Denmark's Excess-Capital Temporary Credit Facility (Denmark GFC)",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol2/iss3/24"
+  },
+  "vol2_iss3_25": {
+    "path": "metadata/vol2_iss3_25.json",
+    "document_type": "case_study",
+    "title": "Denmark's Loan Bills Temporary Credit Facility (Denmark GFC)",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol2/iss3/25"
+  },
+  "vol2_iss3_26": {
+    "path": "metadata/vol2_iss3_26.json",
+    "document_type": "survey",
+    "title": "Bank Debt Guarantee Programs",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol2/iss3/26"
+  },
+  "vol2_iss3_27": {
+    "path": "metadata/vol2_iss3_27.json",
+    "document_type": "case_study",
+    "title": "The Debt Guarantee Program of the Temporary Liquidity Guarantee Program (U.S. GFC)",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol2/iss3/27"
+  },
+  "vol2_iss3_28": {
+    "path": "metadata/vol2_iss3_28.json",
+    "document_type": "case_study",
+    "title": "The Australian Government Guarantee Scheme for Large Deposits and Wholesale Funding (Australia GFC)",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol2/iss3/28"
+  },
+  "vol2_iss3_29": {
+    "path": "metadata/vol2_iss3_29.json",
+    "document_type": "case_study",
+    "title": "Austria's IBSG Guarantee Program (Austria GFC)",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol2/iss3/29"
+  },
+  "vol2_iss3_3": {
+    "path": "metadata/vol2_iss3_3.json",
+    "document_type": "case_study",
+    "title": "1970 Commercial Paper Market Liquidity Crisis (U.S. Historical)",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol2/iss3/3"
+  },
+  "vol2_iss3_30": {
+    "path": "metadata/vol2_iss3_30.json",
+    "document_type": "case_study",
+    "title": "Austria's Oesterreichische Clearingbank AG (OeCAG) (Austria GFC)",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol2/iss3/30"
+  },
+  "vol2_iss3_31": {
+    "path": "metadata/vol2_iss3_31.json",
+    "document_type": "case_study",
+    "title": "The Belgian Credit Guarantee Scheme (Belgium GFC)",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol2/iss3/31"
+  },
+  "vol2_iss3_32": {
+    "path": "metadata/vol2_iss3_32.json",
+    "document_type": "case_study",
+    "title": "The Canadian Lenders Assurance Facility (Canada GFC)",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol2/iss3/32"
+  },
+  "vol2_iss3_33": {
+    "path": "metadata/vol2_iss3_33.json",
+    "document_type": "case_study",
+    "title": "Denmark's Guarantee Scheme (Denmark GFC)",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol2/iss3/33"
+  },
+  "vol2_iss3_34": {
+    "path": "metadata/vol2_iss3_34.json",
+    "document_type": "case_study",
+    "title": "The Guarantee Scheme for Bank Funding in Finland (Finland GFC)",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol2/iss3/34"
+  },
+  "vol2_iss3_35": {
+    "path": "metadata/vol2_iss3_35.json",
+    "document_type": "case_study",
+    "title": "French Liquidity Support through the Soci\u00e9t\u00e9 de Financement de l\u2019Economie (SFEF) (France GFC)",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol2/iss3/35"
+  },
+  "vol2_iss3_36": {
+    "path": "metadata/vol2_iss3_36.json",
+    "document_type": "case_study",
+    "title": "The Sonderfonds Finanzmarktstabilisierung (SoFFin) Guarantee Scheme (Germany GFC)",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol2/iss3/36"
+  },
+  "vol2_iss3_37": {
+    "path": "metadata/vol2_iss3_37.json",
+    "document_type": "case_study",
+    "title": "The Greek Credit Guarantee Scheme (Greece GFC)",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol2/iss3/37"
+  },
+  "vol2_iss3_38": {
+    "path": "metadata/vol2_iss3_38.json",
+    "document_type": "case_study",
+    "title": "The Hungarian Guarantee Scheme (Hungary GFC)",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol2/iss3/38"
+  },
+  "vol2_iss3_39": {
+    "path": "metadata/vol2_iss3_39.json",
+    "document_type": "case_study",
+    "title": "The Italian Guarantee Scheme (Italy GFC)",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol2/iss3/39"
+  },
+  "vol2_iss3_4": {
+    "path": "metadata/vol2_iss3_4.json",
+    "document_type": "case_study",
+    "title": "The Federal Reserve\u2019s Response to the 1987 Market Crash (U.S. Historical)",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol2/iss3/4"
+  },
+  "vol2_iss3_40": {
+    "path": "metadata/vol2_iss3_40.json",
+    "document_type": "case_study",
+    "title": "Ireland's Credit Institutions (Eligible Liabilities Guarantee) Scheme (Ireland GFC)",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol2/iss3/40"
+  },
+  "vol2_iss3_41": {
+    "path": "metadata/vol2_iss3_41.json",
+    "document_type": "case_study",
+    "title": "The State Guarantee of External Debt of Korean Banks (South Korea GFC)",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol2/iss3/41"
+  },
+  "vol2_iss3_42": {
+    "path": "metadata/vol2_iss3_42.json",
+    "document_type": "case_study",
+    "title": "The Dutch Credit Guarantee Scheme (Netherlands GFC)",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol2/iss3/42"
+  },
+  "vol2_iss3_43": {
+    "path": "metadata/vol2_iss3_43.json",
+    "document_type": "case_study",
+    "title": "New Zealand\u2019s Wholesale Funding Guarantee (NZ GFC)",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol2/iss3/43"
+  },
+  "vol2_iss3_44": {
+    "path": "metadata/vol2_iss3_44.json",
+    "document_type": "case_study",
+    "title": "The Polish Guarantee Scheme (Poland GFC)",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol2/iss3/44"
+  },
+  "vol2_iss3_45": {
+    "path": "metadata/vol2_iss3_45.json",
+    "document_type": "case_study",
+    "title": "The Portuguese Guarantee Scheme (Portugal GFC)",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol2/iss3/45"
+  },
+  "vol2_iss3_46": {
+    "path": "metadata/vol2_iss3_46.json",
+    "document_type": "case_study",
+    "title": "The Spanish Guarantee Scheme for Credit Institutions (Spain GFC)",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol2/iss3/46"
+  },
+  "vol2_iss3_47": {
+    "path": "metadata/vol2_iss3_47.json",
+    "document_type": "case_study",
+    "title": "Sweden's Guarantee Scheme (Sweden GFC)",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol2/iss3/47"
+  },
+  "vol2_iss3_48": {
+    "path": "metadata/vol2_iss3_48.json",
+    "document_type": "case_study",
+    "title": "The United Kingdom's Credit Guarantee Scheme (U.K. GFC)",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol2/iss3/48"
+  },
+  "vol2_iss3_49": {
+    "path": "metadata/vol2_iss3_49.json",
+    "document_type": "case_study",
+    "title": "The United Kingdom's Asset-backed Securities Guarantee Scheme (U.K. GFC)",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol2/iss3/49"
+  },
+  "vol2_iss3_5": {
+    "path": "metadata/vol2_iss3_5.json",
+    "document_type": "case_study",
+    "title": "The Federal Reserve Single-Tranche Term Repurchase Agreements (U.S. GFC)",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol2/iss3/5"
+  },
+  "vol2_iss3_50": {
+    "path": "metadata/vol2_iss3_50.json",
+    "document_type": "lesson_learned",
+    "title": "Lessons Learned: Donald Kohn",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol2/iss3/50"
+  },
+  "vol2_iss3_51": {
+    "path": "metadata/vol2_iss3_51.json",
+    "document_type": "lesson_learned",
+    "title": "Lessons Learned: Lorie Logan",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol2/iss3/51"
+  },
+  "vol2_iss3_6": {
+    "path": "metadata/vol2_iss3_6.json",
+    "document_type": "case_study",
+    "title": "The Primary Dealer Credit Facility (PDCF) (U.S. GFC)",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol2/iss3/6"
+  },
+  "vol2_iss3_7": {
+    "path": "metadata/vol2_iss3_7.json",
+    "document_type": "case_study",
+    "title": "The Commercial Paper Funding Facility (U.S. GFC)",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol2/iss3/7"
+  },
+  "vol2_iss3_8": {
+    "path": "metadata/vol2_iss3_8.json",
+    "document_type": "case_study",
+    "title": "Term Securities Lending Facility (TSLF) (U.S. GFC)",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol2/iss3/8"
+  },
+  "vol2_iss3_9": {
+    "path": "metadata/vol2_iss3_9.json",
+    "document_type": "case_study",
+    "title": "The Money Market Investor Funding Facility (U.S. GFC)",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol2/iss3/9"
+  },
+  "vol2_iss4_1": {
+    "path": "metadata/vol2_iss4_1.json",
+    "document_type": "article",
+    "title": "Monetization of Fiscal Deficits and COVID-19: A Primer",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol2/iss4/1"
+  },
+  "vol2_iss4_2": {
+    "path": "metadata/vol2_iss4_2.json",
+    "document_type": "lesson_learned",
+    "title": "Lessons Learned: Phil Angelides",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol2/iss4/2"
+  },
+  "vol2_iss4_3": {
+    "path": "metadata/vol2_iss4_3.json",
+    "document_type": "lesson_learned",
+    "title": "Lessons Learned: Wendy Edelberg",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol2/iss4/3"
+  },
+  "vol2_iss4_4": {
+    "path": "metadata/vol2_iss4_4.json",
+    "document_type": "lesson_learned",
+    "title": "Lessons Learned: Gary Cohen",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol2/iss4/4"
+  },
+  "vol2_iss4_5": {
+    "path": "metadata/vol2_iss4_5.json",
+    "document_type": "lesson_learned",
+    "title": "Lessons Learned: Christopher Seefer",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol2/iss4/5"
+  },
+  "vol2_iss4_6": {
+    "path": "metadata/vol2_iss4_6.json",
+    "document_type": "lesson_learned",
+    "title": "Lessons Learned: Greg Feldberg",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol2/iss4/6"
+  },
+  "vol2_iss4_7": {
+    "path": "metadata/vol2_iss4_7.json",
+    "document_type": "lesson_learned",
+    "title": "Lessons Learned: Ron Borzekowski",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol2/iss4/7"
+  },
+  "vol3_iss1_1": {
+    "path": "metadata/vol3_iss1_1.json",
+    "document_type": "article",
+    "title": "Stress Tests and Policy",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol3/iss1/1"
+  },
+  "vol3_iss1_10": {
+    "path": "metadata/vol3_iss1_10.json",
+    "document_type": "case_study",
+    "title": "The Rescue of Fannie Mae and Freddie Mac-Module B: Senior Preferred Stock Purchase Agreements",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol3/iss1/10"
+  },
+  "vol3_iss1_11": {
+    "path": "metadata/vol3_iss1_11.json",
+    "document_type": "case_study",
+    "title": "The Rescue of Fannie Mae and Freddie Mac \u2013 Module C: GSE Credit Facility",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol3/iss1/11"
+  },
+  "vol3_iss1_12": {
+    "path": "metadata/vol3_iss1_12.json",
+    "document_type": "case_study",
+    "title": "The Rescue of Fannie Mae and Freddie Mac \u2013 Module D: Treasury\u2019s GSE MBS Purchase Program",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol3/iss1/12"
+  },
+  "vol3_iss1_13": {
+    "path": "metadata/vol3_iss1_13.json",
+    "document_type": "case_study",
+    "title": "The Rescue of Fannie Mae and Freddie Mac \u2013 Module E: The Housing and Economic Recovery Act of 2008",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol3/iss1/13"
+  },
+  "vol3_iss1_14": {
+    "path": "metadata/vol3_iss1_14.json",
+    "document_type": "case_study",
+    "title": "The Rescue of Fannie Mae and Freddie Mac\u2013Module F:  Federal Reserve\u2019s Large-Scale Asset Purchase (LSAP) Program",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol3/iss1/14"
+  },
+  "vol3_iss1_15": {
+    "path": "metadata/vol3_iss1_15.json",
+    "document_type": "case_study",
+    "title": "The Rescue of Fannie Mae and Freddie Mac \u2013  Module Z: Overview",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol3/iss1/15"
+  },
+  "vol3_iss1_16": {
+    "path": "metadata/vol3_iss1_16.json",
+    "document_type": "lesson_learned",
+    "title": "Lessons Learned: Eric Dinallo",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol3/iss1/16"
+  },
+  "vol3_iss1_17": {
+    "path": "metadata/vol3_iss1_17.json",
+    "document_type": "lesson_learned",
+    "title": "Lessons Learned: Chester B. Feldberg",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol3/iss1/17"
+  },
+  "vol3_iss1_18": {
+    "path": "metadata/vol3_iss1_18.json",
+    "document_type": "lesson_learned",
+    "title": "Lessons Learned: Sarah Dahlgren",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol3/iss1/18"
+  },
+  "vol3_iss1_19": {
+    "path": "metadata/vol3_iss1_19.json",
+    "document_type": "lesson_learned",
+    "title": "Lessons Learned: Alejandro Latorre",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol3/iss1/19"
+  },
+  "vol3_iss1_2": {
+    "path": "metadata/vol3_iss1_2.json",
+    "document_type": "case_study",
+    "title": "The Rescue of American International Group Module A: The Revolving Credit Facility",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol3/iss1/2"
+  },
+  "vol3_iss1_20": {
+    "path": "metadata/vol3_iss1_20.json",
+    "document_type": "lesson_learned",
+    "title": "Lessons Learned: Robert Hoyt, Esq.",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol3/iss1/20"
+  },
+  "vol3_iss1_21": {
+    "path": "metadata/vol3_iss1_21.json",
+    "document_type": "lesson_learned",
+    "title": "Lessons Learned: Zachary Taylor",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol3/iss1/21"
+  },
+  "vol3_iss1_3": {
+    "path": "metadata/vol3_iss1_3.json",
+    "document_type": "case_study",
+    "title": "The Rescue of American International Group Module B: The Securities Borrowing Facility",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol3/iss1/3"
+  },
+  "vol3_iss1_4": {
+    "path": "metadata/vol3_iss1_4.json",
+    "document_type": "case_study",
+    "title": "The Rescue of American International Group Module C: AIG Investment Program",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol3/iss1/4"
+  },
+  "vol3_iss1_5": {
+    "path": "metadata/vol3_iss1_5.json",
+    "document_type": "case_study",
+    "title": "The Rescue of American International Group Module D: Maiden Lane II",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol3/iss1/5"
+  },
+  "vol3_iss1_6": {
+    "path": "metadata/vol3_iss1_6.json",
+    "document_type": "case_study",
+    "title": "The Rescue of American International Group Module E: Maiden Lane III",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol3/iss1/6"
+  },
+  "vol3_iss1_7": {
+    "path": "metadata/vol3_iss1_7.json",
+    "document_type": "case_study",
+    "title": "The Rescue of American International Group Module F: The AIG Credit Facility Trust",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol3/iss1/7"
+  },
+  "vol3_iss1_8": {
+    "path": "metadata/vol3_iss1_8.json",
+    "document_type": "case_study",
+    "title": "The Rescue of American International Group Module Z: Overview",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol3/iss1/8"
+  },
+  "vol3_iss1_9": {
+    "path": "metadata/vol3_iss1_9.json",
+    "document_type": "case_study",
+    "title": "The Rescue of Fannie Mae and Freddie Mac \u2013  Module A: The Conservatorships",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol3/iss1/9"
+  },
+  "vol3_iss2_1": {
+    "path": "metadata/vol3_iss2_1.json",
+    "document_type": "article",
+    "title": "Revisiting Subprime Pricing Irrationality During the Global Financial Crisis",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol3/iss2/1"
+  },
+  "vol3_iss2_10": {
+    "path": "metadata/vol3_iss2_10.json",
+    "document_type": "case_study",
+    "title": "Tanzanian Loans and Advances Realization Trust (LART)",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol3/iss2/10"
+  },
+  "vol3_iss2_11": {
+    "path": "metadata/vol3_iss2_11.json",
+    "document_type": "case_study",
+    "title": "The Hungarian Loan Consolidation Program",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol3/iss2/11"
+  },
+  "vol3_iss2_12": {
+    "path": "metadata/vol3_iss2_12.json",
+    "document_type": "case_study",
+    "title": "Swedish AMCs: Securum and Retriva",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol3/iss2/12"
+  },
+  "vol3_iss2_13": {
+    "path": "metadata/vol3_iss2_13.json",
+    "document_type": "case_study",
+    "title": "Finland: Arsenal",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol3/iss2/13"
+  },
+  "vol3_iss2_14": {
+    "path": "metadata/vol3_iss2_14.json",
+    "document_type": "case_study",
+    "title": "Kazakhstan\u2019s Rehabilitation Bank",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol3/iss2/14"
+  },
+  "vol3_iss2_15": {
+    "path": "metadata/vol3_iss2_15.json",
+    "document_type": "case_study",
+    "title": "Mexico: FOBAPROA Capitalization and Loan Purchase of Bank Portfolio Program (CLPP)",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol3/iss2/15"
+  },
+  "vol3_iss2_16": {
+    "path": "metadata/vol3_iss2_16.json",
+    "document_type": "case_study",
+    "title": "Mongolian Asset Recovery Agency",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol3/iss2/16"
+  },
+  "vol3_iss2_17": {
+    "path": "metadata/vol3_iss2_17.json",
+    "document_type": "case_study",
+    "title": "Kyrgyz Republic\u2019s Debt Resolution Agency, DEBRA",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol3/iss2/17"
+  },
+  "vol3_iss2_18": {
+    "path": "metadata/vol3_iss2_18.json",
+    "document_type": "case_study",
+    "title": "Jamaica Financial Sector Adjustment Company (FINSAC)\u2014Loan Recovery and Asset Disposal Units",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol3/iss2/18"
+  },
+  "vol3_iss2_19": {
+    "path": "metadata/vol3_iss2_19.json",
+    "document_type": "case_study",
+    "title": "Korea Asset Management Corporation (KAMCO): Resolution of Nonperforming Loans in South Korea",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol3/iss2/19"
+  },
+  "vol3_iss2_2": {
+    "path": "metadata/vol3_iss2_2.json",
+    "document_type": "survey",
+    "title": "Broad-Based Asset Management Programs",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol3/iss2/2"
+  },
+  "vol3_iss2_20": {
+    "path": "metadata/vol3_iss2_20.json",
+    "document_type": "case_study",
+    "title": "Indonesia: IBRA\u2019s Asset Management Unit/ Asset Management of Credits",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol3/iss2/20"
+  },
+  "vol3_iss2_21": {
+    "path": "metadata/vol3_iss2_21.json",
+    "document_type": "case_study",
+    "title": "The Resolution and Collection Corporation of Japan",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol3/iss2/21"
+  },
+  "vol3_iss2_22": {
+    "path": "metadata/vol3_iss2_22.json",
+    "document_type": "case_study",
+    "title": "Malaysia: Pengurusan Danaharta Nasional Berhad",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol3/iss2/22"
+  },
+  "vol3_iss2_23": {
+    "path": "metadata/vol3_iss2_23.json",
+    "document_type": "case_study",
+    "title": "China: 1999 Asset Management Corporations",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol3/iss2/23"
+  },
+  "vol3_iss2_24": {
+    "path": "metadata/vol3_iss2_24.json",
+    "document_type": "case_study",
+    "title": "Colombia: Central de Inversiones SA (CISA)",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol3/iss2/24"
+  },
+  "vol3_iss2_25": {
+    "path": "metadata/vol3_iss2_25.json",
+    "document_type": "case_study",
+    "title": "The Thai Asset Management Company (TAMC)",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol3/iss2/25"
+  },
+  "vol3_iss2_26": {
+    "path": "metadata/vol3_iss2_26.json",
+    "document_type": "case_study",
+    "title": "National Asset Management Agency (NAMA)",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol3/iss2/26"
+  },
+  "vol3_iss2_27": {
+    "path": "metadata/vol3_iss2_27.json",
+    "document_type": "case_study",
+    "title": "Asset Management Corporation of Nigeria (AMCON): Asset Management",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol3/iss2/27"
+  },
+  "vol3_iss2_28": {
+    "path": "metadata/vol3_iss2_28.json",
+    "document_type": "case_study",
+    "title": "United Kingdom Asset Resolution Limited (UKAR)",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol3/iss2/28"
+  },
+  "vol3_iss2_29": {
+    "path": "metadata/vol3_iss2_29.json",
+    "document_type": "case_study",
+    "title": "Bank Assets Management Company (BAMC)",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol3/iss2/29"
+  },
+  "vol3_iss2_3": {
+    "path": "metadata/vol3_iss2_3.json",
+    "document_type": "case_study",
+    "title": "Spain: Deposit Guarantee Fund Asset Management",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol3/iss2/3"
+  },
+  "vol3_iss2_30": {
+    "path": "metadata/vol3_iss2_30.json",
+    "document_type": "case_study",
+    "title": "Spain: Sociedad de Gesti\u00f3n de Activos procedentes de la Reestructuraci\u00f3n Bancaria (SAREB)",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol3/iss2/30"
+  },
+  "vol3_iss2_31": {
+    "path": "metadata/vol3_iss2_31.json",
+    "document_type": "case_study",
+    "title": "Hungary: Magyar Reorganiz\u00e1ci\u00f3s \u00e9s K\u00f6vetel\u00e9skezel\u0151 Zrt (MARK Zrt.)",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol3/iss2/31"
+  },
+  "vol3_iss2_32": {
+    "path": "metadata/vol3_iss2_32.json",
+    "document_type": "note",
+    "title": "Comment Letters May Have Helped Shape Federal Reserve\u2019s Municipal Liquidity Facility (MLF) and Main Street Lending Program (MSLP)",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol3/iss2/32"
+  },
+  "vol3_iss2_33": {
+    "path": "metadata/vol3_iss2_33.json",
+    "document_type": "lesson_learned",
+    "title": "Lessons Learned: Diane Ellis",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol3/iss2/33"
+  },
+  "vol3_iss2_34": {
+    "path": "metadata/vol3_iss2_34.json",
+    "document_type": "lesson_learned",
+    "title": "Lessons Learned: Michael Krimminger",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol3/iss2/34"
+  },
+  "vol3_iss2_35": {
+    "path": "metadata/vol3_iss2_35.json",
+    "document_type": "lesson_learned",
+    "title": "Lessons Learned: Arthur Murton",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol3/iss2/35"
+  },
+  "vol3_iss2_36": {
+    "path": "metadata/vol3_iss2_36.json",
+    "document_type": "lesson_learned",
+    "title": "Lessons Learned: James Wigand",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol3/iss2/36"
+  },
+  "vol3_iss2_37": {
+    "path": "metadata/vol3_iss2_37.json",
+    "document_type": "lesson_learned",
+    "title": "Lessons Learned: Phillip Swagel",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol3/iss2/37"
+  },
+  "vol3_iss2_38": {
+    "path": "metadata/vol3_iss2_38.json",
+    "document_type": "lesson_learned",
+    "title": "Lessons Learned: Neel Kashkari",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol3/iss2/38"
+  },
+  "vol3_iss2_4": {
+    "path": "metadata/vol3_iss2_4.json",
+    "document_type": "case_study",
+    "title": "Uruguayan Non-Performing Portfolio Purchase Scheme",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol3/iss2/4"
+  },
+  "vol3_iss2_5": {
+    "path": "metadata/vol3_iss2_5.json",
+    "document_type": "case_study",
+    "title": "Senegal Soci\u00e9t\u00e9 Nationale de Recouvrement (SNR)",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol3/iss2/5"
+  },
+  "vol3_iss2_6": {
+    "path": "metadata/vol3_iss2_6.json",
+    "document_type": "case_study",
+    "title": "US Resolution Trust Corporation",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol3/iss2/6"
+  },
+  "vol3_iss2_7": {
+    "path": "metadata/vol3_iss2_7.json",
+    "document_type": "case_study",
+    "title": "Ghana Non-Performing Asset Recovery Trust (NPART)",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol3/iss2/7"
+  },
+  "vol3_iss2_8": {
+    "path": "metadata/vol3_iss2_8.json",
+    "document_type": "case_study",
+    "title": "Bureau de Recouvrement des Cr\u00e9dits du Burkina (BRCB)",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol3/iss2/8"
+  },
+  "vol3_iss2_9": {
+    "path": "metadata/vol3_iss2_9.json",
+    "document_type": "case_study",
+    "title": "Czech and Slovak Federative Republic:  Consolidation Bank (KOB)",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol3/iss2/9"
+  },
+  "vol3_iss3_1": {
+    "path": "metadata/vol3_iss3_1.json",
+    "document_type": "case_study",
+    "title": "Austria: Finanzmarktstabilit\u00e4tsgesetz (FinStaG)",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol3/iss3/1"
+  },
+  "vol3_iss3_10": {
+    "path": "metadata/vol3_iss3_10.json",
+    "document_type": "case_study",
+    "title": "Hungary Recapitalization Scheme",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol3/iss3/10"
+  },
+  "vol3_iss3_11": {
+    "path": "metadata/vol3_iss3_11.json",
+    "document_type": "case_study",
+    "title": "Indonesia Joint Recapitalization of 1999",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol3/iss3/11"
+  },
+  "vol3_iss3_12": {
+    "path": "metadata/vol3_iss3_12.json",
+    "document_type": "case_study",
+    "title": "Ireland 2009 Recapitalization Program  for Financial Institutions",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol3/iss3/12"
+  },
+  "vol3_iss3_13": {
+    "path": "metadata/vol3_iss3_13.json",
+    "document_type": "case_study",
+    "title": "Israeli Bank Shares Arrangement  (Hesder Hamenayot Habankayot)",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol3/iss3/13"
+  },
+  "vol3_iss3_14": {
+    "path": "metadata/vol3_iss3_14.json",
+    "document_type": "case_study",
+    "title": "Italy (2008) Capital Injections",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol3/iss3/14"
+  },
+  "vol3_iss3_15": {
+    "path": "metadata/vol3_iss3_15.json",
+    "document_type": "case_study",
+    "title": "Prompt Recapitalization Act",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol3/iss3/15"
+  },
+  "vol3_iss3_16": {
+    "path": "metadata/vol3_iss3_16.json",
+    "document_type": "case_study",
+    "title": "Financial Functions Stabilization Act",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol3/iss3/16"
+  },
+  "vol3_iss3_17": {
+    "path": "metadata/vol3_iss3_17.json",
+    "document_type": "case_study",
+    "title": "Japan\u2019s Act on Strengthening Financial Functions (ASFF)",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol3/iss3/17"
+  },
+  "vol3_iss3_18": {
+    "path": "metadata/vol3_iss3_18.json",
+    "document_type": "case_study",
+    "title": "Japan Provision of Subordinated Loans",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol3/iss3/18"
+  },
+  "vol3_iss3_19": {
+    "path": "metadata/vol3_iss3_19.json",
+    "document_type": "case_study",
+    "title": "Korean Capital Injections: KDIC 1997",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol3/iss3/19"
+  },
+  "vol3_iss3_2": {
+    "path": "metadata/vol3_iss3_2.json",
+    "document_type": "case_study",
+    "title": "Colombia: FOGAFIN Capitalizations of 1999 and 2001",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol3/iss3/2"
+  },
+  "vol3_iss3_20": {
+    "path": "metadata/vol3_iss3_20.json",
+    "document_type": "case_study",
+    "title": "Korea: Bank Recapitalization Fund",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol3/iss3/20"
+  },
+  "vol3_iss3_21": {
+    "path": "metadata/vol3_iss3_21.json",
+    "document_type": "case_study",
+    "title": "Malaysia: Danamodal Nasional Berhad (Danamodal)",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol3/iss3/21"
+  },
+  "vol3_iss3_22": {
+    "path": "metadata/vol3_iss3_22.json",
+    "document_type": "case_study",
+    "title": "Mexico Peso Crisis (1994\u20131995): PROCAPTE",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol3/iss3/22"
+  },
+  "vol3_iss3_23": {
+    "path": "metadata/vol3_iss3_23.json",
+    "document_type": "case_study",
+    "title": "Asset Management Corporation of Nigeria (AMCON) Capital Injection",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol3/iss3/23"
+  },
+  "vol3_iss3_24": {
+    "path": "metadata/vol3_iss3_24.json",
+    "document_type": "case_study",
+    "title": "Norway \u2013 GBIF/SBIF (Nordic Crisis 1991)",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol3/iss3/24"
+  },
+  "vol3_iss3_25": {
+    "path": "metadata/vol3_iss3_25.json",
+    "document_type": "case_study",
+    "title": "Norwegian State Finance Fund (GFC)",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol3/iss3/25"
+  },
+  "vol3_iss3_26": {
+    "path": "metadata/vol3_iss3_26.json",
+    "document_type": "case_study",
+    "title": "Polish Fundusz Pomocy Instytucjom Kredytowym",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol3/iss3/26"
+  },
+  "vol3_iss3_27": {
+    "path": "metadata/vol3_iss3_27.json",
+    "document_type": "case_study",
+    "title": "Russian Bank Capital Support Program",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol3/iss3/27"
+  },
+  "vol3_iss3_28": {
+    "path": "metadata/vol3_iss3_28.json",
+    "document_type": "case_study",
+    "title": "Spain \u2013 Fondo de Reestructuraci\u00f3n Ordenada Bancaria (FROB) Capital Injections",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol3/iss3/28"
+  },
+  "vol3_iss3_29": {
+    "path": "metadata/vol3_iss3_29.json",
+    "document_type": "case_study",
+    "title": "Sweden 1991 Bank Support Authority (Bankst\u00f6dsn\u00e4mnden)",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol3/iss3/29"
+  },
+  "vol3_iss3_3": {
+    "path": "metadata/vol3_iss3_3.json",
+    "document_type": "case_study",
+    "title": "Danish Capital Injections Scheme 2009 (DK GFC)",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol3/iss3/3"
+  },
+  "vol3_iss3_30": {
+    "path": "metadata/vol3_iss3_30.json",
+    "document_type": "case_study",
+    "title": "Thailand Capital Support Facilities 1998",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol3/iss3/30"
+  },
+  "vol3_iss3_31": {
+    "path": "metadata/vol3_iss3_31.json",
+    "document_type": "case_study",
+    "title": "Turkey Saving Deposit Insurance Fund Bank Recapitalization (2000\u20132001)",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol3/iss3/31"
+  },
+  "vol3_iss3_32": {
+    "path": "metadata/vol3_iss3_32.json",
+    "document_type": "case_study",
+    "title": "UK Bank Recapitalisation Scheme",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol3/iss3/32"
+  },
+  "vol3_iss3_33": {
+    "path": "metadata/vol3_iss3_33.json",
+    "document_type": "case_study",
+    "title": "US Reconstruction Finance Corporation:  Preferred Stock Purchase Program",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol3/iss3/33"
+  },
+  "vol3_iss3_34": {
+    "path": "metadata/vol3_iss3_34.json",
+    "document_type": "case_study",
+    "title": "US Community Development Capital Initiative (CDCI)",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol3/iss3/34"
+  },
+  "vol3_iss3_35": {
+    "path": "metadata/vol3_iss3_35.json",
+    "document_type": "case_study",
+    "title": "US Capital Purchase Program",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol3/iss3/35"
+  },
+  "vol3_iss3_36": {
+    "path": "metadata/vol3_iss3_36.json",
+    "document_type": "case_study",
+    "title": "The US Supervisory Capital Assessment Program (SCAP) and Capital Assistance Program (CAP)",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol3/iss3/36"
+  },
+  "vol3_iss3_37": {
+    "path": "metadata/vol3_iss3_37.json",
+    "document_type": "lesson_learned",
+    "title": "Lessons Learned: Steven Adamske",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol3/iss3/37"
+  },
+  "vol3_iss3_38": {
+    "path": "metadata/vol3_iss3_38.json",
+    "document_type": "lesson_learned",
+    "title": "Lessons Learned: William \u201cBill\u201d Dudley",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol3/iss3/38"
+  },
+  "vol3_iss3_39": {
+    "path": "metadata/vol3_iss3_39.json",
+    "document_type": "lesson_learned",
+    "title": "Lessons Learned:  Matthew Kabaker",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol3/iss3/39"
+  },
+  "vol3_iss3_4": {
+    "path": "metadata/vol3_iss3_4.json",
+    "document_type": "case_study",
+    "title": "Finland\u2019s 1992 Capital Injection",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol3/iss3/4"
+  },
+  "vol3_iss3_5": {
+    "path": "metadata/vol3_iss3_5.json",
+    "document_type": "case_study",
+    "title": "France Soci\u00e9t\u00e9 de prise de participation de l\u2019\u00c9tat (SPPE)",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol3/iss3/5"
+  },
+  "vol3_iss3_6": {
+    "path": "metadata/vol3_iss3_6.json",
+    "document_type": "case_study",
+    "title": "Germany SoFFin Capital Injections",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol3/iss3/6"
+  },
+  "vol3_iss3_7": {
+    "path": "metadata/vol3_iss3_7.json",
+    "document_type": "case_study",
+    "title": "Greece (2008) \u2013 Capital Injections",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol3/iss3/7"
+  },
+  "vol3_iss3_8": {
+    "path": "metadata/vol3_iss3_8.json",
+    "document_type": "case_study",
+    "title": "Hong Kong Contingent Bank Capital Facility (CBCF)",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol3/iss3/8"
+  },
+  "vol3_iss3_9": {
+    "path": "metadata/vol3_iss3_9.json",
+    "document_type": "case_study",
+    "title": "The Hungarian Bank Recapitalization Program",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol3/iss3/9"
+  },
+  "vol3_iss4_1": {
+    "path": "metadata/vol3_iss4_1.json",
+    "document_type": "article",
+    "title": "The Effect of a Financial Crisis on Household Finances: A Case Study of Iceland\u2019s Financial Crisis",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol3/iss4/1"
+  },
+  "vol3_iss4_2": {
+    "path": "metadata/vol3_iss4_2.json",
+    "document_type": "lesson_learned",
+    "title": "Lessons Learned: Jason Furman",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol3/iss4/2"
+  },
+  "vol3_iss4_3": {
+    "path": "metadata/vol3_iss4_3.json",
+    "document_type": "lesson_learned",
+    "title": "Lessons Learned: Jenni LeCompte",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol3/iss4/3"
+  },
+  "vol3_iss4_4": {
+    "path": "metadata/vol3_iss4_4.json",
+    "document_type": "lesson_learned",
+    "title": "Lessons Learned: Andreas Lehnert",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol3/iss4/4"
+  },
+  "vol3_iss4_5": {
+    "path": "metadata/vol3_iss4_5.json",
+    "document_type": "lesson_learned",
+    "title": "Lessons Learned: Timothy Massad",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol3/iss4/5"
+  },
+  "vol3_iss4_6": {
+    "path": "metadata/vol3_iss4_6.json",
+    "document_type": "lesson_learned",
+    "title": "Lessons Learned: William Nelson",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol3/iss4/6"
+  },
+  "vol3_iss4_7": {
+    "path": "metadata/vol3_iss4_7.json",
+    "document_type": "lesson_learned",
+    "title": "Lessons Learned: Lewis \"Lee\" Sachs",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol3/iss4/7"
+  },
+  "vol3_iss4_8": {
+    "path": "metadata/vol3_iss4_8.json",
+    "document_type": "lesson_learned",
+    "title": "Lessons Learned: Richard \u201cJake\u201d Siewert",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol3/iss4/8"
+  },
+  "vol4_iss1_1": {
+    "path": "metadata/vol4_iss1_1.json",
+    "document_type": "survey",
+    "title": "Broad-Based Capital Injection Programs",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss1/1"
+  },
+  "vol4_iss1_10": {
+    "path": "metadata/vol4_iss1_10.json",
+    "document_type": "lesson_learned",
+    "title": "A Special Project: Inside the CDO Machine",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss1/10"
+  },
+  "vol4_iss1_11": {
+    "path": "metadata/vol4_iss1_11.json",
+    "document_type": "lesson_learned",
+    "title": "Wall Street\u2019s Subprime Debacle: Firsthand Accounts from Inside the CDO Machine",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss1/11"
+  },
+  "vol4_iss1_12": {
+    "path": "metadata/vol4_iss1_12.json",
+    "document_type": "lesson_learned",
+    "title": "Anatomy of a Trade: The Making of a Subprime CDO",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss1/12"
+  },
+  "vol4_iss1_13": {
+    "path": "metadata/vol4_iss1_13.json",
+    "document_type": "lesson_learned",
+    "title": "Lessons Learned: Steven H. Kasoff",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss1/13"
+  },
+  "vol4_iss1_14": {
+    "path": "metadata/vol4_iss1_14.json",
+    "document_type": "lesson_learned",
+    "title": "Lessons Learned: James Finkel",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss1/14"
+  },
+  "vol4_iss1_15": {
+    "path": "metadata/vol4_iss1_15.json",
+    "document_type": "lesson_learned",
+    "title": "Lessons Learned: Sohail Khan",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss1/15"
+  },
+  "vol4_iss1_16": {
+    "path": "metadata/vol4_iss1_16.json",
+    "document_type": "lesson_learned",
+    "title": "Lessons Learned: Stephen King",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss1/16"
+  },
+  "vol4_iss1_17": {
+    "path": "metadata/vol4_iss1_17.json",
+    "document_type": "lesson_learned",
+    "title": "Lessons Learned: Eric Kolchinsky",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss1/17"
+  },
+  "vol4_iss1_18": {
+    "path": "metadata/vol4_iss1_18.json",
+    "document_type": "lesson_learned",
+    "title": "Lessons Learned: Chris Ricciardi",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss1/18"
+  },
+  "vol4_iss1_19": {
+    "path": "metadata/vol4_iss1_19.json",
+    "document_type": "lesson_learned",
+    "title": "Lessons Learned: Brian Stoker",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss1/19"
+  },
+  "vol4_iss1_2": {
+    "path": "metadata/vol4_iss1_2.json",
+    "document_type": "case_study",
+    "title": "The Rescue of the US Auto Industry, Module A: Automotive Bridge Loans",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss1/2"
+  },
+  "vol4_iss1_20": {
+    "path": "metadata/vol4_iss1_20.json",
+    "document_type": "lesson_learned",
+    "title": "Lessons Learned: Ron Bloom",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss1/20"
+  },
+  "vol4_iss1_22": {
+    "path": "metadata/vol4_iss1_22.json",
+    "document_type": "lesson_learned",
+    "title": "Lessons Learned: Matthew Feldman",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss1/22"
+  },
+  "vol4_iss1_23": {
+    "path": "metadata/vol4_iss1_23.json",
+    "document_type": "lesson_learned",
+    "title": "Lessons Learned: Sadiq Malik",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss1/23"
+  },
+  "vol4_iss1_24": {
+    "path": "metadata/vol4_iss1_24.json",
+    "document_type": "lesson_learned",
+    "title": "Lessons Learned: Mara McNeill",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss1/24"
+  },
+  "vol4_iss1_25": {
+    "path": "metadata/vol4_iss1_25.json",
+    "document_type": "lesson_learned",
+    "title": "Lessons Learned: Steven Rattner",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss1/25"
+  },
+  "vol4_iss1_26": {
+    "path": "metadata/vol4_iss1_26.json",
+    "document_type": "lesson_learned",
+    "title": "Lessons Learned: Harry Wilson",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss1/26"
+  },
+  "vol4_iss1_3": {
+    "path": "metadata/vol4_iss1_3.json",
+    "document_type": "case_study",
+    "title": "The Rescue of the US Auto Industry, Module B: Restructuring General Motors Through Bankruptcy",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss1/3"
+  },
+  "vol4_iss1_4": {
+    "path": "metadata/vol4_iss1_4.json",
+    "document_type": "case_study",
+    "title": "The Rescue of the US Auto Industry, Module C: Restructuring Chrysler through Bankruptcy",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss1/4"
+  },
+  "vol4_iss1_5": {
+    "path": "metadata/vol4_iss1_5.json",
+    "document_type": "case_study",
+    "title": "The Rescue of the US Auto Industry, Module D: Emergency Assistance to Ally Financial (formerly GMAC)",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss1/5"
+  },
+  "vol4_iss1_6": {
+    "path": "metadata/vol4_iss1_6.json",
+    "document_type": "case_study",
+    "title": "The Rescue of the US Auto Industry, Module E: Emergency Assistance for Chrysler Financial",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss1/6"
+  },
+  "vol4_iss1_7": {
+    "path": "metadata/vol4_iss1_7.json",
+    "document_type": "case_study",
+    "title": "The Rescue of the US Auto Industry, Module F: Auto Supplier Support Program",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss1/7"
+  },
+  "vol4_iss1_8": {
+    "path": "metadata/vol4_iss1_8.json",
+    "document_type": "case_study",
+    "title": "The Rescue of the US Auto Industry, Module G: The Auto Warranty Commitment Program",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss1/8"
+  },
+  "vol4_iss1_9": {
+    "path": "metadata/vol4_iss1_9.json",
+    "document_type": "case_study",
+    "title": "The Rescue of the US Auto Industry, Module Z:Overview",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss1/9"
+  },
+  "vol4_iss2_1": {
+    "path": "metadata/vol4_iss2_1.json",
+    "document_type": "article",
+    "title": "Dividends and Bank Capital in the Global Financial Crisis of 2007\u20132009",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss2/1"
+  },
+  "vol4_iss2_10": {
+    "path": "metadata/vol4_iss2_10.json",
+    "document_type": "case_study",
+    "title": "Greece: Hellenic Deposit Guarantee Fund",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss2/10"
+  },
+  "vol4_iss2_11": {
+    "path": "metadata/vol4_iss2_11.json",
+    "document_type": "case_study",
+    "title": "Hong Kong SAR: Full Deposit Guarantee",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss2/11"
+  },
+  "vol4_iss2_12": {
+    "path": "metadata/vol4_iss2_12.json",
+    "document_type": "case_study",
+    "title": "Hungary: National Deposit Insurance Fund",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss2/12"
+  },
+  "vol4_iss2_13": {
+    "path": "metadata/vol4_iss2_13.json",
+    "document_type": "case_study",
+    "title": "Iceland: Depositors\u2019 and Investors\u2019 Guarantee Fund",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss2/13"
+  },
+  "vol4_iss2_14": {
+    "path": "metadata/vol4_iss2_14.json",
+    "document_type": "case_study",
+    "title": "Indonesia Deposit Insurance Corporation",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss2/14"
+  },
+  "vol4_iss2_15": {
+    "path": "metadata/vol4_iss2_15.json",
+    "document_type": "case_study",
+    "title": "Kuwait: Unlimited Deposit Guarantee",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss2/15"
+  },
+  "vol4_iss2_16": {
+    "path": "metadata/vol4_iss2_16.json",
+    "document_type": "case_study",
+    "title": "Latvia: Deposit Guarantee Fund",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss2/16"
+  },
+  "vol4_iss2_17": {
+    "path": "metadata/vol4_iss2_17.json",
+    "document_type": "case_study",
+    "title": "Association for the Guarantee of Deposits Luxembourg",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss2/17"
+  },
+  "vol4_iss2_18": {
+    "path": "metadata/vol4_iss2_18.json",
+    "document_type": "case_study",
+    "title": "Malaysia: Government Deposit Guarantee",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss2/18"
+  },
+  "vol4_iss2_19": {
+    "path": "metadata/vol4_iss2_19.json",
+    "document_type": "case_study",
+    "title": "New Zealand: Crown Retail Deposit Guarantee Scheme",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss2/19"
+  },
+  "vol4_iss2_2": {
+    "path": "metadata/vol4_iss2_2.json",
+    "document_type": "survey",
+    "title": "Account Guarantee Survey",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss2/2"
+  },
+  "vol4_iss2_20": {
+    "path": "metadata/vol4_iss2_20.json",
+    "document_type": "case_study",
+    "title": "Philippine Deposit Insurance Corporation",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss2/20"
+  },
+  "vol4_iss2_21": {
+    "path": "metadata/vol4_iss2_21.json",
+    "document_type": "case_study",
+    "title": "Portugal: Deposit Guarantee Fund",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss2/21"
+  },
+  "vol4_iss2_22": {
+    "path": "metadata/vol4_iss2_22.json",
+    "document_type": "case_study",
+    "title": "Romania: Bank Deposit Guarantee Fund",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss2/22"
+  },
+  "vol4_iss2_23": {
+    "path": "metadata/vol4_iss2_23.json",
+    "document_type": "case_study",
+    "title": "Russia: Deposit Insurance Agency (2008\u20132009)",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss2/23"
+  },
+  "vol4_iss2_24": {
+    "path": "metadata/vol4_iss2_24.json",
+    "document_type": "case_study",
+    "title": "Singapore: Government Guarantee on Deposits",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss2/24"
+  },
+  "vol4_iss2_25": {
+    "path": "metadata/vol4_iss2_25.json",
+    "document_type": "case_study",
+    "title": "Slovenia: Unlimited Deposit Guarantee",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss2/25"
+  },
+  "vol4_iss2_26": {
+    "path": "metadata/vol4_iss2_26.json",
+    "document_type": "case_study",
+    "title": "Spain: Deposit Guarantee Funds",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss2/26"
+  },
+  "vol4_iss2_27": {
+    "path": "metadata/vol4_iss2_27.json",
+    "document_type": "case_study",
+    "title": "Swiss Banks\u2019 and Securities Dealers\u2019 Depositor Protection Association",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss2/27"
+  },
+  "vol4_iss2_28": {
+    "path": "metadata/vol4_iss2_28.json",
+    "document_type": "case_study",
+    "title": "Taiwan (ROC): Central Deposit Insurance Corporation",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss2/28"
+  },
+  "vol4_iss2_29": {
+    "path": "metadata/vol4_iss2_29.json",
+    "document_type": "case_study",
+    "title": "United Kingdom: Financial Services Compensation Scheme",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss2/29"
+  },
+  "vol4_iss2_3": {
+    "path": "metadata/vol4_iss2_3.json",
+    "document_type": "survey",
+    "title": "Broad-Based Emergency Liquidity Programs",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss2/3"
+  },
+  "vol4_iss2_30": {
+    "path": "metadata/vol4_iss2_30.json",
+    "document_type": "case_study",
+    "title": "United States: Temporary Guarantee Program for Money Market Funds",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss2/30"
+  },
+  "vol4_iss2_31": {
+    "path": "metadata/vol4_iss2_31.json",
+    "document_type": "case_study",
+    "title": "United States: Transaction Account Guarantee Program",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss2/31"
+  },
+  "vol4_iss2_32": {
+    "path": "metadata/vol4_iss2_32.json",
+    "document_type": "case_study",
+    "title": "New York Clearing House Association: Overview",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss2/32"
+  },
+  "vol4_iss2_33": {
+    "path": "metadata/vol4_iss2_33.json",
+    "document_type": "case_study",
+    "title": "Canada: Contingent Term Repo Facility",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss2/33"
+  },
+  "vol4_iss2_34": {
+    "path": "metadata/vol4_iss2_34.json",
+    "document_type": "case_study",
+    "title": "Canada: Term Purchase and Resale Agreement Facility",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss2/34"
+  },
+  "vol4_iss2_35": {
+    "path": "metadata/vol4_iss2_35.json",
+    "document_type": "case_study",
+    "title": "Canada: Term Loan Facility",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss2/35"
+  },
+  "vol4_iss2_36": {
+    "path": "metadata/vol4_iss2_36.json",
+    "document_type": "case_study",
+    "title": "Canada: Private-Sector Term Purchase and Resale Agreements",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss2/36"
+  },
+  "vol4_iss2_37": {
+    "path": "metadata/vol4_iss2_37.json",
+    "document_type": "case_study",
+    "title": "European Central Bank: Fine-Tuning Operations",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss2/37"
+  },
+  "vol4_iss2_38": {
+    "path": "metadata/vol4_iss2_38.json",
+    "document_type": "case_study",
+    "title": "European Central Bank: Term Refinancing Operations",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss2/38"
+  },
+  "vol4_iss2_39": {
+    "path": "metadata/vol4_iss2_39.json",
+    "document_type": "case_study",
+    "title": "Greece: Emergency Liquidity Assistance",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss2/39"
+  },
+  "vol4_iss2_4": {
+    "path": "metadata/vol4_iss2_4.json",
+    "document_type": "survey",
+    "title": "Market Support Programs: COVID-19 Crisis",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss2/4"
+  },
+  "vol4_iss2_40": {
+    "path": "metadata/vol4_iss2_40.json",
+    "document_type": "case_study",
+    "title": "Hong Kong: Private Emergency Loans, 1965",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss2/40"
+  },
+  "vol4_iss2_41": {
+    "path": "metadata/vol4_iss2_41.json",
+    "document_type": "case_study",
+    "title": "Hong Kong: Temporary Liquidity Measures, 2008",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss2/41"
+  },
+  "vol4_iss2_42": {
+    "path": "metadata/vol4_iss2_42.json",
+    "document_type": "case_study",
+    "title": "Hungary: Liquidity Scheme",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss2/42"
+  },
+  "vol4_iss2_43": {
+    "path": "metadata/vol4_iss2_43.json",
+    "document_type": "case_study",
+    "title": "Norway: Covered Bond Swap Program",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss2/43"
+  },
+  "vol4_iss2_44": {
+    "path": "metadata/vol4_iss2_44.json",
+    "document_type": "case_study",
+    "title": "Russia: Central Bank Bonds, 1998",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss2/44"
+  },
+  "vol4_iss2_45": {
+    "path": "metadata/vol4_iss2_45.json",
+    "document_type": "case_study",
+    "title": "Russia: Lombard and Overnight Loans, 1998",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss2/45"
+  },
+  "vol4_iss2_46": {
+    "path": "metadata/vol4_iss2_46.json",
+    "document_type": "case_study",
+    "title": "Thailand: Financial Institutions Development Fund Liquidity Support",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss2/46"
+  },
+  "vol4_iss2_47": {
+    "path": "metadata/vol4_iss2_47.json",
+    "document_type": "case_study",
+    "title": "United Kingdom: Bank of England Lending during the Panic of 1825",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss2/47"
+  },
+  "vol4_iss2_48": {
+    "path": "metadata/vol4_iss2_48.json",
+    "document_type": "case_study",
+    "title": "United Kingdom: Bank of England Lending during the Panic of 1866",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss2/48"
+  },
+  "vol4_iss2_49": {
+    "path": "metadata/vol4_iss2_49.json",
+    "document_type": "case_study",
+    "title": "United Kingdom: Discount Window Facility",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss2/49"
+  },
+  "vol4_iss2_5": {
+    "path": "metadata/vol4_iss2_5.json",
+    "document_type": "case_study",
+    "title": "Australia: Financial Claims Scheme",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss2/5"
+  },
+  "vol4_iss2_50": {
+    "path": "metadata/vol4_iss2_50.json",
+    "document_type": "case_study",
+    "title": "United Kingdom: Extended-Collateral Long-Term Repo",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss2/50"
+  },
+  "vol4_iss2_51": {
+    "path": "metadata/vol4_iss2_51.json",
+    "document_type": "case_study",
+    "title": "United Kingdom: Extended Collateral Term Repo Facility",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss2/51"
+  },
+  "vol4_iss2_52": {
+    "path": "metadata/vol4_iss2_52.json",
+    "document_type": "case_study",
+    "title": "United Kingdom: Indexed Long-Term Repo Operations",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss2/52"
+  },
+  "vol4_iss2_53": {
+    "path": "metadata/vol4_iss2_53.json",
+    "document_type": "case_study",
+    "title": "United States: Aldrich-Vreeland Emergency Currency during the Crisis of 1914",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss2/53"
+  },
+  "vol4_iss2_54": {
+    "path": "metadata/vol4_iss2_54.json",
+    "document_type": "case_study",
+    "title": "United States: Federal Home Loan Bank Advances, 1932\u20131941",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss2/54"
+  },
+  "vol4_iss2_55": {
+    "path": "metadata/vol4_iss2_55.json",
+    "document_type": "case_study",
+    "title": "United States: Federal Home Loan Bank Advances, 2007\u20132009",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss2/55"
+  },
+  "vol4_iss2_56": {
+    "path": "metadata/vol4_iss2_56.json",
+    "document_type": "case_study",
+    "title": "United States: New York Clearing House Association, the Crisis of 1893",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss2/56"
+  },
+  "vol4_iss2_57": {
+    "path": "metadata/vol4_iss2_57.json",
+    "document_type": "case_study",
+    "title": "United States: New York Clearing House Association: the Crisis of 1914",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss2/57"
+  },
+  "vol4_iss2_58": {
+    "path": "metadata/vol4_iss2_58.json",
+    "document_type": "case_study",
+    "title": "United States: New York Clearing House Association, the Panic of 1873",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss2/58"
+  },
+  "vol4_iss2_59": {
+    "path": "metadata/vol4_iss2_59.json",
+    "document_type": "case_study",
+    "title": "United States: New York Clearing House Association, the Panic of 1884",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss2/59"
+  },
+  "vol4_iss2_6": {
+    "path": "metadata/vol4_iss2_6.json",
+    "document_type": "case_study",
+    "title": "Austria: Unlimited Deposit Guarantee",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss2/6"
+  },
+  "vol4_iss2_60": {
+    "path": "metadata/vol4_iss2_60.json",
+    "document_type": "case_study",
+    "title": "United States: New York Clearing House Association, The Panic of 1890",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss2/60"
+  },
+  "vol4_iss2_61": {
+    "path": "metadata/vol4_iss2_61.json",
+    "document_type": "case_study",
+    "title": "United States: New York Clearing House Association,The Panic of 1907",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss2/61"
+  },
+  "vol4_iss2_62": {
+    "path": "metadata/vol4_iss2_62.json",
+    "document_type": "case_study",
+    "title": "United States: Reconstruction Finance Corporation Emergency Lending to Financial Institutions, 1932\u20131933",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss2/62"
+  },
+  "vol4_iss2_63": {
+    "path": "metadata/vol4_iss2_63.json",
+    "document_type": "case_study",
+    "title": "United States: Term Auction Facility",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss2/63"
+  },
+  "vol4_iss2_64": {
+    "path": "metadata/vol4_iss2_64.json",
+    "document_type": "case_study",
+    "title": "United States: Y2K Special Liquidity Facility",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss2/64"
+  },
+  "vol4_iss2_65": {
+    "path": "metadata/vol4_iss2_65.json",
+    "document_type": "case_study",
+    "title": "United States: Y2K Standby Financing Facility",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss2/65"
+  },
+  "vol4_iss2_66": {
+    "path": "metadata/vol4_iss2_66.json",
+    "document_type": "case_study",
+    "title": "Canada: Bankers\u2019 Acceptance Purchase Facility",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss2/66"
+  },
+  "vol4_iss2_67": {
+    "path": "metadata/vol4_iss2_67.json",
+    "document_type": "case_study",
+    "title": "Canada: Commercial Paper Purchase Program",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss2/67"
+  },
+  "vol4_iss2_68": {
+    "path": "metadata/vol4_iss2_68.json",
+    "document_type": "case_study",
+    "title": "Canada: Corporate Bond Purchase Program",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss2/68"
+  },
+  "vol4_iss2_69": {
+    "path": "metadata/vol4_iss2_69.json",
+    "document_type": "case_study",
+    "title": "Canada: Government Bond Purchase Program",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss2/69"
+  },
+  "vol4_iss2_7": {
+    "path": "metadata/vol4_iss2_7.json",
+    "document_type": "case_study",
+    "title": "Belgium: Protection Fund/Special Protection Fund",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss2/7"
+  },
+  "vol4_iss2_70": {
+    "path": "metadata/vol4_iss2_70.json",
+    "document_type": "case_study",
+    "title": "Canada: Mortgage Bond Purchase Program",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss2/70"
+  },
+  "vol4_iss2_71": {
+    "path": "metadata/vol4_iss2_71.json",
+    "document_type": "case_study",
+    "title": "Canada: Provincial Bond Purchase Program",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss2/71"
+  },
+  "vol4_iss2_72": {
+    "path": "metadata/vol4_iss2_72.json",
+    "document_type": "case_study",
+    "title": "Canada: Provincial Money Market Purchase Program",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss2/72"
+  },
+  "vol4_iss2_73": {
+    "path": "metadata/vol4_iss2_73.json",
+    "document_type": "case_study",
+    "title": "Eurozone: Pandemic Emergency Purchase Program",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss2/73"
+  },
+  "vol4_iss2_74": {
+    "path": "metadata/vol4_iss2_74.json",
+    "document_type": "case_study",
+    "title": "Israel: Corporate Bond Purchase Program",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss2/74"
+  },
+  "vol4_iss2_75": {
+    "path": "metadata/vol4_iss2_75.json",
+    "document_type": "case_study",
+    "title": "Japan: Special Funds-Supplying Operations",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss2/75"
+  },
+  "vol4_iss2_76": {
+    "path": "metadata/vol4_iss2_76.json",
+    "document_type": "case_study",
+    "title": "South Korea: Corporate Liquidity Support Organization",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss2/76"
+  },
+  "vol4_iss2_77": {
+    "path": "metadata/vol4_iss2_77.json",
+    "document_type": "case_study",
+    "title": "Sweden: Commercial Paper Purchases",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss2/77"
+  },
+  "vol4_iss2_78": {
+    "path": "metadata/vol4_iss2_78.json",
+    "document_type": "case_study",
+    "title": "Sweden: Corporate Bond Purchases",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss2/78"
+  },
+  "vol4_iss2_79": {
+    "path": "metadata/vol4_iss2_79.json",
+    "document_type": "case_study",
+    "title": "Thailand: Bond Stabilization Fund",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss2/79"
+  },
+  "vol4_iss2_8": {
+    "path": "metadata/vol4_iss2_8.json",
+    "document_type": "case_study",
+    "title": "Brazil: Time Deposits with Special Guarantee",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss2/8"
+  },
+  "vol4_iss2_80": {
+    "path": "metadata/vol4_iss2_80.json",
+    "document_type": "case_study",
+    "title": "United Kingdom: Asset Purchase Facility",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss2/80"
+  },
+  "vol4_iss2_81": {
+    "path": "metadata/vol4_iss2_81.json",
+    "document_type": "case_study",
+    "title": "United Kingdom: Covid Corporate Financing Facility",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss2/81"
+  },
+  "vol4_iss2_82": {
+    "path": "metadata/vol4_iss2_82.json",
+    "document_type": "case_study",
+    "title": "United States: Primary Market Corporate Credit Facility and Secondary Market Corporate Credit Facility",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss2/82"
+  },
+  "vol4_iss2_83": {
+    "path": "metadata/vol4_iss2_83.json",
+    "document_type": "case_study",
+    "title": "United States: Commercial Paper Funding Facility II",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss2/83"
+  },
+  "vol4_iss2_84": {
+    "path": "metadata/vol4_iss2_84.json",
+    "document_type": "case_study",
+    "title": "United States: Money Market Mutual Fund Liquidity Facility",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss2/84"
+  },
+  "vol4_iss2_85": {
+    "path": "metadata/vol4_iss2_85.json",
+    "document_type": "case_study",
+    "title": "United States: Term Asset-Backed Securities Loan Facility II",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss2/85"
+  },
+  "vol4_iss2_86": {
+    "path": "metadata/vol4_iss2_86.json",
+    "document_type": "case_study",
+    "title": "United States: Municipal Liquidity Facility",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss2/86"
+  },
+  "vol4_iss2_87": {
+    "path": "metadata/vol4_iss2_87.json",
+    "document_type": "case_study",
+    "title": "United States: Primary Dealer Credit Facility",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss2/87"
+  },
+  "vol4_iss2_88": {
+    "path": "metadata/vol4_iss2_88.json",
+    "document_type": "case_study",
+    "title": "United States: Paycheck Protection Program Liquidity Facility",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss2/88"
+  },
+  "vol4_iss2_89": {
+    "path": "metadata/vol4_iss2_89.json",
+    "document_type": "case_study",
+    "title": "United States: Main Street Lending Program",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss2/89"
+  },
+  "vol4_iss2_9": {
+    "path": "metadata/vol4_iss2_9.json",
+    "document_type": "case_study",
+    "title": "France: Deposit Guarantee Fund",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss2/9"
+  },
+  "vol4_iss2_90": {
+    "path": "metadata/vol4_iss2_90.json",
+    "document_type": "lesson_learned",
+    "title": "Lessons Learned: Scott G. Alvarez, Esq., Part 2",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss2/90"
+  },
+  "vol4_iss2_91": {
+    "path": "metadata/vol4_iss2_91.json",
+    "document_type": "lesson_learned",
+    "title": "Lessons Learned: Brooksley Born",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss2/91"
+  },
+  "vol4_iss2_92": {
+    "path": "metadata/vol4_iss2_92.json",
+    "document_type": "lesson_learned",
+    "title": "Lessons Learned: Michael Silva",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss2/92"
+  },
+  "vol4_iss2_93": {
+    "path": "metadata/vol4_iss2_93.json",
+    "document_type": "lesson_learned",
+    "title": "Lessons Learned: Mark Van Der Weide",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss2/93"
+  },
+  "vol4_iss2_94": {
+    "path": "metadata/vol4_iss2_94.json",
+    "document_type": "lesson_learned",
+    "title": "Lessons Learned: David Wilcox",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss2/94"
+  },
+  "vol4_iss2_95": {
+    "path": "metadata/vol4_iss2_95.json",
+    "document_type": "lesson_learned",
+    "title": "Lessons Learned: Zeti Akhtar Aziz",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss2/95"
+  },
+  "vol4_iss3_1": {
+    "path": "metadata/vol4_iss3_1.json",
+    "document_type": "article",
+    "title": "Financial Crises and Legislation",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss3/1"
+  },
+  "vol4_iss3_10": {
+    "path": "metadata/vol4_iss3_10.json",
+    "document_type": "lesson_learned",
+    "title": "Lessons Learned: Susan McLaughlin",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss3/10"
+  },
+  "vol4_iss3_11": {
+    "path": "metadata/vol4_iss3_11.json",
+    "document_type": "lesson_learned",
+    "title": "Lessons Learned: Frederic Mishkin",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss3/11"
+  },
+  "vol4_iss3_12": {
+    "path": "metadata/vol4_iss3_12.json",
+    "document_type": "lesson_learned",
+    "title": "Lessons Learned: Simon Potter",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss3/12"
+  },
+  "vol4_iss3_13": {
+    "path": "metadata/vol4_iss3_13.json",
+    "document_type": "lesson_learned",
+    "title": "Lessons Learned: Brian Sack",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss3/13"
+  },
+  "vol4_iss3_14": {
+    "path": "metadata/vol4_iss3_14.json",
+    "document_type": "lesson_learned",
+    "title": "Lessons Learned: Nathan Sheets",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss3/14"
+  },
+  "vol4_iss3_15": {
+    "path": "metadata/vol4_iss3_15.json",
+    "document_type": "lesson_learned",
+    "title": "Lessons Learned: Christopher Spoth",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss3/15"
+  },
+  "vol4_iss3_16": {
+    "path": "metadata/vol4_iss3_16.json",
+    "document_type": "lesson_learned",
+    "title": "Lessons Learned: Kevin Warsh",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss3/16"
+  },
+  "vol4_iss3_2": {
+    "path": "metadata/vol4_iss3_2.json",
+    "document_type": "article",
+    "title": "Managing External Volatility: Policy Frameworks in Non-Reserve-Issuing Economies",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss3/2"
+  },
+  "vol4_iss3_3": {
+    "path": "metadata/vol4_iss3_3.json",
+    "document_type": "article",
+    "title": "From Lost Turnover to Nonperforming Loans: The Impact of the COVID-19 Pandemic on the Economy and on the Financial System",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss3/3"
+  },
+  "vol4_iss3_4": {
+    "path": "metadata/vol4_iss3_4.json",
+    "document_type": "article",
+    "title": "The Internal Capital Markets of Global Dealer Banks",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss3/4"
+  },
+  "vol4_iss3_5": {
+    "path": "metadata/vol4_iss3_5.json",
+    "document_type": "lesson_learned",
+    "title": "Lessons Learned: John Bovenzi",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss3/5"
+  },
+  "vol4_iss3_6": {
+    "path": "metadata/vol4_iss3_6.json",
+    "document_type": "lesson_learned",
+    "title": "Lessons Learned: Seth Carpenter",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss3/6"
+  },
+  "vol4_iss3_7": {
+    "path": "metadata/vol4_iss3_7.json",
+    "document_type": "lesson_learned",
+    "title": "Lessons Learned: Tim Clark",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss3/7"
+  },
+  "vol4_iss3_8": {
+    "path": "metadata/vol4_iss3_8.json",
+    "document_type": "lesson_learned",
+    "title": "Lessons Learned: Kieran J. Fallon",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss3/8"
+  },
+  "vol4_iss3_9": {
+    "path": "metadata/vol4_iss3_9.json",
+    "document_type": "lesson_learned",
+    "title": "Lessons Learned: Steven B. Kamin",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss3/9"
+  },
+  "vol4_iss4_1": {
+    "path": "metadata/vol4_iss4_1.json",
+    "document_type": "article",
+    "title": "The Federal Reserve System: Diversity and Governance",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss4/1"
+  },
+  "vol4_iss4_10": {
+    "path": "metadata/vol4_iss4_10.json",
+    "document_type": "case_study",
+    "title": "Ireland: Credit Institution (Financial Support) Scheme, 2008",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss4/10"
+  },
+  "vol4_iss4_11": {
+    "path": "metadata/vol4_iss4_11.json",
+    "document_type": "case_study",
+    "title": "Jamaica: FINSAC Blanket Guarantee, 1997",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss4/11"
+  },
+  "vol4_iss4_12": {
+    "path": "metadata/vol4_iss4_12.json",
+    "document_type": "case_study",
+    "title": "Korea: Blanket Guarantee, 1997",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss4/12"
+  },
+  "vol4_iss4_13": {
+    "path": "metadata/vol4_iss4_13.json",
+    "document_type": "case_study",
+    "title": "Mexico: FOBAPROA Blanket Guarantee, 1993\u20131994",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss4/13"
+  },
+  "vol4_iss4_14": {
+    "path": "metadata/vol4_iss4_14.json",
+    "document_type": "case_study",
+    "title": "Sweden: Bank Support Authority, Blanket Guarantee, 1992",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss4/14"
+  },
+  "vol4_iss4_15": {
+    "path": "metadata/vol4_iss4_15.json",
+    "document_type": "case_study",
+    "title": "Thailand: FIDF Blanket Guarantee, 1997",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss4/15"
+  },
+  "vol4_iss4_16": {
+    "path": "metadata/vol4_iss4_16.json",
+    "document_type": "case_study",
+    "title": "Argentina: Reserve Requirements, 1994\u20131995",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss4/16"
+  },
+  "vol4_iss4_17": {
+    "path": "metadata/vol4_iss4_17.json",
+    "document_type": "case_study",
+    "title": "Brazil: Reserve Requirements, GFC",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss4/17"
+  },
+  "vol4_iss4_18": {
+    "path": "metadata/vol4_iss4_18.json",
+    "document_type": "case_study",
+    "title": "China: Reserve Requirements, GFC",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss4/18"
+  },
+  "vol4_iss4_19": {
+    "path": "metadata/vol4_iss4_19.json",
+    "document_type": "case_study",
+    "title": "China: Reserve Requirements, 2015\u20132016",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss4/19"
+  },
+  "vol4_iss4_2": {
+    "path": "metadata/vol4_iss4_2.json",
+    "document_type": "article",
+    "title": "The Financialization of Recession Response",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss4/2"
+  },
+  "vol4_iss4_20": {
+    "path": "metadata/vol4_iss4_20.json",
+    "document_type": "case_study",
+    "title": "Colombia: Reserve Requirements, GFC",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss4/20"
+  },
+  "vol4_iss4_21": {
+    "path": "metadata/vol4_iss4_21.json",
+    "document_type": "case_study",
+    "title": "Czech Republic: Reserve Requirements, 1997",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss4/21"
+  },
+  "vol4_iss4_22": {
+    "path": "metadata/vol4_iss4_22.json",
+    "document_type": "case_study",
+    "title": "India: Reserve Requirements, GFC",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss4/22"
+  },
+  "vol4_iss4_23": {
+    "path": "metadata/vol4_iss4_23.json",
+    "document_type": "case_study",
+    "title": "Jamaica: Reserve Requirements, GFC",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss4/23"
+  },
+  "vol4_iss4_24": {
+    "path": "metadata/vol4_iss4_24.json",
+    "document_type": "case_study",
+    "title": "Malaysia: Reserve Requirements, AFC",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss4/24"
+  },
+  "vol4_iss4_25": {
+    "path": "metadata/vol4_iss4_25.json",
+    "document_type": "case_study",
+    "title": "Peru: Reserve Requirements, GFC",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss4/25"
+  },
+  "vol4_iss4_26": {
+    "path": "metadata/vol4_iss4_26.json",
+    "document_type": "case_study",
+    "title": "Russia: Reserve Requirements, 1998",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss4/26"
+  },
+  "vol4_iss4_27": {
+    "path": "metadata/vol4_iss4_27.json",
+    "document_type": "case_study",
+    "title": "Russia: Reserve Requirements, GFC",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss4/27"
+  },
+  "vol4_iss4_28": {
+    "path": "metadata/vol4_iss4_28.json",
+    "document_type": "case_study",
+    "title": "Thailand: Reserve Requirements, AFC",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss4/28"
+  },
+  "vol4_iss4_29": {
+    "path": "metadata/vol4_iss4_29.json",
+    "document_type": "case_study",
+    "title": "Venezuela: Reserve Requirements, GFC",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss4/29"
+  },
+  "vol4_iss4_3": {
+    "path": "metadata/vol4_iss4_3.json",
+    "document_type": "article",
+    "title": "Fire Sales, the LOLR, and Bank Runs with Continuous Asset Liquidity",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss4/3"
+  },
+  "vol4_iss4_30": {
+    "path": "metadata/vol4_iss4_30.json",
+    "document_type": "lesson_learned",
+    "title": "Lessons Learned: Andrew Gray",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss4/30"
+  },
+  "vol4_iss4_31": {
+    "path": "metadata/vol4_iss4_31.json",
+    "document_type": "lesson_learned",
+    "title": "Lessons Learned: Patrick Honohan",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss4/31"
+  },
+  "vol4_iss4_32": {
+    "path": "metadata/vol4_iss4_32.json",
+    "document_type": "lesson_learned",
+    "title": "Lessons Learned: Mike Leahy",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss4/32"
+  },
+  "vol4_iss4_33": {
+    "path": "metadata/vol4_iss4_33.json",
+    "document_type": "lesson_learned",
+    "title": "Lessons Learned: Hiroshi Nakaso",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss4/33"
+  },
+  "vol4_iss4_34": {
+    "path": "metadata/vol4_iss4_34.json",
+    "document_type": "lesson_learned",
+    "title": "Lessons Learned: Deborah Perelmuter",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss4/34"
+  },
+  "vol4_iss4_35": {
+    "path": "metadata/vol4_iss4_35.json",
+    "document_type": "lesson_learned",
+    "title": "Lessons Learned: Claudia Sahm",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss4/35"
+  },
+  "vol4_iss4_36": {
+    "path": "metadata/vol4_iss4_36.json",
+    "document_type": "lesson_learned",
+    "title": "Lessons Learned: Veerathai Santiprabhob",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss4/36"
+  },
+  "vol4_iss4_37": {
+    "path": "metadata/vol4_iss4_37.json",
+    "document_type": "lesson_learned",
+    "title": "Lessons Learned: Erik Sirri",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss4/37"
+  },
+  "vol4_iss4_38": {
+    "path": "metadata/vol4_iss4_38.json",
+    "document_type": "lesson_learned",
+    "title": "Lessons Learned: Kevin Stiroh",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss4/38"
+  },
+  "vol4_iss4_39": {
+    "path": "metadata/vol4_iss4_39.json",
+    "document_type": "lesson_learned",
+    "title": "Lessons Learned: Gaurav Vasisht",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss4/39"
+  },
+  "vol4_iss4_4": {
+    "path": "metadata/vol4_iss4_4.json",
+    "document_type": "survey",
+    "title": "Blanket Guarantees Survey",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss4/4"
+  },
+  "vol4_iss4_5": {
+    "path": "metadata/vol4_iss4_5.json",
+    "document_type": "survey",
+    "title": "Reserve Requirements Survey",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss4/5"
+  },
+  "vol4_iss4_6": {
+    "path": "metadata/vol4_iss4_6.json",
+    "document_type": "case_study",
+    "title": "Denmark: General Guarantee Scheme, 2008",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss4/6"
+  },
+  "vol4_iss4_7": {
+    "path": "metadata/vol4_iss4_7.json",
+    "document_type": "case_study",
+    "title": "Ecuador: Blanket Guarantee, 1998",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss4/7"
+  },
+  "vol4_iss4_8": {
+    "path": "metadata/vol4_iss4_8.json",
+    "document_type": "case_study",
+    "title": "Finland: Government Guarantee Fund, Blanket Guarantee, 1992",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss4/8"
+  },
+  "vol4_iss4_9": {
+    "path": "metadata/vol4_iss4_9.json",
+    "document_type": "case_study",
+    "title": "Indonesia: Blanket Guarantee, 1998",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss4/9"
+  },
+  "vol5_iss1_1": {
+    "path": "metadata/vol5_iss1_1.json",
+    "document_type": "article",
+    "title": "A Macroprudential Perspective on the Regulatory Boundaries of US Financial Assets",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol5/iss1/1"
+  },
+  "vol5_iss1_10": {
+    "path": "metadata/vol5_iss1_10.json",
+    "document_type": "case_study",
+    "title": "Eurozone: Central Bank Swaps to Ireland and the United Kingdom, 2010",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol5/iss1/10"
+  },
+  "vol5_iss1_11": {
+    "path": "metadata/vol5_iss1_11.json",
+    "document_type": "case_study",
+    "title": "Eurozone: Central Bank Swap to Denmark, 2008",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol5/iss1/11"
+  },
+  "vol5_iss1_12": {
+    "path": "metadata/vol5_iss1_12.json",
+    "document_type": "case_study",
+    "title": "Eurozone: Central Bank Swap to Sweden, 2007",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol5/iss1/12"
+  },
+  "vol5_iss1_13": {
+    "path": "metadata/vol5_iss1_13.json",
+    "document_type": "case_study",
+    "title": "Eurozone: Central Bank Swap to United Kingdom, 2019",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol5/iss1/13"
+  },
+  "vol5_iss1_14": {
+    "path": "metadata/vol5_iss1_14.json",
+    "document_type": "case_study",
+    "title": "Eurozone: EUREP, 2020",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol5/iss1/14"
+  },
+  "vol5_iss1_15": {
+    "path": "metadata/vol5_iss1_15.json",
+    "document_type": "case_study",
+    "title": "Scandinavia: Central Bank Swaps to Iceland, 2008",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol5/iss1/15"
+  },
+  "vol5_iss1_16": {
+    "path": "metadata/vol5_iss1_16.json",
+    "document_type": "case_study",
+    "title": "India: SAARC Swap Framework, 2012",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol5/iss1/16"
+  },
+  "vol5_iss1_17": {
+    "path": "metadata/vol5_iss1_17.json",
+    "document_type": "case_study",
+    "title": "Switzerland: Central Bank Swaps to the Eurozone, Poland, and Hungary, 2008\u20132009",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol5/iss1/17"
+  },
+  "vol5_iss1_18": {
+    "path": "metadata/vol5_iss1_18.json",
+    "document_type": "case_study",
+    "title": "United States: Central Bank Swaps to the Eurozone, UK, and Canada, 2001",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol5/iss1/18"
+  },
+  "vol5_iss1_19": {
+    "path": "metadata/vol5_iss1_19.json",
+    "document_type": "case_study",
+    "title": "United States: Central Bank Swaps to Five Countries, 2010\u20132011",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol5/iss1/19"
+  },
+  "vol5_iss1_2": {
+    "path": "metadata/vol5_iss1_2.json",
+    "document_type": "survey",
+    "title": "Central Bank Foreign Currency Swaps and Repo Facilities Survey",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol5/iss1/2"
+  },
+  "vol5_iss1_20": {
+    "path": "metadata/vol5_iss1_20.json",
+    "document_type": "case_study",
+    "title": "United States: Central Bank Swaps to 14 Countries, 2007\u20132009",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol5/iss1/20"
+  },
+  "vol5_iss1_21": {
+    "path": "metadata/vol5_iss1_21.json",
+    "document_type": "case_study",
+    "title": "United States: Central Bank Swaps to 14 Countries, 2020",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol5/iss1/21"
+  },
+  "vol5_iss1_22": {
+    "path": "metadata/vol5_iss1_22.json",
+    "document_type": "case_study",
+    "title": "United States: Central Bank Swaps to Mexico, 1982",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol5/iss1/22"
+  },
+  "vol5_iss1_23": {
+    "path": "metadata/vol5_iss1_23.json",
+    "document_type": "case_study",
+    "title": "United States: FIMA Repo Facility, 2020",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol5/iss1/23"
+  },
+  "vol5_iss1_24": {
+    "path": "metadata/vol5_iss1_24.json",
+    "document_type": "case_study",
+    "title": "United States: Swaps to Mexico, 1994",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol5/iss1/24"
+  },
+  "vol5_iss1_25": {
+    "path": "metadata/vol5_iss1_25.json",
+    "document_type": "case_study",
+    "title": "United States: Swaps to the Bank for International Settlements and Deutsche Bundesbank, 1967",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol5/iss1/25"
+  },
+  "vol5_iss1_3": {
+    "path": "metadata/vol5_iss1_3.json",
+    "document_type": "case_study",
+    "title": "ASEAN Swap Arrangement, 1977\u20132021",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol5/iss1/3"
+  },
+  "vol5_iss1_4": {
+    "path": "metadata/vol5_iss1_4.json",
+    "document_type": "case_study",
+    "title": "Association of Southeast Asian Nations + 3: The Chiang Mai Initiative Multilateralization",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol5/iss1/4"
+  },
+  "vol5_iss1_5": {
+    "path": "metadata/vol5_iss1_5.json",
+    "document_type": "case_study",
+    "title": "China: Central Bank Swaps to Argentina, 2014",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol5/iss1/5"
+  },
+  "vol5_iss1_6": {
+    "path": "metadata/vol5_iss1_6.json",
+    "document_type": "case_study",
+    "title": "China: Central Bank Swaps to Mongolia, 2011",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol5/iss1/6"
+  },
+  "vol5_iss1_7": {
+    "path": "metadata/vol5_iss1_7.json",
+    "document_type": "case_study",
+    "title": "China: Central Bank Swap to Hong Kong Monetary Authority, 2009",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol5/iss1/7"
+  },
+  "vol5_iss1_8": {
+    "path": "metadata/vol5_iss1_8.json",
+    "document_type": "case_study",
+    "title": "Eurozone: Central Bank Repo to Hungary, 2008",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol5/iss1/8"
+  },
+  "vol5_iss1_9": {
+    "path": "metadata/vol5_iss1_9.json",
+    "document_type": "case_study",
+    "title": "Eurozone: Central Bank Repo to Poland, 2008",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol5/iss1/9"
+  },
+  "vol5_iss2_1": {
+    "path": "metadata/vol5_iss2_1.json",
+    "document_type": "lesson_learned",
+    "title": "Lessons Learned: Kenneth Feinberg",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol5/iss2/1"
+  },
+  "vol5_iss2_2": {
+    "path": "metadata/vol5_iss2_2.json",
+    "document_type": "lesson_learned",
+    "title": "Lessons Learned: Michael Held",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol5/iss2/2"
+  },
+  "vol5_iss2_3": {
+    "path": "metadata/vol5_iss2_3.json",
+    "document_type": "lesson_learned",
+    "title": "Lessons Learned: Stefan Ingves",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol5/iss2/3"
+  },
+  "vol5_iss2_4": {
+    "path": "metadata/vol5_iss2_4.json",
+    "document_type": "lesson_learned",
+    "title": "Lessons Learned: Patricia Mosser",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol5/iss2/4"
+  },
+  "vol5_iss2_5": {
+    "path": "metadata/vol5_iss2_5.json",
+    "document_type": "lesson_learned",
+    "title": "Lessons Learned: Raghuram Rajan",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol5/iss2/5"
+  },
+  "vol5_iss2_6": {
+    "path": "metadata/vol5_iss2_6.json",
+    "document_type": "lesson_learned",
+    "title": "Lessons Learned: Daleep Singh",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol5/iss2/6"
+  },
+  "vol5_iss3_1": {
+    "path": "metadata/vol5_iss3_1.json",
+    "document_type": "article",
+    "title": "Zombification and Central Bank Risk-Taking: The Lender of Last Resort as a Signal Extraction Problem",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol5/iss3/1"
+  },
+  "vol5_iss3_2": {
+    "path": "metadata/vol5_iss3_2.json",
+    "document_type": "lesson_learned",
+    "title": "Lessons Learned: Neil Barofsky",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol5/iss3/2"
+  },
+  "vol5_iss3_3": {
+    "path": "metadata/vol5_iss3_3.json",
+    "document_type": "lesson_learned",
+    "title": "Lessons Learned: Sandra Braunstein",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol5/iss3/3"
+  },
+  "vol5_iss3_4": {
+    "path": "metadata/vol5_iss3_4.json",
+    "document_type": "lesson_learned",
+    "title": "Lessons Learned: Spiros Pantelias",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol5/iss3/4"
+  },
+  "vol5_iss3_5": {
+    "path": "metadata/vol5_iss3_5.json",
+    "document_type": "lesson_learned",
+    "title": "Lessons Learned: Matthew Rutherford",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol5/iss3/5"
+  },
+  "vol5_iss3_6": {
+    "path": "metadata/vol5_iss3_6.json",
+    "document_type": "lesson_learned",
+    "title": "Lessons Learned: Klaus Regling",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol5/iss3/6"
+  },
+  "vol5_iss3_7": {
+    "path": "metadata/vol5_iss3_7.json",
+    "document_type": "lesson_learned",
+    "title": "Lessons Learned: Faith Schwartz",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol5/iss3/7"
+  },
+  "vol5_iss3_8": {
+    "path": "metadata/vol5_iss3_8.json",
+    "document_type": "lesson_learned",
+    "title": "Lessons Learned: Diane Thompson",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol5/iss3/8"
+  },
+  "vol5_iss4_1": {
+    "path": "metadata/vol5_iss4_1.json",
+    "document_type": "article",
+    "title": "Anatomy of the Repo Rate Spikes in September 2019",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol5/iss4/1"
+  },
+  "vol5_iss4_2": {
+    "path": "metadata/vol5_iss4_2.json",
+    "document_type": "lesson_learned",
+    "title": "Lessons Learned: Michele Davis",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol5/iss4/2"
+  },
+  "vol5_iss4_3": {
+    "path": "metadata/vol5_iss4_3.json",
+    "document_type": "lesson_learned",
+    "title": "Lessons Learned:  William B. English",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol5/iss4/3"
+  },
+  "vol5_iss4_4": {
+    "path": "metadata/vol5_iss4_4.json",
+    "document_type": "lesson_learned",
+    "title": "Lessons Learned: Clay Lowery",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol5/iss4/4"
+  },
+  "vol5_iss4_5": {
+    "path": "metadata/vol5_iss4_5.json",
+    "document_type": "lesson_learned",
+    "title": "Lessons Learned:  John Oros",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol5/iss4/5"
+  },
+  "vol5_iss4_6": {
+    "path": "metadata/vol5_iss4_6.json",
+    "document_type": "lesson_learned",
+    "title": "Lessons Learned:  Zoltan Pozsar",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol5/iss4/6"
+  },
+  "vol5_iss4_7": {
+    "path": "metadata/vol5_iss4_7.json",
+    "document_type": "lesson_learned",
+    "title": "Lessons Learned:  Eric Rosengren",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol5/iss4/7"
+  },
+  "vol6_iss1_1": {
+    "path": "metadata/vol6_iss1_1.json",
+    "document_type": "survey",
+    "title": "Survey of Resolution and Restructuring in Europe: Pre- and Post-BRRD",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol6/iss1/1"
+  },
+  "vol6_iss1_10": {
+    "path": "metadata/vol6_iss1_10.json",
+    "document_type": "case_study",
+    "title": "Hungary: Magyar K\u00fclkereskedelmi Bank Restructuring, 2014",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol6/iss1/10"
+  },
+  "vol6_iss1_11": {
+    "path": "metadata/vol6_iss1_11.json",
+    "document_type": "case_study",
+    "title": "Iceland: Landsbanki Restructuring, 2008",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol6/iss1/11"
+  },
+  "vol6_iss1_12": {
+    "path": "metadata/vol6_iss1_12.json",
+    "document_type": "case_study",
+    "title": "Italy: Restructuring of Four Banks, 2015",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol6/iss1/12"
+  },
+  "vol6_iss1_13": {
+    "path": "metadata/vol6_iss1_13.json",
+    "document_type": "case_study",
+    "title": "Latvia: Parex Bank Restructuring, 2008",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol6/iss1/13"
+  },
+  "vol6_iss1_14": {
+    "path": "metadata/vol6_iss1_14.json",
+    "document_type": "case_study",
+    "title": "Luxembourg: Kaupthing Bank Luxembourg Restructuring, 2008",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol6/iss1/14"
+  },
+  "vol6_iss1_15": {
+    "path": "metadata/vol6_iss1_15.json",
+    "document_type": "case_study",
+    "title": "Netherlands: SNS Reaal Restructuring, 2013",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol6/iss1/15"
+  },
+  "vol6_iss1_16": {
+    "path": "metadata/vol6_iss1_16.json",
+    "document_type": "case_study",
+    "title": "Portugal: Banco Esp\u00edrito Santo Restructuring, 2014",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol6/iss1/16"
+  },
+  "vol6_iss1_17": {
+    "path": "metadata/vol6_iss1_17.json",
+    "document_type": "case_study",
+    "title": "Spain: Banco Popular Restructuring, 2017",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol6/iss1/17"
+  },
+  "vol6_iss1_18": {
+    "path": "metadata/vol6_iss1_18.json",
+    "document_type": "case_study",
+    "title": "Spain: BFA-Bankia Group Restructuring, 2012",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol6/iss1/18"
+  },
+  "vol6_iss1_19": {
+    "path": "metadata/vol6_iss1_19.json",
+    "document_type": "case_study",
+    "title": "Switzerland: UBS Restructuring, 2008",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol6/iss1/19"
+  },
+  "vol6_iss1_2": {
+    "path": "metadata/vol6_iss1_2.json",
+    "document_type": "case_study",
+    "title": "Austria: Heta Asset Resolution Restructuring, 2015",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol6/iss1/2"
+  },
+  "vol6_iss1_20": {
+    "path": "metadata/vol6_iss1_20.json",
+    "document_type": "case_study",
+    "title": "United Kingdom: Dunfermline Building Society Restructuring, 2009",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol6/iss1/20"
+  },
+  "vol6_iss1_21": {
+    "path": "metadata/vol6_iss1_21.json",
+    "document_type": "lesson_learned",
+    "title": "Lessons Learned: \u00c1d\u00e1m Balog",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol6/iss1/21"
+  },
+  "vol6_iss1_22": {
+    "path": "metadata/vol6_iss1_22.json",
+    "document_type": "lesson_learned",
+    "title": "Lessons Learned: \u00c1d\u00e1m Banai",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol6/iss1/22"
+  },
+  "vol6_iss1_23": {
+    "path": "metadata/vol6_iss1_23.json",
+    "document_type": "lesson_learned",
+    "title": "Lessons Learned: P\u00e9ter \u00c1kos Bod",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol6/iss1/23"
+  },
+  "vol6_iss1_24": {
+    "path": "metadata/vol6_iss1_24.json",
+    "document_type": "lesson_learned",
+    "title": "Lessons Learned: J\u00falia Kir\u00e1ly",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol6/iss1/24"
+  },
+  "vol6_iss1_25": {
+    "path": "metadata/vol6_iss1_25.json",
+    "document_type": "lesson_learned",
+    "title": "Lessons Learned: Til Schuermann",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol6/iss1/25"
+  },
+  "vol6_iss1_26": {
+    "path": "metadata/vol6_iss1_26.json",
+    "document_type": "lesson_learned",
+    "title": "Lessons Learned: Andrew Williams",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol6/iss1/26"
+  },
+  "vol6_iss1_3": {
+    "path": "metadata/vol6_iss1_3.json",
+    "document_type": "case_study",
+    "title": "Belgium: Fortis Group Restructuring, 2008",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol6/iss1/3"
+  },
+  "vol6_iss1_4": {
+    "path": "metadata/vol6_iss1_4.json",
+    "document_type": "case_study",
+    "title": "Belgium, France, Luxembourg: Dexia Group Restructuring, 2011",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol6/iss1/4"
+  },
+  "vol6_iss1_5": {
+    "path": "metadata/vol6_iss1_5.json",
+    "document_type": "case_study",
+    "title": "Cyprus: Laiki Bank and Bank of Cyprus Restructuring, 2013",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol6/iss1/5"
+  },
+  "vol6_iss1_6": {
+    "path": "metadata/vol6_iss1_6.json",
+    "document_type": "case_study",
+    "title": "Denmark: Andelskassen J.A.K. Slagelse Restructuring, 2015",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol6/iss1/6"
+  },
+  "vol6_iss1_7": {
+    "path": "metadata/vol6_iss1_7.json",
+    "document_type": "case_study",
+    "title": "Denmark: Roskilde Bank Restructuring, 2008",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol6/iss1/7"
+  },
+  "vol6_iss1_8": {
+    "path": "metadata/vol6_iss1_8.json",
+    "document_type": "case_study",
+    "title": "Greece: ATE Bank Restructuring, 2012",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol6/iss1/8"
+  },
+  "vol6_iss1_9": {
+    "path": "metadata/vol6_iss1_9.json",
+    "document_type": "case_study",
+    "title": "Greece: Piraeus Bank Restructuring, 2015",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol6/iss1/9"
+  },
+  "vol6_iss2_1": {
+    "path": "metadata/vol6_iss2_1.json",
+    "document_type": "article",
+    "title": "Federal Reserve: Conflicts between Monetary Policy and Bank Regulation in Tackling Inflation",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol6/iss2/1"
+  },
+  "vol6_iss2_2": {
+    "path": "metadata/vol6_iss2_2.json",
+    "document_type": "case_study",
+    "title": "India: Yes Bank Restructuring, 2020",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol6/iss2/2"
+  },
+  "vol6_iss2_3": {
+    "path": "metadata/vol6_iss2_3.json",
+    "document_type": "note",
+    "title": "Lessons for the Discount Window from the March 2023 Bank Failures",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol6/iss2/3"
+  },
+  "vol6_iss2_4": {
+    "path": "metadata/vol6_iss2_4.json",
+    "document_type": "note",
+    "title": "FHLB Dividends: Low-Hanging Fruit for Reconfiguring FHLB Lending",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol6/iss2/4"
+  },
+  "vol6_iss2_5": {
+    "path": "metadata/vol6_iss2_5.json",
+    "document_type": "lesson_learned",
+    "title": "Lessons Learned: Paul Boothe",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol6/iss2/5"
+  },
+  "vol6_iss2_6": {
+    "path": "metadata/vol6_iss2_6.json",
+    "document_type": "lesson_learned",
+    "title": "Lessons Learned: Daniela Klingebiel",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol6/iss2/6"
+  },
+  "vol6_iss2_7": {
+    "path": "metadata/vol6_iss2_7.json",
+    "document_type": "lesson_learned",
+    "title": "Lessons Learned: Bo Lundgren",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol6/iss2/7"
+  },
+  "vol6_iss2_8": {
+    "path": "metadata/vol6_iss2_8.json",
+    "document_type": "lesson_learned",
+    "title": "Lessons Learned: Guillermo Ortiz Mart\u00ednez",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol6/iss2/8"
+  },
+  "vol6_iss3_1": {
+    "path": "metadata/vol6_iss3_1.json",
+    "document_type": "survey",
+    "title": "Survey of Ad Hoc Capital Injections",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol6/iss3/1"
+  },
+  "vol6_iss3_10": {
+    "path": "metadata/vol6_iss3_10.json",
+    "document_type": "case_study",
+    "title": "Greece: Piraeus Bank Capital Injection, 2015",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol6/iss3/10"
+  },
+  "vol6_iss3_11": {
+    "path": "metadata/vol6_iss3_11.json",
+    "document_type": "case_study",
+    "title": "Iceland: Arion Bank, Islandsbanki, and Landsbankinn Capital Injections, 2008",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol6/iss3/11"
+  },
+  "vol6_iss3_12": {
+    "path": "metadata/vol6_iss3_12.json",
+    "document_type": "case_study",
+    "title": "India: Yes Bank Capital Injection, 2020",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol6/iss3/12"
+  },
+  "vol6_iss3_13": {
+    "path": "metadata/vol6_iss3_13.json",
+    "document_type": "case_study",
+    "title": "Italy: Banca Monte dei Paschi di Siena Capital Injection, 2017",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol6/iss3/13"
+  },
+  "vol6_iss3_14": {
+    "path": "metadata/vol6_iss3_14.json",
+    "document_type": "case_study",
+    "title": "Japan: Nippon Credit Bank Capital Injection,1997",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol6/iss3/14"
+  },
+  "vol6_iss3_15": {
+    "path": "metadata/vol6_iss3_15.json",
+    "document_type": "case_study",
+    "title": "Korea: Korea First Bank and Seoul Bank Capital Injections, 1997",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol6/iss3/15"
+  },
+  "vol6_iss3_16": {
+    "path": "metadata/vol6_iss3_16.json",
+    "document_type": "case_study",
+    "title": "Latvia: Parex Bank Capital Injection, 2008",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol6/iss3/16"
+  },
+  "vol6_iss3_17": {
+    "path": "metadata/vol6_iss3_17.json",
+    "document_type": "case_study",
+    "title": "Netherlands: SNS Reaal Capital Injection, 2013",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol6/iss3/17"
+  },
+  "vol6_iss3_18": {
+    "path": "metadata/vol6_iss3_18.json",
+    "document_type": "case_study",
+    "title": "Portugal: Banco Esp\u00edrito Santo Capital Injection, 2014",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol6/iss3/18"
+  },
+  "vol6_iss3_19": {
+    "path": "metadata/vol6_iss3_19.json",
+    "document_type": "case_study",
+    "title": "Russia: Otkritie Bank Capital Injection, 2017",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol6/iss3/19"
+  },
+  "vol6_iss3_2": {
+    "path": "metadata/vol6_iss3_2.json",
+    "document_type": "case_study",
+    "title": "Austria and Germany: Hypo Alpe Adria Capital Injections, 2008",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol6/iss3/2"
+  },
+  "vol6_iss3_20": {
+    "path": "metadata/vol6_iss3_20.json",
+    "document_type": "case_study",
+    "title": "Spain: Caja de Ahorros Castilla\u2013La Mancha Capital Injection, 2009",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol6/iss3/20"
+  },
+  "vol6_iss3_21": {
+    "path": "metadata/vol6_iss3_21.json",
+    "document_type": "case_study",
+    "title": "Switzerland: Schweizerische Volksbank Capital Injection, 1933",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol6/iss3/21"
+  },
+  "vol6_iss3_22": {
+    "path": "metadata/vol6_iss3_22.json",
+    "document_type": "case_study",
+    "title": "Switzerland: UBS Capital Injection, 2008",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol6/iss3/22"
+  },
+  "vol6_iss3_23": {
+    "path": "metadata/vol6_iss3_23.json",
+    "document_type": "case_study",
+    "title": "United States: Bank of America Capital Injection, 2009",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol6/iss3/23"
+  },
+  "vol6_iss3_24": {
+    "path": "metadata/vol6_iss3_24.json",
+    "document_type": "case_study",
+    "title": "United States: Citigroup Capital Injection, 2008",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol6/iss3/24"
+  },
+  "vol6_iss3_25": {
+    "path": "metadata/vol6_iss3_25.json",
+    "document_type": "case_study",
+    "title": "Russia: Otkritie Bank Restructuring, 2017",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol6/iss3/25"
+  },
+  "vol6_iss3_26": {
+    "path": "metadata/vol6_iss3_26.json",
+    "document_type": "note",
+    "title": "Policy Note | Discount Window Stigma: What's Design Got to Do with It?",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol6/iss3/26"
+  },
+  "vol6_iss3_27": {
+    "path": "metadata/vol6_iss3_27.json",
+    "document_type": "note",
+    "title": "Policy Note | Weekly Fed Report Still Drives Discount Window Stigma",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol6/iss3/27"
+  },
+  "vol6_iss3_28": {
+    "path": "metadata/vol6_iss3_28.json",
+    "document_type": "lesson_learned",
+    "title": "Lessons Learned: Alfred DelliBovi",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol6/iss3/28"
+  },
+  "vol6_iss3_29": {
+    "path": "metadata/vol6_iss3_29.json",
+    "document_type": "lesson_learned",
+    "title": "Lessons Learned: Mart\u00edn Redrado",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol6/iss3/29"
+  },
+  "vol6_iss3_3": {
+    "path": "metadata/vol6_iss3_3.json",
+    "document_type": "case_study",
+    "title": "Belgium: Fortis Group Capital Injection, 2008",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol6/iss3/3"
+  },
+  "vol6_iss3_4": {
+    "path": "metadata/vol6_iss3_4.json",
+    "document_type": "case_study",
+    "title": "Belgium and France: Dexia Group Capital Injection, 2008",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol6/iss3/4"
+  },
+  "vol6_iss3_5": {
+    "path": "metadata/vol6_iss3_5.json",
+    "document_type": "case_study",
+    "title": "Cyprus: Laiki Bank Capital Injection, 2012",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol6/iss3/5"
+  },
+  "vol6_iss3_6": {
+    "path": "metadata/vol6_iss3_6.json",
+    "document_type": "case_study",
+    "title": "France: Bank of France Capital Injection, 1805",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol6/iss3/6"
+  },
+  "vol6_iss3_7": {
+    "path": "metadata/vol6_iss3_7.json",
+    "document_type": "case_study",
+    "title": "Germany: HSH Nordbank Capital Injection, 2009",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol6/iss3/7"
+  },
+  "vol6_iss3_8": {
+    "path": "metadata/vol6_iss3_8.json",
+    "document_type": "case_study",
+    "title": "Germany: IKB Deutsche Industriebank Capital Injection, 2008",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol6/iss3/8"
+  },
+  "vol6_iss3_9": {
+    "path": "metadata/vol6_iss3_9.json",
+    "document_type": "case_study",
+    "title": "Greece: ATE Bank Capital Injection, 2011",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol6/iss3/9"
+  },
+  "vol6_iss4_1": {
+    "path": "metadata/vol6_iss4_1.json",
+    "document_type": "article",
+    "title": "The 2023 Banking Turmoil: Lessons for EU Resolution Authorities",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol6/iss4/1"
+  },
+  "vol6_iss4_2": {
+    "path": "metadata/vol6_iss4_2.json",
+    "document_type": "case_study",
+    "title": "International Monetary Fund: Foreign Exchange Liquidity through the Special Drawing Rights Allocation, 2021",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol6/iss4/2"
+  },
+  "vol6_iss4_3": {
+    "path": "metadata/vol6_iss4_3.json",
+    "document_type": "case_study",
+    "title": "International Monetary Fund: Short-term Liquidity Line, 2020",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol6/iss4/3"
+  },
+  "vol6_iss4_4": {
+    "path": "metadata/vol6_iss4_4.json",
+    "document_type": "case_study",
+    "title": "International Monetary Fund: Special Drawing Rights Allocations, 2009",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol6/iss4/4"
+  },
+  "vol6_iss4_5": {
+    "path": "metadata/vol6_iss4_5.json",
+    "document_type": "lesson_learned",
+    "title": "Lessons Learned: Jason Cave",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol6/iss4/5"
+  },
+  "vol6_iss4_6": {
+    "path": "metadata/vol6_iss4_6.json",
+    "document_type": "lesson_learned",
+    "title": "Lessons Learned: Subba Rao Duvvuri",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol6/iss4/6"
+  },
+  "vol6_iss4_7": {
+    "path": "metadata/vol6_iss4_7.json",
+    "document_type": "lesson_learned",
+    "title": "Lessons Learned: Calvin Mitchell III",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol6/iss4/7"
+  },
+  "vol6_iss4_8": {
+    "path": "metadata/vol6_iss4_8.json",
+    "document_type": "lesson_learned",
+    "title": "Lessons Learned: Karl-Philipp Wojick",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol6/iss4/8"
+  },
+  "vol7_iss1_1": {
+    "path": "metadata/vol7_iss1_1.json",
+    "document_type": "article",
+    "title": "Containing Runs on Solvent Banks: Prioritizing Recovery over Resolution",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol7/iss1/1"
+  },
+  "vol7_iss1_10": {
+    "path": "metadata/vol7_iss1_10.json",
+    "document_type": "case_study",
+    "title": "Indonesia: Bank Century Emergency Liquidity Program, 2008",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol7/iss1/10"
+  },
+  "vol7_iss1_11": {
+    "path": "metadata/vol7_iss1_11.json",
+    "document_type": "case_study",
+    "title": "Ireland: Anglo Irish Bank Emergency Liquidity Assistance, 2009",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol7/iss1/11"
+  },
+  "vol7_iss1_12": {
+    "path": "metadata/vol7_iss1_12.json",
+    "document_type": "case_study",
+    "title": "Italy: Banco Ambrosiano Emergency Liquidity Program, 1982",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol7/iss1/12"
+  },
+  "vol7_iss1_13": {
+    "path": "metadata/vol7_iss1_13.json",
+    "document_type": "case_study",
+    "title": "Latvia: Parex Bank Emergency Liquidity Program, 2008",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol7/iss1/13"
+  },
+  "vol7_iss1_14": {
+    "path": "metadata/vol7_iss1_14.json",
+    "document_type": "case_study",
+    "title": "Moldova: Consortium of Banks Emergency Liquidity Program, 2014",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol7/iss1/14"
+  },
+  "vol7_iss1_15": {
+    "path": "metadata/vol7_iss1_15.json",
+    "document_type": "case_study",
+    "title": "Russia: Otkritie Emergency Liquidity Program, 2017",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol7/iss1/15"
+  },
+  "vol7_iss1_16": {
+    "path": "metadata/vol7_iss1_16.json",
+    "document_type": "case_study",
+    "title": "Spain: Caja de Ahorros Castilla\u2013La Mancha Emergency Liquidity Assistance, 2009",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol7/iss1/16"
+  },
+  "vol7_iss1_17": {
+    "path": "metadata/vol7_iss1_17.json",
+    "document_type": "case_study",
+    "title": "Sweden: Carnegie Investment Bank AB Emergency Liquidity Program, 2008",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol7/iss1/17"
+  },
+  "vol7_iss1_18": {
+    "path": "metadata/vol7_iss1_18.json",
+    "document_type": "case_study",
+    "title": "Switzerland: Credit Suisse Emergency Liquidity Program, 2023",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol7/iss1/18"
+  },
+  "vol7_iss1_19": {
+    "path": "metadata/vol7_iss1_19.json",
+    "document_type": "case_study",
+    "title": "United Kingdom: HBOS and RBS Emergency Liquidity Program, 2008",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol7/iss1/19"
+  },
+  "vol7_iss1_2": {
+    "path": "metadata/vol7_iss1_2.json",
+    "document_type": "article",
+    "title": "Fighting \"Fear Itself\": The Bank Holiday of March 1933",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol7/iss1/2"
+  },
+  "vol7_iss1_20": {
+    "path": "metadata/vol7_iss1_20.json",
+    "document_type": "case_study",
+    "title": "United Kingdom: Northern Rock Emergency Liquidity Program, 2007",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol7/iss1/20"
+  },
+  "vol7_iss1_21": {
+    "path": "metadata/vol7_iss1_21.json",
+    "document_type": "case_study",
+    "title": "United States: Bank of America Emergency Liquidity Program, 2009",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol7/iss1/21"
+  },
+  "vol7_iss1_22": {
+    "path": "metadata/vol7_iss1_22.json",
+    "document_type": "case_study",
+    "title": "United States: Bear Stearns Emergency Liquidity Assistance, 2008",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol7/iss1/22"
+  },
+  "vol7_iss1_23": {
+    "path": "metadata/vol7_iss1_23.json",
+    "document_type": "case_study",
+    "title": "United States: Citigroup Emergency Liquidity Program, 2008",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol7/iss1/23"
+  },
+  "vol7_iss1_24": {
+    "path": "metadata/vol7_iss1_24.json",
+    "document_type": "case_study",
+    "title": "United States: First Republic Bank Emergency Liquidity Program, 2023",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol7/iss1/24"
+  },
+  "vol7_iss1_25": {
+    "path": "metadata/vol7_iss1_25.json",
+    "document_type": "case_study",
+    "title": "United States: Lehman Brothers Broker-Dealer Emergency Liquidity Program, 2008",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol7/iss1/25"
+  },
+  "vol7_iss1_26": {
+    "path": "metadata/vol7_iss1_26.json",
+    "document_type": "note",
+    "title": "Liquidity Facilities Provided to Banks during the Dominican Republic Financial Crisis of 2003",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol7/iss1/26"
+  },
+  "vol7_iss1_27": {
+    "path": "metadata/vol7_iss1_27.json",
+    "document_type": "note",
+    "title": "Eliminating Discount Window Stigma: What Can We Learn from Abroad?",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol7/iss1/27"
+  },
+  "vol7_iss1_28": {
+    "path": "metadata/vol7_iss1_28.json",
+    "document_type": "lesson_learned",
+    "title": "Lessons Learned: Jesper Berg",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol7/iss1/28"
+  },
+  "vol7_iss1_29": {
+    "path": "metadata/vol7_iss1_29.json",
+    "document_type": "lesson_learned",
+    "title": "Lessons Learned: J. Christopher Flowers",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol7/iss1/29"
+  },
+  "vol7_iss1_3": {
+    "path": "metadata/vol7_iss1_3.json",
+    "document_type": "survey",
+    "title": "Ad Hoc Emergency Liquidity Programs in the 21st Century",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol7/iss1/3"
+  },
+  "vol7_iss1_30": {
+    "path": "metadata/vol7_iss1_30.json",
+    "document_type": "lesson_learned",
+    "title": "Lessons Learned: Giorgio Gobbi",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol7/iss1/30"
+  },
+  "vol7_iss1_31": {
+    "path": "metadata/vol7_iss1_31.json",
+    "document_type": "lesson_learned",
+    "title": "Lessons Learned: Philip Lane",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol7/iss1/31"
+  },
+  "vol7_iss1_32": {
+    "path": "metadata/vol7_iss1_32.json",
+    "document_type": "lesson_learned",
+    "title": "Lessons Learned: Fabrizio L\u00f3pez-Gallo",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol7/iss1/32"
+  },
+  "vol7_iss1_33": {
+    "path": "metadata/vol7_iss1_33.json",
+    "document_type": "lesson_learned",
+    "title": "Lessons Learned: Cecilia Skingsley",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol7/iss1/33"
+  },
+  "vol7_iss1_4": {
+    "path": "metadata/vol7_iss1_4.json",
+    "document_type": "case_study",
+    "title": "Brazil: Banco BTG Pactual Emergency Liquidity Program, 2015",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol7/iss1/4"
+  },
+  "vol7_iss1_5": {
+    "path": "metadata/vol7_iss1_5.json",
+    "document_type": "case_study",
+    "title": "Canada: Canadian Commercial Bank Emergency Liquidity Program, 1985",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol7/iss1/5"
+  },
+  "vol7_iss1_6": {
+    "path": "metadata/vol7_iss1_6.json",
+    "document_type": "case_study",
+    "title": "Cyprus: Laiki Bank Ad Hoc Emergency Liquidity Assistance, 2011",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol7/iss1/6"
+  },
+  "vol7_iss1_7": {
+    "path": "metadata/vol7_iss1_7.json",
+    "document_type": "case_study",
+    "title": "Denmark: Roskilde Bank Emergency Liquidity Program, 2008",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol7/iss1/7"
+  },
+  "vol7_iss1_8": {
+    "path": "metadata/vol7_iss1_8.json",
+    "document_type": "case_study",
+    "title": "Germany: IKB Deutsche Industriebank Emergency Liquidity Program, 2008",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol7/iss1/8"
+  },
+  "vol7_iss1_9": {
+    "path": "metadata/vol7_iss1_9.json",
+    "document_type": "case_study",
+    "title": "Iceland: Kaupthing Emergency Liquidity Program, 2008",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol7/iss1/9"
+  },
+  "vol7_iss2_1": {
+    "path": "metadata/vol7_iss2_1.json",
+    "document_type": "survey",
+    "title": "Survey of Bank Holidays and Fund Suspensions",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol7/iss2/1"
+  },
+  "vol7_iss2_10": {
+    "path": "metadata/vol7_iss2_10.json",
+    "document_type": "case_study",
+    "title": "United States: Rhode Island Limited Bank Holiday, 1991",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol7/iss2/10"
+  },
+  "vol7_iss2_11": {
+    "path": "metadata/vol7_iss2_11.json",
+    "document_type": "note",
+    "title": "Emergency Liquidity Assistance and Monetary Financing in the European Union:  A Case Study in Fiscal Cooperation?",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol7/iss2/11"
+  },
+  "vol7_iss2_12": {
+    "path": "metadata/vol7_iss2_12.json",
+    "document_type": "note",
+    "title": "How US Bank Regulation Failed SVB and Its Supervisors",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol7/iss2/12"
+  },
+  "vol7_iss2_13": {
+    "path": "metadata/vol7_iss2_13.json",
+    "document_type": "lesson_learned",
+    "title": "Lessons Learned: Ignazio Angeloni",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol7/iss2/13"
+  },
+  "vol7_iss2_14": {
+    "path": "metadata/vol7_iss2_14.json",
+    "document_type": "lesson_learned",
+    "title": "Lessons Learned: Mark Branson",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol7/iss2/14"
+  },
+  "vol7_iss2_15": {
+    "path": "metadata/vol7_iss2_15.json",
+    "document_type": "lesson_learned",
+    "title": "Lessons Learned: Miguel Carca\u00f1o",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol7/iss2/15"
+  },
+  "vol7_iss2_16": {
+    "path": "metadata/vol7_iss2_16.json",
+    "document_type": "lesson_learned",
+    "title": "Lessons Learned: Beno\u00eet C\u0153ur\u00e9",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol7/iss2/16"
+  },
+  "vol7_iss2_17": {
+    "path": "metadata/vol7_iss2_17.json",
+    "document_type": "lesson_learned",
+    "title": "Lessons Learned: Luis J\u00e1come",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol7/iss2/17"
+  },
+  "vol7_iss2_18": {
+    "path": "metadata/vol7_iss2_18.json",
+    "document_type": "lesson_learned",
+    "title": "Lessons Learned: Vincenzo La Via",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol7/iss2/18"
+  },
+  "vol7_iss2_2": {
+    "path": "metadata/vol7_iss2_2.json",
+    "document_type": "case_study",
+    "title": "Argentina: Mutual Fund Suspensions, 2019",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol7/iss2/2"
+  },
+  "vol7_iss2_3": {
+    "path": "metadata/vol7_iss2_3.json",
+    "document_type": "case_study",
+    "title": "Argentina: National Bank Holidays, 2001",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol7/iss2/3"
+  },
+  "vol7_iss2_4": {
+    "path": "metadata/vol7_iss2_4.json",
+    "document_type": "case_study",
+    "title": "Cyprus: National Bank Holiday, 2013",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol7/iss2/4"
+  },
+  "vol7_iss2_5": {
+    "path": "metadata/vol7_iss2_5.json",
+    "document_type": "case_study",
+    "title": "Ecuador: National Bank Holiday, 1999",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol7/iss2/5"
+  },
+  "vol7_iss2_6": {
+    "path": "metadata/vol7_iss2_6.json",
+    "document_type": "case_study",
+    "title": "Greece: National Bank Holiday, 2015",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol7/iss2/6"
+  },
+  "vol7_iss2_7": {
+    "path": "metadata/vol7_iss2_7.json",
+    "document_type": "case_study",
+    "title": "India: Yes Bank Moratorium, 2020",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol7/iss2/7"
+  },
+  "vol7_iss2_8": {
+    "path": "metadata/vol7_iss2_8.json",
+    "document_type": "case_study",
+    "title": "United States: National Bank Holiday, 1933",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol7/iss2/8"
+  },
+  "vol7_iss2_9": {
+    "path": "metadata/vol7_iss2_9.json",
+    "document_type": "case_study",
+    "title": "United States: Reserve Primary Fund Suspension, 2008",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol7/iss2/9"
+  },
+  "vol7_iss3_1": {
+    "path": "metadata/vol7_iss3_1.json",
+    "document_type": "article",
+    "title": "CBDC Settlement: Implications for Money Creation and Maturity Transformation",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol7/iss3/1"
+  },
+  "vol7_iss3_2": {
+    "path": "metadata/vol7_iss3_2.json",
+    "document_type": "article",
+    "title": "Stressing the Stress Tests",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol7/iss3/2"
+  },
+  "vol7_iss3_3": {
+    "path": "metadata/vol7_iss3_3.json",
+    "document_type": "article",
+    "title": "What Policy Combinations Worked?: The Effect of Policy Packages on Bank Lending during COVID-19",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol7/iss3/3"
+  },
+  "vol7_iss3_4": {
+    "path": "metadata/vol7_iss3_4.json",
+    "document_type": "lesson_learned",
+    "title": "Lessons Learned: Stijn Claessens",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol7/iss3/4"
+  },
+  "vol7_iss3_5": {
+    "path": "metadata/vol7_iss3_5.json",
+    "document_type": "lesson_learned",
+    "title": "Lessons Learned: Anthony Dowd",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol7/iss3/5"
+  },
+  "vol7_iss3_6": {
+    "path": "metadata/vol7_iss3_6.json",
+    "document_type": "lesson_learned",
+    "title": "Lessons Learned: Grahame Johnson",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol7/iss3/6"
+  },
+  "vol7_iss3_7": {
+    "path": "metadata/vol7_iss3_7.json",
+    "document_type": "lesson_learned",
+    "title": "Lessons Learned: Katalin M\u00e9r\u0151",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol7/iss3/7"
+  },
+  "vol7_iss4_1": {
+    "path": "metadata/vol7_iss4_1.json",
+    "document_type": "article",
+    "title": "Central Bank Crisis Interventions: A Review of the Recent Literature on Potential Costs",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol7/iss4/1"
+  },
+  "vol7_iss4_2": {
+    "path": "metadata/vol7_iss4_2.json",
+    "document_type": "lesson_learned",
+    "title": "Lessons Learned: Pedro Machado",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol7/iss4/2"
+  },
+  "vol7_iss4_3": {
+    "path": "metadata/vol7_iss4_3.json",
+    "document_type": "lesson_learned",
+    "title": "Lessons Learned: Ewald Nowotny",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol7/iss4/3"
+  },
+  "vol7_iss4_4": {
+    "path": "metadata/vol7_iss4_4.json",
+    "document_type": "lesson_learned",
+    "title": "Lessons Learned: Paul Tucker",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol7/iss4/4"
+  },
+  "vol7_iss4_5": {
+    "path": "metadata/vol7_iss4_5.json",
+    "document_type": "lesson_learned",
+    "title": "Lessons Learned: Andreas Verykios and Kostas Tsatsaronis",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol7/iss4/5"
+  },
+  "vol8_iss1_1": {
+    "path": "metadata/vol8_iss1_1.json",
+    "document_type": "article",
+    "title": "Black Swans and Financial Stability: A Framework for Building Resilience",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol8/iss1/1"
+  },
+  "vol8_iss1_2": {
+    "path": "metadata/vol8_iss1_2.json",
+    "document_type": "note",
+    "title": "How the FDIC Sourced Crisis-Time Fed Funding through the Failed Banks of 2023",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol8/iss1/2"
+  },
+  "vol8_iss1_3": {
+    "path": "metadata/vol8_iss1_3.json",
+    "document_type": "lesson_learned",
+    "title": "Lessons Learned: Christos Gortsos",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol8/iss1/3"
+  },
+  "vol8_iss1_4": {
+    "path": "metadata/vol8_iss1_4.json",
+    "document_type": "lesson_learned",
+    "title": "Lessons Learned: Eugen R\u0103dulescu",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol8/iss1/4"
+  },
+  "vol8_iss1_5": {
+    "path": "metadata/vol8_iss1_5.json",
+    "document_type": "lesson_learned",
+    "title": "Lessons Learned: Masaaki Shirakawa",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol8/iss1/5"
+  },
+  "vol8_iss1_6": {
+    "path": "metadata/vol8_iss1_6.json",
+    "document_type": "lesson_learned",
+    "title": "Lessons Learned: Ignazio Visco",
+    "url": "http://elischolar.library.yale.edu/journal-of-financial-crises/vol8/iss1/6"
+  }
+}
