@@ -1,0 +1,14 @@
+{
+  "active_rubric_id": "rubric_v1",
+  "active_prompt_id": "prompt_v1",
+  "cycle": {
+    "locked_branch": null,
+    "opened_at": null,
+    "opened_by": null
+  },
+  "pending_queue": {
+    "rubric": [],
+    "prompt": []
+  },
+  "history": []
+}

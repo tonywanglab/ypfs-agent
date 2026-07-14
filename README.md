@@ -137,6 +137,44 @@ The runnable agent. `agent.py` is a REPL that drives a frontier model (default `
 ### `benchmarking/`
 Benchmark harness and outputs for evaluating frontier model performance on corpus questions prior to building the RAG pipeline.
 
+## Evaluation harness (two-loop rubric + prompt)
+
+A local, file-backed harness around `agent.run()` for eval-driven development. Each case runs with **empty history** under the active prompt and frozen rubric. Deterministic trace/citation gates run first; an isolated evaluator then generates a checklist (before seeing the answer) and judges the output. A supervisor reviews output + assessment and routes feedback into **one** update branch per cycle: rubric revision or prompt promotion — never both at once.
+
+### Quick start
+
+```bash
+python -m harness.seed          # idempotent: cases, rubric_v1, prompt_v1, registry
+python3 -m pytest tests/ -q     # offline suite (mocked LLM/agent)
+
+# Live eval batch (requires .env API keys)
+python -c "from agent.evals import run_harness_evals; print(run_harness_evals())"
+
+# Supervisor UI (127.0.0.1 only)
+python -m harness               # http://127.0.0.1:5050/
+python -m harness web --port 5050
+```
+
+### Workflow
+
+1. **Run cases** — `run_harness_evals()` or the dashboard after a batch; artifacts land in `evals/runs/{run_id}/`.
+2. **Review** — open a run in the UI; mark acceptable/unacceptable, attribution, and notes.
+3. **Rubric branch** — for `rubric_gap` / `judge_failure`: propose → edit criteria → approve as `rubric_vN+1`.
+4. **Prompt branch** — for `agent_failure`: propose candidate → blind A/B vs incumbent → manually promote or deny.
+5. **Cycle lock** — while one branch is open, the other is queued in `registry.json`.
+
+Deterministic hard failures set `promotion_blocked=true`; prompt promotion is blocked until the candidate passes all hard gates.
+
+### Artifact layout (`evals/`)
+
+| Path | Committed? | Purpose |
+|---|---|---|
+| `cases.jsonl` | yes | Versioned eval scenarios |
+| `rubrics/rubric_v*.json` | yes (seed) | Frozen rubric versions |
+| `prompts/prompt_v*.json` | yes (seed) | Versioned system prompts |
+| `registry.json` | yes | Active pointers + cycle state |
+| `runs/`, `reviews/`, `promotions/` | no | Generated eval artifacts |
+
 ## Utility Scripts
 
 | File | Purpose |

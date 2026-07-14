@@ -1,0 +1,60 @@
+{
+  "rubric_id": "rubric_v1",
+  "version": 1,
+  "status": "frozen",
+  "criteria": [
+    {
+      "id": "survey_shapes_reasoning",
+      "description": "Uses survey documents to shape the overarching analytical framing and plan structure.",
+      "check_type": "llm",
+      "weight": 1.0,
+      "deterministic_check": null
+    },
+    {
+      "id": "case_study_support",
+      "description": "When making design suggestions, cites case studies similar to the user's problem and relevant to any surveys retrieved, rather than citing surveys directly.",
+      "check_type": "llm",
+      "weight": 1.0,
+      "deterministic_check": null
+    },
+    {
+      "id": "no_survey_citations",
+      "description": "Never cites a document whose document_type is 'survey'.",
+      "check_type": "deterministic",
+      "weight": 1.0,
+      "deterministic_check": "no_survey_citations"
+    },
+    {
+      "id": "citations_resolve",
+      "description": "Every cited doc_id resolves to real corpus metadata and was actually retrieved or fetched during the run.",
+      "check_type": "deterministic",
+      "weight": 1.0,
+      "deterministic_check": "citations_resolve"
+    },
+    {
+      "id": "completed_without_error",
+      "description": "The run produced a substantive final answer without a tool error or hitting the step limit.",
+      "check_type": "deterministic",
+      "weight": 1.0,
+      "deterministic_check": "completed_without_error"
+    },
+    {
+      "id": "options_structure",
+      "description": "When asked for a plan or recommendation, presents multiple named options/archetypes with tradeoffs rather than a single prescriptive answer.",
+      "check_type": "llm",
+      "weight": 1.0,
+      "deterministic_check": null
+    },
+    {
+      "id": "advisory_stance",
+      "description": "Illuminates options and tradeoffs for the principal to decide, rather than issuing an unqualified directive.",
+      "check_type": "llm",
+      "weight": 1.0,
+      "deterministic_check": null
+    }
+  ],
+  "created_at": "2026-07-14T18:01:46Z",
+  "parent_rubric_id": null,
+  "rationale": "Seeded from agent/system_prompt.md source-hierarchy and output-format policy.",
+  "derived_from_review_ids": []
+}

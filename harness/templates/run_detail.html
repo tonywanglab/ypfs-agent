@@ -1,0 +1,117 @@
+{% extends "base.html" %}
+{% block title %}Run {{ run_id }} — Eval Harness{% endblock %}
+{% block content %}
+<h1>Run {{ run_id }}</h1>
+<p class="meta">case {{ bundle.case.case_id }} · prompt {{ bundle.manifest.prompt_id }} · rubric {{ bundle.manifest.rubric_id }}</p>
+
+<section>
+  <h2>Query</h2>
+  <pre class="block">{{ bundle.case.prompt }}</pre>
+</section>
+
+<section>
+  <h2>Answer</h2>
+  <pre class="block answer">{{ bundle.answer }}</pre>
+</section>
+
+<section>
+  <h2>Deterministic checks</h2>
+  {% if bundle.manifest.promotion_blocked %}
+    <p class="badge warn">Promotion blocked by hard failure</p>
+  {% endif %}
+  <table>
+    <thead><tr><th>Check</th><th>Passed</th><th>Hard</th><th>Evidence</th></tr></thead>
+    <tbody>
+      {% for c in bundle.checks %}
+        <tr class="{{ 'fail' if not c.passed else '' }}">
+          <td>{{ c.check_id }}</td>
+          <td>{{ c.passed }}</td>
+          <td>{{ c.hard_failure }}</td>
+          <td>{{ c.evidence }}</td>
+        </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+</section>
+
+<section>
+  <h2>Checklist (generated before answer)</h2>
+  <p class="muted">{{ bundle.checklist.evaluator_search_summary }}</p>
+      <ul>
+        {% for item in bundle.checklist['items'] %}
+          <li><strong>{{ item.criterion_id }}</strong>: {{ item.instruction }}</li>
+        {% endfor %}
+      </ul>
+</section>
+
+<section>
+  <h2>Judge assessment</h2>
+  <p>{{ bundle.judgment.summary }}</p>
+  {% if bundle.judgment.failure_feedback %}
+    <pre class="block">{{ bundle.judgment.failure_feedback }}</pre>
+  {% endif %}
+  <table>
+    <thead><tr><th>Criterion</th><th>Verdict</th><th>Evidence</th></tr></thead>
+    <tbody>
+      {% for c in bundle.judgment['criteria'] %}
+        <tr class="{{ 'fail' if c.verdict == 'fail' else '' }}">
+          <td>{{ c.criterion_id }}</td>
+          <td>{{ c.verdict }}</td>
+          <td>{{ c.evidence }}</td>
+        </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+</section>
+
+<section>
+  <h2>Trace</h2>
+  <details>
+    <summary>Expand tool trace</summary>
+    <pre class="block trace">{{ bundle.trace | tojson(indent=2) }}</pre>
+  </details>
+</section>
+
+{% if existing_reviews %}
+<section>
+  <h2>Existing reviews</h2>
+  {% for r in existing_reviews %}
+    <div class="review-card">
+      <p>{{ r.verdict }} — {{ r.failure_attribution }}: {{ r.primary_problem }}</p>
+      {% if r.notes %}<p class="muted">{{ r.notes }}</p>{% endif %}
+    </div>
+  {% endfor %}
+</section>
+{% else %}
+<section>
+  <h2>Supervisor review</h2>
+  <form method="post" action="{{ url_for('submit_review', run_id=run_id) }}" class="review-form">
+    <label>Verdict
+      <select name="verdict" required>
+        <option value="acceptable">acceptable</option>
+        <option value="unacceptable">unacceptable</option>
+      </select>
+    </label>
+    <label>Primary problem
+      <input type="text" name="primary_problem" placeholder="One-line summary">
+    </label>
+    <label>Failure attribution
+      <select name="failure_attribution">
+        <option value="agent_failure">agent_failure</option>
+        <option value="rubric_gap">rubric_gap</option>
+        <option value="judge_failure">judge_failure</option>
+        <option value="retrieval_failure">retrieval_failure</option>
+        <option value="ambiguous">ambiguous</option>
+      </select>
+    </label>
+    <label>Missing considerations (one per line)
+      <textarea name="missing_considerations" rows="3"></textarea>
+    </label>
+    <label>Notes
+      <textarea name="notes" rows="3"></textarea>
+    </label>
+    <button type="submit">Save review</button>
+  </form>
+</section>
+{% endif %}
+{% endblock %}

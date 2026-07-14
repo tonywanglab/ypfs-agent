@@ -1,22 +1,25 @@
 """
-Eval-driven development harness
+Eval-driven development harness.
 
-- a Case is an input plus a check over the agent's output AND trace
-- `agent.run` returns (answer, messages)
-    - check can assert on 
-        - the final text
-        - whether a tool was called
-        - on which doc_ids were retrieved
-
-Because run() takes `model`, the same Case set runs across any list of
-OpenRouter slugs — model comparison is a loop over models, no code changes.
+Thin wrapper over harness.runner for running versioned cases against the
+active prompt and rubric. The legacy Case/check API remains for simple
+boolean smoke tests.
 """
 
+from __future__ import annotations
+
+import os
 from dataclasses import dataclass
 from typing import Callable
-from .agent import run, DEFAULT_MODEL
 
-# (answer, messages) -> passed?   messages is the full trace w/ tool turns
+from .agent import DEFAULT_MODEL, run
+
+from harness import registry
+from harness.candidates import load_prompt, load_rubric
+from harness.runner import run_batch
+from harness.seed import load_cases
+
+# (answer, messages) -> passed?
 Check = Callable[[str, list], bool]
 
 
@@ -27,30 +30,39 @@ class Case:
     check: Check
 
 
-CASES: list[Case] = [
-    # Example — uncomment and adapt:
-    # Case(
-    #     name="retrieves_before_answering",
-    #     user_msg="What interventions stopped bank runs in the 2008 crisis?",
-    #     check=lambda answer, messages: any(m.get("role") == "tool" for m in messages),
-    # ),
-]
+CASES: list[Case] = []
+
+
+def run_harness_evals(
+    case_ids: list[str] | None = None,
+    model: str | None = None,
+    *,
+    role: str = "adhoc",
+) -> list[dict]:
+    """Run harness cases with the active prompt/rubric and return manifests."""
+    model = model or os.environ.get("AGENT_MODEL", DEFAULT_MODEL)
+    rubric = load_rubric(registry.active_rubric_id())
+    prompt = load_prompt(registry.active_prompt_id())
+    cases = load_cases()
+    if case_ids:
+        wanted = set(case_ids)
+        cases = [c for c in cases if c.case_id in wanted]
+    manifests = run_batch(cases, prompt.text, prompt.prompt_id, model, rubric, role=role)
+    return [m.to_dict() for m in manifests]
 
 
 def run_evals(cases: list[Case] = CASES, model: str | None = None) -> None:
-    """Run each case through agent.run and report pass/fail
-
-    TODO (you write this):
-      - for each case: answer, messages = run(case.user_msg, model=model or DEFAULT_MODEL)
-      - record case.check(answer, messages); collect failures
-      - print a summary (passed/total) and the failing case names
-    """
+    """Legacy boolean eval loop over inline Case objects."""
     passed_count = 0
     failures = []
+    resolved_model = model if model else DEFAULT_MODEL
     for case in cases:
-        answer, messages = run(case.user_msg, model=model if model else DEFAULT_MODEL)
+        answer, messages = run(case.user_msg, model=resolved_model)
         if case.check(answer, messages):
             passed_count += 1
-        else: # fail
+        else:
             failures.append(case)
-    print(f'{passed_count}/{len(cases)} with failing case names {", ".join(case.name for case in failures)})')
+    print(
+        f"{passed_count}/{len(cases)} passed"
+        + (f"; failures: {', '.join(c.name for c in failures)}" if failures else "")
+    )
