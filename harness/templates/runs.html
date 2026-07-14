@@ -1,0 +1,14 @@
+{% extends "base.html" %}
+{% block title %}Runs — Eval Harness{% endblock %}
+{% block content %}
+<h1>All runs</h1>
+<ul class="item-list">
+  {% for run in runs %}
+    <li>
+      <a href="{{ url_for('run_detail', run_id=run.run_id) }}">{{ run.run_id }}</a>
+      — {{ run.case_id }}, {{ run.role }}, {{ run.status }}
+      {% if run.promotion_blocked %}<span class="badge warn">blocked</span>{% endif %}
+    </li>
+  {% endfor %}
+</ul>
+{% endblock %}

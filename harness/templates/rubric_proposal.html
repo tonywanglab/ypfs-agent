@@ -1,0 +1,42 @@
+{% extends "base.html" %}
+{% block title %}Rubric {{ proposal.rubric_id }} — Eval Harness{% endblock %}
+{% block content %}
+<h1>Rubric proposal {{ proposal.rubric_id }}</h1>
+<p class="meta">parent {{ proposal.parent_rubric_id }} · v{{ proposal.version }} · {{ proposal.status }}</p>
+{% if proposal.rationale %}
+  <p>{{ proposal.rationale }}</p>
+{% endif %}
+
+{% if parent %}
+<section>
+  <h2>Parent rubric ({{ parent.rubric_id }})</h2>
+  <ul>
+    {% for c in parent.criteria %}
+      <li><strong>{{ c.id }}</strong>: {{ c.description }}</li>
+    {% endfor %}
+  </ul>
+</section>
+{% endif %}
+
+<section>
+  <h2>Proposed criteria</h2>
+  <ul>
+    {% for c in proposal.criteria %}
+      <li><strong>{{ c.id }}</strong> ({{ c.check_type }}): {{ c.description }}</li>
+    {% endfor %}
+  </ul>
+</section>
+
+<section>
+  <h2>Edit and approve</h2>
+  <form method="post" action="{{ url_for('approve_rubric_proposal', proposal_id=proposal.rubric_id) }}">
+    <label>Criteria JSON (edit before approving)
+      <textarea name="criteria_json" rows="18" class="code">{{ criteria_json }}</textarea>
+    </label>
+    <button type="submit" class="primary">Approve as frozen rubric</button>
+  </form>
+  <form method="post" action="{{ url_for('deny_rubric_proposal', proposal_id=proposal.rubric_id) }}" class="inline-form">
+    <button type="submit" class="danger">Deny proposal</button>
+  </form>
+</section>
+{% endblock %}

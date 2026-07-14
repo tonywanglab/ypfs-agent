@@ -12,3 +12,11 @@ enriched_chunks/
 embeddings/
 agent/responses/
 responses/
+
+# Harness generated artifacts (seed cases/rubrics/prompts/registry are committed)
+evals/runs/
+evals/reviews/
+evals/promotions/
+evals/rubrics/proposals/
+evals/prompts/candidates/
+evals/prompts/archive/
