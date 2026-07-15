@@ -98,7 +98,7 @@ def test_rubric_proposal_approve_via_web(client, monkeypatch):
 
     resp = client.post("/proposals/rubric", data={
         "review_ids": review.review_id,
-        "model": "model-x",
+        "model": "anthropic/claude-sonnet-4.6",
     }, follow_redirects=True)
     assert resp.status_code == 200
 
@@ -118,6 +118,7 @@ def test_chat_page_loads(client):
     assert b"Start a run" in resp.data
     assert b"prompt_v1" in resp.data
     assert b"rubric_v1" in resp.data
+    assert b"Claude Sonnet 4.6" in resp.data
 
 
 def test_chat_run_single_sample(client):
@@ -125,7 +126,7 @@ def test_chat_run_single_sample(client):
         "query": "What emergency lending options exist?",
         "prompt_id": "prompt_v1",
         "rubric_id": "rubric_v1",
-        "model": "model-x",
+        "model": "anthropic/claude-sonnet-4.6",
         "samples": "1",
     }, follow_redirects=False)
     assert resp.status_code == 302
@@ -140,7 +141,7 @@ def test_chat_run_multiple_samples(client):
         "query": "Plan for insurer liquidity?",
         "prompt_id": "prompt_v1",
         "rubric_id": "rubric_v1",
-        "model": "model-x",
+        "model": "anthropic/claude-sonnet-4.6",
         "samples": "3",
     }, follow_redirects=True)
     assert resp.status_code == 200

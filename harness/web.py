@@ -16,6 +16,7 @@ from flask import Flask, abort, flash, redirect, render_template, request, url_f
 from agent.agent import DEFAULT_MODEL
 
 from . import candidates, registry, reviews, router
+from .agent_models import AGENT_MODEL_OPTIONS, default_model_slug, is_valid_model_slug
 from .candidates import (
     load_prompt,
     load_prompt_version,
@@ -82,7 +83,8 @@ def create_app() -> Flask:
             prompts=candidates.list_selectable_prompts(),
             rubrics=candidates.list_selectable_rubrics(),
             cases=[c.to_dict() for c in load_cases()],
-            default_model=os.environ.get("AGENT_MODEL", DEFAULT_MODEL),
+            models=AGENT_MODEL_OPTIONS,
+            selected_model=default_model_slug(),
             selected_prompt_id=request.args.get("prompt_id", registry.active_prompt_id()),
             selected_rubric_id=request.args.get("rubric_id", registry.active_rubric_id()),
             default_samples=1,
@@ -93,7 +95,7 @@ def create_app() -> Flask:
         query = request.form.get("query", "").strip()
         prompt_id = request.form.get("prompt_id", "").strip()
         rubric_id = request.form.get("rubric_id", "").strip()
-        model = request.form.get("model", os.environ.get("AGENT_MODEL", DEFAULT_MODEL)).strip()
+        model = request.form.get("model", default_model_slug()).strip()
         try:
             samples = max(1, min(int(request.form.get("samples", "1")), 20))
         except ValueError:
@@ -105,8 +107,8 @@ def create_app() -> Flask:
         if not prompt_id or not rubric_id:
             flash("Select a system prompt and rubric.", "error")
             return redirect(url_for("chat"))
-        if not model:
-            flash("Enter a model slug.", "error")
+        if not is_valid_model_slug(model):
+            flash("Select a valid model.", "error")
             return redirect(url_for("chat"))
 
         try:

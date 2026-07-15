@@ -36,7 +36,14 @@
 
         <label>
           Model
-          <input type="text" name="model" value="{{ default_model }}" required>
+          <select name="model" required>
+            {% for m in models %}
+              <option value="{{ m.slug }}"
+                {% if m.slug == selected_model %}selected{% endif %}>
+                {{ m.label }}
+              </option>
+            {% endfor %}
+          </select>
         </label>
 
         <label>
