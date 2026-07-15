@@ -137,6 +137,40 @@ def list_prompt_candidates() -> list[PromptVersion]:
     ]
 
 
+def list_selectable_prompts() -> list[PromptVersion]:
+    """Active/archived prompts plus candidates, excluding rejected."""
+    seen: set[str] = set()
+    out: list[PromptVersion] = []
+    for directory in (PROMPTS_DIR, CANDIDATES_DIR):
+        if not directory.exists():
+            continue
+        for path in sorted(directory.glob("*.json")):
+            prompt = PromptVersion.from_dict(read_json(path))
+            if prompt.status == "rejected" or prompt.prompt_id in seen:
+                continue
+            seen.add(prompt.prompt_id)
+            out.append(prompt)
+    return sorted(out, key=lambda p: (p.version, p.prompt_id))
+
+
+def list_selectable_rubrics() -> list[Rubric]:
+    """Frozen rubrics plus open proposals, excluding rejected."""
+    rubrics = [r for r in list_rubrics() if r.status != "rejected"]
+    rubrics.extend(r for r in list_proposals() if r.status == "proposed")
+    return sorted(rubrics, key=lambda r: (r.version, r.rubric_id))
+
+
+def load_rubric_version(rubric_id: str) -> Rubric:
+    """Load a frozen rubric or an in-flight proposal."""
+    frozen = RUBRICS_DIR / f"{rubric_id}.json"
+    if frozen.exists():
+        return Rubric.from_dict(read_json(frozen))
+    proposal = PROPOSALS_DIR / f"{rubric_id}.json"
+    if proposal.exists():
+        return Rubric.from_dict(read_json(proposal))
+    raise FileNotFoundError(f"Rubric {rubric_id!r} not found under {RUBRICS_DIR}")
+
+
 def _next_rubric_version() -> int:
     versions = [r.version for r in list_rubrics() + list_proposals()]
     return max(versions, default=0) + 1

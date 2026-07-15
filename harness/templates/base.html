@@ -11,6 +11,7 @@
     <nav>
       <a href="{{ url_for('dashboard') }}" class="brand">Eval Harness</a>
       <a href="{{ url_for('dashboard') }}" class="nav-link{% if request.endpoint == 'dashboard' %} is-active{% endif %}">Dashboard</a>
+      <a href="{{ url_for('chat') }}" class="nav-link{% if request.endpoint in ('chat', 'chat_run', 'launch_detail') %} is-active{% endif %}">Chat</a>
       <a href="{{ url_for('runs_list') }}" class="nav-link{% if request.endpoint in ('runs_list', 'run_detail') %} is-active{% endif %}">Runs</a>
     </nav>
     <div class="cycle-status">

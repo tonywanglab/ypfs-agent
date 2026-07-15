@@ -15,6 +15,7 @@ responses/
 
 # Harness generated artifacts (seed cases/rubrics/prompts/registry are committed)
 evals/runs/
+evals/launches/
 evals/reviews/
 evals/promotions/
 evals/rubrics/proposals/

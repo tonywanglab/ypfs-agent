@@ -8,18 +8,27 @@ from __future__ import annotations
 
 import hashlib
 import json
+import os
 from pathlib import Path
 
+import requests
+from dotenv import load_dotenv
 from flask import Flask, abort, flash, redirect, render_template, request, url_for
 
+from agent.agent import DEFAULT_MODEL
+
 from . import candidates, registry, reviews, router
+from .agent_models import AGENT_MODEL_OPTIONS, default_model_slug, is_valid_model_slug
 from .candidates import (
     load_prompt,
     load_prompt_candidate,
+    load_prompt_version,
     load_proposal,
     load_rubric,
+    load_rubric_version,
     require_current_prompt_candidate,
 )
+from .models import Case
 from .promote import deny_promotion, promote_prompt
 from .runner import (
     load_pairs,
@@ -28,13 +37,30 @@ from .runner import (
     list_promotions,
     list_runs,
     run_ab,
+    run_case,
     set_pair_preference,
 )
 from .seed import load_cases
-from .storage import safe_path
+from .storage import EVALS_DIR, atomic_write_json, new_id, now_iso, read_json, safe_path
+
+LAUNCHES_DIR = EVALS_DIR / "launches"
+
+load_dotenv()
 
 TEMPLATES = Path(__file__).parent / "templates"
 STATIC = Path(__file__).parent / "static"
+
+
+def _openrouter_configured() -> bool:
+    return bool(os.environ.get("OPENROUTER_API_KEY"))
+
+
+def _run_launch_error_message(exc: BaseException) -> str:
+    if isinstance(exc, KeyError) and exc.args and exc.args[0] == "OPENROUTER_API_KEY":
+        return "OPENROUTER_API_KEY is not set. Add it to .env at the repo root and restart the server."
+    if isinstance(exc, requests.HTTPError) and exc.response is not None:
+        return f"OpenRouter request failed ({exc.response.status_code}): {exc.response.text[:200]}"
+    return f"Run failed: {exc}"
 
 
 def create_app() -> Flask:
@@ -67,6 +93,121 @@ def create_app() -> Flask:
     @app.route("/runs")
     def runs_list():
         return render_template("runs.html", runs=list_runs())
+
+    @app.route("/chat")
+    def chat():
+        return render_template(
+            "chat.html",
+            prompts=candidates.list_selectable_prompts(),
+            rubrics=candidates.list_selectable_rubrics(),
+            cases=[c.to_dict() for c in load_cases()],
+            models=AGENT_MODEL_OPTIONS,
+            selected_model=default_model_slug(),
+            selected_prompt_id=request.args.get("prompt_id", registry.active_prompt_id()),
+            selected_rubric_id=request.args.get("rubric_id", registry.active_rubric_id()),
+            default_samples=1,
+            openrouter_configured=_openrouter_configured(),
+        )
+
+    @app.route("/chat/run", methods=["POST"])
+    def chat_run():
+        query = request.form.get("query", "").strip()
+        prompt_id = request.form.get("prompt_id", "").strip()
+        rubric_id = request.form.get("rubric_id", "").strip()
+        model = request.form.get("model", default_model_slug()).strip()
+        try:
+            samples = max(1, min(int(request.form.get("samples", "1")), 20))
+        except ValueError:
+            samples = 1
+
+        if not query:
+            flash("Enter a query to run.", "error")
+            return redirect(url_for("chat"))
+        if not prompt_id or not rubric_id:
+            flash("Select a system prompt and rubric.", "error")
+            return redirect(url_for("chat"))
+        if not is_valid_model_slug(model):
+            flash("Select a valid model.", "error")
+            return redirect(url_for("chat"))
+        if not _openrouter_configured():
+            flash(
+                "OPENROUTER_API_KEY is not set. Add it to .env at the repo root and restart the server.",
+                "error",
+            )
+            return redirect(url_for("chat"))
+
+        try:
+            prompt = load_prompt_version(prompt_id)
+        except (FileNotFoundError, ValueError):
+            flash(f"Unknown prompt {prompt_id!r}.", "error")
+            return redirect(url_for("chat"))
+
+        try:
+            rubric = load_rubric_version(rubric_id)
+        except (FileNotFoundError, ValueError):
+            flash(f"Unknown rubric {rubric_id!r}.", "error")
+            return redirect(url_for("chat"))
+
+        launch_id = new_id("launch")
+        run_ids: list[str] = []
+        base_case_id = new_id("adhoc")
+        try:
+            for sample_index in range(samples):
+                case = Case(
+                    case_id=f"{base_case_id}_s{sample_index + 1}" if samples > 1 else base_case_id,
+                    prompt=query,
+                    tags=["adhoc", "chat"],
+                )
+                manifest = run_case(case, prompt.text, prompt.prompt_id, model, rubric, role="adhoc")
+                run_ids.append(manifest.run_id)
+        except (KeyError, requests.RequestException, RuntimeError, ValueError) as exc:
+            flash(_run_launch_error_message(exc), "error")
+            if run_ids:
+                flash(
+                    f"Partial batch: {len(run_ids)} of {samples} sample(s) completed before the failure.",
+                    "warning",
+                )
+            return redirect(url_for("chat"))
+
+        LAUNCHES_DIR.mkdir(parents=True, exist_ok=True)
+        atomic_write_json(LAUNCHES_DIR / f"{launch_id}.json", {
+            "launch_id": launch_id,
+            "query": query,
+            "prompt_id": prompt.prompt_id,
+            "rubric_id": rubric.rubric_id,
+            "model": model,
+            "samples": samples,
+            "run_ids": run_ids,
+            "created_at": now_iso(),
+        })
+
+        if samples == 1:
+            flash("Run complete.", "success")
+            return redirect(url_for("run_detail", run_id=run_ids[0]))
+        flash(f"Started {samples} sample runs.", "success")
+        return redirect(url_for("launch_detail", launch_id=launch_id))
+
+    @app.route("/chat/launches/<launch_id>")
+    def launch_detail(launch_id: str):
+        safe_path("launches", f"{launch_id}.json")
+        try:
+            launch = read_json(LAUNCHES_DIR / f"{launch_id}.json")
+        except FileNotFoundError:
+            abort(404)
+        runs = []
+        for run_id in launch.get("run_ids", []):
+            safe_path("runs", run_id)
+            try:
+                bundle = load_run_bundle(run_id)
+                runs.append({
+                    "run_id": run_id,
+                    "manifest": bundle["manifest"],
+                    "answer": bundle["answer"],
+                    "judgment": bundle["judgment"],
+                })
+            except (FileNotFoundError, ValueError):
+                runs.append({"run_id": run_id, "manifest": {}, "answer": "", "judgment": {}})
+        return render_template("launch_detail.html", launch=launch, runs=runs)
 
     @app.route("/runs/<run_id>")
     def run_detail(run_id: str):
