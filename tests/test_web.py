@@ -8,7 +8,7 @@ from harness import candidates, llm, registry, reviews
 from harness.models import Case, PromptVersion
 import harness.runner as runner
 from harness.runner import run_case
-from harness.seed import seed_all
+from harness.seed import load_cases, seed_all
 from harness.storage import atomic_write_json
 from harness.web import create_app
 
@@ -196,6 +196,45 @@ def test_prompt_candidate_rejects_empty_edit(client):
 
     assert resp.status_code == 400
     assert candidates.load_prompt_version(candidate.prompt_id).text == "Original candidate prompt"
+
+
+def test_candidate_route_does_not_render_active_prompt(client):
+    resp = client.get("/prompts/candidates/prompt_v1")
+    assert resp.status_code == 404
+
+
+def test_stale_prompt_candidate_cannot_start_promotion(client):
+    registry.lock_cycle("prompt")
+    old_cycle_id = registry.load()["cycle"]["cycle_id"]
+    candidate = PromptVersion(
+        prompt_id="prompt_v2_stale",
+        version=2,
+        status="candidate",
+        text="Stale candidate",
+        created_at="t",
+        parent_prompt_id="prompt_v1",
+        cycle_id=old_cycle_id,
+    )
+    candidates.CANDIDATES_DIR.mkdir(parents=True, exist_ok=True)
+    atomic_write_json(
+        candidates.CANDIDATES_DIR / f"{candidate.prompt_id}.json",
+        candidate.to_dict(),
+    )
+    registry.close_cycle("cancelled", expected_branch="prompt")
+    registry.lock_cycle("prompt", opened_by="new-cycle")
+
+    resp = client.post(
+        "/promotions/create",
+        data={
+            "candidate_prompt_id": candidate.prompt_id,
+            "case_ids": load_cases()[0].case_id,
+            "model": "model-x",
+        },
+    )
+
+    assert resp.status_code == 302
+    assert runner.list_promotions() == []
+    assert registry.locked_branch() == "prompt"
 
 
 def test_promotion_page_blind_labels(client):
