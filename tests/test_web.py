@@ -119,6 +119,8 @@ def test_chat_page_loads(client):
     assert b"prompt_v1" in resp.data
     assert b"rubric_v1" in resp.data
     assert b"Claude Sonnet 4.6" in resp.data
+    assert b"Claude Fable 5" in resp.data
+    assert b"GPT-5.6 Sol" in resp.data
 
 
 def test_chat_run_single_sample(client):
