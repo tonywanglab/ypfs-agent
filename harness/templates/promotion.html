@@ -1,44 +1,49 @@
 {% extends "base.html" %}
 {% block title %}Promotion {{ promotion.promotion_id }} — Eval Harness{% endblock %}
 {% block content %}
-<h1>A/B promotion {{ promotion.promotion_id }}</h1>
-<p class="meta">
-  incumbent {{ promotion.incumbent_prompt_id }} · candidate {{ promotion.candidate_prompt_id }}
-  · rubric {{ promotion.rubric_id }} · status {{ promotion.status }}
-</p>
-
-{% if promotion_blocked %}
-  <p class="badge warn">Candidate has deterministic hard failure — promotion blocked.</p>
-{% endif %}
+<div class="page-header">
+  <h1>A/B promotion {{ promotion.promotion_id }}</h1>
+  <div class="meta-chips">
+    <span class="chip"><strong>incumbent</strong> {{ promotion.incumbent_prompt_id }}</span>
+    <span class="chip"><strong>candidate</strong> {{ promotion.candidate_prompt_id }}</span>
+    <span class="chip"><strong>rubric</strong> {{ promotion.rubric_id }}</span>
+    <span class="badge {% if promotion.status == 'pending' %}warn{% else %}neutral{% endif %}">{{ promotion.status }}</span>
+    {% if promotion_blocked %}
+      <span class="badge warn">hard failure — blocked</span>
+    {% endif %}
+  </div>
+</div>
 
 <section>
   <h2>Frozen rubric</h2>
-  <ul>
+  <ul class="item-list">
     {% for c in rubric.criteria %}
-      <li><strong>{{ c.id }}</strong> ({{ c.check_type }}): {{ c.description }}</li>
+      <li><strong>{{ c.id }}</strong> <span class="muted">({{ c.check_type }})</span> {{ c.description }}</li>
     {% endfor %}
   </ul>
 </section>
 
 {% for view in pair_views %}
 <section class="ab-pair">
-  <h2>Case {{ view.case_id }} — blind compare</h2>
+  <div class="section-head">
+    <h2>Case {{ view.case_id }} — blind compare</h2>
+  </div>
   <p class="muted">Responses are labeled A/B without revealing incumbent vs candidate.</p>
 
   <div class="ab-columns">
     <div class="ab-col">
       <h3>Response {{ view.first_label }}</h3>
       <pre class="block answer">{{ view.first.answer }}</pre>
-      <p class="meta">checks: {{ view.first.checks | selectattr('passed', 'equalto', false) | list | length }} failed</p>
+      <p class="meta">{{ view.first.checks | selectattr('passed', 'equalto', false) | list | length }} checks failed</p>
     </div>
     <div class="ab-col">
       <h3>Response {{ view.second_label }}</h3>
       <pre class="block answer">{{ view.second.answer }}</pre>
-      <p class="meta">checks: {{ view.second.checks | selectattr('passed', 'equalto', false) | list | length }} failed</p>
+      <p class="meta">{{ view.second.checks | selectattr('passed', 'equalto', false) | list | length }} checks failed</p>
     </div>
   </div>
 
-  <form method="post" action="{{ url_for('save_preference', promotion_id=promotion.promotion_id) }}" class="preference-form">
+  <form method="post" action="{{ url_for('save_preference', promotion_id=promotion.promotion_id) }}" class="preference-form inline-form">
     <input type="hidden" name="case_id" value="{{ view.case_id }}">
     <label>Preference
       <select name="preference">
@@ -49,7 +54,9 @@
       </select>
     </label>
     <label>Notes <input type="text" name="notes" value="{{ view.pair.notes }}"></label>
-    <button type="submit">Save preference</button>
+    <div class="form-actions">
+      <button type="submit">Save preference</button>
+    </div>
   </form>
 </section>
 {% endfor %}
