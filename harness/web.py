@@ -11,6 +11,8 @@ import json
 import os
 from pathlib import Path
 
+import requests
+from dotenv import load_dotenv
 from flask import Flask, abort, flash, redirect, render_template, request, url_for
 
 from agent.agent import DEFAULT_MODEL
@@ -41,8 +43,22 @@ from .storage import EVALS_DIR, atomic_write_json, new_id, now_iso, read_json, s
 
 LAUNCHES_DIR = EVALS_DIR / "launches"
 
+load_dotenv()
+
 TEMPLATES = Path(__file__).parent / "templates"
 STATIC = Path(__file__).parent / "static"
+
+
+def _openrouter_configured() -> bool:
+    return bool(os.environ.get("OPENROUTER_API_KEY"))
+
+
+def _run_launch_error_message(exc: BaseException) -> str:
+    if isinstance(exc, KeyError) and exc.args and exc.args[0] == "OPENROUTER_API_KEY":
+        return "OPENROUTER_API_KEY is not set. Add it to .env at the repo root and restart the server."
+    if isinstance(exc, requests.HTTPError) and exc.response is not None:
+        return f"OpenRouter request failed ({exc.response.status_code}): {exc.response.text[:200]}"
+    return f"Run failed: {exc}"
 
 
 def create_app() -> Flask:
@@ -88,6 +104,7 @@ def create_app() -> Flask:
             selected_prompt_id=request.args.get("prompt_id", registry.active_prompt_id()),
             selected_rubric_id=request.args.get("rubric_id", registry.active_rubric_id()),
             default_samples=1,
+            openrouter_configured=_openrouter_configured(),
         )
 
     @app.route("/chat/run", methods=["POST"])
@@ -110,6 +127,12 @@ def create_app() -> Flask:
         if not is_valid_model_slug(model):
             flash("Select a valid model.", "error")
             return redirect(url_for("chat"))
+        if not _openrouter_configured():
+            flash(
+                "OPENROUTER_API_KEY is not set. Add it to .env at the repo root and restart the server.",
+                "error",
+            )
+            return redirect(url_for("chat"))
 
         try:
             prompt = load_prompt_version(prompt_id)
@@ -126,14 +149,23 @@ def create_app() -> Flask:
         launch_id = new_id("launch")
         run_ids: list[str] = []
         base_case_id = new_id("adhoc")
-        for sample_index in range(samples):
-            case = Case(
-                case_id=f"{base_case_id}_s{sample_index + 1}" if samples > 1 else base_case_id,
-                prompt=query,
-                tags=["adhoc", "chat"],
-            )
-            manifest = run_case(case, prompt.text, prompt.prompt_id, model, rubric, role="adhoc")
-            run_ids.append(manifest.run_id)
+        try:
+            for sample_index in range(samples):
+                case = Case(
+                    case_id=f"{base_case_id}_s{sample_index + 1}" if samples > 1 else base_case_id,
+                    prompt=query,
+                    tags=["adhoc", "chat"],
+                )
+                manifest = run_case(case, prompt.text, prompt.prompt_id, model, rubric, role="adhoc")
+                run_ids.append(manifest.run_id)
+        except (KeyError, requests.RequestException, RuntimeError, ValueError) as exc:
+            flash(_run_launch_error_message(exc), "error")
+            if run_ids:
+                flash(
+                    f"Partial batch: {len(run_ids)} of {samples} sample(s) completed before the failure.",
+                    "warning",
+                )
+            return redirect(url_for("chat"))
 
         LAUNCHES_DIR.mkdir(parents=True, exist_ok=True)
         atomic_write_json(LAUNCHES_DIR / f"{launch_id}.json", {

@@ -44,6 +44,7 @@ def client(evals_dir, monkeypatch):
     monkeypatch.setattr(runner_mod, "agent_run", fake_agent)
     monkeypatch.setattr(evaluator_mod, "generate_checklist", fake_checklist)
     monkeypatch.setattr(evaluator_mod, "judge_answer", fake_judge)
+    monkeypatch.setenv("OPENROUTER_API_KEY", "test-key")
 
     app = create_app()
     app.config["TESTING"] = True
@@ -137,6 +138,26 @@ def test_chat_run_single_sample(client):
     detail = client.get(f"/runs/{run_id}")
     assert detail.status_code == 200
     assert b"What emergency lending options exist?" in detail.data
+
+
+def test_chat_run_missing_api_key(client, monkeypatch):
+    monkeypatch.delenv("OPENROUTER_API_KEY", raising=False)
+
+    def fail_agent(*args, **kwargs):
+        raise KeyError("OPENROUTER_API_KEY")
+
+    import harness.runner as runner_mod
+    monkeypatch.setattr(runner_mod, "agent_run", fail_agent)
+
+    resp = client.post("/chat/run", data={
+        "query": "What emergency lending options exist?",
+        "prompt_id": "prompt_v1",
+        "rubric_id": "rubric_v1",
+        "model": "anthropic/claude-fable-5",
+        "samples": "1",
+    }, follow_redirects=True)
+    assert resp.status_code == 200
+    assert b"OPENROUTER_API_KEY is not set" in resp.data
 
 
 def test_chat_run_multiple_samples(client):

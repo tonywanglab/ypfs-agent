@@ -4,6 +4,13 @@
 <h1>Start a run</h1>
 <p class="muted">Submit a query through the full evaluation pipeline: agent → checks → checklist → judge.</p>
 
+{% if not openrouter_configured %}
+<section class="warn-banner">
+  <strong>OPENROUTER_API_KEY is not set.</strong>
+  Add it to <code>.env</code> at the repo root, then restart <code>python -m harness web</code>.
+</section>
+{% endif %}
+
 <div class="chat-layout">
   <aside class="chat-config">
     <form method="post" action="{{ url_for('chat_run') }}" id="launch-form">
