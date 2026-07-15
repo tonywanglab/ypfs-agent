@@ -11,7 +11,7 @@ def test_run_reloads_default_system_prompt_each_call(tmp_path, monkeypatch):
     captured = []
 
     def fake_call(messages, model):
-        captured.append(messages)
+        captured.append(list(messages))
         return {"role": "assistant", "content": "done"}
 
     monkeypatch.setattr(agent, "_call", fake_call)
@@ -28,7 +28,7 @@ def test_run_can_explicitly_omit_system_prompt(monkeypatch):
     captured = []
 
     def fake_call(messages, model):
-        captured.append(messages)
+        captured.append(list(messages))
         return {"role": "assistant", "content": "done"}
 
     monkeypatch.setattr(agent, "_call", fake_call)
