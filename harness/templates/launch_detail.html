@@ -1,0 +1,39 @@
+{% extends "base.html" %}
+{% block title %}Launch {{ launch.launch_id }} — Eval Harness{% endblock %}
+{% block content %}
+<h1>Launch {{ launch.launch_id }}</h1>
+<p class="meta">
+  {{ launch.samples }} sample(s) · prompt {{ launch.prompt_id }} · rubric {{ launch.rubric_id }} · model {{ launch.model }}
+</p>
+
+<section>
+  <h2>Query</h2>
+  <pre class="block">{{ launch.query }}</pre>
+</section>
+
+<section>
+  <h2>Runs</h2>
+  <table>
+    <thead>
+      <tr>
+        <th>Run</th>
+        <th>Status</th>
+        <th>Judge summary</th>
+        <th>Answer preview</th>
+      </tr>
+    </thead>
+    <tbody>
+      {% for r in runs %}
+        <tr>
+          <td><a href="{{ url_for('run_detail', run_id=r.run_id) }}">{{ r.run_id }}</a></td>
+          <td>{{ r.manifest.get('status', '—') }}</td>
+          <td>{{ r.judgment.get('summary', '—') }}</td>
+          <td class="preview">{{ r.answer[:200] }}{% if r.answer|length > 200 %}…{% endif %}</td>
+        </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+</section>
+
+<p><a href="{{ url_for('chat') }}">← Back to chat</a></p>
+{% endblock %}
