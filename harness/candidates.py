@@ -434,3 +434,21 @@ def deny_prompt(prompt_id: str) -> PromptVersion:
         )
         raise
     return candidate
+
+
+def update_prompt_candidate(prompt_id: str, text: str) -> PromptVersion:
+    candidate = PromptVersion.from_dict(
+        read_json(CANDIDATES_DIR / f"{prompt_id}.json")
+    )
+    if candidate.status != "candidate":
+        raise ValueError(f"Prompt {prompt_id} is not in candidate status")
+    _require_artifact_cycle("prompt", candidate.cycle_id)
+    if registry.active_prompt_id() != candidate.parent_prompt_id:
+        raise ValueError(
+            f"Prompt {prompt_id} is stale because its parent prompt is no longer active"
+        )
+    if not isinstance(text, str) or not text.strip():
+        raise ValueError("Prompt text must be a non-empty string")
+    candidate.text = text
+    atomic_write_json(CANDIDATES_DIR / f"{prompt_id}.json", candidate.to_dict())
+    return candidate
