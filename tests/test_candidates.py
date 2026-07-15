@@ -109,6 +109,49 @@ def test_approve_rubric_with_edited_criteria(evals_dir, monkeypatch):
     assert frozen.criteria[0].id == "new_criterion"
 
 
+def test_approve_rubric_rejects_empty_criteria(evals_dir, monkeypatch):
+    _seed_registry(evals_dir)
+    _mock_rubric_llm(monkeypatch)
+    proposal = candidates.propose_rubric([], "model-x")
+
+    with pytest.raises(ValueError, match="at least one criterion"):
+        candidates.approve_rubric(proposal.rubric_id, criteria_json="[]")
+
+    assert registry.active_rubric_id() == "rubric_v1"
+    assert candidates.load_proposal(proposal.rubric_id).status == "proposed"
+
+
+def test_failed_rubric_activation_keeps_proposal_recoverable(evals_dir, monkeypatch):
+    _seed_registry(evals_dir)
+    _mock_rubric_llm(monkeypatch)
+    proposal = candidates.propose_rubric([], "model-x")
+    frozen_path = candidates.RUBRICS_DIR / f"rubric_v{proposal.version}.json"
+
+    def fail_activation(_rubric_id):
+        raise RuntimeError("simulated registry failure")
+
+    monkeypatch.setattr(registry, "set_active_rubric", fail_activation)
+    with pytest.raises(RuntimeError, match="simulated registry failure"):
+        candidates.approve_rubric(proposal.rubric_id)
+
+    assert registry.active_rubric_id() == "rubric_v1"
+    assert candidates.load_proposal(proposal.rubric_id).status == "proposed"
+    assert not frozen_path.exists()
+
+
+def test_repeated_stale_rubric_denial_does_not_close_new_cycle(evals_dir, monkeypatch):
+    _seed_registry(evals_dir)
+    _mock_rubric_llm(monkeypatch)
+    proposal = candidates.propose_rubric([], "model-x")
+    candidates.deny_rubric(proposal.rubric_id)
+    registry.lock_cycle("prompt")
+
+    with pytest.raises(ValueError, match="not in proposed status"):
+        candidates.deny_rubric(proposal.rubric_id)
+
+    assert registry.locked_branch() == "prompt"
+
+
 def test_propose_prompt_writes_candidate(evals_dir, monkeypatch):
     _seed_registry(evals_dir)
     _mock_prompt_llm(monkeypatch)
@@ -120,6 +163,34 @@ def test_propose_prompt_writes_candidate(evals_dir, monkeypatch):
     assert registry.locked_branch() == "prompt"
     loaded = candidates.load_prompt_version(candidate.prompt_id)
     assert loaded.prompt_id == candidate.prompt_id
+
+
+def test_prompt_proposal_failure_releases_new_cycle(evals_dir, monkeypatch):
+    _seed_registry(evals_dir)
+
+    def fail_chat_json(*args, **kwargs):
+        raise RuntimeError("simulated provider failure")
+
+    monkeypatch.setattr(llm, "chat_json", fail_chat_json)
+    with pytest.raises(RuntimeError, match="simulated provider failure"):
+        candidates.propose_prompt([], "model-x")
+
+    assert registry.locked_branch() is None
+
+
+def test_prompt_proposal_rejects_null_text_and_releases_cycle(evals_dir, monkeypatch):
+    _seed_registry(evals_dir)
+    monkeypatch.setattr(
+        llm,
+        "chat_json",
+        lambda *args, **kwargs: {"rationale": "invalid", "text": None},
+    )
+
+    with pytest.raises(ValueError, match="non-empty string"):
+        candidates.propose_prompt([], "model-x")
+
+    assert registry.locked_branch() is None
+    assert candidates.list_prompt_candidates() == []
 
 
 def test_load_prompt_version_finds_candidate(evals_dir):
