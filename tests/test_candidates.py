@@ -152,6 +152,35 @@ def test_repeated_stale_rubric_denial_does_not_close_new_cycle(evals_dir, monkey
     assert registry.locked_branch() == "prompt"
 
 
+def test_stale_proposal_does_not_close_new_same_branch_cycle(evals_dir, monkeypatch):
+    _seed_registry(evals_dir)
+    _mock_rubric_llm(monkeypatch)
+    proposal = candidates.propose_rubric([], "model-x")
+    registry.close_cycle("cancelled", expected_branch="rubric")
+    registry.lock_cycle("rubric", opened_by="new-cycle")
+
+    with pytest.raises(ValueError, match="different review cycle"):
+        candidates.deny_rubric(proposal.rubric_id)
+
+    assert registry.locked_branch() == "rubric"
+    assert candidates.load_proposal(proposal.rubric_id).status == "proposed"
+
+
+def test_denial_failure_keeps_proposal_recoverable(evals_dir, monkeypatch):
+    _seed_registry(evals_dir)
+    _mock_rubric_llm(monkeypatch)
+    proposal = candidates.propose_rubric([], "model-x")
+
+    def fail_close(*args, **kwargs):
+        raise RuntimeError("simulated registry failure")
+
+    monkeypatch.setattr(registry, "close_cycle", fail_close)
+    with pytest.raises(RuntimeError, match="simulated registry failure"):
+        candidates.deny_rubric(proposal.rubric_id)
+
+    assert candidates.load_proposal(proposal.rubric_id).status == "proposed"
+
+
 def test_propose_prompt_writes_candidate(evals_dir, monkeypatch):
     _seed_registry(evals_dir)
     _mock_prompt_llm(monkeypatch)
@@ -176,6 +205,21 @@ def test_prompt_proposal_failure_releases_new_cycle(evals_dir, monkeypatch):
         candidates.propose_prompt([], "model-x")
 
     assert registry.locked_branch() is None
+
+
+def test_cycle_cleanup_does_not_mask_prompt_proposal_failure(evals_dir, monkeypatch):
+    _seed_registry(evals_dir)
+
+    def fail_chat_json(*args, **kwargs):
+        raise RuntimeError("provider failure")
+
+    def fail_close(*args, **kwargs):
+        raise OSError("cleanup failure")
+
+    monkeypatch.setattr(llm, "chat_json", fail_chat_json)
+    monkeypatch.setattr(registry, "close_cycle", fail_close)
+    with pytest.raises(RuntimeError, match="provider failure"):
+        candidates.propose_prompt([], "model-x")
 
 
 def test_prompt_proposal_rejects_null_text_and_releases_cycle(evals_dir, monkeypatch):
