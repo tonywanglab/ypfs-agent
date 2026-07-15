@@ -10,13 +10,19 @@ than rejected outright.
 
 from __future__ import annotations
 
+import fcntl
+import threading
+from collections.abc import Callable
+from contextlib import contextmanager
 from typing import Literal
 
-from .storage import EVALS_DIR, atomic_write_json, now_iso, read_json_default
+from .storage import EVALS_DIR, atomic_write_json, new_id, now_iso, read_json_default
 
 REGISTRY_PATH = EVALS_DIR / "registry.json"
 
 Branch = Literal["rubric", "prompt"]
+_THREAD_LOCK = threading.RLock()
+_TRANSACTION_STATE = threading.local()
 
 
 class CycleLockedError(Exception):
@@ -34,26 +40,91 @@ def _default_registry() -> dict:
     return {
         "active_rubric_id": "rubric_v1",
         "active_prompt_id": "prompt_v1",
-        "cycle": {"locked_branch": None, "opened_at": None, "opened_by": None},
+        "cycle": {
+            "cycle_id": None,
+            "locked_branch": None,
+            "opened_at": None,
+            "opened_by": None,
+        },
         "pending_queue": {"rubric": [], "prompt": []},
         "history": [],
     }
 
 
-def load() -> dict:
+def _load_unlocked() -> dict:
     data = read_json_default(REGISTRY_PATH, None)
     if data is None:
         data = _default_registry()
-        save(data)
+        atomic_write_json(REGISTRY_PATH, data)
     # Backfill keys for registries written by an older harness version.
     data.setdefault("pending_queue", {"rubric": [], "prompt": []})
     data.setdefault("history", [])
-    data.setdefault("cycle", {"locked_branch": None, "opened_at": None, "opened_by": None})
+    cycle = data.setdefault(
+        "cycle",
+        {
+            "cycle_id": None,
+            "locked_branch": None,
+            "opened_at": None,
+            "opened_by": None,
+        },
+    )
+    cycle.setdefault("cycle_id", None)
+    cycle.setdefault("locked_branch", None)
+    cycle.setdefault("opened_at", None)
+    cycle.setdefault("opened_by", None)
     return data
 
 
-def save(data: dict) -> None:
+def _in_transaction() -> bool:
+    return bool(getattr(_TRANSACTION_STATE, "depth", 0))
+
+
+@contextmanager
+def transaction():
+    """Serialize a complete multi-file state transition."""
+    if _in_transaction():
+        _TRANSACTION_STATE.depth += 1
+        try:
+            yield
+        finally:
+            _TRANSACTION_STATE.depth -= 1
+        return
+
+    with _THREAD_LOCK:
+        lock_path = REGISTRY_PATH.with_suffix(f"{REGISTRY_PATH.suffix}.lock")
+        lock_path.parent.mkdir(parents=True, exist_ok=True)
+        with lock_path.open("a") as lock_file:
+            fcntl.flock(lock_file.fileno(), fcntl.LOCK_EX)
+            _TRANSACTION_STATE.depth = 1
+            try:
+                yield
+            finally:
+                _TRANSACTION_STATE.depth = 0
+                fcntl.flock(lock_file.fileno(), fcntl.LOCK_UN)
+
+
+def _locked_update(change: Callable[[dict], None]) -> dict:
+    """Serialize a registry read-modify-write across threads and processes."""
+    if not _in_transaction():
+        with transaction():
+            return _locked_update(change)
+    data = _load_unlocked()
+    change(data)
     atomic_write_json(REGISTRY_PATH, data)
+    return data
+
+
+def load() -> dict:
+    with _THREAD_LOCK:
+        return _load_unlocked()
+
+
+def save(data: dict) -> None:
+    if _in_transaction():
+        atomic_write_json(REGISTRY_PATH, data)
+        return
+    with transaction():
+        atomic_write_json(REGISTRY_PATH, data)
 
 
 def active_rubric_id() -> str:
@@ -74,57 +145,130 @@ def lock_cycle(branch: Branch, opened_by: str = "system") -> dict:
     Raises CycleLockedError if the other branch is already open. Idempotent
     if the same branch is already locked.
     """
-    data = load()
-    current = data["cycle"]["locked_branch"]
-    if current is not None and current != branch:
-        raise CycleLockedError(current)
-    if current is None:
-        data["cycle"] = {"locked_branch": branch, "opened_at": now_iso(), "opened_by": opened_by}
-        save(data)
+    data, _ = open_cycle(branch, opened_by=opened_by)
     return data
+
+
+def open_cycle(branch: Branch, opened_by: str = "system") -> tuple[dict, bool]:
+    """Open a cycle and report whether this call created the lock."""
+    opened = False
+
+    def change(data: dict) -> None:
+        nonlocal opened
+        current = data["cycle"]["locked_branch"]
+        if current is not None and current != branch:
+            raise CycleLockedError(current)
+        if current is None:
+            data["cycle"] = {
+                "cycle_id": new_id("cycle"),
+                "locked_branch": branch,
+                "opened_at": now_iso(),
+                "opened_by": opened_by,
+            }
+            opened = True
+
+    return _locked_update(change), opened
 
 
 def enqueue(branch: Branch, ref_id: str) -> None:
     """Record a deferred request (e.g. a review implicating `branch`) so it
     can be actioned once the current cycle closes."""
-    data = load()
-    queue = data["pending_queue"].setdefault(branch, [])
-    if ref_id not in queue:
-        queue.append(ref_id)
-    save(data)
+    def change(data: dict) -> None:
+        queue = data["pending_queue"].setdefault(branch, [])
+        if ref_id not in queue:
+            queue.append(ref_id)
+
+    _locked_update(change)
 
 
 def dequeue(branch: Branch, ref_id: str) -> None:
-    data = load()
-    queue = data["pending_queue"].get(branch, [])
-    if ref_id in queue:
-        queue.remove(ref_id)
-        save(data)
+    def change(data: dict) -> None:
+        queue = data["pending_queue"].get(branch, [])
+        if ref_id in queue:
+            queue.remove(ref_id)
+
+    _locked_update(change)
 
 
 def pending_queue() -> dict:
     return load()["pending_queue"]
 
 
-def close_cycle(decision: str) -> dict:
-    """Close the current cycle after an approve/reject decision, archive it
-    to history, and unlock so the other branch may proceed."""
+def require_cycle(branch: Branch, *, cycle_id: str | None = None) -> dict:
     data = load()
     cycle = data["cycle"]
-    if cycle["locked_branch"] is not None:
-        data["history"].append({**cycle, "closed_at": now_iso(), "decision": decision})
-    data["cycle"] = {"locked_branch": None, "opened_at": None, "opened_by": None}
-    save(data)
+    current = cycle["locked_branch"]
+    if current != branch:
+        raise ValueError(
+            f"Cannot decide {branch} artifact while cycle is locked to {current!r}"
+        )
+    if cycle_id is not None and cycle["cycle_id"] != cycle_id:
+        raise ValueError(
+            f"Cannot decide artifact from a different review cycle: "
+            f"expected {cycle_id!r}, found {cycle['cycle_id']!r}"
+        )
     return data
 
 
+def close_cycle(
+    decision: str,
+    *,
+    expected_branch: Branch | None = None,
+    expected_cycle_id: str | None = None,
+) -> dict:
+    """Close the current cycle after an approve/reject decision, archive it
+    to history, and unlock so the other branch may proceed."""
+    def change(data: dict) -> None:
+        cycle = data["cycle"]
+        current = cycle["locked_branch"]
+        if expected_branch is not None and current != expected_branch:
+            raise ValueError(
+                f"Cannot close {expected_branch} cycle while locked to {current!r}"
+            )
+        if expected_cycle_id is not None and cycle["cycle_id"] != expected_cycle_id:
+            raise ValueError(
+                f"Cannot close artifact from a different review cycle: "
+                f"expected {expected_cycle_id!r}, found {cycle['cycle_id']!r}"
+            )
+        if current is not None:
+            data["history"].append({**cycle, "closed_at": now_iso(), "decision": decision})
+        data["cycle"] = {
+            "cycle_id": None,
+            "locked_branch": None,
+            "opened_at": None,
+            "opened_by": None,
+        }
+
+    return _locked_update(change)
+
+
 def set_active_rubric(rubric_id: str) -> None:
-    data = load()
-    data["active_rubric_id"] = rubric_id
-    save(data)
+    _locked_update(lambda data: data.__setitem__("active_rubric_id", rubric_id))
 
 
 def set_active_prompt(prompt_id: str) -> None:
-    data = load()
-    data["active_prompt_id"] = prompt_id
-    save(data)
+    _locked_update(lambda data: data.__setitem__("active_prompt_id", prompt_id))
+
+
+def activate_prompt_and_close(prompt_id: str, *, cycle_id: str) -> dict:
+    """Commit prompt activation and cycle closure in one registry write."""
+    def change(data: dict) -> None:
+        cycle = data["cycle"]
+        if cycle["locked_branch"] != "prompt" or cycle["cycle_id"] != cycle_id:
+            raise ValueError(
+                "Cannot promote an artifact from a different review cycle"
+            )
+        data["active_prompt_id"] = prompt_id
+        data["history"].append({
+            **cycle,
+            "closed_at": now_iso(),
+            "decision": "approved",
+        })
+        data["cycle"] = {
+            "cycle_id": None,
+            "locked_branch": None,
+            "opened_at": None,
+            "opened_by": None,
+        }
+
+    return _locked_update(change)
