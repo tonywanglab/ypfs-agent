@@ -39,6 +39,8 @@ def test_generate_checklist_filters_to_llm_criteria_and_valid_ids(monkeypatch, r
             "items": [
                 {"criterion_id": "options_structure", "instruction": "check for 2+ options",
                  "rationale": "r"},
+                {"criterion_id": "advisory_stance", "instruction": "check advisory framing",
+                 "rationale": "r"},
                 {"criterion_id": "not_a_real_criterion", "instruction": "ignored", "rationale": "r"},
             ],
             "search_summary": "found some case studies",
@@ -59,7 +61,7 @@ def test_generate_checklist_filters_to_llm_criteria_and_valid_ids(monkeypatch, r
 
     assert checklist.case_id == "case_1"
     assert checklist.rubric_id == "rubric_v1"
-    assert len(checklist.items) == 1  # invalid criterion_id filtered out
+    assert len(checklist.items) == 2  # invalid criterion_id filtered out
     assert checklist.items[0].criterion_id == "options_structure"
     assert checklist.evaluator_doc_ids == ["vol1_iss1_1"]
     assert checklist.evaluator_search_summary == "found some case studies"
@@ -77,7 +79,13 @@ def test_generate_checklist_user_message_is_only_the_case_prompt(monkeypatch, ru
 
     def fake_run_tool_loop(system_prompt, user_msg, model, tools, dispatch_fn, max_steps=6):
         captured["user_msg"] = user_msg
-        return json.dumps({"items": [], "search_summary": "s"}), []
+        return json.dumps({
+            "items": [
+                {"criterion_id": "options_structure", "instruction": "check options"},
+                {"criterion_id": "advisory_stance", "instruction": "check framing"},
+            ],
+            "search_summary": "s",
+        }), []
 
     monkeypatch.setattr(llm, "run_tool_loop", fake_run_tool_loop)
     evaluator.generate_checklist("the case prompt", "case_1", rubric, "model-x")
@@ -85,6 +93,17 @@ def test_generate_checklist_user_message_is_only_the_case_prompt(monkeypatch, ru
     assert "the case prompt" in captured["user_msg"]
     # No candidate answer text can appear since none was ever passed in.
     assert "candidate" not in captured["user_msg"].lower()
+
+
+def test_generate_checklist_rejects_missing_rubric_coverage(monkeypatch, rubric):
+    monkeypatch.setattr(
+        llm,
+        "run_tool_loop",
+        lambda **kwargs: (json.dumps({"items": [], "search_summary": ""}), []),
+    )
+
+    with pytest.raises(ValueError, match="missing criteria"):
+        evaluator.generate_checklist("prompt", "case_1", rubric, "model-x")
 
 
 def test_judge_answer_copies_deterministic_verdicts_without_llm_call(monkeypatch, rubric):
@@ -108,8 +127,8 @@ def test_judge_answer_copies_deterministic_verdicts_without_llm_call(monkeypatch
     assert verdict_by_id["no_survey_citations"].source == "deterministic"
     assert verdict_by_id["no_survey_citations"].verdict == "pass"
     assert verdict_by_id["completed_without_error"].verdict == "pass"
-    # No llm criteria in judgment since the checklist had no items.
-    assert "options_structure" not in verdict_by_id
+    assert verdict_by_id["options_structure"].verdict == "uncertain"
+    assert verdict_by_id["advisory_stance"].verdict == "uncertain"
 
 
 def test_judge_answer_calls_llm_only_for_checklist_criteria(monkeypatch, rubric):
@@ -147,9 +166,7 @@ def test_judge_answer_calls_llm_only_for_checklist_criteria(monkeypatch, rubric)
     assert judgment.summary == "weak options coverage"
     assert judgment.failure_feedback == "add at least one more option"
     assert judgment.fail_count() == 1
-    # advisory_stance has no checklist item and isn't deterministic, so it's
-    # simply absent from this judgment (case-specific scope).
-    assert "advisory_stance" not in verdict_by_id
+    assert verdict_by_id["advisory_stance"].verdict == "uncertain"
     assert captured_payload["payload"]["agent_answer"] == answer
 
 
