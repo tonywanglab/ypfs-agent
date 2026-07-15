@@ -69,6 +69,7 @@ class Rubric:
     parent_rubric_id: str | None = None
     rationale: str = ""
     derived_from_review_ids: list[str] = field(default_factory=list)
+    cycle_id: str | None = None
 
     def to_dict(self) -> dict:
         return asdict(self)
@@ -96,6 +97,7 @@ class PromptVersion:
     parent_prompt_id: str | None = None
     rationale: str = ""
     derived_from_review_ids: list[str] = field(default_factory=list)
+    cycle_id: str | None = None
 
     def to_dict(self) -> dict:
         return asdict(self)

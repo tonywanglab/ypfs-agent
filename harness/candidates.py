@@ -16,6 +16,7 @@ from __future__ import annotations
 import json
 import math
 import re
+from collections.abc import Callable
 
 from . import llm, registry, reviews
 from .checks import CHECKS_BY_ID
@@ -142,16 +143,42 @@ def _review_context(review_ids: list[str]) -> list[dict]:
     return ctx
 
 
-def _release_failed_cycle(branch: registry.Branch, opened: bool) -> None:
+def _release_failed_cycle(
+    branch: registry.Branch,
+    cycle_id: str,
+    opened: bool,
+    cause: Exception,
+) -> None:
     if opened:
-        registry.close_cycle(decision="failed", expected_branch=branch)
+        try:
+            registry.close_cycle(
+                decision="failed",
+                expected_branch=branch,
+                expected_cycle_id=cycle_id,
+            )
+        except Exception as cleanup_error:
+            cause.add_note(f"Failed to release {branch} cycle: {cleanup_error}")
+
+
+def _attempt_rollback(cause: Exception, description: str, action: Callable[[], None]) -> None:
+    try:
+        action()
+    except Exception as rollback_error:
+        cause.add_note(f"Failed to {description}: {rollback_error}")
+
+
+def _require_artifact_cycle(branch: registry.Branch, cycle_id: str | None) -> None:
+    if cycle_id is None:
+        raise ValueError("Artifact is missing its review cycle identity")
+    registry.require_cycle(branch, cycle_id=cycle_id)
 
 
 def propose_rubric(review_ids: list[str], model: str, *, opened_by: str = "supervisor") -> Rubric:
     """Generate a rubric proposal from supervisor reviews. Locks the rubric
     branch for this cycle; raises CycleLockedError if the prompt branch is
     already open."""
-    _, opened = registry.open_cycle("rubric", opened_by=opened_by)
+    cycle, opened = registry.open_cycle("rubric", opened_by=opened_by)
+    cycle_id = cycle["cycle"]["cycle_id"]
     try:
         parent = load_rubric(registry.active_rubric_id())
         payload = {
@@ -174,18 +201,20 @@ def propose_rubric(review_ids: list[str], model: str, *, opened_by: str = "super
             parent_rubric_id=parent.rubric_id,
             rationale=parsed.get("rationale", ""),
             derived_from_review_ids=review_ids,
+            cycle_id=cycle_id,
         )
         PROPOSALS_DIR.mkdir(parents=True, exist_ok=True)
         atomic_write_json(PROPOSALS_DIR / f"{proposal.rubric_id}.json", proposal.to_dict())
         return proposal
-    except Exception:
-        _release_failed_cycle("rubric", opened)
+    except Exception as exc:
+        _release_failed_cycle("rubric", cycle_id, opened, exc)
         raise
 
 
 def propose_prompt(review_ids: list[str], model: str, *, opened_by: str = "supervisor") -> PromptVersion:
     """Generate a prompt candidate from agent_failure reviews."""
-    _, opened = registry.open_cycle("prompt", opened_by=opened_by)
+    cycle, opened = registry.open_cycle("prompt", opened_by=opened_by)
+    cycle_id = cycle["cycle"]["cycle_id"]
     try:
         parent = load_prompt(registry.active_prompt_id())
         payload = {
@@ -210,12 +239,13 @@ def propose_prompt(review_ids: list[str], model: str, *, opened_by: str = "super
             parent_prompt_id=parent.prompt_id,
             rationale=parsed.get("rationale", ""),
             derived_from_review_ids=review_ids,
+            cycle_id=cycle_id,
         )
         CANDIDATES_DIR.mkdir(parents=True, exist_ok=True)
         atomic_write_json(CANDIDATES_DIR / f"{candidate.prompt_id}.json", candidate.to_dict())
         return candidate
-    except Exception:
-        _release_failed_cycle("prompt", opened)
+    except Exception as exc:
+        _release_failed_cycle("prompt", cycle_id, opened, exc)
         raise
 
 
@@ -274,7 +304,7 @@ def approve_rubric(proposal_id: str, criteria_json: str | None = None) -> Rubric
     proposal = Rubric.from_dict(read_json(PROPOSALS_DIR / f"{proposal_id}.json"))
     if proposal.status != "proposed":
         raise ValueError(f"Proposal {proposal_id} is not in proposed status")
-    registry.require_cycle("rubric")
+    _require_artifact_cycle("rubric", proposal.cycle_id)
     if registry.active_rubric_id() != proposal.parent_rubric_id:
         raise ValueError(
             f"Proposal {proposal_id} is stale because its parent rubric is no longer active"
@@ -298,6 +328,7 @@ def approve_rubric(proposal_id: str, criteria_json: str | None = None) -> Rubric
         parent_rubric_id=proposal.parent_rubric_id,
         rationale=proposal.rationale,
         derived_from_review_ids=proposal.derived_from_review_ids,
+        cycle_id=proposal.cycle_id,
     )
     frozen_path = RUBRICS_DIR / f"{frozen.rubric_id}.json"
     if frozen_path.exists():
@@ -312,15 +343,34 @@ def approve_rubric(proposal_id: str, criteria_json: str | None = None) -> Rubric
         proposal.status = "rejected"  # proposal artifact kept but marked consumed
         atomic_write_json(PROPOSALS_DIR / f"{proposal_id}.json", proposal.to_dict())
         consumed = True
-        registry.close_cycle(decision="approved", expected_branch="rubric")
+        registry.close_cycle(
+            decision="approved",
+            expected_branch="rubric",
+            expected_cycle_id=proposal.cycle_id,
+        )
         return frozen
-    except Exception:
+    except Exception as exc:
         if consumed:
             proposal.status = "proposed"
-            atomic_write_json(PROPOSALS_DIR / f"{proposal_id}.json", proposal.to_dict())
+            _attempt_rollback(
+                exc,
+                "restore proposed rubric status",
+                lambda: atomic_write_json(
+                    PROPOSALS_DIR / f"{proposal_id}.json",
+                    proposal.to_dict(),
+                ),
+            )
         if activated:
-            registry.set_active_rubric(proposal.parent_rubric_id)
-        frozen_path.unlink(missing_ok=True)
+            _attempt_rollback(
+                exc,
+                "restore active rubric",
+                lambda: registry.set_active_rubric(proposal.parent_rubric_id),
+            )
+        _attempt_rollback(
+            exc,
+            "remove incomplete frozen rubric",
+            lambda: frozen_path.unlink(missing_ok=True),
+        )
         raise
 
 
@@ -328,14 +378,30 @@ def deny_rubric(proposal_id: str) -> Rubric:
     proposal = Rubric.from_dict(read_json(PROPOSALS_DIR / f"{proposal_id}.json"))
     if proposal.status != "proposed":
         raise ValueError(f"Proposal {proposal_id} is not in proposed status")
-    registry.require_cycle("rubric")
+    _require_artifact_cycle("rubric", proposal.cycle_id)
     if registry.active_rubric_id() != proposal.parent_rubric_id:
         raise ValueError(
             f"Proposal {proposal_id} is stale because its parent rubric is no longer active"
         )
     proposal.status = "rejected"
     atomic_write_json(PROPOSALS_DIR / f"{proposal_id}.json", proposal.to_dict())
-    registry.close_cycle(decision="denied", expected_branch="rubric")
+    try:
+        registry.close_cycle(
+            decision="denied",
+            expected_branch="rubric",
+            expected_cycle_id=proposal.cycle_id,
+        )
+    except Exception as exc:
+        proposal.status = "proposed"
+        _attempt_rollback(
+            exc,
+            "restore proposed rubric status",
+            lambda: atomic_write_json(
+                PROPOSALS_DIR / f"{proposal_id}.json",
+                proposal.to_dict(),
+            ),
+        )
+        raise
     return proposal
 
 
@@ -343,12 +409,28 @@ def deny_prompt(prompt_id: str) -> PromptVersion:
     candidate = PromptVersion.from_dict(read_json(CANDIDATES_DIR / f"{prompt_id}.json"))
     if candidate.status != "candidate":
         raise ValueError(f"Prompt {prompt_id} is not in candidate status")
-    registry.require_cycle("prompt")
+    _require_artifact_cycle("prompt", candidate.cycle_id)
     if registry.active_prompt_id() != candidate.parent_prompt_id:
         raise ValueError(
             f"Prompt {prompt_id} is stale because its parent prompt is no longer active"
         )
     candidate.status = "rejected"
     atomic_write_json(CANDIDATES_DIR / f"{prompt_id}.json", candidate.to_dict())
-    registry.close_cycle(decision="denied", expected_branch="prompt")
+    try:
+        registry.close_cycle(
+            decision="denied",
+            expected_branch="prompt",
+            expected_cycle_id=candidate.cycle_id,
+        )
+    except Exception as exc:
+        candidate.status = "candidate"
+        _attempt_rollback(
+            exc,
+            "restore prompt candidate status",
+            lambda: atomic_write_json(
+                CANDIDATES_DIR / f"{prompt_id}.json",
+                candidate.to_dict(),
+            ),
+        )
+        raise
     return candidate

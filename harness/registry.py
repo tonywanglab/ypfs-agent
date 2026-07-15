@@ -15,7 +15,7 @@ import threading
 from collections.abc import Callable
 from typing import Literal
 
-from .storage import EVALS_DIR, atomic_write_json, now_iso, read_json_default
+from .storage import EVALS_DIR, atomic_write_json, new_id, now_iso, read_json_default
 
 REGISTRY_PATH = EVALS_DIR / "registry.json"
 
@@ -38,7 +38,12 @@ def _default_registry() -> dict:
     return {
         "active_rubric_id": "rubric_v1",
         "active_prompt_id": "prompt_v1",
-        "cycle": {"locked_branch": None, "opened_at": None, "opened_by": None},
+        "cycle": {
+            "cycle_id": None,
+            "locked_branch": None,
+            "opened_at": None,
+            "opened_by": None,
+        },
         "pending_queue": {"rubric": [], "prompt": []},
         "history": [],
     }
@@ -52,7 +57,19 @@ def _load_unlocked() -> dict:
     # Backfill keys for registries written by an older harness version.
     data.setdefault("pending_queue", {"rubric": [], "prompt": []})
     data.setdefault("history", [])
-    data.setdefault("cycle", {"locked_branch": None, "opened_at": None, "opened_by": None})
+    cycle = data.setdefault(
+        "cycle",
+        {
+            "cycle_id": None,
+            "locked_branch": None,
+            "opened_at": None,
+            "opened_by": None,
+        },
+    )
+    cycle.setdefault("cycle_id", None)
+    cycle.setdefault("locked_branch", None)
+    cycle.setdefault("opened_at", None)
+    cycle.setdefault("opened_by", None)
     return data
 
 
@@ -115,6 +132,7 @@ def open_cycle(branch: Branch, opened_by: str = "system") -> tuple[dict, bool]:
             raise CycleLockedError(current)
         if current is None:
             data["cycle"] = {
+                "cycle_id": new_id("cycle"),
                 "locked_branch": branch,
                 "opened_at": now_iso(),
                 "opened_by": opened_by,
@@ -148,17 +166,28 @@ def pending_queue() -> dict:
     return load()["pending_queue"]
 
 
-def require_cycle(branch: Branch) -> dict:
+def require_cycle(branch: Branch, *, cycle_id: str | None = None) -> dict:
     data = load()
-    current = data["cycle"]["locked_branch"]
+    cycle = data["cycle"]
+    current = cycle["locked_branch"]
     if current != branch:
         raise ValueError(
             f"Cannot decide {branch} artifact while cycle is locked to {current!r}"
         )
+    if cycle_id is not None and cycle["cycle_id"] != cycle_id:
+        raise ValueError(
+            f"Cannot decide artifact from a different review cycle: "
+            f"expected {cycle_id!r}, found {cycle['cycle_id']!r}"
+        )
     return data
 
 
-def close_cycle(decision: str, *, expected_branch: Branch | None = None) -> dict:
+def close_cycle(
+    decision: str,
+    *,
+    expected_branch: Branch | None = None,
+    expected_cycle_id: str | None = None,
+) -> dict:
     """Close the current cycle after an approve/reject decision, archive it
     to history, and unlock so the other branch may proceed."""
     def change(data: dict) -> None:
@@ -168,9 +197,19 @@ def close_cycle(decision: str, *, expected_branch: Branch | None = None) -> dict
             raise ValueError(
                 f"Cannot close {expected_branch} cycle while locked to {current!r}"
             )
+        if expected_cycle_id is not None and cycle["cycle_id"] != expected_cycle_id:
+            raise ValueError(
+                f"Cannot close artifact from a different review cycle: "
+                f"expected {expected_cycle_id!r}, found {cycle['cycle_id']!r}"
+            )
         if current is not None:
             data["history"].append({**cycle, "closed_at": now_iso(), "decision": decision})
-        data["cycle"] = {"locked_branch": None, "opened_at": None, "opened_by": None}
+        data["cycle"] = {
+            "cycle_id": None,
+            "locked_branch": None,
+            "opened_at": None,
+            "opened_by": None,
+        }
 
     return _locked_update(change)
 
