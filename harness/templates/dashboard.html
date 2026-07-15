@@ -72,11 +72,7 @@
     <ul class="item-list">
       {% for c in prompt_candidates %}
         {% if c.status == 'candidate' %}
-          <li>
-            <span>{{ c.prompt_id }}</span>
-            <span class="muted">v{{ c.version }}</span>
-            <span class="badge neutral">candidate</span>
-          </li>
+          <li><a href="{{ url_for('prompt_candidate', prompt_id=c.prompt_id) }}">{{ c.prompt_id }}</a> — v{{ c.version }}</li>
         {% endif %}
       {% endfor %}
     </ul>

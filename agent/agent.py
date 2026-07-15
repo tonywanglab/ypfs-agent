@@ -28,7 +28,9 @@ MAX_RETRIES = 4
 BACKOFF_BASE = 1.0
 BACKOFF_CAP = 30.0
 
-SYSTEM_PROMPT = (Path(__file__).parent / "system_prompt.md").read_text().strip()
+SYSTEM_PROMPT_PATH = Path(__file__).parent / "system_prompt.md"
+SYSTEM_PROMPT = SYSTEM_PROMPT_PATH.read_text().strip()
+_DEFAULT_SYSTEM_PROMPT = object()
 
 def _post(messages: list[dict], model: str) -> dict:
     """One OpenRouter chat completion. Returns the assistant message dict."""
@@ -69,17 +71,24 @@ def _call(messages: list[dict], model: str) -> dict:
         time.sleep(delay)
 
 
-def run(user_msg: str, history: list[dict] | None = None, model: str = DEFAULT_MODEL,
-        system_prompt: str | None = SYSTEM_PROMPT):
+def run(
+    user_msg: str,
+    history: list[dict] | None = None,
+    model: str = DEFAULT_MODEL,
+    system_prompt: str | None | object = _DEFAULT_SYSTEM_PROMPT,
+):
     """Run the agent loop until the model stops calling tools.
 
     history excludes the system prompt, so the returned messages round-trip
-    cleanly back in as the next call's history. Pass system_prompt=None to
-    omit the system prompt entirely.
+    cleanly back in as the next call's history. The default prompt is reloaded
+    from disk for each run; pass system_prompt=None to omit it entirely.
 
     Returns (answer: str, messages: list[dict]) — messages is the full trace
     (user/assistant/tool turns) for eval inspection.
     """
+    if system_prompt is _DEFAULT_SYSTEM_PROMPT:
+        system_prompt = SYSTEM_PROMPT_PATH.read_text().strip()
+
     messages = [*([ {"role": "system", "content": system_prompt}] if system_prompt else []),
                 *(history or []),
                 {"role": "user", "content": user_msg}]
@@ -151,13 +160,13 @@ def main():
     args = parser.parse_args()
 
     model = args.model
-    system_prompt = None if args.no_system_prompt else SYSTEM_PROMPT
+    prompt_override = {"system_prompt": None} if args.no_system_prompt else {}
 
     if args.smoke:
         passed = 0
         for name, q in SMOKE_CASES:
             print(f"=== {name} ===\nyou> {q}")
-            answer, messages = run(q, model=model, system_prompt=system_prompt)
+            answer, messages = run(q, model=model, **prompt_override)
             if args.verbose:
                 _print_trace(messages)
             tool_turns = sum(1 for m in messages if m.get("role") == "tool")
@@ -169,7 +178,7 @@ def main():
         sys.exit(0 if passed == len(SMOKE_CASES) else 1)
 
     if args.query:
-        answer, messages = run(args.query, model=model, system_prompt=system_prompt)
+        answer, messages = run(args.query, model=model, **prompt_override)
         if args.verbose:
             _print_trace(messages)
         print(f"agent> {answer}")
@@ -189,7 +198,7 @@ def main():
             break
         if not q:
             continue
-        answer, history = run(q, history=history, model=model, system_prompt=system_prompt)
+        answer, history = run(q, history=history, model=model, **prompt_override)
         if args.verbose:
             _print_trace(history)
         print(f"\nagent> {answer}\n")

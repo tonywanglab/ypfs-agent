@@ -10,7 +10,7 @@ from __future__ import annotations
 
 from agent.agent import run as agent_run
 
-from . import evaluator
+from . import evaluator, registry
 from .checks import any_hard_failure, run_checks
 from .models import ABPair, Case, Checklist, Promotion, RunManifest, Rubric
 from .storage import (
@@ -122,10 +122,16 @@ def _promo_dir(promotion_id: str):
 
 
 def run_ab(cases: list[Case], rubric: Rubric, incumbent_prompt_text: str, incumbent_prompt_id: str,
-           candidate_prompt_text: str, candidate_prompt_id: str, model: str) -> Promotion:
+           candidate_prompt_text: str, candidate_prompt_id: str, model: str,
+           *, cycle_id: str | None = None) -> Promotion:
     """Run every case under both prompts, sharing one checklist per case so
     the same case-specific criteria apply to both sides. Decision is always
     left to the supervisor — this only produces material to review."""
+    if cycle_id is not None:
+        registry.require_cycle("prompt", cycle_id=cycle_id)
+        if registry.active_prompt_id() != incumbent_prompt_id:
+            raise ValueError("Promotion incumbent is no longer the active prompt")
+
     promotion_id = new_id("promo")
     pairs: list[ABPair] = []
 
@@ -138,10 +144,16 @@ def run_ab(cases: list[Case], rubric: Rubric, incumbent_prompt_text: str, incumb
         pairs.append(ABPair(case_id=case.case_id, incumbent_run_id=incumbent.run_id,
                              candidate_run_id=candidate.run_id))
 
+    if cycle_id is not None:
+        registry.require_cycle("prompt", cycle_id=cycle_id)
+        if registry.active_prompt_id() != incumbent_prompt_id:
+            raise ValueError("Prompt cycle changed while the A/B campaign was running")
+
     promotion = Promotion(
         promotion_id=promotion_id, rubric_id=rubric.rubric_id,
         incumbent_prompt_id=incumbent_prompt_id, candidate_prompt_id=candidate_prompt_id,
         case_ids=[c.case_id for c in cases], created_at=now_iso(), status="pending",
+        cycle_id=cycle_id,
     )
 
     promo_dir = _promo_dir(promotion_id)
