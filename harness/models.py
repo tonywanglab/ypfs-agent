@@ -289,6 +289,7 @@ class Promotion:
     status: Literal["pending", "approved", "denied"] = "pending"
     decided_at: str | None = None
     rationale: str = ""
+    cycle_id: str | None = None
 
     def to_dict(self) -> dict:
         return asdict(self)

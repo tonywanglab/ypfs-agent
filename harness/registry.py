@@ -220,3 +220,27 @@ def set_active_rubric(rubric_id: str) -> None:
 
 def set_active_prompt(prompt_id: str) -> None:
     _locked_update(lambda data: data.__setitem__("active_prompt_id", prompt_id))
+
+
+def activate_prompt_and_close(prompt_id: str, *, cycle_id: str) -> dict:
+    """Commit prompt activation and cycle closure in one registry write."""
+    def change(data: dict) -> None:
+        cycle = data["cycle"]
+        if cycle["locked_branch"] != "prompt" or cycle["cycle_id"] != cycle_id:
+            raise ValueError(
+                "Cannot promote an artifact from a different review cycle"
+            )
+        data["active_prompt_id"] = prompt_id
+        data["history"].append({
+            **cycle,
+            "closed_at": now_iso(),
+            "decision": "approved",
+        })
+        data["cycle"] = {
+            "cycle_id": None,
+            "locked_branch": None,
+            "opened_at": None,
+            "opened_by": None,
+        }
+
+    return _locked_update(change)

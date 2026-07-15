@@ -10,7 +10,7 @@ from __future__ import annotations
 
 from agent.agent import run as agent_run
 
-from . import evaluator
+from . import evaluator, registry
 from .checks import any_hard_failure, run_checks
 from .models import ABPair, Case, Checklist, Promotion, RunManifest, Rubric
 from .storage import (
@@ -142,6 +142,7 @@ def run_ab(cases: list[Case], rubric: Rubric, incumbent_prompt_text: str, incumb
         promotion_id=promotion_id, rubric_id=rubric.rubric_id,
         incumbent_prompt_id=incumbent_prompt_id, candidate_prompt_id=candidate_prompt_id,
         case_ids=[c.case_id for c in cases], created_at=now_iso(), status="pending",
+        cycle_id=registry.load()["cycle"].get("cycle_id"),
     )
 
     promo_dir = _promo_dir(promotion_id)
