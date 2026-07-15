@@ -86,6 +86,25 @@ def load_prompt_version(prompt_id: str) -> PromptVersion:
     raise FileNotFoundError(f"Prompt {prompt_id!r} not found under {PROMPTS_DIR}")
 
 
+def load_prompt_candidate(prompt_id: str) -> PromptVersion:
+    """Load only from the editable candidate store."""
+    return PromptVersion.from_dict(
+        read_json(CANDIDATES_DIR / f"{prompt_id}.json")
+    )
+
+
+def require_current_prompt_candidate(prompt_id: str) -> PromptVersion:
+    candidate = load_prompt_candidate(prompt_id)
+    if candidate.status != "candidate":
+        raise ValueError(f"Prompt {prompt_id} is not in candidate status")
+    _require_artifact_cycle("prompt", candidate.cycle_id)
+    if registry.active_prompt_id() != candidate.parent_prompt_id:
+        raise ValueError(
+            f"Prompt {prompt_id} is stale because its parent prompt is no longer active"
+        )
+    return candidate
+
+
 def load_proposal(proposal_id: str) -> Rubric:
     return Rubric.from_dict(read_json(PROPOSALS_DIR / f"{proposal_id}.json"))
 
@@ -300,6 +319,11 @@ def _parse_criteria_json(text: str) -> list[RubricCriterion]:
 
 
 def approve_rubric(proposal_id: str, criteria_json: str | None = None) -> Rubric:
+    with registry.transaction():
+        return _approve_rubric(proposal_id, criteria_json)
+
+
+def _approve_rubric(proposal_id: str, criteria_json: str | None = None) -> Rubric:
     """Freeze a proposal as the new active rubric version."""
     proposal = Rubric.from_dict(read_json(PROPOSALS_DIR / f"{proposal_id}.json"))
     if proposal.status != "proposed":
@@ -375,6 +399,11 @@ def approve_rubric(proposal_id: str, criteria_json: str | None = None) -> Rubric
 
 
 def deny_rubric(proposal_id: str) -> Rubric:
+    with registry.transaction():
+        return _deny_rubric(proposal_id)
+
+
+def _deny_rubric(proposal_id: str) -> Rubric:
     proposal = Rubric.from_dict(read_json(PROPOSALS_DIR / f"{proposal_id}.json"))
     if proposal.status != "proposed":
         raise ValueError(f"Proposal {proposal_id} is not in proposed status")
@@ -406,6 +435,11 @@ def deny_rubric(proposal_id: str) -> Rubric:
 
 
 def deny_prompt(prompt_id: str) -> PromptVersion:
+    with registry.transaction():
+        return _deny_prompt(prompt_id)
+
+
+def _deny_prompt(prompt_id: str) -> PromptVersion:
     candidate = PromptVersion.from_dict(read_json(CANDIDATES_DIR / f"{prompt_id}.json"))
     if candidate.status != "candidate":
         raise ValueError(f"Prompt {prompt_id} is not in candidate status")
@@ -437,16 +471,12 @@ def deny_prompt(prompt_id: str) -> PromptVersion:
 
 
 def update_prompt_candidate(prompt_id: str, text: str) -> PromptVersion:
-    candidate = PromptVersion.from_dict(
-        read_json(CANDIDATES_DIR / f"{prompt_id}.json")
-    )
-    if candidate.status != "candidate":
-        raise ValueError(f"Prompt {prompt_id} is not in candidate status")
-    _require_artifact_cycle("prompt", candidate.cycle_id)
-    if registry.active_prompt_id() != candidate.parent_prompt_id:
-        raise ValueError(
-            f"Prompt {prompt_id} is stale because its parent prompt is no longer active"
-        )
+    with registry.transaction():
+        return _update_prompt_candidate(prompt_id, text)
+
+
+def _update_prompt_candidate(prompt_id: str, text: str) -> PromptVersion:
+    candidate = require_current_prompt_candidate(prompt_id)
     if not isinstance(text, str) or not text.strip():
         raise ValueError("Prompt text must be a non-empty string")
     candidate.text = text

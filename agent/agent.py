@@ -160,13 +160,13 @@ def main():
     args = parser.parse_args()
 
     model = args.model
-    system_prompt = None if args.no_system_prompt else SYSTEM_PROMPT
+    prompt_override = {"system_prompt": None} if args.no_system_prompt else {}
 
     if args.smoke:
         passed = 0
         for name, q in SMOKE_CASES:
             print(f"=== {name} ===\nyou> {q}")
-            answer, messages = run(q, model=model, system_prompt=system_prompt)
+            answer, messages = run(q, model=model, **prompt_override)
             if args.verbose:
                 _print_trace(messages)
             tool_turns = sum(1 for m in messages if m.get("role") == "tool")
@@ -178,7 +178,7 @@ def main():
         sys.exit(0 if passed == len(SMOKE_CASES) else 1)
 
     if args.query:
-        answer, messages = run(args.query, model=model, system_prompt=system_prompt)
+        answer, messages = run(args.query, model=model, **prompt_override)
         if args.verbose:
             _print_trace(messages)
         print(f"agent> {answer}")
@@ -198,7 +198,7 @@ def main():
             break
         if not q:
             continue
-        answer, history = run(q, history=history, model=model, system_prompt=system_prompt)
+        answer, history = run(q, history=history, model=model, **prompt_override)
         if args.verbose:
             _print_trace(history)
         print(f"\nagent> {answer}\n")

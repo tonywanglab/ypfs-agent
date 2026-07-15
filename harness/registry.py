@@ -13,6 +13,7 @@ from __future__ import annotations
 import fcntl
 import threading
 from collections.abc import Callable
+from contextlib import contextmanager
 from typing import Literal
 
 from .storage import EVALS_DIR, atomic_write_json, new_id, now_iso, read_json_default
@@ -21,6 +22,7 @@ REGISTRY_PATH = EVALS_DIR / "registry.json"
 
 Branch = Literal["rubric", "prompt"]
 _THREAD_LOCK = threading.RLock()
+_TRANSACTION_STATE = threading.local()
 
 
 class CycleLockedError(Exception):
@@ -73,20 +75,43 @@ def _load_unlocked() -> dict:
     return data
 
 
-def _locked_update(change: Callable[[dict], None]) -> dict:
-    """Serialize a registry read-modify-write across threads and processes."""
+def _in_transaction() -> bool:
+    return bool(getattr(_TRANSACTION_STATE, "depth", 0))
+
+
+@contextmanager
+def transaction():
+    """Serialize a complete multi-file state transition."""
+    if _in_transaction():
+        _TRANSACTION_STATE.depth += 1
+        try:
+            yield
+        finally:
+            _TRANSACTION_STATE.depth -= 1
+        return
+
     with _THREAD_LOCK:
         lock_path = REGISTRY_PATH.with_suffix(f"{REGISTRY_PATH.suffix}.lock")
         lock_path.parent.mkdir(parents=True, exist_ok=True)
         with lock_path.open("a") as lock_file:
             fcntl.flock(lock_file.fileno(), fcntl.LOCK_EX)
+            _TRANSACTION_STATE.depth = 1
             try:
-                data = _load_unlocked()
-                change(data)
-                atomic_write_json(REGISTRY_PATH, data)
-                return data
+                yield
             finally:
+                _TRANSACTION_STATE.depth = 0
                 fcntl.flock(lock_file.fileno(), fcntl.LOCK_UN)
+
+
+def _locked_update(change: Callable[[dict], None]) -> dict:
+    """Serialize a registry read-modify-write across threads and processes."""
+    if not _in_transaction():
+        with transaction():
+            return _locked_update(change)
+    data = _load_unlocked()
+    change(data)
+    atomic_write_json(REGISTRY_PATH, data)
+    return data
 
 
 def load() -> dict:
@@ -95,7 +120,10 @@ def load() -> dict:
 
 
 def save(data: dict) -> None:
-    with _THREAD_LOCK:
+    if _in_transaction():
+        atomic_write_json(REGISTRY_PATH, data)
+        return
+    with transaction():
         atomic_write_json(REGISTRY_PATH, data)
 
 

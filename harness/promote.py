@@ -55,6 +55,11 @@ def _rollback(cause: Exception, description: str, action) -> None:
 
 
 def promote_prompt(promotion_id: str, candidate_prompt_id: str) -> PromptVersion:
+    with registry.transaction():
+        return _promote_prompt(promotion_id, candidate_prompt_id)
+
+
+def _promote_prompt(promotion_id: str, candidate_prompt_id: str) -> PromptVersion:
     from .runner import load_promotion
 
     if promotion_has_blocked_candidate_run(promotion_id):
@@ -155,6 +160,11 @@ def promote_prompt(promotion_id: str, candidate_prompt_id: str) -> PromptVersion
 
 
 def deny_promotion(promotion_id: str, rationale: str = "") -> None:
+    with registry.transaction():
+        _deny_promotion(promotion_id, rationale)
+
+
+def _deny_promotion(promotion_id: str, rationale: str = "") -> None:
     from .runner import load_promotion
 
     promotion = load_promotion(promotion_id)

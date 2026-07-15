@@ -13,7 +13,13 @@ from pathlib import Path
 from flask import Flask, abort, flash, redirect, render_template, request, url_for
 
 from . import candidates, registry, reviews, router
-from .candidates import load_prompt, load_prompt_version, load_proposal, load_rubric
+from .candidates import (
+    load_prompt,
+    load_prompt_candidate,
+    load_proposal,
+    load_rubric,
+    require_current_prompt_candidate,
+)
 from .promote import deny_promotion, promote_prompt
 from .runner import (
     load_pairs,
@@ -192,7 +198,7 @@ def create_app() -> Flask:
     def prompt_candidate(prompt_id: str):
         safe_path("prompts", "candidates", f"{prompt_id}.json")
         try:
-            candidate = load_prompt_version(prompt_id)
+            candidate = load_prompt_candidate(prompt_id)
         except (FileNotFoundError, ValueError):
             abort(404)
         return render_template(
@@ -209,7 +215,7 @@ def create_app() -> Flask:
             candidate = candidates.update_prompt_candidate(prompt_id, submitted_text)
         except (FileNotFoundError, ValueError) as exc:
             try:
-                candidate = load_prompt_version(prompt_id)
+                candidate = load_prompt_candidate(prompt_id)
             except (FileNotFoundError, ValueError):
                 abort(404)
             flash(str(exc), "error")
@@ -245,9 +251,10 @@ def create_app() -> Flask:
 
         rubric = load_rubric(registry.active_rubric_id())
         incumbent = load_prompt(registry.active_prompt_id())
-        candidate = load_prompt_version(candidate_id)
-        if candidate.status != "candidate":
-            flash("That prompt is not a candidate.", "error")
+        try:
+            candidate = require_current_prompt_candidate(candidate_id)
+        except (FileNotFoundError, ValueError) as exc:
+            flash(str(exc), "error")
             return redirect(url_for("dashboard"))
 
         promotion = run_ab(
@@ -258,6 +265,7 @@ def create_app() -> Flask:
             candidate.text,
             candidate.prompt_id,
             model,
+            cycle_id=candidate.cycle_id,
         )
         flash(f"A/B promotion {promotion.promotion_id} started.", "success")
         return redirect(url_for("promotion_detail", promotion_id=promotion.promotion_id))
