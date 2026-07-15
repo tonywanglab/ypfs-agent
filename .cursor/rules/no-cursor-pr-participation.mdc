@@ -1,0 +1,32 @@
+---
+description: Keep Cursor off GitHub PR participants and activity timelines
+alwaysApply: true
+---
+
+# GitHub PR attribution — no Cursor participation
+
+Cloud Agent runs as the `cursor[bot]` GitHub account. Any push, force-push, title rename, or commit authored as **Cursor Agent** (`cursoragent@cursor.com`) makes Cursor appear on the PR as a participant or timeline actor. GitHub timeline events are permanent and cannot be deleted.
+
+## Commits
+
+- Author and committer must be the repo owner (`tonywanglab <tonywanglab@users.noreply.github.com>`), not Cursor Agent.
+- Do **not** add `Co-authored-by: Cursor Agent <cursoragent@cursor.com>` trailers.
+- Before pushing, verify with `git log -1 --format='author: %an <%ae>%ncommitter: %cn <%ce>'`.
+
+## Pushes and PR updates
+
+- **Never force-push** to fix authorship or history. Force-pushes from `cursor[bot]` create permanent timeline entries.
+- Do **not** rename PR titles after creation — title changes appear as `cursor[bot]` activity.
+- Avoid any git push from this environment when the goal is to remove Cursor from a PR.
+
+## If Cursor already appears on a PR
+
+1. Rewrite commit authorship locally (author + committer → repo owner; strip Cursor co-author trailers).
+2. Create a **new branch** with a non-`cursor/` name via the GitHub refs API (pointing at the rewritten tip), not a force-push to the existing branch.
+3. Open a **new PR** with the final title set at creation time.
+4. Close the old PR. Timeline pollution on closed PRs cannot be removed; do not try to "clean up" the old one with more bot actions.
+
+## PR bodies
+
+- Prefer PR descriptions without Cursor agent footer links when updating is possible.
+- Do not perform bot-driven PR edits (title, body, force-push) when the user asks to remove Cursor from PR visibility.

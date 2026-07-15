@@ -21,10 +21,12 @@ from . import candidates, registry, reviews, router
 from .agent_models import AGENT_MODEL_OPTIONS, default_model_slug, is_valid_model_slug
 from .candidates import (
     load_prompt,
+    load_prompt_candidate,
     load_prompt_version,
     load_proposal,
     load_rubric,
     load_rubric_version,
+    require_current_prompt_candidate,
 )
 from .models import Case
 from .promote import deny_promotion, promote_prompt
@@ -304,12 +306,25 @@ def create_app() -> Flask:
     @app.route("/rubrics/proposals/<proposal_id>/approve", methods=["POST"])
     def approve_rubric_proposal(proposal_id: str):
         safe_path("rubrics", "proposals", f"{proposal_id}.json")
-        criteria_json = request.form.get("criteria_json", "").strip() or None
+        submitted_criteria = request.form.get("criteria_json", "")
+        criteria_json = submitted_criteria.strip() or None
         try:
             frozen = candidates.approve_rubric(proposal_id, criteria_json=criteria_json)
         except ValueError as exc:
             flash(str(exc), "error")
-            return redirect(url_for("rubric_proposal", proposal_id=proposal_id))
+            proposal = load_proposal(proposal_id)
+            parent = None
+            if proposal.parent_rubric_id:
+                try:
+                    parent = load_rubric(proposal.parent_rubric_id)
+                except (FileNotFoundError, ValueError):
+                    pass
+            return render_template(
+                "rubric_proposal.html",
+                proposal=proposal,
+                parent=parent,
+                criteria_json=submitted_criteria,
+            ), 400
         flash(f"Approved {frozen.rubric_id} as active rubric.", "success")
         return redirect(url_for("dashboard"))
 
@@ -318,6 +333,46 @@ def create_app() -> Flask:
         safe_path("rubrics", "proposals", f"{proposal_id}.json")
         candidates.deny_rubric(proposal_id)
         flash(f"Denied rubric proposal {proposal_id}.", "success")
+        return redirect(url_for("dashboard"))
+
+    @app.route("/prompts/candidates/<prompt_id>")
+    def prompt_candidate(prompt_id: str):
+        safe_path("prompts", "candidates", f"{prompt_id}.json")
+        try:
+            candidate = load_prompt_candidate(prompt_id)
+        except (FileNotFoundError, ValueError):
+            abort(404)
+        return render_template(
+            "prompt_candidate.html",
+            candidate=candidate,
+            prompt_text=candidate.text,
+        )
+
+    @app.route("/prompts/candidates/<prompt_id>/save", methods=["POST"])
+    def save_prompt_candidate(prompt_id: str):
+        safe_path("prompts", "candidates", f"{prompt_id}.json")
+        submitted_text = request.form.get("text", "")
+        try:
+            candidate = candidates.update_prompt_candidate(prompt_id, submitted_text)
+        except (FileNotFoundError, ValueError) as exc:
+            try:
+                candidate = load_prompt_candidate(prompt_id)
+            except (FileNotFoundError, ValueError):
+                abort(404)
+            flash(str(exc), "error")
+            return render_template(
+                "prompt_candidate.html",
+                candidate=candidate,
+                prompt_text=submitted_text,
+            ), 400
+        flash(f"Saved prompt candidate {prompt_id}.", "success")
+        return redirect(url_for("prompt_candidate", prompt_id=prompt_id))
+
+    @app.route("/prompts/candidates/<prompt_id>/deny", methods=["POST"])
+    def deny_prompt_candidate(prompt_id: str):
+        safe_path("prompts", "candidates", f"{prompt_id}.json")
+        candidates.deny_prompt(prompt_id)
+        flash(f"Denied prompt candidate {prompt_id}.", "success")
         return redirect(url_for("dashboard"))
 
     @app.route("/promotions/create", methods=["POST"])
@@ -337,9 +392,10 @@ def create_app() -> Flask:
 
         rubric = load_rubric(registry.active_rubric_id())
         incumbent = load_prompt(registry.active_prompt_id())
-        candidate = load_prompt_version(candidate_id)
-        if candidate.status != "candidate":
-            flash("That prompt is not a candidate.", "error")
+        try:
+            candidate = require_current_prompt_candidate(candidate_id)
+        except (FileNotFoundError, ValueError) as exc:
+            flash(str(exc), "error")
             return redirect(url_for("dashboard"))
 
         promotion = run_ab(
@@ -350,6 +406,7 @@ def create_app() -> Flask:
             candidate.text,
             candidate.prompt_id,
             model,
+            cycle_id=candidate.cycle_id,
         )
         flash(f"A/B promotion {promotion.promotion_id} started.", "success")
         return redirect(url_for("promotion_detail", promotion_id=promotion.promotion_id))

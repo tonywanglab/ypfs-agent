@@ -105,6 +105,22 @@ def generate_checklist(case_prompt: str, case_id: str, rubric: Rubric, model: st
         for i in parsed.get("items", [])
         if i.get("criterion_id") in valid_ids
     ]
+    invalid_instructions = [
+        item.criterion_id
+        for item in items
+        if not isinstance(item.instruction, str) or not item.instruction.strip()
+    ]
+    if invalid_instructions:
+        raise ValueError(
+            "Checklist contains empty instructions for criteria: "
+            + ", ".join(sorted(set(invalid_instructions)))
+        )
+    covered_ids = {item.criterion_id for item in items}
+    missing_ids = valid_ids - covered_ids
+    if missing_ids:
+        raise ValueError(
+            "Checklist is missing criteria: " + ", ".join(sorted(missing_ids))
+        )
 
     evaluator_trace = normalize_messages(messages)
     doc_ids = sorted(evaluator_trace.retrieved_doc_ids | evaluator_trace.fetched_doc_ids)
@@ -147,12 +163,13 @@ def judge_answer(answer: str, normalized_trace: NormalizedTrace, checklist: Chec
     """Call 2: single non-tool completion, independent of call 1's messages."""
     deterministic_verdicts = _deterministic_verdicts(rubric, check_results)
 
-    llm_criterion_ids = list(dict.fromkeys(i.criterion_id for i in checklist.items))
+    checklist_criterion_ids = list(dict.fromkeys(i.criterion_id for i in checklist.items))
+    llm_criterion_ids = [c.id for c in rubric.criteria if c.check_type == "llm"]
     llm_verdicts: dict[str, CriterionVerdict] = {}
     summary = ""
     failure_feedback = ""
 
-    if llm_criterion_ids:
+    if checklist_criterion_ids:
         payload = {
             "checklist_items": [
                 {"criterion_id": i.criterion_id, "instruction": i.instruction}
@@ -175,7 +192,7 @@ def judge_answer(answer: str, normalized_trace: NormalizedTrace, checklist: Chec
         )
         for c in parsed.get("criteria", []):
             cid = c.get("criterion_id")
-            if cid in llm_criterion_ids:
+            if cid in checklist_criterion_ids:
                 llm_verdicts[cid] = CriterionVerdict(
                     criterion_id=cid,
                     verdict=c.get("verdict", "uncertain"),

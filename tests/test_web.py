@@ -8,7 +8,7 @@ from harness import candidates, llm, registry, reviews
 from harness.models import Case, PromptVersion
 import harness.runner as runner
 from harness.runner import run_case
-from harness.seed import seed_all
+from harness.seed import load_cases, seed_all
 from harness.storage import atomic_write_json
 from harness.web import create_app
 
@@ -171,6 +171,132 @@ def test_chat_run_multiple_samples(client):
     assert resp.status_code == 200
     assert b"Launch launch_" in resp.data
     assert resp.data.count(b"run_") >= 3
+
+
+def test_invalid_rubric_edit_is_redisplayed(client, monkeypatch):
+    registry.lock_cycle("rubric")
+
+    def fake_chat_json(system, user, model):
+        return {
+            "rationale": "edit me",
+            "criteria": [
+                {"id": "quality", "description": "good", "check_type": "llm"},
+            ],
+        }
+
+    monkeypatch.setattr(llm, "chat_json", fake_chat_json)
+    proposal = candidates.propose_rubric([], "model-x")
+    invalid_edit = '[{"id": "quality", "description": "keep this edit"'
+
+    resp = client.post(
+        f"/rubrics/proposals/{proposal.rubric_id}/approve",
+        data={"criteria_json": invalid_edit},
+    )
+
+    assert resp.status_code == 400
+    assert b"keep this edit" in resp.data
+    assert candidates.load_proposal(proposal.rubric_id).status == "proposed"
+
+
+def test_prompt_candidate_can_be_inspected_and_edited(client):
+    registry.lock_cycle("prompt")
+    cycle_id = registry.load()["cycle"]["cycle_id"]
+    candidate = PromptVersion(
+        prompt_id="prompt_v2_edit",
+        version=2,
+        status="candidate",
+        text="Original candidate prompt",
+        created_at="t",
+        parent_prompt_id="prompt_v1",
+        cycle_id=cycle_id,
+    )
+    candidates.CANDIDATES_DIR.mkdir(parents=True, exist_ok=True)
+    atomic_write_json(
+        candidates.CANDIDATES_DIR / f"{candidate.prompt_id}.json",
+        candidate.to_dict(),
+    )
+
+    detail = client.get(f"/prompts/candidates/{candidate.prompt_id}")
+    assert detail.status_code == 200
+    assert b"Original candidate prompt" in detail.data
+
+    updated = client.post(
+        f"/prompts/candidates/{candidate.prompt_id}/save",
+        data={"text": "Revised candidate prompt\n\nWith details."},
+        follow_redirects=True,
+    )
+    assert updated.status_code == 200
+    assert b"Revised candidate prompt" in updated.data
+    assert candidates.load_prompt_version(candidate.prompt_id).text.startswith(
+        "Revised candidate prompt"
+    )
+
+
+def test_prompt_candidate_rejects_empty_edit(client):
+    registry.lock_cycle("prompt")
+    cycle_id = registry.load()["cycle"]["cycle_id"]
+    candidate = PromptVersion(
+        prompt_id="prompt_v2_empty",
+        version=2,
+        status="candidate",
+        text="Original candidate prompt",
+        created_at="t",
+        parent_prompt_id="prompt_v1",
+        cycle_id=cycle_id,
+    )
+    candidates.CANDIDATES_DIR.mkdir(parents=True, exist_ok=True)
+    atomic_write_json(
+        candidates.CANDIDATES_DIR / f"{candidate.prompt_id}.json",
+        candidate.to_dict(),
+    )
+
+    resp = client.post(
+        f"/prompts/candidates/{candidate.prompt_id}/save",
+        data={"text": "   "},
+    )
+
+    assert resp.status_code == 400
+    assert candidates.load_prompt_version(candidate.prompt_id).text == "Original candidate prompt"
+
+
+def test_candidate_route_does_not_render_active_prompt(client):
+    resp = client.get("/prompts/candidates/prompt_v1")
+    assert resp.status_code == 404
+
+
+def test_stale_prompt_candidate_cannot_start_promotion(client):
+    registry.lock_cycle("prompt")
+    old_cycle_id = registry.load()["cycle"]["cycle_id"]
+    candidate = PromptVersion(
+        prompt_id="prompt_v2_stale",
+        version=2,
+        status="candidate",
+        text="Stale candidate",
+        created_at="t",
+        parent_prompt_id="prompt_v1",
+        cycle_id=old_cycle_id,
+    )
+    candidates.CANDIDATES_DIR.mkdir(parents=True, exist_ok=True)
+    atomic_write_json(
+        candidates.CANDIDATES_DIR / f"{candidate.prompt_id}.json",
+        candidate.to_dict(),
+    )
+    registry.close_cycle("cancelled", expected_branch="prompt")
+    registry.lock_cycle("prompt", opened_by="new-cycle")
+
+    resp = client.post(
+        "/promotions/create",
+        data={
+            "candidate_prompt_id": candidate.prompt_id,
+            "case_ids": load_cases()[0].case_id,
+            "model": "model-x",
+        },
+    )
+
+    assert resp.status_code == 302
+    assert runner.list_promotions() == []
+    assert registry.locked_branch() == "prompt"
+
 
 
 def test_promotion_page_blind_labels(client):

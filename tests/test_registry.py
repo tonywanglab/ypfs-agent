@@ -1,5 +1,7 @@
 from __future__ import annotations
 
+import threading
+
 import pytest
 
 from harness import registry
@@ -53,5 +55,36 @@ def test_set_active_rubric_and_prompt(evals_dir):
     registry.set_active_rubric("rubric_v2")
     registry.set_active_prompt("prompt_v3")
     data = registry.load()
+    assert data["active_rubric_id"] == "rubric_v2"
+    assert data["active_prompt_id"] == "prompt_v3"
+
+
+def test_concurrent_registry_updates_do_not_lose_changes(evals_dir, monkeypatch):
+    registry.load()
+    original_load = registry.load
+    reads_complete = threading.Barrier(2)
+
+    def synchronized_load():
+        data = original_load()
+        reads_complete.wait(timeout=2)
+        return data
+
+    monkeypatch.setattr(registry, "load", synchronized_load)
+    rubric_thread = threading.Thread(
+        target=registry.set_active_rubric,
+        args=("rubric_v2",),
+    )
+    prompt_thread = threading.Thread(
+        target=registry.set_active_prompt,
+        args=("prompt_v3",),
+    )
+    rubric_thread.start()
+    prompt_thread.start()
+    rubric_thread.join(timeout=3)
+    prompt_thread.join(timeout=3)
+
+    assert not rubric_thread.is_alive()
+    assert not prompt_thread.is_alive()
+    data = original_load()
     assert data["active_rubric_id"] == "rubric_v2"
     assert data["active_prompt_id"] == "prompt_v3"

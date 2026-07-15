@@ -1,8 +1,17 @@
 {% extends "base.html" %}
 {% block title %}Run {{ run_id }} — Eval Harness{% endblock %}
 {% block content %}
-<h1>Run {{ run_id }}</h1>
-<p class="meta">case {{ bundle.case.case_id }} · prompt {{ bundle.manifest.prompt_id }} · rubric {{ bundle.manifest.rubric_id }}</p>
+<div class="page-header">
+  <h1>Run {{ run_id }}</h1>
+  <div class="meta-chips">
+    <span class="chip"><strong>case</strong> {{ bundle.case.case_id }}</span>
+    <span class="chip"><strong>prompt</strong> {{ bundle.manifest.prompt_id }}</span>
+    <span class="chip"><strong>rubric</strong> {{ bundle.manifest.rubric_id }}</span>
+    {% if bundle.manifest.promotion_blocked %}
+      <span class="badge warn">promotion blocked</span>
+    {% endif %}
+  </div>
+</div>
 
 <section>
   <h2>Query</h2>
@@ -15,17 +24,19 @@
 </section>
 
 <section>
-  <h2>Deterministic checks</h2>
-  {% if bundle.manifest.promotion_blocked %}
-    <p class="badge warn">Promotion blocked by hard failure</p>
-  {% endif %}
+  <div class="section-head">
+    <h2>Deterministic checks</h2>
+    {% if bundle.manifest.promotion_blocked %}
+      <span class="badge warn">Hard failure</span>
+    {% endif %}
+  </div>
   <table>
     <thead><tr><th>Check</th><th>Passed</th><th>Hard</th><th>Evidence</th></tr></thead>
     <tbody>
       {% for c in bundle.checks %}
         <tr class="{{ 'fail' if not c.passed else '' }}">
           <td>{{ c.check_id }}</td>
-          <td>{{ c.passed }}</td>
+          <td><span class="badge {% if c.passed %}ok{% else %}fail{% endif %}">{{ c.passed }}</span></td>
           <td>{{ c.hard_failure }}</td>
           <td>{{ c.evidence }}</td>
         </tr>
@@ -37,11 +48,11 @@
 <section>
   <h2>Checklist (generated before answer)</h2>
   <p class="muted">{{ bundle.checklist.evaluator_search_summary }}</p>
-      <ul>
-        {% for item in bundle.checklist['items'] %}
-          <li><strong>{{ item.criterion_id }}</strong>: {{ item.instruction }}</li>
-        {% endfor %}
-      </ul>
+  <ul class="item-list">
+    {% for item in bundle.checklist['items'] %}
+      <li><strong>{{ item.criterion_id }}</strong> <span class="muted">{{ item.instruction }}</span></li>
+    {% endfor %}
+  </ul>
 </section>
 
 <section>
@@ -56,7 +67,7 @@
       {% for c in bundle.judgment['criteria'] %}
         <tr class="{{ 'fail' if c.verdict == 'fail' else '' }}">
           <td>{{ c.criterion_id }}</td>
-          <td>{{ c.verdict }}</td>
+          <td><span class="badge {% if c.verdict == 'fail' %}fail{% else %}ok{% endif %}">{{ c.verdict }}</span></td>
           <td>{{ c.evidence }}</td>
         </tr>
       {% endfor %}
@@ -66,7 +77,7 @@
 
 <section>
   <h2>Trace</h2>
-  <details>
+  <details class="collapsible">
     <summary>Expand tool trace</summary>
     <pre class="block trace">{{ bundle.trace | tojson(indent=2) }}</pre>
   </details>
@@ -77,7 +88,10 @@
   <h2>Existing reviews</h2>
   {% for r in existing_reviews %}
     <div class="review-card">
-      <p>{{ r.verdict }} — {{ r.failure_attribution }}: {{ r.primary_problem }}</p>
+      <p>
+        <span class="badge {% if r.verdict == 'acceptable' %}ok{% else %}fail{% endif %}">{{ r.verdict }}</span>
+        <span class="muted">{{ r.failure_attribution }}</span> — {{ r.primary_problem }}
+      </p>
       {% if r.notes %}<p class="muted">{{ r.notes }}</p>{% endif %}
     </div>
   {% endfor %}
@@ -110,7 +124,9 @@
     <label>Notes
       <textarea name="notes" rows="3"></textarea>
     </label>
-    <button type="submit">Save review</button>
+    <div class="form-actions">
+      <button type="submit" class="primary">Save review</button>
+    </div>
   </form>
 </section>
 {% endif %}

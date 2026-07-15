@@ -1,99 +1,126 @@
 {% extends "base.html" %}
 {% block title %}Dashboard — Eval Harness{% endblock %}
 {% block content %}
-<h1>Supervisor dashboard</h1>
+<div class="page-header">
+  <h1>Supervisor dashboard</h1>
+  <p class="meta">Review runs, approve rubric changes, and promote prompt candidates.</p>
+</div>
 
 <section>
-  <h2>Pending run reviews ({{ pending_runs|length }})</h2>
+  <div class="section-head">
+    <h2>Pending run reviews <span class="count-badge">{{ pending_runs|length }}</span></h2>
+  </div>
   {% if pending_runs %}
     <ul class="item-list">
       {% for run in pending_runs %}
         <li>
           <a href="{{ url_for('run_detail', run_id=run.run_id) }}">{{ run.run_id }}</a>
-          — case {{ run.case_id }}, role {{ run.role }}
+          <span class="muted">case {{ run.case_id }} · {{ run.role }}</span>
           {% if run.promotion_blocked %}<span class="badge warn">blocked</span>{% endif %}
         </li>
       {% endfor %}
     </ul>
   {% else %}
-    <p class="muted">No runs awaiting review.</p>
+    <p class="empty-state">No runs awaiting review. All caught up.</p>
   {% endif %}
 </section>
 
 <section>
-  <h2>Rubric proposals ({{ proposals|length }})</h2>
+  <div class="section-head">
+    <h2>Rubric proposals <span class="count-badge">{{ proposals|length }}</span></h2>
+  </div>
   {% if proposals %}
     <ul class="item-list">
       {% for p in proposals %}
         {% if p.status == 'proposed' %}
           <li>
             <a href="{{ url_for('rubric_proposal', proposal_id=p.rubric_id) }}">{{ p.rubric_id }}</a>
-            — v{{ p.version }}
+            <span class="muted">v{{ p.version }}</span>
+            <span class="badge neutral">{{ p.status }}</span>
           </li>
         {% endif %}
       {% endfor %}
     </ul>
   {% else %}
-    <p class="muted">No rubric proposals.</p>
+    <p class="empty-state">No rubric proposals in flight.</p>
   {% endif %}
 
   {% set rubric_reviews = reviews | selectattr('verdict', 'equalto', 'unacceptable') | selectattr('failure_attribution', 'in', ['rubric_gap', 'judge_failure']) | list %}
   {% if rubric_reviews %}
     <form method="post" action="{{ url_for('create_rubric_proposal') }}" class="inline-form">
-      <p>Start rubric cycle from reviews:</p>
-      {% for r in rubric_reviews %}
-        <label><input type="checkbox" name="review_ids" value="{{ r.review_id }}"> {{ r.review_id }} ({{ r.failure_attribution }})</label>
-      {% endfor %}
-      <button type="submit" {% if locked_branch == 'prompt' %}disabled title="Prompt cycle is open"{% endif %}>Propose rubric</button>
+      <p class="muted">Start rubric cycle from reviews:</p>
+      <div class="checkbox-group">
+        {% for r in rubric_reviews %}
+          <label><input type="checkbox" name="review_ids" value="{{ r.review_id }}"> {{ r.review_id }} ({{ r.failure_attribution }})</label>
+        {% endfor %}
+      </div>
+      <div class="form-actions">
+        <button type="submit" {% if locked_branch == 'prompt' %}disabled title="Prompt cycle is open"{% endif %}>Propose rubric</button>
+      </div>
+      {% if locked_branch == 'prompt' %}
+        <p class="cycle-hint">Prompt cycle is open — finish or deny it before starting a rubric cycle.</p>
+      {% endif %}
     </form>
   {% endif %}
 </section>
 
 <section>
-  <h2>Prompt candidates ({{ prompt_candidates|length }})</h2>
+  <div class="section-head">
+    <h2>Prompt candidates <span class="count-badge">{{ prompt_candidates|length }}</span></h2>
+  </div>
   {% if prompt_candidates %}
     <ul class="item-list">
       {% for c in prompt_candidates %}
         {% if c.status == 'candidate' %}
-          <li>{{ c.prompt_id }} — v{{ c.version }}</li>
+          <li><a href="{{ url_for('prompt_candidate', prompt_id=c.prompt_id) }}">{{ c.prompt_id }}</a> — v{{ c.version }}</li>
         {% endif %}
       {% endfor %}
     </ul>
   {% else %}
-    <p class="muted">No prompt candidates.</p>
+    <p class="empty-state">No prompt candidates yet.</p>
   {% endif %}
 
   {% set agent_reviews = reviews | selectattr('verdict', 'equalto', 'unacceptable') | selectattr('failure_attribution', 'equalto', 'agent_failure') | list %}
   {% if agent_reviews %}
     <form method="post" action="{{ url_for('create_prompt_proposal') }}" class="inline-form">
-      <p>Start prompt cycle from reviews:</p>
-      {% for r in agent_reviews %}
-        <label><input type="checkbox" name="review_ids" value="{{ r.review_id }}"> {{ r.review_id }}</label>
-      {% endfor %}
-      <button type="submit" {% if locked_branch == 'rubric' %}disabled title="Rubric cycle is open"{% endif %}>Propose prompt</button>
+      <p class="muted">Start prompt cycle from reviews:</p>
+      <div class="checkbox-group">
+        {% for r in agent_reviews %}
+          <label><input type="checkbox" name="review_ids" value="{{ r.review_id }}"> {{ r.review_id }}</label>
+        {% endfor %}
+      </div>
+      <div class="form-actions">
+        <button type="submit" {% if locked_branch == 'rubric' %}disabled title="Rubric cycle is open"{% endif %}>Propose prompt</button>
+      </div>
+      {% if locked_branch == 'rubric' %}
+        <p class="cycle-hint">Rubric cycle is open — approve or deny the proposal first.</p>
+      {% endif %}
     </form>
   {% endif %}
 </section>
 
 <section>
-  <h2>A/B promotions ({{ promotions|length }})</h2>
+  <div class="section-head">
+    <h2>A/B promotions <span class="count-badge">{{ promotions|length }}</span></h2>
+  </div>
   {% if promotions %}
     <ul class="item-list">
       {% for p in promotions %}
         <li>
           <a href="{{ url_for('promotion_detail', promotion_id=p.promotion_id) }}">{{ p.promotion_id }}</a>
-          — {{ p.status }}, candidate {{ p.candidate_prompt_id }}
+          <span class="muted">candidate {{ p.candidate_prompt_id }}</span>
+          <span class="badge {% if p.status == 'pending' %}warn{% else %}neutral{% endif %}">{{ p.status }}</span>
         </li>
       {% endfor %}
     </ul>
   {% else %}
-    <p class="muted">No A/B promotions yet.</p>
+    <p class="empty-state">No A/B promotions yet.</p>
   {% endif %}
 
   {% set candidates_open = prompt_candidates | selectattr('status', 'equalto', 'candidate') | list %}
   {% if candidates_open %}
     <form method="post" action="{{ url_for('create_promotion') }}" class="inline-form">
-      <p>Run blind A/B for candidate:</p>
+      <p class="muted">Run blind A/B for candidate:</p>
       <select name="candidate_prompt_id">
         {% for c in candidates_open %}
           <option value="{{ c.prompt_id }}">{{ c.prompt_id }}</option>
@@ -105,16 +132,22 @@
         <label><input type="checkbox" name="case_ids" value="private_debt_fund_contagion"> private debt</label>
         <label><input type="checkbox" name="case_ids" value="ai_collateral_shock"> AI collateral</label>
       </div>
-      <button type="submit" {% if locked_branch == 'rubric' %}disabled{% endif %}>Start A/B</button>
+      <div class="form-actions">
+        <button type="submit" {% if locked_branch == 'rubric' %}disabled{% endif %}>Start A/B</button>
+      </div>
     </form>
   {% endif %}
 </section>
 
 {% if pending_queue.rubric or pending_queue.prompt %}
 <section>
-  <h2>Queued for next cycle</h2>
-  <p>rubric: {{ pending_queue.rubric | join(', ') or '—' }}</p>
-  <p>prompt: {{ pending_queue.prompt | join(', ') or '—' }}</p>
+  <div class="section-head">
+    <h2>Queued for next cycle</h2>
+  </div>
+  <div class="meta-chips">
+    <span class="chip"><strong>rubric</strong> {{ pending_queue.rubric | join(', ') or '—' }}</span>
+    <span class="chip"><strong>prompt</strong> {{ pending_queue.prompt | join(', ') or '—' }}</span>
+  </div>
 </section>
 {% endif %}
 {% endblock %}

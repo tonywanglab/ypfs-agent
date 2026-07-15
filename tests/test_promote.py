@@ -34,9 +34,11 @@ def _write_run(run_id: str, *, role: str, blocked: bool, case_id: str = "c1"):
 def _seed_promotion(evals_dir, *, blocked: bool = False):
     seed_all()
     registry.lock_cycle("prompt")
+    cycle_id = registry.load()["cycle"]["cycle_id"]
     cand = PromptVersion(
         prompt_id="prompt_v2_test", version=2, status="candidate",
         text="# New active prompt\nUpdated.", created_at="t", parent_prompt_id="prompt_v1",
+        cycle_id=cycle_id,
     )
     candidates.CANDIDATES_DIR.mkdir(parents=True, exist_ok=True)
     atomic_write_json(candidates.CANDIDATES_DIR / f"{cand.prompt_id}.json", cand.to_dict())
@@ -48,6 +50,7 @@ def _seed_promotion(evals_dir, *, blocked: bool = False):
         "promotion_id": promo_id, "rubric_id": "rubric_v1",
         "incumbent_prompt_id": "prompt_v1", "candidate_prompt_id": cand.prompt_id,
         "case_ids": ["c1"], "created_at": "t", "status": "pending",
+        "cycle_id": cycle_id,
     })
     _write_run("run_inc", role="incumbent", blocked=False)
     _write_run("run_cand", role="candidate", blocked=blocked)
@@ -86,3 +89,44 @@ def test_deny_promotion_closes_cycle(evals_dir):
     promote.deny_promotion(promo_id, rationale="not ready")
     assert registry.locked_branch() is None
     assert load_promotion(promo_id).status == "denied"
+
+
+def test_repeated_denial_does_not_close_another_cycle(evals_dir):
+    promo_id, _ = _seed_promotion(evals_dir, blocked=False)
+    promote.deny_promotion(promo_id, rationale="not ready")
+    registry.lock_cycle("rubric")
+
+    with pytest.raises(ValueError, match="not pending"):
+        promote.deny_promotion(promo_id)
+
+    assert registry.locked_branch() == "rubric"
+    assert load_promotion(promo_id).status == "denied"
+
+
+def test_stale_promotion_does_not_close_new_prompt_cycle(evals_dir):
+    promo_id, _ = _seed_promotion(evals_dir, blocked=False)
+    registry.close_cycle("cancelled", expected_branch="prompt")
+    registry.lock_cycle("prompt", opened_by="new-cycle")
+
+    with pytest.raises(ValueError, match="different review cycle"):
+        promote.deny_promotion(promo_id)
+
+    assert registry.locked_branch() == "prompt"
+    assert load_promotion(promo_id).status == "pending"
+
+
+def test_failed_promotion_rolls_back_all_artifacts(evals_dir, tmp_path, monkeypatch):
+    promo_id, cand_id = _seed_promotion(evals_dir, blocked=False)
+    blocked_system_path = tmp_path / "system-prompt-directory"
+    blocked_system_path.mkdir()
+    monkeypatch.setattr(promote, "SYSTEM_PROMPT_PATH", blocked_system_path)
+
+    with pytest.raises(IsADirectoryError):
+        promote.promote_prompt(promo_id, cand_id)
+
+    assert registry.active_prompt_id() == "prompt_v1"
+    assert registry.locked_branch() == "prompt"
+    assert load_promotion(promo_id).status == "pending"
+    assert candidates.load_prompt_version(cand_id).status == "candidate"
+    assert not (promote.PROMPTS_DIR / f"{cand_id}.json").exists()
+    assert not (promote.ARCHIVE_DIR / "prompt_v1.json").exists()

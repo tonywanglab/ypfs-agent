@@ -1,14 +1,41 @@
 {% extends "base.html" %}
 {% block title %}Runs — Eval Harness{% endblock %}
 {% block content %}
-<h1>All runs</h1>
-<ul class="item-list">
-  {% for run in runs %}
-    <li>
-      <a href="{{ url_for('run_detail', run_id=run.run_id) }}">{{ run.run_id }}</a>
-      — {{ run.case_id }}, {{ run.role }}, {{ run.status }}
-      {% if run.promotion_blocked %}<span class="badge warn">blocked</span>{% endif %}
-    </li>
-  {% endfor %}
-</ul>
+<div class="page-header">
+  <h1>All runs</h1>
+  <p class="meta">{{ runs|length }} eval run{{ 's' if runs|length != 1 else '' }} in the corpus.</p>
+</div>
+
+{% if runs %}
+<section>
+  <table class="runs-table">
+    <thead>
+      <tr>
+        <th>Run</th>
+        <th>Case</th>
+        <th>Role</th>
+        <th>Status</th>
+      </tr>
+    </thead>
+    <tbody>
+      {% for run in runs %}
+        <tr class="{{ 'fail' if run.promotion_blocked else '' }}">
+          <td><a href="{{ url_for('run_detail', run_id=run.run_id) }}">{{ run.run_id }}</a></td>
+          <td>{{ run.case_id }}</td>
+          <td>{{ run.role }}</td>
+          <td>
+            <span class="badge {% if run.promotion_blocked %}warn{% elif run.status == 'judged' %}ok{% else %}neutral{% endif %}">
+              {% if run.promotion_blocked %}blocked{% else %}{{ run.status }}{% endif %}
+            </span>
+          </td>
+        </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+</section>
+{% else %}
+<section>
+  <p class="empty-state">No runs yet. Seed eval data with <code>python -m harness.seed</code>.</p>
+</section>
+{% endif %}
 {% endblock %}
