@@ -118,8 +118,9 @@ def test_chat_page_loads(client):
     assert b"Start a run" in resp.data
     assert b"prompt_v1" in resp.data
     assert b"rubric_v1" in resp.data
-    assert b"Claude Sonnet 4.6" in resp.data
     assert b"Claude Fable 5" in resp.data
+    assert b'value="anthropic/claude-fable-5"' in resp.data
+    assert b"selected" in resp.data[resp.data.find(b"claude-fable-5"):resp.data.find(b"claude-fable-5") + 80]
     assert b"GPT-5.6 Sol" in resp.data
 
 

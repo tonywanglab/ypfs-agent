@@ -8,8 +8,6 @@ from __future__ import annotations
 
 from dataclasses import dataclass
 
-from agent.agent import DEFAULT_MODEL
-
 
 @dataclass(frozen=True)
 class AgentModelOption:
@@ -60,6 +58,8 @@ AGENT_MODEL_OPTIONS: tuple[AgentModelOption, ...] = (
     AgentModelOption("Gemini 3.5 Flash", "google/gemini-3.5-flash"),
 )
 
+DEFAULT_CHAT_MODEL = "anthropic/claude-fable-5"
+
 _SLUGS = {m.slug for m in AGENT_MODEL_OPTIONS}
 
 
@@ -68,9 +68,7 @@ def is_valid_model_slug(slug: str) -> bool:
 
 
 def default_model_slug() -> str:
-    preferred = __import__("os").environ.get("AGENT_MODEL", DEFAULT_MODEL)
-    if preferred in _SLUGS:
+    preferred = __import__("os").environ.get("AGENT_MODEL")
+    if preferred and preferred in _SLUGS:
         return preferred
-    if DEFAULT_MODEL in _SLUGS:
-        return DEFAULT_MODEL
-    return AGENT_MODEL_OPTIONS[0].slug
+    return DEFAULT_CHAT_MODEL

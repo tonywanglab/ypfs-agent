@@ -18,5 +18,5 @@ def test_openrouter_slug_exists(option):
     assert option.label in payload["data"]["name"] or payload["data"]["name"].endswith(option.label.split()[-1])
 
 
-def test_default_model_slug_is_catalog_member():
-    assert is_valid_model_slug(default_model_slug())
+def test_default_model_slug_is_fable():
+    assert default_model_slug() == "anthropic/claude-fable-5"
