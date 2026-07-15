@@ -112,6 +112,92 @@ def test_rubric_proposal_approve_via_web(client, monkeypatch):
     assert registry.active_rubric_id() != "rubric_v1"
 
 
+def test_invalid_rubric_edit_is_redisplayed(client, monkeypatch):
+    registry.lock_cycle("rubric")
+
+    def fake_chat_json(system, user, model):
+        return {
+            "rationale": "edit me",
+            "criteria": [
+                {"id": "quality", "description": "good", "check_type": "llm"},
+            ],
+        }
+
+    monkeypatch.setattr(llm, "chat_json", fake_chat_json)
+    proposal = candidates.propose_rubric([], "model-x")
+    invalid_edit = '[{"id": "quality", "description": "keep this edit"'
+
+    resp = client.post(
+        f"/rubrics/proposals/{proposal.rubric_id}/approve",
+        data={"criteria_json": invalid_edit},
+    )
+
+    assert resp.status_code == 400
+    assert b"keep this edit" in resp.data
+    assert candidates.load_proposal(proposal.rubric_id).status == "proposed"
+
+
+def test_prompt_candidate_can_be_inspected_and_edited(client):
+    registry.lock_cycle("prompt")
+    cycle_id = registry.load()["cycle"]["cycle_id"]
+    candidate = PromptVersion(
+        prompt_id="prompt_v2_edit",
+        version=2,
+        status="candidate",
+        text="Original candidate prompt",
+        created_at="t",
+        parent_prompt_id="prompt_v1",
+        cycle_id=cycle_id,
+    )
+    candidates.CANDIDATES_DIR.mkdir(parents=True, exist_ok=True)
+    atomic_write_json(
+        candidates.CANDIDATES_DIR / f"{candidate.prompt_id}.json",
+        candidate.to_dict(),
+    )
+
+    detail = client.get(f"/prompts/candidates/{candidate.prompt_id}")
+    assert detail.status_code == 200
+    assert b"Original candidate prompt" in detail.data
+
+    updated = client.post(
+        f"/prompts/candidates/{candidate.prompt_id}/save",
+        data={"text": "Revised candidate prompt\n\nWith details."},
+        follow_redirects=True,
+    )
+    assert updated.status_code == 200
+    assert b"Revised candidate prompt" in updated.data
+    assert candidates.load_prompt_version(candidate.prompt_id).text.startswith(
+        "Revised candidate prompt"
+    )
+
+
+def test_prompt_candidate_rejects_empty_edit(client):
+    registry.lock_cycle("prompt")
+    cycle_id = registry.load()["cycle"]["cycle_id"]
+    candidate = PromptVersion(
+        prompt_id="prompt_v2_empty",
+        version=2,
+        status="candidate",
+        text="Original candidate prompt",
+        created_at="t",
+        parent_prompt_id="prompt_v1",
+        cycle_id=cycle_id,
+    )
+    candidates.CANDIDATES_DIR.mkdir(parents=True, exist_ok=True)
+    atomic_write_json(
+        candidates.CANDIDATES_DIR / f"{candidate.prompt_id}.json",
+        candidate.to_dict(),
+    )
+
+    resp = client.post(
+        f"/prompts/candidates/{candidate.prompt_id}/save",
+        data={"text": "   "},
+    )
+
+    assert resp.status_code == 400
+    assert candidates.load_prompt_version(candidate.prompt_id).text == "Original candidate prompt"
+
+
 def test_promotion_page_blind_labels(client):
     from harness.models import ABPair, Promotion
 
