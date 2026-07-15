@@ -112,6 +112,42 @@ def test_rubric_proposal_approve_via_web(client, monkeypatch):
     assert registry.active_rubric_id() != "rubric_v1"
 
 
+def test_chat_page_loads(client):
+    resp = client.get("/chat")
+    assert resp.status_code == 200
+    assert b"Start a run" in resp.data
+    assert b"prompt_v1" in resp.data
+    assert b"rubric_v1" in resp.data
+
+
+def test_chat_run_single_sample(client):
+    resp = client.post("/chat/run", data={
+        "query": "What emergency lending options exist?",
+        "prompt_id": "prompt_v1",
+        "rubric_id": "rubric_v1",
+        "model": "model-x",
+        "samples": "1",
+    }, follow_redirects=False)
+    assert resp.status_code == 302
+    run_id = resp.location.rsplit("/", 1)[-1]
+    detail = client.get(f"/runs/{run_id}")
+    assert detail.status_code == 200
+    assert b"What emergency lending options exist?" in detail.data
+
+
+def test_chat_run_multiple_samples(client):
+    resp = client.post("/chat/run", data={
+        "query": "Plan for insurer liquidity?",
+        "prompt_id": "prompt_v1",
+        "rubric_id": "rubric_v1",
+        "model": "model-x",
+        "samples": "3",
+    }, follow_redirects=True)
+    assert resp.status_code == 200
+    assert b"Launch launch_" in resp.data
+    assert resp.data.count(b"run_") >= 3
+
+
 def test_promotion_page_blind_labels(client):
     from harness.models import ABPair, Promotion
 

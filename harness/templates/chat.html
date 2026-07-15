@@ -1,0 +1,97 @@
+{% extends "base.html" %}
+{% block title %}Chat — Eval Harness{% endblock %}
+{% block content %}
+<h1>Start a run</h1>
+<p class="muted">Submit a query through the full evaluation pipeline: agent → checks → checklist → judge.</p>
+
+<div class="chat-layout">
+  <aside class="chat-config">
+    <form method="post" action="{{ url_for('chat_run') }}" id="launch-form">
+      <fieldset>
+        <legend>Configuration</legend>
+
+        <label>
+          System prompt
+          <select name="prompt_id" required>
+            {% for p in prompts %}
+              <option value="{{ p.prompt_id }}"
+                {% if p.prompt_id == selected_prompt_id %}selected{% endif %}>
+                {{ p.prompt_id }} (v{{ p.version }}, {{ p.status }})
+              </option>
+            {% endfor %}
+          </select>
+        </label>
+
+        <label>
+          Rubric
+          <select name="rubric_id" required>
+            {% for r in rubrics %}
+              <option value="{{ r.rubric_id }}"
+                {% if r.rubric_id == selected_rubric_id %}selected{% endif %}>
+                {{ r.rubric_id }} (v{{ r.version }}, {{ r.status }})
+              </option>
+            {% endfor %}
+          </select>
+        </label>
+
+        <label>
+          Model
+          <input type="text" name="model" value="{{ default_model }}" required>
+        </label>
+
+        <label>
+          Samples
+          <input type="number" name="samples" value="{{ default_samples }}" min="1" max="20" required>
+          <span class="muted">Repeat the same query this many times.</span>
+        </label>
+      </fieldset>
+
+      <label class="chat-query-label">
+        Query
+        <textarea name="query" rows="6" required placeholder="Ask the agent a policy question…"></textarea>
+      </label>
+
+      {% if cases %}
+      <details class="case-picker">
+        <summary>Load a seed case</summary>
+        <ul class="item-list">
+          {% for c in cases %}
+            <li>
+              <button type="button" class="case-load" data-case-id="{{ c.case_id }}">
+                {{ c.case_id }}
+              </button>
+            </li>
+          {% endfor %}
+        </ul>
+      </details>
+      {% endif %}
+
+      <button type="submit" class="primary chat-submit">Run evaluation</button>
+    </form>
+  </aside>
+
+  <section class="chat-help">
+    <h2>How it works</h2>
+    <ul class="item-list">
+      <li>Each sample runs with empty history and your selected prompt, rubric, and model.</li>
+      <li>Versioned prompts and rubrics come from <code>evals/prompts/</code> and <code>evals/rubrics/</code>.</li>
+      <li>Multiple samples produce a batch summary; a single sample opens the run detail page.</li>
+      <li>Runs appear on the Runs page and can be reviewed from the dashboard.</li>
+    </ul>
+    <p class="meta">Active defaults: prompt={{ active_prompt_id }} · rubric={{ active_rubric_id }}</p>
+  </section>
+</div>
+
+<script>
+  const seedCases = {{ cases | tojson }};
+  document.querySelectorAll(".case-load").forEach((btn) => {
+    btn.addEventListener("click", () => {
+      const match = seedCases.find((c) => c.case_id === btn.dataset.caseId);
+      if (!match) return;
+      const textarea = document.querySelector('textarea[name="query"]');
+      textarea.value = match.prompt;
+      textarea.focus();
+    });
+  });
+</script>
+{% endblock %}

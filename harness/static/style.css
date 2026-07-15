@@ -170,4 +170,67 @@ button:disabled { opacity: 0.5; cursor: not-allowed; }
 @media (max-width: 800px) {
   .ab-columns { grid-template-columns: 1fr; }
   .site-header { flex-direction: column; align-items: flex-start; gap: 0.5rem; }
+  .chat-layout { grid-template-columns: 1fr; }
+}
+
+.chat-layout {
+  display: grid;
+  grid-template-columns: minmax(280px, 360px) 1fr;
+  gap: 1rem;
+  align-items: start;
+}
+
+.chat-config,
+.chat-help {
+  background: var(--card);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 1rem 1.25rem;
+}
+
+.chat-config fieldset {
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  padding: 0.75rem;
+  margin: 0 0 1rem;
+}
+
+.chat-config legend {
+  padding: 0 0.35rem;
+  font-weight: 600;
+}
+
+.chat-query-label textarea {
+  min-height: 140px;
+  font-family: inherit;
+}
+
+.chat-submit {
+  width: 100%;
+  margin-top: 0.5rem;
+}
+
+.case-picker {
+  margin: 0.75rem 0;
+  font-size: 0.9rem;
+}
+
+.case-picker button.case-load {
+  background: none;
+  border: none;
+  color: var(--accent);
+  padding: 0;
+  cursor: pointer;
+  text-align: left;
+  font: inherit;
+}
+
+.case-picker button.case-load:hover {
+  text-decoration: underline;
+}
+
+td.preview {
+  font-size: 0.85rem;
+  color: var(--muted);
+  max-width: 320px;
 }
