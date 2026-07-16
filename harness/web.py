@@ -4,34 +4,22 @@ from __future__ import annotations
 
 import json
 import os
-import re
 from pathlib import Path
 
 import requests
 from dotenv import load_dotenv
 from flask import Flask, abort, flash, jsonify, redirect, render_template, request, url_for
 
-from . import config, jobs, reviews, versions
+from . import config, jobs, queue, reviews, versions
 from .markdown_render import render_markdown
-from .models import Case, RubricCriterion
+from .models import RubricCriterion
 from .rubric_diff import diff_rubric_criteria
 from .rubric_markdown import criteria_to_markdown, markdown_to_criteria
-from .runner import (
-    delete_run,
-    load_manifest,
-    load_run_bundle,
-    list_runs,
-    run_case_samples,
-)
+from .runner import delete_run, load_manifest, load_run_bundle, list_runs
 from .seed import load_cases
-from .storage import EVALS_DIR, atomic_write_json, new_id, now_iso, read_json, safe_path
+from .storage import safe_path
 from .text_diff import build_line_diff
 from .trace import trace_timeline
-
-EXPERIMENTS_DIR = EVALS_DIR / "experiments"
-_LEGACY_LAUNCHES_DIR = EVALS_DIR / "launches"
-_EXPERIMENT_ID_RE = re.compile(r"^experiment_[0-9a-f]{12}$")
-_LEGACY_LAUNCH_ID_RE = re.compile(r"^launch_[0-9a-f]{12}$")
 
 load_dotenv()
 
@@ -41,94 +29,6 @@ STATIC = Path(__file__).parent / "static"
 
 def _openrouter_configured() -> bool:
     return bool(os.environ.get("OPENROUTER_API_KEY"))
-
-
-def _run_experiment_error_message(exc: BaseException) -> str:
-    if isinstance(exc, KeyError) and exc.args and exc.args[0] == "OPENROUTER_API_KEY":
-        return "OPENROUTER_API_KEY is not set. Add it to .env and restart the server."
-    if isinstance(exc, requests.HTTPError) and exc.response is not None:
-        return f"OpenRouter request failed ({exc.response.status_code}): {exc.response.text[:200]}"
-    return f"Run failed: {exc}"
-
-
-def _experiment_progress_message(
-    phase: str,
-    *,
-    current_sample: int,
-    completed_samples: int,
-    samples: int,
-) -> str:
-    phase_labels = {
-        "prepare": "Preparing run…",
-        "agent": "Running agent…",
-        "checks": "Running deterministic checks…",
-        "judge": "Judging answer…",
-        "sample_done": "Sample complete.",
-    }
-    label = phase_labels.get(phase, "Working…")
-    if samples <= 1:
-        return label
-    if phase == "prepare":
-        return f"Preparing {samples} samples…"
-    if phase == "sample_done":
-        if completed_samples >= samples:
-            return f"All {samples} samples complete — saving run…"
-        return f"Sample {completed_samples} of {samples} complete."
-    return f"Sample {current_sample} of {samples} — {label}"
-
-
-def _experiment_path(experiment_id: str) -> Path:
-    if _EXPERIMENT_ID_RE.fullmatch(experiment_id):
-        return EXPERIMENTS_DIR / f"{experiment_id}.json"
-    if _LEGACY_LAUNCH_ID_RE.fullmatch(experiment_id):
-        legacy = _LEGACY_LAUNCHES_DIR / f"{experiment_id}.json"
-        if legacy.exists():
-            return legacy
-        migrated = f"experiment_{experiment_id.removeprefix('launch_')}"
-        return EXPERIMENTS_DIR / f"{migrated}.json"
-    raise ValueError(f"Invalid experiment id: {experiment_id!r}")
-
-
-def _valid_experiment_id(experiment_id: str) -> bool:
-    return bool(
-        _EXPERIMENT_ID_RE.fullmatch(experiment_id)
-        or _LEGACY_LAUNCH_ID_RE.fullmatch(experiment_id)
-    )
-
-
-def _load_experiment(experiment_id: str) -> dict:
-    data = read_json(_experiment_path(experiment_id))
-    if "experiment_id" not in data:
-        data["experiment_id"] = data.get("launch_id", experiment_id)
-    return data
-
-
-def _update_experiment_progress(
-    experiment_path: Path,
-    experiment_data: dict,
-    *,
-    phase: str,
-    current_sample: int,
-    completed_samples: int,
-    run_id: str | None = None,
-) -> None:
-    samples = int(experiment_data.get("samples", 1))
-    experiment_data["phase"] = phase
-    experiment_data["current_sample"] = current_sample
-    experiment_data["completed_samples"] = completed_samples
-    experiment_data["message"] = _experiment_progress_message(
-        phase,
-        current_sample=current_sample,
-        completed_samples=completed_samples,
-        samples=samples,
-    )
-    if run_id:
-        experiment_data["run_id"] = run_id
-    atomic_write_json(experiment_path, experiment_data)
-
-
-def _field_at(values: list[str], index: int) -> str:
-    return values[index].strip() if index < len(values) else ""
 
 
 def _review_is_used(review_id: str) -> bool:
@@ -142,10 +42,21 @@ def _review_is_used(review_id: str) -> bool:
     return any(review_id in artifact.derived_from_review_ids for artifact in artifacts)
 
 
+def _field_at(values: list[str], index: int) -> str:
+    return values[index].strip() if index < len(values) else ""
+
+
 def create_app() -> Flask:
     app = Flask(__name__, template_folder=str(TEMPLATES), static_folder=str(STATIC))
     app.secret_key = "harness-local-dev-only"
     app.jinja_env.filters["markdown"] = render_markdown
+
+    queue.start_worker()
+    queue.recover_stale_jobs()
+
+    @app.teardown_appcontext
+    def _shutdown_worker(_exc=None):
+        pass  # Worker pool lives for process lifetime; explicit shutdown in tests.
 
     @app.context_processor
     def inject_globals():
@@ -261,7 +172,7 @@ def create_app() -> Flask:
             ),
             default_samples=1,
             openrouter_configured=_openrouter_configured(),
-            experiment_id=new_id("experiment"),
+            job_id=jobs.new_job_id(),
         )
 
     @app.route("/chat/run", methods=["POST"])
@@ -269,150 +180,62 @@ def create_app() -> Flask:
         query = request.form.get("query", "").strip()
         prompt_id = request.form.get("prompt_id", "").strip()
         rubric_id = request.form.get("rubric_id", "").strip()
-        experiment_id = request.form.get("experiment_id", "").strip()
+        job_id = request.form.get("job_id", "").strip()
         try:
             samples = max(1, min(int(request.form.get("samples", "1")), 20))
         except ValueError:
             samples = 1
         if not query:
             flash("Enter a query to run.", "error")
-            return redirect(url_for("chat", experiment_finished="1"))
-        if not _valid_experiment_id(experiment_id):
-            flash("Invalid experiment ID. Reload the page and try again.", "error")
-            return redirect(url_for("chat", experiment_finished="1"))
+            return redirect(url_for("chat", job_finished="1"))
+        if not jobs.is_job_id(job_id):
+            flash("Invalid job ID. Reload the page and try again.", "error")
+            return redirect(url_for("chat", job_finished="1"))
         if not prompt_id or not rubric_id:
             flash("Select a system prompt and judge rubric.", "error")
-            return redirect(url_for("chat", experiment_finished="1"))
+            return redirect(url_for("chat", job_finished="1"))
         if not _openrouter_configured():
             flash("OPENROUTER_API_KEY is not set. Add it to .env and restart.", "error")
-            return redirect(url_for("chat", experiment_finished="1"))
+            return redirect(url_for("chat", job_finished="1"))
         try:
-            prompt = versions.load_prompt(prompt_id)
-            rubric = versions.load_rubric(rubric_id)
+            versions.load_prompt(prompt_id)
+            versions.load_rubric(rubric_id)
         except (FileNotFoundError, ValueError):
             flash("Unknown prompt or rubric version.", "error")
-            return redirect(url_for("chat", experiment_finished="1"))
+            return redirect(url_for("chat", job_finished="1"))
 
-        run_id = ""
-        base_case_id = new_id("adhoc")
-        experiment_path = _experiment_path(experiment_id)
-        experiment_data = {
-            "experiment_id": experiment_id,
-            "query": query,
-            "prompt_id": prompt.prompt_id,
-            "rubric_id": rubric.rubric_id,
-            "agent_model": config.agent_model(),
-            "judge_model": config.judge_model(),
-            "samples": samples,
-            "run_id": run_id,
-            "created_at": now_iso(),
-            "status": "running",
-        }
-        atomic_write_json(experiment_path, experiment_data)
-        try:
-            case = Case(
-                case_id=base_case_id,
-                prompt=query,
-                tags=["adhoc", "chat"],
-            )
-
-            def report_progress(phase, sample_index, sample_total, run_id):
-                completed = sample_index if phase == "sample_done" else max(0, sample_index - 1)
-                current = sample_index if phase != "prepare" else 0
-                _update_experiment_progress(
-                    experiment_path,
-                    experiment_data,
-                    phase=phase,
-                    current_sample=current,
-                    completed_samples=completed,
-                    run_id=run_id,
-                )
-
-            manifest = run_case_samples(
-                case,
-                prompt.text,
-                prompt.prompt_id,
-                rubric,
-                samples=samples,
-                on_progress=report_progress,
-            )
-            run_id = manifest.run_id
-            experiment_data["run_id"] = run_id
-            atomic_write_json(experiment_path, experiment_data)
-        except (KeyError, requests.RequestException, RuntimeError, ValueError) as exc:
-            error_message = _run_experiment_error_message(exc)
-            experiment_data["status"] = "failed"
-            experiment_data["error"] = error_message
-            atomic_write_json(experiment_path, experiment_data)
-            flash(error_message, "error")
-            if run_id:
-                flash("Partial run saved — open it to inspect completed samples.", "warning")
-                return redirect(url_for(
-                    "run_detail",
-                    run_id=run_id,
-                    experiment_finished=experiment_id,
-                ))
-            return redirect(url_for("chat", experiment_finished=experiment_id))
-
-        experiment_data["status"] = "finished"
-        atomic_write_json(experiment_path, experiment_data)
-        label = f"{samples} sample{'s' if samples > 1 else ''}"
-        flash(f"Run complete ({label}).", "success")
-        return redirect(url_for(
-            "run_detail",
-            run_id=run_id,
-            experiment_finished=experiment_id,
-        ))
-
-    @app.route("/chat/experiments/<experiment_id>/status")
-    def chat_experiment_status(experiment_id: str):
-        if not _valid_experiment_id(experiment_id):
-            abort(404)
-        try:
-            experiment = _load_experiment(experiment_id)
-        except (FileNotFoundError, ValueError):
-            return jsonify({"status": "pending"}), 404
-        run_id = experiment.get("run_id") or ""
-        legacy_run_ids = experiment.get("run_ids") or []
-        return jsonify({
-            "status": experiment.get("status", "finished"),
-            "run_id": run_id or (legacy_run_ids[0] if legacy_run_ids else ""),
-            "run_ids": legacy_run_ids,
-            "samples": experiment.get("samples", 1),
-            "phase": experiment.get("phase"),
-            "current_sample": experiment.get("current_sample", 0),
-            "completed_samples": experiment.get("completed_samples", 0),
-            "message": experiment.get("message"),
-            "result_url": (
-                url_for("run_detail", run_id=run_id)
-                if run_id and experiment.get("status") == "finished"
-                else None
-            ),
-        })
-
-    @app.route("/chat/experiments/<experiment_id>")
-    def experiment_detail(experiment_id: str):
-        if not _valid_experiment_id(experiment_id):
-            abort(404)
-        try:
-            experiment = _load_experiment(experiment_id)
-        except (FileNotFoundError, ValueError):
-            abort(404)
-        run_id = experiment.get("run_id")
-        if run_id:
-            return redirect(url_for("run_detail", run_id=run_id))
-        run_views = []
-        for legacy_run_id in experiment.get("run_ids", []):
-            try:
-                bundle = load_run_bundle(legacy_run_id)
-            except (FileNotFoundError, ValueError):
-                bundle = {"manifest": {}, "answer": "", "judgment": {}}
-            run_views.append({"run_id": legacy_run_id, **bundle})
-        return render_template(
-            "experiment_detail.html",
-            experiment=experiment,
-            runs=run_views,
+        queue.enqueue_experiment(
+            job_id=job_id,
+            query=query,
+            prompt_id=prompt_id,
+            rubric_id=rubric_id,
+            samples=samples,
         )
+        label = f"{samples} sample{'s' if samples > 1 else ''}"
+        flash(f"Evaluation queued ({label}).", "success")
+        return redirect(url_for("chat", job_started=job_id))
+
+    @app.route("/jobs/<job_id>/status")
+    def job_status(job_id: str):
+        if not jobs.is_job_id(job_id):
+            abort(404)
+        try:
+            payload = jobs.public_status_payload(job_id)
+        except FileNotFoundError:
+            return jsonify({"status": "pending"}), 404
+        if payload.get("status") == "finished" and payload.get("run_id"):
+            payload["result_url"] = url_for("run_detail", run_id=payload["run_id"])
+        return jsonify(payload)
+
+    @app.route("/jobs/active")
+    def active_jobs():
+        """List running jobs — public fields only."""
+        active = [
+            jobs.public_status_payload(job["job_id"])
+            for job in jobs.list_jobs()
+            if job.get("status") == "running"
+        ]
+        return jsonify({"jobs": active})
 
     @app.route("/runs/<run_id>")
     def run_detail(run_id: str):
@@ -501,16 +324,8 @@ def create_app() -> Flask:
         job_id = request.form.get("job_id", "").strip()
         if not jobs.is_job_id(job_id):
             job_id = jobs.new_job_id()
-        jobs.start_job(job_id, jobs.KIND_PROMPT_DRAFT, base_id=base_id, review_ids=review_ids)
-        try:
-            draft = versions.draft_prompt(base_id, review_ids)
-            result_url = url_for("view_prompt_draft", job_id=job_id)
-            jobs.finish_job(job_id, result=draft, result_url=result_url)
-        except (KeyError, requests.RequestException, RuntimeError, ValueError) as exc:
-            jobs.finish_job(job_id, error=str(exc))
-            flash(f"Could not generate prompt draft: {exc}", "error")
-            return redirect(url_for("dashboard", job_finished=job_id))
-        return redirect(url_for("view_prompt_draft", job_id=job_id, job_finished=job_id))
+        queue.enqueue_prompt_draft(job_id=job_id, base_id=base_id, review_ids=review_ids)
+        return redirect(url_for("dashboard", job_started=job_id))
 
     @app.route("/versions/prompts/draft/<job_id>")
     def view_prompt_draft(job_id: str):
@@ -533,15 +348,6 @@ def create_app() -> Flask:
             draft=draft,
             diff_groups=build_line_diff(base.text, draft.get("prompt_text", "")),
         )
-
-    @app.route("/jobs/<job_id>/status")
-    def job_status(job_id: str):
-        if not jobs.is_job_id(job_id):
-            abort(404)
-        try:
-            return jsonify(jobs.job_status_payload(job_id))
-        except FileNotFoundError:
-            return jsonify({"status": "pending"}), 404
 
     @app.route("/versions/prompts/save", methods=["POST"])
     def save_prompt():
@@ -615,16 +421,8 @@ def create_app() -> Flask:
         job_id = request.form.get("job_id", "").strip()
         if not jobs.is_job_id(job_id):
             job_id = jobs.new_job_id()
-        jobs.start_job(job_id, jobs.KIND_RUBRIC_DRAFT, base_id=base_id, review_ids=review_ids)
-        try:
-            draft = versions.draft_rubric(base_id, review_ids)
-            result_url = url_for("view_rubric_draft", job_id=job_id)
-            jobs.finish_job(job_id, result=draft, result_url=result_url)
-        except (KeyError, requests.RequestException, RuntimeError, ValueError) as exc:
-            jobs.finish_job(job_id, error=str(exc))
-            flash(f"Could not generate rubric draft: {exc}", "error")
-            return redirect(url_for("dashboard", job_finished=job_id))
-        return redirect(url_for("view_rubric_draft", job_id=job_id, job_finished=job_id))
+        queue.enqueue_rubric_draft(job_id=job_id, base_id=base_id, review_ids=review_ids)
+        return redirect(url_for("dashboard", job_started=job_id))
 
     @app.route("/versions/rubrics/draft/<job_id>")
     def view_rubric_draft(job_id: str):

@@ -1,4 +1,4 @@
-from harness import config, reviews, seed, versions, web
+from harness import config, jobs, queue, reviews, seed, versions, web
 from harness.models import RunManifest
 from harness.storage import atomic_write_json
 
@@ -6,6 +6,7 @@ from harness.storage import atomic_write_json
 def _client(evals_dir, monkeypatch):
     seed.seed_all()
     monkeypatch.setenv("OPENROUTER_API_KEY", "test")
+    monkeypatch.setattr(queue, "_submit", lambda job_id: queue._dispatch(job_id))
     return web.create_app().test_client()
 
 
@@ -22,7 +23,7 @@ def test_chat_exposes_only_prompt_and_rubric_variables(evals_dir, monkeypatch):
     assert 'value="prompt_v2"' in body
 
 
-def test_chat_submission_uses_selected_pair_and_no_model_input(evals_dir, monkeypatch):
+def test_chat_submission_enqueues_job(evals_dir, monkeypatch):
     client = _client(evals_dir, monkeypatch)
     captured = {}
 
@@ -34,6 +35,8 @@ def test_chat_submission_uses_selected_pair_and_no_model_input(evals_dir, monkey
             samples=samples,
             progress=on_progress is not None,
         )
+        if on_progress:
+            on_progress("prepare", 0, samples, "run_1")
         return RunManifest(
             "run_1",
             case.case_id,
@@ -47,26 +50,25 @@ def test_chat_submission_uses_selected_pair_and_no_model_input(evals_dir, monkey
             sample_count=samples,
         )
 
-    monkeypatch.setattr(web, "run_case_samples", fake_run_case_samples)
+    monkeypatch.setattr("harness.queue.run_case_samples", fake_run_case_samples)
+    job_id = jobs.new_job_id()
     response = client.post("/chat/run", data={
         "query": "question",
         "prompt_id": "prompt_v1",
         "rubric_id": "rubric_v1",
         "samples": "3",
-        "experiment_id": "experiment_abcdef123456",
+        "job_id": job_id,
         "model": "malicious/override",
     })
     assert response.status_code == 302
+    assert "job_started=" + job_id in response.headers["Location"]
     assert captured["prompt_id"] == "prompt_v1"
     assert captured["rubric_id"] == "rubric_v1"
     assert captured["samples"] == 3
     assert captured["progress"] is True
-    assert "/runs/run_1" in response.headers["Location"]
-    experiment = (
-        web.EVALS_DIR / "experiments" / "experiment_abcdef123456.json"
-    ).read_text()
-    assert '"status": "finished"' in experiment
-    assert '"run_id": "run_1"' in experiment
+    job = jobs.load_job(job_id)
+    assert job["status"] == "finished"
+    assert job["run_id"] == "run_1"
 
 
 def test_runs_filter_by_prompt_rubric_pair(evals_dir, monkeypatch):
@@ -76,7 +78,7 @@ def test_runs_filter_by_prompt_rubric_pair(evals_dir, monkeypatch):
         ("run_drop", "prompt_v2", "rubric_v1", "2026-07-16T17:07:00Z"),
         ("run_newer", "prompt_v1", "rubric_v1", "2026-07-16T17:07:00Z"),
     ]:
-        atomic_write_json(web.EVALS_DIR / "runs" / run_id / "manifest.json", {
+        atomic_write_json(jobs.JOBS_DIR.parent / "runs" / run_id / "manifest.json", {
             "run_id": run_id,
             "case_id": "case",
             "agent_model": config.agent_model(),
@@ -95,7 +97,7 @@ def test_runs_filter_by_prompt_rubric_pair(evals_dir, monkeypatch):
 
 def test_review_requires_change_target_only_when_unacceptable(evals_dir, monkeypatch):
     client = _client(evals_dir, monkeypatch)
-    run_dir = web.EVALS_DIR / "runs" / "run_1"
+    run_dir = jobs.JOBS_DIR.parent / "runs" / "run_1"
     atomic_write_json(run_dir / "manifest.json", {
         "run_id": "run_1",
         "case_id": "case",
@@ -132,7 +134,7 @@ def test_prompt_draft_builder_exposes_loading_and_lockable_controls(evals_dir, m
 
 
 def test_prompt_draft_job_persists_result_for_status_polling(evals_dir, monkeypatch):
-    from harness import jobs, llm
+    from harness import llm
 
     reviews.create_review(
         "run_missing",
@@ -152,7 +154,7 @@ def test_prompt_draft_job_persists_result_for_status_polling(evals_dir, monkeypa
         "job_id": job_id,
     }, follow_redirects=False)
     assert response.status_code == 302
-    assert f"/versions/prompts/draft/{job_id}" in response.headers["Location"]
+    assert "job_started=" + job_id in response.headers["Location"]
     status = client.get(f"/jobs/{job_id}/status").get_json()
     assert status["status"] == "finished"
     assert status["kind"] == "prompt_draft"
@@ -205,39 +207,47 @@ def test_prompt_and_rubric_version_editors_use_markdown_component(evals_dir, mon
     assert versions.load_prompt("prompt_v2").text.startswith("# Updated prompt")
 
 
-def test_experiment_progress_message_multi_sample():
-    from harness.web import _experiment_progress_message
-
-    assert _experiment_progress_message(
-        "checks",
+def test_job_status_includes_progress(evals_dir, monkeypatch):
+    client = _client(evals_dir, monkeypatch)
+    job_id = jobs.new_job_id()
+    jobs.start_job(
+        job_id,
+        jobs.KIND_EXPERIMENT,
+        status="running",
+        run_id="run_1",
+        samples=3,
+        phase="judge",
         current_sample=2,
         completed_samples=1,
-        samples=5,
-    ) == "Sample 2 of 5 — Running deterministic checks…"
-
-
-def test_chat_experiment_status_includes_progress(evals_dir, monkeypatch):
-    client = _client(evals_dir, monkeypatch)
-    atomic_write_json(web.EVALS_DIR / "experiments" / "experiment_abcdef123456.json", {
-        "experiment_id": "experiment_abcdef123456",
-        "status": "running",
-        "run_id": "run_1",
-        "samples": 3,
-        "phase": "judge",
-        "current_sample": 2,
-        "completed_samples": 1,
-        "message": "Sample 2 of 3 — Judging answer…",
-    })
-    payload = client.get("/chat/experiments/experiment_abcdef123456/status").get_json()
+        message="Sample 2 of 3 — Judging answer…",
+    )
+    payload = client.get(f"/jobs/{job_id}/status").get_json()
     assert payload["status"] == "running"
     assert payload["phase"] == "judge"
     assert payload["current_sample"] == 2
     assert payload["message"] == "Sample 2 of 3 — Judging answer…"
+    assert "query" not in payload
+
+
+def test_job_status_hides_internal_fields(evals_dir, monkeypatch):
+    client = _client(evals_dir, monkeypatch)
+    job_id = jobs.new_job_id()
+    jobs.start_job(
+        job_id,
+        jobs.KIND_EXPERIMENT,
+        query="private query",
+        review_ids=["rev_1"],
+        result={"draft": "secret"},
+    )
+    payload = client.get(f"/jobs/{job_id}/status").get_json()
+    assert "query" not in payload
+    assert "review_ids" not in payload
+    assert "result" not in payload
 
 
 def test_dashboard_pending_runs_have_no_delete_button(evals_dir, monkeypatch):
     client = _client(evals_dir, monkeypatch)
-    atomic_write_json(web.EVALS_DIR / "runs" / "run_pending" / "manifest.json", {
+    atomic_write_json(jobs.JOBS_DIR.parent / "runs" / "run_pending" / "manifest.json", {
         "run_id": "run_pending",
         "case_id": "case",
         "agent_model": config.agent_model(),
@@ -255,7 +265,7 @@ def test_dashboard_pending_runs_have_no_delete_button(evals_dir, monkeypatch):
 
 def test_delete_run_route_rejects_dashboard_origin(evals_dir, monkeypatch):
     client = _client(evals_dir, monkeypatch)
-    atomic_write_json(web.EVALS_DIR / "runs" / "run_1" / "manifest.json", {
+    atomic_write_json(jobs.JOBS_DIR.parent / "runs" / "run_1" / "manifest.json", {
         "run_id": "run_1",
         "case_id": "case",
         "agent_model": config.agent_model(),
@@ -267,26 +277,26 @@ def test_delete_run_route_rejects_dashboard_origin(evals_dir, monkeypatch):
     })
     response = client.post("/runs/run_1/delete")
     assert response.status_code == 302
-    assert (web.EVALS_DIR / "runs" / "run_1").exists()
+    assert (jobs.JOBS_DIR.parent / "runs" / "run_1").exists()
     with client.session_transaction() as session:
         assert "Delete runs from the Runs page" in session["_flashes"][0][1]
 
 
-def test_chat_page_tracks_experiment_status_for_loading_ui(evals_dir, monkeypatch):
+def test_chat_page_tracks_job_status_for_loading_ui(evals_dir, monkeypatch):
     client = _client(evals_dir, monkeypatch)
     body = client.get("/chat").get_data(as_text=True)
-    assert 'name="experiment_id"' in body
+    assert 'name="job_id"' in body
     assert 'data-active-job="experiment"' in body
-    assert "chat_experiment_status" in body or "/chat/experiments/" in body
-    assert "__JOB_ID__" in body
+    assert "/jobs/" in body or 'name="job_id"' in body
 
-    atomic_write_json(web.EVALS_DIR / "experiments" / "experiment_abcdef123456.json", {
-        "experiment_id": "experiment_abcdef123456",
-        "status": "finished",
-        "run_id": "run_1",
-        "samples": 1,
-    })
-    response = client.get("/chat/experiments/experiment_abcdef123456/status")
+    job_id = jobs.new_job_id()
+    jobs.start_job(job_id, jobs.KIND_EXPERIMENT, run_id="run_1")
+    jobs.finish_job(
+        job_id,
+        result={"run_id": "run_1"},
+        result_url="/runs/run_1",
+    )
+    response = client.get(f"/jobs/{job_id}/status")
     assert response.status_code == 200
     payload = response.get_json()
     assert payload["status"] == "finished"

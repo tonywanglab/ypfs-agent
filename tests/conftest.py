@@ -50,9 +50,15 @@ def evals_dir(tmp_path, monkeypatch):
         pass
 
     try:
+        import harness.jobs as jobs_mod
+
+        monkeypatch.setattr(jobs_mod, "JOBS_DIR", new_dir / "jobs")
+    except (ImportError, AttributeError):
+        pass
+
+    try:
         import harness.web as web
 
-        monkeypatch.setattr(web, "EXPERIMENTS_DIR", new_dir / "experiments")
         monkeypatch.setattr(web, "EVALS_DIR", new_dir)
     except (ImportError, AttributeError):
         pass

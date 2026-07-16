@@ -16,9 +16,8 @@
     <form method="post" action="{{ url_for('chat_run') }}" id="experiment-form"
       data-active-job="experiment"
       data-active-job-return="{{ url_for('chat') }}"
-      data-status-url-template="{{ url_for('chat_experiment_status', experiment_id='__JOB_ID__') }}"
-      data-job-id-field="experiment_id">
-      <input type="hidden" name="experiment_id" value="{{ experiment_id }}">
+      data-job-id-field="job_id">
+      <input type="hidden" name="job_id" value="{{ job_id }}">
       <div data-active-job-lock>
         <fieldset>
           <legend>Configuration</legend>

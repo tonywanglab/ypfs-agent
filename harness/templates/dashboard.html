@@ -70,8 +70,7 @@
     {% if prompt_reviews %}
       <form method="post" action="{{ url_for('draft_prompt') }}" class="version-builder"
         data-active-job="prompt_draft"
-        data-active-job-return="{{ url_for('dashboard') }}"
-        data-status-url-template="{{ url_for('job_status', job_id='__JOB_ID__') }}">
+        data-active-job-return="{{ url_for('dashboard') }}">
         <input type="hidden" name="job_id" value="{{ prompt_draft_job_id }}">
         <div class="draft-builder-fields" data-active-job-lock>
           <fieldset class="version-history-picker">
@@ -163,8 +162,7 @@
     {% if rubric_reviews %}
       <form method="post" action="{{ url_for('draft_rubric') }}" class="version-builder"
         data-active-job="rubric_draft"
-        data-active-job-return="{{ url_for('dashboard') }}"
-        data-status-url-template="{{ url_for('job_status', job_id='__JOB_ID__') }}">
+        data-active-job-return="{{ url_for('dashboard') }}">
         <input type="hidden" name="job_id" value="{{ rubric_draft_job_id }}">
         <div class="draft-builder-fields" data-active-job-lock>
           <fieldset class="version-history-picker">
