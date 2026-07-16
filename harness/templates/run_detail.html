@@ -4,40 +4,88 @@
 <div class="page-header">
   <h1>Run {{ run_id }}</h1>
   <div class="meta-chips">
-    <span class="chip"><strong>case</strong> {{ bundle.case.case_id }}</span>
-    <span class="chip"><strong>prompt</strong> {{ bundle.manifest.prompt_id }}</span>
-    <span class="chip"><strong>rubric</strong> {{ bundle.manifest.rubric_id }}</span>
-    {% if bundle.manifest.promotion_blocked %}
-      <span class="badge warn">promotion blocked</span>
+    <span class="header-chip" title="Case">{{ bundle.case.case_id }}</span>
+    <a class="header-chip header-chip-version" href="{{ url_for('edit_prompt_version', prompt_id=bundle.manifest.prompt_id) }}"
+      title="Prompt {{ bundle.manifest.prompt_id }}">{{ bundle.manifest.prompt_id }}</a>
+    <a class="header-chip header-chip-version" href="{{ url_for('edit_rubric_version', rubric_id=bundle.manifest.rubric_id) }}"
+      title="Rubric {{ bundle.manifest.rubric_id }}">{{ bundle.manifest.rubric_id }}</a>
+    <span class="header-chip" title="Worker model: {{ bundle.manifest.agent_model }}">
+      <span aria-hidden="true">👷</span>
+      {{ bundle.manifest.agent_model.split('/')|last }}
+    </span>
+    <span class="header-chip" title="Judge model: {{ bundle.manifest.judge_model }}">
+      <span aria-hidden="true">⚖️</span>
+      {{ bundle.manifest.judge_model.split('/')|last }}
+    </span>
+    {% if bundle.manifest.hard_failure %}
+      <span class="badge warn">hard failure</span>
+    {% endif %}
+    {% if sample_count > 1 %}
+      <span class="header-chip" title="Independent samples in this run">{{ sample_count }} samples</span>
     {% endif %}
   </div>
 </div>
+
+{% if sample_count > 1 %}
+<nav class="sample-switcher" aria-label="Samples">
+  {% for s in bundle.samples %}
+    {% set judge_fails = s.judgment.criteria | selectattr('verdict', 'equalto', 'fail') | list %}
+    <a
+      href="{{ url_for('run_detail', run_id=run_id, sample='%02d' % s.index) }}"
+      class="sample-tab{% if s.index == selected_sample %} is-active{% endif %}{% if s.hard_failure or judge_fails %} has-issue{% endif %}"
+      aria-current="{{ 'page' if s.index == selected_sample else 'false' }}"
+    >
+      Sample {{ s.index }}
+      {% if s.hard_failure %}
+        <span class="badge warn" title="Hard failure">!</span>
+      {% elif judge_fails %}
+        <span class="badge fail" title="Judge failures">{{ judge_fails | length }}</span>
+      {% endif %}
+    </a>
+  {% endfor %}
+</nav>
+{% endif %}
 
 <section>
   <h2>Query</h2>
   <pre class="block">{{ bundle.case.prompt }}</pre>
 </section>
 
-<section>
-  <h2>Answer</h2>
-  <pre class="block answer">{{ bundle.answer }}</pre>
+<section class="collapsible-section">
+  <div class="section-head">
+    <h2>Answer</h2>
+    <button type="button" class="collapsible-toggle" aria-expanded="false" aria-controls="run-answer" data-expand-label="Show full answer" data-collapse-label="Collapse answer" hidden>
+      Show full answer
+    </button>
+  </div>
+  <div id="run-answer" class="answer collapsible-window is-collapsed markdown-body">{{ bundle.answer | markdown | safe }}</div>
 </section>
 
 <section>
   <div class="section-head">
     <h2>Deterministic checks</h2>
-    {% if bundle.manifest.promotion_blocked %}
+    {% if bundle.manifest.hard_failure %}
       <span class="badge warn">Hard failure</span>
     {% endif %}
   </div>
+  {% set hard_failures = bundle.checks | selectattr('hard_failure') | rejectattr('passed') | list %}
+  {% if hard_failures %}
+    <div class="warn-banner hard-failure-message" role="alert">
+      {% for c in hard_failures %}
+        <p>
+          <strong>{{ c.check_id }}</strong>
+          <span>{{ c.evidence }}</span>
+        </p>
+      {% endfor %}
+    </div>
+  {% endif %}
   <table>
-    <thead><tr><th>Check</th><th>Passed</th><th>Hard</th><th>Evidence</th></tr></thead>
+    <thead><tr><th>Check</th><th>Passed</th><th>Evidence</th></tr></thead>
     <tbody>
       {% for c in bundle.checks %}
         <tr class="{{ 'fail' if not c.passed else '' }}">
           <td>{{ c.check_id }}</td>
           <td><span class="badge {% if c.passed %}ok{% else %}fail{% endif %}">{{ c.passed }}</span></td>
-          <td>{{ c.hard_failure }}</td>
           <td>{{ c.evidence }}</td>
         </tr>
       {% endfor %}
@@ -46,17 +94,7 @@
 </section>
 
 <section>
-  <h2>Checklist (generated before answer)</h2>
-  <p class="muted">{{ bundle.checklist.evaluator_search_summary }}</p>
-  <ul class="item-list">
-    {% for item in bundle.checklist['items'] %}
-      <li><strong>{{ item.criterion_id }}</strong> <span class="muted">{{ item.instruction }}</span></li>
-    {% endfor %}
-  </ul>
-</section>
-
-<section>
-  <h2>Judge assessment</h2>
+  <h2>Direct rubric assessment</h2>
   <p>{{ bundle.judgment.summary }}</p>
   {% if bundle.judgment.failure_feedback %}
     <pre class="block">{{ bundle.judgment.failure_feedback }}</pre>
@@ -66,8 +104,13 @@
     <tbody>
       {% for c in bundle.judgment['criteria'] %}
         <tr class="{{ 'fail' if c.verdict == 'fail' else '' }}">
-          <td>{{ c.criterion_id }}</td>
-          <td><span class="badge {% if c.verdict == 'fail' %}fail{% else %}ok{% endif %}">{{ c.verdict }}</span></td>
+          <td>
+            <strong>{{ c.criterion_id }}</strong>
+            {% if criteria_by_id.get(c.criterion_id) %}
+              <span class="diff-fields">{{ criteria_by_id[c.criterion_id].description }}</span>
+            {% endif %}
+          </td>
+          <td><span class="badge {% if c.verdict == 'fail' %}fail{% elif c.verdict == 'uncertain' %}uncertain{% else %}ok{% endif %}">{{ c.verdict }}</span></td>
           <td>{{ c.evidence }}</td>
         </tr>
       {% endfor %}
@@ -76,30 +119,96 @@
 </section>
 
 <section>
-  <h2>Trace</h2>
-  <details class="collapsible">
-    <summary>Expand tool trace</summary>
-    <pre class="block trace">{{ bundle.trace | tojson(indent=2) }}</pre>
-  </details>
+  <div class="section-head">
+    <h2>Trace</h2>
+    {% if trace_events %}
+      <span class="count-badge">{{ trace_events | length }}</span>
+    {% endif %}
+  </div>
+  {% if trace_events %}
+    <ol class="trace-timeline">
+      {% for event in trace_events %}
+        <li class="trace-event trace-event-{{ event.kind }}{% if event.status == 'error' %} is-error{% endif %}">
+          <details>
+            <summary>
+              <span class="trace-event-kind">{{ event.kind }}</span>
+              <span class="trace-event-body">
+                <span class="trace-event-label">{{ event.label }}</span>
+                {% if event.summary %}
+                  <span class="trace-event-summary">{{ event.summary }}</span>
+                {% endif %}
+                {% if event.result_summary %}
+                  <span class="trace-event-result">{{ event.result_summary }}</span>
+                {% endif %}
+              </span>
+            </summary>
+            <pre class="trace-event-detail">{{ event.detail }}</pre>
+          </details>
+        </li>
+      {% endfor %}
+    </ol>
+  {% else %}
+    <p class="empty-state compact">No tool calls in this run.</p>
+  {% endif %}
 </section>
 
 {% if existing_reviews %}
-<section>
+<section id="existing-reviews">
   <h2>Existing reviews</h2>
   {% for r in existing_reviews %}
     <div class="review-card">
       <p>
         <span class="badge {% if r.verdict == 'acceptable' %}ok{% else %}fail{% endif %}">{{ r.verdict }}</span>
-        <span class="muted">{{ r.failure_attribution }}</span> — {{ r.primary_problem }}
+        {% if r.failure_attribution %}<span class="muted">{{ r.failure_attribution }}</span> —{% endif %} {{ r.primary_problem }}
       </p>
       {% if r.notes %}<p class="muted">{{ r.notes }}</p>{% endif %}
     </div>
   {% endfor %}
 </section>
-{% else %}
-<section>
-  <h2>Supervisor review</h2>
-  <form method="post" action="{{ url_for('submit_review', run_id=run_id) }}" class="review-form">
+{% endif %}
+
+<section class="supervisor-review-section">
+  <h2>{% if existing_reviews %}Add review{% else %}Supervisor review{% endif %}</h2>
+  <form method="post" action="{{ url_for('submit_review', run_id=run_id) }}" class="review-form" id="reviews-form">
+    <div id="review-entries" class="review-entries">
+      <fieldset class="review-entry">
+        <legend>Review 1</legend>
+        <label>Verdict
+          <select name="verdict" required>
+            <option value="acceptable">acceptable</option>
+            <option value="unacceptable">unacceptable</option>
+          </select>
+        </label>
+        <label>Primary problem
+          <input type="text" name="primary_problem" placeholder="One-line summary">
+        </label>
+        <label>What should change? (required only if unacceptable)
+          <select name="failure_attribution">
+            <option value="">Nothing</option>
+            <option value="prompt_issue">Agent system prompt</option>
+            <option value="rubric_issue">Judge rubric</option>
+            <option value="invalid_run">Invalid run / infrastructure</option>
+          </select>
+        </label>
+        <label>Missing considerations (one per line)
+          <textarea name="missing_considerations" rows="3"></textarea>
+        </label>
+        <label>Notes
+          <textarea name="notes" rows="3"></textarea>
+        </label>
+        <button type="button" class="review-remove" hidden>Remove</button>
+      </fieldset>
+    </div>
+    <div class="form-actions">
+      <button type="button" class="review-add">Add another review</button>
+      <button type="submit" class="primary">Save review(s)</button>
+    </div>
+  </form>
+</section>
+
+<template id="review-entry-template">
+  <fieldset class="review-entry">
+    <legend>Review</legend>
     <label>Verdict
       <select name="verdict" required>
         <option value="acceptable">acceptable</option>
@@ -109,13 +218,12 @@
     <label>Primary problem
       <input type="text" name="primary_problem" placeholder="One-line summary">
     </label>
-    <label>Failure attribution
+    <label>What should change? (required only if unacceptable)
       <select name="failure_attribution">
-        <option value="agent_failure">agent_failure</option>
-        <option value="rubric_gap">rubric_gap</option>
-        <option value="judge_failure">judge_failure</option>
-        <option value="retrieval_failure">retrieval_failure</option>
-        <option value="ambiguous">ambiguous</option>
+        <option value="">Nothing</option>
+        <option value="prompt_issue">Agent system prompt</option>
+        <option value="rubric_issue">Judge rubric</option>
+        <option value="invalid_run">Invalid run / infrastructure</option>
       </select>
     </label>
     <label>Missing considerations (one per line)
@@ -124,10 +232,7 @@
     <label>Notes
       <textarea name="notes" rows="3"></textarea>
     </label>
-    <div class="form-actions">
-      <button type="submit" class="primary">Save review</button>
-    </div>
-  </form>
-</section>
-{% endif %}
+    <button type="button" class="review-remove">Remove</button>
+  </fieldset>
+</template>
 {% endblock %}

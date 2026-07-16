@@ -1,8 +1,8 @@
 {% extends "base.html" %}
-{% block title %}Chat — Eval Harness{% endblock %}
+{% block title %}Experiment — Eval Harness{% endblock %}
 {% block content %}
 <h1>Start a run</h1>
-<p class="muted">Submit a query through the full evaluation pipeline: agent → checks → checklist → judge.</p>
+<p class="muted">Choose the two experimental variables: agent system prompt and judge rubric.</p>
 
 {% if not openrouter_configured %}
 <section class="warn-banner">
@@ -13,86 +13,110 @@
 
 <div class="chat-layout">
   <aside class="chat-config">
-    <form method="post" action="{{ url_for('chat_run') }}" id="launch-form">
-      <fieldset>
-        <legend>Configuration</legend>
+    <form method="post" action="{{ url_for('chat_run') }}" id="experiment-form"
+      data-active-job="experiment"
+      data-active-job-return="{{ url_for('chat') }}"
+      data-status-url-template="{{ url_for('chat_experiment_status', experiment_id='__JOB_ID__') }}"
+      data-job-id-field="experiment_id">
+      <input type="hidden" name="experiment_id" value="{{ experiment_id }}">
+      <div data-active-job-lock>
+        <fieldset>
+          <legend>Configuration</legend>
 
-        <label>
-          System prompt
-          <select name="prompt_id" required>
-            {% for p in prompts %}
-              <option value="{{ p.prompt_id }}"
-                {% if p.prompt_id == selected_prompt_id %}selected{% endif %}>
-                {{ p.prompt_id }} (v{{ p.version }}, {{ p.status }})
-              </option>
+          <label>
+            System prompt
+            <select name="prompt_id" required>
+              {% for p in prompts %}
+                <option value="{{ p.prompt_id }}"
+                  {% if p.prompt_id == selected_prompt_id %}selected{% endif %}>
+                  {{ p.prompt_id }}
+                </option>
+              {% endfor %}
+            </select>
+          </label>
+
+          <label>
+            Rubric
+            <select name="rubric_id" required>
+              {% for r in rubrics %}
+                <option value="{{ r.rubric_id }}"
+                  {% if r.rubric_id == selected_rubric_id %}selected{% endif %}>
+                  {{ r.rubric_id }}
+                </option>
+              {% endfor %}
+            </select>
+          </label>
+
+          <label class="samples-control">
+            <span class="samples-label-row">
+              <span>Samples</span>
+              <output class="samples-value" id="samples-value" for="samples-range">{{ default_samples }}</output>
+            </span>
+            <input
+              type="range"
+              id="samples-range"
+              name="samples"
+              min="1"
+              max="20"
+              step="1"
+              value="{{ default_samples }}"
+              required
+              aria-describedby="samples-hint"
+            >
+            <span class="muted samples-hint" id="samples-hint">Repeat the same query this many times.</span>
+          </label>
+        </fieldset>
+
+        <label class="chat-query-label">
+          Query
+          <textarea name="query" rows="6" required placeholder="Ask the agent a policy question…"></textarea>
+        </label>
+
+        {% if cases %}
+        <details class="case-picker">
+          <summary>Load a seed case</summary>
+          <ul class="item-list">
+            {% for c in cases %}
+              <li>
+                <button type="button" class="case-load" data-case-id="{{ c.case_id }}">
+                  {{ c.case_id }}
+                </button>
+              </li>
             {% endfor %}
-          </select>
-        </label>
+          </ul>
+        </details>
+        {% endif %}
+      </div>
 
-        <label>
-          Rubric
-          <select name="rubric_id" required>
-            {% for r in rubrics %}
-              <option value="{{ r.rubric_id }}"
-                {% if r.rubric_id == selected_rubric_id %}selected{% endif %}>
-                {{ r.rubric_id }} (v{{ r.version }}, {{ r.status }})
-              </option>
-            {% endfor %}
-          </select>
-        </label>
-
-        <label>
-          Model
-          <select name="model" required>
-            {% for m in models %}
-              <option value="{{ m.slug }}"
-                {% if m.slug == selected_model %}selected{% endif %}>
-                {{ m.label }}
-              </option>
-            {% endfor %}
-          </select>
-        </label>
-
-        <label>
-          Samples
-          <input type="number" name="samples" value="{{ default_samples }}" min="1" max="20" required>
-          <span class="muted">Repeat the same query this many times.</span>
-        </label>
-      </fieldset>
-
-      <label class="chat-query-label">
-        Query
-        <textarea name="query" rows="6" required placeholder="Ask the agent a policy question…"></textarea>
-      </label>
-
-      {% if cases %}
-      <details class="case-picker">
-        <summary>Load a seed case</summary>
-        <ul class="item-list">
-          {% for c in cases %}
-            <li>
-              <button type="button" class="case-load" data-case-id="{{ c.case_id }}">
-                {{ c.case_id }}
-              </button>
-            </li>
-          {% endfor %}
-        </ul>
-      </details>
-      {% endif %}
-
-      <button type="submit" class="primary chat-submit">Run evaluation</button>
+      <div class="chat-submit-row">
+        <button type="submit" class="primary chat-submit" id="chat-submit" data-active-job-submit>
+          <span class="chat-submit-content">
+            <span class="chat-submit-spinner" aria-hidden="true"></span>
+            <span class="chat-submit-label" data-active-job-submit-label>Run evaluation</span>
+          </span>
+        </button>
+        <div class="chat-submit-status-row">
+          <div class="chat-submit-status" id="chat-submit-status" data-active-job-status role="status" aria-live="polite" hidden>
+            <strong data-active-job-status-title></strong>
+            <span data-active-job-status-detail></span>
+          </div>
+          <button type="button" class="chat-status-reset" id="chat-status-reset" data-active-job-reset hidden>Clear status</button>
+        </div>
+      </div>
     </form>
   </aside>
 
   <section class="chat-help">
     <h2>How it works</h2>
     <ul class="item-list">
-      <li>Each sample runs with empty history and your selected prompt, rubric, and model.</li>
+      <li>Each sample runs with empty history and the selected prompt/rubric pair.</li>
+      <li>The agent is fixed to <code>{{ fixed_agent_model }}</code>.</li>
+      <li>The direct judge is fixed to <code>{{ fixed_judge_model }}</code>.</li>
       <li>Versioned prompts and rubrics come from <code>evals/prompts/</code> and <code>evals/rubrics/</code>.</li>
-      <li>Multiple samples produce a batch summary; a single sample opens the run detail page.</li>
+      <li>Multiple samples live in one run — switch between them on the run detail page.</li>
       <li>Runs appear on the Runs page and can be reviewed from the dashboard.</li>
     </ul>
-    <p class="meta">Active defaults: prompt={{ active_prompt_id }} · rubric={{ active_rubric_id }}</p>
+    <p class="meta">Form defaults: prompt={{ selected_prompt_id }} · rubric={{ selected_rubric_id }}</p>
   </section>
 </div>
 

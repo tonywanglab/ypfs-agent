@@ -8,5 +8,6 @@ requests
 pinecone
 google-genai
 flask
+markdown>=3.7
 gunicorn
 flask-limiter

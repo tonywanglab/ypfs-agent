@@ -1,0 +1,49 @@
+{#
+  Reusable live Markdown source + preview editor.
+
+  Usage:
+    {% from "macros/markdown_editor.html" import markdown_editor %}
+    {{ markdown_editor(
+         name="prompt_text",
+         value=prompt.text,
+         label="Editable prompt text",
+         editor_id="prompt-text-editor",
+         required=true
+       ) }}
+#}
+{% macro markdown_editor(
+  name,
+  value,
+  label="Editable markdown",
+  editor_id=None,
+  rows=32,
+  required=false,
+  source_label="Markdown",
+  preview_label="Rendered preview",
+  textarea_class=""
+) %}
+{% set input_id = editor_id or (name ~ "-editor") %}
+<div class="markdown-editor" data-markdown-editor data-preview-url="{{ url_for('markdown_preview') }}">
+  <div class="markdown-editor-pane">
+    <div class="markdown-editor-pane-head">
+      <label for="{{ input_id }}">{{ label }}</label>
+      <span>{{ source_label }}</span>
+    </div>
+    <textarea
+      id="{{ input_id }}"
+      name="{{ name }}"
+      rows="{{ rows }}"
+      data-markdown-input
+      {% if required %}required{% endif %}
+      {% if textarea_class %}class="{{ textarea_class }}"{% endif %}
+    >{{ value }}</textarea>
+  </div>
+  <div class="markdown-preview-pane">
+    <div class="markdown-editor-pane-head">
+      <span>{{ preview_label }}</span>
+      <span data-preview-status role="status" aria-live="polite">Synced</span>
+    </div>
+    <div class="markdown-body markdown-editor-preview" data-markdown-preview>{{ value | markdown | safe }}</div>
+  </div>
+</div>
+{% endmacro %}

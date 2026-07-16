@@ -3,151 +3,248 @@
 {% block content %}
 <div class="page-header">
   <h1>Supervisor dashboard</h1>
-  <p class="meta">Review runs, approve rubric changes, and promote prompt candidates.</p>
+  <p class="meta">Review runs and deliberately create immutable prompt or rubric versions.</p>
 </div>
 
 <section>
   <div class="section-head">
-    <h2>Pending run reviews <span class="count-badge">{{ pending_runs|length }}</span></h2>
+    <h2>Pending runs to review <span class="count-badge">{{ pending_runs|length }}</span></h2>
   </div>
   {% if pending_runs %}
     <ul class="item-list">
       {% for run in pending_runs %}
-        <li>
-          <a href="{{ url_for('run_detail', run_id=run.run_id) }}">{{ run.run_id }}</a>
-          <span class="muted">case {{ run.case_id }} · {{ run.role }}</span>
-          {% if run.promotion_blocked %}<span class="badge warn">blocked</span>{% endif %}
+        <li class="dashboard-list-row">
+          <div class="dashboard-list-content">
+            <a href="{{ url_for('run_detail', run_id=run.run_id) }}">{{ run.run_id }}</a>
+            <span class="chip">{{ run.prompt_id }}, {{ run.rubric_id }}</span>
+            <span class="muted">{{ run.case_id }}</span>
+            {% if run.hard_failure %}<span class="badge warn">hard failure</span>{% endif %}
+            <time class="muted run-date-inline" datetime="{{ run.created_at }}" data-local-datetime="{{ run.created_at }}" title="{{ run.created_at }}">
+              <span class="run-date-day">{{ run.created_at[:10] }}</span>
+              <span class="run-date-time">{{ run.created_at[11:16] }} UTC</span>
+            </time>
+          </div>
         </li>
       {% endfor %}
     </ul>
   {% else %}
-    <p class="empty-state">No runs awaiting review. All caught up.</p>
+    <p class="empty-state">No runs awaiting review.</p>
   {% endif %}
 </section>
 
 <section>
   <div class="section-head">
-    <h2>Rubric proposals <span class="count-badge">{{ proposals|length }}</span></h2>
+    <h2>Open reviews <span class="count-badge">{{ open_reviews|length }}</span></h2>
   </div>
-  {% if proposals %}
+  {% if open_reviews %}
     <ul class="item-list">
-      {% for p in proposals %}
-        {% if p.status == 'proposed' %}
-          <li>
-            <a href="{{ url_for('rubric_proposal', proposal_id=p.rubric_id) }}">{{ p.rubric_id }}</a>
-            <span class="muted">v{{ p.version }}</span>
-            <span class="badge neutral">{{ p.status }}</span>
+      {% for review in open_reviews %}
+        <li class="dashboard-list-row">
+          <div class="dashboard-list-content">
+            <a href="{{ url_for('run_detail', run_id=review.run_id) }}#existing-reviews">
+              {{ review.primary_problem or 'Review' }}
+            </a>
+            <span class="badge {% if review.verdict == 'acceptable' %}ok{% else %}fail{% endif %}">{{ review.verdict }}</span>
+            {% if review.failure_attribution %}<span class="badge neutral">{{ review.failure_attribution }}</span>{% endif %}
+            <span class="muted">{{ review.review_id }}</span>
+          </div>
+          <form method="post" action="{{ url_for('delete_review_route', review_id=review.review_id) }}"
+            data-confirm="Delete review {{ review.review_id }}?">
+            <button type="submit" class="subtle-danger">Delete</button>
+          </form>
+        </li>
+      {% endfor %}
+    </ul>
+  {% else %}
+    <p class="empty-state">No open reviews.</p>
+  {% endif %}
+</section>
+
+<div class="dashboard-grid">
+  <section class="version-card">
+    <div class="section-head">
+      <div>
+        <h2>Prompt versions <span class="count-badge">{{ prompts|length }}</span></h2>
+      </div>
+    </div>
+    {% if prompt_reviews %}
+      <form method="post" action="{{ url_for('draft_prompt') }}" class="version-builder"
+        data-active-job="prompt_draft"
+        data-active-job-return="{{ url_for('dashboard') }}"
+        data-status-url-template="{{ url_for('job_status', job_id='__JOB_ID__') }}">
+        <input type="hidden" name="job_id" value="{{ prompt_draft_job_id }}">
+        <div class="draft-builder-fields" data-active-job-lock>
+          <fieldset class="version-history-picker">
+            <legend class="visually-hidden">Base prompt version</legend>
+            <ul class="item-list version-history">
+              {% for prompt in prompts|reverse %}
+                <li class="version-history-item">
+                  {% if prompt.rationale %}
+                    <details>
+                      <summary>
+                        <span class="version-history-line">
+                          <input type="radio" name="base_id" value="{{ prompt.prompt_id }}"
+                            {% if loop.first %}checked{% endif %} required
+                            data-stop-details-toggle
+                            aria-label="Use {{ prompt.prompt_id }} as base">
+                          <strong>{{ prompt.prompt_id }}</strong>
+                          {% if loop.first %}<span class="badge neutral">latest</span>{% endif %}
+                        </span>
+                      </summary>
+                      <p class="muted version-history-rationale">{{ prompt.rationale }}</p>
+                    </details>
+                  {% else %}
+                    <label class="version-history-line version-history-pick">
+                      <input type="radio" name="base_id" value="{{ prompt.prompt_id }}"
+                        {% if loop.first %}checked{% endif %} required>
+                      <strong>{{ prompt.prompt_id }}</strong>
+                      {% if loop.first %}<span class="badge neutral">latest</span>{% endif %}
+                    </label>
+                  {% endif %}
+                </li>
+              {% endfor %}
+            </ul>
+          </fieldset>
+          <fieldset class="review-picker">
+            <legend>Reviews to use</legend>
+            <div class="review-options">
+              {% for review in prompt_reviews %}
+                <label class="review-option">
+                  <input type="checkbox" name="review_ids" value="{{ review.review_id }}">
+                  <span>{{ review.primary_problem or review.review_id }}</span>
+                </label>
+              {% endfor %}
+            </div>
+          </fieldset>
+        </div>
+        <button type="submit" class="primary draft-submit" data-active-job-submit>
+          <span class="button-spinner" aria-hidden="true"></span>
+          <span class="draft-submit-label" data-active-job-submit-label>Generate editable prompt draft</span>
+        </button>
+        <div class="draft-status" data-active-job-status role="status" aria-live="polite" hidden>
+          <strong data-active-job-status-title>Generating new prompt…</strong>
+          <span data-active-job-status-detail>Base version and reviews are locked until generation completes.</span>
+        </div>
+        <button type="button" class="chat-status-reset" data-active-job-reset hidden>Clear status</button>
+      </form>
+    {% else %}
+      <ul class="item-list version-history">
+        {% for prompt in prompts|reverse %}
+          <li class="version-history-item">
+            {% if prompt.rationale %}
+              <details>
+                <summary>
+                  <span class="version-history-line">
+                    <strong>{{ prompt.prompt_id }}</strong>
+                    {% if loop.first %}<span class="badge neutral">latest</span>{% endif %}
+                  </span>
+                </summary>
+                <p class="muted version-history-rationale">{{ prompt.rationale }}</p>
+              </details>
+            {% else %}
+              <span class="version-history-line">
+                <strong>{{ prompt.prompt_id }}</strong>
+                {% if loop.first %}<span class="badge neutral">latest</span>{% endif %}
+              </span>
+            {% endif %}
           </li>
-        {% endif %}
-      {% endfor %}
-    </ul>
-  {% else %}
-    <p class="empty-state">No rubric proposals in flight.</p>
-  {% endif %}
-
-  {% set rubric_reviews = reviews | selectattr('verdict', 'equalto', 'unacceptable') | selectattr('failure_attribution', 'in', ['rubric_gap', 'judge_failure']) | list %}
-  {% if rubric_reviews %}
-    <form method="post" action="{{ url_for('create_rubric_proposal') }}" class="inline-form">
-      <p class="muted">Start rubric cycle from reviews:</p>
-      <div class="checkbox-group">
-        {% for r in rubric_reviews %}
-          <label><input type="checkbox" name="review_ids" value="{{ r.review_id }}"> {{ r.review_id }} ({{ r.failure_attribution }})</label>
         {% endfor %}
-      </div>
-      <div class="form-actions">
-        <button type="submit" {% if locked_branch == 'prompt' %}disabled title="Prompt cycle is open"{% endif %}>Propose rubric</button>
-      </div>
-      {% if locked_branch == 'prompt' %}
-        <p class="cycle-hint">Prompt cycle is open — finish or deny it before starting a rubric cycle.</p>
-      {% endif %}
-    </form>
-  {% endif %}
-</section>
+      </ul>
+      <p class="empty-state compact">No open prompt-issue reviews available.</p>
+    {% endif %}
+  </section>
 
-<section>
-  <div class="section-head">
-    <h2>Prompt candidates <span class="count-badge">{{ prompt_candidates|length }}</span></h2>
-  </div>
-  {% if prompt_candidates %}
-    <ul class="item-list">
-      {% for c in prompt_candidates %}
-        {% if c.status == 'candidate' %}
-          <li><a href="{{ url_for('prompt_candidate', prompt_id=c.prompt_id) }}">{{ c.prompt_id }}</a> — v{{ c.version }}</li>
-        {% endif %}
-      {% endfor %}
-    </ul>
-  {% else %}
-    <p class="empty-state">No prompt candidates yet.</p>
-  {% endif %}
-
-  {% set agent_reviews = reviews | selectattr('verdict', 'equalto', 'unacceptable') | selectattr('failure_attribution', 'equalto', 'agent_failure') | list %}
-  {% if agent_reviews %}
-    <form method="post" action="{{ url_for('create_prompt_proposal') }}" class="inline-form">
-      <p class="muted">Start prompt cycle from reviews:</p>
-      <div class="checkbox-group">
-        {% for r in agent_reviews %}
-          <label><input type="checkbox" name="review_ids" value="{{ r.review_id }}"> {{ r.review_id }}</label>
+  <section class="version-card">
+    <div class="section-head">
+      <div>
+        <h2>Rubric versions <span class="count-badge">{{ rubrics|length }}</span></h2>
+      </div>
+    </div>
+    {% if rubric_reviews %}
+      <form method="post" action="{{ url_for('draft_rubric') }}" class="version-builder"
+        data-active-job="rubric_draft"
+        data-active-job-return="{{ url_for('dashboard') }}"
+        data-status-url-template="{{ url_for('job_status', job_id='__JOB_ID__') }}">
+        <input type="hidden" name="job_id" value="{{ rubric_draft_job_id }}">
+        <div class="draft-builder-fields" data-active-job-lock>
+          <fieldset class="version-history-picker">
+            <legend class="visually-hidden">Base rubric version</legend>
+            <ul class="item-list version-history">
+              {% for rubric in rubrics|reverse %}
+                <li class="version-history-item">
+                  {% if rubric.rationale %}
+                    <details>
+                      <summary>
+                        <span class="version-history-line">
+                          <input type="radio" name="base_id" value="{{ rubric.rubric_id }}"
+                            {% if loop.first %}checked{% endif %} required
+                            data-stop-details-toggle
+                            aria-label="Use {{ rubric.rubric_id }} as base">
+                          <strong>{{ rubric.rubric_id }}</strong>
+                          {% if loop.first %}<span class="badge neutral">latest</span>{% endif %}
+                        </span>
+                      </summary>
+                      <p class="muted version-history-rationale">{{ rubric.rationale }}</p>
+                    </details>
+                  {% else %}
+                    <label class="version-history-line version-history-pick">
+                      <input type="radio" name="base_id" value="{{ rubric.rubric_id }}"
+                        {% if loop.first %}checked{% endif %} required>
+                      <strong>{{ rubric.rubric_id }}</strong>
+                      {% if loop.first %}<span class="badge neutral">latest</span>{% endif %}
+                    </label>
+                  {% endif %}
+                </li>
+              {% endfor %}
+            </ul>
+          </fieldset>
+          <fieldset class="review-picker">
+            <legend>Reviews to use</legend>
+            <div class="review-options">
+              {% for review in rubric_reviews %}
+                <label class="review-option">
+                  <input type="checkbox" name="review_ids" value="{{ review.review_id }}">
+                  <span>{{ review.primary_problem or review.review_id }}</span>
+                </label>
+              {% endfor %}
+            </div>
+          </fieldset>
+        </div>
+        <button type="submit" class="primary draft-submit" data-active-job-submit>
+          <span class="button-spinner" aria-hidden="true"></span>
+          <span class="draft-submit-label" data-active-job-submit-label>Generate editable rubric draft</span>
+        </button>
+        <div class="draft-status" data-active-job-status role="status" aria-live="polite" hidden>
+          <strong data-active-job-status-title>Generating new rubric…</strong>
+          <span data-active-job-status-detail>Base version and reviews are locked until generation completes.</span>
+        </div>
+        <button type="button" class="chat-status-reset" data-active-job-reset hidden>Clear status</button>
+      </form>
+    {% else %}
+      <ul class="item-list version-history">
+        {% for rubric in rubrics|reverse %}
+          <li class="version-history-item">
+            {% if rubric.rationale %}
+              <details>
+                <summary>
+                  <span class="version-history-line">
+                    <strong>{{ rubric.rubric_id }}</strong>
+                    {% if loop.first %}<span class="badge neutral">latest</span>{% endif %}
+                  </span>
+                </summary>
+                <p class="muted version-history-rationale">{{ rubric.rationale }}</p>
+              </details>
+            {% else %}
+              <span class="version-history-line">
+                <strong>{{ rubric.rubric_id }}</strong>
+                {% if loop.first %}<span class="badge neutral">latest</span>{% endif %}
+              </span>
+            {% endif %}
+          </li>
         {% endfor %}
-      </div>
-      <div class="form-actions">
-        <button type="submit" {% if locked_branch == 'rubric' %}disabled title="Rubric cycle is open"{% endif %}>Propose prompt</button>
-      </div>
-      {% if locked_branch == 'rubric' %}
-        <p class="cycle-hint">Rubric cycle is open — approve or deny the proposal first.</p>
-      {% endif %}
-    </form>
-  {% endif %}
-</section>
-
-<section>
-  <div class="section-head">
-    <h2>A/B promotions <span class="count-badge">{{ promotions|length }}</span></h2>
-  </div>
-  {% if promotions %}
-    <ul class="item-list">
-      {% for p in promotions %}
-        <li>
-          <a href="{{ url_for('promotion_detail', promotion_id=p.promotion_id) }}">{{ p.promotion_id }}</a>
-          <span class="muted">candidate {{ p.candidate_prompt_id }}</span>
-          <span class="badge {% if p.status == 'pending' %}warn{% else %}neutral{% endif %}">{{ p.status }}</span>
-        </li>
-      {% endfor %}
-    </ul>
-  {% else %}
-    <p class="empty-state">No A/B promotions yet.</p>
-  {% endif %}
-
-  {% set candidates_open = prompt_candidates | selectattr('status', 'equalto', 'candidate') | list %}
-  {% if candidates_open %}
-    <form method="post" action="{{ url_for('create_promotion') }}" class="inline-form">
-      <p class="muted">Run blind A/B for candidate:</p>
-      <select name="candidate_prompt_id">
-        {% for c in candidates_open %}
-          <option value="{{ c.prompt_id }}">{{ c.prompt_id }}</option>
-        {% endfor %}
-      </select>
-      <div class="checkbox-group">
-        <label><input type="checkbox" name="case_ids" value="broad_based_emergency_lending" checked> broad lending</label>
-        <label><input type="checkbox" name="case_ids" value="insurer_liquidity_plan"> insurer</label>
-        <label><input type="checkbox" name="case_ids" value="private_debt_fund_contagion"> private debt</label>
-        <label><input type="checkbox" name="case_ids" value="ai_collateral_shock"> AI collateral</label>
-      </div>
-      <div class="form-actions">
-        <button type="submit" {% if locked_branch == 'rubric' %}disabled{% endif %}>Start A/B</button>
-      </div>
-    </form>
-  {% endif %}
-</section>
-
-{% if pending_queue.rubric or pending_queue.prompt %}
-<section>
-  <div class="section-head">
-    <h2>Queued for next cycle</h2>
-  </div>
-  <div class="meta-chips">
-    <span class="chip"><strong>rubric</strong> {{ pending_queue.rubric | join(', ') or '—' }}</span>
-    <span class="chip"><strong>prompt</strong> {{ pending_queue.prompt | join(', ') or '—' }}</span>
-  </div>
-</section>
-{% endif %}
+      </ul>
+      <p class="empty-state compact">No open rubric-issue reviews available.</p>
+    {% endif %}
+  </section>
+</div>
 {% endblock %}

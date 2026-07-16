@@ -1,8 +1,7 @@
 """Deterministic, pure gate checks over (answer, messages).
 
-These never call a model and never touch the network. A hard_failure blocks
-promotion outright, but the judge still runs afterward so the update loop
-gets a full diagnostic picture rather than a truncated one.
+These never call a model and never touch the network. The judge still runs
+after a hard failure so the supervisor gets a complete diagnostic picture.
 
 Citation detection uses the corpus's doc_id shape (volN_issM_K) directly in
 the answer text rather than a specific bracket format, since the current

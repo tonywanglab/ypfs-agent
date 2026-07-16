@@ -1,346 +1,294 @@
-from __future__ import annotations
-
-import json
-
-import pytest
-
-from harness import candidates, llm, registry, reviews
-from harness.models import Case, PromptVersion
-import harness.runner as runner
-from harness.runner import run_case
-from harness.seed import load_cases, seed_all
+from harness import config, reviews, seed, versions, web
+from harness.models import RunManifest
 from harness.storage import atomic_write_json
-from harness.web import create_app
 
 
-@pytest.fixture()
-def client(evals_dir, monkeypatch):
-    seed_all()
+def _client(evals_dir, monkeypatch):
+    seed.seed_all()
+    monkeypatch.setenv("OPENROUTER_API_KEY", "test")
+    return web.create_app().test_client()
 
-    def fake_agent(user_msg, history=None, model="m", system_prompt=None):
-        return "Option A and Option B with tradeoffs.", []
 
-    def fake_checklist(case_prompt, case_id, rubric, model):
-        from harness.models import Checklist
-        return Checklist(
-            checklist_id="chk_ui", case_id=case_id, rubric_id=rubric.rubric_id,
-            model=model, items=[], evaluator_search_summary="s",
-            evaluator_doc_ids=[], created_at="t",
+def test_chat_exposes_only_prompt_and_rubric_variables(evals_dir, monkeypatch):
+    seed.seed_all()
+    versions.save_prompt("prompt_v1", "second", "test", [])
+    client = _client(evals_dir, monkeypatch)
+    body = client.get("/chat").get_data(as_text=True)
+    assert 'name="prompt_id"' in body
+    assert 'name="rubric_id"' in body
+    assert 'name="model"' not in body
+    assert config.agent_model() in body
+    assert config.judge_model() in body
+    assert 'value="prompt_v2"' in body
+
+
+def test_chat_submission_uses_selected_pair_and_no_model_input(evals_dir, monkeypatch):
+    client = _client(evals_dir, monkeypatch)
+    captured = {}
+
+    def fake_run_case_samples(case, prompt_text, prompt_id, rubric, samples=1, on_progress=None):
+        captured.update(
+            prompt_text=prompt_text,
+            prompt_id=prompt_id,
+            rubric_id=rubric.rubric_id,
+            samples=samples,
+            progress=on_progress is not None,
+        )
+        return RunManifest(
+            "run_1",
+            case.case_id,
+            config.agent_model(),
+            config.judge_model(),
+            prompt_id,
+            rubric.rubric_id,
+            "t",
+            judgment_id="judg_1",
+            status="judged",
+            sample_count=samples,
         )
 
-    def fake_judge(answer, trace, checklist, rubric, check_results, run_id, model):
-        from harness.models import CriterionVerdict, Judgment
-        return Judgment(
-            judgment_id="jud_ui", run_id=run_id, checklist_id=checklist.checklist_id,
-            model=model,
-            criteria=[CriterionVerdict(criterion_id="options_structure", verdict="fail",
-                                       evidence="only one option", source="llm")],
-            summary="weak structure", failure_feedback="add more options", created_at="t",
-        )
-
-    import harness.runner as runner_mod
-    import harness.evaluator as evaluator_mod
-
-    monkeypatch.setattr(runner_mod, "agent_run", fake_agent)
-    monkeypatch.setattr(evaluator_mod, "generate_checklist", fake_checklist)
-    monkeypatch.setattr(evaluator_mod, "judge_answer", fake_judge)
-    monkeypatch.setenv("OPENROUTER_API_KEY", "test-key")
-
-    app = create_app()
-    app.config["TESTING"] = True
-    return app.test_client()
-
-
-def test_dashboard_loads(client):
-    resp = client.get("/")
-    assert resp.status_code == 200
-    assert b"Supervisor dashboard" in resp.data
-
-
-def test_run_review_flow(client):
-    rubric = candidates.load_rubric(registry.active_rubric_id())
-    prompt = candidates.load_prompt(registry.active_prompt_id())
-    case = Case(case_id="ui_case", prompt="What should we do?")
-    manifest = run_case(case, prompt.text, prompt.prompt_id, "model-x", rubric)
-
-    resp = client.get(f"/runs/{manifest.run_id}")
-    assert resp.status_code == 200
-    assert b"Option A and Option B" in resp.data
-
-    resp = client.post(f"/runs/{manifest.run_id}/review", data={
-        "verdict": "unacceptable",
-        "primary_problem": "not enough options",
-        "failure_attribution": "agent_failure",
-        "notes": "fix prompt",
-    }, follow_redirects=True)
-    assert resp.status_code == 200
-    assert reviews.list_reviews()
-    assert b"Ready to start prompt" in resp.data or b"Review saved" in resp.data
-
-
-def test_rubric_proposal_approve_via_web(client, monkeypatch):
-    rubric = candidates.load_rubric(registry.active_rubric_id())
-    prompt = candidates.load_prompt(registry.active_prompt_id())
-    case = Case(case_id="web_rubric", prompt="plan?")
-    manifest = run_case(case, prompt.text, prompt.prompt_id, "model-x", rubric)
-    review = reviews.create_review(
-        manifest.run_id, "unacceptable", "judge wrong", "rubric_gap",
-    )
-
-    def fake_chat_json(system, user, model):
-        return {
-            "rationale": "fix judge",
-            "criteria": [
-                {"id": "options_structure", "description": "many options", "check_type": "llm"},
-            ],
-        }
-
-    monkeypatch.setattr(llm, "chat_json", fake_chat_json)
-
-    resp = client.post("/proposals/rubric", data={
-        "review_ids": review.review_id,
-        "model": "anthropic/claude-sonnet-4.6",
-    }, follow_redirects=True)
-    assert resp.status_code == 200
-
-    proposal = candidates.list_proposals()[0]
-    resp = client.post(
-        f"/rubrics/proposals/{proposal.rubric_id}/approve",
-        data={"criteria_json": json.dumps([c.to_dict() for c in proposal.criteria])},
-        follow_redirects=True,
-    )
-    assert resp.status_code == 200
-    assert registry.active_rubric_id() != "rubric_v1"
-
-
-def test_chat_page_loads(client):
-    resp = client.get("/chat")
-    assert resp.status_code == 200
-    assert b"Start a run" in resp.data
-    assert b"prompt_v1" in resp.data
-    assert b"rubric_v1" in resp.data
-    assert b"Claude Fable 5" in resp.data
-    assert b'value="anthropic/claude-fable-5"' in resp.data
-    assert b"selected" in resp.data[resp.data.find(b"claude-fable-5"):resp.data.find(b"claude-fable-5") + 80]
-    assert b"GPT-5.6 Sol" in resp.data
-
-
-def test_chat_run_single_sample(client):
-    resp = client.post("/chat/run", data={
-        "query": "What emergency lending options exist?",
+    monkeypatch.setattr(web, "run_case_samples", fake_run_case_samples)
+    response = client.post("/chat/run", data={
+        "query": "question",
         "prompt_id": "prompt_v1",
         "rubric_id": "rubric_v1",
-        "model": "anthropic/claude-sonnet-4.6",
-        "samples": "1",
-    }, follow_redirects=False)
-    assert resp.status_code == 302
-    run_id = resp.location.rsplit("/", 1)[-1]
-    detail = client.get(f"/runs/{run_id}")
-    assert detail.status_code == 200
-    assert b"What emergency lending options exist?" in detail.data
-
-
-def test_chat_run_missing_api_key(client, monkeypatch):
-    monkeypatch.delenv("OPENROUTER_API_KEY", raising=False)
-
-    def fail_agent(*args, **kwargs):
-        raise KeyError("OPENROUTER_API_KEY")
-
-    import harness.runner as runner_mod
-    monkeypatch.setattr(runner_mod, "agent_run", fail_agent)
-
-    resp = client.post("/chat/run", data={
-        "query": "What emergency lending options exist?",
-        "prompt_id": "prompt_v1",
-        "rubric_id": "rubric_v1",
-        "model": "anthropic/claude-fable-5",
-        "samples": "1",
-    }, follow_redirects=True)
-    assert resp.status_code == 200
-    assert b"OPENROUTER_API_KEY is not set" in resp.data
-
-
-def test_chat_run_multiple_samples(client):
-    resp = client.post("/chat/run", data={
-        "query": "Plan for insurer liquidity?",
-        "prompt_id": "prompt_v1",
-        "rubric_id": "rubric_v1",
-        "model": "anthropic/claude-sonnet-4.6",
         "samples": "3",
-    }, follow_redirects=True)
-    assert resp.status_code == 200
-    assert b"Launch launch_" in resp.data
-    assert resp.data.count(b"run_") >= 3
+        "experiment_id": "experiment_abcdef123456",
+        "model": "malicious/override",
+    })
+    assert response.status_code == 302
+    assert captured["prompt_id"] == "prompt_v1"
+    assert captured["rubric_id"] == "rubric_v1"
+    assert captured["samples"] == 3
+    assert captured["progress"] is True
+    assert "/runs/run_1" in response.headers["Location"]
+    experiment = (
+        web.EVALS_DIR / "experiments" / "experiment_abcdef123456.json"
+    ).read_text()
+    assert '"status": "finished"' in experiment
+    assert '"run_id": "run_1"' in experiment
 
 
-def test_invalid_rubric_edit_is_redisplayed(client, monkeypatch):
-    registry.lock_cycle("rubric")
-
-    def fake_chat_json(system, user, model):
-        return {
-            "rationale": "edit me",
-            "criteria": [
-                {"id": "quality", "description": "good", "check_type": "llm"},
-            ],
-        }
-
-    monkeypatch.setattr(llm, "chat_json", fake_chat_json)
-    proposal = candidates.propose_rubric([], "model-x")
-    invalid_edit = '[{"id": "quality", "description": "keep this edit"'
-
-    resp = client.post(
-        f"/rubrics/proposals/{proposal.rubric_id}/approve",
-        data={"criteria_json": invalid_edit},
-    )
-
-    assert resp.status_code == 400
-    assert b"keep this edit" in resp.data
-    assert candidates.load_proposal(proposal.rubric_id).status == "proposed"
-
-
-def test_prompt_candidate_can_be_inspected_and_edited(client):
-    registry.lock_cycle("prompt")
-    cycle_id = registry.load()["cycle"]["cycle_id"]
-    candidate = PromptVersion(
-        prompt_id="prompt_v2_edit",
-        version=2,
-        status="candidate",
-        text="Original candidate prompt",
-        created_at="t",
-        parent_prompt_id="prompt_v1",
-        cycle_id=cycle_id,
-    )
-    candidates.CANDIDATES_DIR.mkdir(parents=True, exist_ok=True)
-    atomic_write_json(
-        candidates.CANDIDATES_DIR / f"{candidate.prompt_id}.json",
-        candidate.to_dict(),
-    )
-
-    detail = client.get(f"/prompts/candidates/{candidate.prompt_id}")
-    assert detail.status_code == 200
-    assert b"Original candidate prompt" in detail.data
-
-    updated = client.post(
-        f"/prompts/candidates/{candidate.prompt_id}/save",
-        data={"text": "Revised candidate prompt\n\nWith details."},
-        follow_redirects=True,
-    )
-    assert updated.status_code == 200
-    assert b"Revised candidate prompt" in updated.data
-    assert candidates.load_prompt_version(candidate.prompt_id).text.startswith(
-        "Revised candidate prompt"
-    )
-
-
-def test_prompt_candidate_rejects_empty_edit(client):
-    registry.lock_cycle("prompt")
-    cycle_id = registry.load()["cycle"]["cycle_id"]
-    candidate = PromptVersion(
-        prompt_id="prompt_v2_empty",
-        version=2,
-        status="candidate",
-        text="Original candidate prompt",
-        created_at="t",
-        parent_prompt_id="prompt_v1",
-        cycle_id=cycle_id,
-    )
-    candidates.CANDIDATES_DIR.mkdir(parents=True, exist_ok=True)
-    atomic_write_json(
-        candidates.CANDIDATES_DIR / f"{candidate.prompt_id}.json",
-        candidate.to_dict(),
-    )
-
-    resp = client.post(
-        f"/prompts/candidates/{candidate.prompt_id}/save",
-        data={"text": "   "},
-    )
-
-    assert resp.status_code == 400
-    assert candidates.load_prompt_version(candidate.prompt_id).text == "Original candidate prompt"
-
-
-def test_candidate_route_does_not_render_active_prompt(client):
-    resp = client.get("/prompts/candidates/prompt_v1")
-    assert resp.status_code == 404
-
-
-def test_stale_prompt_candidate_cannot_start_promotion(client):
-    registry.lock_cycle("prompt")
-    old_cycle_id = registry.load()["cycle"]["cycle_id"]
-    candidate = PromptVersion(
-        prompt_id="prompt_v2_stale",
-        version=2,
-        status="candidate",
-        text="Stale candidate",
-        created_at="t",
-        parent_prompt_id="prompt_v1",
-        cycle_id=old_cycle_id,
-    )
-    candidates.CANDIDATES_DIR.mkdir(parents=True, exist_ok=True)
-    atomic_write_json(
-        candidates.CANDIDATES_DIR / f"{candidate.prompt_id}.json",
-        candidate.to_dict(),
-    )
-    registry.close_cycle("cancelled", expected_branch="prompt")
-    registry.lock_cycle("prompt", opened_by="new-cycle")
-
-    resp = client.post(
-        "/promotions/create",
-        data={
-            "candidate_prompt_id": candidate.prompt_id,
-            "case_ids": load_cases()[0].case_id,
-            "model": "model-x",
-        },
-    )
-
-    assert resp.status_code == 302
-    assert runner.list_promotions() == []
-    assert registry.locked_branch() == "prompt"
-
-
-
-def test_promotion_page_blind_labels(client):
-    from harness.models import ABPair, Promotion
-
-    cand = PromptVersion(
-        prompt_id="prompt_v2_ui", version=2, status="candidate",
-        text="candidate answer text", created_at="t", parent_prompt_id="prompt_v1",
-    )
-    candidates.CANDIDATES_DIR.mkdir(parents=True, exist_ok=True)
-    atomic_write_json(candidates.CANDIDATES_DIR / f"{cand.prompt_id}.json", cand.to_dict())
-
-    promo_id = "promo_ui"
-    promo_dir = runner.PROMOTIONS_DIR / promo_id
-    promo_dir.mkdir(parents=True, exist_ok=True)
-    atomic_write_json(promo_dir / "manifest.json", Promotion(
-        promotion_id=promo_id, rubric_id="rubric_v1",
-        incumbent_prompt_id="prompt_v1", candidate_prompt_id=cand.prompt_id,
-        case_ids=["ui_case"], created_at="t",
-    ).to_dict())
-
-    for rid, answer, role in [
-        ("run_a", "INCUMBENT TEXT", "incumbent"),
-        ("run_b", "CANDIDATE TEXT", "candidate"),
+def test_runs_filter_by_prompt_rubric_pair(evals_dir, monkeypatch):
+    client = _client(evals_dir, monkeypatch)
+    for run_id, prompt_id, rubric_id, created_at in [
+        ("run_keep", "prompt_v1", "rubric_v1", "2026-07-16T16:25:02Z"),
+        ("run_drop", "prompt_v2", "rubric_v1", "2026-07-16T17:07:00Z"),
+        ("run_newer", "prompt_v1", "rubric_v1", "2026-07-16T17:07:00Z"),
     ]:
-        rd = runner.RUNS_DIR / rid
-        rd.mkdir(parents=True, exist_ok=True)
-        atomic_write_json(rd / "manifest.json", {
-            "run_id": rid, "case_id": "ui_case", "role": role, "model": "m",
-            "prompt_id": "p", "rubric_id": "rubric_v1", "created_at": "t",
-            "promotion_blocked": False, "status": "judged",
+        atomic_write_json(web.EVALS_DIR / "runs" / run_id / "manifest.json", {
+            "run_id": run_id,
+            "case_id": "case",
+            "agent_model": config.agent_model(),
+            "judge_model": config.judge_model(),
+            "prompt_id": prompt_id,
+            "rubric_id": rubric_id,
+            "created_at": created_at,
+            "status": "judged",
         })
-        atomic_write_json(rd / "case.json", {"case_id": "ui_case", "prompt": "q"})
-        atomic_write_json(rd / "answer.json", {"answer": answer})
-        atomic_write_json(rd / "trace.json", {})
-        atomic_write_json(rd / "checks.json", [])
-        atomic_write_json(rd / "checklist.json", {"checklist_id": "c", "items": []})
-        atomic_write_json(rd / "judgment.json", {"judgment_id": "j", "criteria": []})
+    body = client.get("/runs?prompt_id=prompt_v1&rubric_id=rubric_v1").get_data(as_text=True)
+    assert "run_keep" in body
+    assert "run_drop" not in body
+    assert 'data-local-datetime="2026-07-16T16:25:02Z"' in body
+    assert body.index("run_newer") < body.index("run_keep")
 
-    runner.append_jsonl(promo_dir / "pairs.jsonl", ABPair(
-        case_id="ui_case", incumbent_run_id="run_a", candidate_run_id="run_b",
-    ).to_dict())
 
-    resp = client.get(f"/promotions/{promo_id}")
-    assert resp.status_code == 200
-    assert b"Response A" in resp.data
-    assert b"INCUMBENT TEXT" in resp.data or b"CANDIDATE TEXT" in resp.data
+def test_review_requires_change_target_only_when_unacceptable(evals_dir, monkeypatch):
+    client = _client(evals_dir, monkeypatch)
+    run_dir = web.EVALS_DIR / "runs" / "run_1"
+    atomic_write_json(run_dir / "manifest.json", {
+        "run_id": "run_1",
+        "case_id": "case",
+        "agent_model": config.agent_model(),
+        "judge_model": config.judge_model(),
+        "prompt_id": "prompt_v1",
+        "rubric_id": "rubric_v1",
+        "created_at": "t",
+    })
+    response = client.post("/runs/run_1/review", data={
+        "verdict": "unacceptable",
+        "failure_attribution": "",
+    })
+    assert response.status_code == 302
+    with client.session_transaction() as session:
+        assert "Choose what should change" in session["_flashes"][0][1]
+
+
+def test_prompt_draft_builder_exposes_loading_and_lockable_controls(evals_dir, monkeypatch):
+    reviews.create_review(
+        "run_missing",
+        "unacceptable",
+        "Prompt missed a required behavior",
+        "prompt_issue",
+    )
+    client = _client(evals_dir, monkeypatch)
+    body = client.get("/").get_data(as_text=True)
+    assert 'data-active-job="prompt_draft"' in body
+    assert 'data-active-job-lock' in body
+    assert "Generating new prompt…" in body
+    assert 'name="job_id"' in body
+    assert 'id="active-job-chip"' in body
+    assert 'role="status" aria-live="polite" hidden' in body
+
+
+def test_prompt_draft_job_persists_result_for_status_polling(evals_dir, monkeypatch):
+    from harness import jobs, llm
+
+    reviews.create_review(
+        "run_missing",
+        "unacceptable",
+        "Prompt missed a required behavior",
+        "prompt_issue",
+    )
+    monkeypatch.setattr(llm, "chat_json", lambda **kwargs: {
+        "prompt_text": "drafted prompt",
+        "rationale": "fix it",
+    })
+    client = _client(evals_dir, monkeypatch)
+    job_id = jobs.new_job_id()
+    response = client.post("/versions/prompts/draft", data={
+        "base_id": "prompt_v1",
+        "review_ids": reviews.list_reviews()[0].review_id,
+        "job_id": job_id,
+    }, follow_redirects=False)
+    assert response.status_code == 302
+    assert f"/versions/prompts/draft/{job_id}" in response.headers["Location"]
+    status = client.get(f"/jobs/{job_id}/status").get_json()
+    assert status["status"] == "finished"
+    assert status["kind"] == "prompt_draft"
+    body = client.get(f"/versions/prompts/draft/{job_id}").get_data(as_text=True)
+    assert "drafted prompt" in body
+
+
+def test_markdown_preview_uses_server_renderer(evals_dir, monkeypatch):
+    client = _client(evals_dir, monkeypatch)
+    response = client.post("/markdown/preview", json={
+        "text": "# Heading\n\n- One\n- Two",
+    })
+    assert response.status_code == 200
+    html = response.get_json()["html"]
+    assert "<h1>Heading</h1>" in html
+    assert "<li>One</li>" in html
+
+
+def test_header_shows_active_models_and_versions_as_chips(evals_dir, monkeypatch):
+    client = _client(evals_dir, monkeypatch)
+    body = client.get("/").get_data(as_text=True)
+    assert "Active:" in body
+    assert "👷" in body
+    assert "⚖️" in body
+    assert "claude-fable-5" in body
+    assert "gpt-5.6-terra" in body
+    assert 'href="/versions/prompts/prompt_v1"' in body
+    assert 'href="/versions/rubrics/rubric_v1"' in body
+    assert body.count("header-chip") >= 4
+
+
+def test_prompt_and_rubric_version_editors_use_markdown_component(evals_dir, monkeypatch):
+    client = _client(evals_dir, monkeypatch)
+    prompt_body = client.get("/versions/prompts/prompt_v1").get_data(as_text=True)
+    assert 'data-markdown-editor' in prompt_body
+    assert 'name="prompt_text"' in prompt_body
+    assert "Save as next prompt version" in prompt_body
+
+    rubric_body = client.get("/versions/rubrics/rubric_v1").get_data(as_text=True)
+    assert 'data-markdown-editor' in rubric_body
+    assert 'name="criteria_markdown"' in rubric_body
+    assert "## " in rubric_body
+    assert "Save as next rubric version" in rubric_body
+
+    response = client.post("/versions/prompts/prompt_v1/save", data={
+        "prompt_text": "# Updated prompt\n\nBe clearer.",
+        "rationale": "tighten wording",
+    })
+    assert response.status_code == 302
+    assert versions.load_prompt("prompt_v2").text.startswith("# Updated prompt")
+
+
+def test_experiment_progress_message_multi_sample():
+    from harness.web import _experiment_progress_message
+
+    assert _experiment_progress_message(
+        "checks",
+        current_sample=2,
+        completed_samples=1,
+        samples=5,
+    ) == "Sample 2 of 5 — Running deterministic checks…"
+
+
+def test_chat_experiment_status_includes_progress(evals_dir, monkeypatch):
+    client = _client(evals_dir, monkeypatch)
+    atomic_write_json(web.EVALS_DIR / "experiments" / "experiment_abcdef123456.json", {
+        "experiment_id": "experiment_abcdef123456",
+        "status": "running",
+        "run_id": "run_1",
+        "samples": 3,
+        "phase": "judge",
+        "current_sample": 2,
+        "completed_samples": 1,
+        "message": "Sample 2 of 3 — Judging answer…",
+    })
+    payload = client.get("/chat/experiments/experiment_abcdef123456/status").get_json()
+    assert payload["status"] == "running"
+    assert payload["phase"] == "judge"
+    assert payload["current_sample"] == 2
+    assert payload["message"] == "Sample 2 of 3 — Judging answer…"
+
+
+def test_dashboard_pending_runs_have_no_delete_button(evals_dir, monkeypatch):
+    client = _client(evals_dir, monkeypatch)
+    atomic_write_json(web.EVALS_DIR / "runs" / "run_pending" / "manifest.json", {
+        "run_id": "run_pending",
+        "case_id": "case",
+        "agent_model": config.agent_model(),
+        "judge_model": config.judge_model(),
+        "prompt_id": "prompt_v1",
+        "rubric_id": "rubric_v1",
+        "created_at": "2026-07-16T17:07:00Z",
+        "status": "judged",
+    })
+    body = client.get("/").get_data(as_text=True)
+    assert "run_pending" in body
+    assert "delete_run_route" not in body
+    assert "subtle-danger" not in body.split("Pending runs")[1].split("Open reviews")[0]
+
+
+def test_delete_run_route_rejects_dashboard_origin(evals_dir, monkeypatch):
+    client = _client(evals_dir, monkeypatch)
+    atomic_write_json(web.EVALS_DIR / "runs" / "run_1" / "manifest.json", {
+        "run_id": "run_1",
+        "case_id": "case",
+        "agent_model": config.agent_model(),
+        "judge_model": config.judge_model(),
+        "prompt_id": "prompt_v1",
+        "rubric_id": "rubric_v1",
+        "created_at": "t",
+        "status": "judged",
+    })
+    response = client.post("/runs/run_1/delete")
+    assert response.status_code == 302
+    assert (web.EVALS_DIR / "runs" / "run_1").exists()
+    with client.session_transaction() as session:
+        assert "Delete runs from the Runs page" in session["_flashes"][0][1]
+
+
+def test_chat_page_tracks_experiment_status_for_loading_ui(evals_dir, monkeypatch):
+    client = _client(evals_dir, monkeypatch)
+    body = client.get("/chat").get_data(as_text=True)
+    assert 'name="experiment_id"' in body
+    assert 'data-active-job="experiment"' in body
+    assert "chat_experiment_status" in body or "/chat/experiments/" in body
+    assert "__JOB_ID__" in body
+
+    atomic_write_json(web.EVALS_DIR / "experiments" / "experiment_abcdef123456.json", {
+        "experiment_id": "experiment_abcdef123456",
+        "status": "finished",
+        "run_id": "run_1",
+        "samples": 1,
+    })
+    response = client.get("/chat/experiments/experiment_abcdef123456/status")
+    assert response.status_code == 200
+    payload = response.get_json()
+    assert payload["status"] == "finished"
+    assert payload["run_id"] == "run_1"
+    assert payload["result_url"].endswith("/runs/run_1")
