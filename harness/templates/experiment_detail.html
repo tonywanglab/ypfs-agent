@@ -1,14 +1,15 @@
 {% extends "base.html" %}
-{% block title %}Launch {{ launch.launch_id }} — Eval Harness{% endblock %}
+{% block title %}Experiment {{ experiment.experiment_id }} — Eval Harness{% endblock %}
 {% block content %}
-<h1>Launch {{ launch.launch_id }}</h1>
+<h1>Experiment {{ experiment.experiment_id }}</h1>
 <p class="meta">
-  {{ launch.samples }} sample(s) · prompt {{ launch.prompt_id }} · rubric {{ launch.rubric_id }} · model {{ launch.model }}
+  {{ experiment.samples }} sample(s) · {{ experiment.prompt_id }}, {{ experiment.rubric_id }} ·
+  agent {{ experiment.agent_model }} · judge {{ experiment.judge_model }}
 </p>
 
 <section>
   <h2>Query</h2>
-  <pre class="block">{{ launch.query }}</pre>
+  <pre class="block">{{ experiment.query }}</pre>
 </section>
 
 <section>
@@ -35,5 +36,5 @@
   </table>
 </section>
 
-<p><a href="{{ url_for('chat') }}">← Back to chat</a></p>
+<p><a href="{{ url_for('chat') }}">← Back to experiment</a></p>
 {% endblock %}

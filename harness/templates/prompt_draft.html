@@ -1,0 +1,74 @@
+{% extends "base.html" %}
+{% from "macros/markdown_editor.html" import markdown_editor %}
+{% block title %}Prompt draft — Eval Harness{% endblock %}
+{% block main_class %}main-wide{% endblock %}
+{% block content %}
+<div class="page-header">
+  <h1>Review prompt draft</h1>
+  <p class="meta">This draft is not saved. Edit it, then explicitly create the next immutable version.</p>
+</div>
+
+<section>
+  <div class="section-head">
+    <div>
+      <h2>Changes from {{ draft.base_id }}</h2>
+      <p class="section-description">Deleted lines are red; added lines are green.</p>
+    </div>
+  </div>
+  {% if diff_groups %}
+    <div class="file-diff" aria-label="Prompt changes">
+      <div class="file-diff-header">
+        <span class="file-diff-name">{{ draft.base_id }} → next prompt version</span>
+      </div>
+      <table class="code-diff">
+        <colgroup>
+          <col class="diff-col-number">
+          <col class="diff-col-number">
+          <col class="diff-col-marker">
+          <col class="diff-col-code">
+        </colgroup>
+        <tbody>
+          {% for group in diff_groups %}
+            <tr class="diff-hunk">
+              <td colspan="4">@@ -{{ group.old_start }},{{ group.old_count }} +{{ group.new_start }},{{ group.new_count }} @@</td>
+            </tr>
+            {% for row in group.rows %}
+              <tr class="diff-line diff-line-{{ row.kind }}">
+                <td class="diff-line-number">{{ row.old_number or '' }}</td>
+                <td class="diff-line-number">{{ row.new_number or '' }}</td>
+                <td class="diff-line-marker" aria-hidden="true">{% if row.kind == 'add' %}+{% elif row.kind == 'delete' %}-{% else %} {% endif %}</td>
+                <td class="diff-line-code"><code>{{ row.text }}</code></td>
+              </tr>
+            {% endfor %}
+          {% endfor %}
+        </tbody>
+      </table>
+    </div>
+  {% else %}
+    <p class="empty-state compact">The generated draft is identical to {{ draft.base_id }}.</p>
+  {% endif %}
+</section>
+
+<section>
+  <form method="post" action="{{ url_for('save_prompt') }}">
+    <input type="hidden" name="base_id" value="{{ draft.base_id }}">
+    {% for review_id in draft.review_ids %}
+      <input type="hidden" name="review_ids" value="{{ review_id }}">
+    {% endfor %}
+    {{ markdown_editor(
+      name="prompt_text",
+      value=draft.prompt_text,
+      label="Editable prompt text",
+      editor_id="prompt-text-editor",
+      required=true
+    ) }}
+    <label>Version rationale
+      <textarea name="rationale" rows="5">{{ draft.rationale }}</textarea>
+    </label>
+    <div class="form-actions">
+      <a href="{{ url_for('dashboard') }}">Discard draft</a>
+      <button type="submit" class="primary">Save as next prompt version</button>
+    </div>
+  </form>
+</section>
+{% endblock %}

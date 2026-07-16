@@ -1,12 +1,4 @@
-"""Seed data for the evaluation harness: cases + rubric v1 + prompt v1.
-
-Idempotent — re-running never overwrites or duplicates existing seed
-artifacts. Cases and rubric_v1 are committed to the repo so a fresh clone
-has a working eval set; registry.json and prompt_v1.md are also committed
-as the harness's initial mutable state / version-zero snapshot.
-
-Run directly:  python -m harness.seed
-"""
+"""Seed cases and immutable prompt/rubric version-one baselines."""
 
 from __future__ import annotations
 
@@ -135,6 +127,55 @@ SEED_RUBRIC_CRITERIA = [
         ),
         check_type="llm",
     ),
+    RubricCriterion(
+        id="bagehot_modernized",
+        description=(
+            "Treats Bagehot's dictum accurately ('lend freely, against good collateral, "
+            "at a high rate') and does not treat 'lend only to solvent institutions' as "
+            "canonical Bagehot doctrine."
+        ),
+        check_type="llm",
+    ),
+    RubricCriterion(
+        id="terminology_discipline",
+        description=(
+            "Handles loaded crisis terminology such as solvency, liquidity, and moral "
+            "hazard with skepticism and precision rather than using labels as conclusions."
+        ),
+        check_type="llm",
+    ),
+    RubricCriterion(
+        id="viability_framing",
+        description=(
+            "Reframes solvency questions around whether creditors and markets believe "
+            "the institution can continue as a going concern."
+        ),
+        check_type="llm",
+    ),
+    RubricCriterion(
+        id="moral_hazard_placement",
+        description=(
+            "When moral hazard is relevant, locates mitigation primarily in follow-on "
+            "structural interventions rather than punitive emergency-loan conditions."
+        ),
+        check_type="llm",
+    ),
+    RubricCriterion(
+        id="stigma_and_penalty_pricing",
+        description=(
+            "Analyzes how punitive pricing and stigma can deter emergency borrowing and "
+            "undermine a targeted intervention."
+        ),
+        check_type="llm",
+    ),
+    RubricCriterion(
+        id="precedent_coverage",
+        description=(
+            "Retrieves and cites the most relevant historical case-study precedents in "
+            "the corpus for the design question."
+        ),
+        check_type="llm",
+    ),
 ]
 
 
@@ -160,7 +201,6 @@ def seed_rubric_v1() -> Rubric:
     rubric = Rubric(
         rubric_id="rubric_v1",
         version=1,
-        status="frozen",
         criteria=SEED_RUBRIC_CRITERIA,
         created_at=now_iso(),
         rationale="Seeded from agent/system_prompt.md source-hierarchy and output-format policy.",
@@ -179,7 +219,6 @@ def seed_prompt_v1() -> PromptVersion:
     prompt = PromptVersion(
         prompt_id="prompt_v1",
         version=1,
-        status="active",
         text=SYSTEM_PROMPT_PATH.read_text(),
         created_at=now_iso(),
         rationale="Seeded from the current agent/system_prompt.md.",
@@ -192,10 +231,6 @@ def seed_all() -> None:
     seed_cases()
     seed_rubric_v1()
     seed_prompt_v1()
-    # Touch the registry so a fresh clone has evals/registry.json on disk.
-    from . import registry
-
-    registry.load()
 
 
 if __name__ == "__main__":

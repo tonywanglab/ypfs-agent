@@ -1,5 +1,4 @@
-"""Thin OpenRouter wrapper shared by every model-calling part of the harness
-(checklist generation, judging, rubric proposals, prompt candidates).
+"""Thin OpenRouter wrapper shared by judging and version-draft generation.
 
 Mirrors agent/agent.py's retry policy so behavior is consistent, but lives
 independently so the crisis-analyst system prompt in agent/system_prompt.md

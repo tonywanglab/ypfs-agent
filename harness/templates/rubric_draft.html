@@ -1,0 +1,47 @@
+{% extends "base.html" %}
+{% block title %}Rubric draft — Eval Harness{% endblock %}
+{% block main_class %}main-wide{% endblock %}
+{% block content %}
+<div class="page-header">
+  <h1>Review rubric draft</h1>
+  <p class="meta">Compared with {{ draft.base_id }}. Nothing is saved until you approve below.</p>
+</div>
+
+<section>
+  <h2>Proposed changes</h2>
+  <table class="rubric-diff-table">
+    <thead><tr><th>Change</th><th>Criterion</th><th>Description</th></tr></thead>
+    <tbody>
+      {% for row in diff_rows %}
+        <tr>
+          <td><span class="badge {{ 'ok' if row.change == 'added' else 'warn' if row.change == 'changed' else 'fail' if row.change == 'removed' else 'neutral' }}">{{ row.change }}</span></td>
+          <td>{{ row.id }}</td>
+          <td>
+            {% if row.proposal %}{{ row.proposal.description }}{% else %}{{ row.current.description }}{% endif %}
+            {% if row.field_changes %}<span class="diff-fields">{{ row.field_changes|map(attribute='field')|join(', ') }}</span>{% endif %}
+          </td>
+        </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+</section>
+
+<section>
+  <form method="post" action="{{ url_for('save_rubric') }}">
+    <input type="hidden" name="base_id" value="{{ draft.base_id }}">
+    {% for review_id in draft.review_ids %}
+      <input type="hidden" name="review_ids" value="{{ review_id }}">
+    {% endfor %}
+    <label>Criteria JSON
+      <textarea name="criteria_json" rows="32" class="code-editor" required>{{ criteria_json }}</textarea>
+    </label>
+    <label>Version rationale
+      <textarea name="rationale" rows="5">{{ draft.rationale }}</textarea>
+    </label>
+    <div class="form-actions">
+      <a href="{{ url_for('dashboard') }}">Discard draft</a>
+      <button type="submit" class="primary">Save as next rubric version</button>
+    </div>
+  </form>
+</section>
+{% endblock %}

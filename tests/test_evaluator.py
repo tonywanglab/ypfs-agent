@@ -1,191 +1,103 @@
-from __future__ import annotations
-
 import json
 
-import pytest
-
-from harness import evaluator, llm
+from harness import config, evaluator, llm
 from harness.checks import run_checks
-from harness.models import Checklist, ChecklistItem, Rubric, RubricCriterion
+from harness.models import Rubric, RubricCriterion
 
 
-@pytest.fixture()
-def rubric():
+def _rubric():
     return Rubric(
-        rubric_id="rubric_v1",
-        version=1,
-        status="frozen",
-        criteria=[
-            RubricCriterion(id="options_structure", description="presents options",
-                             check_type="llm"),
-            RubricCriterion(id="advisory_stance", description="advisory, not directive",
-                             check_type="llm"),
-            RubricCriterion(id="no_survey_citations", description="no survey cites",
-                             check_type="deterministic", deterministic_check="no_survey_citations"),
-            RubricCriterion(id="completed_without_error", description="completed cleanly",
-                             check_type="deterministic",
-                             deterministic_check="completed_without_error"),
+        "rubric_v1",
+        1,
+        [
+            RubricCriterion("options", "presents options", "llm"),
+            RubricCriterion("stance", "advisory stance", "llm"),
+            RubricCriterion(
+                "completed",
+                "completed cleanly",
+                "deterministic",
+                deterministic_check="completed_without_error",
+            ),
         ],
-        created_at="t",
+        "t",
     )
 
 
-def test_generate_checklist_filters_to_llm_criteria_and_valid_ids(monkeypatch, rubric):
-    def fake_run_tool_loop(system_prompt, user_msg, model, tools, dispatch_fn, max_steps=6):
-        # System prompt should only mention llm criteria ids, not deterministic ones.
-        assert "options_structure" in system_prompt
-        assert "no_survey_citations" not in system_prompt
-        content = json.dumps({
-            "items": [
-                {"criterion_id": "options_structure", "instruction": "check for 2+ options",
-                 "rationale": "r"},
-                {"criterion_id": "advisory_stance", "instruction": "check advisory framing",
-                 "rationale": "r"},
-                {"criterion_id": "not_a_real_criterion", "instruction": "ignored", "rationale": "r"},
-            ],
-            "search_summary": "found some case studies",
-        })
-        messages = [
-            {"role": "assistant", "content": None, "tool_calls": [
-                {"id": "c1", "function": {"name": "search_corpus", "arguments": "{}"}}
-            ]},
-            {"role": "tool", "tool_call_id": "c1",
-             "content": json.dumps({"results": [{"doc_id": "vol1_iss1_1"}], "total_found": 1})},
-            {"role": "assistant", "content": content},
-        ]
-        return content, messages
-
-    monkeypatch.setattr(llm, "run_tool_loop", fake_run_tool_loop)
-
-    checklist = evaluator.generate_checklist("some case prompt", "case_1", rubric, "model-x")
-
-    assert checklist.case_id == "case_1"
-    assert checklist.rubric_id == "rubric_v1"
-    assert len(checklist.items) == 2  # invalid criterion_id filtered out
-    assert checklist.items[0].criterion_id == "options_structure"
-    assert checklist.evaluator_doc_ids == ["vol1_iss1_1"]
-    assert checklist.evaluator_search_summary == "found some case studies"
-
-
-def test_generate_checklist_signature_has_no_answer_argument():
-    import inspect
-
-    params = inspect.signature(evaluator.generate_checklist).parameters
-    assert "answer" not in params
-
-
-def test_generate_checklist_user_message_is_only_the_case_prompt(monkeypatch, rubric):
+def test_direct_judge_receives_complete_llm_rubric_and_fixed_model(monkeypatch):
     captured = {}
 
-    def fake_run_tool_loop(system_prompt, user_msg, model, tools, dispatch_fn, max_steps=6):
-        captured["user_msg"] = user_msg
-        return json.dumps({
-            "items": [
-                {"criterion_id": "options_structure", "instruction": "check options"},
-                {"criterion_id": "advisory_stance", "instruction": "check framing"},
-            ],
-            "search_summary": "s",
-        }), []
-
-    monkeypatch.setattr(llm, "run_tool_loop", fake_run_tool_loop)
-    evaluator.generate_checklist("the case prompt", "case_1", rubric, "model-x")
-
-    assert "the case prompt" in captured["user_msg"]
-    # No candidate answer text can appear since none was ever passed in.
-    assert "candidate" not in captured["user_msg"].lower()
-
-
-def test_generate_checklist_rejects_missing_rubric_coverage(monkeypatch, rubric):
-    monkeypatch.setattr(
-        llm,
-        "run_tool_loop",
-        lambda **kwargs: (json.dumps({"items": [], "search_summary": ""}), []),
-    )
-
-    with pytest.raises(ValueError, match="missing criteria"):
-        evaluator.generate_checklist("prompt", "case_1", rubric, "model-x")
-
-
-def test_judge_answer_copies_deterministic_verdicts_without_llm_call(monkeypatch, rubric):
-    def fail_if_called(*args, **kwargs):
-        raise AssertionError("chat_json should not be called when there are no llm checklist items")
-
-    monkeypatch.setattr(llm, "chat_json", fail_if_called)
-
-    answer = "a clean answer with no citations"
-    check_results, trace = run_checks(answer, [])
-
-    checklist = Checklist(
-        checklist_id="chk_1", case_id="case_1", rubric_id="rubric_v1", model="model-x",
-        items=[], evaluator_search_summary="", evaluator_doc_ids=[], created_at="t",
-    )
-
-    judgment = evaluator.judge_answer(answer, trace, checklist, rubric, check_results,
-                                       run_id="run_1", model="model-x")
-
-    verdict_by_id = {c.criterion_id: c for c in judgment.criteria}
-    assert verdict_by_id["no_survey_citations"].source == "deterministic"
-    assert verdict_by_id["no_survey_citations"].verdict == "pass"
-    assert verdict_by_id["completed_without_error"].verdict == "pass"
-    assert verdict_by_id["options_structure"].verdict == "uncertain"
-    assert verdict_by_id["advisory_stance"].verdict == "uncertain"
-
-
-def test_judge_answer_calls_llm_only_for_checklist_criteria(monkeypatch, rubric):
-    captured_payload = {}
-
     def fake_chat_json(system_prompt, user_prompt, model):
-        captured_payload["payload"] = json.loads(user_prompt)
+        captured["payload"] = json.loads(user_prompt)
+        captured["model"] = model
         return {
             "criteria": [
-                {"criterion_id": "options_structure", "verdict": "fail",
-                 "evidence": "only one option given", "confidence": 0.8},
+                {
+                    "criterion_id": "options",
+                    "verdict": "pass",
+                    "evidence": "two options",
+                    "confidence": 0.9,
+                },
+                {
+                    "criterion_id": "stance",
+                    "verdict": "fail",
+                    "evidence": "directive",
+                    "confidence": 0.8,
+                },
             ],
-            "summary": "weak options coverage",
-            "failure_feedback": "add at least one more option",
+            "summary": "mixed",
+            "failure_feedback": "be advisory",
         }
 
     monkeypatch.setattr(llm, "chat_json", fake_chat_json)
-
-    answer = "here is a single option"
-    check_results, trace = run_checks(answer, [])
-    checklist = Checklist(
-        checklist_id="chk_1", case_id="case_1", rubric_id="rubric_v1", model="model-x",
-        items=[ChecklistItem(id="item_1", criterion_id="options_structure",
-                              instruction="check for options", rationale="r")],
-        evaluator_search_summary="s", evaluator_doc_ids=[], created_at="t",
+    checks, trace = run_checks("answer", [])
+    judgment = evaluator.judge_answer(
+        "question", "answer", trace, _rubric(), checks, "run_1"
     )
 
-    judgment = evaluator.judge_answer(answer, trace, checklist, rubric, check_results,
-                                       run_id="run_1", model="model-x")
+    assert captured["model"] == config.judge_model()
+    assert [item["id"] for item in captured["payload"]["rubric_criteria"]] == [
+        "options",
+        "stance",
+    ]
+    assert [verdict.criterion_id for verdict in judgment.criteria] == [
+        "options",
+        "stance",
+        "completed",
+    ]
+    assert judgment.criteria[-1].source == "deterministic"
 
-    verdict_by_id = {c.criterion_id: c for c in judgment.criteria}
-    assert verdict_by_id["options_structure"].verdict == "fail"
-    assert verdict_by_id["options_structure"].source == "llm"
-    assert verdict_by_id["no_survey_citations"].source == "deterministic"
-    assert judgment.summary == "weak options coverage"
-    assert judgment.failure_feedback == "add at least one more option"
-    assert judgment.fail_count() == 1
-    assert verdict_by_id["advisory_stance"].verdict == "uncertain"
-    assert captured_payload["payload"]["agent_answer"] == answer
 
-
-def test_judge_answer_marks_missing_llm_verdict_as_uncertain(monkeypatch, rubric):
-    def fake_chat_json(system_prompt, user_prompt, model):
-        return {"criteria": [], "summary": "s", "failure_feedback": ""}
-
-    monkeypatch.setattr(llm, "chat_json", fake_chat_json)
-
-    answer = "answer"
-    check_results, trace = run_checks(answer, [])
-    checklist = Checklist(
-        checklist_id="chk_1", case_id="case_1", rubric_id="rubric_v1", model="model-x",
-        items=[ChecklistItem(id="item_1", criterion_id="options_structure",
-                              instruction="x", rationale="r")],
-        evaluator_search_summary="", evaluator_doc_ids=[], created_at="t",
+def test_missing_or_malformed_judge_rows_become_uncertain(monkeypatch):
+    monkeypatch.setattr(llm, "chat_json", lambda **kwargs: {
+        "criteria": [
+            {"criterion_id": "options", "verdict": "invented", "evidence": "x"},
+            {"criterion_id": "unknown", "verdict": "pass", "evidence": "x"},
+        ],
+        "summary": "",
+        "failure_feedback": "",
+    })
+    checks, trace = run_checks("answer", [])
+    judgment = evaluator.judge_answer(
+        "question", "answer", trace, _rubric(), checks, "run_1"
     )
-    judgment = evaluator.judge_answer(answer, trace, checklist, rubric, check_results,
-                                       run_id="run_1", model="model-x")
-    verdict_by_id = {c.criterion_id: c for c in judgment.criteria}
-    assert verdict_by_id["options_structure"].verdict == "uncertain"
-    assert verdict_by_id["options_structure"].confidence == 0.0
+    by_id = {item.criterion_id: item for item in judgment.criteria}
+    assert by_id["options"].verdict == "uncertain"
+    assert by_id["stance"].verdict == "uncertain"
+    assert by_id["stance"].confidence == 0.0
+
+
+def test_unparseable_judge_response_becomes_uncertain(monkeypatch):
+    monkeypatch.setattr(
+        llm,
+        "chat_json",
+        lambda **kwargs: (_ for _ in ()).throw(llm.LLMError("not json")),
+    )
+    checks, trace = run_checks("answer", [])
+    judgment = evaluator.judge_answer(
+        "question", "answer", trace, _rubric(), checks, "run_1"
+    )
+    assert [item.verdict for item in judgment.criteria[:2]] == [
+        "uncertain",
+        "uncertain",
+    ]
+    assert "malformed" in judgment.summary

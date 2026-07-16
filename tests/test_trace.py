@@ -94,3 +94,56 @@ def test_build_trace_annotates_tool_names_and_includes_normalized():
     assert tool_msgs[0]["name"] == "search_corpus"
     assert built["normalized"]["retrieved_doc_ids"] == ["vol2_iss1_1"]
     assert built["normalized"]["hit_max_steps"] is False
+
+
+def test_trace_timeline_pairs_tool_calls_with_readable_summaries():
+    from harness.trace import trace_timeline
+
+    messages = [
+        {"role": "user", "content": "long case prompt that is already shown above"},
+        _assistant_call("c1", "search_corpus", {
+            "query": "broad-based emergency lending facility design",
+            "document_type": "survey",
+            "limit": 5,
+        }),
+        _tool_result("c1", {
+            "results": [
+                {"doc_id": "vol1_iss1_1"},
+                {"doc_id": "vol1_iss1_2"},
+            ],
+            "total_found": 2,
+        }),
+        _assistant_call("c2", "get_document", {"document_id": "vol1_iss1_1"}),
+        _tool_result("c2", {
+            "doc_id": "vol1_iss1_1",
+            "title": "Emergency Liquidity Facilities",
+        }),
+        {"role": "assistant", "content": "Here is the synthesis."},
+    ]
+    events = trace_timeline(build_trace(messages, answer="Here is the synthesis."))
+
+    assert [e["kind"] for e in events] == ["tool", "tool", "assistant"]
+    assert events[0]["label"] == "search_corpus"
+    assert '"broad-based emergency lending facility design"' in events[0]["summary"]
+    assert "type=survey" in events[0]["summary"]
+    assert events[0]["result_summary"].startswith("2 hits")
+    assert "vol1_iss1_1" in events[0]["result_summary"]
+    assert events[1]["label"] == "get_document"
+    assert events[1]["summary"] == "vol1_iss1_1"
+    assert "Emergency Liquidity Facilities" in events[1]["result_summary"]
+    assert events[2]["summary"] == "Here is the synthesis."
+    assert '"name": "search_corpus"' in events[0]["detail"]
+
+
+def test_trace_timeline_marks_tool_errors():
+    from harness.trace import trace_timeline
+
+    messages = [
+        {"role": "user", "content": "q"},
+        _assistant_call("c1", "get_document", {"document_id": "bad"}),
+        _tool_result("c1", {"error": "Invalid document_id: 'bad'"}),
+    ]
+    events = trace_timeline({"messages": messages})
+    assert len(events) == 1
+    assert events[0]["status"] == "error"
+    assert events[0]["result_summary"].startswith("Error:")

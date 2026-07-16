@@ -137,14 +137,14 @@ The runnable agent. `agent.py` is a REPL that drives a frontier model (default `
 ### `benchmarking/`
 Benchmark harness and outputs for evaluating frontier model performance on corpus questions prior to building the RAG pipeline.
 
-## Evaluation harness (two-loop rubric + prompt)
+## Evaluation harness (two variables)
 
-A local, file-backed harness around `agent.run()` for eval-driven development. Each case runs with **empty history** under the active prompt and frozen rubric. Deterministic trace/citation gates run first; an isolated evaluator then generates a checklist (before seeing the answer) and judges the output. A supervisor reviews output + assessment and routes feedback into **one** update branch per cycle: rubric revision or prompt promotion — never both at once.
+A local, file-backed harness around `agent.run()` with exactly two experimental variables: the selected agent system prompt version and selected judge rubric version. The agent model is fixed to Claude Fable 5, the judge model is fixed to GPT 5.6 Terra, and every run starts with empty history. Deterministic checks run first, followed by one direct rubric-judging call.
 
 ### Quick start
 
 ```bash
-python -m harness.seed          # idempotent: cases, rubric_v1, prompt_v1, registry
+python -m harness.seed          # idempotent: cases, rubric_v1, prompt_v1
 python3 -m pytest tests/ -q     # offline suite (mocked LLM/agent)
 
 # Live eval batch (requires .env API keys)
@@ -157,23 +157,19 @@ python -m harness web --port 5050
 
 ### Workflow
 
-1. **Run cases** — `run_harness_evals()` or the dashboard after a batch; artifacts land in `evals/runs/{run_id}/`.
-2. **Review** — open a run in the UI; mark acceptable/unacceptable, attribution, and notes.
-3. **Rubric branch** — for `rubric_gap` / `judge_failure`: propose → edit criteria → approve as `rubric_vN+1`.
-4. **Prompt branch** — for `agent_failure`: propose candidate → blind A/B vs incumbent → manually promote or deny.
-5. **Cycle lock** — while one branch is open, the other is queued in `registry.json`.
-
-Deterministic hard failures set `promotion_blocked=true`; prompt promotion is blocked until the candidate passes all hard gates.
+1. **Run** — choose an explicit prompt/rubric pair; artifacts land in `evals/runs/{run_id}/`.
+2. **Review** — mark the run acceptable, or attribute an unacceptable result to `prompt_issue`, `rubric_issue`, or `invalid_run`.
+3. **Draft** — select relevant feedback and a base version to ask the fixed editor model for an editable draft.
+4. **Approve** — edit the draft and explicitly save it as the next immutable `prompt_vN` or `rubric_vN`. Discarding the page saves nothing.
 
 ### Artifact layout (`evals/`)
 
 | Path | Committed? | Purpose |
 |---|---|---|
 | `cases.jsonl` | yes | Versioned eval scenarios |
-| `rubrics/rubric_v*.json` | yes (seed) | Frozen rubric versions |
+| `rubrics/rubric_v*.json` | yes (seed) | Immutable judge rubric versions |
 | `prompts/prompt_v*.json` | yes (seed) | Versioned system prompts |
-| `registry.json` | yes | Active pointers + cycle state |
-| `runs/`, `reviews/`, `promotions/` | no | Generated eval artifacts |
+| `runs/`, `reviews/`, `experiments/` | no | Generated eval artifacts |
 
 ## Utility Scripts
 

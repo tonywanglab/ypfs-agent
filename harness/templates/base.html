@@ -11,16 +11,38 @@
     <nav>
       <a href="{{ url_for('dashboard') }}" class="brand">Eval Harness</a>
       <a href="{{ url_for('dashboard') }}" class="nav-link{% if request.endpoint == 'dashboard' %} is-active{% endif %}">Dashboard</a>
-      <a href="{{ url_for('chat') }}" class="nav-link{% if request.endpoint in ('chat', 'chat_run', 'launch_detail') %} is-active{% endif %}">Chat</a>
+      <a href="{{ url_for('chat') }}" class="nav-link{% if request.endpoint in ('chat', 'chat_run', 'experiment_detail') %} is-active{% endif %}">Experiment</a>
       <a href="{{ url_for('runs_list') }}" class="nav-link{% if request.endpoint in ('runs_list', 'run_detail') %} is-active{% endif %}">Runs</a>
     </nav>
     <div class="cycle-status">
-      {% if locked_branch %}
-        <span class="badge locked">Cycle: {{ locked_branch }}</span>
+      <span class="cycle-status-label">Active:</span>
+      <a id="active-job-chip" class="header-chip header-chip-job" hidden href="/" aria-live="polite">
+        <span class="header-job-spinner" aria-hidden="true"></span>
+        <span class="header-chip-job-text">
+          <span id="active-job-label">Working…</span>
+          <span id="active-job-detail" class="header-chip-job-detail" hidden></span>
+        </span>
+      </a>
+      <span class="header-chip" title="Worker model: {{ fixed_agent_model }}">
+        <span aria-hidden="true">👷</span>
+        {{ fixed_agent_model_label }}
+      </span>
+      <span class="header-chip" title="Judge model: {{ fixed_judge_model }}">
+        <span aria-hidden="true">⚖️</span>
+        {{ fixed_judge_model_label }}
+      </span>
+      {% if latest_prompt_id != "not seeded" %}
+        <a class="header-chip header-chip-version" href="{{ url_for('edit_prompt_version', prompt_id=latest_prompt_id) }}"
+          title="Edit {{ latest_prompt_id }}">{{ latest_prompt_id }}</a>
       {% else %}
-        <span class="badge open">No active cycle</span>
+        <span class="header-chip header-chip-version">{{ latest_prompt_id }}</span>
       {% endif %}
-      <span class="meta">rubric={{ active_rubric_id }} · prompt={{ active_prompt_id }}</span>
+      {% if latest_rubric_id != "not seeded" %}
+        <a class="header-chip header-chip-version" href="{{ url_for('edit_rubric_version', rubric_id=latest_rubric_id) }}"
+          title="Edit {{ latest_rubric_id }}">{{ latest_rubric_id }}</a>
+      {% else %}
+        <span class="header-chip header-chip-version">{{ latest_rubric_id }}</span>
+      {% endif %}
     </div>
   </header>
 
@@ -39,7 +61,7 @@
     {% endif %}
   {% endwith %}
 
-  <main>
+  <main class="{% block main_class %}{% endblock %}">
     {% block content %}{% endblock %}
   </main>
 

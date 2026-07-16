@@ -1,36 +1,50 @@
-"""Batch runner: agent.run() -> deterministic checks -> checklist -> judgment,
-all persisted under evals/runs/{run_id}/.
-
-Every case runs with EMPTY history and a fixed (prompt_text, model, rubric)
-triple — no memory carried between cases or between incumbent/candidate
-runs in an A/B pair, so comparisons stay repeatable.
-"""
+"""Run the fixed agent, deterministic checks, and direct fixed judge."""
 
 from __future__ import annotations
 
+import shutil
+from collections.abc import Callable
+from pathlib import Path
+from typing import Literal
+
 from agent.agent import run as agent_run
 
-from . import evaluator, registry
+from . import config, evaluator
 from .checks import any_hard_failure, run_checks
-from .models import ABPair, Case, Checklist, Promotion, RunManifest, Rubric
-from .storage import (
-    EVALS_DIR,
-    append_jsonl,
-    atomic_write_json,
-    new_id,
-    now_iso,
-    read_json,
-    read_jsonl,
-    rewrite_jsonl,
-)
+from .models import Case, RunManifest, Rubric
+from .storage import EVALS_DIR, atomic_write_json, new_id, now_iso, read_json
 from .trace import build_trace
 
 RUNS_DIR = EVALS_DIR / "runs"
-PROMOTIONS_DIR = EVALS_DIR / "promotions"
+RunPhase = Literal["prepare", "agent", "checks", "judge", "sample_done"]
+ProgressCallback = Callable[[RunPhase, int, int, str], None]
 
 
-def _run_dir(run_id: str):
+def _run_dir(run_id: str) -> Path:
     return RUNS_DIR / run_id
+
+
+def _sample_dir(run_id: str, index: int) -> Path:
+    return _run_dir(run_id) / "samples" / f"{index:02d}"
+
+
+def _legacy_layout(run_dir: Path) -> bool:
+    return (run_dir / "answer.json").exists() and not (run_dir / "samples").exists()
+
+
+def _load_sample_artifacts(directory: Path) -> dict:
+    checks = read_json(directory / "checks.json")
+    return {
+        "answer": read_json(directory / "answer.json")["answer"],
+        "trace": read_json(directory / "trace.json"),
+        "checks": checks,
+        "judgment": read_json(directory / "judgment.json"),
+        "hard_failure": any_hard_failure_from_dicts(checks),
+    }
+
+
+def any_hard_failure_from_dicts(checks: list[dict]) -> bool:
+    return any(c.get("hard_failure") and not c.get("passed") for c in checks)
 
 
 def save_manifest(manifest: RunManifest) -> None:
@@ -42,17 +56,39 @@ def load_manifest(run_id: str) -> RunManifest:
 
 
 def load_run_bundle(run_id: str) -> dict:
-    """Everything persisted for one run: case, answer, trace, checks,
-    checklist, judgment, manifest."""
-    d = _run_dir(run_id)
+    directory = _run_dir(run_id)
+    manifest = read_json(directory / "manifest.json")
+    case = read_json(directory / "case.json")
+    samples: list[dict] = []
+
+    if _legacy_layout(directory):
+        artifacts = _load_sample_artifacts(directory)
+        samples.append({"index": 1, **artifacts})
+    else:
+        samples_root = directory / "samples"
+        if not samples_root.exists():
+            raise FileNotFoundError(f"Run {run_id!r} has no sample artifacts")
+        for sample_path in sorted(samples_root.iterdir()):
+            if not sample_path.is_dir():
+                continue
+            try:
+                index = int(sample_path.name)
+            except ValueError:
+                continue
+            samples.append({"index": index, **_load_sample_artifacts(sample_path)})
+
+    if not samples:
+        raise FileNotFoundError(f"Run {run_id!r} has no sample artifacts")
+
+    first = samples[0]
     return {
-        "manifest": read_json(d / "manifest.json"),
-        "case": read_json(d / "case.json"),
-        "answer": read_json(d / "answer.json")["answer"],
-        "trace": read_json(d / "trace.json"),
-        "checks": read_json(d / "checks.json"),
-        "checklist": read_json(d / "checklist.json"),
-        "judgment": read_json(d / "judgment.json"),
+        "manifest": manifest,
+        "case": case,
+        "samples": samples,
+        "answer": first["answer"],
+        "trace": first["trace"],
+        "checks": first["checks"],
+        "judgment": first["judgment"],
     }
 
 
@@ -60,151 +96,134 @@ def list_runs() -> list[RunManifest]:
     if not RUNS_DIR.exists():
         return []
     manifests = []
-    for d in sorted(RUNS_DIR.iterdir()):
-        mpath = d / "manifest.json"
-        if mpath.exists():
-            manifests.append(RunManifest.from_dict(read_json(mpath)))
+    for directory in sorted(RUNS_DIR.iterdir()):
+        manifest_path = directory / "manifest.json"
+        if manifest_path.exists():
+            manifests.append(RunManifest.from_dict(read_json(manifest_path)))
     return manifests
 
 
-def run_case(case: Case, prompt_text: str, prompt_id: str, model: str, rubric: Rubric, *,
-             role: str = "adhoc", checklist: Checklist | None = None) -> RunManifest:
-    """Run one case through agent.run() with fresh history, then check +
-    judge it.
+def delete_run(run_id: str) -> None:
+    run_dir = _run_dir(run_id)
+    if not (run_dir / "manifest.json").exists():
+        raise FileNotFoundError(f"Run {run_id!r} does not exist")
+    shutil.rmtree(run_dir)
 
-    If `checklist` is not provided, one is generated fresh (evaluator call
-    1). Passing a pre-generated checklist lets an A/B run reuse the SAME
-    checklist for both the incumbent and the candidate, since the checklist
-    depends only on (case, rubric) — never on which prompt produced the
-    answer being judged.
-    """
-    run_id = new_id("run")
 
-    answer, messages = agent_run(case.prompt, history=None, model=model, system_prompt=prompt_text)
+def _execute_sample(
+    *,
+    case: Case,
+    prompt_text: str,
+    prompt_id: str,
+    rubric: Rubric,
+    run_id: str,
+    sample_dir: Path,
+    sample_index: int,
+    sample_total: int,
+    on_progress: ProgressCallback | None = None,
+) -> tuple[list, bool, object]:
+    def report(phase: RunPhase) -> None:
+        if on_progress:
+            on_progress(phase, sample_index, sample_total, run_id)
 
-    check_results, trace = run_checks(answer, messages)
-    blocked = any_hard_failure(check_results)
-
-    if checklist is None:
-        checklist = evaluator.generate_checklist(case.prompt, case.case_id, rubric, model)
-
+    report("agent")
+    agent_model = config.agent_model()
+    answer, messages = agent_run(
+        case.prompt,
+        history=None,
+        model=agent_model,
+        system_prompt=prompt_text,
+    )
+    report("checks")
+    check_results, normalized_trace = run_checks(answer, messages)
+    report("judge")
     judgment = evaluator.judge_answer(
-        answer, trace, checklist, rubric, check_results, run_id=run_id, model=model,
+        case_prompt=case.prompt,
+        answer=answer,
+        normalized_trace=normalized_trace,
+        rubric=rubric,
+        check_results=check_results,
+        run_id=run_id,
     )
-
-    manifest = RunManifest(
-        run_id=run_id, case_id=case.case_id, role=role, model=model,
-        prompt_id=prompt_id, rubric_id=rubric.rubric_id,
-        checklist_id=checklist.checklist_id, judgment_id=judgment.judgment_id,
-        created_at=now_iso(), promotion_blocked=blocked, status="judged",
+    sample_dir.mkdir(parents=True, exist_ok=True)
+    atomic_write_json(sample_dir / "answer.json", {"answer": answer})
+    atomic_write_json(sample_dir / "trace.json", build_trace(messages, answer))
+    atomic_write_json(
+        sample_dir / "checks.json",
+        [result.to_dict() for result in check_results],
     )
+    atomic_write_json(sample_dir / "judgment.json", judgment.to_dict())
+    hard_failure = any_hard_failure(check_results)
+    return check_results, hard_failure, judgment
 
+
+def run_case_samples(
+    case: Case,
+    prompt_text: str,
+    prompt_id: str,
+    rubric: Rubric,
+    samples: int = 1,
+    on_progress: ProgressCallback | None = None,
+) -> RunManifest:
+    samples = max(1, min(samples, 20))
+    run_id = new_id("run")
+    agent_model = config.agent_model()
+    judge_model = config.judge_model()
     run_dir = _run_dir(run_id)
     run_dir.mkdir(parents=True, exist_ok=True)
+    if on_progress:
+        on_progress("prepare", 0, samples, run_id)
     atomic_write_json(run_dir / "case.json", case.to_dict())
-    atomic_write_json(run_dir / "answer.json", {"answer": answer})
-    atomic_write_json(run_dir / "trace.json", build_trace(messages, answer))
-    atomic_write_json(run_dir / "checks.json", [r.to_dict() for r in check_results])
-    atomic_write_json(run_dir / "checklist.json", checklist.to_dict())
-    atomic_write_json(run_dir / "judgment.json", judgment.to_dict())
-    save_manifest(manifest)
 
+    any_hard = False
+    last_judgment_id = None
+    for index in range(1, samples + 1):
+        _, hard_failure, judgment = _execute_sample(
+            case=case,
+            prompt_text=prompt_text,
+            prompt_id=prompt_id,
+            rubric=rubric,
+            run_id=run_id,
+            sample_dir=_sample_dir(run_id, index),
+            sample_index=index,
+            sample_total=samples,
+            on_progress=on_progress,
+        )
+        any_hard = any_hard or hard_failure
+        last_judgment_id = judgment.judgment_id
+        if on_progress:
+            on_progress("sample_done", index, samples, run_id)
+
+    manifest = RunManifest(
+        run_id=run_id,
+        case_id=case.case_id,
+        agent_model=agent_model,
+        judge_model=judge_model,
+        prompt_id=prompt_id,
+        rubric_id=rubric.rubric_id,
+        judgment_id=last_judgment_id,
+        created_at=now_iso(),
+        hard_failure=any_hard,
+        status="judged",
+        sample_count=samples,
+    )
+    save_manifest(manifest)
     return manifest
 
 
-def run_batch(cases: list[Case], prompt_text: str, prompt_id: str, model: str, rubric: Rubric,
-              *, role: str = "adhoc") -> list[RunManifest]:
-    return [run_case(c, prompt_text, prompt_id, model, rubric, role=role) for c in cases]
+def run_case(
+    case: Case,
+    prompt_text: str,
+    prompt_id: str,
+    rubric: Rubric,
+) -> RunManifest:
+    return run_case_samples(case, prompt_text, prompt_id, rubric, samples=1)
 
 
-def _promo_dir(promotion_id: str):
-    return PROMOTIONS_DIR / promotion_id
-
-
-def run_ab(cases: list[Case], rubric: Rubric, incumbent_prompt_text: str, incumbent_prompt_id: str,
-           candidate_prompt_text: str, candidate_prompt_id: str, model: str,
-           *, cycle_id: str | None = None) -> Promotion:
-    """Run every case under both prompts, sharing one checklist per case so
-    the same case-specific criteria apply to both sides. Decision is always
-    left to the supervisor — this only produces material to review."""
-    if cycle_id is not None:
-        registry.require_cycle("prompt", cycle_id=cycle_id)
-        if registry.active_prompt_id() != incumbent_prompt_id:
-            raise ValueError("Promotion incumbent is no longer the active prompt")
-
-    promotion_id = new_id("promo")
-    pairs: list[ABPair] = []
-
-    for case in cases:
-        checklist = evaluator.generate_checklist(case.prompt, case.case_id, rubric, model)
-        incumbent = run_case(case, incumbent_prompt_text, incumbent_prompt_id, model, rubric,
-                              role="incumbent", checklist=checklist)
-        candidate = run_case(case, candidate_prompt_text, candidate_prompt_id, model, rubric,
-                              role="candidate", checklist=checklist)
-        pairs.append(ABPair(case_id=case.case_id, incumbent_run_id=incumbent.run_id,
-                             candidate_run_id=candidate.run_id))
-
-    if cycle_id is not None:
-        registry.require_cycle("prompt", cycle_id=cycle_id)
-        if registry.active_prompt_id() != incumbent_prompt_id:
-            raise ValueError("Prompt cycle changed while the A/B campaign was running")
-
-    promotion = Promotion(
-        promotion_id=promotion_id, rubric_id=rubric.rubric_id,
-        incumbent_prompt_id=incumbent_prompt_id, candidate_prompt_id=candidate_prompt_id,
-        case_ids=[c.case_id for c in cases], created_at=now_iso(), status="pending",
-        cycle_id=cycle_id,
-    )
-
-    promo_dir = _promo_dir(promotion_id)
-    atomic_write_json(promo_dir / "manifest.json", promotion.to_dict())
-    for pair in pairs:
-        append_jsonl(promo_dir / "pairs.jsonl", pair.to_dict())
-
-    return promotion
-
-
-def load_promotion(promotion_id: str) -> Promotion:
-    return Promotion.from_dict(read_json(_promo_dir(promotion_id) / "manifest.json"))
-
-
-def save_promotion(promotion: Promotion) -> None:
-    atomic_write_json(_promo_dir(promotion.promotion_id) / "manifest.json", promotion.to_dict())
-
-
-def load_pairs(promotion_id: str) -> list[ABPair]:
-    return [ABPair.from_dict(d) for d in read_jsonl(_promo_dir(promotion_id) / "pairs.jsonl")]
-
-
-def save_pairs(promotion_id: str, pairs: list[ABPair]) -> None:
-    rewrite_jsonl(_promo_dir(promotion_id) / "pairs.jsonl", [p.to_dict() for p in pairs])
-
-
-def set_pair_preference(promotion_id: str, case_id: str, preference: str, notes: str = "") -> None:
-    pairs = load_pairs(promotion_id)
-    for p in pairs:
-        if p.case_id == case_id:
-            p.supervisor_preference = preference
-            p.notes = notes
-    save_pairs(promotion_id, pairs)
-
-
-def list_promotions() -> list[Promotion]:
-    if not PROMOTIONS_DIR.exists():
-        return []
-    out = []
-    for d in sorted(PROMOTIONS_DIR.iterdir()):
-        mpath = d / "manifest.json"
-        if mpath.exists():
-            out.append(Promotion.from_dict(read_json(mpath)))
-    return out
-
-
-def promotion_has_blocked_candidate_run(promotion_id: str) -> bool:
-    """True if any candidate-side run in this promotion hit a deterministic
-    hard failure. Used to gate promotion regardless of judge scores."""
-    for pair in load_pairs(promotion_id):
-        manifest = load_manifest(pair.candidate_run_id)
-        if manifest.promotion_blocked:
-            return True
-    return False
+def run_batch(
+    cases: list[Case],
+    prompt_text: str,
+    prompt_id: str,
+    rubric: Rubric,
+) -> list[RunManifest]:
+    return [run_case(case, prompt_text, prompt_id, rubric) for case in cases]
