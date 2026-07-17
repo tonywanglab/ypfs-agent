@@ -2,11 +2,11 @@ import json
 
 from harness import config, evaluator, llm
 from harness.checks import run_checks
-from harness.models import Rubric, RubricCriterion
+from harness.models import RubricVersion, RubricCriterion
 
 
 def _rubric():
-    return Rubric(
+    return RubricVersion(
         "rubric_v1",
         1,
         [

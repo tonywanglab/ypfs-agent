@@ -3,7 +3,7 @@ from harness.models import (
     CriterionVerdict,
     Judgment,
     PromptVersion,
-    Rubric,
+    RubricVersion,
     RubricCriterion,
     RunManifest,
     SupervisorReview,
@@ -12,7 +12,7 @@ from harness.models import (
 
 def test_version_and_run_contracts_roundtrip():
     prompt = PromptVersion("prompt_v1", 1, "text", "t")
-    rubric = Rubric(
+    rubric = RubricVersion(
         "rubric_v1",
         1,
         [RubricCriterion("quality", "good answer", "llm")],
@@ -28,7 +28,7 @@ def test_version_and_run_contracts_roundtrip():
         "t",
     )
     assert PromptVersion.from_dict(prompt.to_dict()) == prompt
-    assert Rubric.from_dict(rubric.to_dict()) == rubric
+    assert RubricVersion.from_dict(rubric.to_dict()) == rubric
     assert RunManifest.from_dict(manifest.to_dict()) == manifest
 
 

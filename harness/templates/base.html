@@ -11,17 +11,12 @@
     <nav>
       <a href="{{ url_for('dashboard') }}" class="brand">Eval Harness</a>
       <a href="{{ url_for('dashboard') }}" class="nav-link{% if request.endpoint == 'dashboard' %} is-active{% endif %}">Dashboard</a>
-      <a href="{{ url_for('chat') }}" class="nav-link{% if request.endpoint in ('chat', 'chat_run', 'experiment_detail') %} is-active{% endif %}">Experiment</a>
+      <a href="{{ url_for('chat') }}" class="nav-link{% if request.endpoint in ('chat', 'chat_run') %} is-active{% endif %}">Experiment</a>
       <a href="{{ url_for('runs_list') }}" class="nav-link{% if request.endpoint in ('runs_list', 'run_detail') %} is-active{% endif %}">Runs</a>
     </nav>
     <div class="cycle-status">
-      <span class="cycle-status-label">Active:</span>
-      <a id="active-job-chip" class="header-chip header-chip-job" hidden href="/" aria-live="polite">
-        <span class="header-job-spinner" aria-hidden="true"></span>
-        <span class="header-chip-job-text">
-          <span id="active-job-label">Working…</span>
-          <span id="active-job-detail" class="header-chip-job-detail" hidden></span>
-        </span>
+      <a id="active-job-status" class="active-job-status" hidden href="/" aria-live="polite">
+        <span id="active-job-text" class="active-job-status-text">Working…</span>
       </a>
       <span class="header-chip" title="Worker model: {{ fixed_agent_model }}">
         <span aria-hidden="true">👷</span>

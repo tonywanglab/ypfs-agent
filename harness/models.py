@@ -42,7 +42,7 @@ class RubricCriterion:
 
 
 @dataclass
-class Rubric:
+class RubricVersion:
     rubric_id: str
     version: int
     criteria: list[RubricCriterion]
@@ -55,7 +55,7 @@ class Rubric:
         return asdict(self)
 
     @classmethod
-    def from_dict(cls, data: dict) -> "Rubric":
+    def from_dict(cls, data: dict) -> "RubricVersion":
         criteria = [RubricCriterion.from_dict(c) for c in data.get("criteria", [])]
         kwargs = {
             k: v

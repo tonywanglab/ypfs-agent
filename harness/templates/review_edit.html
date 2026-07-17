@@ -1,0 +1,45 @@
+{% extends "base.html" %}
+{% block title %}Edit {{ review.review_id }} — Eval Harness{% endblock %}
+{% block content %}
+<div class="page-header">
+  <h1>Edit review {{ review.review_id }}</h1>
+  <p class="meta">
+    For run <a href="{{ url_for('run_detail', run_id=review.run_id) }}">{{ review.run_id }}</a>.
+  </p>
+</div>
+
+<section>
+  <form method="post" action="{{ url_for('save_review', review_id=review.review_id) }}" class="review-form">
+    <fieldset class="review-entry">
+      <legend>Review</legend>
+      <label>Verdict
+        <select name="verdict" required>
+          <option value="acceptable" {% if review.verdict == "acceptable" %}selected{% endif %}>acceptable</option>
+          <option value="unacceptable" {% if review.verdict == "unacceptable" %}selected{% endif %}>unacceptable</option>
+        </select>
+      </label>
+      <label>Primary problem
+        <input type="text" name="primary_problem" placeholder="One-line summary" value="{{ review.primary_problem }}">
+      </label>
+      <label>What should change? (required only if unacceptable)
+        <select name="failure_attribution">
+          <option value="" {% if not review.failure_attribution %}selected{% endif %}>Nothing</option>
+          <option value="prompt_issue" {% if review.failure_attribution == "prompt_issue" %}selected{% endif %}>Agent system prompt</option>
+          <option value="rubric_issue" {% if review.failure_attribution == "rubric_issue" %}selected{% endif %}>Judge rubric</option>
+          <option value="invalid_run" {% if review.failure_attribution == "invalid_run" %}selected{% endif %}>Invalid run / infrastructure</option>
+        </select>
+      </label>
+      <label>Missing considerations (one per line)
+        <textarea name="missing_considerations" rows="3">{{ review.missing_considerations | join("\n") }}</textarea>
+      </label>
+      <label>Notes
+        <textarea name="notes" rows="3">{{ review.notes }}</textarea>
+      </label>
+    </fieldset>
+    <div class="form-actions">
+      <a href="{{ url_for('run_detail', run_id=review.run_id) }}#existing-reviews">Cancel</a>
+      <button type="submit" class="primary">Save review</button>
+    </div>
+  </form>
+</section>
+{% endblock %}

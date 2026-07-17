@@ -3,9 +3,10 @@ import pytest
 from harness import reviews
 
 
-def test_create_filter_and_delete_review(evals_dir):
+def test_create_filter_and_delete_review(pg, make_run):
+    run_id = make_run()
     review = reviews.create_review(
-        "run_1",
+        run_id,
         "unacceptable",
         "missed options",
         "prompt_issue",
@@ -16,14 +17,16 @@ def test_create_filter_and_delete_review(evals_dir):
     assert reviews.list_reviews() == []
 
 
-def test_acceptable_review_has_no_change_target(evals_dir):
-    review = reviews.create_review("run_1", "acceptable", "", "prompt_issue")
+def test_acceptable_review_has_no_change_target(pg, make_run):
+    run_id = make_run()
+    review = reviews.create_review(run_id, "acceptable", "", "prompt_issue")
     assert review.failure_attribution is None
     assert review.status == "open"
 
 
-def test_mark_review_used_hides_from_open_list(evals_dir):
-    review = reviews.create_review("run_1", "unacceptable", "missed", "prompt_issue")
+def test_mark_review_used_hides_from_open_list(pg, make_run):
+    run_id = make_run()
+    review = reviews.create_review(run_id, "unacceptable", "missed", "prompt_issue")
     reviews.mark_review_used(review.review_id, "prompt_v2")
     used = reviews.load_review(review.review_id)
     assert used.status == "used"
@@ -35,6 +38,49 @@ def test_mark_review_used_hides_from_open_list(evals_dir):
 
 
 @pytest.mark.parametrize("target", [None, "agent_failure", "ambiguous"])
-def test_unacceptable_review_rejects_invalid_target(evals_dir, target):
+def test_unacceptable_review_rejects_invalid_target(pg, make_run, target):
+    run_id = make_run()
     with pytest.raises(ValueError):
-        reviews.create_review("run_1", "unacceptable", "bad", target)
+        reviews.create_review(run_id, "unacceptable", "bad", target)
+
+
+def test_reviews_for_run_filters_by_run_id(pg, make_run):
+    run_a = make_run(run_id="run_a")
+    run_b = make_run(run_id="run_b")
+    review_a = reviews.create_review(run_a, "unacceptable", "a", "prompt_issue")
+    reviews.create_review(run_b, "unacceptable", "b", "rubric_issue")
+    assert [r.review_id for r in reviews.reviews_for_run(run_a)] == [review_a.review_id]
+
+
+def test_update_review_overwrites_fields(pg, make_run):
+    run_id = make_run()
+    review = reviews.create_review(run_id, "unacceptable", "missed options", "prompt_issue")
+    updated = reviews.update_review(
+        review.review_id,
+        "acceptable",
+        "actually fine",
+        None,
+        missing_considerations=["one"],
+        notes="revised after a second look",
+    )
+    assert updated.verdict == "acceptable"
+    assert updated.primary_problem == "actually fine"
+    assert updated.failure_attribution is None
+    assert updated.missing_considerations == ["one"]
+    assert updated.notes == "revised after a second look"
+    assert reviews.load_review(review.review_id) == updated
+
+
+def test_update_review_rejects_invalid_target(pg, make_run):
+    run_id = make_run()
+    review = reviews.create_review(run_id, "unacceptable", "missed", "prompt_issue")
+    with pytest.raises(ValueError):
+        reviews.update_review(review.review_id, "unacceptable", "missed", None)
+
+
+def test_update_review_blocked_once_used(pg, make_run):
+    run_id = make_run()
+    review = reviews.create_review(run_id, "unacceptable", "missed", "prompt_issue")
+    reviews.mark_review_used(review.review_id, "prompt_v2")
+    with pytest.raises(ValueError):
+        reviews.update_review(review.review_id, "acceptable", "changed my mind", None)

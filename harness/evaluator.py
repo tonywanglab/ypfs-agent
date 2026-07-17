@@ -5,7 +5,7 @@ from __future__ import annotations
 import json
 
 from . import config, llm
-from .models import CheckResult, CriterionVerdict, Judgment, Rubric
+from .models import CheckResult, CriterionVerdict, Judgment, RubricVersion
 from .storage import new_id, now_iso
 from .trace import NormalizedTrace
 
@@ -35,7 +35,7 @@ Return exactly one entry for every supplied LLM criterion_id.
 
 
 def _deterministic_verdicts(
-    rubric: Rubric,
+    rubric: RubricVersion,
     check_results: list[CheckResult],
 ) -> dict[str, CriterionVerdict]:
     results_by_id = {result.check_id: result for result in check_results}
@@ -67,7 +67,7 @@ def judge_answer(
     case_prompt: str,
     answer: str,
     normalized_trace: NormalizedTrace,
-    rubric: Rubric,
+    rubric: RubricVersion,
     check_results: list[CheckResult],
     run_id: str,
 ) -> Judgment:

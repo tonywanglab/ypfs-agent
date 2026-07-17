@@ -16,6 +16,7 @@ also runnable directly:  python db.py --init
 """
 
 import os
+import threading
 from pathlib import Path
 
 SCHEMA_PATH = Path(__file__).parent / "schema.sql"
@@ -23,6 +24,11 @@ DEFAULT_DIM = 1536
 
 # Process-level singleton: one Postgres connection per process.
 _CONN = None
+
+# Per-thread connections for concurrent callers (web threads + queue workers).
+# A psycopg connection is not safe for concurrent use, so each thread gets its
+# own, opened with the same pooler-safe settings as get_conn().
+_THREAD_LOCAL = threading.local()
 
 
 def _require_url() -> str:
@@ -47,6 +53,11 @@ def get_conn():
     global _CONN
     if _CONN is not None and not _CONN.closed:
         return _CONN
+    _CONN = _connect()
+    return _CONN
+
+
+def _connect():
     try:
         import psycopg
         from pgvector.psycopg import register_vector
@@ -70,9 +81,22 @@ def get_conn():
         if cur.fetchone() is None:
             cur.execute("CREATE EXTENSION IF NOT EXISTS vector")
     register_vector(conn)
+    return conn
 
-    _CONN = conn
-    return _CONN
+
+def get_thread_conn():
+    """Return this thread's psycopg connection, opening it on first use.
+
+    Same settings as get_conn() (autocommit, no prepared statements, pgvector
+    adapter) but one connection per thread, so queue workers and web threads
+    can query concurrently. Reconnects if the connection was closed or died.
+    """
+    conn = getattr(_THREAD_LOCAL, "conn", None)
+    if conn is not None and not conn.closed:
+        return conn
+    conn = _connect()
+    _THREAD_LOCAL.conn = conn
+    return conn
 
 
 def to_vector(values):
