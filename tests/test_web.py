@@ -73,14 +73,57 @@ def test_runs_filter_by_prompt_rubric_pair(pg, monkeypatch):
 
 def test_review_requires_change_target_only_when_unacceptable(pg, monkeypatch):
     client = _client(pg, monkeypatch)
-    _seed_run("run_1", "prompt_v1", "rubric_v1", "t")
-    response = client.post("/runs/run_1/review", data={
+    _seed_run("run_aaaaaaaaaaaa", "prompt_v1", "rubric_v1", "t")
+    response = client.post("/runs/run_aaaaaaaaaaaa/review", data={
         "verdict": "unacceptable",
         "failure_attribution": "",
     })
     assert response.status_code == 302
     with client.session_transaction() as session:
         assert "Choose what should change" in session["_flashes"][0][1]
+
+
+def test_edit_review_route_updates_existing_review(pg, monkeypatch):
+    client = _client(pg, monkeypatch)
+    _seed_run("run_1", "prompt_v1", "rubric_v1", "t")
+    review = reviews.create_review("run_1", "unacceptable", "missed options", "prompt_issue")
+
+    body = client.get(f"/reviews/{review.review_id}/edit").get_data(as_text=True)
+    assert "missed options" in body
+
+    response = client.post(f"/reviews/{review.review_id}/save", data={
+        "verdict": "acceptable",
+        "primary_problem": "actually fine",
+        "failure_attribution": "",
+        "missing_considerations": "",
+        "notes": "revised",
+    })
+    assert response.status_code == 302
+    updated = reviews.load_review(review.review_id)
+    assert updated.verdict == "acceptable"
+    assert updated.primary_problem == "actually fine"
+    assert updated.failure_attribution is None
+    assert updated.notes == "revised"
+
+
+def test_edit_review_route_blocked_once_used(pg, monkeypatch):
+    client = _client(pg, monkeypatch)
+    _seed_run("run_1", "prompt_v1", "rubric_v1", "t")
+    review = reviews.create_review("run_1", "unacceptable", "missed options", "prompt_issue")
+    reviews.mark_review_used(review.review_id, "prompt_v2")
+
+    response = client.get(f"/reviews/{review.review_id}/edit")
+    assert response.status_code == 302
+    with client.session_transaction() as session:
+        assert "can no longer be edited" in session["_flashes"][0][1]
+
+    response = client.post(f"/reviews/{review.review_id}/save", data={
+        "verdict": "acceptable",
+        "primary_problem": "changed my mind",
+        "failure_attribution": "",
+    })
+    assert response.status_code == 400
+    assert reviews.load_review(review.review_id).primary_problem == "missed options"
 
 
 def test_prompt_draft_builder_exposes_loading_and_lockable_controls(pg, monkeypatch):
@@ -97,7 +140,7 @@ def test_prompt_draft_builder_exposes_loading_and_lockable_controls(pg, monkeypa
     assert 'data-active-job-lock' in body
     assert "Generating new prompt…" in body
     assert 'name="task_id"' in body
-    assert 'id="active-job-chip"' in body
+    assert 'id="active-job-status"' in body
     assert 'role="status" aria-live="polite" hidden' in body
 
 
@@ -153,7 +196,7 @@ def test_markdown_preview_uses_server_renderer(pg, monkeypatch):
 def test_header_shows_active_models_and_versions_as_chips(pg, monkeypatch):
     client = _client(pg, monkeypatch)
     body = client.get("/").get_data(as_text=True)
-    assert "Active:" in body
+    assert 'id="active-job-status"' in body
     assert "👷" in body
     assert "⚖️" in body
     assert "claude-fable-5" in body
@@ -240,10 +283,38 @@ def test_delete_run_route_rejects_invalid_run_id(pg, monkeypatch):
     assert response.status_code == 404
 
 
-def test_chat_page_tracks_task_status_for_loading_ui(pg, monkeypatch):
+def test_chat_page_does_not_lock_the_form_while_a_run_is_active(pg, monkeypatch):
     client = _client(pg, monkeypatch)
     body = client.get("/chat").get_data(as_text=True)
     assert 'name="task_id"' in body
-    assert 'data-active-job="experiment"' in body
-    assert "task_status" in body or "/tasks/" in body
-    assert "__JOB_ID__" in body
+    assert 'data-active-job="experiment"' not in body
+    assert "data-active-job-lock" not in body
+
+
+def test_chat_page_lists_queued_runs_and_allows_queuing_another(pg, monkeypatch):
+    client = _client(pg, monkeypatch)
+    first_task = tasks.new_task_id()
+    response = client.post("/chat/run", data={
+        "query": "first question",
+        "prompt_id": "prompt_v1",
+        "rubric_id": "rubric_v1",
+        "samples": "1",
+        "task_id": first_task,
+    })
+    assert response.status_code == 302
+
+    second_task = tasks.new_task_id()
+    response = client.post("/chat/run", data={
+        "query": "second question",
+        "prompt_id": "prompt_v1",
+        "rubric_id": "rubric_v1",
+        "samples": "1",
+        "task_id": second_task,
+    })
+    assert response.status_code == 302
+
+    body = client.get("/chat").get_data(as_text=True)
+    assert first_task in body
+    assert second_task in body
+    assert tasks.load(first_task)["status"] == "queued"
+    assert tasks.load(second_task)["status"] == "queued"

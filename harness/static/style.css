@@ -1601,6 +1601,8 @@ a:focus-visible {
 
 .inline-form { display: block; margin-top: 1rem; padding-top: 1rem; border-top: 1px solid var(--border); }
 
+.review-card form.inline-delete { display: inline; }
+
 .subtle-danger {
   flex: 0 0 auto;
   padding: 0.3rem 0.55rem;
@@ -1911,58 +1913,6 @@ a:focus-visible {
   gap: 0.5rem;
 }
 
-.chat-submit-spinner {
-  display: none;
-  width: 0.95em;
-  height: 0.95em;
-  border: 2px solid rgba(255, 255, 255, 0.35);
-  border-top-color: #fff;
-  border-radius: 50%;
-  animation: chat-submit-spin 0.65s linear infinite;
-}
-
-.chat-submit.is-loading .chat-submit-spinner {
-  display: block;
-}
-
-.chat-submit.is-loading {
-  cursor: wait;
-}
-
-.chat-submit.is-loading:active:not(:disabled) {
-  transform: none;
-}
-
-.chat-submit-status-row {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  gap: 0.4rem;
-  margin-top: 0.55rem;
-}
-
-.chat-submit-status {
-  display: grid;
-  gap: 0.15rem;
-  margin: 0;
-  padding: 0.65rem 0.75rem;
-  font-size: 0.82rem;
-  line-height: 1.45;
-  color: #1e3a5f;
-  text-align: center;
-  background: #eff6ff;
-  border: 1px solid #bfdbfe;
-  border-radius: var(--radius-sm);
-}
-
-.chat-submit-status[hidden] {
-  display: none;
-}
-
-.chat-submit-status span[data-active-job-status-detail] {
-  color: #4b6380;
-}
-
 .chat-status-reset {
   padding: 0;
   border: 0;
@@ -1989,12 +1939,7 @@ a:focus-visible {
   }
 }
 
-@keyframes chat-submit-spin {
-  to { transform: rotate(360deg); }
-}
-
 @media (prefers-reduced-motion: reduce) {
-  .chat-submit-spinner,
   .button-spinner {
     animation: none;
     border-top-color: rgba(255, 255, 255, 0.9);

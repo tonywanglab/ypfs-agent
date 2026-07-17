@@ -1,13 +1,16 @@
 """
-Tool registry + RAG tools for the agent.
+Tool registry + retrieval tools for the agent.
 
 The registry is two parallel structures: TOOLS (the JSON schemas sent to the
 model each turn) and _FNS (name -> Python implementation). `@tool(schema)`
 appends to both; `dispatch` runs one call by name. Adding a tool is one
 decorated function — no framework, no introspection magic.
 
-RAG tools (search_corpus, get_document) are ported from
-ypfs-rag/harness/corpus_exhibit_tools.py, trimmed to the retrieval core.
+search_corpus/get_document keep one schema each but their implementation
+branches on context.RETRIEVAL_BACKEND: "rag" (Pinecone/pgvector, ported from
+ypfs-rag/harness/corpus_exhibit_tools.py) or "mcp" (the local lexical server
+in mcp_server/, via context.mcp_client). Same tool names either way, so the
+model's view of the toolset never changes when the backend is flipped.
 """
 
 import json
@@ -15,7 +18,7 @@ import threading
 from pathlib import Path
 from typing import Callable, Optional
 
-from .context import RunContext
+from .context import RETRIEVAL_BACKEND, RunContext
 
 # ---- Registry ----
 
@@ -93,7 +96,7 @@ def _get_chunk_index() -> dict[str, dict]:
     return _CHUNK_BY_ID
 
 
-# ---- RAG tools ----
+# ---- Retrieval tools (rag or mcp backend, selected by RETRIEVAL_BACKEND) ----
 
 @tool({
     "type": "function",
@@ -122,6 +125,16 @@ def _get_chunk_index() -> dict[str, dict]:
 })
 def search_corpus(query: str, document_type: Optional[str] = None, limit: int = 5,
                   *, context: RunContext) -> dict:
+    """Retrieve matching corpus sections via the active RETRIEVAL_BACKEND."""
+    if RETRIEVAL_BACKEND == "mcp":
+        return context.mcp_client.call_tool("search_corpus", {
+            "query": query, "document_type": document_type, "limit": limit,
+        })
+    return _search_corpus_rag(query, document_type, limit, context=context)
+
+
+def _search_corpus_rag(query: str, document_type: Optional[str], limit: int,
+                       *, context: RunContext) -> dict:
     """Embed + Pinecone search, then expand child hits to parent sections.
 
     Returns {"results": [{doc_id, chunk_id, document_type, title, score, text,
@@ -183,8 +196,14 @@ def search_corpus(query: str, document_type: Optional[str] = None, limit: int = 
     },
 })
 def get_document(document_id: str, *, context: RunContext) -> dict:
-    """Return full markdown + metadata for a doc_id, with a traversal guard.
-    Filesystem-only; takes `context` for the uniform tool signature."""
+    """Fetch one document's full text + metadata via the active RETRIEVAL_BACKEND."""
+    if RETRIEVAL_BACKEND == "mcp":
+        return context.mcp_client.call_tool("get_document", {"document_id": document_id})
+    return _get_document_rag(document_id)
+
+
+def _get_document_rag(document_id: str) -> dict:
+    """Filesystem read with a traversal guard (RAG backend)."""
     try:
         meta_path = _safe_id(document_id, BASE_DIR / "metadata", ".json")
         md_path = _safe_id(document_id, BASE_DIR / "markdown", ".md")

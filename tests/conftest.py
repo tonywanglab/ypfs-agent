@@ -1,9 +1,14 @@
 """Shared pytest fixtures for the harness test suite.
 
-Every test that touches harness storage gets an isolated Postgres schema:
-a throwaway schema is created, schema.sql is applied inside it, and
-db.get_thread_conn is monkeypatched so every harness.dbio call lands there
-instead of the real database. Dropped on teardown.
+Every test that touches harness storage gets an isolated Postgres schema,
+but the physical connection is shared across the whole test session and
+reused (via db.get_thread_conn monkeypatched to hand back that connection)
+rather than opened fresh per test. Rapidly opening/closing many physical
+connections in one process has been observed to segfault psycopg_binary on
+this environment (Python 3.14 + psycopg-binary 3.3.4) — see the long-running
+`harness web`/`worker` processes, which never crash, for contrast. Threads a
+test spawns itself still get their own real connection, since psycopg
+connections aren't safe for concurrent use across threads.
 """
 
 from __future__ import annotations
@@ -18,56 +23,69 @@ from dotenv import load_dotenv
 load_dotenv()
 
 
-@pytest.fixture()
-def pg(monkeypatch):
-    """Isolated Postgres schema per test. Skips when no DB URL is configured."""
+@pytest.fixture(scope="session")
+def _pg_url():
     url = os.getenv("TEST_DATABASE_URL") or os.getenv("DATABASE_URL")
     if not url:
         pytest.skip("TEST_DATABASE_URL/DATABASE_URL not set")
+    return url
 
+
+@pytest.fixture(scope="session")
+def _shared_conn(_pg_url):
     import psycopg
-    from pgvector.psycopg import register_vector
 
+    conn = psycopg.connect(_pg_url, autocommit=True, prepare_threshold=None)
+    with conn.cursor() as cur:
+        cur.execute("SELECT 1 FROM pg_extension WHERE extname = 'vector'")
+        if cur.fetchone() is None:
+            cur.execute("CREATE EXTENSION IF NOT EXISTS vector")
+    # No register_vector(): none of the harness DB tests touch the
+    # `chunks.embedding` vector column.
+    yield conn
+    conn.close()
+
+
+@pytest.fixture()
+def pg(_pg_url, _shared_conn, monkeypatch):
+    """Isolated Postgres schema per test on the shared session connection."""
     import db as db_module
 
     schema = f"test_{secrets.token_hex(6)}"
-    admin_conn = psycopg.connect(url, autocommit=True, prepare_threshold=None)
-    admin_conn.execute(f'CREATE SCHEMA "{schema}"')
+    _shared_conn.execute(f'CREATE SCHEMA "{schema}"')
+    _shared_conn.execute(f'SET search_path TO "{schema}", public')
 
     ddl = db_module.SCHEMA_PATH.read_text().replace("{{DIM}}", "1536")
+    _shared_conn.execute(ddl)
+
+    main_thread_id = threading.get_ident()
     local = threading.local()
 
     def get_test_conn():
-        # Mirrors db.get_thread_conn(): one real connection per thread, so
-        # concurrent-claim tests (separate threads) never share a psycopg
-        # connection, which isn't safe for concurrent use.
+        if threading.get_ident() == main_thread_id:
+            return _shared_conn
+        # A thread the test spawned itself: give it its own real connection
+        # scoped to the same schema, cached for the life of that thread.
         conn = getattr(local, "conn", None)
         if conn is not None and not conn.closed:
             return conn
+        import psycopg
+
         conn = psycopg.connect(
-            url,
+            _pg_url,
             autocommit=True,
             prepare_threshold=None,
             options=f'-c search_path="{schema}",public',
         )
-        with conn.cursor() as cur:
-            cur.execute("SELECT 1 FROM pg_extension WHERE extname = 'vector'")
-            if cur.fetchone() is None:
-                cur.execute("CREATE EXTENSION IF NOT EXISTS vector")
-        register_vector(conn)
         local.conn = conn
         return conn
-
-    setup_conn = get_test_conn()
-    setup_conn.execute(ddl)
 
     monkeypatch.setattr(db_module, "get_thread_conn", get_test_conn)
 
     try:
         yield schema
     finally:
-        admin_conn.execute(f'DROP SCHEMA "{schema}" CASCADE')
-        admin_conn.close()
+        _shared_conn.execute(f'DROP SCHEMA "{schema}" CASCADE')
 
 
 @pytest.fixture()

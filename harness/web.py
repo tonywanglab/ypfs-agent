@@ -11,7 +11,7 @@ from flask import Flask, abort, flash, jsonify, redirect, render_template, reque
 
 from . import config, dbio, reviews, tasks, versions
 from .markdown_render import render_markdown
-from .models import Case, RubricCriterion
+from .models import Case, RubricCriterion, SupervisorReview
 from .rubric_diff import diff_rubric_criteria
 from .rubric_markdown import criteria_to_markdown, markdown_to_criteria
 from .runner import delete_run, load_manifest, load_run_bundle, list_runs
@@ -43,6 +43,12 @@ def _task_result_url(task: dict) -> str | None:
 
 def _field_at(values: list[str], index: int) -> str:
     return values[index].strip() if index < len(values) else ""
+
+
+def _experiment_label(query: str, word_limit: int = 8) -> str:
+    words = query.split()
+    snippet = " ".join(words[:word_limit])
+    return snippet + "…" if len(words) > word_limit else snippet
 
 
 def _review_is_used(review_id: str) -> bool:
@@ -83,11 +89,22 @@ def create_app() -> Flask:
         all_reviews = reviews.list_reviews()
         open_reviews = [review for review in all_reviews if review.status == "open"]
         reviewed_run_ids = {review.run_id for review in all_reviews}
-        pending_runs = [run for run in all_runs if run.run_id not in reviewed_run_ids]
+        pending_runs = [
+            run for run in all_runs
+            if run.status == "judged" and run.run_id not in reviewed_run_ids
+        ]
         pending_runs.sort(key=lambda run: run.created_at, reverse=True)
+        snapshots = dbio.q(
+            "SELECT run_id, case_snapshot->>'prompt' AS query FROM runs WHERE run_id = ANY(%s)",
+            ([run.run_id for run in pending_runs],),
+        ) if pending_runs else []
+        experiment_labels = {
+            row["run_id"]: _experiment_label(row["query"] or "") for row in snapshots
+        }
         return render_template(
             "dashboard.html",
             pending_runs=pending_runs,
+            experiment_labels=experiment_labels,
             open_reviews=list(reversed(open_reviews)),
             prompts=versions.list_prompts(),
             rubrics=versions.list_rubrics(),
@@ -156,12 +173,16 @@ def create_app() -> Flask:
                 flash(str(exc), "error")
             else:
                 flash(f"Deleted review {review.review_id}.", "success")
-        return redirect(url_for("dashboard"))
+        return redirect(url_for("run_detail", run_id=review.run_id) + "#existing-reviews")
 
     @app.route("/chat")
     def chat():
         prompts = versions.list_prompts()
         rubrics = versions.list_rubrics()
+        queued_runs = [
+            task for task in tasks.list_active() if task["kind"] == tasks.KIND_EXPERIMENT
+        ]
+        queued_runs.sort(key=lambda task: task["created_at"] or "")
         return render_template(
             "chat.html",
             prompts=prompts,
@@ -178,6 +199,7 @@ def create_app() -> Flask:
             default_samples=1,
             openrouter_configured=_openrouter_configured(),
             task_id=tasks.new_task_id(),
+            queued_runs=queued_runs,
         )
 
     @app.route("/chat/run", methods=["POST"])
@@ -333,6 +355,61 @@ def create_app() -> Flask:
             )
         flash(f"Saved {len(verdicts)} review(s).", "success")
         return redirect(url_for("run_detail", run_id=run_id))
+
+    @app.route("/reviews/<review_id>/edit")
+    def edit_review(review_id: str):
+        if not dbio.valid_id("review", review_id):
+            abort(404)
+        try:
+            review = reviews.load_review(review_id)
+        except (FileNotFoundError, ValueError):
+            abort(404)
+        if review.status == "used":
+            flash("This review was used by a saved prompt or rubric version and can no longer be edited.", "error")
+            return redirect(url_for("run_detail", run_id=review.run_id) + "#existing-reviews")
+        return render_template("review_edit.html", review=review)
+
+    @app.route("/reviews/<review_id>/save", methods=["POST"])
+    def save_review(review_id: str):
+        if not dbio.valid_id("review", review_id):
+            abort(404)
+        try:
+            review = reviews.load_review(review_id)
+        except (FileNotFoundError, ValueError):
+            abort(404)
+        verdict = request.form.get("verdict", "")
+        primary_problem = request.form.get("primary_problem", "")
+        failure_attribution = request.form.get("failure_attribution", "").strip() or None
+        missing_considerations = [
+            line.strip()
+            for line in request.form.get("missing_considerations", "").splitlines()
+            if line.strip()
+        ]
+        notes = request.form.get("notes", "")
+        try:
+            reviews.update_review(
+                review_id,
+                verdict=verdict,
+                primary_problem=primary_problem,
+                failure_attribution=failure_attribution,
+                missing_considerations=missing_considerations,
+                notes=notes,
+            )
+        except ValueError as exc:
+            flash(str(exc), "error")
+            return render_template(
+                "review_edit.html",
+                review=SupervisorReview.from_dict({
+                    **review.to_dict(),
+                    "verdict": verdict,
+                    "primary_problem": primary_problem,
+                    "failure_attribution": failure_attribution,
+                    "missing_considerations": missing_considerations,
+                    "notes": notes,
+                }),
+            ), 400
+        flash(f"Updated review {review_id}.", "success")
+        return redirect(url_for("run_detail", run_id=review.run_id) + "#existing-reviews")
 
     @app.route("/versions/prompts/draft", methods=["POST"])
     def draft_prompt():

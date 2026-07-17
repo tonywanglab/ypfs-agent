@@ -11,15 +11,29 @@
 </section>
 {% endif %}
 
+<section id="queued-runs-panel" data-active-tasks-panel>
+  <div class="section-head">
+    <h2>Queued runs <span class="count-badge" data-active-tasks-count>{{ queued_runs|length }}</span></h2>
+  </div>
+  <ul class="item-list" id="active-tasks-list" {% if not queued_runs %}hidden{% endif %}>
+    {% for task in queued_runs %}
+      <li class="dashboard-list-row" data-task-row data-task-id="{{ task.task_id }}">
+        <div class="dashboard-list-content">
+          <a href="{{ url_for('task_detail', task_id=task.task_id) }}">{{ task.task_id }}</a>
+          <span class="badge neutral" data-task-status>{{ task.status }}</span>
+          <span class="muted" data-task-message>{{ task.progress.message or '' }}</span>
+        </div>
+      </li>
+    {% endfor %}
+  </ul>
+  <p class="empty-state compact" data-active-tasks-empty {% if queued_runs %}hidden{% endif %}>No queued or running runs. Submitting below queues another without waiting for others to finish.</p>
+</section>
+
 <div class="chat-layout">
   <aside class="chat-config">
-    <form method="post" action="{{ url_for('chat_run') }}" id="experiment-form"
-      data-active-job="experiment"
-      data-active-job-return="{{ url_for('chat') }}"
-      data-status-url-template="{{ url_for('task_status', task_id='__JOB_ID__') }}"
-      data-job-id-field="task_id">
+    <form method="post" action="{{ url_for('chat_run') }}" id="experiment-form">
       <input type="hidden" name="task_id" value="{{ task_id }}">
-      <div data-active-job-lock>
+      <div>
         <fieldset>
           <legend>Configuration</legend>
 
@@ -89,19 +103,11 @@
       </div>
 
       <div class="chat-submit-row">
-        <button type="submit" class="primary chat-submit" id="chat-submit" data-active-job-submit>
+        <button type="submit" class="primary chat-submit" id="chat-submit">
           <span class="chat-submit-content">
-            <span class="chat-submit-spinner" aria-hidden="true"></span>
-            <span class="chat-submit-label" data-active-job-submit-label>Run evaluation</span>
+            <span class="chat-submit-label">Queue run</span>
           </span>
         </button>
-        <div class="chat-submit-status-row">
-          <div class="chat-submit-status" id="chat-submit-status" data-active-job-status role="status" aria-live="polite" hidden>
-            <strong data-active-job-status-title></strong>
-            <span data-active-job-status-detail></span>
-          </div>
-          <button type="button" class="chat-status-reset is-danger" id="chat-status-reset" data-active-job-reset hidden>Cancel Run</button>
-        </div>
       </div>
     </form>
   </aside>
@@ -114,6 +120,7 @@
       <li>The direct judge is fixed to <code>{{ fixed_judge_model }}</code>.</li>
       <li>Versioned prompts and rubrics come from <code>evals/prompts/</code> and <code>evals/rubrics/</code>.</li>
       <li>Multiple samples live in one run — switch between them on the run detail page.</li>
+      <li>Queuing a run doesn't block this page — queue as many as you like and keep configuring the next one.</li>
       <li>Runs appear on the Runs page and can be reviewed from the dashboard.</li>
     </ul>
     <p class="meta">Form defaults: prompt={{ selected_prompt_id }} · rubric={{ selected_rubric_id }}</p>

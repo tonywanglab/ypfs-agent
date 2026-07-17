@@ -3,7 +3,6 @@
     STORAGE_KEY: "harness-active-job",
     MAX_AGE_MS: 30 * 60 * 1000,
     LABELS: {
-      experiment: "Running experiment",
       prompt_draft: "Generating new prompt",
       rubric_draft: "Generating new rubric",
     },
@@ -96,34 +95,7 @@
       status.textContent = detail ? title + " — " + detail : title;
     },
 
-    experimentDetail: function (data) {
-      var progress = (data && data.progress) || {};
-      if (progress.message) return progress.message;
-      var samples = Number(data && data.payload && data.payload.samples) || 1;
-      if (samples > 1) {
-        return "Starting " + samples + " samples…";
-      }
-      return "Preparing run…";
-    },
-
-    applyExperimentProgress: function (form, state, data) {
-      if (state.kind !== "experiment") return;
-      var detail = this.experimentDetail(data);
-      if (form) {
-        this.setStatusText(
-          form,
-          state.label || this.LABELS.experiment,
-          detail
-        );
-      }
-      this.updateStatusText(state, detail || state.label || this.LABELS.experiment);
-    },
-
     applyProgress: function (state, data) {
-      if (state.kind === "experiment") {
-        this.applyExperimentProgress(this.findForm(state.kind), state, data);
-        return;
-      }
       var form = this.findForm(state.kind);
       var detail = (data && data.progress && data.progress.message)
         || "Controls are locked until generation completes.";
@@ -156,15 +128,11 @@
       }
       if (lock) lock.inert = true;
 
-      if (state.kind === "experiment") {
-        this.applyExperimentProgress(form, state, { samples: state.samples });
-      } else {
-        this.setStatusText(
-          form,
-          state.label || this.labelFor(state.kind),
-          "Controls are locked until generation completes."
-        );
-      }
+      this.setStatusText(
+        form,
+        state.label || this.labelFor(state.kind),
+        "Controls are locked until generation completes."
+      );
       // The reset button only matters when re-attaching to a run that may be
       // stuck — the fresh poll() call right after this fills in real progress
       // within a second or two either way.
@@ -238,12 +206,6 @@
         );
         var formStatus = form.querySelector("[data-active-job-status]");
         if (formStatus) formStatus.hidden = false;
-        return;
-      }
-      if (state.kind === "experiment") {
-        this.setStatusText(form, "Evaluation finished", "Open Runs to view the result.");
-        var experimentStatus = form.querySelector("[data-active-job-status]");
-        if (experimentStatus) experimentStatus.hidden = false;
       }
     },
 
@@ -333,7 +295,6 @@
         var kind = form.dataset.activeJob || "job";
         var idField = form.dataset.jobIdField || "job_id";
         var idInput = form.querySelector('[name="' + idField + '"]');
-        var samplesInput = form.querySelector('[name="samples"]');
         var state = {
           kind: kind,
           label: self.labelFor(kind),
@@ -341,7 +302,6 @@
           returnPath: form.dataset.activeJobReturn || window.location.pathname,
           statusUrlTemplate: form.dataset.statusUrlTemplate || "",
           startedAt: Date.now(),
-          samples: samplesInput ? Number(samplesInput.value) : undefined,
         };
         self.write(state);
         self.updateChrome(state);

@@ -160,6 +160,13 @@
       <p>
         <span class="badge {% if r.verdict == 'acceptable' %}ok{% else %}fail{% endif %}">{{ r.verdict }}</span>
         {% if r.failure_attribution %}<span class="muted">{{ r.failure_attribution }}</span> —{% endif %} {{ r.primary_problem }}
+        {% if r.status != 'used' %}
+          <a href="{{ url_for('edit_review', review_id=r.review_id) }}">Edit</a>
+          <form method="post" action="{{ url_for('delete_review_route', review_id=r.review_id) }}"
+            class="inline-delete" data-confirm="Delete review {{ r.review_id }}?">
+            <button type="submit" class="subtle-danger">Delete</button>
+          </form>
+        {% endif %}
       </p>
       {% if r.notes %}<p class="muted">{{ r.notes }}</p>{% endif %}
     </div>

@@ -47,6 +47,33 @@ def create_review(run_id: str, verdict: str, primary_problem: str,
     return review
 
 
+def update_review(review_id: str, verdict: str, primary_problem: str,
+                   failure_attribution: str | None,
+                   missing_considerations: list[str] | None = None,
+                   notes: str = "") -> SupervisorReview:
+    if verdict not in ("acceptable", "unacceptable"):
+        raise ValueError(f"Invalid verdict: {verdict!r}")
+    valid_targets = {"prompt_issue", "rubric_issue", "invalid_run"}
+    if verdict == "unacceptable" and failure_attribution not in valid_targets:
+        raise ValueError("Unacceptable reviews require a valid change target")
+    if verdict == "acceptable":
+        failure_attribution = None
+    review = load_review(review_id)
+    if review.status == "used":
+        raise ValueError(f"Review {review_id!r} was used by {review.used_by_version_id!r} and can no longer be edited")
+    dbio.execute(
+        """
+        UPDATE reviews
+           SET verdict = %s, primary_problem = %s, failure_attribution = %s,
+               missing_considerations = %s, notes = %s
+         WHERE review_id = %s
+        """,
+        (verdict, primary_problem, failure_attribution,
+         dbio.jsonb(missing_considerations or []), notes, review_id),
+    )
+    return load_review(review_id)
+
+
 def load_review(review_id: str) -> SupervisorReview:
     row = dbio.q1("SELECT * FROM reviews WHERE review_id = %s", (review_id,))
     if row is None:

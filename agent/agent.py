@@ -94,29 +94,36 @@ def run(
     """
     if system_prompt is _DEFAULT_SYSTEM_PROMPT:
         system_prompt = SYSTEM_PROMPT_PATH.read_text().strip()
-    if context is None:
+    owns_context = context is None
+    if owns_context:
         context = RunContext()
 
     messages = [*([ {"role": "system", "content": system_prompt}] if system_prompt else []),
                 *(history or []),
                 {"role": "user", "content": user_msg}]
 
-    for _ in range(MAX_STEPS):
-        msg = _call(messages, model)
-        messages.append(msg)
-        calls = msg.get("tool_calls")
-        if not calls:
-            return msg.get("content", ""), messages[1:]
-        for c in calls:
-            args = json.loads(c["function"]["arguments"] or "{}")
-            result = dispatch(c["function"]["name"], args, context)
-            messages.append({
-                "role": "tool",
-                "tool_call_id": c["id"],
-                "content": json.dumps(result, default=str),
-            })
+    try:
+        for _ in range(MAX_STEPS):
+            msg = _call(messages, model)
+            messages.append(msg)
+            calls = msg.get("tool_calls")
+            if not calls:
+                return msg.get("content", ""), messages[1:]
+            for c in calls:
+                args = json.loads(c["function"]["arguments"] or "{}")
+                result = dispatch(c["function"]["name"], args, context)
+                messages.append({
+                    "role": "tool",
+                    "tool_call_id": c["id"],
+                    "content": json.dumps(result, default=str),
+                })
 
-    return "[stopped: hit MAX_STEPS]", messages[1:]
+        return "[stopped: hit MAX_STEPS]", messages[1:]
+    finally:
+        # Only close a context this call created itself — a caller-supplied
+        # context (e.g. shared across a run's samples) is the caller's to close.
+        if owns_context:
+            context.close()
 
 
 SMOKE_CASES = [

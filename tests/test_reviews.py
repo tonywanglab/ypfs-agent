@@ -50,3 +50,37 @@ def test_reviews_for_run_filters_by_run_id(pg, make_run):
     review_a = reviews.create_review(run_a, "unacceptable", "a", "prompt_issue")
     reviews.create_review(run_b, "unacceptable", "b", "rubric_issue")
     assert [r.review_id for r in reviews.reviews_for_run(run_a)] == [review_a.review_id]
+
+
+def test_update_review_overwrites_fields(pg, make_run):
+    run_id = make_run()
+    review = reviews.create_review(run_id, "unacceptable", "missed options", "prompt_issue")
+    updated = reviews.update_review(
+        review.review_id,
+        "acceptable",
+        "actually fine",
+        None,
+        missing_considerations=["one"],
+        notes="revised after a second look",
+    )
+    assert updated.verdict == "acceptable"
+    assert updated.primary_problem == "actually fine"
+    assert updated.failure_attribution is None
+    assert updated.missing_considerations == ["one"]
+    assert updated.notes == "revised after a second look"
+    assert reviews.load_review(review.review_id) == updated
+
+
+def test_update_review_rejects_invalid_target(pg, make_run):
+    run_id = make_run()
+    review = reviews.create_review(run_id, "unacceptable", "missed", "prompt_issue")
+    with pytest.raises(ValueError):
+        reviews.update_review(review.review_id, "unacceptable", "missed", None)
+
+
+def test_update_review_blocked_once_used(pg, make_run):
+    run_id = make_run()
+    review = reviews.create_review(run_id, "unacceptable", "missed", "prompt_issue")
+    reviews.mark_review_used(review.review_id, "prompt_v2")
+    with pytest.raises(ValueError):
+        reviews.update_review(review.review_id, "acceptable", "changed my mind", None)

@@ -193,28 +193,32 @@ def run_case_samples(
     if on_progress:
         on_progress("prepare", 0, samples, run_id)
 
-    # One context per run: backends (retriever) are shared across this run's
-    # samples but isolated from concurrent runs.
+    # One context per run: backends (retriever, MCP client) are shared across
+    # this run's samples but isolated from concurrent runs. Always closed at
+    # the end — no caller reuses a context across more than one run.
     if context is None:
         context = RunContext()
     any_hard = False
     last_judgment_id = None
-    for index in range(1, samples + 1):
-        _, hard_failure, judgment = _execute_sample(
-            case=case,
-            prompt_text=prompt_text,
-            prompt_id=prompt_id,
-            rubric=rubric,
-            run_id=run_id,
-            sample_index=index,
-            sample_total=samples,
-            on_progress=on_progress,
-            context=context,
-        )
-        any_hard = any_hard or hard_failure
-        last_judgment_id = judgment.judgment_id
-        if on_progress:
-            on_progress("sample_done", index, samples, run_id)
+    try:
+        for index in range(1, samples + 1):
+            _, hard_failure, judgment = _execute_sample(
+                case=case,
+                prompt_text=prompt_text,
+                prompt_id=prompt_id,
+                rubric=rubric,
+                run_id=run_id,
+                sample_index=index,
+                sample_total=samples,
+                on_progress=on_progress,
+                context=context,
+            )
+            any_hard = any_hard or hard_failure
+            last_judgment_id = judgment.judgment_id
+            if on_progress:
+                on_progress("sample_done", index, samples, run_id)
+    finally:
+        context.close()
 
     manifest.judgment_id = last_judgment_id
     manifest.hard_failure = any_hard
