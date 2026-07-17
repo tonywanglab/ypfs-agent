@@ -139,37 +139,34 @@ Benchmark harness and outputs for evaluating frontier model performance on corpu
 
 ## Evaluation harness (two variables)
 
-A local, file-backed harness around `agent.run()` with exactly two experimental variables: the selected agent system prompt version and selected judge rubric version. The agent model is fixed to Claude Fable 5, the judge model is fixed to GPT 5.6 Terra, and every run starts with empty history. Deterministic checks run first, followed by one direct rubric-judging call.
+A Postgres-backed harness around `agent.run()` with exactly two experimental variables: the selected agent system prompt version and selected judge rubric version. The agent model is fixed to Claude Fable 5, the judge model is fixed to GPT 5.6 Terra, and every run starts with empty history. Deterministic checks run first, followed by one direct rubric-judging call. Cases, prompt/rubric versions, runs, reviews, and the background task queue all live in Postgres (`DATABASE_URL` in `.env`) — see `schema.sql`.
 
 ### Quick start
 
 ```bash
-python -m harness.seed          # idempotent: cases, rubric_v1, prompt_v1
-python3 -m pytest tests/ -q     # offline suite (mocked LLM/agent)
+python db.py --init             # idempotent: apply schema.sql
+python -m harness seed          # idempotent: cases, rubric_v1, prompt_v1
+python3 -m pytest tests/ -q     # offline suite (mocked LLM/agent); DB tests skip without TEST_DATABASE_URL/DATABASE_URL
 
-# Live eval batch (requires .env API keys)
-python -c "from agent.evals import run_harness_evals; print(run_harness_evals())"
-
-# Supervisor UI (127.0.0.1 only)
-python -m harness               # http://127.0.0.1:5050/
-python -m harness web --port 5050
+# Supervisor UI + background worker (127.0.0.1 only)
+python -m harness web --with-worker   # one process, dev convenience
+# or, separately:
+python -m harness web                 # http://127.0.0.1:5050/
+python -m harness worker --concurrency 3
 ```
 
 ### Workflow
 
-1. **Run** — choose an explicit prompt/rubric pair; artifacts land in `evals/runs/{run_id}/`.
+1. **Run** — launch a run from `/chat` (or an explicit prompt/rubric pair); it's queued as a `tasks` row and executed by a worker.
 2. **Review** — mark the run acceptable, or attribute an unacceptable result to `prompt_issue`, `rubric_issue`, or `invalid_run`.
-3. **Draft** — select relevant feedback and a base version to ask the fixed editor model for an editable draft.
+3. **Draft** — select relevant feedback and a base version to ask the fixed editor model for an editable draft (also a queued task).
 4. **Approve** — edit the draft and explicitly save it as the next immutable `prompt_vN` or `rubric_vN`. Discarding the page saves nothing.
 
-### Artifact layout (`evals/`)
+The dashboard's active-tasks panel shows queued/running tasks of either kind; `GET /tasks/<task_id>/status` is the one polling endpoint for both.
 
-| Path | Committed? | Purpose |
-|---|---|---|
-| `cases.jsonl` | yes | Versioned eval scenarios |
-| `rubrics/rubric_v*.json` | yes (seed) | Immutable judge rubric versions |
-| `prompts/prompt_v*.json` | yes (seed) | Versioned system prompts |
-| `runs/`, `reviews/`, `experiments/` | no | Generated eval artifacts |
+### `evals/` — pre-migration archive
+
+`evals/runs/`, `evals/reviews/`, `evals/experiments/`, and `evals/jobs/` are leftover file-backed artifacts from before the Postgres migration. Nothing in the harness reads them anymore (cases, versions, runs, reviews, and tasks are all in Postgres now) — they're an inert archive, safe to delete at will. `evals/cases.jsonl` and `evals/rubrics|prompts/*_v1.json` are still committed and read once by `python -m harness seed`.
 
 ## Utility Scripts
 

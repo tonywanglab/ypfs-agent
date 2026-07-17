@@ -15,6 +15,7 @@ import time
 import requests
 from dotenv import load_dotenv
 
+from .context import RunContext
 from .tools import TOOLS, dispatch
 
 load_dotenv()
@@ -76,6 +77,7 @@ def run(
     history: list[dict] | None = None,
     model: str = DEFAULT_MODEL,
     system_prompt: str | None | object = _DEFAULT_SYSTEM_PROMPT,
+    context: RunContext | None = None,
 ):
     """Run the agent loop until the model stops calling tools.
 
@@ -83,11 +85,17 @@ def run(
     cleanly back in as the next call's history. The default prompt is reloaded
     from disk for each run; pass system_prompt=None to omit it entirely.
 
+    `context` carries this run's backends (retriever, …). Callers running
+    several samples of one case should pass a shared context so the backends
+    are reused; concurrent runs each pass their own so state never interleaves.
+
     Returns (answer: str, messages: list[dict]) — messages is the full trace
     (user/assistant/tool turns) for eval inspection.
     """
     if system_prompt is _DEFAULT_SYSTEM_PROMPT:
         system_prompt = SYSTEM_PROMPT_PATH.read_text().strip()
+    if context is None:
+        context = RunContext()
 
     messages = [*([ {"role": "system", "content": system_prompt}] if system_prompt else []),
                 *(history or []),
@@ -101,7 +109,7 @@ def run(
             return msg.get("content", ""), messages[1:]
         for c in calls:
             args = json.loads(c["function"]["arguments"] or "{}")
-            result = dispatch(c["function"]["name"], args)
+            result = dispatch(c["function"]["name"], args, context)
             messages.append({
                 "role": "tool",
                 "tool_call_id": c["id"],

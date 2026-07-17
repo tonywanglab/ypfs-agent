@@ -11,8 +11,11 @@ ypfs-rag/harness/corpus_exhibit_tools.py, trimmed to the retrieval core.
 """
 
 import json
+import threading
 from pathlib import Path
 from typing import Callable, Optional
+
+from .context import RunContext
 
 # ---- Registry ----
 
@@ -25,6 +28,8 @@ def tool(schema: dict):
 
     schema is the OpenRouter/OpenAI function-call shape:
       {"type": "function", "function": {"name", "description", "parameters"}}
+    Implementations take the model-visible arguments plus a keyword-only
+    `context: RunContext` carrying per-run backends.
     """
     def deco(fn: Callable) -> Callable:
         TOOLS.append(schema)
@@ -33,14 +38,15 @@ def tool(schema: dict):
     return deco
 
 
-def dispatch(name: str, args: dict) -> dict:
+def dispatch(name: str, args: dict, context: RunContext | None = None) -> dict:
     """Run one tool call by name. Never raises — a bad call becomes a tool error
-    the model can read and recover from."""
+    the model can read and recover from. `context` carries the run's backends;
+    a fresh one is built for callers that don't pass their own."""
     fn = _FNS.get(name)
     if fn is None:
         return {"error": f"unknown tool: {name}"}
     try:
-        return fn(**args)
+        return fn(context=context or RunContext(), **args)
     # SystemExit (a BaseException) is how the ported retrieval code signals config
     # errors (e.g. missing PINECONE_API_KEY); catch it too so a bad tool call
     # surfaces as data the model can read, instead of killing the loop.
@@ -64,21 +70,26 @@ def _safe_id(doc_id: str, base: Path, suffix: str) -> Path:
 # chunks/ holds parent sections; it's a gitignored build artifact and may be
 # absent. When it is, the index is empty and search_corpus falls back to the
 # embedding_text stamped in each Pinecone record — degraded but still useful.
+# The index is immutable once built, so a single shared copy is safe across
+# concurrent runs; the lock only serializes the one-time build.
 _CHUNK_BY_ID: dict[str, dict] | None = None
+_CHUNK_INDEX_LOCK = threading.Lock()
 
 
 def _get_chunk_index() -> dict[str, dict]:
     """chunk_id -> chunk, across all docs. Empty if chunks/ isn't on disk."""
     global _CHUNK_BY_ID
-    if _CHUNK_BY_ID is None:
-        _CHUNK_BY_ID = {}
-        for path in (BASE_DIR / "chunks").glob("*.jsonl"):
-            with open(path) as f:
-                for line in f:
-                    line = line.strip()
-                    if line:
-                        c = json.loads(line)
-                        _CHUNK_BY_ID[c["chunk_id"]] = c
+    with _CHUNK_INDEX_LOCK:
+        if _CHUNK_BY_ID is None:
+            index: dict[str, dict] = {}
+            for path in (BASE_DIR / "chunks").glob("*.jsonl"):
+                with open(path) as f:
+                    for line in f:
+                        line = line.strip()
+                        if line:
+                            c = json.loads(line)
+                            index[c["chunk_id"]] = c
+            _CHUNK_BY_ID = index
     return _CHUNK_BY_ID
 
 
@@ -109,16 +120,15 @@ def _get_chunk_index() -> dict[str, dict]:
         },
     },
 })
-def search_corpus(query: str, document_type: Optional[str] = None, limit: int = 5) -> dict:
+def search_corpus(query: str, document_type: Optional[str] = None, limit: int = 5,
+                  *, context: RunContext) -> dict:
     """Embed + Pinecone search, then expand child hits to parent sections.
 
     Returns {"results": [{doc_id, chunk_id, document_type, title, score, text,
     matched_text, page, parent_id}], "total_found": int}. "text" is the parent
     section (or the Pinecone embedding_text when chunks/ is absent).
     """
-    from .retrieval import get_retriever
-
-    matches = get_retriever().retrieve(query, document_type=document_type, k=limit)
+    matches = context.retriever.retrieve(query, document_type=document_type, k=limit)
     by_id = _get_chunk_index()
 
     results: list[dict] = []
@@ -172,8 +182,9 @@ def search_corpus(query: str, document_type: Optional[str] = None, limit: int = 
         },
     },
 })
-def get_document(document_id: str) -> dict:
-    """Return full markdown + metadata for a doc_id, with a traversal guard."""
+def get_document(document_id: str, *, context: RunContext) -> dict:
+    """Return full markdown + metadata for a doc_id, with a traversal guard.
+    Filesystem-only; takes `context` for the uniform tool signature."""
     try:
         meta_path = _safe_id(document_id, BASE_DIR / "metadata", ".json")
         md_path = _safe_id(document_id, BASE_DIR / "markdown", ".md")

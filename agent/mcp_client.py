@@ -1,10 +1,12 @@
 """Sync client for the local lexical MCP server (the agent-side adapter).
 
-When RETRIEVAL_BACKEND=mcp, agent/tools.py routes search_corpus / get_document
-through this client instead of the Pinecone/pgvector retriever. The MCP Python
-SDK client is async (anyio); we wrap it in a daemon thread that owns an asyncio
-loop and keeps one stdio session open for the process lifetime, exposing a
-blocking `call_tool(name, args) -> dict` to the synchronous agent loop.
+When an MCP retrieval backend is wired in, instantiate one McpClient per
+RunContext (agent/context.py) — NOT as a process singleton — so each concurrent
+run owns its own server subprocess and session, and call close() when the run
+ends. The MCP Python SDK client is async (anyio); we wrap it in a daemon
+thread that owns an asyncio loop and keeps one stdio session open for the
+client's lifetime, exposing a blocking `call_tool(name, args) -> dict` to the
+synchronous agent loop.
 """
 
 import asyncio
@@ -82,13 +84,8 @@ class McpClient:
             return {"error": "MCP tool reported an error"}
         return {"error": "empty MCP tool result"}
 
-
-_CLIENT: McpClient | None = None
-
-
-def get_mcp_client() -> McpClient:
-    """Process-level singleton: one server subprocess + session per run."""
-    global _CLIENT
-    if _CLIENT is None:
-        _CLIENT = McpClient()
-    return _CLIENT
+    def close(self, timeout: float = 5.0) -> None:
+        """Shut down the session, server subprocess, and background thread."""
+        if self._shutdown is not None:
+            self._loop.call_soon_threadsafe(self._shutdown.set)
+        self._thread.join(timeout=timeout)

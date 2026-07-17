@@ -16,9 +16,9 @@
     <form method="post" action="{{ url_for('chat_run') }}" id="experiment-form"
       data-active-job="experiment"
       data-active-job-return="{{ url_for('chat') }}"
-      data-status-url-template="{{ url_for('chat_experiment_status', experiment_id='__JOB_ID__') }}"
-      data-job-id-field="experiment_id">
-      <input type="hidden" name="experiment_id" value="{{ experiment_id }}">
+      data-status-url-template="{{ url_for('task_status', task_id='__JOB_ID__') }}"
+      data-job-id-field="task_id">
+      <input type="hidden" name="task_id" value="{{ task_id }}">
       <div data-active-job-lock>
         <fieldset>
           <legend>Configuration</legend>
@@ -100,7 +100,7 @@
             <strong data-active-job-status-title></strong>
             <span data-active-job-status-detail></span>
           </div>
-          <button type="button" class="chat-status-reset" id="chat-status-reset" data-active-job-reset hidden>Clear status</button>
+          <button type="button" class="chat-status-reset is-danger" id="chat-status-reset" data-active-job-reset hidden>Cancel Run</button>
         </div>
       </div>
     </form>

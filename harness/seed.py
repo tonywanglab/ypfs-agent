@@ -1,21 +1,11 @@
-"""Seed cases and immutable prompt/rubric version-one baselines."""
+"""Seed cases and immutable prompt/rubric version-one baselines (Postgres)."""
 
 from __future__ import annotations
 
-from .models import Case, PromptVersion, Rubric, RubricCriterion
-from .storage import (
-    EVALS_DIR,
-    REPO_ROOT,
-    atomic_write_json,
-    now_iso,
-    append_jsonl,
-    read_json_default,
-    read_jsonl,
-)
+from . import dbio
+from .models import Case, PromptVersion, RubricVersion, RubricCriterion
+from .storage import REPO_ROOT, now_iso
 
-CASES_PATH = EVALS_DIR / "cases.jsonl"
-RUBRIC_V1_PATH = EVALS_DIR / "rubrics" / "rubric_v1.json"
-PROMPT_V1_PATH = EVALS_DIR / "prompts" / "prompt_v1.json"
 SYSTEM_PROMPT_PATH = REPO_ROOT / "agent" / "system_prompt.md"
 
 SEED_CASES = [
@@ -179,43 +169,71 @@ SEED_RUBRIC_CRITERIA = [
 ]
 
 
+def _case_from_row(row: dict) -> Case:
+    return Case(
+        case_id=row["case_id"],
+        prompt=row["prompt"],
+        tags=row["tags"] or [],
+        notes=row["notes"] or "",
+    )
+
+
 def load_cases() -> list[Case]:
-    return [Case.from_dict(d) for d in read_jsonl(CASES_PATH)]
+    """Seeded (non-adhoc) cases, for the case pickers."""
+    rows = dbio.q("SELECT * FROM cases WHERE NOT adhoc ORDER BY case_id")
+    return [_case_from_row(row) for row in rows]
+
+
+def insert_case(case: Case, adhoc: bool = False) -> Case:
+    """Insert a case if its id is new; existing rows are left untouched."""
+    dbio.execute(
+        """
+        INSERT INTO cases (case_id, prompt, tags, notes, adhoc, created_at)
+        VALUES (%s, %s, %s, %s, %s, %s)
+        ON CONFLICT (case_id) DO NOTHING
+        """,
+        (case.case_id, case.prompt, dbio.jsonb(case.tags), case.notes, adhoc, now_iso()),
+    )
+    return case
+
+
+def load_case(case_id: str) -> Case:
+    row = dbio.q1("SELECT * FROM cases WHERE case_id = %s", (case_id,))
+    if row is None:
+        raise FileNotFoundError(f"Case {case_id!r} does not exist")
+    return _case_from_row(row)
 
 
 def seed_cases() -> list[Case]:
-    existing = {c["case_id"] for c in read_jsonl(CASES_PATH)}
     for case in SEED_CASES:
-        if case.case_id not in existing:
-            append_jsonl(CASES_PATH, case.to_dict())
+        insert_case(case)
     return load_cases()
 
 
-def load_rubric_v1() -> Rubric:
-    return Rubric.from_dict(read_json_default(RUBRIC_V1_PATH, None))
-
-
-def seed_rubric_v1() -> Rubric:
-    if RUBRIC_V1_PATH.exists():
-        return load_rubric_v1()
-    rubric = Rubric(
+def seed_rubric_v1() -> RubricVersion:
+    rubric = RubricVersion(
         rubric_id="rubric_v1",
         version=1,
         criteria=SEED_RUBRIC_CRITERIA,
         created_at=now_iso(),
         rationale="Seeded from agent/system_prompt.md source-hierarchy and output-format policy.",
     )
-    atomic_write_json(RUBRIC_V1_PATH, rubric.to_dict())
-    return rubric
-
-
-def load_prompt_v1() -> PromptVersion:
-    return PromptVersion.from_dict(read_json_default(PROMPT_V1_PATH, None))
+    dbio.execute(
+        """
+        INSERT INTO rubric_versions (rubric_id, version, criteria, created_at,
+                                     parent_rubric_id, rationale)
+        VALUES (%s, %s, %s, %s, %s, %s)
+        ON CONFLICT (rubric_id) DO NOTHING
+        """,
+        (rubric.rubric_id, rubric.version,
+         dbio.jsonb([c.to_dict() for c in rubric.criteria]),
+         rubric.created_at, rubric.parent_rubric_id, rubric.rationale),
+    )
+    from . import versions
+    return versions.load_rubric("rubric_v1")
 
 
 def seed_prompt_v1() -> PromptVersion:
-    if PROMPT_V1_PATH.exists():
-        return load_prompt_v1()
     prompt = PromptVersion(
         prompt_id="prompt_v1",
         version=1,
@@ -223,8 +241,18 @@ def seed_prompt_v1() -> PromptVersion:
         created_at=now_iso(),
         rationale="Seeded from the current agent/system_prompt.md.",
     )
-    atomic_write_json(PROMPT_V1_PATH, prompt.to_dict())
-    return prompt
+    dbio.execute(
+        """
+        INSERT INTO prompt_versions (prompt_id, version, text, created_at,
+                                     parent_prompt_id, rationale)
+        VALUES (%s, %s, %s, %s, %s, %s)
+        ON CONFLICT (prompt_id) DO NOTHING
+        """,
+        (prompt.prompt_id, prompt.version, prompt.text, prompt.created_at,
+         prompt.parent_prompt_id, prompt.rationale),
+    )
+    from . import versions
+    return versions.load_prompt("prompt_v1")
 
 
 def seed_all() -> None:
@@ -235,4 +263,4 @@ def seed_all() -> None:
 
 if __name__ == "__main__":
     seed_all()
-    print(f"Seeded {len(load_cases())} cases, rubric_v1, prompt_v1 under {EVALS_DIR}")
+    print(f"Seeded {len(load_cases())} cases, rubric_v1, prompt_v1 into Postgres")
