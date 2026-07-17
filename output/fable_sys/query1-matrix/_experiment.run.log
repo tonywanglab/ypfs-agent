@@ -1,0 +1,23 @@
+[query 1] query1_cfg1_no-rag mode=no-rag model=anthropic/claude-fable-5 sys=no ...
+  saved -> query1_cfg1_no-rag.md
+[query 1] query1_cfg2_mcp mode=mcp model=anthropic/claude-fable-5 sys=no ...
+Processing request of type CallToolRequest
+Processing request of type ListToolsRequest
+Processing request of type CallToolRequest
+Processing request of type CallToolRequest
+Processing request of type CallToolRequest
+Processing request of type CallToolRequest
+Processing request of type CallToolRequest
+  saved -> query1_cfg2_mcp.md
+[query 1] query1_cfg3_rag mode=rag model=anthropic/claude-fable-5 sys=no ...
+  saved -> query1_cfg3_rag.md
+[query 1] query1_cfg4_mcp mode=mcp model=anthropic/claude-fable-5 sys=yes ...
+Processing request of type CallToolRequest
+Processing request of type CallToolRequest
+Processing request of type CallToolRequest
+Processing request of type CallToolRequest
+  saved -> query1_cfg4_mcp.md
+[query 1] query1_cfg5_rag mode=rag model=anthropic/claude-fable-5 sys=yes ...
+  saved -> query1_cfg5_rag.md
+done.
+done.

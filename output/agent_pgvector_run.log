@@ -1,0 +1,175 @@
+  [tool call] search_corpus({"query":"emergency lending facility broad-based liquidity support central bank bank run","document_type":"survey"})
+  [tool call] search_corpus({"query":"emergency liquidity assistance lender of last resort broadly available banks","document_type":"survey"})
+  [tool result] total_found=15 → ['Broad-Based Emergency Liquidity Programs', 'Broad-Based Emergency Liquidity Programs', 'Broad-Based Emergency Liquidity Programs'] (+2 more)
+  [tool result] total_found=15 → ['Broad-Based Emergency Liquidity Programs', 'Broad-Based Emergency Liquidity Programs', 'Broad-Based Emergency Liquidity Programs'] (+2 more)
+  [tool call] get_document({"document_id":"vol4_iss2_3"})
+  [tool result] ['doc_id', 'document_type', 'title', 'authors', 'abstract', 'publication_date', 'url', 'text']
+  [tool call] search_corpus({"query":"Term Auction Facility stigma discount window broad-based lending GFC","document_type":"case_study"})
+  [tool call] search_corpus({"query":"Bank of England Extended Collateral Term Repo indexed long-term repo emergency liquidity","document_type":"case_study"})
+  [tool call] search_corpus({"query":"ECB term refinancing operations fixed rate full allotment liquidity provision","document_type":"case_study"})
+  [tool result] total_found=15 → ['United States: Term Auction Facility', 'United States: Term Auction Facility', 'United States: Term Auction Facility'] (+2 more)
+  [tool result] total_found=15 → ['United Kingdom: Extended Collateral Term Repo Facility', 'United Kingdom: Extended-Collateral Long-Term Repo', 'United Kingdom: Extended-Collateral Long-Term Repo'] (+2 more)
+  [tool result] total_found=15 → ['European Central Bank: Term Refinancing Operations', 'European Central Bank: Term Refinancing Operations', 'European Central Bank: Term Refinancing Operations'] (+2 more)
+  [tool call] search_corpus({"query":"Canada Term Purchase Resale Agreement GFC broad-based liquidity contagion","document_type":"case_study"})
+  [tool call] search_corpus({"query":"Hong Kong 2008 temporary liquidity measures contagion Lehman discount window","document_type":"case_study"})
+  [tool result] total_found=15 → ['Canada: Term Purchase and Resale Agreement Facility', 'Canada: Private-Sector Term Purchase and Resale Agreements', 'Canada: Term Purchase and Resale Agreement Facility'] (+2 more)
+  [tool result] total_found=15 → ['Hong Kong: Temporary Liquidity Measures, 2008', 'Hong Kong: Temporary Liquidity Measures, 2008', 'Hong Kong: Temporary Liquidity Measures, 2008'] (+2 more)
+agent> I now have a thorough foundation. Let me compile the analysis into the requested format.
+
+---
+
+# Broad-Based Emergency Liquidity (BBEL) Program: Options for Your Central Bank
+
+## Summary of Core Design Dimensions
+
+You are facing the acute phase of a crisis: a run on a globally significant institution with visible contagion signals spreading to others. This calls for a **Broad-Based Emergency Liquidity (BBEL) program** — one that is widely accessible, rapidly deployable, and credible enough to arrest the panic before it deepens.
+
+The five core design tensions your team must resolve are:
+
+| Dimension | Core Trade-off |
+|---|---|
+| **Rate-setting** | Penalty rates (moral hazard control) vs. accessible rates (stigma avoidance) |
+| **Collateral** | Narrow/safe (central bank protection) vs. broad/inclusive (maximum reach) |
+| **Access & eligibility** | Existing counterparties (speed) vs. wider bank universe (coverage) |
+| **Disclosure** | Transparency (accountability) vs. confidentiality (stigma prevention) |
+| **Program structure** | Single facility (simplicity) vs. package of complementary facilities (coverage gaps) |
+
+A key overarching framing: **in the acute phase, the primary enemy is stigma.** Programs that are punitive or narrowly designed risk going unused — which is worse than not announcing them at all.
+
+---
+
+## Program Archetypes
+
+### Option 1: Enhanced Standing Facility (Modified Discount Window / Repo)
+*Quickest to deploy; supplements the existing facility by adjusting its terms*
+
+**How it works:** Rather than creating an entirely new program, your central bank expands the terms of the standing facility — lowering the borrowing rate, extending loan maturities (e.g., from overnight to 1–3 months), and widening the eligible collateral set. Eligibility remains limited to existing counterparties (all licensed banks).
+
+**Rationale:** This is the fastest option, as it requires no new legal infrastructure, draws on established operational relationships, and can be announced and settled rapidly.
+
+**Rate:** Set at a modest spread above the policy rate — low enough to reduce stigma, but still notionally above market. Avoid a sharp penalty rate in the acute phase.
+
+**Collateral:** Expand to include broader asset classes (e.g., investment-grade private securities, residential mortgages, covered bonds) on top of the existing high-quality sovereign collateral schedule.
+
+**Precedents:**
+- The **Hong Kong Monetary Authority's 2008 Temporary Liquidity Measures** operated precisely this way: after the Lehman bankruptcy triggered interbank stress and a deposit run on the Bank of East Asia, the HKMA enhanced its existing discount window by (1) expanding eligible collateral to include high-quality USD assets, (2) extending maximum maturities from overnight to three months, and (3) waiving a penalty for banks exceeding their borrowing threshold. Five measures were bundled together and proved effective in calming interbank dislocations (Hoffner 2022b).
+- The **Bank of England's ELTR operations** expanded its regularly scheduled repo operations to accept non-sovereign, less-liquid collateral. However, when first offered with a 100bps penalty rate, *no banks participated*, due to Northern Rock contagion fears. The BoE dropped the penalty and the facility was used extensively, with GBP 180 billion outstanding at peak (Fulmer 2022g). This is a critical lesson: pricing can kill an otherwise well-designed program.
+
+**Tradeoffs:**
+- ✅ Fastest to implement; no new legal authority likely needed
+- ✅ Leverages existing operational infrastructure
+- ⚠️ Stigma risk remains if the facility is associated with the specific troubled bank
+- ⚠️ Limited to existing counterparties; may not cover all banks at risk
+
+---
+
+### Option 2: New Auction-Based Term Lending Facility
+*Purpose-built to address stigma; prices liquidity through a competitive auction*
+
+**How it works:** The central bank creates a new, distinct, publicly named facility that offers term loans (e.g., 28–84 days) to all eligible banks via a competitive single-price auction. The auction mechanism — not the specific institution — determines who borrows and at what rate. Because all banks can participate and no individual bid is disclosed, accessing the facility carries no inference of weakness.
+
+**Rate:** Set a minimum bid rate below current interbank rates (e.g., LIBOR or equivalent), but above the overnight policy rate. The auction clears at a market-determined rate — which is seen as a market rate, not a stigmatizing penalty.
+
+**Collateral:** Adopt the existing discount window collateral schedule (with the broad range), supplemented by any asset classes that have become illiquid but are of pre-panic quality.
+
+**Participation limits:** Cap individual bids at ~10% of any auction to prevent monopolization and protect borrower anonymity. Delay loan settlement by a few days (e.g., T+3) to further dissociate borrowers from "distressed institution" inference.
+
+**Disclosure:** Announce aggregate auction results (total bids, stop-out rate, number of participants) — but do not disclose individual borrowers contemporaneously.
+
+**Precedent:**
+- The **US Federal Reserve's Term Auction Facility (TAF)**, introduced December 2007, is the canonical example. The Fed designed the TAF specifically because the discount window suffered from severe stigma — banks were unwilling to borrow even after the Fed lowered rates. By using a competitive auction format, capping individual borrowing at 10%, allowing wider collateral than OMOs, and delaying settlement, the TAF saw robust uptake. It reached a peak outstanding of USD 493 billion and became the Fed's most-used liquidity program during the GFC. Empirical work found banks were willing to pay a premium of over 44 basis points to borrow via TAF rather than the discount window — confirming the destigmatizing effect (Runkel 2022f).
+
+**Tradeoffs:**
+- ✅ Strongest tool for eliminating stigma while still lending at a market-determined premium
+- ✅ Provides the central bank with price information about funding market stress
+- ✅ Broad access across all licensed banks (including foreign bank subsidiaries, at your discretion)
+- ⚠️ Takes longer to operationalize than Option 1 (auction infrastructure, legal review)
+- ⚠️ Auction mechanism doesn't guarantee every bidder receives funds (which can be a feature or a bug depending on the phase)
+- ⚠️ Can be gamed if the minimum bid rate is set below the interest rate on reserves (as the Fed discovered in late 2008)
+
+---
+
+### Option 3: Fixed-Rate, Full-Allotment Term Lending
+*"Whatever it takes" mode — unlimited supply at a fixed rate; appropriate if contagion is accelerating*
+
+**How it works:** The central bank announces it will lend to all eligible banks at a fixed rate (typically the policy rate or a modest spread above it) in unlimited amounts, for as long as the collateral qualifies. Banks receive whatever they request. This eliminates uncertainty about whether a bank can access funds and has the most powerful "announcement effect."
+
+**Rate:** Set at the main refinancing rate or a small spread above it — not punitive. The goal is to ensure every bank knows unconditionally that liquidity is available.
+
+**Collateral:** Accept the broadest feasible collateral set. The ECB expanded to include securities denominated in foreign currencies, subordinated instruments, and ABS when it adopted this regime.
+
+**Maturities:** Offer multiple term buckets (e.g., 1, 3, 6, 12 months) to address funding stress at different horizons.
+
+**Precedent:**
+- The **ECB's Term Refinancing Operations (TROs)**, post-Lehman (October 2008), are the defining example. After Lehman's collapse made variable-rate auctions insufficient, the ECB switched to a **fixed-rate, full-allotment** framework across its TROs at all maturities. Banks received everything they requested at the main refinancing rate. One-year operations attracted hundreds of billions of euros. Peak outstanding reached EUR 729 billion. A senior ECB official called this "the most significant non-standard measure" the ECB implemented (Runkel 2022b).
+- The **Bank of England's ECTR facility** — originally announced in December 2011 as a contingency and activated in June 2012 — was restructured during the COVID-19 reactivation in 2020 as "fixed price, full allotment, in unlimited size." In its first operation, the BoE lent GBP 11.1 billion — more than 96% of total usage during the second activation — on the day lockdown measures went into force (Fulmer 2022f).
+
+**Tradeoffs:**
+- ✅ Maximum firepower; eliminates any uncertainty about availability of funds
+- ✅ "Announcement effect" alone can arrest a panic before much is drawn
+- ✅ Prevents fire sales and preserves asset values across the system
+- ⚠️ Significant moral hazard risk; banks have no incentive to seek private funding
+- ⚠️ Can create large balance sheet expansion with complex sterilization requirements
+- ⚠️ Difficult to exit once committed — especially if solvency problems remain beneath the liquidity crisis
+
+---
+
+### Option 4: Package of Complementary Facilities with Differentiated Terms
+*Comprehensive suite that fills coverage gaps across maturities, collateral types, and participant types*
+
+**How it works:** Rather than a single facility, deploy a coordinated set of 2–3 programs targeting different segments: (a) a short-term repo/auction for overnight-to-one-month needs; (b) a term facility for longer maturities (3–12 months) with broader collateral; and potentially (c) a specialized window for collateral classes that have become illiquid (e.g., covered bonds, mortgage loans). This mirrors the "package" approach seen in multiple GFC-era responses.
+
+**Precedent:**
+- The **Bank of Canada during the GFC** deployed four complementary programs: the standing SLF (overnight), the Term PRA (up to 12 months), the Term Loan Facility (accepting non-mortgage loans, one month), and the Private-Sector Term PRA (money market instruments, up to 3 months). Together, they covered different maturities, collateral types, and participant groups, and were designed so no participant "fell through the gaps" (Sankar 2022a; Sankar 2022b; Sankar 2022c). The Bank of Canada official purpose was explicitly to "limit spillover effects to the broader economy" (Longworth 2010).
+- The **Bank of England during 2007–2013** layered ELTRs, ILTRs, the DWF, and the ECTR to cover different maturity needs and collateral quality tiers. The BoE eventually made two of these (ILTR and ECTR) permanent standing facilities — recognizing that the infrastructure, once built, is too valuable to discard (Fulmer 2022f; Fulmer 2022h).
+
+**Tradeoffs:**
+- ✅ Highly comprehensive; covers the full liquidity need across bank types and balance sheet compositions
+- ✅ Allows differentiated pricing by collateral quality (reducing moral hazard on riskier assets while still accepting them)
+- ✅ Signals overwhelming commitment to system stability
+- ⚠️ Most complex and time-consuming to design and operationalize
+- ⚠️ Risk of "announcement clutter" if poorly coordinated — multiple simultaneous programs can confuse rather than reassure
+- ⚠️ Should be sequenced: begin with one facility immediately (Option 1 or 2), then layer in complementary programs as the crisis evolves
+
+---
+
+## Complementary Considerations
+
+**1. Stigma is the program killer — treat it as a first-order design constraint.**
+The BoE's experience with its initial 2007 term repo auctions (four offered, zero taken up due to Northern Rock stigma) and the perennial underuse of penalty-rate discount windows confirms this. The TAF's empirical record shows that banks paid a significant premium to access a destigmatized facility. Design your program so that using it cannot be read as a signal of distress.
+
+**2. Solvency vs. liquidity — do not require contemporaneous solvency tests.**
+Distinguishing illiquid from insolvent institutions in real-time is operationally infeasible and can create its own stigma (as occurred with the UK's DWF, which imposed on-the-day solvency tests and was never drawn upon). Rely on collateral quality and haircuts as the practical screen, not individualized solvency assessments. If a bank is genuinely insolvent, that is an *ad hoc* emergency liquidity or resolution question, not a BBEL question.
+
+**3. Collateral: start where you are, then expand.**
+Anchor the program on your existing collateral schedule with its established haircuts — this speeds operationalization significantly. But build in administrative flexibility to broaden eligible collateral at staff level if conditions deteriorate (e.g., as BoC did iteratively with the Term PRA). Pre-announcing this optionality ("the central bank may expand eligible collateral as circumstances warrant") signals commitment without requiring immediate action.
+
+**4. Communication: clear, prompt, and decisive.**
+The announcement of the program can itself arrest a panic — but only if it is credible. Inconsistent communications, as seen in the 1965 Hong Kong crisis when a private LOLR repeatedly walked back its pledges, can *worsen* a run. Announce the program only when it is operationally ready. If the program is novel, publish a brief explanatory note for counterparties.
+
+**5. Disclosure policy: aggregate data yes, individual names no.**
+During the acute phase, do not disclose individual borrowers. The US RFC experience during the Great Depression provides a near-perfect natural experiment: banks whose borrowing was publicly disclosed lost deposits faster and were more likely to fail than banks whose borrowing remained secret (Anbil 2017, as cited in the survey). Plan to disclose aggregate utilization data with a lag (e.g., quarterly), and individual transaction data post-crisis.
+
+**6. Size: flexibility > precision.**
+Avoid announcing a program size that could be perceived as inadequate. If you set an auction size, build in the right (and signal the intention) to increase it if oversubscribed — as the Fed did across successive TAF auctions. In extreme conditions, pivot to full allotment. Signaling "we will do what it takes" is often more important than the precise number.
+
+**7. Plan the exit from the start.**
+Incorporate a natural exit through pricing (as market rates normalize, the central bank rate becomes unattractive), reducing auction sizes and frequency, or setting an initial expiration date that is extendable. Consider whether elements of this program should be retained as a permanent standing facility post-crisis (as the BoE did with the ILTR and ECTR/CTRF, and as HKMA did with two of its five 2008 measures).
+
+**8. Consider whether a package announcement with international coordination is warranted.**
+Given the global significance of the institution involved, your peers at other major central banks may be experiencing related stress. The coordinated December 12, 2007 announcement by the Fed, ECB, BoC, BoE, SNB, and others had a powerful calming effect on global funding markets. A coordinated announcement — even if each bank's specific measures differ — signals that the response is systemic and comprehensive.
+
+---
+
+## Suggested Framing
+
+For your supervisor's decision, the options can be framed as follows:
+
+**If you need to act in the next 24–48 hours:** Recommend **Option 1** (enhanced standing facility) as an immediate first step — it can be announced and operationalized fastest using existing infrastructure, and can be accompanied by clear communication that the central bank stands ready to do more.
+
+**If you have 3–7 days and stigma is the primary concern:** **Option 2** (auction-based term facility, modeled on the TAF) is the most evidence-backed approach for a large developed-economy central bank facing exactly this scenario. Build the auction infrastructure and announce the program only when it is operationally ready.
+
+**If contagion is accelerating sharply and you judge the system needs overwhelming reassurance:** Move directly to **Option 3** (fixed-rate, full-allotment) — the ECB's experience after Lehman demonstrates this is appropriate when variable-rate mechanisms are insufficient. Accept the moral hazard tradeoff as the lesser evil in the acute phase.
+
+**In any scenario:** Begin building the infrastructure for **Option 4** (a complementary package) in parallel, to be deployed in waves as the crisis evolves — because a single-instrument response rarely covers all the gaps that emerge as a crisis develops from acute into chronic.
+saved → output/agent_pgvector_answer.md

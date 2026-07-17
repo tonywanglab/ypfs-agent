@@ -1,0 +1,132 @@
+I now have comprehensive material from the corpus. The BBEL survey (vol4_iss2_3) is the central reference and it directly fits your supervisor's request: a program broadly available to all banks, supplementing standing facilities. Below is a structured options memo.
+
+---
+
+# Memo: Options for an Emergency Broad-Based Liquidity Program
+
+**To:** Supervisor
+**Re:** Design options for an emergency lending program available to all banks, supplementing existing standing facilities
+
+## 1. Framing: What you are being asked to build
+
+What your supervisor has described — an emergency program **broadly available to all banks** that **supplements the standing facilities** — is, in the crisis-fighting taxonomy used by the Yale Program on Financial Stability (YPFS), a **Broad-Based Emergency Liquidity (BBEL) program**. This is distinct from:
+
+- an **ad hoc emergency liquidity (AHEL)** program, which is narrowly targeted to a single institution (e.g., the troubled GSIB itself); and
+- a **market support / market liquidity** program, which targets funding markets (CP, repo) rather than institutions.
+
+A critical conceptual point from the BBEL survey: **standing discount window/Lombard facilities are the "first line of defense."** A BBEL program is the natural next step when those facilities prove inadequate — typically because banks have exhausted eligible collateral, face stigma at the window, or need longer maturities or wider counterparty access than the standing facility offers (Wiggins, Fulmer, Feldberg, and Metrick 2022, "Broad-Based Emergency Liquidity Programs").
+
+Your situation is notable because it combines (a) a run on a single GSIB with (b) signs of contagion. That means you may ultimately need **both** an AHEL intervention for the GSIB itself **and** a BBEL program for the broader system. This memo focuses on the BBEL program as requested, but I flag the interaction below.
+
+## 2. The central design trade-off: moral hazard vs. stigma
+
+Every BBEL design decision sits on a spectrum between two failure modes:
+
+- **Moral hazard concerns** push toward penalty rates, restricted collateral and counterparties, and limits. The risk of leaning too far this way is a **stigmatized, unused program** — which fails to stop the panic.
+- **Stigma concerns** push toward generous, auction-based, broadly-accessible terms. Penalty rates and punitive terms signal that any user must be in trouble, depressing participation.
+
+The survey's bottom line, distilled from 33 cases, is a **restated Bagehot dictum** for the acute phase:
+
+> *"In the acute (panic) phase of a crisis, a LOLR should lend freely and broadly against good collateral, at rates set by auction, taking care to avoid disclosing details about individual borrowers."*
+
+Notably, they deliberately drop the "solvent institutions" requirement — distinguishing illiquidity from insolvency mid-panic is often impossible, and a strict solvency test is "doomed to failure."
+
+## 3. Options across the key design decisions
+
+I've organized the genuine choices below. For most, I recommend a default and note the cautionary evidence.
+
+### A. Legal authority / vehicle — *how fast can you move?*
+
+The single most important enabler of an effective BBEL program is **relying on existing authorities and infrastructure**. Programs built off a standing facility can be announced and even settled the same day (e.g., the ECB's fine-tuning operations in August 2007).
+
+Options, in order of speed:
+1. **Modify the standing facility** under existing regular authority — lower the rate, lengthen maturity, broaden collateral, increase frequency/size. Fastest; least signaling. (UK ELTR, several Canada programs, HKMA 2008.)
+2. **Activate a pre-existing emergency authority / contingency facility.** If your central bank has a dormant "exceptional market-wide stress" facility (like the BoE's Contingent Term Repo Facility/ECTR, activatable by the Governor), this is ideal — pre-positioned and ready. The lesson: *pre-plan and pre-position authority in quiet times.*
+3. **Stand up an entirely new program** under existing authority (e.g., the Fed's Term Auction Facility).
+4. **Seek new legislative authority** — slowest, and "lengthy, drawn-out debates are unlikely to provide a sense of confidence" to stressed markets. Use only if authorities are genuinely exhausted.
+
+**Recommendation:** Default to (1) or (2). Avoid the opacity trap — programs run under questionable legal authority (Russia OBR, Thailand FIDF) faced legal challenge and reputational damage.
+
+### B. A new facility vs. extending the standing window — *the TAF lesson*
+
+This is the heart of your supervisor's question. The most instructive single case is the Fed's **Term Auction Facility (TAF)**. The Fed had already cut the discount window rate, but DW usage stayed low because of **stigma**. Rather than keep tweaking the window, the Fed built a *separate, supplementary, auction-based* facility that delivered DW-equivalent funding without the stigma. It became one of the most-used GFC programs (peak ~USD 493bn).
+
+The TAF's stigma-defeating features (all directly relevant to you):
+- **Auction format** — borrowing at a market-determined rate doesn't signal distress the way drawing on the window does.
+- **Many borrowers, simultaneously** — and a **10% per-bidder cap** so no one could be seen as monopolizing/relying on it as a lifeline.
+- **Delayed settlement (3 days)** — inconsistent with the needs of a genuinely failing institution, which further de-stigmatized participation.
+
+### C. Rates / pricing — *auction over penalty rate*
+
+Options:
+- **Auction (recommended for the acute phase).** Yields a market-determined (effectively penalty-like) rate while minimizing stigma. If using competitive auction, choose between *uniform pricing* (every winner pays the lowest accepted bid — reduces incentive to underbid relative to true need; used in TAF and UK ILTR) and *discriminatory pricing* (winners pay their bid).
+- **Fixed rate.** Administratively simpler but risks **overpricing** (stigma, no usage — e.g., the BoE's penalty-rate term repos in autumn 2007 had *no takers*; reformatted without the penalty as ELTR, it saw heavy use) or **underpricing** (moral hazard).
+- **Fixed-rate, full-allotment.** Reserved for the *most critical* situations — the ECB switched TROs to this after Lehman, and the BoE pre-set the CTRF this way in March 2020.
+
+**Caution on penalty rates given your scenario:** because you face an active run, a punitive rate can be counterproductive — it accelerates the drain on the targeted institution and is disfavored by markets and rating agencies. Save punitive/costly terms for later structural responses.
+
+### D. Eligible participants
+
+- **All banks (recommended)** — consistent with the "broadly available to all banks" mandate. You retain supervisory knowledge of these counterparties.
+- **Whether to include foreign-bank branches/subsidiaries.** The TAF permitted US branches of foreign banks (they were ~65% of borrowing). Greece's ELA restricted to Greek-owned banks, which pushed a distressed foreign branch to seek help elsewhere and contributed to a parent's liquidation. Given your GSIB has international operations, **consider the perimeter carefully** — see Section 5.
+- **Nonbanks** — most central banks keep banks generously covered but apply "constructive ambiguity" to NBFIs. Probably out of scope for now.
+- **Solvency/viability tests** — the UK DWF required on-the-day S&V tests and was *never drawn* because of the stigma this created. **Recommendation: avoid an explicit solvency test** in the broad-based acute-phase program.
+
+### E. Collateral
+
+- **Broaden eligibility beyond the standing facility** — this is often the very reason a BBEL is needed (banks have exhausted standing-facility-eligible collateral). Wider collateral = more options for borrowers.
+- **Reuse your existing collateral and haircut schedule** where possible for speed and perceived fairness; **add premiums** for riskier/foreign-currency collateral (ECB added 8% for non-euro; BoE added 3% for non-sterling; Norway 10%).
+- Build in **administrative flexibility to widen collateral later** — the RFC's initially-too-narrow collateral list impeded usage and raised failure rates until it was relaxed.
+- Consider **separate collateral pools** with differentiated pricing (UK ILTR) — this also gives you an *early-warning indicator* of where stress is concentrating.
+
+### F. Maturity
+
+A liquidity run shortens maturities, so the standard remedy is to **offer longer maturities** than the standing (typically overnight) facility — e.g., one and three months (TAF started at 28 days, added 84-day). Build in the ability to add maturities administratively.
+
+### G. Size and announcement
+
+- Central banks usually **do not pre-announce an aggregate cap**, but may announce auction sizes.
+- **Be willing to increase auction size in response to oversubscription** — a powerful tool in the acute phase (BoE, ECB, Fed all did this).
+- Beware signaling: an *undersized* program signals you're "out of touch"; an *unlimited/very large* program has a strong announcement effect but can signal the situation is worse than thought or create moral hazard.
+
+### H. Communication, disclosure, and stigma strategy
+
+- **Clear, consistent, confident communication.** The Hong Kong 1965 case is the cautionary tale: HSBC's inconsistent messaging on whether support was "unlimited" *undermined* the rescue and reignited runs. A credible announcement alone can calm a panic (UK 1866; Fed Y2K SFF, where ~USD 490bn of options were issued and *none exercised*).
+- **Disclosure: aggregate only, on a delayed basis, during the acute phase.** Disclosing individual borrowers reliably triggers a pullback — the NYCH's 1890 disclosure was followed by a borrower's failure; the RFC's forced disclosure of borrower names accelerated deposit runs at "revealed" banks. Provide borrower-level detail later, once markets calm, for accountability.
+
+### I. Exit strategy
+
+Plan exit up front: (1) **pricing mechanism** that becomes unattractive as markets normalize (cleanest — usage self-extinguishes); (2) **expiration date** (signals temporariness, extendable); (3) **wind-down** by shrinking auction size/frequency (TAF); or (4) **transition to a standing facility** (BoE made the DWF, ECTR/ILTR permanent; HK kept two of five measures). If you adopt a temporary facility into the standing framework, ensure it's priced to be unattractive in normal times.
+
+## 4. Companion measures (BBEL is rarely deployed alone)
+
+The survey's theme (4): BBEL programs typically come as part of a package.
+- In the **acute phase**: credit and **account/deposit guarantees** to reassure depositors and short-term creditors — highly relevant given you have an active run.
+- Often **multiple BBEL programs** in close proximity (different maturities, collateral classes, counterparty groups) — Canada ran three, the UK four during the GFC.
+- In the **chronic phase**: asset purchases, **recapitalizations/capital injections**, and loan guarantees address the *solvency* problems that liquidity lending cannot fix.
+- In a cross-border GSIB run, **central bank swap lines** may be needed if part of the run is in foreign currency.
+
+## 5. The interaction with your GSIB problem — an important caveat
+
+Your scenario has a single GSIB run *plus* contagion. Two points from the corpus:
+
+1. **A BBEL program may not be enough for the GSIB itself.** If the GSIB has exhausted collateral eligible even under a broadened BBEL, you may need a separate **AHEL** (ad hoc) intervention as a bridge to a structural fix (merger, resolution, capital injection). The AHEL survey is explicit that such interventions are bridges, and that punitive/penalty terms should be *deferred* to later structural responses.
+
+2. **The collateral perimeter and group structure matter enormously.** The Credit Suisse lesson (per Paul Tucker's Lessons Learned interview) is directly on point: the Swiss central bank was prepared to lend only against *local mortgage collateral*, but the run was on the large private bank, and "a run on one legal entity becomes a run on all related legal entities." For a GSIB, **a run will not stay confined to the domestic entity or to the collateral you're comfortable with.** When you scope eligible collateral and the foreign-branch/subsidiary perimeter (Section D), assume the run spreads across the whole group.
+
+## 6. Summary recommendation
+
+For the broad-based program your supervisor asked for, I would recommend:
+
+- **Vehicle:** Build off existing authority and standing-facility infrastructure for speed; activate a contingency facility if one exists.
+- **Structure:** A *supplementary, auction-based term facility* on the TAF model — explicitly designed to defeat stigma (auction pricing, broad participation, per-bidder cap, delayed settlement, no solvency test).
+- **Terms:** Lend freely and broadly; longer maturities than the window; broadened collateral with appropriate haircuts and built-in flexibility to widen further; rates set by (uniform-price) auction rather than a punitive fixed penalty rate; willingness to scale up and even move to full-allotment if the panic deepens.
+- **Communication/disclosure:** Clear, confident, consistent messaging; aggregate-only disclosure during the acute phase, borrower detail later.
+- **Package:** Pair with deposit/account guarantees given the active run; prepare AHEL for the GSIB and recapitalization tools for the chronic phase.
+- **Exit:** Use pricing as the primary natural exit; decide in advance whether to fold the facility into the standing framework.
+
+---
+
+**Primary source:** Wiggins, Fulmer, Feldberg & Metrick (2022), *"Broad-Based Emergency Liquidity Programs,"* Journal of Financial Crises 4(2) — the survey of 33 BBEL cases that maps directly onto your task. Supporting: the AHEL survey (Kelly, Arnold, Feldberg & Metrick 2025) for the GSIB-specific bridge, and Paul Tucker's Lessons Learned interview for the Credit Suisse/GSIB perimeter warning.
+
+Would you like me to (a) draft the specific term-sheet parameters (rates, maturities, collateral schedule, caps) for the recommended TAF-style facility, or (b) develop the companion AHEL options for the GSIB itself in parallel?

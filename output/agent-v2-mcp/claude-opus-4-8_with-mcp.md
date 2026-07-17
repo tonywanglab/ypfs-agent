@@ -1,0 +1,89 @@
+I have enough well-grounded material to construct the options plan. Here is your analysis.
+
+---
+
+# Summary of Core Design Dimensions
+
+Your situation — a run on a G-SIB headquartered in your jurisdiction with contagion spreading, and a mandate to design a **broadly available** facility that **supplements existing standing facilities** — places you squarely in the territory of a **Broad-Based Emergency Liquidity (BBEL)** program deployed in the *acute phase* of a crisis. A few framing principles from the corpus should anchor every option below:
+
+- **Speed and credibility beat precision.** Early deployment of credible assistance in the acute phase can arrest a crisis before it becomes chronic. Strict solvency screening is generally infeasible in the heat of a panic; rely on **good collateral as the proxy for soundness**, which lets you lend without making impossible real-time viability judgments.
+- **Lean on existing authority and infrastructure first.** The fastest BBEL programs are adjustments to facilities, collateral frameworks, and counterparty lists you already operate. New legislation introduces delay that undercuts the confidence you are trying to project.
+- **Stigma is the central design enemy.** A broadly available facility only works if banks actually use it. Standing windows routinely go unused because drawing on them signals weakness. Your design choices on **format (auction vs. on-demand), pricing, and disclosure** are primarily about defeating stigma.
+- **Pricing is a double-edged tool.** Too punitive and you "price yourself out of the market" (the UK's Discount Window Facility's high penalty rate contributed to its near-non-use); too cheap and you create moral hazard and arbitrage.
+- **Liquidity alone is not a cure.** A BBEL program buys time; it does not fix solvency. For the troubled G-SIB specifically, you should expect to pair liquidity with structural measures (capital, merger, guarantee, or resolution), and you may also need a *separate, ad hoc* facility for that one institution if it exhausts what is broadly available.
+
+The three archetypes below are not mutually exclusive — in practice crisis-fighters often deployed several in sequence — but they capture the principal design choices.
+
+---
+
+# Program Archetypes
+
+## Option 1: Term Auction Facility (auction format, market-determined rate)
+**The leading anti-stigma design.** Offer term funding (e.g., 28- and 84-day) against a broad collateral set, allocated through regular competitive auctions rather than on demand.
+
+**Why it works:**
+- An auction provides **"safety in numbers"** — many banks borrow simultaneously, so no single name is exposed; the price is market-determined rather than a visible "penalty," and lagged/simultaneous settlement breaks the link to acute distress.
+- It lets you **strictly control the quantity** of reserves injected (unlike an on-demand window, where banks self-determine borrowing), and the bid pattern gives you a **real-time market signal** on the depth of stress and need to scale up.
+
+**Evidence:** The Fed adopted the TAF in December 2007 *specifically* after discount-window changes (a reduced penalty spread, longer maturities) failed to stimulate borrowing because of stigma; the auction was chosen for quantity control, stigma reduction, and the ability to observe market response between auctions ([vol4_iss2_63][United States: Term Auction Facility][case_study]). Its single-price auction with simultaneous settlement and a minimum bid set *below* LIBOR meant bidding did not signal abnormal need ([vol4_iss2_63][United States: Term Auction Facility][case_study]). Note one cautionary lesson: a minimum bid set too low (below the interest rate on reserves) created an **arbitrage opportunity** the Fed had to correct by re-anchoring the minimum to the IOR rate ([vol4_iss2_3][Broad-Based Emergency Liquidity Programs][survey]).
+
+**Auction pricing sub-choice:** Discriminatory pricing elicits more honest valuations and reduces collusion; uniform pricing removes the incentive to underbid relative to true condition. The UK moved from discriminatory (ELTR) to uniform (ILTR) pricing for exactly that reason ([vol4_iss2_3][Broad-Based Emergency Liquidity Programs][survey]).
+
+## Option 2: Extended-Collateral Term Repo / Expanded On-Demand Window
+**Maximize collateral breadth and term, available on demand or in flexible operations.** Rather than (or in addition to) auctioning a fixed quantity, you widen the collateral you accept and lengthen the term at your existing facilities — letting banks monetize assets that are ineligible at the standing window.
+
+**Why it works:**
+- The binding constraint in a run is frequently that banks have **exhausted collateral eligible at standing facilities**. Widening the eligible set (e.g., to lower-quality ABS, longer maturities) directly relieves that constraint.
+- A **product-mix auction** (the BoE's ILTR innovation) lets you accept multiple collateral tiers in a single operation, with the clearing spread on wider collateral rising automatically as stress increases and built-in "adjusters" that scale total liquidity up with demand — an elegant way to be responsive without repeated discretionary decisions ([vol4_iss2_3][Broad-Based Emergency Liquidity Programs][survey]).
+
+**Evidence:** The BoE's Extended-Collateral Long-Term Repo (ELTR) operations progressively widened collateral and increased size/frequency through 2007–2008 ([vol4_iss2_50][United Kingdom: Extended-Collateral Long-Term Repo][case_study]). Critically, the BoE's first attempt — term-repo auctions at a **penalty rate** in autumn 2007 — drew **no takers**; once it removed the penalty rate (reformatted as ELTR), the facility saw substantial usage. This is the canonical warning that rate-setting can render an otherwise sensible facility dead on arrival ([vol4_iss2_3][Broad-Based Emergency Liquidity Programs][survey]). The UK Discount Window Facility (on-demand, fixed penalty rate, charging more for larger requests) is the contrasting cautionary case — its high penalty rate made it "a very extreme backstop" that went largely unused ([vol4_iss2_3][Broad-Based Emergency Liquidity Programs][survey]).
+
+## Option 3: Collateral Swap / Liquidity-Upgrade Facility
+**Lend high-quality liquid assets (e.g., government bills) against illiquid collateral, rather than injecting cash.** Banks swap illiquid assets for instruments they can use to fund in private markets.
+
+**Why it works:**
+- It addresses the run *without* expanding reserves or your reported balance sheet in a way the market easily observes, which can **minimize stigma through limited/lagged disclosure** — in collateral-swap programs there was no reported change in the borrowers' total assets or in central-bank reserves ([vol2_iss3_2][Market Liquidity Programs: GFC and Before][survey] — used here only for framing, not as a citation).
+- Longer terms (the UK's swap scheme ran multi-year) make it well-suited to a **transition into the chronic phase** while you work on structural fixes.
+
+**Trade-off:** Over-collateralized central-bank lending **subordinates other creditors** (notably depositors), which can *intensify* the incentive for remaining funding to run — former Governor King's "Judas kiss" warning ([vol7_iss1_3][Ad Hoc Emergency Liquidity Programs in the 21st Century][survey] — framing only). This argues for pairing any heavily-collateralized facility with a liability guarantee (see below).
+
+---
+
+# Complementary Considerations
+
+**1. The troubled G-SIB will likely need more than the broad facility.**
+A broadly available program is the right systemic response, but a G-SIB at the center of a run frequently exhausts even an expanded broad-based facility's eligible collateral. The corpus repeatedly shows AHEL (institution-specific) facilities arising *as supplements* once a borrower has used standing and BBEL facilities to the fullest ([vol7_iss1_3][Ad Hoc Emergency Liquidity Programs in the 21st Century][survey] — framing). Be ready to (a) provide a separate ad hoc facility for that institution, and (b) recognize that **liquidity alone has never cured a run on a specific institution** — it must bridge to a structural fix (capital injection, merger, or resolution). Importantly, do **not** load moral-hazard-limiting penalties onto the *liquidity* terms for the troubled bank; punitive terms accelerate the cash drain and the race against the clock. Save moral-hazard discipline for the later structural intervention.
+
+**2. Pair liquidity with guarantees in the acute phase.**
+The corpus consistently finds liquidity programs deployed alongside **liability/deposit guarantees** during the acute phase, with asset purchases and recapitalizations following in the chronic phase. Relevant precedents you can draw on:
+- A **debt + transaction-account guarantee** to stem wholesale and operating-account runs, explicitly linked to capital injections, as in the US TLGP/DGP+TAGP ([vol2_iss3_27][The Debt Guarantee Program of the Temporary Liquidity Guarantee Program][case_study]).
+- A **targeted deposit guarantee** to arrest a specific run, as HM Treasury did for Northern Rock, followed by an across-the-board increase in deposit-insurance coverage (abolishing coinsurance) to protect the broader system ([vol4_iss2_29][United Kingdom: Financial Services Compensation Scheme][case_study]).
+- A **blanket guarantee** is the most powerful but the hardest to exit — Indonesia's 1998 blanket guarantee was intended to expire in 2000 but lasted until 2005 ([vol4_iss4_9][Indonesia: Blanket Guarantee, 1998][case_study]). Treat the exit problem as a design parameter from day one.
+
+**3. Stigma toolkit (apply across whichever archetype you choose).**
+- Prefer **auction over on-demand** where feasible.
+- Set the **minimum/clearing rate near market, not punitive** — but guard against arbitrage with reserve remuneration.
+- Use **simultaneous settlement and lagged/limited disclosure**.
+- Consider **encouraging healthy banks to participate** to dilute the signal (the BoE did this with its swap scheme).
+
+**4. Communication is itself a policy tool.** Clear communication drives utilization and can produce positive announcement effects. A credible, well-explained facility can calm markets even before significant drawdowns occur.
+
+**5. Authority and exit.**
+- **Use existing authority** if at all possible; reserve new legislation for genuine gaps, recognizing the delay cost in an acute panic.
+- Build the **exit into the pricing**: a rate that becomes unattractive as markets normalize is a self-executing exit. Several jurisdictions later folded successful temporary BBEL facilities into their standing frameworks (the UK made ELTR→ILTR and the ECTR/CTRF permanent; Hong Kong retained two of five temporary measures) — worth flagging to your supervisor as a possible post-crisis resilience dividend.
+
+---
+
+# Suggested Framing
+
+For your supervisor, I would frame the recommendation as a **layered, sequenced response** rather than a single instrument:
+
+> **Layer 1 (immediate, hours):** Activate/expand existing operations — widen collateral and lengthen term at facilities you already run (Option 2), removing any penalty pricing that would suppress usage. This is the fastest credible signal and requires no new authority.
+>
+> **Layer 2 (days):** Stand up a **term auction facility** (Option 1) as the flagship broadly available program — market-priced, regular, quantity-controlled, explicitly engineered against stigma. Consider a product-mix/multi-tier collateral design so it auto-scales with stress.
+>
+> **Layer 3 (parallel):** Prepare a **liability guarantee** (deposit and/or debt) to back-stop the run directly, and a **separate ad hoc facility plus structural plan** for the G-SIB at the center, recognizing liquidity is only a bridge.
+
+The central tension to surface explicitly for the decision-maker is the **stigma-vs.-moral-hazard / pricing trade-off**: the historical record shows the larger risk in an acute panic is pricing the facility so defensively that *no one uses it* (BoE autumn 2007; UK DWF), thereby failing to arrest the run — not over-generosity. Moral hazard is better addressed in the structural interventions that follow.
+
+One caveat on sourcing: the synthesis and sequencing logic above draws on the YPFS BBEL and AHEL surveys (used for framing, not cited per protocol); the specific design precedents are cited to their underlying case studies. If it would help, I can pull the full **Term Auction Facility** or **BoE ELTR/ILTR** case studies to extract concrete parameter choices (auction sizes, haircut schedules, term structures, minimum-bid mechanics) for a more operational design memo.
