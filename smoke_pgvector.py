@@ -9,7 +9,7 @@ Runs against the real Postgres in DATABASE_URL (e.g. Supabase). It:
      score conversion, metadata packing, the document_type filter, and the
      embedding-identity assertion (match + deliberate mismatch)
   4. exercises agent.errors.log_error (real insert + the no-op path)
-  5. checks get_retriever()'s VECTOR_STORE routing (network-free)
+  5. checks make_retriever() returns a fresh instance per call (network-free)
   6. deletes everything it created (ids/run_id are prefixed 'smoke_')
 
 Usage:  .venv/bin/python smoke_pgvector.py
@@ -156,32 +156,18 @@ def main() -> int:
     check("errors: no-op without DATABASE_URL (no raise, no extra row)",
           noop_ok and still == 1, f"raised={not noop_ok} rows={still}")
 
-    # 5. get_retriever VECTOR_STORE routing (network-free) ------------------
+    # 5. make_retriever factory (network-free) ------------------------------
+    # Each RunContext builds its own retriever via make_retriever(); verify the
+    # factory returns a fresh instance per call (no hidden singleton).
     import agent.retrieval as R
-    orig_pc, orig_pg = R.PineconeRetriever, R.PgvectorRetriever
-    R.PineconeRetriever = lambda: "PINECONE"
-    R.PgvectorRetriever = lambda: "PGVECTOR"
+    orig_pc = R.PineconeRetriever
+    R.PineconeRetriever = lambda: object()
     try:
-        R._RETRIEVER = None
-        os.environ.pop("VECTOR_STORE", None)
-        sel_default = R.get_retriever()
-        R._RETRIEVER = None
-        os.environ["VECTOR_STORE"] = "pgvector"
-        sel_pg = R.get_retriever()
-        R._RETRIEVER = None
-        os.environ["VECTOR_STORE"] = "bogus"
-        try:
-            R.get_retriever()
-            sel_bad_raises = False
-        except SystemExit:
-            sel_bad_raises = True
+        first, second = R.make_retriever(), R.make_retriever()
     finally:
-        R.PineconeRetriever, R.PgvectorRetriever = orig_pc, orig_pg
-        R._RETRIEVER = None
-        os.environ.pop("VECTOR_STORE", None)
-    check("get_retriever: default=pinecone, pgvector selectable, bad value fails loud",
-          sel_default == "PINECONE" and sel_pg == "PGVECTOR" and sel_bad_raises,
-          f"default={sel_default} pg={sel_pg} bad_raises={sel_bad_raises}")
+        R.PineconeRetriever = orig_pc
+    check("make_retriever: fresh instance per call",
+          first is not second, f"first={first!r} second={second!r}")
 
     # Cleanup ---------------------------------------------------------------
     cleanup(db)

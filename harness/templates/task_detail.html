@@ -1,0 +1,49 @@
+{% extends "base.html" %}
+{% block title %}Task {{ task.task_id }} — Eval Harness{% endblock %}
+{% block content %}
+<div class="page-header">
+  <h1>Task {{ task.task_id }}</h1>
+  <p class="meta">{{ task.kind }} · <span id="task-status">{{ task.status }}</span></p>
+</div>
+
+<p id="task-message" class="muted">{{ task.progress.message or "Waiting for a worker…" }}</p>
+
+{% if task.error %}
+<section class="warn-banner">
+  <strong>Error:</strong> <span id="task-error">{{ task.error }}</span>
+</section>
+{% endif %}
+
+<script>
+  (function () {
+    var taskId = {{ task.task_id | tojson }};
+    var statusEl = document.getElementById("task-status");
+    var messageEl = document.getElementById("task-message");
+
+    function poll() {
+      window.fetch("/tasks/" + encodeURIComponent(taskId) + "/status", {
+        headers: { Accept: "application/json" },
+      })
+        .then(function (response) { return response.json(); })
+        .then(function (data) {
+          if (statusEl) statusEl.textContent = data.status;
+          if (messageEl) messageEl.textContent = (data.progress && data.progress.message) || "";
+          if (data.status === "queued" || data.status === "running") {
+            window.setTimeout(poll, 1500);
+            return;
+          }
+          if (data.result_url) {
+            window.location.assign(data.result_url);
+            return;
+          }
+          window.location.reload();
+        })
+        .catch(function () {
+          window.setTimeout(poll, 3000);
+        });
+    }
+
+    if (taskId) window.setTimeout(poll, 1500);
+  })();
+</script>
+{% endblock %}

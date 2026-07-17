@@ -135,12 +135,8 @@ class PineconeRetriever:
         return out
 
 
-# Module-level singleton: one Pinecone connection + one loaded embedder per process.
-_RETRIEVER: PineconeRetriever | None = None
-
-
-def get_retriever() -> PineconeRetriever:
-    global _RETRIEVER
-    if _RETRIEVER is None:
-        _RETRIEVER = PineconeRetriever()
-    return _RETRIEVER
+def make_retriever() -> PineconeRetriever:
+    """Build a fresh retriever. Each RunContext gets its own instance, so the
+    mutable per-session state (the embedder-identity check) is isolated across
+    concurrent runs instead of shared through a process singleton."""
+    return PineconeRetriever()

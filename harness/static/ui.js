@@ -1,7 +1,6 @@
 (function () {
   var ActiveJob = {
     STORAGE_KEY: "harness-active-job",
-    LEGACY_STORAGE_KEY: "harness-active-evaluation",
     MAX_AGE_MS: 30 * 60 * 1000,
     LABELS: {
       experiment: "Running experiment",
@@ -17,23 +16,7 @@
     read: function () {
       try {
         var stored = window.sessionStorage.getItem(this.STORAGE_KEY);
-        if (stored) return JSON.parse(stored);
-        // Migrate the previous experiment-only key once.
-        var legacy = window.sessionStorage.getItem(this.LEGACY_STORAGE_KEY);
-        if (!legacy) return null;
-        var old = JSON.parse(legacy);
-        var migrated = {
-          kind: "experiment",
-          label: this.LABELS.experiment,
-          jobId: old.experimentId || old.launchId || "",
-          returnPath: "/chat",
-          statusUrlTemplate: "/chat/experiments/__JOB_ID__/status",
-          startedAt: old.startedAt || Date.now(),
-          samples: old.samples,
-        };
-        this.write(migrated);
-        window.sessionStorage.removeItem(this.LEGACY_STORAGE_KEY);
-        return migrated;
+        return stored ? JSON.parse(stored) : null;
       } catch (_error) {
         return null;
       }
@@ -52,43 +35,23 @@
       this.pollTimer = null;
       try {
         window.sessionStorage.removeItem(this.STORAGE_KEY);
-        window.sessionStorage.removeItem(this.LEGACY_STORAGE_KEY);
       } catch (_error) {
         // Ignore unavailable storage.
       }
       this.updateChrome(null);
     },
 
-    consumeFinishedParam: function () {
-      var currentUrl = new URL(window.location.href);
-      var finished =
-        currentUrl.searchParams.get("job_finished") ||
-        currentUrl.searchParams.get("experiment_finished") ||
-        currentUrl.searchParams.get("evaluation_finished");
-      if (!finished) return false;
-      this.clear();
-      currentUrl.searchParams.delete("job_finished");
-      currentUrl.searchParams.delete("experiment_finished");
-      currentUrl.searchParams.delete("evaluation_finished");
-      window.history.replaceState({}, "", currentUrl.pathname + currentUrl.search + currentUrl.hash);
-      return true;
-    },
-
     updateChrome: function (state) {
-      var chip = document.getElementById("active-job-chip");
-      if (!chip) return;
+      var status = document.getElementById("active-job-status");
+      if (!status) return;
       if (!state) {
-        chip.hidden = true;
-        this.updateChipProgress(null, "", "");
+        status.hidden = true;
+        this.updateStatusText(null, "");
         return;
       }
-      chip.hidden = false;
-      chip.href = state.returnPath || "/";
-      this.updateChipProgress(
-        state,
-        state.label || this.labelFor(state.kind),
-        state.progressMessage || ""
-      );
+      status.hidden = false;
+      status.href = state.returnPath || "/";
+      this.updateStatusText(state, state.progressMessage || state.label || this.labelFor(state.kind));
     },
 
     resolveStatusUrl: function (state) {
@@ -99,23 +62,15 @@
           encodeURIComponent(state.jobId)
         );
       }
-      if (state.kind === "experiment") {
-        return "/chat/experiments/" + encodeURIComponent(state.jobId) + "/status";
-      }
-      return "";
+      return "/tasks/" + encodeURIComponent(state.jobId) + "/status";
     },
 
-    updateChipProgress: function (state, title, detail) {
-      var label = document.getElementById("active-job-label");
-      var detailEl = document.getElementById("active-job-detail");
-      if (!label) return;
-      label.textContent = title || "Working…";
-      if (detailEl) {
-        detailEl.textContent = detail || "";
-        detailEl.hidden = !detail;
-      }
-      if (state && detail) {
-        state.progressMessage = detail;
+    updateStatusText: function (state, text) {
+      var textEl = document.getElementById("active-job-text");
+      if (!textEl) return;
+      textEl.textContent = text || "Working…";
+      if (state && text) {
+        state.progressMessage = text;
         this.write(state);
       }
     },
@@ -141,19 +96,19 @@
       status.textContent = detail ? title + " — " + detail : title;
     },
 
-    experimentDetail: function (data, restored) {
-      if (data && data.message) return data.message;
-      if (restored) return "Still running — restored after returning to this page.";
-      var samples = Number(data && data.samples) || 1;
+    experimentDetail: function (data) {
+      var progress = (data && data.progress) || {};
+      if (progress.message) return progress.message;
+      var samples = Number(data && data.payload && data.payload.samples) || 1;
       if (samples > 1) {
         return "Starting " + samples + " samples…";
       }
       return "Preparing run…";
     },
 
-    applyExperimentProgress: function (form, state, data, restored) {
+    applyExperimentProgress: function (form, state, data) {
       if (state.kind !== "experiment") return;
-      var detail = this.experimentDetail(data, restored);
+      var detail = this.experimentDetail(data);
       if (form) {
         this.setStatusText(
           form,
@@ -161,22 +116,21 @@
           detail
         );
       }
-      this.updateChipProgress(state, state.label || this.LABELS.experiment, detail);
+      this.updateStatusText(state, detail || state.label || this.LABELS.experiment);
     },
 
-    applyProgress: function (state, data, restored) {
+    applyProgress: function (state, data) {
       if (state.kind === "experiment") {
-        this.applyExperimentProgress(this.findForm(state.kind), state, data, restored);
+        this.applyExperimentProgress(this.findForm(state.kind), state, data);
         return;
       }
       var form = this.findForm(state.kind);
-      var detail = (data && data.message) || (restored
-        ? "Still running — restored after returning to this page."
-        : "Controls are locked until generation completes.");
+      var detail = (data && data.progress && data.progress.message)
+        || "Controls are locked until generation completes.";
       if (form) {
         this.setStatusText(form, state.label || this.labelFor(state.kind), detail);
       }
-      this.updateChipProgress(state, state.label || this.labelFor(state.kind), detail);
+      this.updateStatusText(state, detail || state.label || this.labelFor(state.kind));
     },
 
     showOnForm: function (form, state, restored) {
@@ -203,16 +157,17 @@
       if (lock) lock.inert = true;
 
       if (state.kind === "experiment") {
-        this.applyExperimentProgress(form, state, { samples: state.samples }, restored);
+        this.applyExperimentProgress(form, state, { samples: state.samples });
       } else {
         this.setStatusText(
           form,
           state.label || this.labelFor(state.kind),
-          restored
-            ? "Still running — restored after returning to this page."
-            : "Controls are locked until generation completes."
+          "Controls are locked until generation completes."
         );
       }
+      // The reset button only matters when re-attaching to a run that may be
+      // stuck — the fresh poll() call right after this fills in real progress
+      // within a second or two either way.
       if (resetBtn) resetBtn.hidden = !restored;
     },
 
@@ -251,38 +206,42 @@
         window.location.assign(result.result_url);
         return;
       }
-      this.clear();
-      if (form) this.resetForm(form);
+      var failed = result && result.status === "failed";
       if (!form) {
-        if (result && result.status === "failed") {
-          this.updateChipProgress(
-            state,
-            "Stopped before completion",
-            result.error || "Open Experiment to retry."
-          );
+        // No form on this page (e.g. a dashboard-launched draft finished
+        // while the user is on a run detail page) — stop polling but keep
+        // the header status visible long enough to show the outcome,
+        // rather than clearing it (which would hide the text right away).
+        window.clearTimeout(this.pollTimer);
+        this.pollTimer = null;
+        try {
+          window.sessionStorage.removeItem(this.STORAGE_KEY);
+        } catch (_error) {
+          // Ignore unavailable storage.
+        }
+        if (failed) {
+          var status = document.getElementById("active-job-status");
+          this.updateStatusText(state, "Stopped before completion — " + (result.error || "open Experiment to retry."));
+          if (status) status.hidden = false;
+        } else {
+          this.updateChrome(null);
         }
         return;
       }
-      if (result && result.status === "failed") {
+      this.clear();
+      this.resetForm(form);
+      if (failed) {
         this.setStatusText(
           form,
           "Stopped before completion",
           result.error || "You can retry."
         );
-        var status = form.querySelector("[data-active-job-status]");
-        if (status) status.hidden = false;
+        var formStatus = form.querySelector("[data-active-job-status]");
+        if (formStatus) formStatus.hidden = false;
         return;
       }
       if (state.kind === "experiment") {
-        this.setStatusText(
-          form,
-          result && result.status === "failed"
-            ? "Evaluation stopped before completion"
-            : "Evaluation finished",
-          result && result.status === "failed"
-            ? "You can retry the run."
-            : "Open Runs to view the result."
-        );
+        this.setStatusText(form, "Evaluation finished", "Open Runs to view the result.");
         var experimentStatus = form.querySelector("[data-active-job-status]");
         if (experimentStatus) experimentStatus.hidden = false;
       }
@@ -312,16 +271,12 @@
             return;
           }
           if (!result.ok) {
-            self.updateChipProgress(
-              state,
-              "Experiment interrupted",
-              "Reload the Experiment page and try again."
-            );
+            self.updateStatusText(state, (state.label || self.labelFor(state.kind)) + " — interrupted. Reload and try again.");
             if (form) self.resetForm(form);
             return;
           }
-          if (result.data.status === "running" || result.data.status === "pending") {
-            self.applyProgress(state, result.data, false);
+          if (result.data.status === "running" || result.data.status === "queued") {
+            self.applyProgress(state, result.data);
             self.pollTimer = window.setTimeout(function () {
               self.poll(state);
             }, 1500);
@@ -342,7 +297,6 @@
     },
 
     restore: function () {
-      if (this.consumeFinishedParam()) return;
       var state = this.read();
       if (!state || Date.now() - Number(state.startedAt) > this.MAX_AGE_MS) {
         this.clear();
@@ -411,6 +365,54 @@
   };
 
   ActiveJob.init();
+
+  (function pollActiveTasksPanel() {
+    var list = document.getElementById("active-tasks-list");
+    var countEl = document.querySelector("[data-active-tasks-count]");
+    var emptyEl = document.querySelector("[data-active-tasks-empty]");
+    var rows = document.querySelectorAll("[data-task-row]");
+    if (!rows.length) return;
+
+    // Updates rows in place and drops finished/failed ones — no full-page
+    // reload. A task finishing shouldn't yank the supervisor away from
+    // whatever else they're reading on the dashboard.
+    function poll() {
+      var stillActive = false;
+      var fetches = Array.prototype.map.call(rows, function (row) {
+        var taskId = row.getAttribute("data-task-id");
+        if (!taskId) return Promise.resolve();
+        return window.fetch("/tasks/" + encodeURIComponent(taskId) + "/status", {
+          headers: { Accept: "application/json" },
+        })
+          .then(function (response) { return response.json(); })
+          .then(function (data) {
+            if (data.status === "queued" || data.status === "running") {
+              var statusEl = row.querySelector("[data-task-status]");
+              var messageEl = row.querySelector("[data-task-message]");
+              if (statusEl) statusEl.textContent = data.status;
+              if (messageEl) messageEl.textContent = (data.progress && data.progress.message) || "";
+              stillActive = true;
+            } else {
+              row.remove();
+            }
+          })
+          .catch(function () {});
+      });
+      Promise.all(fetches).then(function () {
+        rows = document.querySelectorAll("[data-task-row]");
+        if (countEl) countEl.textContent = String(rows.length);
+        if (!rows.length) {
+          if (list) list.hidden = true;
+          if (emptyEl) emptyEl.hidden = false;
+        }
+        if (stillActive) {
+          window.setTimeout(poll, 2000);
+        }
+      });
+    }
+
+    window.setTimeout(poll, 2000);
+  })();
 
   function syncSamplesRange(range) {
     var output = document.getElementById("samples-value");

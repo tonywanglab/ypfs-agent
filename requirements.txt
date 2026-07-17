@@ -11,3 +11,5 @@ flask
 markdown>=3.7
 gunicorn
 flask-limiter
+psycopg[binary]
+pgvector
