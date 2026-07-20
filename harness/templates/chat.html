@@ -31,7 +31,12 @@
 
 <div class="chat-layout">
   <aside class="chat-config">
-    <form method="post" action="{{ url_for('chat_run') }}" id="experiment-form">
+    <form method="post" action="{{ url_for('chat_run') }}" id="experiment-form"
+      data-active-job="experiment"
+      data-active-job-passive="true"
+      data-active-job-return="{{ url_for('chat') }}"
+      data-status-url-template="{{ url_for('task_status', task_id='__JOB_ID__') }}"
+      data-job-id-field="task_id">
       <input type="hidden" name="task_id" value="{{ task_id }}">
       <div>
         <fieldset>

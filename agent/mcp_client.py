@@ -15,12 +15,24 @@ import sys
 import threading
 from pathlib import Path
 
-from mcp import ClientSession, StdioServerParameters
-from mcp.client.stdio import stdio_client
-
 _REPO_ROOT = Path(__file__).parent.parent
 
 CALL_TIMEOUT = 120
+_MCP_INSTALL_HINT = (
+    "Install MCP deps with `.venv/bin/pip install -r requirements.txt` "
+    "and run the agent/harness with `.venv/bin/python`."
+)
+
+
+def _import_mcp_sdk():
+    try:
+        from mcp import ClientSession, StdioServerParameters
+        from mcp.client.stdio import stdio_client
+    except ModuleNotFoundError as e:
+        raise ModuleNotFoundError(
+            f"No module named 'mcp'. {_MCP_INSTALL_HINT}"
+        ) from e
+    return ClientSession, StdioServerParameters, stdio_client
 
 
 class McpClient:
@@ -48,6 +60,7 @@ class McpClient:
                 self._ready.set()
 
     async def _serve(self) -> None:
+        ClientSession, StdioServerParameters, stdio_client = _import_mcp_sdk()
         params = StdioServerParameters(
             command=sys.executable,
             args=["-m", "mcp_server"],

@@ -283,11 +283,12 @@ def test_delete_run_route_rejects_invalid_run_id(pg, monkeypatch):
     assert response.status_code == 404
 
 
-def test_chat_page_does_not_lock_the_form_while_a_run_is_active(pg, monkeypatch):
+def test_chat_page_tracks_runs_in_nav_without_locking_the_form(pg, monkeypatch):
     client = _client(pg, monkeypatch)
     body = client.get("/chat").get_data(as_text=True)
     assert 'name="task_id"' in body
-    assert 'data-active-job="experiment"' not in body
+    assert 'data-active-job="experiment"' in body
+    assert 'data-active-job-passive="true"' in body
     assert "data-active-job-lock" not in body
 
 

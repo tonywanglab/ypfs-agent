@@ -13,3 +13,5 @@ gunicorn
 flask-limiter
 psycopg[binary]
 pgvector
+mcp
+rank-bm25

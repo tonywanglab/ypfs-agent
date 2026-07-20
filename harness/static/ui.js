@@ -3,6 +3,7 @@
     STORAGE_KEY: "harness-active-job",
     MAX_AGE_MS: 30 * 60 * 1000,
     LABELS: {
+      experiment: "Running experiment",
       prompt_draft: "Generating new prompt",
       rubric_draft: "Generating new rubric",
     },
@@ -78,6 +79,19 @@
       return document.querySelector('form[data-active-job="' + kind + '"]');
     },
 
+    isPassive: function (stateOrForm) {
+      if (!stateOrForm) return false;
+      if (stateOrForm.passive) return true;
+      if (stateOrForm.dataset && stateOrForm.dataset.activeJobPassive === "true") {
+        return true;
+      }
+      if (stateOrForm.kind) {
+        var form = this.findForm(stateOrForm.kind);
+        return form && form.dataset.activeJobPassive === "true";
+      }
+      return false;
+    },
+
     setStatusText: function (form, title, detail) {
       var status = form.querySelector("[data-active-job-status]");
       if (!status) return;
@@ -95,7 +109,34 @@
       status.textContent = detail ? title + " — " + detail : title;
     },
 
+    experimentDetail: function (data) {
+      var progress = (data && data.progress) || {};
+      if (progress.message) return progress.message;
+      var samples = Number(data && data.payload && data.payload.samples) || 1;
+      if (samples > 1) {
+        return "Starting " + samples + " samples…";
+      }
+      return "Preparing run…";
+    },
+
+    applyExperimentProgress: function (form, state, data) {
+      if (state.kind !== "experiment") return;
+      var detail = this.experimentDetail(data);
+      if (form && !this.isPassive(state)) {
+        this.setStatusText(
+          form,
+          state.label || this.LABELS.experiment,
+          detail
+        );
+      }
+      this.updateStatusText(state, detail || state.label || this.LABELS.experiment);
+    },
+
     applyProgress: function (state, data) {
+      if (state.kind === "experiment") {
+        this.applyExperimentProgress(this.findForm(state.kind), state, data);
+        return;
+      }
       var form = this.findForm(state.kind);
       var detail = (data && data.progress && data.progress.message)
         || "Controls are locked until generation completes.";
@@ -106,7 +147,7 @@
     },
 
     showOnForm: function (form, state, restored) {
-      if (!form) return;
+      if (!form || this.isPassive(state)) return;
       var submitBtn = form.querySelector("[data-active-job-submit]");
       var submitLabel = form.querySelector("[data-active-job-submit-label]");
       var lock = form.querySelector("[data-active-job-lock]");
@@ -168,7 +209,24 @@
 
     finish: function (state, result) {
       var form = this.findForm(state.kind);
+      var passive = this.isPassive(state);
       if (result && result.result_url && result.status === "finished") {
+        if (passive) {
+          window.clearTimeout(this.pollTimer);
+          this.pollTimer = null;
+          try {
+            window.sessionStorage.removeItem(this.STORAGE_KEY);
+          } catch (_error) {
+            // Ignore unavailable storage.
+          }
+          var doneStatus = document.getElementById("active-job-status");
+          if (doneStatus) {
+            doneStatus.hidden = false;
+            doneStatus.href = result.result_url;
+          }
+          this.updateStatusText(null, "Evaluation finished — view run");
+          return;
+        }
         this.clear();
         if (form) this.resetForm(form);
         window.location.assign(result.result_url);
@@ -196,6 +254,25 @@
         }
         return;
       }
+      if (passive && failed) {
+        window.clearTimeout(this.pollTimer);
+        this.pollTimer = null;
+        try {
+          window.sessionStorage.removeItem(this.STORAGE_KEY);
+        } catch (_error) {
+          // Ignore unavailable storage.
+        }
+        var passiveFailStatus = document.getElementById("active-job-status");
+        if (passiveFailStatus) {
+          passiveFailStatus.hidden = false;
+          passiveFailStatus.href = state.returnPath || "/";
+        }
+        this.updateStatusText(
+          null,
+          "Stopped before completion — " + (result.error || "open Experiment to retry.")
+        );
+        return;
+      }
       this.clear();
       this.resetForm(form);
       if (failed) {
@@ -206,6 +283,10 @@
         );
         var formStatus = form.querySelector("[data-active-job-status]");
         if (formStatus) formStatus.hidden = false;
+      } else if (state.kind === "experiment" && !passive) {
+        this.setStatusText(form, "Evaluation finished", "Open Runs to view the result.");
+        var experimentStatus = form.querySelector("[data-active-job-status]");
+        if (experimentStatus) experimentStatus.hidden = false;
       }
     },
 
@@ -288,13 +369,15 @@
       }
       form.addEventListener("submit", function (event) {
         if (!form.checkValidity()) return;
-        if (form.dataset.activeJobRunning === "true") {
+        var passive = form.dataset.activeJobPassive === "true";
+        if (!passive && form.dataset.activeJobRunning === "true") {
           event.preventDefault();
           return;
         }
         var kind = form.dataset.activeJob || "job";
         var idField = form.dataset.jobIdField || "job_id";
         var idInput = form.querySelector('[name="' + idField + '"]');
+        var samplesInput = form.querySelector('[name="samples"]');
         var state = {
           kind: kind,
           label: self.labelFor(kind),
@@ -302,9 +385,14 @@
           returnPath: form.dataset.activeJobReturn || window.location.pathname,
           statusUrlTemplate: form.dataset.statusUrlTemplate || "",
           startedAt: Date.now(),
+          samples: samplesInput ? Number(samplesInput.value) : undefined,
+          passive: passive,
         };
         self.write(state);
         self.updateChrome(state);
+        if (passive) {
+          return;
+        }
         self.showOnForm(form, state, false);
         if (state.statusUrlTemplate && state.jobId) {
           self.poll(state);

@@ -20,6 +20,23 @@ def _require_database_url() -> None:
         )
 
 
+def _require_mcp_deps() -> None:
+    """Default retrieval is MCP (BM25 server); fail fast with install instructions."""
+    if os.getenv("RETRIEVAL_BACKEND", "mcp") != "mcp":
+        return
+    try:
+        import mcp  # noqa: F401
+        import rank_bm25  # noqa: F401
+    except ModuleNotFoundError as e:
+        sys.exit(
+            f"{e}\n\n"
+            "The default RETRIEVAL_BACKEND=mcp needs the MCP SDK and rank-bm25.\n"
+            "  .venv/bin/pip install -r requirements.txt\n"
+            "Then start the harness with the project venv:\n"
+            "  .venv/bin/python -m harness web --with-worker"
+        )
+
+
 def _cmd_seed(_args: argparse.Namespace) -> None:
     seed.seed_all()
     print(f"Seeded {len(seed.load_cases())} cases, rubric_v1, prompt_v1 into Postgres")
@@ -64,6 +81,7 @@ def main() -> None:
 
     args = parser.parse_args()
     _require_database_url()
+    _require_mcp_deps()
     if args.command == "seed":
         _cmd_seed(args)
     elif args.command == "web":
