@@ -67,9 +67,8 @@ def transaction():
 _ID_PATTERNS = {
     "run": re.compile(r"^run_[0-9a-f]{12}$"),
     "task": re.compile(r"^task_[0-9a-f]{12}$"),
-    "review": re.compile(r"^rev_[0-9a-f]{12}$"),
+    "feedback": re.compile(r"^fb_[0-9a-f]{12}$"),
     "prompt": re.compile(r"^prompt_v\d{1,6}$"),
-    "rubric": re.compile(r"^rubric_v\d{1,6}$"),
     "case": re.compile(r"^[A-Za-z0-9_][A-Za-z0-9_-]{0,99}$"),
 }
 

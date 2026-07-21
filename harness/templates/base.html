@@ -22,21 +22,11 @@
         <span aria-hidden="true">👷</span>
         {{ fixed_agent_model_label }}
       </span>
-      <span class="header-chip" title="Judge model: {{ fixed_judge_model }}">
-        <span aria-hidden="true">⚖️</span>
-        {{ fixed_judge_model_label }}
-      </span>
       {% if latest_prompt_id != "not seeded" %}
         <a class="header-chip header-chip-version" href="{{ url_for('edit_prompt_version', prompt_id=latest_prompt_id) }}"
           title="Edit {{ latest_prompt_id }}">{{ latest_prompt_id }}</a>
       {% else %}
         <span class="header-chip header-chip-version">{{ latest_prompt_id }}</span>
-      {% endif %}
-      {% if latest_rubric_id != "not seeded" %}
-        <a class="header-chip header-chip-version" href="{{ url_for('edit_rubric_version', rubric_id=latest_rubric_id) }}"
-          title="Edit {{ latest_rubric_id }}">{{ latest_rubric_id }}</a>
-      {% else %}
-        <span class="header-chip header-chip-version">{{ latest_rubric_id }}</span>
       {% endif %}
     </div>
   </header>

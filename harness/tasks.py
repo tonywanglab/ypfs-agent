@@ -1,7 +1,7 @@
 """Postgres-backed task queue.
 
-One `tasks` row per unit of background work — experiment runs and
-prompt/rubric draft generations share the table, distinguished by `kind`.
+One `tasks` row per unit of background work — experiment runs and prompt
+draft generations share the table, distinguished by `kind`.
 The row is the single source of truth end-to-end: the DB row, the
 /tasks/<id>/status JSON, and the frontend's polling state all carry the same
 shape (see task_payload()).
@@ -23,8 +23,7 @@ from .storage import new_id
 
 KIND_EXPERIMENT = "experiment"
 KIND_PROMPT_DRAFT = "prompt_draft"
-KIND_RUBRIC_DRAFT = "rubric_draft"
-KINDS = (KIND_EXPERIMENT, KIND_PROMPT_DRAFT, KIND_RUBRIC_DRAFT)
+KINDS = (KIND_EXPERIMENT, KIND_PROMPT_DRAFT)
 
 # In-flight from the UI's perspective: keep polling.
 ACTIVE_STATUSES = ("queued", "running")

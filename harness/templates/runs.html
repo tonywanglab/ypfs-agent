@@ -1,20 +1,18 @@
 {% extends "base.html" %}
+{% from "macros/form_actions.html" import form_actions %}
 {% block title %}Runs — Eval Harness{% endblock %}
 {% block content %}
-{% set has_filters = selected_prompt_id or selected_rubric_id %}
+{% set has_filters = selected_prompt_id %}
 <div class="page-header page-header-row">
   <div>
     <h1>All runs</h1>
-    <p class="meta">Filter by one variable while comparing the other.</p>
+    <p class="meta">Filter by prompt version.</p>
   </div>
   <div class="runs-filter-bar">
     {% if has_filters %}
       <div class="runs-filter-summary" aria-label="Active filters">
         {% if selected_prompt_id %}
           <span class="chip">{{ selected_prompt_id }}</span>
-        {% endif %}
-        {% if selected_rubric_id %}
-          <span class="chip">{{ selected_rubric_id }}</span>
         {% endif %}
         <a class="runs-filter-clear" href="{{ url_for('runs_list') }}">Clear</a>
       </div>
@@ -30,7 +28,7 @@
       >
         Filter
         {% if has_filters %}
-          <span class="runs-filter-count" aria-hidden="true">{{ (1 if selected_prompt_id else 0) + (1 if selected_rubric_id else 0) }}</span>
+          <span class="runs-filter-count" aria-hidden="true">1</span>
         {% endif %}
       </button>
       <div
@@ -49,18 +47,7 @@
               {% endfor %}
             </select>
           </label>
-          <label>Rubric
-            <select name="rubric_id">
-              <option value="">All rubrics</option>
-              {% for rubric in rubrics %}
-                <option value="{{ rubric.rubric_id }}" {% if rubric.rubric_id == selected_rubric_id %}selected{% endif %}>{{ rubric.rubric_id }}</option>
-              {% endfor %}
-            </select>
-          </label>
-          <div class="form-actions runs-filter-actions">
-            <button type="submit" class="primary">Apply</button>
-            <a href="{{ url_for('runs_list') }}">Clear</a>
-          </div>
+          {{ form_actions("Apply", cancel_href=url_for('runs_list'), cancel_label="Clear", extra_class="runs-filter-actions") }}
         </form>
       </div>
     </div>
@@ -70,24 +57,23 @@
 {% if runs %}
 <section>
   <table class="runs-table">
-    <thead><tr><th>Run</th><th>Case</th><th>Pair</th><th>Agent</th><th>Judge</th><th>Date</th><th>Status</th><th><span class="visually-hidden">Actions</span></th></tr></thead>
+    <thead><tr><th>Run</th><th>Case</th><th>Prompt</th><th>Agent</th><th>Date</th><th>Status</th><th><span class="visually-hidden">Actions</span></th></tr></thead>
     <tbody>
       {% for run in runs %}
-        <tr class="{{ 'fail' if run.hard_failure else '' }}">
+        <tr>
           <td><a href="{{ url_for('run_detail', run_id=run.run_id) }}">{{ run.run_id }}</a></td>
           <td>{{ run.case_id }}</td>
-          <td><span class="chip">{{ run.prompt_id }}, {{ run.rubric_id }}</span></td>
+          <td><span class="chip">{{ run.prompt_id }}</span></td>
           <td class="meta">{{ run.agent_model }}</td>
-          <td class="meta">{{ run.judge_model }}</td>
           <td class="run-date">
             <time datetime="{{ run.created_at }}" data-local-datetime="{{ run.created_at }}" title="{{ run.created_at }}">
               <span class="run-date-day">{{ run.created_at[:10] }}</span>
               <span class="run-date-time">{{ run.created_at[11:16] }} UTC</span>
             </time>
           </td>
-          <td><span class="badge {% if run.hard_failure %}warn{% else %}ok{% endif %}">{{ 'hard failure' if run.hard_failure else run.status }}</span></td>
+          <td><span class="badge neutral">{{ run.status }}</span></td>
           <td class="run-actions">
-            <form method="post" action="{{ url_for('delete_run_route', run_id=run.run_id) }}" data-confirm="Delete {{ run.run_id }} and its reviews?">
+            <form method="post" action="{{ url_for('delete_run_route', run_id=run.run_id) }}" data-confirm="Delete {{ run.run_id }}?">
               <input type="hidden" name="next" value="runs">
               <button type="submit" class="subtle-danger">Delete</button>
             </form>

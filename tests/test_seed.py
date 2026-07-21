@@ -34,22 +34,6 @@ def test_seed_cases_marks_rows_non_adhoc(pg):
     assert seed.load_case("chat_adhoc_1").case_id == "chat_adhoc_1"
 
 
-def test_seed_rubric_v1_has_deterministic_and_llm_criteria(pg):
-    rubric = seed.seed_rubric_v1()
-    assert rubric.rubric_id == "rubric_v1"
-    det = [c for c in rubric.criteria if c.check_type == "deterministic"]
-    llm = [c for c in rubric.criteria if c.check_type == "llm"]
-    assert det and llm
-    assert all(c.deterministic_check for c in det)
-    assert all(c.deterministic_check is None for c in llm)
-
-
-def test_seed_rubric_v1_is_idempotent(pg):
-    first = seed.seed_rubric_v1()
-    second = seed.seed_rubric_v1()
-    assert first == second
-
-
 def test_seed_prompt_v1_mirrors_system_prompt(pg):
     prompt = seed.seed_prompt_v1()
     assert prompt.prompt_id == "prompt_v1"

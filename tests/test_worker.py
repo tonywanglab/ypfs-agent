@@ -5,9 +5,9 @@ import time
 
 import requests
 
-from harness import config, evaluator, llm, seed, tasks, versions, worker
+from harness import llm, seed, tasks, versions, worker
 from harness import runner as runner_module
-from harness.models import Case, CriterionVerdict, Judgment, RubricCriterion, RubricVersion
+from harness.models import Case
 
 
 def _patch_agent_pipeline(monkeypatch, answer="answer"):
@@ -17,19 +17,7 @@ def _patch_agent_pipeline(monkeypatch, answer="answer"):
         calls["n"] += 1
         return answer, []
 
-    def fake_judge_answer(**kwargs):
-        return Judgment(
-            f"judg_{calls['n']}",
-            kwargs["run_id"],
-            config.judge_model(),
-            [CriterionVerdict("quality", "pass", "good")],
-            "ok",
-            "",
-            "t",
-        )
-
     monkeypatch.setattr(runner_module, "agent_run", fake_agent_run)
-    monkeypatch.setattr(evaluator, "judge_answer", fake_judge_answer)
     return calls
 
 
@@ -44,8 +32,8 @@ def test_progress_message_single_sample_by_phase():
 
 def test_progress_message_multi_sample():
     assert worker._progress_message(
-        "checks", current_sample=2, completed_samples=1, samples=5,
-    ) == "Sample 2 of 5 — Running deterministic checks…"
+        "agent", current_sample=2, completed_samples=1, samples=5,
+    ) == "Sample 2 of 5 — Running agent…"
     assert worker._progress_message(
         "prepare", current_sample=0, completed_samples=0, samples=5,
     ) == "Preparing 5 samples…"
@@ -78,14 +66,12 @@ def test_error_message_fallback():
 
 def test_execute_task_runs_experiment_and_finishes_with_run_id(pg, monkeypatch):
     seed.seed_prompt_v1()
-    seed.seed_rubric_v1()
     _patch_agent_pipeline(monkeypatch)
 
     case = Case("case_1", "question")
     payload = {
         "case": case.to_dict(),
         "prompt_id": "prompt_v1",
-        "rubric_id": "rubric_v1",
         "samples": 1,
     }
     enqueued = tasks.enqueue(tasks.KIND_EXPERIMENT, payload)
@@ -103,14 +89,12 @@ def test_execute_task_runs_experiment_and_finishes_with_run_id(pg, monkeypatch):
 
 def test_execute_task_reports_progress_as_it_goes(pg, monkeypatch):
     seed.seed_prompt_v1()
-    seed.seed_rubric_v1()
     _patch_agent_pipeline(monkeypatch)
 
     case = Case("case_1", "question")
     payload = {
         "case": case.to_dict(),
         "prompt_id": "prompt_v1",
-        "rubric_id": "rubric_v1",
         "samples": 2,
     }
     enqueued = tasks.enqueue(tasks.KIND_EXPERIMENT, payload)
@@ -129,7 +113,6 @@ def test_execute_task_reports_progress_as_it_goes(pg, monkeypatch):
     assert seen_phases[0] == "prepare"
     assert seen_phases[-1] == "sample_done"
     assert "agent" in seen_phases
-    assert "judge" in seen_phases
     loaded = tasks.load(enqueued["task_id"])
     assert loaded["status"] == "finished"
 
@@ -140,10 +123,9 @@ def test_execute_task_prompt_draft_finishes_with_draft_result(pg, monkeypatch):
         "prompt_text": "drafted prompt",
         "rationale": "fix it",
     })
-    review_ids = []  # no reviews needed for this smoke test path
-    monkeypatch.setattr(versions, "_review_context", lambda review_ids, target: [{"stub": True}])
+    monkeypatch.setattr(versions, "_feedback_context", lambda feedback_ids: [{"stub": True}])
 
-    enqueued = tasks.enqueue(tasks.KIND_PROMPT_DRAFT, {"base_id": "prompt_v1", "review_ids": review_ids})
+    enqueued = tasks.enqueue(tasks.KIND_PROMPT_DRAFT, {"base_id": "prompt_v1", "feedback_ids": ["fb_stub"]})
     claimed = tasks.claim("worker-1")
 
     worker.execute_task(claimed)
@@ -154,30 +136,11 @@ def test_execute_task_prompt_draft_finishes_with_draft_result(pg, monkeypatch):
     assert loaded["result"]["base_id"] == "prompt_v1"
 
 
-def test_execute_task_rubric_draft_finishes_with_draft_result(pg, monkeypatch):
-    seed.seed_rubric_v1()
-    monkeypatch.setattr(llm, "chat_json", lambda **kwargs: {
-        "criteria": [{"id": "quality", "description": "good answer", "check_type": "llm"}],
-        "rationale": "simplify",
-    })
-    monkeypatch.setattr(versions, "_review_context", lambda review_ids, target: [{"stub": True}])
-
-    enqueued = tasks.enqueue(tasks.KIND_RUBRIC_DRAFT, {"base_id": "rubric_v1", "review_ids": []})
-    claimed = tasks.claim("worker-1")
-
-    worker.execute_task(claimed)
-
-    loaded = tasks.load(enqueued["task_id"])
-    assert loaded["status"] == "finished"
-    assert loaded["result"]["criteria"][0]["id"] == "quality"
-
-
 def test_execute_task_expected_error_fails_task_with_readable_message(pg, monkeypatch):
     seed.seed_prompt_v1()
-    seed.seed_rubric_v1()
 
     def raise_value_error(*args, **kwargs):
-        raise ValueError("bad rubric criterion")
+        raise ValueError("bad case payload")
 
     monkeypatch.setattr(runner_module, "agent_run", raise_value_error)
 
@@ -185,7 +148,6 @@ def test_execute_task_expected_error_fails_task_with_readable_message(pg, monkey
     payload = {
         "case": case.to_dict(),
         "prompt_id": "prompt_v1",
-        "rubric_id": "rubric_v1",
         "samples": 1,
     }
     enqueued = tasks.enqueue(tasks.KIND_EXPERIMENT, payload)
@@ -195,12 +157,11 @@ def test_execute_task_expected_error_fails_task_with_readable_message(pg, monkey
 
     loaded = tasks.load(enqueued["task_id"])
     assert loaded["status"] == "failed"
-    assert "bad rubric criterion" in loaded["error"]
+    assert "bad case payload" in loaded["error"]
 
 
 def test_execute_task_unexpected_error_fails_task_and_does_not_raise(pg, monkeypatch):
     seed.seed_prompt_v1()
-    seed.seed_rubric_v1()
 
     def raise_type_error(*args, **kwargs):
         raise TypeError("totally unexpected")
@@ -211,7 +172,6 @@ def test_execute_task_unexpected_error_fails_task_and_does_not_raise(pg, monkeyp
     payload = {
         "case": case.to_dict(),
         "prompt_id": "prompt_v1",
-        "rubric_id": "rubric_v1",
         "samples": 1,
     }
     enqueued = tasks.enqueue(tasks.KIND_EXPERIMENT, payload)
@@ -239,14 +199,12 @@ def test_execute_task_unknown_kind_fails_immediately(pg):
 
 def test_worker_loop_claims_executes_and_stops(pg, monkeypatch):
     seed.seed_prompt_v1()
-    seed.seed_rubric_v1()
     _patch_agent_pipeline(monkeypatch)
 
     case = Case("case_1", "question")
     payload = {
         "case": case.to_dict(),
         "prompt_id": "prompt_v1",
-        "rubric_id": "rubric_v1",
         "samples": 1,
     }
     enqueued = tasks.enqueue(tasks.KIND_EXPERIMENT, payload)

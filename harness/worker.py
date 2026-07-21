@@ -43,8 +43,6 @@ def _progress_message(phase: str, *, current_sample: int, completed_samples: int
     phase_labels = {
         "prepare": "Preparing run…",
         "agent": "Running agent…",
-        "checks": "Running deterministic checks…",
-        "judge": "Judging answer…",
         "sample_done": "Sample complete.",
     }
     label = phase_labels.get(phase, "Working…")
@@ -63,7 +61,6 @@ def _execute_experiment(task: dict) -> None:
     payload = task["payload"]
     case = Case.from_dict(payload["case"])
     prompt = versions.load_prompt(payload["prompt_id"])
-    rubric = versions.load_rubric(payload["rubric_id"])
     samples = int(payload.get("samples", 1))
 
     def on_progress(phase, sample_index, sample_total, run_id):
@@ -88,7 +85,6 @@ def _execute_experiment(task: dict) -> None:
         case,
         prompt.text,
         prompt.prompt_id,
-        rubric,
         samples=samples,
         on_progress=on_progress,
         context=RunContext(),
@@ -99,20 +95,13 @@ def _execute_experiment(task: dict) -> None:
 
 def _execute_prompt_draft(task: dict) -> None:
     payload = task["payload"]
-    draft = versions.draft_prompt(payload["base_id"], payload.get("review_ids", []))
-    tasks.finish(task["task_id"], result=draft)
-
-
-def _execute_rubric_draft(task: dict) -> None:
-    payload = task["payload"]
-    draft = versions.draft_rubric(payload["base_id"], payload.get("review_ids", []))
+    draft = versions.draft_prompt(payload["base_id"], payload.get("feedback_ids", []))
     tasks.finish(task["task_id"], result=draft)
 
 
 EXECUTORS = {
     tasks.KIND_EXPERIMENT: _execute_experiment,
     tasks.KIND_PROMPT_DRAFT: _execute_prompt_draft,
-    tasks.KIND_RUBRIC_DRAFT: _execute_rubric_draft,
 }
 
 

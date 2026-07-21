@@ -1,70 +1,35 @@
-from harness.models import (
-    Case,
-    CriterionVerdict,
-    Judgment,
-    PromptVersion,
-    RubricVersion,
-    RubricCriterion,
-    RunManifest,
-    SupervisorReview,
-)
+from harness.models import Case, Feedback, PromptVersion, RunManifest
 
 
 def test_version_and_run_contracts_roundtrip():
     prompt = PromptVersion("prompt_v1", 1, "text", "t")
-    rubric = RubricVersion(
-        "rubric_v1",
-        1,
-        [RubricCriterion("quality", "good answer", "llm")],
-        "t",
-    )
     manifest = RunManifest(
         "run_1",
         "case_1",
         "anthropic/claude-fable-5",
-        "openai/gpt-5.6-terra",
         prompt.prompt_id,
-        rubric.rubric_id,
         "t",
     )
     assert PromptVersion.from_dict(prompt.to_dict()) == prompt
-    assert RubricVersion.from_dict(rubric.to_dict()) == rubric
     assert RunManifest.from_dict(manifest.to_dict()) == manifest
 
 
-def test_judgment_roundtrip_and_fail_count():
-    judgment = Judgment(
-        "judg_1",
-        "run_1",
-        "openai/gpt-5.6-terra",
-        [
-            CriterionVerdict("one", "fail", "missing"),
-            CriterionVerdict("two", "pass", "present"),
-        ],
-        "summary",
-        "feedback",
-        "t",
-    )
-    restored = Judgment.from_dict(judgment.to_dict())
-    assert restored == judgment
-    assert restored.fail_count() == 1
+def test_run_manifest_migrates_legacy_judged_status():
+    migrated = RunManifest.from_dict({
+        "run_id": "run_1",
+        "case_id": "case_1",
+        "model": "anthropic/claude-fable-5",
+        "prompt_id": "prompt_v1",
+        "created_at": "t",
+        "status": "judged",
+    })
+    assert migrated.status == "complete"
+    assert migrated.agent_model == "anthropic/claude-fable-5"
 
 
-def test_review_contract_uses_three_targets_and_no_target_for_acceptable():
-    review = SupervisorReview(
-        "rev_1",
-        "run_1",
-        "unacceptable",
-        "wrong behavior",
-        "prompt_issue",
-        "supervisor",
-        "t",
-    )
-    assert SupervisorReview.from_dict(review.to_dict()) == review
-    assert SupervisorReview.from_dict({
-        **review.to_dict(),
-        "failure_attribution": "rubric_gap",
-    }).failure_attribution == "rubric_issue"
+def test_feedback_roundtrip():
+    feedback = Feedback("fb_1", "run_1", 1, "highlighted text", "should be clearer", "t")
+    assert Feedback.from_dict(feedback.to_dict()) == feedback
 
 
 def test_case_roundtrip():

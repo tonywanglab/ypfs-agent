@@ -137,15 +137,17 @@ The runnable agent. `agent.py` is a REPL that drives a frontier model (default `
 ### `benchmarking/`
 Benchmark harness and outputs for evaluating frontier model performance on corpus questions prior to building the RAG pipeline.
 
-## Evaluation harness (two variables)
+## Evaluation harness (one variable)
 
-A Postgres-backed harness around `agent.run()` with exactly two experimental variables: the selected agent system prompt version and selected judge rubric version. The agent model is fixed to Claude Fable 5, the judge model is fixed to GPT 5.6 Terra, and every run starts with empty history. Deterministic checks run first, followed by one direct rubric-judging call. Cases, prompt/rubric versions, runs, reviews, and the background task queue all live in Postgres (`DATABASE_URL` in `.env`) — see `schema.sql`.
+A Postgres-backed harness around `agent.run()` with exactly one experimental variable: the selected agent system prompt version. The agent model is fixed to Claude Fable 5, and every run starts with empty history. There is no automated judge or deterministic-check gate — the supervisor reads each answer directly, selects text in it, and leaves a comment; that feedback list is what drives the next prompt draft. Cases, prompt versions, runs, feedback, and the background task queue all live in Postgres (`DATABASE_URL` in `.env`) — see `schema.sql`.
+
+Upgrading an existing database (one that predates this simplification) requires applying `migrations/001_remove_rubrics_add_feedback.sql` once via `psql "$DATABASE_URL" -f migrations/001_remove_rubrics_add_feedback.sql` — it drops the old rubric/review tables and columns and adds the `feedback` table, preserving existing runs and samples. `python db.py --init` only ever adds objects, so it will not perform this migration on its own.
 
 ### Quick start
 
 ```bash
 python db.py --init             # idempotent: apply schema.sql
-python -m harness seed          # idempotent: cases, rubric_v1, prompt_v1
+python -m harness seed          # idempotent: cases, prompt_v1
 python3 -m pytest tests/ -q     # offline suite (mocked LLM/agent); DB tests skip without TEST_DATABASE_URL/DATABASE_URL
 
 # Supervisor UI + background worker (127.0.0.1 only)
@@ -157,16 +159,16 @@ python -m harness worker --concurrency 3
 
 ### Workflow
 
-1. **Run** — launch a run from `/chat` (or an explicit prompt/rubric pair); it's queued as a `tasks` row and executed by a worker.
-2. **Review** — mark the run acceptable, or attribute an unacceptable result to `prompt_issue`, `rubric_issue`, or `invalid_run`.
-3. **Draft** — select relevant feedback and a base version to ask the fixed editor model for an editable draft (also a queued task).
-4. **Approve** — edit the draft and explicitly save it as the next immutable `prompt_vN` or `rubric_vN`. Discarding the page saves nothing.
+1. **Run** — launch a run from `/chat` against a chosen prompt version; it's queued as a `tasks` row and executed by a worker.
+2. **Give feedback** — on the run page, select text in the answer; a popup lets you attach a comment. Feedback accumulates in a list for that run.
+3. **Draft** — click "Propose prompt edits from feedback" to send the run's feedback list to the fixed editor model for an editable draft (a queued task).
+4. **Approve** — edit the draft and explicitly save it as the next immutable `prompt_vN`. Discarding the page saves nothing.
 
-The dashboard's active-tasks panel shows queued/running tasks of either kind; `GET /tasks/<task_id>/status` is the one polling endpoint for both.
+The dashboard's active-tasks panel shows queued/running tasks; `GET /tasks/<task_id>/status` is the one polling endpoint for both task kinds.
 
 ### `evals/` — pre-migration archive
 
-`evals/runs/`, `evals/reviews/`, `evals/experiments/`, and `evals/jobs/` are leftover file-backed artifacts from before the Postgres migration. Nothing in the harness reads them anymore (cases, versions, runs, reviews, and tasks are all in Postgres now) — they're an inert archive, safe to delete at will. `evals/cases.jsonl` and `evals/rubrics|prompts/*_v1.json` are still committed and read once by `python -m harness seed`.
+`evals/runs/`, `evals/reviews/`, `evals/experiments/`, and `evals/jobs/` are leftover file-backed artifacts from before the Postgres migration. Nothing in the harness reads them anymore (cases, versions, runs, feedback, and tasks are all in Postgres now) — they're an inert archive, safe to delete at will. `evals/cases.jsonl` and `evals/prompts/*_v1.json` are still committed and read once by `python -m harness seed`.
 
 ## Utility Scripts
 

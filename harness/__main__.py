@@ -16,13 +16,13 @@ def _require_database_url() -> None:
         sys.exit(
             "DATABASE_URL not set. Add it to .env, e.g.\n"
             "  DATABASE_URL=postgresql://user:pass@host:5432/dbname?sslmode=require\n"
-            "The harness stores cases, versions, runs, reviews, and tasks in Postgres."
+            "The harness stores cases, prompt versions, runs, feedback, and tasks in Postgres."
         )
 
 
 def _cmd_seed(_args: argparse.Namespace) -> None:
     seed.seed_all()
-    print(f"Seeded {len(seed.load_cases())} cases, rubric_v1, prompt_v1 into Postgres")
+    print(f"Seeded {len(seed.load_cases())} cases, prompt_v1 into Postgres")
 
 
 def _cmd_web(args: argparse.Namespace) -> None:
@@ -47,7 +47,7 @@ def main() -> None:
     parser = argparse.ArgumentParser(description="YPFS evaluation harness")
     sub = parser.add_subparsers(dest="command")
 
-    sub.add_parser("seed", help="Seed cases, rubric v1, and prompt v1")
+    sub.add_parser("seed", help="Seed cases and prompt v1")
 
     web_p = sub.add_parser("web", help="Start the local supervisor UI")
     web_p.add_argument("--host", default="127.0.0.1")

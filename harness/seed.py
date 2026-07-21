@@ -1,9 +1,9 @@
-"""Seed cases and immutable prompt/rubric version-one baselines (Postgres)."""
+"""Seed cases and the immutable prompt version-one baseline (Postgres)."""
 
 from __future__ import annotations
 
 from . import dbio
-from .models import Case, PromptVersion, RubricVersion, RubricCriterion
+from .models import Case, PromptVersion
 from .storage import REPO_ROOT, now_iso
 
 SYSTEM_PROMPT_PATH = REPO_ROOT / "agent" / "system_prompt.md"
@@ -59,116 +59,6 @@ SEED_CASES = [
     ),
 ]
 
-SEED_RUBRIC_CRITERIA = [
-    RubricCriterion(
-        id="survey_shapes_reasoning",
-        description=(
-            "Uses survey documents to shape the overarching analytical framing and plan "
-            "structure."
-        ),
-        check_type="llm",
-    ),
-    RubricCriterion(
-        id="case_study_support",
-        description=(
-            "When making design suggestions, cites case studies similar to the user's "
-            "problem and relevant to any surveys retrieved, rather than citing surveys "
-            "directly."
-        ),
-        check_type="llm",
-    ),
-    RubricCriterion(
-        id="no_survey_citations",
-        description="Never cites a document whose document_type is 'survey'.",
-        check_type="deterministic",
-        deterministic_check="no_survey_citations",
-    ),
-    RubricCriterion(
-        id="citations_resolve",
-        description=(
-            "Every cited doc_id resolves to real corpus metadata and was actually "
-            "retrieved or fetched during the run."
-        ),
-        check_type="deterministic",
-        deterministic_check="citations_resolve",
-    ),
-    RubricCriterion(
-        id="completed_without_error",
-        description=(
-            "The run produced a substantive final answer without a tool error or hitting "
-            "the step limit."
-        ),
-        check_type="deterministic",
-        deterministic_check="completed_without_error",
-    ),
-    RubricCriterion(
-        id="options_structure",
-        description=(
-            "When asked for a plan or recommendation, presents multiple named "
-            "options/archetypes with tradeoffs rather than a single prescriptive answer."
-        ),
-        check_type="llm",
-    ),
-    RubricCriterion(
-        id="advisory_stance",
-        description=(
-            "Illuminates options and tradeoffs for the principal to decide, rather than "
-            "issuing an unqualified directive."
-        ),
-        check_type="llm",
-    ),
-    RubricCriterion(
-        id="bagehot_modernized",
-        description=(
-            "Treats Bagehot's dictum accurately ('lend freely, against good collateral, "
-            "at a high rate') and does not treat 'lend only to solvent institutions' as "
-            "canonical Bagehot doctrine."
-        ),
-        check_type="llm",
-    ),
-    RubricCriterion(
-        id="terminology_discipline",
-        description=(
-            "Handles loaded crisis terminology such as solvency, liquidity, and moral "
-            "hazard with skepticism and precision rather than using labels as conclusions."
-        ),
-        check_type="llm",
-    ),
-    RubricCriterion(
-        id="viability_framing",
-        description=(
-            "Reframes solvency questions around whether creditors and markets believe "
-            "the institution can continue as a going concern."
-        ),
-        check_type="llm",
-    ),
-    RubricCriterion(
-        id="moral_hazard_placement",
-        description=(
-            "When moral hazard is relevant, locates mitigation primarily in follow-on "
-            "structural interventions rather than punitive emergency-loan conditions."
-        ),
-        check_type="llm",
-    ),
-    RubricCriterion(
-        id="stigma_and_penalty_pricing",
-        description=(
-            "Analyzes how punitive pricing and stigma can deter emergency borrowing and "
-            "undermine a targeted intervention."
-        ),
-        check_type="llm",
-    ),
-    RubricCriterion(
-        id="precedent_coverage",
-        description=(
-            "Retrieves and cites the most relevant historical case-study precedents in "
-            "the corpus for the design question."
-        ),
-        check_type="llm",
-    ),
-]
-
-
 def _case_from_row(row: dict) -> Case:
     return Case(
         case_id=row["case_id"],
@@ -210,29 +100,6 @@ def seed_cases() -> list[Case]:
     return load_cases()
 
 
-def seed_rubric_v1() -> RubricVersion:
-    rubric = RubricVersion(
-        rubric_id="rubric_v1",
-        version=1,
-        criteria=SEED_RUBRIC_CRITERIA,
-        created_at=now_iso(),
-        rationale="Seeded from agent/system_prompt.md source-hierarchy and output-format policy.",
-    )
-    dbio.execute(
-        """
-        INSERT INTO rubric_versions (rubric_id, version, criteria, created_at,
-                                     parent_rubric_id, rationale)
-        VALUES (%s, %s, %s, %s, %s, %s)
-        ON CONFLICT (rubric_id) DO NOTHING
-        """,
-        (rubric.rubric_id, rubric.version,
-         dbio.jsonb([c.to_dict() for c in rubric.criteria]),
-         rubric.created_at, rubric.parent_rubric_id, rubric.rationale),
-    )
-    from . import versions
-    return versions.load_rubric("rubric_v1")
-
-
 def seed_prompt_v1() -> PromptVersion:
     prompt = PromptVersion(
         prompt_id="prompt_v1",
@@ -257,10 +124,9 @@ def seed_prompt_v1() -> PromptVersion:
 
 def seed_all() -> None:
     seed_cases()
-    seed_rubric_v1()
     seed_prompt_v1()
 
 
 if __name__ == "__main__":
     seed_all()
-    print(f"Seeded {len(load_cases())} cases, rubric_v1, prompt_v1 into Postgres")
+    print(f"Seeded {len(load_cases())} cases, prompt_v1 into Postgres")

@@ -1,0 +1,39 @@
+{#
+  Form action row matching version-builder: full-width primary, optional centered
+  text secondary below.
+
+  Usage:
+    {% from "macros/form_actions.html" import form_actions %}
+    {{ form_actions("Save", cancel_href=url_for('dashboard')) }}
+    {{ form_actions("Save", cancel_href=url_for('dashboard'), cancel_label="Discard draft") }}
+    {{ form_actions("Apply", cancel_href=url_for('runs_list'), cancel_label="Clear", extra_class="runs-filter-actions") }}
+
+  For custom primary controls (spinner, extra attrs), use form_actions_start /
+  form_actions_end and keep the same order: primary, then secondary.
+#}
+{% macro form_actions(
+  primary_label,
+  cancel_href=None,
+  cancel_label="Cancel",
+  primary_class="primary",
+  button_type="submit",
+  extra_class=""
+) %}
+<div class="form-actions{% if extra_class %} {{ extra_class }}{% endif %}">
+  <button type="{{ button_type }}" class="{{ primary_class }}">{{ primary_label }}</button>
+  {% if cancel_href %}
+  <a href="{{ cancel_href }}" class="form-actions-secondary">{{ cancel_label }}</a>
+  {% endif %}
+</div>
+{% endmacro %}
+
+{% macro form_actions_start(extra_class="") %}
+<div class="form-actions{% if extra_class %} {{ extra_class }}{% endif %}">
+{% endmacro %}
+
+{% macro form_actions_end(cancel_href=None, cancel_label="Cancel") %}
+  {% if cancel_href %}
+  <a href="{{ cancel_href }}" class="form-actions-secondary">{{ cancel_label }}</a>
+  {% endif %}
+</div>
+{% endmacro %}

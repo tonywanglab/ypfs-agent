@@ -1,6 +1,4 @@
-"""Two-variable, file-backed evaluation harness.
-
-The only experimental inputs are the selected agent system prompt version and
-judge rubric version. Agent and judge models and the direct judging protocol
-are fixed by harness.config.
+"""Evaluation harness with a single experimental input: the agent system
+prompt version. The agent model is fixed by harness.config; supervisor
+feedback on a run's answer drives the next prompt version.
 """

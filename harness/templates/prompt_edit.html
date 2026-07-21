@@ -1,5 +1,6 @@
 {% extends "base.html" %}
 {% from "macros/markdown_editor.html" import markdown_editor %}
+{% from "macros/form_actions.html" import form_actions %}
 {% block title %}Edit {{ prompt.prompt_id }} — Eval Harness{% endblock %}
 {% block main_class %}main-wide{% endblock %}
 {% block content %}
@@ -23,10 +24,7 @@
     <label>Version rationale
       <textarea name="rationale" rows="4" placeholder="Why create a new prompt version?">{{ rationale }}</textarea>
     </label>
-    <div class="form-actions">
-      <a href="{{ url_for('dashboard') }}">Cancel</a>
-      <button type="submit" class="primary">Save as next prompt version</button>
-    </div>
+    {{ form_actions("Save", cancel_href=url_for('dashboard')) }}
   </form>
 </section>
 {% endblock %}

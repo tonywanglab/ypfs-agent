@@ -2,7 +2,7 @@
 Eval-driven development harness.
 
 Thin wrapper over harness.runner for running versioned cases against an
-explicit prompt/rubric pair. The legacy Case/check API remains for simple
+explicit prompt version. The legacy Case/check API remains for simple
 boolean smoke tests.
 """
 
@@ -34,16 +34,14 @@ CASES: list[Case] = []
 def run_harness_evals(
     case_ids: list[str] | None = None,
     prompt_id: str | None = None,
-    rubric_id: str | None = None,
 ) -> list[dict]:
-    """Run cases using explicit versions, defaulting to the latest files."""
+    """Run cases using an explicit prompt version, defaulting to the latest."""
     prompt = versions.load_prompt(prompt_id) if prompt_id else versions.latest_prompt()
-    rubric = versions.load_rubric(rubric_id) if rubric_id else versions.latest_rubric()
     cases = load_cases()
     if case_ids:
         wanted = set(case_ids)
         cases = [c for c in cases if c.case_id in wanted]
-    manifests = run_batch(cases, prompt.text, prompt.prompt_id, rubric)
+    manifests = run_batch(cases, prompt.text, prompt.prompt_id)
     return [m.to_dict() for m in manifests]
 
 

@@ -2,7 +2,7 @@
 {% block title %}Experiment — Eval Harness{% endblock %}
 {% block content %}
 <h1>Start a run</h1>
-<p class="muted">Choose the two experimental variables: agent system prompt and judge rubric.</p>
+<p class="muted">Choose the system prompt version to run against.</p>
 
 {% if not openrouter_configured %}
 <section class="warn-banner">
@@ -31,7 +31,12 @@
 
 <div class="chat-layout">
   <aside class="chat-config">
-    <form method="post" action="{{ url_for('chat_run') }}" id="experiment-form">
+    <form method="post" action="{{ url_for('chat_run') }}" id="experiment-form"
+      data-active-job="experiment"
+      data-active-job-track-only
+      data-active-job-return="{{ url_for('chat') }}"
+      data-status-url-template="{{ url_for('task_status', task_id='__JOB_ID__') }}"
+      data-job-id-field="task_id">
       <input type="hidden" name="task_id" value="{{ task_id }}">
       <div>
         <fieldset>
@@ -44,18 +49,6 @@
                 <option value="{{ p.prompt_id }}"
                   {% if p.prompt_id == selected_prompt_id %}selected{% endif %}>
                   {{ p.prompt_id }}
-                </option>
-              {% endfor %}
-            </select>
-          </label>
-
-          <label>
-            Rubric
-            <select name="rubric_id" required>
-              {% for r in rubrics %}
-                <option value="{{ r.rubric_id }}"
-                  {% if r.rubric_id == selected_rubric_id %}selected{% endif %}>
-                  {{ r.rubric_id }}
                 </option>
               {% endfor %}
             </select>
@@ -102,7 +95,7 @@
         {% endif %}
       </div>
 
-      <div class="chat-submit-row">
+      <div class="form-actions">
         <button type="submit" class="primary chat-submit" id="chat-submit">
           <span class="chat-submit-content">
             <span class="chat-submit-label">Queue run</span>
@@ -115,15 +108,14 @@
   <section class="chat-help">
     <h2>How it works</h2>
     <ul class="item-list">
-      <li>Each sample runs with empty history and the selected prompt/rubric pair.</li>
+      <li>Each sample runs with empty history and the selected prompt version.</li>
       <li>The agent is fixed to <code>{{ fixed_agent_model }}</code>.</li>
-      <li>The direct judge is fixed to <code>{{ fixed_judge_model }}</code>.</li>
-      <li>Versioned prompts and rubrics come from <code>evals/prompts/</code> and <code>evals/rubrics/</code>.</li>
+      <li>Versioned prompts come from immutable <code>prompt_v{N}</code> rows.</li>
       <li>Multiple samples live in one run — switch between them on the run detail page.</li>
       <li>Queuing a run doesn't block this page — queue as many as you like and keep configuring the next one.</li>
-      <li>Runs appear on the Runs page and can be reviewed from the dashboard.</li>
+      <li>Select text in a run's answer to leave feedback, then propose a new prompt version from that run's page.</li>
     </ul>
-    <p class="meta">Form defaults: prompt={{ selected_prompt_id }} · rubric={{ selected_rubric_id }}</p>
+    <p class="meta">Form default: prompt={{ selected_prompt_id }}</p>
   </section>
 </div>
 
