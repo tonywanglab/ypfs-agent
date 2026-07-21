@@ -77,10 +77,10 @@ def create_app() -> Flask:
         run_labels = {
             row["run_id"]: _run_label(row["query"] or "") for row in snapshots
         }
-        active_tasks = [
-            task for task in tasks.list_active()
-            if task["kind"] != tasks.KIND_EXPERIMENT
-        ]
+        active_tasks = sorted(
+            tasks.list_active(),
+            key=lambda task: task["created_at"] or "",
+        )
         return render_template(
             "dashboard.html",
             recent_runs=recent_runs,
@@ -181,6 +181,14 @@ def create_app() -> Flask:
         label = f"{samples} sample{'s' if samples > 1 else ''}"
         flash(f"Queued run ({label}).", "success")
         return redirect(url_for("chat"))
+
+    @app.route("/tasks/active")
+    def tasks_active():
+        kind = request.args.get("kind", "all").strip()
+        active = tasks.list_active()
+        if kind and kind != "all":
+            active = [task for task in active if task["kind"] == kind]
+        return jsonify(active)
 
     @app.route("/tasks/<task_id>/status")
     def task_status(task_id: str):

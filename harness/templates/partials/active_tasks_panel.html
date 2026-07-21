@@ -1,0 +1,17 @@
+<section id="{{ panel_id }}" data-active-tasks-panel data-active-tasks-kind="{{ task_kind | default('all') }}">
+  <div class="section-head">
+    <h2>{{ title }} <span class="count-badge" data-active-tasks-count>{{ tasks|length }}</span></h2>
+  </div>
+  <ul class="item-list" data-active-tasks-list {% if not tasks %}hidden{% endif %}>
+    {% for task in tasks %}
+      <li class="dashboard-list-row" data-task-row data-task-id="{{ task.task_id }}">
+        <div class="dashboard-list-content">
+          <a href="{{ url_for('task_detail', task_id=task.task_id) }}">{{ task.task_id }}</a>
+          <span class="badge neutral" data-task-status>{{ task.status }}</span>
+          <span class="muted" data-task-message>{{ task.progress.message or '' }}</span>
+        </div>
+      </li>
+    {% endfor %}
+  </ul>
+  <p class="empty-state compact" data-active-tasks-empty {% if tasks %}hidden{% endif %}>{{ empty_message }}</p>
+</section>

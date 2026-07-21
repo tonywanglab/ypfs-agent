@@ -341,6 +341,20 @@ def test_delete_run_route_cascades_feedback(pg, monkeypatch):
     assert feedback.feedback_for_run("run_aaaaaaaaaaaa") == []
 
 
+def test_tasks_active_endpoint_filters_by_kind(pg, monkeypatch):
+    client = _client(pg, monkeypatch)
+    experiment_id = tasks.new_task_id()
+    draft_id = tasks.new_task_id()
+    tasks.enqueue(tasks.KIND_EXPERIMENT, {"query": "q"}, task_id=experiment_id)
+    tasks.enqueue(tasks.KIND_PROMPT_DRAFT, {"base_id": "prompt_v1"}, task_id=draft_id)
+
+    all_active = client.get("/tasks/active").get_json()
+    assert {task["task_id"] for task in all_active} == {experiment_id, draft_id}
+
+    experiments = client.get("/tasks/active?kind=experiment").get_json()
+    assert [task["task_id"] for task in experiments] == [experiment_id]
+
+
 def test_chat_page_tracks_experiments_without_locking_the_form(pg, monkeypatch):
     client = _client(pg, monkeypatch)
     body = client.get("/chat").get_data(as_text=True)

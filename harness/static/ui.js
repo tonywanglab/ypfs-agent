@@ -387,51 +387,79 @@
   ActiveJob.init();
 
   (function pollActiveTasksPanel() {
-    var list = document.getElementById("active-tasks-list");
-    var countEl = document.querySelector("[data-active-tasks-count]");
-    var emptyEl = document.querySelector("[data-active-tasks-empty]");
-    var rows = document.querySelectorAll("[data-task-row]");
-    if (!rows.length) return;
+    function taskRowHtml(task) {
+      var href = "/tasks/" + encodeURIComponent(task.task_id);
+      var message = (task.progress && task.progress.message) || "";
+      return (
+        '<li class="dashboard-list-row" data-task-row data-task-id="' + task.task_id + '">' +
+          '<div class="dashboard-list-content">' +
+            '<a href="' + href + '">' + task.task_id + "</a>" +
+            '<span class="badge neutral" data-task-status>' + task.status + "</span>" +
+            '<span class="muted" data-task-message>' + message + "</span>" +
+          "</div>" +
+        "</li>"
+      );
+    }
 
-    // Updates rows in place and drops finished/failed ones — no full-page
-    // reload. A task finishing shouldn't yank the supervisor away from
-    // whatever else they're reading on the dashboard.
-    function poll() {
-      var stillActive = false;
-      var fetches = Array.prototype.map.call(rows, function (row) {
-        var taskId = row.getAttribute("data-task-id");
-        if (!taskId) return Promise.resolve();
-        return window.fetch("/tasks/" + encodeURIComponent(taskId) + "/status", {
-          headers: { Accept: "application/json" },
+    function syncPanel(panel) {
+      var list = panel.querySelector("[data-active-tasks-list]");
+      var countEl = panel.querySelector("[data-active-tasks-count]");
+      var emptyEl = panel.querySelector("[data-active-tasks-empty]");
+      if (!list) return Promise.resolve(false);
+
+      var kind = panel.dataset.activeTasksKind || "all";
+      var url = kind === "all" ? "/tasks/active" : "/tasks/active?kind=" + encodeURIComponent(kind);
+
+      return window.fetch(url, { headers: { Accept: "application/json" } })
+        .then(function (response) {
+          if (!response.ok) throw new Error("active tasks request failed");
+          return response.json();
         })
-          .then(function (response) { return response.json(); })
-          .then(function (data) {
-            if (data.status === "queued" || data.status === "running") {
-              var statusEl = row.querySelector("[data-task-status]");
-              var messageEl = row.querySelector("[data-task-message]");
-              if (statusEl) statusEl.textContent = data.status;
-              if (messageEl) messageEl.textContent = (data.progress && data.progress.message) || "";
-              stillActive = true;
-            } else {
-              row.remove();
+        .then(function (activeTasks) {
+          var seen = Object.create(null);
+          activeTasks.forEach(function (task) {
+            seen[task.task_id] = true;
+            var row = list.querySelector('[data-task-row][data-task-id="' + task.task_id + '"]');
+            if (!row) {
+              list.insertAdjacentHTML("beforeend", taskRowHtml(task));
+              return;
             }
-          })
-          .catch(function () {});
-      });
-      Promise.all(fetches).then(function () {
-        rows = document.querySelectorAll("[data-task-row]");
-        if (countEl) countEl.textContent = String(rows.length);
-        if (!rows.length) {
-          if (list) list.hidden = true;
-          if (emptyEl) emptyEl.hidden = false;
-        }
-        if (stillActive) {
-          window.setTimeout(poll, 2000);
-        }
+            var statusEl = row.querySelector("[data-task-status]");
+            var messageEl = row.querySelector("[data-task-message]");
+            if (statusEl) statusEl.textContent = task.status;
+            if (messageEl) {
+              messageEl.textContent = (task.progress && task.progress.message) || "";
+            }
+          });
+
+          list.querySelectorAll("[data-task-row]").forEach(function (row) {
+            var taskId = row.getAttribute("data-task-id");
+            if (!taskId || seen[taskId]) return;
+            row.remove();
+          });
+
+          var count = list.querySelectorAll("[data-task-row]").length;
+          if (countEl) countEl.textContent = String(count);
+          list.hidden = count === 0;
+          if (emptyEl) emptyEl.hidden = count !== 0;
+          return count > 0;
+        })
+        .catch(function () {
+          return list.querySelectorAll("[data-task-row]").length > 0;
+        });
+    }
+
+    var panels = document.querySelectorAll("[data-active-tasks-panel]");
+    if (!panels.length) return;
+
+    function poll() {
+      var fetches = Array.prototype.map.call(panels, syncPanel);
+      Promise.all(fetches).finally(function () {
+        window.setTimeout(poll, 2000);
       });
     }
 
-    window.setTimeout(poll, 2000);
+    poll();
   })();
 
   function syncSamplesRange(range) {
